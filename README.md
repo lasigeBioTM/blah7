@@ -1,6 +1,6 @@
 # BLAH7: Annotating a multilingual COVID-19-related corpus
 
-##Group Information
+## Group Information
 
 - **Authors:** Márcia Barros, Pedro Ruas, Diana Sousa, and Francisco M. Couto
 - **E-mail addresses:** (mcbarros, psruas, dfsousa, fjcouto)@fc.ul.pt

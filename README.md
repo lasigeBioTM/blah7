@@ -3,7 +3,7 @@
 ## Group Information
 
 - **Authors:** Márcia Barros, Pedro Ruas, Diana Sousa, and Francisco M. Couto
-- **E-mail addresses:** (mcbarros, psruas, dfsousa, fjcouto)@fc.ul.pt
+- **E-mail addresses:** (*mcbarros*, *psruas*, *dfsousa*, *fjcouto*)@fc.ul.pt
 - **Instituition:** LASIGE, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
 ## How the Annotations are Developed
@@ -34,11 +34,9 @@ Subset of annotations in the corpus for crowd evaluation
 
 #### Pipeline with Example
 
-#<p align="center">
 #  <img src="https://github.com/lasigeBioTM/blah7/blob/main/pipeline.png">
-#</p>
 
-##Global Motivation
+## Global Motivation
 
 The global motivation is the creation of parallel multilingual datasets for text mining systems in COVID-related literature. Tracking the most recent advances in the COVID-related research is essential given the novelty of the disease and its impact on society, but the pace of publication requires automatic approaches in order to access and organize the knowledge that keeps being produced everyday. It is necessary to develop text mining pipelines to assist in that task, which is only possible with evaluation datasets. However, there is a lack of COVID-related datasets, even more if considering other languages besides English. The expected contribution of the project will be the annotation of a multilingual parallel dataset, providing this resource to the community in order to improve the text mining research on COVID-related literature. 
 

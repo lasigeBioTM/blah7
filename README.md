@@ -17,16 +17,13 @@ Lastly, we manually correct the annotations in a selected subset of the silver s
 ### Methodology 
 
 The **first part** consists of the document retrieval by two different approaches:
-- Download of .tsv file with [LitCovid citations](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download).
-Consider the PMIDs in the file, retrieve the respective abstracts from PubMed using the available API, and filter those with English and Spanish abstracts simultaneously (or English and Portuguese).
+- Download of .tsv file with [LitCovid citations](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download). Consider the PMIDs in the file, retrieve the respective abstracts from PubMed using the available API, and filter those with English and Spanish abstracts simultaneously (or English and Portuguese).
 
 Or instead:
 
- - Retrieve PubMed articles with the available API using the search profile: *new coronavirus\* OR novel coronavirus\* OR ncov OR sars-cov OR covid\* OR cov-2 OR cov-19* and then filter those with English and Spanish abstracts simultaneously (or English and Portuguese)
+- Retrieve PubMed articles with the available API using the search profile: *new coronavirus\* OR novel coronavirus\* OR ncov OR sars-cov OR covid\* OR cov-2 OR cov-19* and then filter those with English and Spanish abstracts simultaneously (or English and Portuguese)
 
-
-The **second part** consists of the application of the COVID-19 text mining pipeline.
-The entity extraction module performs NER by applying the MER tool, which can recognize Disease, Chemical, Anatomy entities and link them to the respective vocabulary identifiers. On English texts, the recognized entities will be linked to MeSh identifiers using the *CTD Disease (MEDIC)*, *CTD Chemical*, and *CTD Anatomy* vocabularies or, in alternative, the *Coronavirus Infectious Disease Ontology (CIDO)*. On Spanish/Portuguese texts the recognized entities will be linked to MeSH identifiers through the DeCS vocabulary.
+The **second part** consists of the application of the COVID-19 text mining pipeline. The entity extraction module performs NER by applying the MER tool, which can recognize Disease, Chemical, Anatomy entities and link them to the respective vocabulary identifiers. On English texts, the recognized entities will be linked to MeSh identifiers using the *CTD Disease (MEDIC)*, *CTD Chemical*, and *CTD Anatomy* vocabularies or, in alternative, the *Coronavirus Infectious Disease Ontology (CIDO)*. On Spanish/Portuguese texts the recognized entities will be linked to MeSH identifiers through the DeCS vocabulary.
 
 The **third part** regards the relation extraction module which performs RE by applying the BiOnt system, which was built to allow the extraction of relations between multiple biomedical entities supported by ontologies. Using the MeSh identifiers or the CIDO ontology linked to the recognized Disease, Chemical, Anatomy entities the BiOnt system can identify relations between those entities, provided we can use the pre-trained models trained on available training data. Additionally, the BiOnt system must be adapted to allow the identification of negative relations. 
 
@@ -36,7 +33,7 @@ Finally, in the **fourth part**, the recommender system dataset, is created thro
 
 Subset of annotations in the corpus for crowd evaluation.
 
-### Pipeline with Example
+### Pipeline with Example (PMID:33220478)
 
 #  <img src="https://github.com/lasigeBioTM/blah7/blob/main/pipeline.png">
 

@@ -28,11 +28,11 @@ The Relation Extraction module performs RE by applying the BiOnt system, which w
 
 The recommender system dataset is created through LIBRETTI methodology, which was developed with the goal of creating scientific recommendation dataset using research literature to extract implicit feedback. This dataset allows the recommendation of COVID-19 related entities of interest for a researcher, which could be lost for the researchers in the large number of entities enclosed in the literature.  
 
-#### Evaluation
+### Evaluation
 
 Subset of annotations in the corpus for crowd evaluation
 
-#### Pipeline with Example
+### Pipeline with Example
 
 #  <img src="https://github.com/lasigeBioTM/blah7/blob/main/pipeline.png">
 

@@ -27,11 +27,18 @@ The **second part** consists of the application of the COVID-19 text mining pipe
 
 The **third part** regards the relation extraction module which performs RE by applying the BiOnt system, which was built to allow the extraction of relations between multiple biomedical entities supported by ontologies. Using the MeSh identifiers or the CIDO ontology linked to the recognized Disease, Chemical, Anatomy entities the BiOnt system can identify relations between those entities, provided we can use the pre-trained models trained on available training data. Additionally, the BiOnt system must be adapted to allow the identification of negative relations. 
 
-Finally, in the **fourth part**, the recommender system dataset, is created through LIBRETTI methodology, which was developed with the goal of creating scientific recommendation dataset using research literature to extract implicit feedback. This dataset allows the recommendation of COVID-19 related entities of interest for a researcher, which could be lost for the researchers in the large number of entities enclosed in the literature.  
+Finally, in the **fourth part**, the recommender system dataset, is created through LIBRETTI methodology, which was developed with the goal of creating scientific recommendation dataset using research literature to extract implicit feedback. 
+This dataset allows the recommendation of COVID-19 related entities of interest for a researcher, which could be lost for the researchers in the large number of entities enclosed in the literature.  
+
+
 
 ### Evaluation
 
 Subset of annotations in the corpus for crowd evaluation.
+
+The recommendation dataset is evaluated in two phases, first automatically, testing the dataset before and after the 
+curation of the previous phases (NER and RE), and second, manually, with experts testing if the recommendation are 
+suitable for the users, according to their previous preferences.
 
 ### Pipeline with Example (PMID:33220478)
 
@@ -42,11 +49,14 @@ Subset of annotations in the corpus for crowd evaluation.
 - Retrieval of XX COVID-related articles;
 - Automatically annotation of the articles;
 - Manual correction of the automatic annotations in a subset of XX articles;
-- Expansion of the annotations set in the subset.
+- Expansion of the annotations set in the subset;
+- Automatic evaluation of the recommendation dataset;
+- Manual evaluation of the recommendation dataset.
 
 ## Relevant Publications
 
 -  Barros, M. A., Lamurias, A., Sousa, D., Ruas, P., & Couto, F. M. (2020). [COVID-19: A Semantic-Based Pipeline for Recommending Biomedical Entities](https://www.aclweb.org/anthology/2020.nlpcovid19-2.20/). In Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020.
+- Barros, Márcia, André Moitinho, and Francisco M. Couto. [Using research literature to generate datasets of implicit feedback for recommending scientific items.](https://ieeexplore.ieee.org/abstract/document/8924687) IEEE Access 7 (2019): 176668-176680.
 - Sousa, D., Lamurias, A., & Couto, F. M. (*in press*). A Hybrid Approach toward Biomedical Relation Extraction Training Corpora: Combining Distant Supervision with Crowdsourcing. Database.
 - Sousa, D., Lamurias, A., & Couto, F. M. (2020). [Improving accessibility and distinction between negative results in biomedical relation extraction](https://genominfo.org/journal/view.php?number=606&viewtype=pubreader). Genomics & Informatics, 18(2). 
 - Sousa, D., Lamurias, A., & Couto, F. M. (2019). [A Silver Standard Corpus of Human Phenotype-Gene Relations](https://www.aclweb.org/anthology/N19-1152/). In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1487–1492.

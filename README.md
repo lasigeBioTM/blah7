@@ -4,7 +4,7 @@
 
 - **Authors:** Márcia Barros, Pedro Ruas, Diana Sousa, and Francisco M. Couto
 - **E-mail addresses:** (*mcbarros*, *psruas*, *dfsousa*, *fjcouto*)@fc.ul.pt
-- **Instituition:** LASIGE, Faculdade de Ciências, Universidade de Lisboa, Portugal
+- **Institution:** LASIGE, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
 ## Global Motivation
 
@@ -46,9 +46,9 @@ suitable for the users, according to their previous preferences.
 
 ## Goals for BLAH7
 
-- Retrieval of XX COVID-related articles;
+- Retrieval of a sample of COVID-related articles;
 - Automatically annotation of the articles;
-- Manual correction of the automatic annotations in a subset of XX articles;
+- Manual correction of the automatic annotations in a subset the articles;
 - Expansion of the annotations set in the subset;
 - Automatic evaluation of the recommendation dataset;
 - Manual evaluation of the recommendation dataset.
@@ -60,6 +60,7 @@ suitable for the users, according to their previous preferences.
 - Sousa, D., Lamurias, A., & Couto, F. M. (*in press*). A Hybrid Approach toward Biomedical Relation Extraction Training Corpora: Combining Distant Supervision with Crowdsourcing. Database.
 - Sousa, D., Lamurias, A., & Couto, F. M. (2020). [Improving accessibility and distinction between negative results in biomedical relation extraction](https://genominfo.org/journal/view.php?number=606&viewtype=pubreader). Genomics & Informatics, 18(2). 
 - Sousa, D., Lamurias, A., & Couto, F. M. (2019). [A Silver Standard Corpus of Human Phenotype-Gene Relations](https://www.aclweb.org/anthology/N19-1152/). In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1487–1492.
+- Couto, F. and Lamurias, A. (2018). [MER: a Shell Script and Annotation Server for Minimal Named Entity Recognition and Linking](https://doi.org/10.1186/s13321-018-0312-9). Journal of Cheminformatics, 10:58, 2018. 
 
 
 

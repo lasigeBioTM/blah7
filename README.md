@@ -56,11 +56,11 @@ suitable for the users, according to their previous preferences.
 ## Relevant Publications
 
 -  Barros, M. A., Lamurias, A., Sousa, D., Ruas, P., & Couto, F. M. (2020). [COVID-19: A Semantic-Based Pipeline for Recommending Biomedical Entities](https://www.aclweb.org/anthology/2020.nlpcovid19-2.20/). In Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020.
-- Barros, Márcia, André Moitinho, and Francisco M. Couto. [Using research literature to generate datasets of implicit feedback for recommending scientific items.](https://ieeexplore.ieee.org/abstract/document/8924687) IEEE Access 7 (2019): 176668-176680.
+- Barros, M., Moitinho., A., & Couto, F. M.  (2019). [Using research literature to generate datasets of implicit feedback for recommending scientific items.](https://ieeexplore.ieee.org/abstract/document/8924687) IEEE Access 7: 176668-176680.
 - Sousa, D., Lamurias, A., & Couto, F. M. (*in press*). A Hybrid Approach toward Biomedical Relation Extraction Training Corpora: Combining Distant Supervision with Crowdsourcing. Database.
 - Sousa, D., Lamurias, A., & Couto, F. M. (2020). [Improving accessibility and distinction between negative results in biomedical relation extraction](https://genominfo.org/journal/view.php?number=606&viewtype=pubreader). Genomics & Informatics, 18(2). 
 - Sousa, D., Lamurias, A., & Couto, F. M. (2019). [A Silver Standard Corpus of Human Phenotype-Gene Relations](https://www.aclweb.org/anthology/N19-1152/). In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1487–1492.
-- Couto, F. and Lamurias, A. (2018). [MER: a Shell Script and Annotation Server for Minimal Named Entity Recognition and Linking](https://doi.org/10.1186/s13321-018-0312-9). Journal of Cheminformatics, 10:58, 2018. 
+- Couto, F. & Lamurias, A. (2018). [MER: a Shell Script and Annotation Server for Minimal Named Entity Recognition and Linking](https://doi.org/10.1186/s13321-018-0312-9). Journal of Cheminformatics, 10:58, 2018. 
 
 
 

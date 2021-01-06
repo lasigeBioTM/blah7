@@ -34,7 +34,7 @@ Args:
 Example for lexicon processing:
 
 ```
-python mer_entities.py setup
+python mer_entities.py setup ''
 ```
 
 Example for document annotation:

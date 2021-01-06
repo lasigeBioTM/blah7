@@ -33,9 +33,13 @@ Args:
 
 Example for lexicon processing:
 
-```python mer_entities.py setup```
+```
+python mer_entities.py setup
+```
 
 Example for document annotation:
-```python mer_entities.py annotate ../abstracts_covid_19/en+pt/pt```
+```
+python mer_entities.py annotate ../abstracts_covid_19/en+pt/pt
+```
 
 The dir '../abstracts_covid_19/en+pt/pt_entities' will include the output files. 

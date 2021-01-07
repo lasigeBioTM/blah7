@@ -9,15 +9,9 @@ In English abstracts, extracted entities are linked to concepts of the following
 - [Human Phenotype Ontology](https://hpo.jax.org/app/) ("hpo")
 - [ChEBI ontology](https://www.ebi.ac.uk/chebi/) ("chebi")
 - [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) ("taxon")
-- [DeCS](https://decs.bvsalud.org/en/)(September 2020 version)("decsEN")
+- [DeCS](https://decs.bvsalud.org/en/) (September 2020 version - "decsEN")
 
 In Portuguese and Spanish abstracts, extracted entities are linked to concepts of the respective version of [DeCS](https://decs.bvsalud.org/en/) (September 2020 versions), respectively, "decsPT" and "decsSPA".
-
-The following command downloads ontology files related with MEDIC, CTD-Chemicals and CTD-Anatomy:
-
-```
-download_data.sh
-```
 
 The following command executes the script "mer_entities.py":
 

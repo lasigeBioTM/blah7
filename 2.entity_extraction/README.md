@@ -2,18 +2,16 @@
 
 This module extracts entities present in the retrieved documents and it is based on python implementation of [MER](https://pypi.org/project/merpy/).
 
-In English abstracts, extracted entities are linked to concepts of the following ontologies:   
+In English abstracts, extracted entities are linked to concepts of the following ontologies (latest versions available as of January 2020):   
 
 - [Disease Ontology](https://disease-ontology.org/) ("do")
 - [Gene Ontology](http://geneontology.org/) ("go")
 - [Human Phenotype Ontology](https://hpo.jax.org/app/) ("hpo")
 - [ChEBI ontology](https://www.ebi.ac.uk/chebi/) ("chebi")
 - [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) ("taxon")
-- [MEDIC](http://ctdbase.org/voc.go?type=disease) ("medic")
-- [CTD-Chemicals](http://ctdbase.org/voc.go?type=chem) ("ctdChemicals")
-- [CTD- Anatomy](http://ctdbase.org/voc.go?type=anatomy) ("ctdAnatomy")
+- [DeCS](https://decs.bvsalud.org/en/) ("decsEN")
 
-In Portuguese and Spanish abstracts, extracted entities are linked to concepts of the respective version of [DeCS](https://decs.bvsalud.org/en/).
+In Portuguese and Spanish abstracts, extracted entities are linked to concepts of the respective version of [DeCS](https://decs.bvsalud.org/en/) (September 2020 versions), respectively, "decsPT" and "decsSPA".
 
 The following command downloads ontology files related with MEDIC, CTD-Chemicals and CTD-Anatomy:
 

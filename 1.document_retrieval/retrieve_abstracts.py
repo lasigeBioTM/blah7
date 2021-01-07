@@ -12,13 +12,13 @@ def output_article_to_json(doc_id, eng_title, eng_abstract, lang, version, lang_
     """Generates two distinct json files including title and abstract from considered article.
 
     Requires:
-        doc_id: is str
-        eng_title: is stri
-        eng_abstract: is str
+        doc_id: is str, document id
+        eng_title: is str, english title
+        eng_abstract: is str, english abstract text
         lang: is str, represents 2nd language: 'pt' (Portuguese) or 'spa' (Spanish)
-        version: is str, 
-        lang_title: is str
-        lang_abstract: is str
+        version: is str, either "covid_19" or "large"
+        lang_title: is str, corresponds to title in second chosen language
+        lang_abstract: is str, corresponds to abstract text in second chosen language
         authors: is list with info (name, institution) about article authors 
 
     Ensures:
@@ -41,8 +41,8 @@ def output_article_to_json(doc_id, eng_title, eng_abstract, lang, version, lang_
     eng_dict = {"paper_id": eng_doc_id, 
                 "metadata": {"title":eng_title, "authors": authors}, 
                 "abstract": [{"text": eng_abstract, "section": "Abstract"}]}
-    eng_out_dict = json.dumps(eng_dict)
-    #print(doc_id, "\n", eng_title, "\n", eng_abstract, "\n",  lang, "\n",  lang_title, "\n",  lang_abstract)
+    eng_out_dict = json.dumps(eng_dict, indent=4, ensure_ascii=False) 
+
     with open("../abstracts_" + version + "/en+" + lang + "/en/" + eng_doc_id + ".json", "w") as eng_out_file:
             eng_out_file.write(eng_out_dict)
             eng_out_file.close()
@@ -51,7 +51,7 @@ def output_article_to_json(doc_id, eng_title, eng_abstract, lang, version, lang_
     lang_dict = {"paper_id": lang_doc_id, 
                 "metadata": {"title":lang_title, "authors": authors}, 
                 "abstract": [{"text": lang_abstract, "section": "Abstract"}]}
-    lang_out_dict = json.dumps(lang_dict)
+    lang_out_dict = json.dumps(lang_dict, indent=4, ensure_ascii=False) 
     
     with open("../abstracts_" + version + "/en+" + lang + "/" + lang + "/" + lang_doc_id + ".json", "w") as lang_out_file:
             lang_out_file.write(lang_out_dict)

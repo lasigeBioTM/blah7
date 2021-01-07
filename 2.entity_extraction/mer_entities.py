@@ -7,8 +7,7 @@ import tqdm
 import re
 from collections import Counter
 from itertools import chain
-from utils import load_ctd_vocabularies, load_decs_spa, load_decs_pt
-
+from utils import load_ctd_vocabularies, load_decs_xml
 sys.path.append("./")
 
 global_entities = Counter()
@@ -49,19 +48,12 @@ def process_doc(doc_file, lexicons, output_dir):
         for k, v in sorted(doc_counter.items(), key=lambda item: item[1], reverse=True)
     }
 
-    """entities_by_uri = {} # sort by ontology
-    for e in new_doc["entities"].items():
-        ontology = e[0].split("/")[-1].split("_")[0]
-        if ontology not in entities_by_uri:
-            entities_by_uri[ontology] = []
-        entities_by_uri.append(e)
-    new_doc["entities"] = entities_by_uri[:]"""
     print("top doc", doc_counter.most_common(10))
     
     with open(
         output_dir + doc_file.split("/")[-1].split(".")[0] + "_entities.json", "w"
     ) as f_out:
-        json.dump(new_doc, f_out, indent=4)
+        json.dump(new_doc, f_out, indent=4, ensure_ascii=False)
     
     return doc_counter
 
@@ -146,44 +138,52 @@ def process_lexicons_4_mer():
     merpy.delete_entity_by_uri("http://purl.obolibrary.org/obo/PATO_0000070", "hpo")
     
     #Create and process english vocabularies
-    lexicon_name = "medic"
-    medic_name_to_id = load_ctd_vocabularies("CTD_diseases.tsv")
-    merpy.create_lexicon(medic_name_to_id.keys(), lexicon_name)
-    merpy.create_mappings(medic_name_to_id, lexicon_name)
-    merpy.process_lexicon(lexicon_name)
+    #lexicon_name = "medic"
+    #medic_name_to_id = load_ctd_vocabularies("CTD_diseases.tsv")
+    #merpy.create_lexicon(medic_name_to_id.keys(), lexicon_name)
+    #merpy.create_mappings(medic_name_to_id, lexicon_name)
+    #merpy.process_lexicon(lexicon_name)
 
-    lexicon_name = "ctdChemicals"
-    chemicals_name_to_id = load_ctd_vocabularies("CTD_chemicals.tsv")
-    merpy.create_lexicon(chemicals_name_to_id.keys(), lexicon_name)
-    merpy.create_mappings(chemicals_name_to_id, lexicon_name)
-    merpy.process_lexicon(lexicon_name)
+    #lexicon_name = "ctdChemicals"
+    #chemicals_name_to_id = load_ctd_vocabularies("CTD_chemicals.tsv")
+    #merpy.create_lexicon(chemicalsbireme_decs_spa2020.xm_name_to_id.keys(), lexicon_name)
+    #merpy.create_mappings(chemicals_name_to_id, lexicon_name)
+    #merpy.process_lexicon(lexicon_name)
 
-    lexicon_name = "ctdAnatomy"
-    anatomy_name_to_id = load_ctd_vocabularies("CTD_anatomy.tsv")
-    merpy.create_lexicon(anatomy_name_to_id.keys(), lexicon_name)
-    merpy.create_mappings(anatomy_name_to_id, lexicon_name)
-    merpy.process_lexicon(lexicon_name)
+    #lexicon_name = "ctdAnatomy"
+    #anatomy_name_to_id = load_ctd_vocabularies("CTD_anatomy.tsv")
+    #merpy.create_lexicon(anatomy_name_to_id.keys(), lexicon_name)
+    #merpy.create_mappings(anatomy_name_to_id, lexicon_name)
+    #merpy.process_lexicon(lexicon_name)
     
-    ##Create and process spanish vocabularies
+    ##Create and process english decs 
+    lexicon_name = "decsEN"
+    name_to_id_spa = load_decs_xml("en")
+    merpy.create_lexicon(name_to_id_spa.keys(), lexicon_name)
+    merpy.create_mappings(name_to_id_spa, lexicon_name)
+    merpy.process_lexicon(lexicon_name)
+
+    ##Create and process spanish decs
     lexicon_name = "decsSPA"
-    name_to_id_spa = load_decs_spa()
+    name_to_id_spa = load_decs_xml("spa")
     merpy.create_lexicon(name_to_id_spa.keys(), lexicon_name)
     merpy.create_mappings(name_to_id_spa, lexicon_name)
     merpy.process_lexicon(lexicon_name)
    
-    ##Create and process portuguese vocabularies
+    #Create and process portuguese decs
     lexicon_name = "decsPT"
-    name_to_id_spa = load_decs_spa()
+    name_to_id_spa = load_decs_xml("pt")
     merpy.create_lexicon(name_to_id_spa.keys(), lexicon_name)
     merpy.create_mappings(name_to_id_spa, lexicon_name)
     merpy.process_lexicon(lexicon_name)
-
 
 if __name__ == "__main__":
 
     mode = str(sys.argv[1])
     input_dir = str(sys.argv[2])
-    language = input_dir.split("/")[3]#str(sys.argv[2]) # "en", "pt" or "spa"
+    
+    if mode == "annotate":
+        language = input_dir.split("/")[3]#str(sys.argv[2]) # "en", "pt" or "spa"
     
     if mode == "setup": # update MER
        process_lexicons_4_mer()
@@ -192,7 +192,7 @@ if __name__ == "__main__":
         active_lexicons = list()
 
         if language == "en":
-            active_lexicons = ["do", "go", "hpo", "chebi", "taxon", "cido", "medic", "ctdChemicals", "ctdAnatomy"]
+            active_lexicons = ["do", "go", "hpo", "chebi", "taxon", "cido", "decsEN"]#"medic", "ctdChemicals", "ctdAnatomy"]
             
         elif language == "pt":
             active_lexicons = ["decsPT"]

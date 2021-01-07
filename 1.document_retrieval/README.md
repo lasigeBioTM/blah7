@@ -2,6 +2,9 @@
 
 The module retrieves abstracts related with COVID-19 rom [PubMed](https://pubmed.ncbi.nlm.nih.gov/) repository using [Bio.Entrez package](https://biopython.org/docs/1.75/api/Bio.Entrez.html). 
 
+Requirements:
+- [Biopython](https://biopython.org/)>=1.78
+
 There are two different datasets:
     
 - ***abstracts_covid_19***: includes abstracts directly related with COVID-19. Query: "covid-19"

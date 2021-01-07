@@ -3,6 +3,7 @@
 This module extracts entities present in the retrieved documents and it is based on python implementation of [MER](https://pypi.org/project/merpy/).
 
 Requirements:
+
 -[merpy](https://pypi.org/project/merpy/)>=1.7.1
 
 In English abstracts, extracted entities are linked to concepts of the following ontologies (latest versions available as of January 2020, apart from):   

@@ -6,10 +6,13 @@
 - **E-mail addresses:** (*mcbarros*, *psruas*, *dfsousa*, *fjcouto*)@fc.ul.pt
 - **Institution:** LASIGE, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
+
+
 ## Global Motivation
 
 The global motivation is the creation of parallel multilingual datasets for text mining systems in COVID-19-related literature. Tracking the most recent advances in the COVID-19-related research is essential given the novelty of the disease and its impact on society. Still, the pace of publication requires automatic approaches to access and organize the knowledge that keeps being produced every day. It is necessary to develop text mining pipelines to assist in that task, which is only possible with evaluation datasets. However, there is a lack of COVID-19-related datasets, even more, if considering other languages besides English. The expected contribution of the project will be the annotation of a multilingual parallel dataset (EN-ES and EN-PT), providing this resource to the community to improve the text mining research on COVID-19-related literature.
 
+Find the video presentation of the project [here](https://drive.google.com/file/d/1QAfdQBBGZylwOQ5K0l5woqQNbWmSoLmq/view?usp=sharing).
 ## How the Annotations are Developed
 We start by generating a silver standard by applying our [COVID text mining pipeline](https://github.com/lasigeBioTM/knowledge-extraction-from-CORD-19), which includes three modules: **entity extraction**, **relation extraction**, and **recommender system**. The entity extraction module recognizes disease, chemical, and anatomical entities and links them to the respective MeSH identifier. The relation extraction module recognizes candidate relations between those entities. We are particularly interested in negative relations where there is already evidence of no association to prevent researchers from pursuing already refuted research hypotheses, and focus their research. The recommender system module creates a dataset of user, item, rating, where the users are authors from the research documents related to COVID-19, the items are the entities extracted in the entity extraction phase, and the ratings are the number of articles in which the author mentioned the entity.
 Lastly, we manually correct the annotations in a selected subset of the silver standard and add missing annotations.

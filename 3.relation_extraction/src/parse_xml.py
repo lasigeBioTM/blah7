@@ -117,6 +117,8 @@ def join_results(corpus_paths, destination_path, dict_entities):
             data_relations.append(new_relation)
         data['relations'] = data_relations
 
+        data['sourcedb'] = 'PubMed@dpavot'
+        data['sourceid'] = filename.split('.')[0]
         with open(destination_path + filename.split('.')[0] + '.json', 'w') as outfile:
             json.dump(data, outfile, indent=4)
 

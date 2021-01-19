@@ -1,0 +1,191 @@
+0|chunk|An uncharacterized FMAG_01619 protein from Fusobacterium mortiferum ATCC 9817 demonstrates that some bacterial macrodomains can also act as poly- ADp-ribosylhydrolases
+0	30	37 protein	Chemical	CHEBI_16541
+
+1|chunk|Macrodomains constitute a conserved fold widely distributed that is not only able to bind ADp-ribose in its free and protein-linked forms but also can catalyse the hydrolysis of the latter. they are involved in the regulation of important cellular processes, such as signalling, differentiation, proliferation and apoptosis, and in host-virus response, and for this, they are considered as promising therapeutic targets to slow tumour progression and viral pathogenesis. Although extensive work has been carried out with them, including their classification into six distinct phylogenetically clades, little is known on bacterial macrodomains, especially if these latter are able to remove poly(ADP-ribose) polymer (PAR) from PARylated proteins, activity that only has been confirmed in human TARG1 (C6orf130) protein. To extend this limited knowledge, we demonstrate, after a comprehensive bioinformatic and phylogenetic analysis, that Fusobacterium mortiferum ATCC 9817 TARG1 (FmTARG1) is the first bacterial macrodomain shown to have high catalytic efficiency towards O-acyl-ADP-ribose, even more than hTARG1, and towards mono-and poly(ADPribosyl)ated proteins. Surprisingly, FmTARG1 gene is also inserted into a unique operonic context, only shared by the distantly related Fusobacterium perfoetens ATCC 29250 macrodomain, which include an immunity protein 51 domain, typical of bacterial polymorphic toxin systems.
+1	707	714 polymer	Chemical	CHEBI_33839
+1	736	744 proteins	Chemical	CHEBI_36080
+1	810	817 protein	Chemical	CHEBI_16541
+1	1139	1149 ADPribosyl	Chemical	CHEBI_22259
+1	1155	1163 proteins	Chemical	CHEBI_36080
+1	1353	1360 protein	Chemical	CHEBI_16541
+1	1405	1410 toxin	Chemical	CHEBI_27026
+1	CHEBI-CHEBI	CHEBI_33839	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_33839	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33839	CHEBI_22259
+1	CHEBI-CHEBI	CHEBI_33839	CHEBI_27026
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_22259
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_27026
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22259
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_27026
+1	CHEBI-CHEBI	CHEBI_22259	CHEBI_27026
+
+2|chunk|Macrodomains constitute a unique conserved 130-190 amino acids three-layered // sandwich fold widely distributed throughout the phylogenetic scale. They exert a regulatory influence on cellular signalling, transcription, DNA repair, genomic stability, telomere dynamics, necrosis and apoptosis, in addition to cell differentiation and proliferation 1 . They are also involved in different aspects of posttranslational protein modification of the ADP-ribosylation signalling pathway, including reading, erasing, and modulating, in combination with two other important NAD + -using protein families, poly(ADP-ribose) polymerases (PARPs) and sirtuins 2-9 .
+2	51	56 amino	Chemical	CHEBI_46882
+2	51	62 amino acids	Chemical	CHEBI_33704
+2	57	62 acids	Chemical	CHEBI_37527
+2	224	227 DNA	Chemical	CHEBI_16991
+2	421	428 protein	Chemical	CHEBI_16541
+2	570	573 NAD	Chemical	CHEBI_13389
+2	583	590 protein	Chemical	CHEBI_16541
+2	631	636 PARPs	Chemical	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_13389
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_13389
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_13389
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_16991	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_16991	CHEBI_13389
+2	CHEBI-CHEBI	CHEBI_16991	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_13389
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_62913
+2	CHEBI-CHEBI	CHEBI_13389	CHEBI_62913
+
+3|chunk|To carry out such a plethora of functions, macrodomains not only bind ADP-ribose (ADPr) in its free and protein-linked forms, but also related ligands, such as O-acyl-ADP-ribose (OAADPr), and even unconnected ones, such as poly(A) or G-quadruplex sequences 1 . In addition, they could also catalyse the hydrolysis of the 2,1-O-glycosidic ribose-ribose bond in poly(ADP-ribose)-modified proteins (also called de-PARylation), the protein-mono-ADP-ribose (MAR) ester bond (de-MARylation), or the acyl-ADPr ester (deacylation) 10-14 .
+3	389	397 proteins	Chemical	CHEBI_36080
+3	461	466 ester	Chemical	CHEBI_35701
+3	506	511 ester	Chemical	CHEBI_35701
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_35701
+
+4|chunk|Macrodomains have been phylogenetically subdivided into six distinct clades 1,14 . MacroD-type clade is the most studied and comprises several distinct proteins ranging from mono-(ADP-ribosyl) hydrolases and OAADPr deacetylases, such as human MacroD1 and MacroD2 15 , Oceanobacillus iheyensis MacroD (OiMacroD) 14 and E. coli YmdB 16 , to poly(A) binding modules, such as GDAP2, a highly conserved protein found from plants to humans with a lipid-binding SEC14 domain at the C terminus 17 . Another class characterized by strong binding to ADP-ribosylated proteins without catalytic activity is the MacroH2A-type clade, which include the epigenetic tumour suppressor MacroH2A 18,19 , and the macrodomains from multidomain human PARP9, PARP14, and PARP15, which are involved in the regulation of cell migration associated with lymphoma (PARP9 and PARP14) 20 , in tumour suppression (PARP15) 21 and in the host-virus response (PARP14 and PARP15) 22 . Macrodomain-containing proteins from Coronaviridae, Togaviridae, and Hepeviridae virus families have also been identified as a separate clade 23,24 , as a part of the multidomain nonstructural protein 3 (nsP3), which is involved in host protein recruitment and viral replication 25 . These macrodomains, also known as X domain or Mac1, are present in several (+)ssRNA viruses (e.g. hepatitis E virus, SARS coronavirus, human coronavirus HCoV 229E, Venezuelan equine encephalitis virus, and Chikungunya virus) and possess broad hydrolase activity towards mono-ADP-ribosylated proteins (PARP15, PARP14 and PARP10) 26 , but only weak activity towards PAR automodified PARP1 27 and ADP-ribose-1-phosphate 28-30 . In addition, the nsP3 proteins of SARS coronavirus (SARS-CoV) and other -coronaviruses (MERS-CoV, BtVs-BetaCoV/SC2013) contain a non-conserved region that follows the X domain (or Mac 1) with two additional macrodomains, Mac2 and Mac3, formerly known as SUD-N and SUD-M 25 , respectively. Mac2 and Mac3 do not bind or hydrolyse ADP-ribose, but do bind G quadruplexes 24,31 . However, while Mac2 has been seen to be dispensable for the SARS-CoV replication/transcription complex, Mac3 is essential for such processes, even though it is not conserved in all the coronaviruses 31 . Thus, viral macrodomains seem to be critical for viral pathogenesis and evasion of the host immune response, making them an important target for top-rated pathogens that are in need for vaccine development, such as Chikungunya virus 27 .
+4	152	160 proteins	Chemical	CHEBI_36080
+4	208	214 OAADPr	Chemical	CHEBI_76279
+4	398	405 protein	Chemical	CHEBI_16541
+4	556	564 proteins	Chemical	CHEBI_36080
+4	972	980 proteins	Chemical	CHEBI_36080
+4	1142	1149 protein	Chemical	CHEBI_16541
+4	1186	1193 protein	Chemical	CHEBI_16541
+4	1524	1532 proteins	Chemical	CHEBI_36080
+4	1682	1690 proteins	Chemical	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_76279
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_76279	CHEBI_16541
+
+5|chunk|Poly(ADP-ribose) glycohydrolases (PARGs) form another diverged clade, which were recognized as macrodomains only after their seven-stranded mixed -sheet sandwiched by a five -helices structure with the PARG-specific GGGX (6-8) QEE catalytic motif within loop 1 was determined both in bacteria and human 32,33 . These enzymes release oligo-or poly(ADPr) fragments from PARylated proteins, being predominantly exoglycohydrolases with only minor contributions to debranching PAR polymers 34 . On the other hand, the Macro-2 type clade groups important and ubiquitous cellular processing macrodomain enzymes involved in the tRNA splicing pathway, which catalyses the conversion of ADP-ribose-1-phosphate (Appr-1-p) to ADP-ribose 35 , with no de-MARylating activity 36 . Their only studied representative is the hypothetical Saccharomyces cerevisiae ATCC 204508/S288c YMR087W protein (UniProt code YMX7_YEAST) 35 . By contrast, the YBR022W macrodomain protein of the same yeast strain (now named POA1) not only converts Appr-1-p to ADP-ribose, being responsible for 90% of Appr1p processing activity in yeast extracts, but also produces de-MARylation 37 . These differences in activity could be related to the fact that POA1 belongs to a different macrodomain clade, the ALC1 clade, thus named for the presence in it of the chromatin remodeler ALC1 (amplified in liver cancer 1) protein 38 , and whose macrodomain binds to sites of DNA damage by sensing PARP1-generated PAR 39 . Belonging to the same clade is the Streptomyces coelicolor SCO6735 macrodomain protein, which hydrolyses glutamate-linked protein mono-ADP-ribosylation, and whose depletion significantly increases the production of the antibiotic actinorhodin in S. coelicolor 40 . Interestingly, a unique class of macrodomains with DNA ADP-ribosyl glycohydrolase activity, such as Mycobacterium tuberculosis and Thermus aquaticus DarG proteins, could also be included in this clade. These last proteins reverse the thymidine base-specific ADP-ribosylation caused by the corresponding DarT toxins, a new class of DNA ADP-ribosyl transferases 41 . These DarG proteins are structurally most similar to metazoan TARG1 (terminal ADPr protein glycohydrolase1, also known as OARD1 or C6orf130) proteins, but with an active site mostly positively charged to facilitate the binding of their negatively charged ssDNA substrate 41 . Of note, full-length DarG seems to inhibit DarT through a protein-protein interaction, providing another layer of DarT regulation, in addition to its macrodomain hydrolytic activity 41 . This mechanism of DarT-DarG interaction has some parallelism with that recently described for the bifunctional immunity protein Tri1, an ADP-ribosyl hydrolase, which protects the essential bacterial tubulin-like protein FtsZ against the ADP-ribosylating toxin Tre1 42 .
+5	380	388 proteins	Chemical	CHEBI_36080
+5	478	486 polymers	Chemical	CHEBI_33839
+5	622	626 tRNA	Chemical	CHEBI_17843
+5	877	884 protein	Chemical	CHEBI_16541
+5	953	960 protein	Chemical	CHEBI_16541
+5	1077	1083 Appr1p	Chemical	CHEBI_48584
+5	1383	1390 protein	Chemical	CHEBI_16541
+5	1436	1439 DNA	Chemical	CHEBI_16991
+5	1562	1569 protein	Chemical	CHEBI_16541
+5	1605	1612 protein	Chemical	CHEBI_16541
+5	1702	1712 antibiotic	Chemical	CHEBI_33281
+5	1713	1725 actinorhodin	Chemical	CHEBI_2448
+5	1799	1802 DNA	Chemical	CHEBI_16991
+5	1897	1901 DarG	Chemical	CHEBI_29953
+5	1902	1910 proteins	Chemical	CHEBI_36080
+5	1961	1969 proteins	Chemical	CHEBI_36080
+5	1982	1991 thymidine	Chemical	CHEBI_17748
+5	2079	2082 DNA	Chemical	CHEBI_16991
+5	2119	2123 DarG	Chemical	CHEBI_29953
+5	2124	2132 proteins	Chemical	CHEBI_36080
+5	2196	2203 protein	Chemical	CHEBI_16541
+5	2254	2262 proteins	Chemical	CHEBI_36080
+5	2410	2414 DarG	Chemical	CHEBI_29953
+5	2696	2703 protein	Chemical	CHEBI_16541
+5	2788	2795 protein	Chemical	CHEBI_16541
+5	2830	2835 toxin	Chemical	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_33839
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_17843
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_48584
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_17843
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_48584
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_33839	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_48584
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_17843	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_48584
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_48584	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_33281
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_33281	CHEBI_2448
+5	CHEBI-CHEBI	CHEBI_33281	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_33281	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_33281	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_2448	CHEBI_29953
+5	CHEBI-CHEBI	CHEBI_2448	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_2448	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_29953	CHEBI_17748
+5	CHEBI-CHEBI	CHEBI_29953	CHEBI_27026
+5	CHEBI-CHEBI	CHEBI_17748	CHEBI_27026
+
+6|chunk|Interestingly, the above-described human TARG1 (hTARG1) is the only known macrodomain able to hydrolyse OAADPr, MARylated proteins 10 , and the ribose-acceptor bond of PAR-modified PARP1, removing the entire PAR chain en bloc 12 . Its catalytic lysine residue forms a covalent intermediate with the ribose ring through an Amadori rearrangement mechanism, followed by aspartic acid-mediated hydrolysis 12 . Surprisingly, although this special class of macrodomain containing all three activities has been described in some bacteria as a possible alternative mechanism for reversing protein ADP-ribosylation 2 , they have not previously been characterized.
+6	122	130 proteins	Chemical	CHEBI_36080
+6	245	251 lysine	Chemical	CHEBI_18019
+6	245	251 lysine	Chemical	CHEBI_25094
+6	245	259 lysine residue	Chemical	CHEBI_32568
+6	299	305 ribose	Chemical	CHEBI_27476
+6	299	305 ribose	Chemical	CHEBI_33942
+6	581	588 protein	Chemical	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_18019
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_25094
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_32568
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_27476
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_33942
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_18019	CHEBI_25094
+6	CHEBI-CHEBI	CHEBI_18019	CHEBI_32568
+6	CHEBI-CHEBI	CHEBI_18019	CHEBI_27476
+6	CHEBI-CHEBI	CHEBI_18019	CHEBI_33942
+6	CHEBI-CHEBI	CHEBI_18019	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_25094	CHEBI_32568
+6	CHEBI-CHEBI	CHEBI_25094	CHEBI_27476
+6	CHEBI-CHEBI	CHEBI_25094	CHEBI_33942
+6	CHEBI-CHEBI	CHEBI_25094	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_32568	CHEBI_27476
+6	CHEBI-CHEBI	CHEBI_32568	CHEBI_33942
+6	CHEBI-CHEBI	CHEBI_32568	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_27476	CHEBI_33942
+6	CHEBI-CHEBI	CHEBI_27476	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_33942	CHEBI_16541
+
+7|chunk|The present work presents a comprehensive bioinformatic and phylogenetic analysis of putative TARG1 proteins in bacterial organisms to better understand their distribution. We have focused our research on Fusobacterium mortiferum ATCC 9817 TARG1 because of its sequence identity with human TARG1, being the first protein ever characterised from this microorganism. Interestingly, we show that such an enzyme was the first bacterial macrodomain able to remove the PAR polymer, confirming this unique feature of TARG1-type macrodomains compared with MacroD-type macrodomains. In addition, the operonic structure in which FmTARG1 gene is inserted is also unique in nature and is only shared with the distantly related microorganism F. perfoetens ATCC 29250.
+7	100	108 proteins	Chemical	CHEBI_36080
+7	313	320 protein	Chemical	CHEBI_16541
+7	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+

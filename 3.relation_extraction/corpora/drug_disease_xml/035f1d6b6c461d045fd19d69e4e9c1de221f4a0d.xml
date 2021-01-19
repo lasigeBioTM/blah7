@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d">
+  <chunk id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c0" text="Synthetic lethals in HIV: ways to avoid drug resistance">
+    <entity charOffset="40-44" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c0.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1" text="Background: RNA viruses rapidly accumulate genetic variation, which can give rise to synthetic lethal (SL) and deleterious (SD) mutations. Synthetic lethal mutations (non-lethal when alone but lethal when combined in one genome) have been studied to develop cancer therapies. This principle can also be used against fast-evolving RNA-viruses. Indeed, targeting protein sites involved in SD + SL interactions with a drug would render any mutation of such sites, lethal.">
+    <entity charOffset="12-15" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="258-264" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e1" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="361-368" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="415-419" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e0" e2="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e1" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.p0" relation="true"/>
+    <pair e1="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e1" e2="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e2" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.p1" relation="true"/>
+    <pair e1="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e1" e2="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.e3" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2" text="Results: Here, we set up a strategy to detect intragenic pairs of SL and SD at the surface of the protein to predict less escapable drug target sites. For this, we detected SD + SL, studying HIV protease (PR) and reverse transcriptase (RT) sequence alignments from two groups of VIH + individuals: treated with drugs (T) or not (NT). Using a series of statistical approaches, we were able to propose bona fide SD + SL couples. When focusing on spatially close co-variant SD + SL couples at the surface of the protein, we found 5 SD + SL groups (2 in the protease and 3 in the reverse transcriptase), which could be good candidates to form pockets to accommodate potential drugs.">
+    <entity charOffset="98-105" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="132-136" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2.e1" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="311-316" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2.e2" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="509-516" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="672-677" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c2.e4" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+  </chunk>
+  <chunk id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c3" text="Conclusions: Thus, designing drugs targeting these specific SD + SL groups would not allow the virus to mutate any residue involved in such groups without losing an essential function. Moreover, we also show that the selection pressure induced by the treatment leads to the appearance of new mutations, which change the mutational landscape of the protein. This drives the existence of differential SD + SL couples between the drug-treated and non-treated groups. Thus, new anti-viral drugs should be designed differently to target such groups.">
+    <entity charOffset="29-34" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c3.e0" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="485-490" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c3.e1" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+  </chunk>
+  <chunk id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c4" text="Reviewers: This article was reviewed by Neil Greenspan Csaba Pal and István Simon.">
+    <entity charOffset="61-64" id="035f1d6b6c461d045fd19d69e4e9c1de221f4a0d.c4.e0" ontology_id="CHEBI_59043" text="Pal" type="chemical"/>
+  </chunk>
+</document>

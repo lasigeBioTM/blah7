@@ -1,0 +1,34 @@
+0|chunk|Feline Infectious Peritonitis as a Systemic Inflammatory Disease: Contribution of Liver and Heart to the Pathogenesis
+0	18	29 Peritonitis	Phenotype	HP_0002586
+0	105	117 Pathogenesis	Gene_function	GO_0009405
+0	HP-GO	HP_0002586	GO_0009405
+
+1|chunk|Feline infectious peritonitis (FIP) is a fatal immune-mediated disease of cats, induced by feline coronavirus (FCoV). A combination of as yet poorly understood host and viral factors combine to cause a minority of FCoV-infected cats to develop FIP. Clinicopathological features include fever, vasculitis, and serositis, with or without effusions; all of which indicate a pro-inflammatory state with cytokine release. As a result, primary immune organs, as well as circulating leukocytes, have thus far been of most interest in previous studies to determine the likely sources of these cytokines. Results have suggested that these tissues alone may not be sufficient to induce the observed inflammation. The current study therefore focussed on the liver and heart, organs with a demonstrated ability to produce cytokines and therefore with huge potential to exacerbate inflammatory processes. The IL-12:IL-10 ratio, a marker of the immune system's inflammatory balance, was skewed towards the pro-inflammatory IL-12 in the liver of cats with FIP. Both organs were found to upregulate mRNA expression of the inflammatory triad of cytokines IL-1, IL-6, and TNF- in FIP. This amplifying step may be one of the missing links in the pathogenesis of this enigmatic disease.
+1	18	29 peritonitis	Phenotype	HP_0002586
+1	1119	1124 triad	Gene_function	GO_0030315
+1	1229	1241 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0002586	GO_0030315
+1	HP-GO	HP_0002586	GO_0009405
+
+2|chunk|2 of 17 distribution of organ lesions. The development of FIP lesions is triggered by activated, virus infected monocytes. In the presence of a generalised activation of venous endothelial cells, these monocytes induce the granulomatous phlebitis that is considered to be the first and hallmark lesion and can occur in a range of organs [4] . Endothelial cell activation, together with other systemic changes such as fever, indicates excessive systemic cytokine release though the precise sources remain unclear [4] [5] [6] .
+2	144	155 generalised	Phenotype	HP_0012837
+2	343	370 Endothelial cell activation	Gene_function	GO_0042118
+2	HP-GO	HP_0012837	GO_0042118
+
+3|chunk|Pro-inflammatory cytokines are the main mediators of the innate immune response, allowing communication between and priming of the various components of the innate immune system, e.g., activation of leukocytes and endothelial cells (reviewed by [6, 7] ). In cats, interleukin (IL)-1, IL-6, and tumour necrosis factor (TNF)- are the main mediators of the acute phase inflammatory response [8] and cats with FIP exhibit clear clinical and histological evidence of overt inflammatory processes. Despite this, there are conflicting results on the presence and systemic levels of these cytokines in FIP. Early studies found high IL-1 and IL-6 activity in sera, ascitic fluid, and the supernatant of cultured peritoneal exudate cells of cats with FIP [9,10]. However, IL-6 mRNA levels in peripheral blood mononuclear cells (PBMC) were found to be unaltered, only mildly increased, or variable in FIP [11] [12] [13] , whilst IL-10 and IL-12 transcription was markedly depressed [11] .
+3	57	79 innate immune response	Gene_function	GO_0045087
+3	295	301 tumour	Phenotype	HP_0002664
+3	302	310 necrosis	Gene_function	GO_0001906
+3	356	361 acute	Phenotype	HP_0011009
+3	368	389 inflammatory response	Gene_function	GO_0006954
+3	784	794 peripheral	Phenotype	HP_0030646
+3	GO-HP	GO_0045087	HP_0002664
+3	GO-HP	GO_0045087	HP_0011009
+3	GO-HP	GO_0045087	HP_0030646
+3	HP-GO	HP_0002664	GO_0001906
+3	HP-GO	HP_0002664	GO_0006954
+3	GO-HP	GO_0001906	HP_0011009
+3	GO-HP	GO_0001906	HP_0030646
+3	HP-GO	HP_0011009	GO_0006954
+3	GO-HP	GO_0006954	HP_0030646
+

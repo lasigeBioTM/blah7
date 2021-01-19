@@ -1,0 +1,47 @@
+0|chunk|Single Chain Fragment Variable (scFv) Antibodies Targeting the Spike Protein of Porcine Epidemic Diarrhea Virus Provide Protection against Viral Infection in Piglets
+0	97	105 Diarrhea	Phenotype	HP_0002014
+0	139	154 Viral Infection	Gene_function	GO_0016032
+0	HP-GO	HP_0002014	GO_0016032
+
+1|chunk|Porcine epidemic diarrhea virus (PEDV) is a highly contagious coronavirus that causes severe diarrhea and death in neonatal piglets. Passive immunization with neutralizing antibodies against PEDV is an effective prevention measure. In this study, single chain fragment variable (scFv) antibodies against PEDV were screened from the porcine scFv phage display library. After four rounds of biopanning, scFvs that showed higher affinity to the PEDV antigen were selected for further study. The scFv genes were cloned into the expression plasmid for recombinant protein expression. These scFvs were shown to inhibit PEDV infectivity by the plaque reduction neutralization assay. Immunofluorescence assay (IFA) revealed that the epitopes recognized by these scFvs were in the S1 region of the spike protein. The potential of scFvs to provide prevention against PEDV infections in piglets was further investigated. Piglets orally administered scFvs showed no to mild clinical symptoms, significantly less viral shedding, no mortality and no intestinal lesions. The field application also revealed that the survival rate of piglets was significantly increased by oral administration of scFvs. Our data support the potential role of scFvs in the prevention and treatment of PEDV infection. virulent variants emphasizes the importance of developing an effective method to control their spread and infection.
+1	17	25 diarrhea	Phenotype	HP_0002014
+1	86	92 severe	Phenotype	HP_0012828
+1	93	101 diarrhea	Phenotype	HP_0002014
+1	957	961 mild	Phenotype	HP_0012825
+
+2|chunk|PEDV is a member of the Alpha-coronavirus genus, within the family Coronaviridae in the order Nidovirales [3,10]. PEDV possesses an~28 kb single-stranded, positive-sense, RNA genome, which encodes seven open reading frames (ORF 1a/1b, and ORF 2-6) [11] . Among them, the first gene ORFs 1a/1b encode large replicase polyproteins, which are processed to generate 16 nonstructural proteins (nsp1-nsp16) [12] . ORF 2, -3, -4, -5, and -6 encode structural/accessory proteins, including spike (S) protein, nonstructural accessory protein, envelope (E) protein, membrane (M) protein, and nucleocapsid (N) protein, respectively [13] .
+2	534	542 envelope	Gene_function	GO_0031975
+2	556	564 membrane	Gene_function	GO_0016020
+2	582	594 nucleocapsid	Gene_function	GO_0019013
+
+3|chunk|The S protein is a type I glycoprotein that plays a crucial role in virus attachment, entry, receptor binding, cell membrane fusion and induction of neutralizing antibodies [14, 15] . The S protein can be cleaved into S1 (residues 1-789) and S2 subunits (residues 790-1386) by host protease [16] . The S1 subunit contains the N-terminal domain (NTD, residues 1-233) that shows sialic acid binding activity and the C-terminal domain (CTD, residues 253-638) that attaches to the cell surface receptor (e.g., aminopeptidase N (APN)) [17]. The S2 subunit mediates virus-cell membrane fusion [16] . S protein is an excellent target for vaccine development for the induction of protective immunity against PEDV. Several studies have confirmed that antibodies, especially neutralizing antibodies stimulated by the vaccine expressing spike protein, are able to protect the host from PEDV infection [18, 19] . Additionally, neutralizing antibodies against PEDV can be developed as candidates for passive protection. Lee et al. reported that egg yolk antibody (IgY) against S1 domain of spike protein efficiently protects neonatal piglets against PEDV, supporting the potential of antibody reagents as a prophylactic or therapeutic agent to protect piglets against PEDV infection [20] .
+3	102	109 binding	Gene_function	GO_0005488
+3	111	124 cell membrane	Gene_function	GO_0005886
+3	116	124 membrane	Gene_function	GO_0016020
+3	377	396 sialic acid binding	Gene_function	GO_0033691
+3	389	396 binding	Gene_function	GO_0005488
+3	477	489 cell surface	Gene_function	GO_0009986
+3	571	579 membrane	Gene_function	GO_0016020
+3	1036	1040 yolk	Gene_function	GO_0060417
+3	1041	1049 antibody	Gene_function	GO_0003823
+3	1041	1049 antibody	Gene_function	GO_0042571
+3	1171	1179 antibody	Gene_function	GO_0003823
+3	1171	1179 antibody	Gene_function	GO_0042571
+
+4|chunk|Genetically engineered recombinant antibody fragments are increasingly being used in medical diagnosis and therapy in many diseases. The single chain fragment variable (ScFv), also called single-chain antibody, is one of the most popular types of genetically engineered antibodies [21, 22] . The scFv consists of a variable light chain (V L ) and heavy chain (V H ) that are connected by a short peptide linker [23] . The advantages of scFv are its small size, low immunogenicity, high specificity, and ability to be genetically engineered. The scFv can be produced in bacterial expression systems for large-scale production. Although scFv is smaller than full-length IgG, it retains the complete antigen binding site [24] . Several scFvs have been produced to control virus infection, including scFvs against chicken infectious bursal disease virus, scFvs targeting human influenza virus H5N1, and scFvs against the phosphoprotein of Newcastle disease virus [25] [26] [27] [28] . Thus, scFv is considered a potential reagent for the prevention and treatment of viral disease.
+4	35	43 antibody	Gene_function	GO_0003823
+4	35	43 antibody	Gene_function	GO_0042571
+4	201	209 antibody	Gene_function	GO_0003823
+4	201	209 antibody	Gene_function	GO_0042571
+4	697	712 antigen binding	Gene_function	GO_0003823
+4	705	712 binding	Gene_function	GO_0005488
+
+5|chunk|At present, there have been no reports of the selection of porcine scFvs to target the porcine pathogen. In this study, we constructed a scFv phage display library using peripheral blood lymphocytes of piglets induced with PEDV. The scFvs against PEDV were selected, and their neutralization efficiencies were evaluated. We further confirmed that the mechanism of scFvs neutralization of PEDV occurred through binding to the viral spike protein. The immunoprophylactic and therapeutic properties of scFvs in neonatal piglets against PEDV infection were further explored. Our results provide a foundation for the development of scFv-based drugs for the prevention and treatment of PEDV infection.
+5	170	180 peripheral	Phenotype	HP_0030646
+5	410	417 binding	Gene_function	GO_0005488
+5	HP-GO	HP_0030646	GO_0005488
+
+6|chunk|Materials and Methods
+
+7|chunk|2.
+

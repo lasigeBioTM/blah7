@@ -1,0 +1,24 @@
+0|chunk|Rapid Accumulation of Virulent Rift Valley Fever Virus in Mice from an Attenuated Virus Carrying a Single Nucleotide Substitution in the M RNA
+0	36	48 Valley Fever	Phenotype	HP_0032249
+0	43	48 Fever	Phenotype	HP_0001945
+
+1|chunk|Background: Rift Valley fever virus (RVFV), a member of the genus Phlebovirus within the family Bunyaviridae, is a negativestranded RNA virus with a tripartite genome. RVFV is transmitted by mosquitoes and causes fever and severe hemorrhagic illness among humans, while in livestock it causes fever and high abortion rates.
+1	17	29 Valley fever	Phenotype	HP_0032249
+1	24	29 fever	Phenotype	HP_0001945
+1	213	218 fever	Phenotype	HP_0001945
+1	223	229 severe	Phenotype	HP_0012828
+1	293	298 fever	Phenotype	HP_0001945
+
+2|chunk|Methodology/Principal Findings: Sequence analysis showed that a wild-type RVFV ZH501 preparation consisted of two major viral subpopulations, with a single nucleotide heterogeneity at nucleotide 847 of M segment (M847); one had a G residue at M847 encoding glycine in a major viral envelope Gn protein, while the other carried A residue encoding glutamic acid at the corresponding site. Two ZH501-derived viruses, rZH501-M847-G and rZH501-M847-A, carried identical genomic sequences, except that the former and the latter had G and A, respectively, at M847 were recovered by using a reverse genetics system. Intraperitoneal inoculation of rZH501-M847-A into mice caused a rapid and efficient viral accumulation in the sera, livers, spleens, kidneys and brains, and killed most of the mice within 8 days, whereas rZH501-M847-G caused low viremia titers, did not replicate as efficiently as did rZH501-M847-A in these organs, and had attenuated virulence to mice. Remarkably, as early as 2 days postinfection with rZH501-M847-G, the viruses carrying A at M847 emerged and became the major virus population thereafter, while replicating viruses retained the input A residue at M847 in rZH501-M847-A-infected mice.
+2	167	180 heterogeneity	Phenotype	HP_0001425
+2	276	290 viral envelope	Gene_function	GO_0019031
+2	282	290 envelope	Gene_function	GO_0031975
+2	837	844 viremia	Phenotype	HP_0020071
+2	HP-GO	HP_0001425	GO_0019031
+2	HP-GO	HP_0001425	GO_0031975
+2	GO-HP	GO_0019031	HP_0020071
+2	GO-HP	GO_0031975	HP_0020071
+
+3|chunk|Conclusions/Significance: These data demonstrated that the single nucleotide substitution in the Gn protein substantially affected the RVFV mouse virulence and that a virus population carrying the virulent viral genotype quickly emerged and became the major viral population within a few days in mice that were inoculated with the attenuated virus.
+3	122	130 affected	Phenotype	HP_0032320
+

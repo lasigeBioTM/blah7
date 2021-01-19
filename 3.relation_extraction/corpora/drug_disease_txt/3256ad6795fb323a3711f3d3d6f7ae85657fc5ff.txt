@@ -1,0 +1,82 @@
+0|chunk|Biochemical and structural characterization of the interface mediating interaction between the influenza A virus non-structural protein-1 and a monoclonal antibody OPEN
+0	95	104 influenza	Disease	DOID_8469
+
+1|chunk|We have previously shown that a non-structural protein 1 (NS1)-binding monoclonal antibody, termed as 2H6, can significantly reduce influenza A virus (IAV) replication when expressed intracellularly. In this study, we further showed that 2H6 binds stronger to the NS1 of H5N1 than A/Puerto Rico/8/1934(H1N1) because of an amino acid difference at residue 48. A crystal structure of 2H6 fragment antigen-binding (Fab) has also been solved and docked onto the NS1 structure to reveal the contacts between specific residues at the interface of antibody-antigen complex. In one of the models, the predicted molecular contacts between residues in NS1 and 2H6-Fab correlate well with biochemical results. Taken together, residues N48 and T49 in H5N1 NS1 act cooperatively to maintain a strong interaction with mAb 2H6 by forming hydrogen bonds with residues found in the heavy chain of the antibody. Interestingly, the pandemic H1N1-2009 and the majority of seasonal H3N2 circulating in humans since 1968 has N48 in NS1, suggesting that mAb 2H6 could bind to most of the currently circulating seasonal influenza A virus strains. Consistent with the involvement of residue T49, which is well-conserved, in RNA binding, mAb 2H6 was also found to inhibit the interaction between NS1 and double-stranded RNA.
+1	47	54 protein	Chemical	CHEBI_16541
+1	132	141 influenza	Disease	DOID_8469
+1	322	327 amino	Chemical	CHEBI_46882
+1	322	332 amino acid	Chemical	CHEBI_33704
+1	328	332 acid	Chemical	CHEBI_37527
+1	823	831 hydrogen	Chemical	CHEBI_18276
+1	823	831 hydrogen	Chemical	CHEBI_49637
+1	1096	1105 influenza	Disease	DOID_8469
+1	1199	1202 RNA	Chemical	CHEBI_33697
+1	1294	1297 RNA	Chemical	CHEBI_33697
+1	CHEBI-DOID	CHEBI_16541	DOID_8469
+1	DOID-CHEBI	DOID_8469	CHEBI_46882
+1	DOID-CHEBI	DOID_8469	CHEBI_33704
+1	DOID-CHEBI	DOID_8469	CHEBI_37527
+1	DOID-CHEBI	DOID_8469	CHEBI_18276
+1	DOID-CHEBI	DOID_8469	CHEBI_49637
+1	DOID-CHEBI	DOID_8469	CHEBI_33697
+
+2|chunk|Influenza A viruses (IAVs) constantly circulate in animal hosts including birds, human and pigs. Seasonal IAVs are one of the major causes of respiratory tract infections and responsible for 3-5 million clinical infections and 250,000-500,000 fatal cases annually 1 . IAV is a negative sense single-stranded RNA virus with segmented genomes 2 , which belongs to the family Orthomyxoviridae and is subtyped based on its surface glycoproteins haemagglutinin (HA) and neuraminidase (NA). So far, 18 HA and 11 NA subtypes have been identified 3 , with the H1N1 and H3N2 subtypes being the seasonal IAVs currently circulating in human 4 .
+2	0	9 Influenza	Disease	DOID_8469
+2	308	311 RNA	Chemical	CHEBI_33697
+2	427	440 glycoproteins	Chemical	CHEBI_17089
+2	DOID-CHEBI	DOID_8469	CHEBI_33697
+2	DOID-CHEBI	DOID_8469	CHEBI_17089
+
+3|chunk|Currently, vaccination is still considered the first line of defence against influenza viral infection 5 , however it needs to be reformulated annually due to the genetic variability of the virus 6 . The conventional influenza vaccine aims to stimulate immunity to produce antibodies against the viral envelope HA protein. Unfortunately, these antibodies are mainly strain specific, in which case IAV might be able to evade the recognition of the antibody by constantly mutating the antigenic determinants 7 . Thus, one way to overcome this limitation is to produce and/or engineer antibodies that could neutralize most viral strains. Alternatively, another option to combat IAV is the use of antiviral compounds, which include two classes of drugs. One is directed against M2 ion channel protein to block the uncoating of virus after its entry into the host cells 8 and another is against NA to block the release of 1 newly formed virions to surrounding uninfected cells 9 . As resistance to these two classes of antiviral drugs has occurred in the circulating strains of the IAVs 10 , there is an urgent need to develop new therapeutic approaches.
+3	77	86 influenza	Disease	DOID_8469
+3	87	102 viral infection	Disease	DOID_934
+3	217	226 influenza	Disease	DOID_8469
+3	314	321 protein	Chemical	CHEBI_16541
+3	693	702 antiviral	Chemical	CHEBI_22587
+3	743	748 drugs	Chemical	CHEBI_23888
+3	777	780 ion	Chemical	CHEBI_24870
+3	789	796 protein	Chemical	CHEBI_16541
+3	1014	1023 antiviral	Chemical	CHEBI_22587
+3	1014	1029 antiviral drugs	Chemical	CHEBI_36044
+3	1024	1029 drugs	Chemical	CHEBI_23888
+3	DOID-CHEBI	DOID_8469	CHEBI_16541
+3	DOID-CHEBI	DOID_8469	CHEBI_22587
+3	DOID-CHEBI	DOID_8469	CHEBI_23888
+3	DOID-CHEBI	DOID_8469	CHEBI_24870
+3	DOID-CHEBI	DOID_8469	CHEBI_36044
+3	DOID-CHEBI	DOID_934	CHEBI_16541
+3	DOID-CHEBI	DOID_934	CHEBI_22587
+3	DOID-CHEBI	DOID_934	CHEBI_23888
+3	DOID-CHEBI	DOID_934	CHEBI_24870
+3	DOID-CHEBI	DOID_934	CHEBI_36044
+
+4|chunk|Non-structural protein 1 (NS1) of IAV is a potent type I interferon (IFN) antagonist, although the mechanism of inhibiting the IFN response is strain dependent 11 . NS1 typically contains 230 amino acid residues (~26 kDa), although there are variations among various subtypes and strains 12 . NS1 has two functional domains, namely the N-terminal RNA binding domain (RBD) and C-terminal effector domain (ED), connected by a flexible linker 13 .
+4	15	22 protein	Chemical	CHEBI_16541
+4	57	67 interferon	Chemical	CHEBI_52999
+4	192	197 amino	Chemical	CHEBI_46882
+4	192	202 amino acid	Chemical	CHEBI_33704
+4	198	202 acid	Chemical	CHEBI_37527
+4	347	350 RNA	Chemical	CHEBI_33697
+4	387	395 effector	Chemical	CHEBI_35224
+
+5|chunk|One of the most striking features of NS1 is its ability to bind to different species of RNA including double-stranded RNA (dsRNA), viral RNA (vRNA), 3 poly-A tail of mRNAs and small nuclear RNAs (snRNA) 14-16 via its RBD. By binding to and sequestering dsRNA from 2 -5 oligo (A) synthetase (OAS)/RNase L pathway, NS1 protects IAV against the antiviral state induced by IFN- 17 . NS1 could also inhibit ubiquitin ligase activity of Tripartite motif-containing protein 25 (TRIM25) to modulate retinoic acid-inducible gene I (RIG-I) induced IFN response 18 . Recently, the direct interaction between RIG-I and NS1 with strain specificity has been reported 19 , which provided the structural basis for how this interaction might modulate virulence during the infection. Besides, direct binding of NS1 to protein kinase R (PKR) could help IAVs counteract PKR-mediated anti-viral response 20 . NS1 has also been shown to interact directly with the p85 regulatory subunit of phosphoinositide 3-kinase (PI3K) but it is unclear how this interaction contributes to apoptosis regulation in infected cells 21, 22 .
+5	88	91 RNA	Chemical	CHEBI_33697
+5	102	121 double-stranded RNA	Chemical	CHEBI_67208
+5	118	121 RNA	Chemical	CHEBI_33697
+5	137	140 RNA	Chemical	CHEBI_33697
+5	177	195 small nuclear RNAs	Chemical	CHEBI_74035
+5	197	202 snRNA	Chemical	CHEBI_74035
+5	254	259 dsRNA	Chemical	CHEBI_67208
+5	345	354 antiviral	Chemical	CHEBI_22587
+5	463	470 protein	Chemical	CHEBI_16541
+5	804	811 protein	Chemical	CHEBI_16541
+5	973	989 phosphoinositide	Chemical	CHEBI_16749
+
+6|chunk|Given the multifunctional properties of the NS1 protein, much effort has been directed towards the development of NS1-based antiviral strategy 23,24 . For example, numerous novel inhibitors targeting NS1 proteins have been identified and demonstrated significant antiviral activities in vitro [25] [26] [27] . In our previous study, we used full-length NS1 protein of H5N1 IAV to generate a monoclonal antibody (mAb) 2H6 and found that it could cross-react with NS1 of H3N2 and H1N1 subtypes 28 . MAb 2H6 binds to the RBD of NS1(RBD) and the intracellular expression of 2H6-single-chain variable fragment (scFv) in mammalian cells reduced the replication of A/Puerto Rico/8/1934(H1N1) (H1N1-PR8) virus 29 . In the present study, we used biochemical, structural and modelling methods to define the molecular interface mediating the interaction between mAb 2H6 and NS1. An AlphaScreen assay was also set up to determine if mAb 2H6 could interfere with the interaction of NS1 with dsRNA.
+6	48	55 protein	Chemical	CHEBI_16541
+6	124	133 antiviral	Chemical	CHEBI_22587
+6	179	189 inhibitors	Chemical	CHEBI_35222
+6	204	212 proteins	Chemical	CHEBI_36080
+6	263	272 antiviral	Chemical	CHEBI_22587
+6	357	364 protein	Chemical	CHEBI_16541
+

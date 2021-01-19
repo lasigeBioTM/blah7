@@ -1,0 +1,64 @@
+0|chunk|Alignment-free similarity analysis for protein sequences based on fuzzy integral
+0	39	46 protein	Chemical	CHEBI_16541
+
+1|chunk|sequence comparison is an essential part of modern molecular biology research. In this study, we estimated the parameters of Markov chain by considering the frequencies of occurrence of the all possible amino acid pairs from each alignment-free protein sequence. these estimated Markov chain parameters were used to calculate similarity between two protein sequences based on a fuzzy integral algorithm. For validation, our result was compared with both alignment-based (ClustalW) and alignment-free methods on six benchmark datasets. the results indicate that our developed algorithm has a better clustering performance for protein sequence comparison.
+1	203	208 amino	Chemical	CHEBI_46882
+1	203	213 amino acid	Chemical	CHEBI_33704
+1	209	213 acid	Chemical	CHEBI_37527
+1	245	252 protein	Chemical	CHEBI_16541
+1	349	356 protein	Chemical	CHEBI_16541
+1	625	632 protein	Chemical	CHEBI_16541
+
+2|chunk|With the advent of the advanced sequencing techniques, researchers are generating a large number of protein sequences. This brings in a new challenge 1,2 for phylogenetic and comparative study of these protein sequences. Phylogenetic study and comparative analysis between taxa are an essential part of molecular biology and bioinformatics. These studies, traditionally depended on multiple or pairwise sequence alignments which are the well established classical approach and regarded as a standard method for sequence analysis. However, producing reliable multiple sequence alignments become extremely difficult when more dissimilar protein sequences are considered. The traditional alignment-based methods 3-5 are much empirical to select and create a sequence alignment score matrix, and variation of which may affect the alignment results. Various alignment-free tools [6] [7] [8] [9] [10] [11] [12] [13] have been developed over the past two decades to overcome the alignment complexity for phylogenetic analysis. An alignment-free approach consist of two steps for comparing protein sequences. At the first step, the protein sequences are converted into a fixed-length feature vectors. Feature extraction is a series of process for extracting the required information from the query sequences, which is critical for the accuracy of an alignment-free method. At the second step, these extracted feature vectors are used as an input data in vectors similarity comparison algorithm to perform downstream analysis like phylogenetic analysis. Methods based on graphical representation, distance frequency matrix, numerical characterization, K-string dictionary etc., have been introduced to overcome the complication of the sequence alignment. Graphical representation 14,15 of protein sequences provides a simple way of viewing, sorting and comparing various sequences. It also provides mathematical descriptor which help in identifying differences among similar protein sequences quantitatively. Distance frequency of amino acid pairs suggest a new numerical characterization of protein sequence, which converts protein sequence into a distance frequency matrix 16 . Numerical characterization directly extracted from protein sequence would capture the essence of the amino acid composition and their distribution on the protein sequence in a quantitative aspect. In this approach, each sequence is mapped into a vector or matrix based on the numerical characterization extracted from the protein sequence. Subsequently, a similarity score is calculated by following distance measure tools, such as, Euclidean distance, Cosine distance, Manhattan distance, etc., among their corresponding vectors or matrices. K-string dictionary 17 approach permit users to use a much lower dimensional frequency or probability vector to represent a protein sequence. It also significantly reduces the space requirement for their implementation. Furthermore, after getting the lower dimensional frequency vectors, Singular Value Decomposition (SVD) is used to get a better protein vector representation which helps user to obtain a precise phylogenetic tree. However, these above mentioned methods are lagging behind in terms of accuracy. Thus, more discriminatory features are still needed to be developed. In addition to the accuracy, these method have another drawback and that is, computational complexity. Motivated by the aforementioned work, in this study, we proposed to use fuzzy integral algorithm 18,19 for analysis of protein sequence based on Markov chain 20 . Fuzzy integral similarity 21,22 method assigns similarity score within the closed interval [0, 1] between two protein sequences. A protein sequence consists of twenty amino acids. By taking these 20 amino acids as a state space M = {A, I, we have used k th step transition probability matrix, fuzzy measure 23 , fuzzy integral to describe protein sequence. We have used fuzzy integral similarity for getting distance matrix, which is used in neighbor program in PHYLIP package 24 for constructing a phylogenetic tree. The advantage of our method is, it do not require any prior knowledge of homologous relationship (common ancestry) among the sequences, which makes it fully automated and robust. For validation of our developed algorithm, we implemented our approach on NADH Dehydrogenase-5 protein sequences, NADH Dehydrogenase-6 protein sequences, xylanases protein sequences in the F10 and G11 datasets, transferrin protein sequences, coronavirus spike protein sequences and beta-globin protein sequences. We compared the tree generated by our method with the trees generated by both alignment-free method, and alignment-based ClustalW method using MEGA package 25 . In addition, we used few standard statistical tools such as correlation coefficient (CC), Robinson-Foulds distance (RF-distance) 26 and receiver operating characteristic (ROC) 27-29 curve to compare distance matrices generated by our method with the other alignment-free methods. The main purpose of this study is to compare the performance among alignment-based and alignment-free protein clustering methods and to identify their strengths and weakness from the practical perspectives of the users.
+2	100	107 protein	Chemical	CHEBI_16541
+2	202	209 protein	Chemical	CHEBI_16541
+2	635	642 protein	Chemical	CHEBI_16541
+2	1082	1089 protein	Chemical	CHEBI_16541
+2	1124	1131 protein	Chemical	CHEBI_16541
+2	1780	1787 protein	Chemical	CHEBI_16541
+2	1966	1973 protein	Chemical	CHEBI_16541
+2	2022	2027 amino	Chemical	CHEBI_46882
+2	2022	2032 amino acid	Chemical	CHEBI_33704
+2	2028	2032 acid	Chemical	CHEBI_37527
+2	2083	2090 protein	Chemical	CHEBI_16541
+2	2116	2123 protein	Chemical	CHEBI_16541
+2	2222	2229 protein	Chemical	CHEBI_16541
+2	2257	2264 essence	Chemical	CHEBI_48318
+2	2272	2277 amino	Chemical	CHEBI_46882
+2	2272	2282 amino acid	Chemical	CHEBI_33704
+2	2278	2282 acid	Chemical	CHEBI_37527
+2	2325	2332 protein	Chemical	CHEBI_16541
+2	2493	2500 protein	Chemical	CHEBI_16541
+2	2838	2845 protein	Chemical	CHEBI_16541
+2	3002	3010 Singular	Chemical	CHEBI_6993
+2	3032	3035 SVD	Disease	DOID_0111570
+2	3061	3068 protein	Chemical	CHEBI_16541
+2	3518	3525 protein	Chemical	CHEBI_16541
+2	3672	3679 protein	Chemical	CHEBI_16541
+2	3693	3700 protein	Chemical	CHEBI_16541
+2	3729	3734 amino	Chemical	CHEBI_46882
+2	3729	3740 amino acids	Chemical	CHEBI_33704
+2	3735	3740 acids	Chemical	CHEBI_37527
+2	3761	3766 amino	Chemical	CHEBI_46882
+2	3761	3772 amino acids	Chemical	CHEBI_33704
+2	3767	3772 acids	Chemical	CHEBI_37527
+2	3902	3909 protein	Chemical	CHEBI_16541
+2	4334	4338 NADH	Chemical	CHEBI_16908
+2	4355	4362 protein	Chemical	CHEBI_16541
+2	4374	4378 NADH	Chemical	CHEBI_16908
+2	4395	4402 protein	Chemical	CHEBI_16541
+2	4424	4431 protein	Chemical	CHEBI_16541
+2	4483	4490 protein	Chemical	CHEBI_16541
+2	4520	4527 protein	Chemical	CHEBI_16541
+2	4554	4561 protein	Chemical	CHEBI_16541
+2	4716	4720 MEGA	Chemical	CHEBI_6617
+2	5116	5123 protein	Chemical	CHEBI_16541
+2	CHEBI-DOID	CHEBI_16541	DOID_0111570
+2	CHEBI-DOID	CHEBI_46882	DOID_0111570
+2	CHEBI-DOID	CHEBI_33704	DOID_0111570
+2	CHEBI-DOID	CHEBI_37527	DOID_0111570
+2	CHEBI-DOID	CHEBI_48318	DOID_0111570
+2	CHEBI-DOID	CHEBI_6993	DOID_0111570
+2	DOID-CHEBI	DOID_0111570	CHEBI_16908
+2	DOID-CHEBI	DOID_0111570	CHEBI_6617
+

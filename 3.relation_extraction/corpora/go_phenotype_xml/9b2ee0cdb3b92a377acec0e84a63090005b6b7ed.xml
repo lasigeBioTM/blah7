@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed">
+  <chunk id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c0" text="Identification of Protein Interaction Partners in Mammalian Cells Using SILAC-immunoprecipitation Quantitative Proteomics"/>
+  <chunk id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1" text="Quantitative proteomics combined with immuno-affinity purification, SILAC immunoprecipitation, represent a powerful means for the discovery of novel protein:protein interactions. By allowing the accurate relative quantification of protein abundance in both control and test samples, true interactions may be easily distinguished from experimental contaminants. Low affinity interactions can be preserved through the use of less-stringent buffer conditions and remain readily identifiable. This protocol discusses the labeling of tissue culture cells with stable isotope labeled amino acids, transfection and immunoprecipitation of an affinity tagged protein of interest, followed by the preparation for submission to a mass spectrometry facility. This protocol then discusses how to analyze and interpret the data returned from the mass spectrometer in order to identify cellular partners interacting with a protein of interest. As an example this technique is applied to identify proteins binding to the eukaryotic translation initiation factors: eIF4AI and eIF4AII.">
+    <entity charOffset="555-561" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e0" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="990-997" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e1" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="1016-1027" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e2" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="1016-1038" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e3" ontology_id="GO_0006413" text="translation initiation" type="gene_function"/>
+    <pair e1="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e0" e2="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e1" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.p0" relation="true"/>
+    <pair e1="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e0" e2="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e2" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.p1" relation="true"/>
+    <pair e1="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e0" e2="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.e3" id="9b2ee0cdb3b92a377acec0e84a63090005b6b7ed.c1.p2" relation="true"/>
+  </chunk>
+</document>

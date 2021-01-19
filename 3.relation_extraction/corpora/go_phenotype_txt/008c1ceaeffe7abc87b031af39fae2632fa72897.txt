@@ -1,0 +1,16 @@
+0|chunk|AMS 3.0: prediction of post-translational modifications
+
+1|chunk|Background: We present here the recent update of AMS algorithm for identification of post-translational modification (PTM) sites in proteins based only on sequence information, using artificial neural network (ANN) method. The query protein sequence is dissected into overlapping short sequence segments. Ten different physicochemical features describe each amino acid; therefore nine residues long segment is represented as a point in a 90 dimensional space. The database of sequence segments with confirmed by experiments post-translational modification sites are used for training a set of ANNs.
+1	85	116 post-translational modification	Gene_function	GO_0043687
+1	118	121 PTM	Gene_function	GO_0043687
+1	524	555 post-translational modification	Gene_function	GO_0043687
+
+2|chunk|The efficiency of the classification for each type of modification and the prediction power of the method is estimated here using recall (sensitivity), precision values, the area under receiver operating characteristic (ROC) curves and leave-one-out tests (LOOCV). The significant differences in the performance for differently optimized neural networks are observed, yet the AMS 3.0 tool integrates those heterogeneous classification schemes into the single consensus scheme, and it is able to boost the precision and recall values independent of a PTM type in comparison with the currently available state-of-the art methods.
+2	406	419 heterogeneous	Phenotype	HP_0001425
+2	550	553 PTM	Gene_function	GO_0043687
+2	HP-GO	HP_0001425	GO_0043687
+
+3|chunk|The standalone version of AMS 3.0 presents an efficient way to indentify post-translational modifications for whole proteomes. The training datasets, precompiled binaries for AMS 3.0 tool and the source code are available at Additional file 1 Supplementary materials for the publication. Supplementary.xls contains detailed results of training and testing of AMS 3.0 tool in MS Excel file format. Additional file 2 PTM predictor software with training data. PTM_Archive.tar.gz includes the predictor software binaries together with all trained ANNs in tar.gz compressed form.
+3	415	418 PTM	Gene_function	GO_0043687
+3	458	461 PTM	Gene_function	GO_0043687
+

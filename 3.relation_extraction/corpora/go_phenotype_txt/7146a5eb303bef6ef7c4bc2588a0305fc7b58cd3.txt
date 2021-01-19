@@ -1,0 +1,27 @@
+0|chunk|Illuminating the Sites of Enterovirus Replication in Living Cells by Using a Split-GFP-Tagged Viral Protein
+
+1|chunk|Like all other positive-strand RNA viruses, enteroviruses generate new organelles (replication organelles [ROs]) with a unique protein and lipid composition on which they multiply their viral genome. Suitable tools for live-cell imaging of enterovirus ROs are currently unavailable, as recombinant enteroviruses that carry genes that encode RO-anchored viral proteins tagged with fluorescent reporters have not been reported thus far. To overcome this limitation, we used a split green fluorescent protein (split-GFP) system, comprising a large fragment [strands 1 to 10; GFP(S1-10)] and a small fragment [strand 11; GFP(S11)] of only 16 residues. The GFP(S11) (GFP with S11 fragment) fragment was inserted into the 3A protein of the enterovirus coxsackievirus B3 (CVB3), while the large fragment was supplied by transient or stable expression in cells. The introduction of GFP(S11) did not affect the known functions of 3A when expressed in isolation. Using correlative light electron microscopy (CLEM), we showed that GFP fluorescence was detected at ROs, whose morphologies are essentially identical to those previously observed for wild-type CVB3, indicating that GFP(S11)-tagged 3A proteins assemble with GFP(S1-10) to form GFP for illumination of bona fide ROs. It is well established that enterovirus infection leads to Golgi disintegration. Through live-cell imaging of infected cells expressing an mCherry-tagged Golgi marker, we monitored RO development and revealed the dynamics of Golgi disassembly in real time. Having demonstrated the suitability of this virus for imaging ROs, we constructed a CVB3 encoding GFP(S1-10) and GFP(S11)-tagged 3A to bypass the need to express GFP(S1-10) prior to infection. These tools will have multiple applications in future studies on the origin, location, and function of enterovirus ROs. Citation van der Schaar HM, Melia CE, van Bruggen JAC, Strating JRPM, van Geenen MED, Koster AJ, Brcena M, van Kuppeveld FJM. 2016. Illuminating the sites of enterovirus replication in living cells by using a split-GFPtagged viral protein. mSphere 1(4):e00104-16. . are co-first authors. M.B. and F.J.M.V.K. are co-senior authors.
+1	813	822 transient	Phenotype	HP_0025153
+1	826	832 stable	Phenotype	HP_0031915
+1	1493	1510 Golgi disassembly	Gene_function	GO_0090166
+1	HP-GO	HP_0025153	GO_0090166
+1	HP-GO	HP_0031915	GO_0090166
+
+2|chunk|-Microbe Biology crossmark Volume 1 Issue 4 e00104-16 msphere.asm.org 1 van der Schaar et al. Volume 1 Issue 4 e00104-16 msphere.asm.org 2 Live Imaging of Enterovirus Replication Organelles Volume 1 Issue 4 e00104-16 msphere.asm.org 3 van der Schaar et al. Volume 1 Issue 4 e00104-16 msphere.asm.org 4 van der Schaar et al. Volume 1 Issue 4 e00104-16 msphere.asm.org 6
+
+3|chunk|FIG 5 Live-cell imaging reveals the association between 3A accumulation and local perturbation to
+
+4|chunk|and number of 3A-GFP punctae at the Golgi apparatus (white asterisk in 3A-GFP channel in panel B), although while 3A signal and GM130 were proximal at this stage, there was no clear colocalization (inset in panel B). Bars, 10 m.
+4	36	51 Golgi apparatus	Gene_function	GO_0005794
+4	139	147 proximal	Phenotype	HP_0012840
+4	GO-HP	GO_0005794	HP_0012840
+
+5|chunk|Live Imaging of Enterovirus Replication Organelles Volume 1 Issue 4 e00104-16 msphere.asm.org 9
+
+6|chunk|Construction of CVB3 encoding both GFP(S1-10) and 3A(S11aa2). Studying
+
+7|chunk|ROs induced by CVB3 encoding split-GFP-tagged 3A in distinct cell types requires the cellular expression of GFP(S1-10). To bypass the need for delivering the GFP(S1-10) gene via retroviral transduction or by generating stable cell lines, we constructed a FIG 6 Global disruption to Golgi morphology during CVB3 infection visualized by live-cell imaging. Cells were treated as described in the legend to Fig. 5. Imaging conditions were adjusted to better ascertain global Golgi morphology (600-m confocal pinhole) over the course of infection. Time zero (labeled 0) represents the moment of appearance of the 3A-GFP signal. Golgi fragmentation (white asterisk in the GM130 channel) was visible following accumulation of 3A-GFP (white asterisk in the 3A-GFP channel), leading to complete disassembly and a punctate GM130 signal. Bar, 10 m. van der Schaar et al. Volume 1 Issue 4 e00104-16 msphere.asm.org 10
+7	189	201 transduction	Gene_function	GO_0009293
+7	219	225 stable	Phenotype	HP_0031915
+7	GO-HP	GO_0009293	HP_0031915
+

@@ -1,0 +1,21 @@
+0|chunk|Heterogeneous pathological outcomes after experimental pH1N1 influenza infection in ferrets correlate with viral replication and host immune responses in the lung
+0	0	13 Heterogeneous	Phenotype	HP_0001425
+
+1|chunk|The swine-origin pandemic (p) H1N1 influenza A virus causes mild upper-respiratory tract disease in most human patients. However, some patients developed severe lower-respiratory tract infections with fatal consequences, and the cause of these infections remain unknown. Recently, it has been suggested that different populations have different degrees of susceptibility to pH1N1 strains due to host genetic variations that are associated with inappropriate immune responses against viral genetic characteristics. Here, we tested whether the pathologic patterns of influenza strains that produce different disease outcomes in humans could be reproduced in a ferret model. Our results revealed that the severities of infection did not correspond to particular viral isolate and were not associated with the clinical phenotypes of the corresponding patients. Severe pathological outcomes were associated with higher viral replication, especially in alveolar areas, and with an exacerbated innate cellular immune response that was characterised by substantial phagocytic and cytotoxic cell migration into the lungs. Moreover, detrimental innate cellular responses were linked to the up-regulation of several proinflammatory cytokines and chemokines and the down-regulation of IFN in the lungs. Additionally, severe lung lesions were associated with greater up-regulations of pro-apoptotic markers and higher levels of apoptotic neutrophils and macrophages. In conclusion, this study confirmed that the clinicopathological outcomes of pH1N1 infection in ferrets were not only due to viral replication abilities but also depended on the hosts' capacities to mount efficient immune responses to control viral infection of the lung.
+1	60	64 mild	Phenotype	HP_0012825
+1	154	160 severe	Phenotype	HP_0012828
+1	857	863 Severe	Phenotype	HP_0012828
+1	994	1018 cellular immune response	Gene_function	GO_0002443
+1	1003	1018 immune response	Gene_function	GO_0006955
+1	1082	1096 cell migration	Gene_function	GO_0016477
+1	1306	1312 severe	Phenotype	HP_0012828
+1	1698	1713 viral infection	Gene_function	GO_0016032
+1	HP-GO	HP_0012825	GO_0002443
+1	HP-GO	HP_0012825	GO_0006955
+1	HP-GO	HP_0012825	GO_0016477
+1	HP-GO	HP_0012825	GO_0016032
+1	HP-GO	HP_0012828	GO_0002443
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0016477
+1	HP-GO	HP_0012828	GO_0016032
+

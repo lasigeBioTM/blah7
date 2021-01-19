@@ -1,0 +1,63 @@
+0|chunk|Targeting interferon response genes sensitizes aromatase inhibitor resistant breast cancer cells to estrogen-induced cell death
+0	10	20 interferon	Chemical	CHEBI_52999
+0	47	66 aromatase inhibitor	Chemical	CHEBI_50790
+0	57	66 inhibitor	Chemical	CHEBI_35222
+0	77	90 breast cancer	Disease	DOID_1612
+0	84	90 cancer	Disease	DOID_162
+0	CHEBI-DOID	CHEBI_52999	DOID_1612
+0	CHEBI-DOID	CHEBI_52999	DOID_162
+0	CHEBI-DOID	CHEBI_50790	DOID_1612
+0	CHEBI-DOID	CHEBI_50790	DOID_162
+0	CHEBI-DOID	CHEBI_35222	DOID_1612
+0	CHEBI-DOID	CHEBI_35222	DOID_162
+
+1|chunk|Introduction: Estrogen deprivation using aromatase inhibitors (AIs) is currently the standard of care for postmenopausal women with hormone receptor-positive breast cancer. Unfortunately, the majority of patients treated with AIs eventually develop resistance, inevitably resulting in patient relapse and, ultimately, death. The mechanism by which resistance occurs is still not completely known, however, recent studies suggest that impaired/defective interferon signaling might play a role. In the present study, we assessed the functional role of IFITM1 and PLSCR1; two well-known interferon response genes in AI resistance. Methods: Real-time PCR and Western blot analyses were used to assess mRNA and protein levels of IFITM1, PLSCR1, STAT1, STAT2, and IRF-7 in AI-resistant MCF-7:5C breast cancer cells and AI-sensitive MCF-7 and T47D cells. Immunohistochemistry (IHC) staining was performed on tissue microarrays consisting of normal breast tissues, primary breast tumors, and AI-resistant recurrence tumors. Enzyme-linked immunosorbent assay was used to quantitate intracellular IFN level. Neutralizing antibody was used to block type 1 interferon receptor IFNAR1 signaling. Small interference RNA (siRNA) was used to knockdown IFITM1, PLSCR1, STAT1, STAT2, IRF-7, and IFN expression.
+1	14	22 Estrogen	Chemical	CHEBI_50114
+1	41	61 aromatase inhibitors	Chemical	CHEBI_50790
+1	51	61 inhibitors	Chemical	CHEBI_35222
+1	132	139 hormone	Chemical	CHEBI_24621
+1	158	171 breast cancer	Disease	DOID_1612
+1	165	171 cancer	Disease	DOID_162
+1	453	463 interferon	Chemical	CHEBI_52999
+1	487	491 role	Chemical	CHEBI_50906
+1	542	546 role	Chemical	CHEBI_50906
+1	584	594 interferon	Chemical	CHEBI_52999
+1	697	701 mRNA	Chemical	CHEBI_33699
+1	706	713 protein	Chemical	CHEBI_16541
+1	789	802 breast cancer	Disease	DOID_1612
+1	796	802 cancer	Disease	DOID_162
+1	1146	1156 interferon	Chemical	CHEBI_52999
+1	1203	1206 RNA	Chemical	CHEBI_33697
+1	CHEBI-DOID	CHEBI_50114	DOID_1612
+1	CHEBI-DOID	CHEBI_50114	DOID_162
+1	CHEBI-DOID	CHEBI_50790	DOID_1612
+1	CHEBI-DOID	CHEBI_50790	DOID_162
+1	CHEBI-DOID	CHEBI_35222	DOID_1612
+1	CHEBI-DOID	CHEBI_35222	DOID_162
+1	CHEBI-DOID	CHEBI_24621	DOID_1612
+1	CHEBI-DOID	CHEBI_24621	DOID_162
+1	DOID-CHEBI	DOID_1612	CHEBI_52999
+1	DOID-CHEBI	DOID_1612	CHEBI_50906
+1	DOID-CHEBI	DOID_1612	CHEBI_33699
+1	DOID-CHEBI	DOID_1612	CHEBI_16541
+1	DOID-CHEBI	DOID_1612	CHEBI_33697
+1	DOID-CHEBI	DOID_162	CHEBI_52999
+1	DOID-CHEBI	DOID_162	CHEBI_50906
+1	DOID-CHEBI	DOID_162	CHEBI_33699
+1	DOID-CHEBI	DOID_162	CHEBI_16541
+1	DOID-CHEBI	DOID_162	CHEBI_33697
+
+2|chunk|Results: We found that IFITM1 and PLSCR1 were constitutively overexpressed in AI-resistant MCF-7:5C breast cancer cells and AI-resistant tumors and that siRNA knockdown of IFITM1 significantly inhibited the ability of the resistant cells to proliferate, migrate, and invade. Interestingly, suppression of IFITM1 significantly enhanced estradiol-induced cell death in AI-resistant MCF-7:5C cells and markedly increased expression of p21, Bax, and Noxa in these cells. Significantly elevated level of IFN was detected in AI-resistant MCF-7:5C cells compared to parental MCF-7 cells and suppression of IFN dramatically reduced IFITM1, PLSCR1, p-STAT1, and p-STAT2 expression in the resistant cells. Lastly, neutralizing antibody against IFNAR1/2 and knockdown of STAT1/STAT2 completely suppressed IFITM1, PLSCR1, p-STAT1, and p-STAT2 expression in the resistant cells, thus confirming the involvement of the canonical IFN signaling pathway in driving the overexpression of IFITM1 and other interferon-stimulated genes (ISGs) in the resistant cells.
+2	100	113 breast cancer	Disease	DOID_1612
+2	107	113 cancer	Disease	DOID_162
+2	446	450 Noxa	Chemical	CHEBI_50397
+2	932	939 pathway	Chemical	CHEBI_34922
+2	DOID-CHEBI	DOID_1612	CHEBI_50397
+2	DOID-CHEBI	DOID_1612	CHEBI_34922
+2	DOID-CHEBI	DOID_162	CHEBI_50397
+2	DOID-CHEBI	DOID_162	CHEBI_34922
+
+3|chunk|Conclusion: Overall, these results demonstrate that constitutive overexpression of ISGs enhances the progression of AI-resistant breast cancer and that suppression of IFITM1 and other ISGs sensitizes AI-resistant cells to estrogen-induced cell death.
+3	129	142 breast cancer	Disease	DOID_1612
+3	136	142 cancer	Disease	DOID_162
+

@@ -1,0 +1,58 @@
+0|chunk|Prophylactic efficacy of orally administered Bacillus poly-- glutamic acid, a non-LPS TLR4 ligand, against norovirus infection in mice
+
+1|chunk|Poly-gamma-glutamic acid (-PGA), an extracellular biopolymer produced by Bacillus sp., is a noncanonical toll-like receptor 4 (TLR4) agonist. Here we show its antiviral efficacy against noroviruses. -PGA with a molecular mass of 2,000-kDa limited murine norovirus (MNV) replication in the macrophage cell line RAW264.7 by inducing interferon (IFN)- and conferred resistance to viral infection-induced cell death. Additionally, -PGA interfered with viral entry into cells. The potent antiviral state mounted by -PGA was not attributed to the upregulation of TLR4 or TLR3, a sensor known to recognize norovirus RNA. -PGA sensing by TLR4 required the two TLR4-associated accessory factors MD2 and CD14. In ex vivo cultures of mouse ileum, -PGA selectively increased the expression of IFN- in villi. In contrast, IFN- induction was negligible in the ileal Peyer's patches (PPs) where its expression was primarily induced by the replication of MNV. Oral administration of -PGA, which increased serum IFN- levels without inducing proinflammatory cytokines, reduced MNV loads in the ileum with PPs and mesenteric lymph nodes in mice. Our results disclose a -PGA-mediated nonconventional TLR4 signaling in the ileum, highlighting the potential use of -PGA as a prophylactic antiviral agent against noroviruses.
+1	37	50 extracellular	Gene_function	GO_0005576
+1	1197	1206 signaling	Gene_function	GO_0023052
+
+2|chunk|Toll-like receptor (TLR) 4 is a pattern-recognition receptor (PRR) that recognizes lipopolysaccharide (LPS) from Gram-negative bacteria as a pathogen-associated molecular pattern (PAMP). TLR4 signaling activates the MyD88 (myeloid differentiation primary-response protein 88)-and TRIF (TIR domain-containing adaptor protein-inducing interferon-)-dependent pathways to induce the production of proinflammatory cytokines and interferons (IFNs), respectively 1-4 . Since the discovery of TLR4 as a receptor for LPS, several non-LPS TLR4 ligands, which are mostly derived from microbes, have been identified and their roles in TLR4-mediated innate immune responses have been proposed 5-8 . During the onset of intestinal inflammation in response to PAMPs from colon and possibly non-LPS TLR4 ligands from diet, TLR4 signaling is likely to play an important role in intestinal epithelial cells (IECs) and immune cells, including, macrophages and dendritic cells. IFN and/or inflammatory cytokines produced in the intestine upon stimulation by these PAMPs would systemically act on virus-infected cells locally and/or far away from sites where IFN signaling was initially induced. However, TLR4 signaling in the small intestine is not well characterized 9 .
+2	62	65 PRR	Gene_function	GO_0038187
+2	192	201 signaling	Gene_function	GO_0023052
+2	698	703 onset	Phenotype	HP_0003674
+2	813	822 signaling	Gene_function	GO_0023052
+2	1143	1152 signaling	Gene_function	GO_0023052
+2	1190	1199 signaling	Gene_function	GO_0023052
+2	GO-HP	GO_0038187	HP_0003674
+2	GO-HP	GO_0023052	HP_0003674
+
+3|chunk|Noroviruses are positive-sense, single-stranded RNA viruses belonging to the Caliciviridae family 10 . Human norovirus (HuNoV) is transmitted via the fecal-oral route and propagates in the gastrointestinal (GI) tract 11 . It is the most common cause of non-bacterial acute outbreaks of gastroenteritis worldwide across all age groups 12 . Norovirus has become a global health burden due to its high-sustained viability in environment, high risk of infection with fewer than 100 particles, possibility of causing chronic infection in immune deficient hosts as well as the elderly and infants, and emergence of novel norovirus strains [13] [14] [15] [16] . Despite the breadth of potential antiviral drugs tested in vitro using a HuNoV replicon culture system 17 , limited studies have validated the efficacy of these drugs in vivo [18] [19] [20] . There are no reports on safe, prophylactic antiviral drugs that could prevent the onset of Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RePORTS | (2018) 8:8667 | acute gastroenteritis in immunocompromised hosts. In the absence of approved vaccines and specific antiviral therapies for HuNoV 18,21,22 , development of prophylactic or therapeutic measures against HuNoV has become the need of the hour.
+3	267	272 acute	Phenotype	HP_0011009
+3	512	519 chronic	Phenotype	HP_0011010
+3	512	529 chronic infection	Phenotype	HP_0031035
+3	929	934 onset	Phenotype	HP_0003674
+3	1038	1043 acute	Phenotype	HP_0011009
+
+4|chunk|Poly--glutamic acid (-PGA) is an anionic polypeptide synthesized and secreted by Bacillus species. In -PGA, d-and/or l-glutamate is polymerized via -amide linkages formed between the -amino and -carboxylic acid functional groups 23 . We had previously reported the activation of TLR4 signaling pathway by -PGA, leading to the production of type I interferon (IFN) ( and ) 6 . In vitro, -PGA displays antiviral activity against severe acute respiratory syndrome coronavirus and hepatitis C virus 6 . In norovirus-infected cells, IFN-/ production is initiated by the sensing of viral RNA genome via the cytoplasmic PRR MDA5 (melanoma differentiation-associated gene 5) and TLR3, followed by phosphorylation of IFN regulatory factor 3 (IRF-3) through two independent pathways 24 . This type I IFN signaling plays a major role in clearing mouse norovirus 24-26 and HuNoV 27,28 .
+4	285	307 TLR4 signaling pathway	Gene_function	GO_0034142
+4	290	299 signaling	Gene_function	GO_0023052
+4	290	307 signaling pathway	Gene_function	GO_0007165
+4	437	443 severe	Phenotype	HP_0012828
+4	444	449 acute	Phenotype	HP_0011009
+4	487	496 hepatitis	Phenotype	HP_0012115
+4	625	628 PRR	Gene_function	GO_0038187
+4	635	643 melanoma	Phenotype	HP_0002861
+4	701	716 phosphorylation	Gene_function	GO_0016310
+4	806	815 signaling	Gene_function	GO_0023052
+4	GO-HP	GO_0034142	HP_0012828
+4	GO-HP	GO_0034142	HP_0011009
+4	GO-HP	GO_0034142	HP_0012115
+4	GO-HP	GO_0034142	HP_0002861
+4	GO-HP	GO_0023052	HP_0012828
+4	GO-HP	GO_0023052	HP_0011009
+4	GO-HP	GO_0023052	HP_0012115
+4	GO-HP	GO_0023052	HP_0002861
+4	GO-HP	GO_0007165	HP_0012828
+4	GO-HP	GO_0007165	HP_0011009
+4	GO-HP	GO_0007165	HP_0012115
+4	GO-HP	GO_0007165	HP_0002861
+4	HP-GO	HP_0012828	GO_0038187
+4	HP-GO	HP_0012828	GO_0016310
+4	HP-GO	HP_0011009	GO_0038187
+4	HP-GO	HP_0011009	GO_0016310
+4	HP-GO	HP_0012115	GO_0038187
+4	HP-GO	HP_0012115	GO_0016310
+4	GO-HP	GO_0038187	HP_0002861
+4	HP-GO	HP_0002861	GO_0016310
+
+5|chunk|-PGA is a major ingredient of "natto", a Japanese traditional fermented food, and "Chungkookjang" a Korean fermented seasoning, both made from soybeans 6 and used for dietary consumption. In the present study, we investigated whether -PGA, a non-LPS TLR4 ligand, could activate TLR4 signaling when administered orally. Our results demonstrate the induction of IFN- by peroral administration of -PGA without the production of proinflammatory cytokines, thereby establishing an antiviral state against mouse norovirus. We provide evidence of in vivo efficacy of -PGA in limiting norovirus infection, highlighting the potential of -PGA as a prophylactic antiviral agent.
+5	285	294 signaling	Gene_function	GO_0023052
+

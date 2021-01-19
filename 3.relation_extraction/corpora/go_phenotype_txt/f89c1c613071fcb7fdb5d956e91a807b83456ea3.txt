@@ -1,0 +1,37 @@
+0|chunk|Respiratory Research Effects of intranasal TNF on granulocyte recruitment and activity in healthy subjects and patients with allergic rhinitis
+0	91	98 healthy	Phenotype	HP_0032322
+0	126	143 allergic rhinitis	Phenotype	HP_0003193
+0	135	143 rhinitis	Phenotype	HP_0012384
+
+1|chunk|Background: TNF may contribute to the pathophysiology of airway inflammation. For example, we have recently shown that nasal administration of TNF produces late phase co-appearance of granulocyte and plasma exudation markers on the mucosal surface. The objective of the present study was to examine indices of granulocyte presence and activity in response to intranasal TNF challenge.
+
+2|chunk|Healthy subjects and patients with allergic rhinitis (examined out of season) were subjected to nasal challenge with TNF (10 g) in a sham-controlled and crossover design. Nasal lavages were carried out prior to and 24 hours post challenge. Nasal biopsies were obtained post challenge. Nasal lavage fluid levels of myeloperoxidase (MPO) and eosinophil cationic protein (ECP) were analyzed as indices of neutrophil and eosinophil activity. Moreover, IL-8 and  2 -macroglobulin were analyzed as markers of pro-inflammatory cytokine production and plasma exudation. Nasal biopsy numbers of neutrophils and eosinophils were monitored.
+2	0	7 Healthy	Phenotype	HP_0032322
+2	35	52 allergic rhinitis	Phenotype	HP_0003193
+2	44	52 rhinitis	Phenotype	HP_0012384
+2	333	336 MPO	Gene_function	GO_0004601
+2	523	542 cytokine production	Gene_function	GO_0001816
+2	HP-GO	HP_0032322	GO_0004601
+2	HP-GO	HP_0032322	GO_0001816
+2	HP-GO	HP_0003193	GO_0004601
+2	HP-GO	HP_0003193	GO_0001816
+2	HP-GO	HP_0012384	GO_0004601
+2	HP-GO	HP_0012384	GO_0001816
+
+3|chunk|Results: Nasal lavage fluid levels of MPO recorded 24 hours post TNF challenge were increased in healthy subjects (p = 0.0081) and in patients with allergic rhinitis (p = 0.0081) (c.f. sham challenge). Similarly,  2 -macroglobulin was increased in healthy subjects (p = 0.014) and in patients with allergic rhinitis (p = 0.0034). Lavage fluid levels of ECP and IL-8 were not affected by TNF challenge. TNF increased the numbers of subepithelial neutrophils (p = 0.0021), but not the numbers of eosinophils.
+3	38	41 MPO	Gene_function	GO_0004601
+3	98	105 healthy	Phenotype	HP_0032322
+3	149	166 allergic rhinitis	Phenotype	HP_0003193
+3	158	166 rhinitis	Phenotype	HP_0012384
+3	250	257 healthy	Phenotype	HP_0032322
+3	300	317 allergic rhinitis	Phenotype	HP_0003193
+3	309	317 rhinitis	Phenotype	HP_0012384
+3	377	385 affected	Phenotype	HP_0032320
+3	GO-HP	GO_0004601	HP_0032322
+3	GO-HP	GO_0004601	HP_0003193
+3	GO-HP	GO_0004601	HP_0012384
+3	GO-HP	GO_0004601	HP_0032320
+
+4|chunk|Conclusion: TNF produces a nasal inflammatory response in humans that is characterised by late phase (i.e., 24 hours post challenge) neutrophil activity and plasma exudation.
+4	34	55 inflammatory response	Gene_function	GO_0006954
+

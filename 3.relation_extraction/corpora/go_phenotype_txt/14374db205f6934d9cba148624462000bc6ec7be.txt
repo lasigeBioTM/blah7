@@ -1,0 +1,37 @@
+0|chunk|Antibody Treatment against Angiopoietin-Like 4 Reduces Pulmonary Edema and Injury in Secondary Pneumococcal Pneumonia
+0	0	8 Antibody	Gene_function	GO_0003823
+0	0	8 Antibody	Gene_function	GO_0042571
+0	55	70 Pulmonary Edema	Phenotype	HP_0100598
+0	65	70 Edema	Phenotype	HP_0000969
+0	108	117 Pneumonia	Phenotype	HP_0002090
+0	GO-HP	GO_0003823	HP_0100598
+0	GO-HP	GO_0003823	HP_0000969
+0	GO-HP	GO_0003823	HP_0002090
+0	GO-HP	GO_0042571	HP_0100598
+0	GO-HP	GO_0042571	HP_0000969
+0	GO-HP	GO_0042571	HP_0002090
+
+1|chunk|Secondary bacterial lung infection by Streptococcus pneumoniae (S. pneumoniae) poses a serious health concern, especially in developing countries. We posit that the emergence of multiantibiotic-resistant strains will jeopardize current treatments in these regions. Deaths arising from secondary infections are more often associated with acute lung injury, a common consequence of hypercytokinemia, than with the infection per se. Given that secondary bacterial pneumonia often has a poor prognosis, newer approaches to improve treatment outcomes are urgently needed to reduce the high levels of morbidity and mortality. Using a sequential dual-infection mouse model of secondary bacterial lung infection, we show that host-directed therapy via immunoneutralization of the angiopoietin-like 4 c-isoform (cANGPTL4) reduced pulmonary edema and damage in infected mice. RNA sequencing analysis revealed that anti-cANGPTL4 treatment improved immune and coagulation functions and reduced internal bleeding and edema. Importantly, anti-cANGPTL4 antibody, when used concurrently with either conventional antibiotics or antipneumolysin antibody, prolonged the median survival of mice compared to monotherapy. Anti-cANGPTL4 treatment enhanced immune cell phagocytosis of bacteria while restricting excessive inflammation. This modification of immune responses improved the disease outcomes of secondary pneumococcal pneumonia. Taken together, our study emphasizes that host-directed therapeutic strategies are viable adjuncts to standard antimicrobial treatments.
+1	337	342 acute	Phenotype	HP_0011009
+1	461	470 pneumonia	Phenotype	HP_0002090
+1	821	836 pulmonary edema	Phenotype	HP_0100598
+1	831	836 edema	Phenotype	HP_0000969
+1	948	959 coagulation	Gene_function	GO_0050817
+1	982	999 internal bleeding	Phenotype	HP_0011029
+1	1004	1009 edema	Phenotype	HP_0000969
+1	1137	1146 prolonged	Phenotype	HP_0025297
+1	1245	1257 phagocytosis	Gene_function	GO_0006909
+1	1406	1415 pneumonia	Phenotype	HP_0002090
+1	HP-GO	HP_0011009	GO_0050817
+1	HP-GO	HP_0011009	GO_0006909
+1	HP-GO	HP_0002090	GO_0050817
+1	HP-GO	HP_0002090	GO_0006909
+1	HP-GO	HP_0100598	GO_0050817
+1	HP-GO	HP_0100598	GO_0006909
+1	HP-GO	HP_0000969	GO_0050817
+1	HP-GO	HP_0000969	GO_0006909
+1	GO-HP	GO_0050817	HP_0011029
+1	GO-HP	GO_0050817	HP_0025297
+1	HP-GO	HP_0011029	GO_0006909
+1	HP-GO	HP_0025297	GO_0006909
+

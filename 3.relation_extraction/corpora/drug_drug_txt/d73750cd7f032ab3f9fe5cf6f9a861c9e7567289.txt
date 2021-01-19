@@ -1,0 +1,67 @@
+0|chunk|Coronavirus nucleocapsid proteins assemble constitutively in high molecular oligomers OPEN
+0	25	33 proteins	Chemical	CHEBI_36080
+0	76	85 oligomers	Chemical	CHEBI_132554
+0	CHEBI-CHEBI	CHEBI_36080	CHEBI_132554
+
+1|chunk|Coronaviruses (CoV) are enveloped viruses and rely on their nucleocapsid N protein to incorporate the positive-stranded genomic RNA into the virions. CoV N proteins form oligomers but the mechanism and relevance underlying their multimerization remain to be fully understood. Using in vitro pulldown experiments and density glycerol gradients, we found that at least 3 regions distributed over its entire length mediate the self-interaction of mouse hepatitis virus (MHV) and severe acute respiratory syndrome coronavirus (SARS-CoV) N protein. The fact that these regions can bind reciprocally between themselves provides a possible molecular basis for N protein oligomerization. Interestingly, cytoplasmic N molecules of MHV-infected cells constitutively assemble into oligomers through a process that does not require binding to genomic RNA. Based on our data, we propose a model where constitutive N protein oligomerization allows the optimal loading of the genomic viral RNA into a ribonucleoprotein complex via the presentation of multiple viral RNA binding motifs.
+1	75	82 protein	Chemical	CHEBI_16541
+1	128	131 RNA	Chemical	CHEBI_33697
+1	156	164 proteins	Chemical	CHEBI_36080
+1	170	179 oligomers	Chemical	CHEBI_132554
+1	324	332 glycerol	Chemical	CHEBI_17754
+1	535	542 protein	Chemical	CHEBI_16541
+1	655	662 protein	Chemical	CHEBI_16541
+1	709	718 molecules	Chemical	CHEBI_25367
+1	770	779 oligomers	Chemical	CHEBI_132554
+1	839	842 RNA	Chemical	CHEBI_33697
+1	903	910 protein	Chemical	CHEBI_16541
+1	975	978 RNA	Chemical	CHEBI_33697
+1	1051	1054 RNA	Chemical	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_132554
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_17754
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_132554
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_17754
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_132554
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_17754
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_132554	CHEBI_17754
+1	CHEBI-CHEBI	CHEBI_132554	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_17754	CHEBI_25367
+
+2|chunk|Coronaviruses (CoV) are enveloped positive-stranded RNA viruses and Coronaviridae can be subdivided into four groups based on phylogenetic clustering: alpha-, beta-, gamma-and delta-CoV 1, 2 . Members of this virus family infect the mammalian respiratory and gastrointestinal tracts by incompletely understood mechanisms 2, 3 . The relevance of this virus family has considerably increased due to the recent emergence of the severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which are caused by viruses belonging to the beta-CoV group 4, 5 . The Mouse Hepatitis Virus (MHV) is closely related to SARS-CoV and MERS-CoV, and considered the prototype for the investigation of the CoV life cycle 6 .
+2	52	55 RNA	Chemical	CHEBI_33697
+
+3|chunk|The proteins encoded by the CoV genomic RNA (gRNA) can be divided into two major categories. The first entails the 15 or 16 nonstructural proteins (nsp1 to nsp15/16) 1, 2, 7 , which are synthesized in the host cell and assemble into the replicase-transcriptase complexes (RTCs). RTCs are associated with and/or are embedded into double-membrane vesicles (DMVs) and convoluted membranes, which are generated during CoV infection and very likely act as replication platforms 8 . The second category contains the structural and accessory proteins. A minimal set of 4 structural proteins is critically required for the efficient formation of infectious virions 1, 2, 7 . Those include the envelope (E), the membrane (M), the spike (S) and the nucleocapsid (N) proteins.
+3	4	12 proteins	Chemical	CHEBI_36080
+3	40	43 RNA	Chemical	CHEBI_33697
+3	138	146 proteins	Chemical	CHEBI_36080
+3	535	543 proteins	Chemical	CHEBI_36080
+3	575	583 proteins	Chemical	CHEBI_36080
+3	756	764 proteins	Chemical	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_33697
+
+4|chunk|The N protein is the only structural protein that associates with RTCs 9-11 . It binds the gRNA and it is essential for the incorporation of the virus genetic material into CoV particles 12, 13 . Moreover, it is the major component of ribonucleoprotein complex sitting in the virion cores 2, 7, 14 and thus also plays an essential architectural role in the virus particle structural organization through a network of interactions with the gRNA, the M protein and other N molecules 7, 8, 15 . The MHV N protein has been divided into multiple domains based on genetic analyses and structural studies [16] [17] [18] [19] [20] . The two largest domains, the N-terminal domain (NTD), also N1b, and the C-terminal domain (CTD), also N2b, fold independently and have gRNA-binding properties [16] [17] [18] 21 (Fig. 1a) . These two regions are flanked by the N-terminal N1a domain, the centrally located N2a domain, and the C-terminal B spacer and N3 domain 21 (Fig. 1a) .
+4	6	13 protein	Chemical	CHEBI_16541
+4	37	44 protein	Chemical	CHEBI_16541
+4	345	349 role	Chemical	CHEBI_50906
+4	451	458 protein	Chemical	CHEBI_16541
+4	471	480 molecules	Chemical	CHEBI_25367
+4	502	509 protein	Chemical	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_25367
+
+5|chunk|It has been hypothesized that dimerization and possibly oligomerization of CoV N proteins plays an essential role in virus particle assembly 21-25 . The ability of SARS-CoV N protein to self-interact was first demonstrated using yeast two-hybrid and co-immunoprecipitation experiments 26 . The crystal structures of the N2b/ CTD domain of SARS-CoV and MHV N proteins confirmed this observation, leading to the notion that N Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 5740 |
+5	81	89 proteins	Chemical	CHEBI_36080
+5	109	113 role	Chemical	CHEBI_50906
+5	175	182 protein	Chemical	CHEBI_16541
+5	358	366 proteins	Chemical	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+

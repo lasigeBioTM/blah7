@@ -1,0 +1,55 @@
+0|chunk|Porcine Epidemic Diarrhea Virus Induces Autophagy to Benefit Its Replication
+0	17	25 Diarrhea	Phenotype	HP_0002014
+0	40	49 Autophagy	Gene_function	GO_0006914
+0	HP-GO	HP_0002014	GO_0006914
+
+1|chunk|The new porcine epidemic diarrhea (PED) has caused devastating economic losses to the swine industry worldwide. Despite extensive research on the relationship between autophagy and virus infection, the concrete role of autophagy in porcine epidemic diarrhea virus (PEDV) infection has not been reported. In this study, autophagy was demonstrated to be triggered by the effective replication of PEDV through transmission electron microscopy, confocal microscopy, and Western blot analysis. Moreover, autophagy was confirmed to benefit PEDV replication by using autophagy regulators and RNA interference. Furthermore, autophagy might be associated with the expression of inflammatory cytokines and have a positive feedback loop with the NF-B signaling pathway during PEDV infection. This work is the first attempt to explore the complex interplay between autophagy and PEDV infection. Our findings might accelerate our understanding of the pathogenesis of PEDV infection and provide new insights into the development of effective therapeutic strategies.
+1	25	33 diarrhea	Phenotype	HP_0002014
+1	167	176 autophagy	Gene_function	GO_0006914
+1	219	228 autophagy	Gene_function	GO_0006914
+1	249	257 diarrhea	Phenotype	HP_0002014
+1	319	328 autophagy	Gene_function	GO_0006914
+1	499	508 autophagy	Gene_function	GO_0006914
+1	560	569 autophagy	Gene_function	GO_0006914
+1	616	625 autophagy	Gene_function	GO_0006914
+1	741	750 signaling	Gene_function	GO_0023052
+1	741	758 signaling pathway	Gene_function	GO_0007165
+1	854	863 autophagy	Gene_function	GO_0006914
+1	939	951 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0002014	GO_0006914
+1	HP-GO	HP_0002014	GO_0023052
+1	HP-GO	HP_0002014	GO_0007165
+1	HP-GO	HP_0002014	GO_0009405
+
+2|chunk|Viruses 2017, 9, 53 2 of 16 damaged organelles are delivered to lysosomes for degradation and recycling [8, 9] . Autophagy can be induced by diverse intracellular and extracellular stimuli, such as nutrient starvation, endoplasmic reticulum (ER) stress, pathogen-associated molecular patterns (PAMPs), and virus infection [10] . Increasing evidence indicates that autophagy plays both anti-viral and pro-viral roles in the life cycles and pathogenesis of a broad range of viruses [11] . Specifically, autophagy is an intrinsic host defense mechanism that inhibits viral replication or eliminates viruses by delivering them to the lysosomal compartment for degradation. Meanwhile, viruses develop many mechanisms to block autophagy or even hijack it for their own benefit, such as human cytomegalovirus (HCMV) and herpes simplex virus type 1 (HSV-1) [9, [12] [13] [14] . However, autophagy is also believed to serve as a platform for viral replication, especially for RNA viruses, such as classical swine fever virus (CSFV), porcine reproductive and respiratory syndrome virus (PRRSV), and rotavirus (RV), utilizing the membranes of the autophagosome-like vesicles for their replication [15] [16] [17] . These polar characteristics reveal the complicated relationship between autophagy and viral infection.
+2	78	89 degradation	Gene_function	GO_0009056
+2	113	122 Autophagy	Gene_function	GO_0006914
+2	149	162 intracellular	Gene_function	GO_0005622
+2	167	180 extracellular	Gene_function	GO_0005576
+2	219	240 endoplasmic reticulum	Gene_function	GO_0005783
+2	364	373 autophagy	Gene_function	GO_0006914
+2	439	451 pathogenesis	Gene_function	GO_0009405
+2	501	510 autophagy	Gene_function	GO_0006914
+2	656	667 degradation	Gene_function	GO_0009056
+2	721	730 autophagy	Gene_function	GO_0006914
+2	879	888 autophagy	Gene_function	GO_0006914
+2	1004	1009 fever	Phenotype	HP_0001945
+2	1275	1284 autophagy	Gene_function	GO_0006914
+2	GO-HP	GO_0009056	HP_0001945
+2	GO-HP	GO_0006914	HP_0001945
+2	GO-HP	GO_0005622	HP_0001945
+2	GO-HP	GO_0005576	HP_0001945
+2	GO-HP	GO_0005783	HP_0001945
+2	GO-HP	GO_0009405	HP_0001945
+
+3|chunk|A previous proteomic study indicated that more differentially expressed proteins were mapped to the autophagy pathway, and the microtubule-associated protein 1B, a useful biomarker protein for autophagy was up-regulated in PEDV-infected Vero cells [18] . In addition, our previous study demonstrated that mTOR (the mammalian target of rapamycin) pathway, which was closely associated with cellular autophagy, was down-regulated, and that the autophagy associated protein ATG5 was up-regulated during PEDV infection [19] . These studies indicated that autophagy might participate in PEDV infection, but the specific function of autophagy in the process of PEDV infection has not been elucidated. In the present study, we demonstrated for the first time that autophagy was triggered in Vero cells during PEDV infection to promote its replication. Moreover, autophagy might mediate the inflammatory responses induced by PEDV infection and have a positive correlation with the NF-B signaling pathway. Program of China (2016YFD0500702) and the China Agricultural Research System (CARS-36). We thank prof. Xiang Mao from the Shanghai Veterinary Research Institute, for providing the GFP-mRFP-LC3 tandem reporter construct.
+3	100	109 autophagy	Gene_function	GO_0006914
+3	193	202 autophagy	Gene_function	GO_0006914
+3	398	407 autophagy	Gene_function	GO_0006914
+3	442	451 autophagy	Gene_function	GO_0006914
+3	551	560 autophagy	Gene_function	GO_0006914
+3	627	636 autophagy	Gene_function	GO_0006914
+3	757	766 autophagy	Gene_function	GO_0006914
+3	855	864 autophagy	Gene_function	GO_0006914
+3	979	988 signaling	Gene_function	GO_0023052
+

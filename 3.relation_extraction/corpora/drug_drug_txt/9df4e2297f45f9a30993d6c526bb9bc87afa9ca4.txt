@@ -1,0 +1,37 @@
+0|chunk|Comparative studies of alignment, alignment-free and SVM based approaches for predicting the hosts of viruses based on viral sequences OPEN
+
+1|chunk|Predicting the hosts of newly discovered viruses is important for pandemic surveillance of infectious diseases. We investigated the use of alignment-based and alignment-free methods and support vector machine using mononucleotide frequency and dinucleotide bias to predict the hosts of viruses, and applied these approaches to three datasets: rabies virus, coronavirus, and influenza A virus. For coronavirus, we used the spike gene sequences, while for rabies and influenza A viruses, we used the more conserved nucleoprotein gene sequences. We compared the three methods under different scenarios and showed that their performances are highly correlated with the variability of sequences and sample size. For conserved genes like the nucleoprotein gene, longer k-mers than mono-and dinucleotides are needed to better distinguish the sequences. We also showed that both alignmentbased and alignment-free methods can accurately predict the hosts of viruses. When alignment is difficult to achieve or highly time-consuming, alignment-free methods can be a promising substitute to predict the hosts of new viruses.
+1	215	229 mononucleotide	Chemical	CHEBI_29075
+1	244	256 dinucleotide	Chemical	CHEBI_47885
+1	784	797 dinucleotides	Chemical	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_29075	CHEBI_47885
+
+2|chunk|Viruses are ubiquitous and can reproduce and evolve very fast. Virus infections in human can cause various diseases and are a big threat to human health. Many infectious disease studies showed that virus cross-species transmissions are highly prevalent resulting in emerging infectious diseases (EIDs) 1 . EIDs continue to pose significant public health problems as shown by the recent outbreaks of West Nile virus, SARS, MARS, and H1N1 2 . Rapidly identifying the reservoir of the new pathogenic bacterial or viral origins responsible for these diseases will help the containment, control, and prevention of the outbreaks 1,3,4 . Further, investigating the potential host of a virus can throw light on the evolutionary history of the virus, thus provide guidance on how to cut off the transmission path. The biological presumption for most of the host identification methods is that the more similar two viruses' DNA/RNA sequences are, they are more likely to share the same host 5 .
+2	694	699 light	Chemical	CHEBI_30212
+
+3|chunk|With the availability of various databases containing different types of pathogenic microbial species, one of the most commonly used approaches for identifying the origin of the new pathogen responsible for an EID is to find similar sequences in the pathogen databases using alignment by the Smith-Waterman algorithm 6 , BLAST 7 , or other alignment tools.
+
+4|chunk|Recently, several alignment-free methods have been developed for the identification of the hosts of pathogenic species. Kapoor et al. 8 used relative dinucleotide frequencies and discriminant analysis to infer the hosts of novel picorna-like viruses. Aguas and Ferguson 9 developed a feature selection method and used random forests (RF) based on the diverged nucleotide or amino acid bases among a set of aligned molecular sequences to predict the host species of pathogens. Tang et al. 10 developed a support vector machine (SVM) based method using monoand dinucleotide frequencies as features to detect the original hosts of coronaviruses with high accuracy. Kargarfard et al. 11 predicted the host range of the influenza virus using various machine learning approaches. Several new alignment-free statistics including  d 2 and d S 2 for molecular sequence comparison using k-mers (k-grams, words, etc.) were developed recently 12,13 . It was shown that such measures are highly associated with the evolutionary distances estimated from alignment-based methods, thus validating the usefulness of alignment-free
+4	150	162 dinucleotide	Chemical	CHEBI_47885
+4	360	370 nucleotide	Chemical	CHEBI_36976
+4	374	379 amino	Chemical	CHEBI_46882
+4	374	384 amino acid	Chemical	CHEBI_33704
+4	380	384 acid	Chemical	CHEBI_37527
+4	385	390 bases	Chemical	CHEBI_22695
+4	559	571 dinucleotide	Chemical	CHEBI_47885
+4	CHEBI-CHEBI	CHEBI_47885	CHEBI_36976
+4	CHEBI-CHEBI	CHEBI_47885	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_47885	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_47885	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_47885	CHEBI_22695
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_22695
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_22695
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_22695
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_22695
+

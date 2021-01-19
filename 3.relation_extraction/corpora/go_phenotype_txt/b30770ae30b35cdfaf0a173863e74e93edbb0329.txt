@@ -1,0 +1,30 @@
+0|chunk|P001 Sepsis impairs the capillary response within hypoxic capillaries and decreases erythrocyte oxygen-dependent ATP efflux P002 Lower serum immunoglobulin G2 level does not predispose to severe flu
+0	5	11 Sepsis	Phenotype	HP_0100806
+0	113	123 ATP efflux	Gene_function	GO_1904669
+0	141	155 immunoglobulin	Gene_function	GO_0003823
+0	188	194 severe	Phenotype	HP_0012828
+0	HP-GO	HP_0100806	GO_1904669
+0	HP-GO	HP_0100806	GO_0003823
+0	GO-HP	GO_1904669	HP_0012828
+0	GO-HP	GO_0003823	HP_0012828
+
+1|chunk|Critical Care 2016, 20(Suppl 2):P001
+
+2|chunk|Introduction: A hallmark of sepsis is early onset microvascular dysfunction. However, the mechanism responsible for maldistribution of capillary blood flow is not understood. Evidence suggests red blood cells (RBC) can sense local oxygen (O2) conditions and signal the vasculature, via adenosine triphosphate (ATP), to increase capillary flow. We hypothesized that sepsis impaired microvascular autoregulation over the entire capillary network, within a capillary and within the RBC. Study objectives were to: 1) measure capillary response time within hypoxic capillaries (capillaries with RBC hemoglobin oxygen saturation (SO2) < 20 %), 2) test the null hypothesis that sepsis had no effect on RBC O2-dependent ATP efflux and 3) develop a pathophysiological model. Methods: Hypotensive sepsis was studied in male Sprague-Dawley rats using cecal ligation and perforation, with a 6-hour end point. Rat hindlimb skeletal muscle microcirculation was imaged using a dual wavelength spectrophotometric intravital microscopy system, and capillary RBC supply rate (SR = RBC/s), RBC SO2 and oxygen supply rate (qO2 = pLO2/s) were quantified. Arterial NOx (nitrite + nitrate) and RBC O2-dependent ATP efflux were measured using a nitric oxide (NO) analyzer and gas exchanger, respectively. Results: Compared to control, sepsis increased capillary stopped flow and plasma lactate (p < 0.05). Increased plasma NOx (p < 0.001) was related to increased capillary RBC SR (p = 0.027). Analysis of 30second capillary SR-SO2-qO2 profiles, revealed a shift towards decreased (p < 0.05) oxygen supply rates in some capillaries. Moreover, capillary response time within hypoxic capillaries (time to restore capillary RBC SO2 > 20 %) increased 3-4 fold (p < 0.05). And, consistent with impaired microvascular autoregulation, the RBC's response to a hypoxic environment, measured as RBC O2-dependent ATP efflux, decreased by 62.5 % (p < 0.001). Conclusions: Sepsis impaired microvascular autoregulation at the capillary and erythrocyte level. Impaired autoregulation was manifested by increased capillary stopped-flow, increased capillary response time within hypoxic capillaries, decreased capillary oxygen supply rate and decreased RBC O2-dependent ATP efflux. This loss of local microvascular control was partially off-set by increased capillary RBC supply rate, which correlated with increased plasma NOx.
+2	28	34 sepsis	Phenotype	HP_0100806
+2	44	49 onset	Phenotype	HP_0003674
+2	365	371 sepsis	Phenotype	HP_0100806
+2	671	677 sepsis	Phenotype	HP_0100806
+2	712	722 ATP efflux	Gene_function	GO_1904669
+2	787	793 sepsis	Phenotype	HP_0100806
+2	1188	1198 ATP efflux	Gene_function	GO_1904669
+2	1252	1255 gas	Gene_function	GO_0034005
+2	1311	1317 sepsis	Phenotype	HP_0100806
+2	1878	1888 ATP efflux	Gene_function	GO_1904669
+2	1936	1942 Sepsis	Phenotype	HP_0100806
+2	2229	2239 ATP efflux	Gene_function	GO_1904669
+2	HP-GO	HP_0100806	GO_1904669
+2	HP-GO	HP_0100806	GO_0034005
+2	HP-GO	HP_0003674	GO_1904669
+2	HP-GO	HP_0003674	GO_0034005
+

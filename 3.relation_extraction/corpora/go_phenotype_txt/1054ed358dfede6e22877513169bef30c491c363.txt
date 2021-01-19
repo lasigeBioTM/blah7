@@ -1,0 +1,30 @@
+0|chunk|Class II Transactivator (CIITA) Enhances Cytoplasmic Processing of HIV-1 Pr55Gag
+
+1|chunk|Background: The Pr55 gag (Gag) polyprotein of HIV serves as a scaffold for virion assembly and is thus essential for progeny virion budding and maturation. Gag localizes to the plasma membrane (PM) and membranes of late endosomes, allowing for release of infectious virus directly from the cell membrane and/or upon exocytosis. The host factors involved in Gag trafficking to these sites are largely unknown. Upon activation, CD4+ T cells, the primary target of HIV infection, express the class II transcriptional activator (CIITA) and therefore the MHC class II isotype, HLA-DR. Similar to Gag, HLA-DR localizes to the PM and at the membranes of endosomes and specialized vesicular MHC class II compartments (MIICs). In HIV producer cells, transient HLA-DR expression induces intracellular Gag accumulation and impairs virus release.
+1	75	81 virion	Gene_function	GO_0019012
+1	75	90 virion assembly	Gene_function	GO_0019068
+1	125	131 virion	Gene_function	GO_0019012
+1	177	192 plasma membrane	Gene_function	GO_0005886
+1	184	192 membrane	Gene_function	GO_0016020
+1	290	303 cell membrane	Gene_function	GO_0005886
+1	295	303 membrane	Gene_function	GO_0016020
+1	741	750 transient	Phenotype	HP_0025153
+1	777	790 intracellular	Gene_function	GO_0005622
+1	GO-HP	GO_0019012	HP_0025153
+1	GO-HP	GO_0019068	HP_0025153
+1	GO-HP	GO_0005886	HP_0025153
+1	GO-HP	GO_0016020	HP_0025153
+1	HP-GO	HP_0025153	GO_0005622
+
+2|chunk|Methodology/Principal Findings: Here we demonstrate that both stable and transient expression of CIITA in HIV producer cells does not induce HLA-DR-associated intracellular retention of Gag, but does increase the infectivity of virions. However, neither of these phenomena is due to recapitulation of the class II antigen presentation pathway or CIITA-mediated transcriptional activation of virus genes. Interestingly, we demonstrate that CIITA, apart from its transcriptional effects, acts cytoplasmically to enhance Pr160 gag-pol (Gag-Pol) levels and thereby the viral protease and Gag processing, accounting for the increased infectivity of virions from CIITA-expressing cells.
+2	62	68 stable	Phenotype	HP_0031915
+2	73	82 transient	Phenotype	HP_0025153
+2	159	172 intracellular	Gene_function	GO_0005622
+2	314	334 antigen presentation	Gene_function	GO_0019882
+2	HP-GO	HP_0031915	GO_0005622
+2	HP-GO	HP_0031915	GO_0019882
+2	HP-GO	HP_0025153	GO_0005622
+2	HP-GO	HP_0025153	GO_0019882
+
+3|chunk|Conclusions/Significance: This study demonstrates that CIITA enhances HIV Gag processing, and provides the first evidence of a novel, post-transcriptional, cytoplasmic function for a well-known transactivator.
+

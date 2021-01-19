@@ -1,0 +1,12 @@
+0|chunk|Prediction of Peptide Reactivity with Human IVIg through a Knowledge-Based Approach
+0	14	21 Peptide	Chemical	CHEBI_16670
+
+1|chunk|The prediction of antibody-protein (antigen) interactions is very difficult due to the huge variability that characterizes the structure of the antibodies. The region of the antigen bound to the antibodies is called epitope. Experimental data indicate that many antibodies react with a panel of distinct epitopes (positive reaction). The Challenge 1 of DREAM5 aims at understanding whether there exists rules for predicting the reactivity of a peptide/epitope, i.e., its capability to bind to human antibodies. DREAM 5 provided a training set of peptides with experimentally identified high and low reactivities to human antibodies. On the basis of this training set, the participants to the challenge were asked to develop a predictive model of reactivity. A test set was then provided to evaluate the performance of the model implemented so far. We developed a logistic regression model to predict the peptide reactivity, by facing the challenge as a machine learning problem. The initial features have been generated on the basis of the available knowledge and the information reported in the dataset. Our predictive model had the second best performance of the challenge. We also developed a method, based on a clustering approach, able to ''in-silico'' generate a list of positive and negative new peptide sequences, as requested by the DREAM5 ''bonus round'' additional challenge. The paper describes the developed model and its results in terms of reactivity prediction, and highlights some open issues concerning the propensity of a peptide to react with human antibodies.
+1	36	43 antigen	Chemical	CHEBI_59132
+1	174	181 antigen	Chemical	CHEBI_59132
+1	444	451 peptide	Chemical	CHEBI_16670
+1	546	554 peptides	Chemical	CHEBI_16670
+1	904	911 peptide	Chemical	CHEBI_16670
+1	1303	1310 peptide	Chemical	CHEBI_16670
+1	1541	1548 peptide	Chemical	CHEBI_16670
+

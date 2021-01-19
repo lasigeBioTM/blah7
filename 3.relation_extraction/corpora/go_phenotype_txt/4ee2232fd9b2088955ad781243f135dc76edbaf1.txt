@@ -1,0 +1,32 @@
+0|chunk|Endoplasmic Reticulum Stress Contributes to Helicobacter Pylori VacA-Induced Apoptosis
+0	0	21 Endoplasmic Reticulum	Gene_function	GO_0005783
+
+1|chunk|Vacuolating cytotoxin A (VacA) is one of the important virulence factors produced by H. pylori. VacA induces apoptotic cell death, which is potentiated by ammonia. VacA also causes cell death by mitochondrial damage, via signaling pathways that are not fully defined. Our aim was to determine whether endoplasmic reticulum (ER) stress is associated with VacA-induced mitochondrial dysfunction and apoptosis. We found that C/EBP homologous protein (CHOP), a key signaling protein of ER stress-induced apoptosis, was transcriptionally up-regulated following incubation of gastric epithelial cells with VacA. The effect of VacA on CHOP induction was significantly enhanced by co-incubation with ammonium chloride. Phosphorylation of eukaryotic initiation factor 2 (eIF2)-alpha, which is known to occur downstream of the ER stress sensor PKR-like ERlocalized eIF2-alpha kinase (PERK) and to regulate CHOP expression, was also observed following incubation with VacA in the presence of ammonium chloride. Knockdown of CHOP by siRNA resulted in inhibition of VacA-induced apoptosis. Further studies showed that silencing of the PERK gene with siRNA attenuated VacA-mediated phosphorylation of eIF2alpha, CHOP induction, expression of BH3-only protein Bim and Bax activation, and cell death induced by VacA with ammonium chloride, indicating that ER stress may lead to mitochondrial dysfunction during VacA-induced toxicity. Activation of ER stress and up-regulation of BH3-only proteins were also observed in human H. pylori-infected gastric mucosa. Collectively, this study reveals a possible association between VacA-induced apoptosis in gastric epithelial cells, and activation of ER stress in H. pylori-positive gastric mucosa.
+1	109	129 apoptotic cell death	Gene_function	GO_0006915
+1	119	129 cell death	Gene_function	GO_0008219
+1	181	191 cell death	Gene_function	GO_0008219
+1	195	208 mitochondrial	Phenotype	HP_0001427
+1	221	230 signaling	Gene_function	GO_0023052
+1	301	322 endoplasmic reticulum	Gene_function	GO_0005783
+1	367	380 mitochondrial	Phenotype	HP_0001427
+1	367	392 mitochondrial dysfunction	Phenotype	HP_0003287
+1	461	470 signaling	Gene_function	GO_0023052
+1	482	509 ER stress-induced apoptosis	Gene_function	GO_0070059
+1	711	726 Phosphorylation	Gene_function	GO_0016310
+1	1168	1183 phosphorylation	Gene_function	GO_0016310
+1	1273	1283 cell death	Gene_function	GO_0008219
+1	1362	1375 mitochondrial	Phenotype	HP_0001427
+1	1362	1387 mitochondrial dysfunction	Phenotype	HP_0003287
+1	GO-HP	GO_0006915	HP_0001427
+1	GO-HP	GO_0006915	HP_0003287
+1	GO-HP	GO_0008219	HP_0001427
+1	GO-HP	GO_0008219	HP_0003287
+1	HP-GO	HP_0001427	GO_0023052
+1	HP-GO	HP_0001427	GO_0005783
+1	HP-GO	HP_0001427	GO_0070059
+1	HP-GO	HP_0001427	GO_0016310
+1	GO-HP	GO_0023052	HP_0003287
+1	GO-HP	GO_0005783	HP_0003287
+1	HP-GO	HP_0003287	GO_0070059
+1	HP-GO	HP_0003287	GO_0016310
+

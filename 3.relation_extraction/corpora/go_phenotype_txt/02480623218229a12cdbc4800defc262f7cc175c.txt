@@ -1,0 +1,32 @@
+0|chunk|Breast Cancer Resistance Protein (BCRP/ABCG2) Inhibits Extra Villous Trophoblast Migration: The Impact of Bacterial and Viral Infection
+0	0	13 Breast Cancer	Phenotype	HP_0003002
+0	7	13 Cancer	Phenotype	HP_0002664
+0	120	135 Viral Infection	Gene_function	GO_0016032
+0	HP-GO	HP_0003002	GO_0016032
+0	HP-GO	HP_0002664	GO_0016032
+
+1|chunk|Extravillous trophoblasts (EVT) migration into the decidua is critical for establishing placental perfusion and when dysregulated, may lead to pre-eclampsia (PE) and intrauterine growth restriction (IUGR). The breast cancer resistance protein (BCRP; encoded by ABCG2) regulates the fusion of cytotrophoblasts into syncytiotrophoblasts and protects the fetus from maternally derived xenobiotics. Information about BCRP function in EVTs is limited, however placental exposure to bacterial/viral infection leads to BCRP downregulation in syncitiotrophoblasts. We hypothesized that BCRP is involved in the regulation of EVT function and is modulated by infection/inflammation. We report that besides syncitiotrophoblasts and cytotrophoblasts, BCRP is also expressed in EVTs. BCRP inhibits EVT cell migration in HTR8/SVneo (human EVT-like) cells and in human EVT explant cultures, while not affecting cell proliferation. We have also shown that bacterial-lipopolysaccharide (LPS)-and viral antigens-single stranded RNA (ssRNA)-have a profound effect in downregulating ABCG2 and BCRP levels, whilst simultaneously increasing the migration potential of EVT-like cells. Our study reports a novel function of BCRP in early placentation and suggests that exposure of EVTs to maternal infection/inflammation could disrupt their migration potential via the downregulation of BCRP. This could negatively influence placental development/function, contribute to existing obstetric pathologies, and negatively impact pregnancy outcomes and maternal/neonatal health.
+1	143	156 pre-eclampsia	Phenotype	HP_0100602
+1	166	197 intrauterine growth restriction	Phenotype	HP_0001511
+1	179	185 growth	Gene_function	GO_0040007
+1	210	223 breast cancer	Phenotype	HP_0003002
+1	217	223 cancer	Phenotype	HP_0002664
+1	789	803 cell migration	Gene_function	GO_0016477
+1	1029	1037 profound	Phenotype	HP_0012829
+1	1214	1226 placentation	Gene_function	GO_0001890
+1	HP-GO	HP_0100602	GO_0040007
+1	HP-GO	HP_0100602	GO_0016477
+1	HP-GO	HP_0100602	GO_0001890
+1	HP-GO	HP_0001511	GO_0040007
+1	HP-GO	HP_0001511	GO_0016477
+1	HP-GO	HP_0001511	GO_0001890
+1	GO-HP	GO_0040007	HP_0003002
+1	GO-HP	GO_0040007	HP_0002664
+1	GO-HP	GO_0040007	HP_0012829
+1	HP-GO	HP_0003002	GO_0016477
+1	HP-GO	HP_0003002	GO_0001890
+1	HP-GO	HP_0002664	GO_0016477
+1	HP-GO	HP_0002664	GO_0001890
+1	GO-HP	GO_0016477	HP_0012829
+1	HP-GO	HP_0012829	GO_0001890
+

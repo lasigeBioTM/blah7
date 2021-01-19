@@ -1,0 +1,30 @@
+0|chunk|Cell-type specific requirements for thiol/disulfide exchange during HIV-1 entry and infection
+
+1|chunk|Background: The role of disulfide bond remodeling in HIV-1 infection is well described, but the process still remains incompletely characterized. At present, the data have been predominantly obtained using established cell lines and/or CXCR4-tropic laboratory-adapted virus strains. There is also ambiguity about which disulfide isomerases/ reductases play a major role in HIV-1 entry, as protein disulfide isomerase (PDI) and/or thioredoxin (Trx) have emerged as the two enzymes most often implicated in this process.
+1	16	20 role	Chemical	CHEBI_50906
+1	24	33 disulfide	Chemical	CHEBI_48343
+1	319	328 disulfide	Chemical	CHEBI_48343
+1	365	369 role	Chemical	CHEBI_50906
+1	389	396 protein	Chemical	CHEBI_16541
+1	389	406 protein disulfide	Chemical	CHEBI_16249
+1	397	406 disulfide	Chemical	CHEBI_48343
+1	430	441 thioredoxin	Chemical	CHEBI_15033
+
+2|chunk|We have extended our previous findings and those of others by focusing on CCR5-using HIV-1 strains and their natural targets -primary human macrophages and CD4 + T lymphocytes. We found that the nonspecific thiol/ disulfide exchange inhibitor, 5,5'-dithiobis(2-nitrobenzoic acid) (DTNB), significantly reduced HIV-1 entry and infection in cell lines, human monocyte-derived macrophages (MDM), and also phytohemagglutinin (PHA)stimulated peripheral blood mononuclear cells (PBMC). Subsequent studies were performed using specific anti-PDI or Trx monoclonal antibodies (mAb) in HIV-1 envelope pseudotyped and wild type (wt) virus infection systems. Although human donor-to-donor variability was observed as expected, Trx appeared to play a greater role than PDI in HIV-1 infection of MDM. In contrast, PDI, but not Trx, was predominantly involved in HIV-1 entry and infection of the CD4 + /CCR5 + T cell line, PM-1, and PHA-stimulated primary human T lymphocytes. Intriguingly, both PDI and Trx were present on the surface of MDM, PM-1 and PHA-stimulated CD4 + T cells. However, considerably lower levels of Trx were detected on freshly isolated CD4 + lymphocytes, compared to PHA-stimulated cells.
+2	214	223 disulfide	Chemical	CHEBI_48343
+2	259	278 2-nitrobenzoic acid	Chemical	CHEBI_25620
+2	274	278 acid	Chemical	CHEBI_37527
+2	422	425 PHA	Chemical	CHEBI_78037
+2	622	637 virus infection	Disease	DOID_934
+2	746	750 role	Chemical	CHEBI_50906
+2	CHEBI-DOID	CHEBI_48343	DOID_934
+2	CHEBI-DOID	CHEBI_25620	DOID_934
+2	CHEBI-DOID	CHEBI_37527	DOID_934
+2	CHEBI-DOID	CHEBI_78037	DOID_934
+2	DOID-CHEBI	DOID_934	CHEBI_50906
+
+3|chunk|Conclusions: Our findings clearly demonstrate the role of thiol/disulfide exchange in HIV-1 entry in primary T lymphocytes and MDM. They also establish a cell-type specificity regarding the involvement of particular disulfide isomerases/reductases in this process and may provide an explanation for differences among previously published studies. More importantly, from an in vivo perspective, the preferential utilization of PDI may be relevant to the HIV-1 entry and establishment of virus reservoirs in resting CD4 + cells, while the elevated levels of Trx reported in the chronic stages of HIV-1 infection may facilitate the virus entry in macrophages and help to sustain high viremia during the decline of T lymphocytes.
+3	50	54 role	Chemical	CHEBI_50906
+3	64	73 disulfide	Chemical	CHEBI_48343
+3	216	225 disulfide	Chemical	CHEBI_48343
+

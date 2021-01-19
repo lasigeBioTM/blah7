@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="de34db0d2ca85142ffadf43e8a6abec285608f9e">
+  <chunk id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0" text="Avian infectious bronchitis virus disrupts the melanoma differentiation associated gene 5 (MDA5) signaling pathway by cleavage of the adaptor protein MAVS">
+    <entity charOffset="17-27" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e0" ontology_id="DOID_6132" text="bronchitis" type="disease"/>
+    <entity charOffset="47-55" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e1" ontology_id="DOID_1909" text="melanoma" type="disease"/>
+    <entity charOffset="107-114" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e2" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="142-149" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e2" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.p0" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e3" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.p1" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e1" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e2" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.p2" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e1" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.e3" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c0.p3" relation="true"/>
+  </chunk>
+  <chunk id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1" text="Background: Melanoma differentiation associated gene 5 (MDA5) and retinoic acid-inducible gene-I (RIG-I) selectively sense cytoplasmic viral RNA to induce an antiviral immune response. Infectious bronchitis virus (IBV) is one of the most important infectious agents in chickens, and in chicken cells, it can be recognized by MDA5 to activate interferon production. RIG-I is considered to be absent in chickens. However, the absence of RIG-I in chickens raises the question of whether this protein influences the antiviral immune response against IBV infection.">
+    <entity charOffset="12-20" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" ontology_id="DOID_1909" text="Melanoma" type="disease"/>
+    <entity charOffset="141-144" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="158-167" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e2" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="196-206" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" ontology_id="DOID_6132" text="bronchitis" type="disease"/>
+    <entity charOffset="342-352" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e4" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="489-496" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="512-521" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e6" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e1" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p0" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e2" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p1" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e4" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p2" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e5" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p3" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e0" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e6" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p4" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e1" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p5" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e2" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p6" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e4" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p7" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e5" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p8" relation="true"/>
+    <pair e1="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e3" e2="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.e6" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c1.p9" relation="true"/>
+  </chunk>
+  <chunk id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c2" text="Here, we showed that chicken cells transfected with domestic goose RIG-I (dgRIG-I) exhibited increased IFN-β activity after IBV infection. We also found that IBV can cleave MAVS, an adaptor protein downstream of RIG-I and MDA5 that acts as a platform for antiviral innate immunity at an early stage of infection.">
+    <entity charOffset="190-197" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="255-264" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c2.e1" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+  <chunk id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c3" text="Conclusions: Although chicken MDA5 (chMDA5) is functionally active during IBV infection, the absence of RIG-I may increase the susceptibility of chickens to IBV infection, and IBV may disrupt the activation of the host antiviral response through the cleavage of MAVS.">
+    <entity charOffset="219-228" id="de34db0d2ca85142ffadf43e8a6abec285608f9e.c3.e0" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+</document>

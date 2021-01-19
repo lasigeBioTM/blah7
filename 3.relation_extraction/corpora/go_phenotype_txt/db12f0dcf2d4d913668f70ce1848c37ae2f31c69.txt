@@ -1,0 +1,51 @@
+0|chunk|Cerebrospinal fluid chemokine patterns in children with enterovirus 71-related encephalitis
+0	79	91 encephalitis	Phenotype	HP_0002383
+
+1|chunk|In the present study, we evaluated the cerebrospinal fluid (CSF) levels of the chemokines IL-8, RANTES, MIG, MCP-1 and IP-10 in 99 children with EV71-related encephalitis and 22 children with febrile convulsion (FC). We found that the concentrations of IL-8, RANTES, MIG and IP-10 were significantly higher in HFMD children with encephalitis compared to patients with FC. Additionally, these four chemokines were dramatically reduced during convalescence. Inversely, the level of MCP-1 was lower in encephalitis patients than FC patients and was not significantly reduced during convalescence. Additionally, MIG was strongly correlated with IP-10 in encephalitis patients. Furthermore, the area under the ROC curve (AUC) of CSF MIG and IP-10 in distinguishing encephalitis from FC were 0.869 and 0.876, and the corresponding sensitivities/specificities were 67.7%/100.0% and 67.7%/95.5%, respectively. In conclusion, our results indicate that chemokines play important roles in the pathogenesis of EV71 infection.
+1	158	170 encephalitis	Phenotype	HP_0002383
+1	192	210 febrile convulsion	Phenotype	HP_0002373
+1	329	341 encephalitis	Phenotype	HP_0002383
+1	499	511 encephalitis	Phenotype	HP_0002383
+1	650	662 encephalitis	Phenotype	HP_0002383
+1	760	772 encephalitis	Phenotype	HP_0002383
+1	982	994 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0002383	GO_0009405
+1	HP-GO	HP_0002373	GO_0009405
+
+2|chunk|Enterovirus 71 (EV71) is one of the major agents that causes hand, foot and mouth disease (HFMD) in infants and young children, which is characterized by fever, ulcers in the oral mucosa and vesicles on the hands and feet 1 . Although EV71 infection in most cases is self-limited, it can also induce severe neurological complications, such as aseptic meningitis (AM), encephalitis, brainstem encephalitis (BE), pulmonary edema (PE) and other rarer manifestations 1 . These neurological complications can sometimes lead to permanent neurologic sequelae and even death, and fatal PE or cardiorespiratory failure is thought be the main disease process in fatal cases 1 . It has also been postulated that dysregulation of inflammatory responses and cellular immunity are possibly responsible for this pathogenesis 2-4 . For instance, an in vitro study conducted by Lu et al. showed that EV71 inhibited the cellular type I IFN response by targeting a subunit of the IFN receptor, IFNAR1 2 . An animal study revealed that both the lymphocyte and antibody responses reduced the mortality and tissue viral loads of EV71-infected mice 3 . In a clinical study, it was shown that elevated cytokine production (including IL-10, IL-13 and IFN-) and lymphocyte (including CD4 + T cells, CD8 + T cells, natural killer cells) depletion were responsible for EV71 infection 4 . Unfortunately, to date, there is no effective vaccines or therapy available for EV71 infection. Therefore, developing a better understanding of the neuropathogenesis of EV71 infection is of the utmost importance in developing a more effective clinical therapy for treating HMFD patients.
+2	300	306 severe	Phenotype	HP_0012828
+2	351	361 meningitis	Phenotype	HP_0001287
+2	368	380 encephalitis	Phenotype	HP_0002383
+2	392	404 encephalitis	Phenotype	HP_0002383
+2	411	426 pulmonary edema	Phenotype	HP_0100598
+2	421	426 edema	Phenotype	HP_0000969
+2	797	809 pathogenesis	Gene_function	GO_0009405
+2	1040	1048 antibody	Gene_function	GO_0003823
+2	1040	1048 antibody	Gene_function	GO_0042571
+2	1178	1197 cytokine production	Gene_function	GO_0001816
+2	HP-GO	HP_0012828	GO_0009405
+2	HP-GO	HP_0012828	GO_0003823
+2	HP-GO	HP_0012828	GO_0042571
+2	HP-GO	HP_0012828	GO_0001816
+2	HP-GO	HP_0001287	GO_0009405
+2	HP-GO	HP_0001287	GO_0003823
+2	HP-GO	HP_0001287	GO_0042571
+2	HP-GO	HP_0001287	GO_0001816
+2	HP-GO	HP_0002383	GO_0009405
+2	HP-GO	HP_0002383	GO_0003823
+2	HP-GO	HP_0002383	GO_0042571
+2	HP-GO	HP_0002383	GO_0001816
+2	HP-GO	HP_0100598	GO_0009405
+2	HP-GO	HP_0100598	GO_0003823
+2	HP-GO	HP_0100598	GO_0042571
+2	HP-GO	HP_0100598	GO_0001816
+2	HP-GO	HP_0000969	GO_0009405
+2	HP-GO	HP_0000969	GO_0003823
+2	HP-GO	HP_0000969	GO_0042571
+2	HP-GO	HP_0000969	GO_0001816
+
+3|chunk|Chemokines are a group of small secreted proteins that have been shown to induce directed chemotaxis in response to inflammation 5 . The most investigated chemokines belong to the CC and CXC families, which are classified by the relative position of the first consensus cysteines (either separated by a non-conserved amino acid or next to each other). CC chemokines include regulated upon activation normal T cell expressed and secreted (RANTES, also termed CCL5) and monocyte chemoattractant protein-1 (MCP-1, also termed CCL2), while interferon--inducible protein 10 (IP-10, also termed CXCL10), monokine induced by IFN- (MIG, also termed CXCL9) and interleukin-8 (IL-8, also termed CXCL8) belong to the CXC family 5 . Although they were initially characterized as being important in inflammation by targeting leukocytes, chemokines are now considered to
+3	90	100 chemotaxis	Gene_function	GO_0006935
+3	238	246 position	Phenotype	HP_0012830
+3	GO-HP	GO_0006935	HP_0012830
+

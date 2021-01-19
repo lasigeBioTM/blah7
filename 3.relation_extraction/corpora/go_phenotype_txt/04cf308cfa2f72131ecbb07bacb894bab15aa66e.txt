@@ -1,0 +1,33 @@
+0|chunk|A Fusion-Inhibiting Peptide against Rift Valley Fever Virus Inhibits Multiple, Diverse Viruses
+0	41	53 Valley Fever	Phenotype	HP_0032249
+0	48	53 Fever	Phenotype	HP_0001945
+
+1|chunk|For enveloped viruses, fusion of the viral envelope with a cellular membrane is critical for a productive infection to occur. This fusion process is mediated by at least three classes of fusion proteins (Class I, II, and III) based on the protein sequence and structure. For Rift Valley fever virus (RVFV), the glycoprotein Gc (Class II fusion protein) mediates this fusion event following entry into the endocytic pathway, allowing the viral genome access to the cell cytoplasm. Here, we show that peptides analogous to the RVFV Gc stem region inhibited RVFV infectivity in cell culture by inhibiting the fusion process. Further, we show that infectivity can be inhibited for diverse, unrelated RNA viruses that have Class I (Ebola virus), Class II (Andes virus), or Class III (vesicular stomatitis virus) fusion proteins using this single peptide. Our findings are consistent with an inhibition mechanism similar to that proposed for stem peptide fusion inhibitors of dengue virus in which the RVFV inhibitory peptide first binds to both the virion and cell membranes, allowing it to traffic with the virus into the endocytic pathway. Upon acidification and rearrangement of Gc, the peptide is then able to specifically bind to Gc and prevent fusion of the viral and endocytic membranes, thus inhibiting viral infection. These results could provide novel insights into conserved features among the three classes of viral fusion proteins and offer direction for the future development of broadly active fusion inhibitors.
+1	37	51 viral envelope	Gene_function	GO_0019031
+1	43	51 envelope	Gene_function	GO_0031975
+1	59	76 cellular membrane	Gene_function	GO_0005886
+1	68	76 membrane	Gene_function	GO_0016020
+1	280	292 Valley fever	Phenotype	HP_0032249
+1	287	292 fever	Phenotype	HP_0001945
+1	789	799 stomatitis	Phenotype	HP_0010280
+1	1044	1050 virion	Gene_function	GO_0019012
+1	1142	1155 acidification	Gene_function	GO_0045851
+1	GO-HP	GO_0019031	HP_0032249
+1	GO-HP	GO_0019031	HP_0001945
+1	GO-HP	GO_0019031	HP_0010280
+1	GO-HP	GO_0031975	HP_0032249
+1	GO-HP	GO_0031975	HP_0001945
+1	GO-HP	GO_0031975	HP_0010280
+1	GO-HP	GO_0005886	HP_0032249
+1	GO-HP	GO_0005886	HP_0001945
+1	GO-HP	GO_0005886	HP_0010280
+1	GO-HP	GO_0016020	HP_0032249
+1	GO-HP	GO_0016020	HP_0001945
+1	GO-HP	GO_0016020	HP_0010280
+1	HP-GO	HP_0032249	GO_0019012
+1	HP-GO	HP_0032249	GO_0045851
+1	HP-GO	HP_0001945	GO_0019012
+1	HP-GO	HP_0001945	GO_0045851
+1	HP-GO	HP_0010280	GO_0019012
+1	HP-GO	HP_0010280	GO_0045851
+

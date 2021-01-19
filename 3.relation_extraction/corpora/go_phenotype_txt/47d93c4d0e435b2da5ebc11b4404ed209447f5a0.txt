@@ -1,0 +1,123 @@
+0|chunk|Angiotensin-converting enzyme 2 prevents lipopolysaccharide- induced rat acute lung injury via suppressing the ERK1/2 and NF-B signaling pathways OPEN
+0	73	78 acute	Phenotype	HP_0011009
+0	128	137 signaling	Gene_function	GO_0023052
+0	HP-GO	HP_0011009	GO_0023052
+
+1|chunk|Acute respiratory distress syndrome (ARDS) caused by severe sepsis remains a major challenge in intensive care medicine. ACE2 has been shown to protect against lung injury. However, the mechanisms of its protective effects on ARDS are largely unknown. Here, we report that ACE2 prevents LPS-induced ARDS by inhibiting MAPKs and NF-B signaling pathway. Lentiviral packaged Ace2 cDNA or Ace2 shRNA was intratracheally administrated into the lungs of male SD rats. Two weeks after gene transfer, animals received LPS (7.5 mg/Kg) injection alone or in combination with Mas receptor antagonist A779 (10 g/Kg) or ACE2 inhibitor MLN-4760 (1 mg/Kg) pretreatment. LPS-induced lung injury and inflammatory response were significantly prevented by ACE2 overexpression and deteriorated by Ace2 shRNA. A779 or MLN-4760 pretreatment abolished the protective effects of ACE2. Moreover, overexpression of ACE2 significantly reduced the Ang II/Ang-(1-7) ratio in BALF and up-regulated Mas mRNA expression in lung, which was reversed by A779. Importantly, the blockade of ACE2 on LPSinduced phosphorylation of ERK1/2, p38 and p50/p65 was also abolished by A779. Whereas, only the ERK1/2 inhibitor significantly attenuated lung injury in ACE2 overexpressing rats pretreated with A779. Our observation suggests that AEC2 attenuates LPS-induced ARDS via the Ang-(1-7)/Mas pathway by inhibiting ERK/NF-B activation.
+1	0	5 Acute	Phenotype	HP_0011009
+1	6	26 respiratory distress	Phenotype	HP_0002098
+1	53	59 severe	Phenotype	HP_0012828
+1	60	66 sepsis	Phenotype	HP_0100806
+1	334	343 signaling	Gene_function	GO_0023052
+1	566	569 Mas	Gene_function	GO_0034992
+1	685	706 inflammatory response	Gene_function	GO_0006954
+1	970	973 Mas	Gene_function	GO_0034992
+1	1075	1090 phosphorylation	Gene_function	GO_0016310
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0034992
+1	HP-GO	HP_0011009	GO_0006954
+1	HP-GO	HP_0011009	GO_0016310
+1	HP-GO	HP_0002098	GO_0023052
+1	HP-GO	HP_0002098	GO_0034992
+1	HP-GO	HP_0002098	GO_0006954
+1	HP-GO	HP_0002098	GO_0016310
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0034992
+1	HP-GO	HP_0012828	GO_0006954
+1	HP-GO	HP_0012828	GO_0016310
+1	HP-GO	HP_0100806	GO_0023052
+1	HP-GO	HP_0100806	GO_0034992
+1	HP-GO	HP_0100806	GO_0006954
+1	HP-GO	HP_0100806	GO_0016310
+
+2|chunk|Acute respiratory distress syndrome (ARDS) remains the major cause of mortality and morbidity in intensive care 1,2 . ARDS is a type of acute diffuse and inflammatory lung injury, which is caused by the release of pro-inflammatory cytokines and the recruitment of granulocytes and monocytes into the lung, leading to increased pulmonary vascular permeability and loss of aerated alveolus 3,4 . At present, the only effective therapy for ARDS is protective mechanical ventilation with low tidal volume of 6 mL/kg 5 . No specific and effective pharmacological intervention for ARDS is currently available 6 . Therefore, it is urgent to identify, validate, and develop pharmaceutical drugs for the treatment of ARDS.
+2	0	5 Acute	Phenotype	HP_0011009
+2	6	26 respiratory distress	Phenotype	HP_0002098
+2	136	141 acute	Phenotype	HP_0011009
+2	142	149 diffuse	Phenotype	HP_0020034
+
+3|chunk|Angiotensin-converting enzyme 2 (ACE2), a homologue of ACE, shares approximately 61% homology sequence with the catalytic domains of ACE but acts as an endogenous counter-regulator of ACE 7 . In contrast to ACE, which cleaves angiotensin (Ang) I into Ang II, ACE2 primarily hydrolyzes Ang II into Ang-(1-7). Ang II triggers vasoconstriction, inflammation, proliferation and apoptosis via binding to its specific Ang II type 1 receptor (AT1R), while Ang-(1-7) counteracts the effects of Ang II via its G protein-coupled receptor Mas 8-10 . Therefore, the balance of ACE and ACE2 influences the endogenous ratio of Ang II to Ang-(1-7), and consequently contributes to the regulation of the tension of vascular, as well as inflammatory response and organ function after injury 11,12 . Accumulating evidence indicate that ACE2 plays an important role in the pathophysiology of ARDS. ACE2 has been identified as a key receptor of coronavirus that causes the severe acute respiratory syndrome, and its level in human airway epithelia positively correlates with coronavirus infection 13 . Compared with wild type mice, Ace2 knockout mice exhibited impaired exercise capacity, worse lung function and exacerbated lung fibrosis in model of bleomycin-induced lung injury 14 . Furthermore, in three animal models of ARDS, Ace2 knockout mice showed severe lung disease, including enhanced vascular permeability and increased lung edema as compared to wild type mice 15 . Treatment with recombinant ACE2 effectively improved symptoms and attenuated arterial hypoxemia in a piglet model of lipopolysaccharide (LPS)-induced ARDS 16 . Thus, ACE2 plays a protective role in ARDS and is potential for the development as a drug for ARDS therapy; however, the underlying molecular mechanism by which ACE2 prevents ARDS remains elusive.
+3	388	395 binding	Gene_function	GO_0005488
+3	528	531 Mas	Gene_function	GO_0034992
+3	720	741 inflammatory response	Gene_function	GO_0006954
+3	953	959 severe	Phenotype	HP_0012828
+3	960	965 acute	Phenotype	HP_0011009
+3	1337	1343 severe	Phenotype	HP_0012828
+3	1413	1423 lung edema	Phenotype	HP_0100598
+3	1418	1423 edema	Phenotype	HP_0000969
+3	1545	1554 hypoxemia	Phenotype	HP_0012418
+3	GO-HP	GO_0005488	HP_0012828
+3	GO-HP	GO_0005488	HP_0011009
+3	GO-HP	GO_0005488	HP_0100598
+3	GO-HP	GO_0005488	HP_0000969
+3	GO-HP	GO_0005488	HP_0012418
+3	GO-HP	GO_0034992	HP_0012828
+3	GO-HP	GO_0034992	HP_0011009
+3	GO-HP	GO_0034992	HP_0100598
+3	GO-HP	GO_0034992	HP_0000969
+3	GO-HP	GO_0034992	HP_0012418
+3	GO-HP	GO_0006954	HP_0012828
+3	GO-HP	GO_0006954	HP_0011009
+3	GO-HP	GO_0006954	HP_0100598
+3	GO-HP	GO_0006954	HP_0000969
+3	GO-HP	GO_0006954	HP_0012418
+
+4|chunk|Previous studies have showed that the activation of mitogen-activated protein kinases (MAPKs) pathway is associated with the process of ARDS. The phosphorylation levels of p38 MAPK, extracellular signal-regulated kinase (ERK) and Jun N-terminal kinase (JNK) are all significantly increased in LPS-induced lung injury 17 . Consequently, inhibition of p38 MAPK or ERK efficiently attenuates LPS-induced pulmonary inflammatory response 18, 19 . The activity of p38 MAPK in the lung has been associated with peritoneal sepsis-induced pulmonary edema and leukocyte infiltration 20 . Interestingly, Ferreira et al. recently found that activated cardiac ACE2 prevents hypertension-induced cardiac fibrosis by inhibiting ERK phosphorylation 21 . Moreover, AT1R blocker, telmisartan, exerts protective effects on heart failure through upregulating myocardial ACE2 level and inhibiting p38 MAPK, ERK and JNK phosphorylation 22 . The activation of MAPKs pathway is also involved in the regulation of Ace2 mRNA expression in rat vascular smooth muscle cells 23 . In addition, LPS stimulation activates the NF- B signaling pathway via binding to toll-like receptor 4 (TLR4), which is closely related to LPS-induced lung injury and inflammation 24 . Our previous in vitro study demonstrated that ACE2 prevented rat pulmonary microvascular endothelial cells (PMVECs) from LPS-induced apoptosis and inflammation through inhibiting the activation of JNK and NF- B pathways 25 . Therefore, we hypothesize that ACE2 may protect against LPS-induced acute lung injury by inhibiting the MAPKs/ NF- B pathway.
+4	146	161 phosphorylation	Gene_function	GO_0016310
+4	176	180 MAPK	Gene_function	GO_0004707
+4	182	195 extracellular	Gene_function	GO_0005576
+4	221	224 ERK	Gene_function	GO_0004707
+4	253	256 JNK	Gene_function	GO_0004705
+4	354	358 MAPK	Gene_function	GO_0004707
+4	362	365 ERK	Gene_function	GO_0004707
+4	411	432 inflammatory response	Gene_function	GO_0006954
+4	462	466 MAPK	Gene_function	GO_0004707
+4	530	545 pulmonary edema	Phenotype	HP_0100598
+4	540	545 edema	Phenotype	HP_0000969
+4	713	716 ERK	Gene_function	GO_0004707
+4	717	732 phosphorylation	Gene_function	GO_0016310
+4	804	817 heart failure	Phenotype	HP_0001635
+4	880	884 MAPK	Gene_function	GO_0004707
+4	886	889 ERK	Gene_function	GO_0004707
+4	894	897 JNK	Gene_function	GO_0004705
+4	898	913 phosphorylation	Gene_function	GO_0016310
+4	1101	1110 signaling	Gene_function	GO_0023052
+4	1101	1118 signaling pathway	Gene_function	GO_0007165
+4	1123	1130 binding	Gene_function	GO_0005488
+4	1434	1437 JNK	Gene_function	GO_0004705
+4	1531	1536 acute	Phenotype	HP_0011009
+4	GO-HP	GO_0016310	HP_0100598
+4	GO-HP	GO_0016310	HP_0000969
+4	GO-HP	GO_0016310	HP_0001635
+4	GO-HP	GO_0016310	HP_0011009
+4	GO-HP	GO_0004707	HP_0100598
+4	GO-HP	GO_0004707	HP_0000969
+4	GO-HP	GO_0004707	HP_0001635
+4	GO-HP	GO_0004707	HP_0011009
+4	GO-HP	GO_0005576	HP_0100598
+4	GO-HP	GO_0005576	HP_0000969
+4	GO-HP	GO_0005576	HP_0001635
+4	GO-HP	GO_0005576	HP_0011009
+4	GO-HP	GO_0004705	HP_0100598
+4	GO-HP	GO_0004705	HP_0000969
+4	GO-HP	GO_0004705	HP_0001635
+4	GO-HP	GO_0004705	HP_0011009
+4	GO-HP	GO_0006954	HP_0100598
+4	GO-HP	GO_0006954	HP_0000969
+4	GO-HP	GO_0006954	HP_0001635
+4	GO-HP	GO_0006954	HP_0011009
+4	HP-GO	HP_0100598	GO_0023052
+4	HP-GO	HP_0100598	GO_0007165
+4	HP-GO	HP_0100598	GO_0005488
+4	HP-GO	HP_0000969	GO_0023052
+4	HP-GO	HP_0000969	GO_0007165
+4	HP-GO	HP_0000969	GO_0005488
+4	HP-GO	HP_0001635	GO_0023052
+4	HP-GO	HP_0001635	GO_0007165
+4	HP-GO	HP_0001635	GO_0005488
+4	GO-HP	GO_0023052	HP_0011009
+4	GO-HP	GO_0007165	HP_0011009
+4	GO-HP	GO_0005488	HP_0011009
+
+5|chunk|A variety of animal species have been used to study LPS-induced lung injury; however, there are intra-species differences in the biological response to LPS challenge, leading to inconsistency in published results. While rat and mouse models are the most widely used models for ARDS research, recent research has shown disparities of the LPS structures that are recognized by TLR4 between humans and mice, which may contribute to variability in the response to LPS-induced ARDS. Additionally, the relatively small mass of mice may prohibit the measurement of physiological parameters and also make it more difficult to obtain sufficient quantities of samples, such as blood, plasma and BALF 26,27 . In the present study, we applied a lentiviral-mediated gene delivery approach to overexpress or knock down ACE2 in rat lung tissue, and investigated whether pulmonary overexpression of ACE2 exerts beneficial effects against LPS-induced lung injury via suppressing the MAPKs/ NF- B pathways.
+

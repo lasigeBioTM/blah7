@@ -1,0 +1,49 @@
+0|chunk|viruses Reverse Genetic Approaches for the Generation of Recombinant Zika Virus
+
+1|chunk|Zika virus (ZIKV) is an emergent mosquito-borne member of the Flaviviridae family that was responsible for a recent epidemic in the Americas. ZIKV has been associated with severe clinical complications, including neurological disorder such as Guillain-Barr syndrome in adults and severe fetal abnormalities and microcephaly in newborn infants. Given the significance of these clinical manifestations, the development of tools and reagents to study the pathogenesis of ZIKV and to develop new therapeutic options are urgently needed. In this respect, the implementation of reverse genetic techniques has allowed the direct manipulation of the viral genome to generate recombinant (r)ZIKVs, which have provided investigators with powerful systems to answer important questions about the biology of ZIKV, including virus-host interactions, the mechanism of transmission and pathogenesis or the function of viral proteins. In this review, we will summarize the different reverse genetic strategies that have been implemented, to date, for the generation of rZIKVs and the applications of these platforms for the development of replicon systems or reporter-expressing viruses. caused major concerns due to the association of ZIKV infection with severe congenital abnormalities, including microcephaly in infants and an increased risk of Guillain-Barr syndrome in adults [15] [16] [17] [18] . ZIKV is mainly transmitted to people through the bite of an infected Aedes spp. mosquito (Ae. Aegypti and Ae. Albopictus) [19] , which carries a high risk for pregnant woman due to the ability to cross the placenta and infected fetal nervous tissues [20] . In addition to maternal-fetal transmission, ZIKV can also be transmitted from mother to child during pregnancy or spread through sexual contact, breastfeeding, blood transfusion and non-human primate bites [21-23].
+1	258	266 syndrome	Disease	DOID_225
+1	312	324 microcephaly	Disease	DOID_10907
+1	431	439 reagents	Chemical	CHEBI_33893
+1	1284	1296 microcephaly	Disease	DOID_10907
+1	1348	1356 syndrome	Disease	DOID_225
+1	DOID-CHEBI	DOID_225	CHEBI_33893
+1	DOID-CHEBI	DOID_10907	CHEBI_33893
+
+2|chunk|ZIKV is an enveloped virus containing three structural proteins ( Figure 1 ): the capsid (C) protein, the membrane (M) protein and the envelope (E) glycoprotein ( Figure 1A ). Inside the virion, the viral (v)RNA genome is complexed with multiple copies of the C protein, surrounded by the E and M proteins, which are anchored in a lipid membrane ( Figure 1A ). The surface of the mature virion has a icosahedral shell consisting of 90 E:M heterodimers ( Figure 1A ) [24] . The viral genome is made of a positive single-stranded RNA molecule of approximately 10.8 kb with a single open reading frame, flanked at the 5 -and 3 -ends by the viral untranslated regions (UTRs) ( Figure 1B ). ZIKV vRNA is translated by cap-dependent initiation producing a single polyprotein of approximately 3423 amino acids, which is co-and post-transcriptionally processed by both viral and cellular proteases into the three structural proteins (C, pre-Membrane (prM) and E) and seven non-structural (NS) proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, NS5) ( Figure 1B) . The structural proteins are essential components of the virion and are involved in viral entry, fusion and assembly. The NS proteins are mainly involved in vRNA synthesis, assembly and regulation of the host cell responses [25] . Phylogenetic analysis of ZIKV have revealed two major genetic lineages (African and Asian), which have undergone substantial changes during the past 50 years. Sequence homology analysis indicated that the strains that have been responsible for the recent human outbreaks throughout the Pacific and the Americas are phylogenetically related to the most recent Asian lineage [26, 27] . Viruses 2018, 10, x 2 of 22
+2	55	63 proteins	Chemical	CHEBI_36080
+2	93	100 protein	Chemical	CHEBI_16541
+2	119	126 protein	Chemical	CHEBI_16541
+2	148	160 glycoprotein	Chemical	CHEBI_17089
+2	208	211 RNA	Chemical	CHEBI_33697
+2	262	269 protein	Chemical	CHEBI_16541
+2	297	305 proteins	Chemical	CHEBI_36080
+2	331	336 lipid	Chemical	CHEBI_18059
+2	528	531 RNA	Chemical	CHEBI_33697
+2	532	540 molecule	Chemical	CHEBI_25367
+2	791	796 amino	Chemical	CHEBI_46882
+2	916	924 proteins	Chemical	CHEBI_36080
+2	985	993 proteins	Chemical	CHEBI_36080
+2	1064	1072 proteins	Chemical	CHEBI_36080
+2	1173	1181 proteins	Chemical	CHEBI_36080
+
+3|chunk|have caused major concerns due to the association of ZIKV infection with severe congenital abnormalities, including microcephaly in infants and an increased risk of Guillain-Barr syndrome in adults [15] [16] [17] [18] . ZIKV is mainly transmitted to people through the bite of an infected Aedes spp. mosquito (Ae. Aegypti and Ae. Albopictus) [19] , which carries a high risk for pregnant woman due to the ability to cross the placenta and infected fetal nervous tissues [20] . In addition to maternal-fetal transmission, ZIKV can also be transmitted from mother to child during pregnancy or spread through sexual contact, breastfeeding, blood transfusion and non-human primate bites [21-23].
+3	116	128 microcephaly	Disease	DOID_10907
+3	180	188 syndrome	Disease	DOID_225
+
+4|chunk|ZIKV is an enveloped virus containing three structural proteins (Figure 1 ): the capsid (C) protein, the membrane (M) protein and the envelope (E) glycoprotein ( Figure 1A) . Inside the virion, the viral (v)RNA genome is complexed with multiple copies of the C protein, surrounded by the E and M proteins, which are anchored in a lipid membrane ( Figure 1A ). The surface of the mature virion has a icosahedral shell consisting of 90 E:M heterodimers ( Figure 1A ) [24] . The viral genome is made of a positive single-stranded RNA molecule of approximately 10.8 kb with a single open reading frame, flanked at the 5-and 3-ends by the viral untranslated regions (UTRs) ( Figure 1B ). ZIKV vRNA is translated by cap-dependent initiation producing a single polyprotein of approximately 3423 amino acids, which is co-and post-transcriptionally processed by both viral and cellular proteases into the three structural proteins (C, pre-Membrane (prM) and E) and seven nonstructural (NS) proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, NS5) ( Figure 1B) . The structural proteins are essential components of the virion and are involved in viral entry, fusion and assembly. The NS proteins are mainly involved in vRNA synthesis, assembly and regulation of the host cell responses [25] . Phylogenetic analysis of ZIKV have revealed two major genetic lineages (African and Asian), which have undergone substantial changes during the past 50 years. Sequence homology analysis indicated that the strains that have been responsible for the recent human outbreaks throughout the Pacific and the Americas are phylogenetically related to the most recent Asian lineage [26, 27] .
+4	55	63 proteins	Chemical	CHEBI_36080
+4	92	99 protein	Chemical	CHEBI_16541
+4	118	125 protein	Chemical	CHEBI_16541
+4	147	159 glycoprotein	Chemical	CHEBI_17089
+4	207	210 RNA	Chemical	CHEBI_33697
+4	261	268 protein	Chemical	CHEBI_16541
+4	296	304 proteins	Chemical	CHEBI_36080
+4	330	335 lipid	Chemical	CHEBI_18059
+4	527	530 RNA	Chemical	CHEBI_33697
+4	531	539 molecule	Chemical	CHEBI_25367
+4	790	795 amino	Chemical	CHEBI_46882
+4	915	923 proteins	Chemical	CHEBI_36080
+4	983	991 proteins	Chemical	CHEBI_36080
+4	1062	1070 proteins	Chemical	CHEBI_36080
+4	1171	1179 proteins	Chemical	CHEBI_36080
+

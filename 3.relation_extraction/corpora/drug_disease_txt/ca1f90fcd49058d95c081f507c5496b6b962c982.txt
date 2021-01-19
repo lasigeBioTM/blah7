@@ -1,0 +1,23 @@
+0|chunk|Prediction of Antimicrobial Potential of a Chemically Modified Peptide From Its Tertiary Structure
+0	14	27 Antimicrobial	Chemical	CHEBI_33281
+0	63	70 Peptide	Chemical	CHEBI_16670
+
+1|chunk|Designing novel antimicrobial peptides is a hot area of research in the field of therapeutics especially after the emergence of resistant strains against the conventional antibiotics. In the past number of in silico methods have been developed for predicting the antimicrobial property of the peptide containing natural residues. This study describes models developed for predicting the antimicrobial property of a chemically modified peptide. Our models have been trained, tested and evaluated on a dataset that contains 948 antimicrobial and 931 non-antimicrobial peptides, containing chemically modified and natural residues. Firstly, the tertiary structure of all peptides has been predicted using software PEPstrMOD. Structure analysis indicates that certain type of modifications enhance the antimicrobial property of peptides. Secondly, a wide range of features was computed from the structure of these peptides using software PaDEL. Finally, models were developed for predicting the antimicrobial potential of chemically modified peptides using a wide range of structural features of these peptides. Our best model based on support vector machine achieve maximum MCC of 0.84 with an accuracy of 91.62% on training dataset and MCC of 0.80 with an accuracy of 89.89% on validation dataset. To assist the scientific community, we have developed a web server called "AntiMPmod" which predicts the antimicrobial property of the chemically modified peptide. The web server is present at the following link
+1	16	29 antimicrobial	Chemical	CHEBI_33281
+1	30	38 peptides	Chemical	CHEBI_16670
+1	263	276 antimicrobial	Chemical	CHEBI_33281
+1	293	300 peptide	Chemical	CHEBI_16670
+1	387	400 antimicrobial	Chemical	CHEBI_33281
+1	435	442 peptide	Chemical	CHEBI_16670
+1	526	539 antimicrobial	Chemical	CHEBI_33281
+1	566	574 peptides	Chemical	CHEBI_16670
+1	668	676 peptides	Chemical	CHEBI_16670
+1	798	811 antimicrobial	Chemical	CHEBI_33281
+1	824	832 peptides	Chemical	CHEBI_16670
+1	910	918 peptides	Chemical	CHEBI_16670
+1	991	1004 antimicrobial	Chemical	CHEBI_33281
+1	1038	1046 peptides	Chemical	CHEBI_16670
+1	1098	1106 peptides	Chemical	CHEBI_16670
+1	1401	1414 antimicrobial	Chemical	CHEBI_33281
+1	1451	1458 peptide	Chemical	CHEBI_16670
+

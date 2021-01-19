@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<document id="7cbf56502db60d62b5255c560670ef9ced099c30">
+  <chunk id="7cbf56502db60d62b5255c560670ef9ced099c30.c0" text="Human enterovirus 71 protein interaction network prompts antiviral drug repositioning OPEN">
+    <entity charOffset="21-28" id="7cbf56502db60d62b5255c560670ef9ced099c30.c0.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="57-66" id="7cbf56502db60d62b5255c560670ef9ced099c30.c0.e1" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="57-71" id="7cbf56502db60d62b5255c560670ef9ced099c30.c0.e2" ontology_id="CHEBI_36044" text="antiviral drug" type="chemical"/>
+    <entity charOffset="67-71" id="7cbf56502db60d62b5255c560670ef9ced099c30.c0.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="7cbf56502db60d62b5255c560670ef9ced099c30.c1" text="We found that most EIPs had known interactions with other viruses. We also predicted ATP6V0C as a broad-spectrum essential host factor and validated its essentiality for EV71 infection in vitro. EIPs and their interacting proteins were more likely to be targets of anti-inflammatory and neurological drugs, indicating their potential to serve as host-oriented antiviral targets. Thus, we used a connectivity map to find drugs that inhibited EIP expression. We predicted tanespimycin as a candidate and demonstrated its antiviral efficiency in vitro. These findings provide the first systematic identification of EV71-host protein interactions, an analysis of EIP protein characteristics and a demonstration of their value in developing host-oriented antiviral therapies.">
+    <entity charOffset="222-230" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="300-305" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e1" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="360-369" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e2" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="420-425" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e3" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="470-482" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e4" ontology_id="CHEBI_64153" text="tanespimycin" type="chemical"/>
+    <entity charOffset="519-528" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e5" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="622-629" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="663-670" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e7" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="750-759" id="7cbf56502db60d62b5255c560670ef9ced099c30.c1.e8" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+  <chunk id="7cbf56502db60d62b5255c560670ef9ced099c30.c2" text="Enterovirus 71 (EV71) of the Picornaviridae family is one of the predominant causes of human hand, foot, and mouth disease (HFMD), especially across the Asia-Pacific region 1 . Although HFMD caused by EV71 infection mostly leads to mild symptoms, the disease may be complicated by serious symptoms, such as poliomyelitis-like paralysis, encephalomyelitis, myocarditis and neonatal sepsis, resulting in severe and even fatal consequences in infections of children under 5 years of age 2-5 . In the absence of efficacious therapy for severe infections and preventive vaccines, outbreaks and recurrent EV71 epidemics are major threats to public health and cause widespread panic during epidemics 1-6 . The EV71 genome is a single-stranded positive RNA that is approximately 7.4 kb in size and contains three encoding regions: P1, P2, and P3. The P1 region encodes the four structural proteins (external VP1, VP2, and VP3 and internalized VP4), whereas the P2 and P3 regions encode the other seven non-structural proteins (2A, 2B, and 2C encoded by the P2 region, and 3A, 3B, 3C, and 3D encoded by the P3 region) 1 . Phylogenetic analysis of EV71 based on the VP1 gene divided this virus into three independent lineages designated A, B and C, of which genotypes B and C still circulate worldwide 7 . Here, we focused on EV71 genotype C, which continues to circulate throughout China.">
+    <entity charOffset="109-122" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e0" ontology_id="DOID_403" text="mouth disease" type="disease"/>
+    <entity charOffset="115-122" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="251-258" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="356-367" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e3" ontology_id="DOID_820" text="myocarditis" type="disease"/>
+    <entity charOffset="745-748" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="881-889" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1009-1017" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p0" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p1" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p2" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p3" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p4" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p5" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e2" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p6" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e2" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p7" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e2" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p8" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e3" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p9" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e3" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p10" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e3" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c2.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c2.p11" relation="true"/>
+  </chunk>
+  <chunk id="7cbf56502db60d62b5255c560670ef9ced099c30.c3" text="The rapid progress of systematic host-virus interaction research has provided new data for clinical applications and network-based models for virus infections 8 . To date, little progress has been made in virus infection therapies, such as Tamiflu, which is an influenza A virus self-protein neuraminidase-targeted drug. This limited progress has been attributed to the rapid mutation of viral genomes, which leads to virus-targeted drugs to lose effectiveness against new variants. Concomitant with the rapid progress in systematic attempts to collect host-virus physical interaction data, protein annotation with RNA interference (RNAi) data and other functional data, recently we have witnessed changes in the perspective of antiviral drug research 9 . Drugs targeting essential host factors for viruses may be broad-spectrum and mutant-insensitive. The common method to identify essential host factors for viruses is to knock down host genes and determine whether virus infection is controlled. However, this approach is not practical for every virus due to its low repeat rate and high cost. The virus-host protein-protein interactome also provides potential host targets for antiviral research. The yeast two-hybrid(Y2H) system was introduced twenty-five years ago and has been widely used to investigate protein-protein networks of model organisms and pathogens and hosts, such as bacteria, yeast, fruit flies, tumor viruses and hosts, and herpes viruses and hosts 10-12 . The huge interactome datasets obtained from genome-wide yeast two-hybrid screening have greatly facilitated the identification of crucial proteins that are considered druggable. But the wide distribution of host proteins that interact with viruses makes the selection of drugs targeting multiple host targets difficult. For enterovirus 71, neither genome-wide RNAi screening nor virus-host protein-protein interaction identification has been explored.">
+    <entity charOffset="205-220" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" ontology_id="DOID_934" text="virus infection" type="disease"/>
+    <entity charOffset="261-270" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="315-319" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="433-438" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e3" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="591-598" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="615-618" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="728-737" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e6" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="728-742" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e7" ontology_id="CHEBI_36044" text="antiviral drug" type="chemical"/>
+    <entity charOffset="738-742" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e8" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="756-761" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e9" ontology_id="CHEBI_23888" text="Drugs" type="chemical"/>
+    <entity charOffset="968-983" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" ontology_id="DOID_934" text="virus infection" type="disease"/>
+    <entity charOffset="1181-1190" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e11" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1618-1626" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e12" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1692-1700" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e13" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1751-1756" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e14" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e2" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p0" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e3" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p1" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p2" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p3" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p4" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e7" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p5" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e8" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p6" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e9" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p7" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e11" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p8" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e12" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p9" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e13" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p10" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e0" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e14" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p11" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e2" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p12" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e3" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p13" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e4" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p14" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e5" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p15" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e6" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p16" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e7" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p17" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e8" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p18" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e9" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p19" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e11" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p20" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e12" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p21" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e13" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p22" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e1" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e14" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p23" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e2" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p24" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e3" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p25" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e4" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p26" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e5" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p27" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e6" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p28" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e7" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p29" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e8" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p30" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e9" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p31" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e11" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p32" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e12" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p33" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e13" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p34" relation="true"/>
+    <pair e1="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e10" e2="7cbf56502db60d62b5255c560670ef9ced099c30.c3.e14" id="7cbf56502db60d62b5255c560670ef9ced099c30.c3.p35" relation="true"/>
+  </chunk>
+  <chunk id="7cbf56502db60d62b5255c560670ef9ced099c30.c4" text="Here, we constructed an EV71 protein interaction network, and by integrating public protein and drug databases, we verified the protein functions, explored their potentials in serving as drug targets and predicted anti-viral drugs (Fig. 1) . We identified interactions between EV71 proteins and host cellular proteins using a yeast two-hybrid (Y2H) screen to provide a network view of EV71 infection. A viral ORFeome was generated that included ORFs encoding all full-length mature proteins and several protein domains of EV71 BrCr. These bait sequences were cloned into fusion vectors with a GAL4 DNA binding domain. The bait constructs were screened against a human brain cDNA library using a highly stringent Y2H assay. Twenty-nine EV71-human protein interactions were identified. Analysis of the integrated EV71-human protein interaction network revealed the topological features of the EV71-interacting human proteins (EIPs) and the functional pathways related to EV71 infection. Through overlap analysis of EIPs and proteins with interactions or functional associations with other viruses, we found that ATP6V0C might be a broad-spectrum essential host factor and further validated its essentiality for EV71 infection in vitro. We then mapped EIPs to known drug targets; the related drug indications mainly covered EV71 infection-related symptoms, indicating the potential of EIPs to serve as host-directed antiviral targets. We used connectivity map resources to find drugs that inhibited EIPs and to help validate the value of EIPs as antiviral targets. The drug tanespimycin showed the most significant inhibition of EIP expression and significantly inhibited EV71 infection in vitro.">
+    <entity charOffset="29-36" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="84-91" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="96-100" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="128-135" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="187-191" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e4" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="225-230" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e5" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="282-290" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="309-317" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="482-490" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="503-510" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e9" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="598-601" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e10" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="746-753" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e11" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="822-829" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="914-922" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e13" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1022-1030" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e14" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1263-1267" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e15" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="1289-1293" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e16" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="1413-1422" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e17" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1475-1480" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e18" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="1543-1552" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e19" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1566-1570" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e20" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="1571-1583" id="7cbf56502db60d62b5255c560670ef9ced099c30.c4.e21" ontology_id="CHEBI_64153" text="tanespimycin" type="chemical"/>
+  </chunk>
+</document>

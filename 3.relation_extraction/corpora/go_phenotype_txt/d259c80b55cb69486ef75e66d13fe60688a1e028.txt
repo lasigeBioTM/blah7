@@ -1,0 +1,26 @@
+0|chunk|Middle East Respiratory Coronavirus Accessory Protein 4a Inhibits PKR-Mediated Antiviral Stress Responses
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) causes severe respiratory infections that can be life-threatening. To establish an infection and spread, MERS-CoV, like most other viruses, must navigate through an intricate network of antiviral host responses. Besides the well-known type I interferon (IFN-/) response, the protein kinase R (PKR)-mediated stress response is being recognized as an important innate response pathway. Upon detecting viral dsRNA, PKR phosphorylates eIF2, leading to the inhibition of cellular and viral translation and the formation of stress granules (SGs), which are increasingly recognized as platforms for antiviral signaling pathways. It is unknown whether cellular infection by MERS-CoV activates the stress response pathway or whether the virus has evolved strategies to suppress this infection-limiting pathway. Here, we show that cellular infection with MERS-CoV does not lead to the formation of SGs. By transiently expressing the MERS-CoV accessory proteins individually, we identified a role of protein 4a (p4a) in preventing activation of the stress response pathway. Expression of MERS-CoV p4a impeded dsRNA-mediated PKR activation, thereby rescuing translation inhibition and preventing SG formation. In contrast, p4a failed to suppress stress response pathway activation that is independent of PKR and dsRNA. MERS-CoV p4a is a dsRNA binding protein.
+1	63	69 severe	Phenotype	HP_0012828
+1	70	92 respiratory infections	Phenotype	HP_0011947
+1	538	555 viral translation	Gene_function	GO_0019081
+1	544	555 translation	Gene_function	GO_0006412
+1	661	670 signaling	Gene_function	GO_0023052
+1	1205	1216 translation	Gene_function	GO_0006412
+1	1384	1397 dsRNA binding	Gene_function	GO_0003725
+1	1390	1397 binding	Gene_function	GO_0005488
+1	HP-GO	HP_0012828	GO_0019081
+1	HP-GO	HP_0012828	GO_0006412
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0003725
+1	HP-GO	HP_0012828	GO_0005488
+1	HP-GO	HP_0011947	GO_0019081
+1	HP-GO	HP_0011947	GO_0006412
+1	HP-GO	HP_0011947	GO_0023052
+1	HP-GO	HP_0011947	GO_0003725
+1	HP-GO	HP_0011947	GO_0005488
+
+2|chunk|Mutation of the dsRNA binding motif in p4a disrupted its PKR antagonistic activity. By inserting p4a in a picornavirus lacking its natural PKR antagonist, we showed that p4a exerts PKR antagonistic activity also under infection conditions. However, a recombinant MERS-CoV deficient in p4a expression still suppressed SG formation, indicating the expression of at least one other stress response antagonist. This virus also suppressed the dsRNA-independent stress response pathway. Thus, MERS-CoV interferes with antiviral stress responses using at least two different mechanisms, with p4a suppressing the PKR-PLOS Pathogens |
+2	16	29 dsRNA binding	Gene_function	GO_0003725
+2	22	29 binding	Gene_function	GO_0005488
+

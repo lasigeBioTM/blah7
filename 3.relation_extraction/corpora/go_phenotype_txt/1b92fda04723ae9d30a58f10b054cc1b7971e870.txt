@@ -1,0 +1,18 @@
+0|chunk|CD4-Independent Human Immunodeficiency Virus Infection Involves Participation of Endocytosis and Cathepsin B
+0	22	38 Immunodeficiency	Phenotype	HP_0002721
+0	81	92 Endocytosis	Gene_function	GO_0006897
+0	HP-GO	HP_0002721	GO_0006897
+
+1|chunk|During a comparison of the infectivity of mNDK, a CD4-independent human immunodeficiency virus type 1 (HIV-1) strain, to various cell lines, we found that HeLa cells were much less susceptible than 293T and TE671 cells. Hybridoma cells between HeLa and 293T cells were as susceptible as 293T cells, suggesting that cellular factors enhance the mNDK infection in 293T cells. By screening a cDNA expression library in HeLa cells, cystatin C was isolated as an enhancer of the mNDK infection. Because cathepsin B protease, a natural ligand of cystatin C, was upregulated in HeLa cells, we speculated that the high levels of cathepsin B activities were inhibitory to the CD4-independent infection and that cystatin C enhanced the infection by impairing the excessive cathepsin B activity. Consistent with this idea, pretreatment of HeLa cells with 125 mM of CA-074Me, a cathepsin B inhibitor, resulted in an 8-fold enhancement of the mNDK infectivity. Because cathepsin B is activated by low pH in acidic endosomes, we further examined the potential roles of endosomes in the CD4-independent infection. Suppression of endosome acidification or endocytosis by inhibitors or by an Eps15 dominant negative mutant reduced the infectivity of mNDK in which CD4-dependent infections were not significantly impaired. Taken together, these results suggest that endocytosis, endosomal acidification, and cathepsin B activity are involved in the CD4-independent entry of HIV-1.
+1	72	88 immunodeficiency	Phenotype	HP_0002721
+1	1114	1122 endosome	Gene_function	GO_0005768
+1	1114	1136 endosome acidification	Gene_function	GO_0015078
+1	1123	1136 acidification	Gene_function	GO_0045851
+1	1140	1151 endocytosis	Gene_function	GO_0006897
+1	1348	1359 endocytosis	Gene_function	GO_0006897
+1	1371	1384 acidification	Gene_function	GO_0045851
+1	HP-GO	HP_0002721	GO_0005768
+1	HP-GO	HP_0002721	GO_0015078
+1	HP-GO	HP_0002721	GO_0045851
+1	HP-GO	HP_0002721	GO_0006897
+

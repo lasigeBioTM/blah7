@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<document id="ca5775b18f2a5c86fc3efd929ef997a189fd1705">
+  <chunk id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0" text="A dual controllability analysis of influenza virus-host protein-protein interaction networks for antiviral drug target discovery">
+    <entity charOffset="35-44" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="97-106" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e1" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="97-111" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e2" ontology_id="CHEBI_36044" text="antiviral drug" type="chemical"/>
+    <entity charOffset="107-111" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e1" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.p0" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e2" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.p1" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.e3" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1" text="Background: Host factors of influenza virus replication are often found in key topological positions within proteinprotein interaction networks. This work explores how protein states can be manipulated through controllability analysis: the determination of the minimum manipulation needed to drive the cell system to any desired state. Here, we complete a two-part controllability analysis of two protein networks: a host network representing the healthy cell state and an influenza A virus-host network representing the infected cell state. In this context, controllability analyses aim to identify key regulating host factors of the infected cell's progression. This knowledge can be utilized in further biological analysis to understand disease dynamics and isolate proteins for study as drug target candidates.">
+    <entity charOffset="28-37" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="168-175" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="397-404" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="473-482" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="740-747" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="769-777" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="791-795" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e6" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e1" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p0" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e2" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p1" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e5" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p2" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e6" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p3" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e1" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e3" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p4" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e1" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e4" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p5" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e3" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p6" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e4" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p7" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e3" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e5" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p8" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e3" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e6" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p9" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e4" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e5" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p10" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e4" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.e6" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c1.p11" relation="true"/>
+  </chunk>
+  <chunk id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2" text="Results: Both topological and controllability analyses provide evidence of wide-reaching network effects stemming from the addition of viral-host protein interactions. Virus interacting and driver host proteins are significant both topologically and in controllability, therefore playing important roles in cell behavior during infection. Functional analysis finds overlap of results with previous siRNA studies of host factors involved in influenza replication, NF-kB pathway and infection relevance, and roles as interferon regulating genes. 24 proteins are identified as holding regulatory roles specific to the infected cell by measures of topology, controllability, and functional role. These proteins are recommended for further study as potential antiviral drug targets. Conclusions: Seasonal outbreaks of influenza A virus are a major cause of illness and death around the world each year with a constant threat of pandemic infection. This research aims to increase the efficiency of antiviral drug target discovery using existing protein-protein interaction data and network analysis methods. These results are beneficial to future studies of influenza virus, both experimental and computational, and provide evidence that the combination of topology and controllability analyses may be valuable for future efforts in drug target discovery.">
+    <entity charOffset="146-153" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="202-210" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="440-449" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="469-476" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e3" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="515-525" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e4" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="547-555" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="698-706" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="754-763" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e7" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="754-768" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e8" ontology_id="CHEBI_36044" text="antiviral drug" type="chemical"/>
+    <entity charOffset="764-768" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e9" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="813-822" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="992-1001" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e11" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="992-1006" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e12" ontology_id="CHEBI_36044" text="antiviral drug" type="chemical"/>
+    <entity charOffset="1002-1006" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e13" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="1152-1161" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1327-1331" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e15" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p0" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p1" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e0" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p2" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e1" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p3" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e1" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p4" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e1" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p5" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e3" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p6" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e4" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p7" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e5" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p8" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e6" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p9" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e7" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p10" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e8" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p11" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e9" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p12" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e11" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p13" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e12" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p14" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e13" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p15" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e2" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e15" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p16" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e3" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p17" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e3" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p18" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e4" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p19" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e4" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p20" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e5" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p21" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e5" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p22" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e6" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p23" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e6" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p24" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e7" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p25" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e7" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p26" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e8" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p27" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e8" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p28" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e9" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p29" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e9" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p30" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e11" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p31" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e12" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p32" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e13" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p33" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e10" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e15" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p34" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e11" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p35" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e12" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p36" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e13" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p37" relation="true"/>
+    <pair e1="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e14" e2="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.e15" id="ca5775b18f2a5c86fc3efd929ef997a189fd1705.c2.p38" relation="true"/>
+  </chunk>
+</document>

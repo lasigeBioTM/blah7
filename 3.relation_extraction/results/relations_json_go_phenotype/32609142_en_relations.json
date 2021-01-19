@@ -1,0 +1,137 @@
+{
+    "text": "to describe the most frequent signs and symptoms of infection by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).this is a narrative literature review carried out in April 2020; the search was performed on electronic databases and complemented with a manual review of the references of the selected papers and Brazilian Ministry of Health publications.the spectrum of clinical disease was wide; fever, coughing and dyspnea were the most frequent signs/symptoms, however, they may not be present, thus hindering case definition; gastrointestinal symptoms and loss of taste or smell have been reported among mild cases; dyspnea was frequent among severe and fatal cases.considering the scarcity of diagnostic tests and the diversity of symptoms, health services should use a sensitive case definition, in order to adopt appropriate surveillance, prevention and treatment actions.",
+    "denotations": [
+        {
+            "id": "HP_0040282",
+            "span": {
+                "begin": 21,
+                "end": 29
+            },
+            "obj": "frequent"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 65,
+                "end": 71
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 72,
+                "end": 77
+            },
+            "obj": "acute"
+        },
+        {
+            "id": "HP_0012735",
+            "span": {
+                "begin": 415,
+                "end": 423
+            },
+            "obj": "coughing"
+        },
+        {
+            "id": "HP_0002094",
+            "span": {
+                "begin": 428,
+                "end": 435
+            },
+            "obj": "dyspnea"
+        },
+        {
+            "id": "HP_0040282",
+            "span": {
+                "begin": 450,
+                "end": 458
+            },
+            "obj": "frequent"
+        },
+        {
+            "id": "GO_0050909",
+            "span": {
+                "begin": 579,
+                "end": 584
+            },
+            "obj": "taste"
+        },
+        {
+            "id": "HP_0012825",
+            "span": {
+                "begin": 619,
+                "end": 623
+            },
+            "obj": "mild"
+        },
+        {
+            "id": "HP_0002094",
+            "span": {
+                "begin": 631,
+                "end": 638
+            },
+            "obj": "dyspnea"
+        },
+        {
+            "id": "HP_0040282",
+            "span": {
+                "begin": 643,
+                "end": 651
+            },
+            "obj": "frequent"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 658,
+                "end": 664
+            },
+            "obj": "severe"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0040282"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0012735"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0002094"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0040282"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0012825"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0002094"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0050909",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        }
+    ]
+}

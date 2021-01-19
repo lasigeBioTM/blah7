@@ -1,0 +1,101 @@
+0|chunk|Angiotensin-converting enzyme 2 prevents lipopolysaccharide- induced rat acute lung injury via suppressing the ERK1/2 and NF-B signaling pathways OPEN
+
+1|chunk|Acute respiratory distress syndrome (ARDS) caused by severe sepsis remains a major challenge in intensive care medicine. ACE2 has been shown to protect against lung injury. However, the mechanisms of its protective effects on ARDS are largely unknown. Here, we report that ACE2 prevents LPS-induced ARDS by inhibiting MAPKs and NF-B signaling pathway. Lentiviral packaged Ace2 cDNA or Ace2 shRNA was intratracheally administrated into the lungs of male SD rats. Two weeks after gene transfer, animals received LPS (7.5 mg/Kg) injection alone or in combination with Mas receptor antagonist A779 (10 g/Kg) or ACE2 inhibitor MLN-4760 (1 mg/Kg) pretreatment. LPS-induced lung injury and inflammatory response were significantly prevented by ACE2 overexpression and deteriorated by Ace2 shRNA. A779 or MLN-4760 pretreatment abolished the protective effects of ACE2. Moreover, overexpression of ACE2 significantly reduced the Ang II/Ang-(1-7) ratio in BALF and up-regulated Mas mRNA expression in lung, which was reversed by A779. Importantly, the blockade of ACE2 on LPSinduced phosphorylation of ERK1/2, p38 and p50/p65 was also abolished by A779. Whereas, only the ERK1/2 inhibitor significantly attenuated lung injury in ACE2 overexpressing rats pretreated with A779. Our observation suggests that AEC2 attenuates LPS-induced ARDS via the Ang-(1-7)/Mas pathway by inhibiting ERK/NF-B activation.
+1	27	35 syndrome	Disease	DOID_225
+1	37	41 ARDS	Disease	DOID_11394
+1	226	230 ARDS	Disease	DOID_11394
+1	299	303 ARDS	Disease	DOID_11394
+1	344	351 pathway	Chemical	CHEBI_34922
+1	511	514 LPS	Chemical	CHEBI_16412
+1	566	569 Mas	Chemical	CHEBI_25427
+1	579	589 antagonist	Chemical	CHEBI_48706
+1	609	623 ACE2 inhibitor	Chemical	CHEBI_147289
+1	614	623 inhibitor	Chemical	CHEBI_35222
+1	970	973 Mas	Chemical	CHEBI_25427
+1	974	978 mRNA	Chemical	CHEBI_33699
+1	1171	1180 inhibitor	Chemical	CHEBI_35222
+1	1326	1330 ARDS	Disease	DOID_11394
+1	1353	1360 pathway	Chemical	CHEBI_34922
+1	DOID-CHEBI	DOID_225	CHEBI_34922
+1	DOID-CHEBI	DOID_225	CHEBI_16412
+1	DOID-CHEBI	DOID_225	CHEBI_25427
+1	DOID-CHEBI	DOID_225	CHEBI_48706
+1	DOID-CHEBI	DOID_225	CHEBI_147289
+1	DOID-CHEBI	DOID_225	CHEBI_35222
+1	DOID-CHEBI	DOID_225	CHEBI_33699
+1	DOID-CHEBI	DOID_11394	CHEBI_34922
+1	DOID-CHEBI	DOID_11394	CHEBI_16412
+1	DOID-CHEBI	DOID_11394	CHEBI_25427
+1	DOID-CHEBI	DOID_11394	CHEBI_48706
+1	DOID-CHEBI	DOID_11394	CHEBI_147289
+1	DOID-CHEBI	DOID_11394	CHEBI_35222
+1	DOID-CHEBI	DOID_11394	CHEBI_33699
+
+2|chunk|Acute respiratory distress syndrome (ARDS) remains the major cause of mortality and morbidity in intensive care 1,2 . ARDS is a type of acute diffuse and inflammatory lung injury, which is caused by the release of pro-inflammatory cytokines and the recruitment of granulocytes and monocytes into the lung, leading to increased pulmonary vascular permeability and loss of aerated alveolus 3,4 . At present, the only effective therapy for ARDS is protective mechanical ventilation with low tidal volume of 6 mL/kg 5 . No specific and effective pharmacological intervention for ARDS is currently available 6 . Therefore, it is urgent to identify, validate, and develop pharmaceutical drugs for the treatment of ARDS.
+2	27	35 syndrome	Disease	DOID_225
+2	37	41 ARDS	Disease	DOID_11394
+2	118	122 ARDS	Disease	DOID_11394
+2	437	441 ARDS	Disease	DOID_11394
+2	575	579 ARDS	Disease	DOID_11394
+2	666	680 pharmaceutical	Chemical	CHEBI_52217
+2	681	686 drugs	Chemical	CHEBI_23888
+2	708	712 ARDS	Disease	DOID_11394
+2	DOID-CHEBI	DOID_225	CHEBI_52217
+2	DOID-CHEBI	DOID_225	CHEBI_23888
+2	DOID-CHEBI	DOID_11394	CHEBI_52217
+2	DOID-CHEBI	DOID_11394	CHEBI_23888
+
+3|chunk|Angiotensin-converting enzyme 2 (ACE2), a homologue of ACE, shares approximately 61% homology sequence with the catalytic domains of ACE but acts as an endogenous counter-regulator of ACE 7 . In contrast to ACE, which cleaves angiotensin (Ang) I into Ang II, ACE2 primarily hydrolyzes Ang II into Ang-(1-7). Ang II triggers vasoconstriction, inflammation, proliferation and apoptosis via binding to its specific Ang II type 1 receptor (AT1R), while Ang-(1-7) counteracts the effects of Ang II via its G protein-coupled receptor Mas 8-10 . Therefore, the balance of ACE and ACE2 influences the endogenous ratio of Ang II to Ang-(1-7), and consequently contributes to the regulation of the tension of vascular, as well as inflammatory response and organ function after injury 11,12 . Accumulating evidence indicate that ACE2 plays an important role in the pathophysiology of ARDS. ACE2 has been identified as a key receptor of coronavirus that causes the severe acute respiratory syndrome, and its level in human airway epithelia positively correlates with coronavirus infection 13 . Compared with wild type mice, Ace2 knockout mice exhibited impaired exercise capacity, worse lung function and exacerbated lung fibrosis in model of bleomycin-induced lung injury 14 . Furthermore, in three animal models of ARDS, Ace2 knockout mice showed severe lung disease, including enhanced vascular permeability and increased lung edema as compared to wild type mice 15 . Treatment with recombinant ACE2 effectively improved symptoms and attenuated arterial hypoxemia in a piglet model of lipopolysaccharide (LPS)-induced ARDS 16 . Thus, ACE2 plays a protective role in ARDS and is potential for the development as a drug for ARDS therapy; however, the underlying molecular mechanism by which ACE2 prevents ARDS remains elusive.
+3	226	237 angiotensin	Chemical	CHEBI_2719
+3	251	257 Ang II	Chemical	CHEBI_48432
+3	285	291 Ang II	Chemical	CHEBI_48432
+3	308	314 Ang II	Chemical	CHEBI_48432
+3	412	418 Ang II	Chemical	CHEBI_48432
+3	486	492 Ang II	Chemical	CHEBI_48432
+3	528	531 Mas	Chemical	CHEBI_25427
+3	613	619 Ang II	Chemical	CHEBI_48432
+3	842	846 role	Chemical	CHEBI_50906
+3	873	877 ARDS	Disease	DOID_11394
+3	953	986 severe acute respiratory syndrome	Disease	DOID_2945
+3	1305	1309 ARDS	Disease	DOID_11394
+3	1576	1594 lipopolysaccharide	Chemical	CHEBI_16412
+3	1609	1613 ARDS	Disease	DOID_11394
+3	1649	1653 role	Chemical	CHEBI_50906
+3	1657	1661 ARDS	Disease	DOID_11394
+3	1704	1708 drug	Chemical	CHEBI_23888
+3	1713	1717 ARDS	Disease	DOID_11394
+3	1794	1798 ARDS	Disease	DOID_11394
+3	CHEBI-DOID	CHEBI_2719	DOID_11394
+3	CHEBI-DOID	CHEBI_2719	DOID_2945
+3	CHEBI-DOID	CHEBI_48432	DOID_11394
+3	CHEBI-DOID	CHEBI_48432	DOID_2945
+3	CHEBI-DOID	CHEBI_25427	DOID_11394
+3	CHEBI-DOID	CHEBI_25427	DOID_2945
+3	CHEBI-DOID	CHEBI_50906	DOID_11394
+3	CHEBI-DOID	CHEBI_50906	DOID_2945
+3	DOID-CHEBI	DOID_11394	CHEBI_16412
+3	DOID-CHEBI	DOID_11394	CHEBI_23888
+3	DOID-CHEBI	DOID_2945	CHEBI_16412
+3	DOID-CHEBI	DOID_2945	CHEBI_23888
+
+4|chunk|Previous studies have showed that the activation of mitogen-activated protein kinases (MAPKs) pathway is associated with the process of ARDS. The phosphorylation levels of p38 MAPK, extracellular signal-regulated kinase (ERK) and Jun N-terminal kinase (JNK) are all significantly increased in LPS-induced lung injury 17 . Consequently, inhibition of p38 MAPK or ERK efficiently attenuates LPS-induced pulmonary inflammatory response 18, 19 . The activity of p38 MAPK in the lung has been associated with peritoneal sepsis-induced pulmonary edema and leukocyte infiltration 20 . Interestingly, Ferreira et al. recently found that activated cardiac ACE2 prevents hypertension-induced cardiac fibrosis by inhibiting ERK phosphorylation 21 . Moreover, AT1R blocker, telmisartan, exerts protective effects on heart failure through upregulating myocardial ACE2 level and inhibiting p38 MAPK, ERK and JNK phosphorylation 22 . The activation of MAPKs pathway is also involved in the regulation of Ace2 mRNA expression in rat vascular smooth muscle cells 23 . In addition, LPS stimulation activates the NF- B signaling pathway via binding to toll-like receptor 4 (TLR4), which is closely related to LPS-induced lung injury and inflammation 24 . Our previous in vitro study demonstrated that ACE2 prevented rat pulmonary microvascular endothelial cells (PMVECs) from LPS-induced apoptosis and inflammation through inhibiting the activation of JNK and NF- B pathways 25 . Therefore, we hypothesize that ACE2 may protect against LPS-induced acute lung injury by inhibiting the MAPKs/ NF- B pathway.
+4	70	77 protein	Chemical	CHEBI_16541
+4	94	101 pathway	Chemical	CHEBI_34922
+4	530	545 pulmonary edema	Disease	DOID_11396
+4	943	950 pathway	Chemical	CHEBI_34922
+4	994	998 mRNA	Chemical	CHEBI_33699
+4	1064	1067 LPS	Chemical	CHEBI_16412
+4	1111	1118 pathway	Chemical	CHEBI_34922
+4	1581	1588 pathway	Chemical	CHEBI_34922
+4	CHEBI-DOID	CHEBI_16541	DOID_11396
+4	CHEBI-DOID	CHEBI_34922	DOID_11396
+4	DOID-CHEBI	DOID_11396	CHEBI_33699
+4	DOID-CHEBI	DOID_11396	CHEBI_16412
+
+5|chunk|A variety of animal species have been used to study LPS-induced lung injury; however, there are intra-species differences in the biological response to LPS challenge, leading to inconsistency in published results. While rat and mouse models are the most widely used models for ARDS research, recent research has shown disparities of the LPS structures that are recognized by TLR4 between humans and mice, which may contribute to variability in the response to LPS-induced ARDS. Additionally, the relatively small mass of mice may prohibit the measurement of physiological parameters and also make it more difficult to obtain sufficient quantities of samples, such as blood, plasma and BALF 26,27 . In the present study, we applied a lentiviral-mediated gene delivery approach to overexpress or knock down ACE2 in rat lung tissue, and investigated whether pulmonary overexpression of ACE2 exerts beneficial effects against LPS-induced lung injury via suppressing the MAPKs/ NF- B pathways.
+5	152	155 LPS	Chemical	CHEBI_16412
+5	277	281 ARDS	Disease	DOID_11394
+5	337	340 LPS	Chemical	CHEBI_16412
+5	472	476 ARDS	Disease	DOID_11394
+5	CHEBI-DOID	CHEBI_16412	DOID_11394
+

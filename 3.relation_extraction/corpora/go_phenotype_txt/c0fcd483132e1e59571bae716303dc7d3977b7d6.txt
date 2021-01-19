@@ -1,0 +1,47 @@
+0|chunk|The cellular protein hnRNP A2/ B1 enhances HIV-1 transcription by unfolding LTR promoter G-quadruplexes OPEN
+
+1|chunk|Surface plasmon resonance confirmed G-quadruplex specificity over linear sequences and fluorescence resonance energy transfer analysis indicated that hnRNP A2/B1 is able to efficiently unfold the LTR G-quadruplexes. Evaluation of the thermal stability of the LTR G-quadruplexes in different-length oligonucleotides showed that the protein is fit to be most active in the LTR full-length environment. When hnRNP A2/B1 was silenced in cells, LTR activity decreased, indicating that the protein acts as a HIV-1 transcription activator. Our data highlight a tightly regulated control of transcription based on G-quadruplex folding/unfolding, which depends on interacting cellular proteins. These findings provide a deeper understanding of the viral transcription mechanism and may pave the way to the development of drugs effective against the integrated HIV-1, present both in actively and latently infected cells.
+1	739	758 viral transcription	Gene_function	GO_0019083
+
+2|chunk|G-quadruplexes (G4s) are unique four-stranded nucleic acid structures that may form in guanine-rich sequences. Based on the strand orientation, they can adopt three main topologies: parallel, antiparallel, and hybrid-type structures. G4s have been shown to be involved in key regulatory and pathological roles in eukaryotes, including transcriptional regulation of gene promoters and enhancers, translation, chromatin epigenetic regulation, DNA recombination 1-3 . Formation of G4 in vivo has been consolidated by the development of G4 specific antibodies 4,5 .
+2	408	417 chromatin	Gene_function	GO_0000785
+2	441	458 DNA recombination	Gene_function	GO_0006310
+
+3|chunk|Recently, the presence of G4s in viruses and their involvement in key steps of viral infection has been provided 6 . G4s have been reported in the SARS coronavirus 7 , the human papilloma, hepatitis C, Zika and Ebola virus genomes 8-11 . Among herpesviruses, RNA G4s have been implicated in the regulation of DNA replication and translation of the Epstein-Barr virus 12,13 . We have shown that the herpes simplex virus 1 possesses several repeats of sequences forming stable G4s, which were visualized in infected cells by a G4-specific antibody 14 ; stabilization of these tetraplex structures by a G4 ligand inhibited viral DNA replication 15 .
+3	79	94 viral infection	Gene_function	GO_0016032
+3	189	198 hepatitis	Phenotype	HP_0012115
+3	309	324 DNA replication	Gene_function	GO_0006260
+3	329	340 translation	Gene_function	GO_0006412
+3	468	474 stable	Phenotype	HP_0031915
+3	537	545 antibody	Gene_function	GO_0003823
+3	537	545 antibody	Gene_function	GO_0042571
+3	620	641 viral DNA replication	Gene_function	GO_0039693
+3	626	641 DNA replication	Gene_function	GO_0006260
+3	GO-HP	GO_0016032	HP_0012115
+3	GO-HP	GO_0016032	HP_0031915
+3	HP-GO	HP_0012115	GO_0006260
+3	HP-GO	HP_0012115	GO_0006412
+3	HP-GO	HP_0012115	GO_0003823
+3	HP-GO	HP_0012115	GO_0042571
+3	HP-GO	HP_0012115	GO_0039693
+3	GO-HP	GO_0006260	HP_0031915
+3	GO-HP	GO_0006412	HP_0031915
+3	HP-GO	HP_0031915	GO_0003823
+3	HP-GO	HP_0031915	GO_0042571
+3	HP-GO	HP_0031915	GO_0039693
+
+4|chunk|The largest body of evidence of G4-mediated regulation of viruses has been provided for the human immunodeficiency virus-1 (HIV-1), the etiologic agent of the acquired immune deficiency syndrome (AIDS). We and other groups have identified functionally significant G4s in the Nef coding region 16 and in the unique long terminal repeat (LTR) promoter 17-19 of HIV-1. When the HIV-1 G4s were stabilized by G4 ligands, antiviral effects, mainly dependent on inhibition of LTR-mediated transcription, were observed 18, 20, 21 . Furthermore, the cellular protein nucleolin has been shown to stabilize the HIV-1 LTR G4s and induce potent inhibition of viral transcription 22 .
+4	98	114 immunodeficiency	Phenotype	HP_0002721
+4	168	185 immune deficiency	Phenotype	HP_0002721
+4	646	665 viral transcription	Gene_function	GO_0019083
+4	HP-GO	HP_0002721	GO_0019083
+
+5|chunk|In general, several proteins that modulate G4s and/or serve as a bridge to recruit additional protein regulators have been reported 23 . Besides the shelterin complex proteins that are involved in telomere homeostasis 24 , G4 interacting proteins either stabilize (e.g. nucleolin, MAZ and nucleophosmin) or unfold (the helicase and heterogeneous nuclear ribonucleoprotein (hnRNP) families) 25,26 the G4 conformation to allow for a tightly controlled modulation of the epigenetic G4 switch.
+5	149	166 shelterin complex	Gene_function	GO_0070187
+5	206	217 homeostasis	Gene_function	GO_0042592
+5	332	345 heterogeneous	Phenotype	HP_0001425
+5	GO-HP	GO_0070187	HP_0001425
+5	GO-HP	GO_0042592	HP_0001425
+
+6|chunk|By means of mass spectrometry, surface plasmon resonance (SPR), fluorescence energy transfer (FRET), Taq polymerase stop and reporter assays, we here identified and characterized G4-selectivity and function of the hnRNP A2/B1, the first protein shown to unfold G4s in the HIV-1 LTR promoter.
+

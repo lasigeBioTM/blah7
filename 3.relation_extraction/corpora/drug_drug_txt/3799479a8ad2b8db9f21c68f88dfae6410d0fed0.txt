@@ -1,0 +1,25 @@
+0|chunk|BMC Bioinformatics Proceedings A comprehensive assessment of N-terminal signal peptides prediction methods
+0	0	3 BMC	Chemical	CHEBI_3392
+0	79	87 peptides	Chemical	CHEBI_16670
+0	CHEBI-CHEBI	CHEBI_3392	CHEBI_16670
+
+1|chunk|Background: Amino-terminal signal peptides (SPs) are short regions that guide the targeting of secretory proteins to the correct subcellular compartments in the cell. They are cleaved off upon the passenger protein reaching its destination. The explosive growth in sequencing technologies has led to the deposition of vast numbers of protein sequences necessitating rapid functional annotation techniques, with subcellular localization being a key feature. Of the myriad software prediction tools developed to automate the task of assigning the SP cleavage site of these new sequences, we review here, the performance and reliability of commonly used SP prediction tools.
+1	34	42 peptides	Chemical	CHEBI_16670
+1	105	113 proteins	Chemical	CHEBI_36080
+1	207	214 protein	Chemical	CHEBI_16541
+1	245	254 explosive	Chemical	CHEBI_63490
+1	334	341 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_63490
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_63490
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_63490
+
+2|chunk|Results: The available signal peptide data has been manually curated and organized into three datasets representing eukaryotes, Gram-positive and Gram-negative bacteria. These datasets are used to evaluate thirteen prediction tools that are publicly available. SignalP (both the HMM and ANN versions) maintains consistency and achieves the best overall accuracy in all three benchmarking experiments, ranging from 0.872 to 0.914 although other prediction tools are narrowing the performance gap.
+2	30	37 peptide	Chemical	CHEBI_16670
+2	279	282 HMM	Chemical	CHEBI_24564
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_24564
+
+3|chunk|The majority of the tools evaluated in this study encounter no difficulty in discriminating between secretory and non-secretory proteins. The challenge clearly remains with pinpointing the correct SP cleavage site. The composite scoring schemes employed by SignalP may help to explain its accuracy. Prediction task is divided into a number of separate steps, thus allowing each score to tackle a particular aspect of the prediction.
+

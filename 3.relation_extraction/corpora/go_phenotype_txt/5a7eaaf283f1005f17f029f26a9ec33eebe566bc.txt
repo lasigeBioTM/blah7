@@ -1,0 +1,19 @@
+0|chunk|Tissue-specific responses of antioxidant pathways to poor hygiene conditions in growing pigs divergently selected for feed efficiency
+
+1|chunk|Background: Poor hygiene of housing induces a systemic inflammatory response. Because inflammation and oxidative stress are processes that can sustain each other, the ways pigs are able to activate their antioxidant defenses are critical for production performance and health during periods when the immune system is solicited. Selection for production performance can also influence reactive oxygen species (ROS) production and expression levels of genes involved in cellular response to oxidative stress in different tissues. To establish the extent by which poor hygiene and selection for feed efficiency affected redox status, pigs divergently selected for residual feed intake (RFI) were housed in poor or good hygiene during 6 weeks. At the end, blood was collected in all pigs, and half of them were killed for tissue sampling. The remaining pigs were reared in good hygiene conditions during a recovery period of 7-8 weeks.
+1	103	119 oxidative stress	Phenotype	HP_0025464
+1	468	505 cellular response to oxidative stress	Gene_function	GO_0034599
+1	489	505 oxidative stress	Phenotype	HP_0025464
+1	608	616 affected	Phenotype	HP_0032320
+1	HP-GO	HP_0025464	GO_0034599
+1	GO-HP	GO_0034599	HP_0032320
+
+2|chunk|Results: At week 6, poor hygiene was associated with a lower total antioxidant capacity assessed by plasma ferric reducing ability in all pigs, and with greater plasma levels of hydrogen peroxides in the high RFI pigs (less efficient). Adipose tissue of high RFI pigs exhibited higher activities of catalase and glutathione reductase, and greater thiobarbituric acid reactive substances (TBARS) concentrations when compared with the low RFI pigs (more efficient). Poor hygiene conditions activated the antioxidant enzymes activities (glutathione reductase, superoxide dismutase and catalase) in adipose tissue of both lines, but led to higher ROS production by mature adipocytes isolated from the high RFI pigs only. In liver and muscle, there were only minor changes in antioxidant molecules due to genetics and hygiene conditions. After the resilience period, adipose tissue of pigs previously challenged by poor hygiene maintained higher antioxidant enzyme activities, and for the high RFI line, displayed higher TBARS concentrations.
+
+3|chunk|Conclusions: Pigs selected for improved feed efficiency showed a lower susceptibility to oxidative stress induced by poor hygiene conditions. This could led to a lower inflammatory response and less impaired growth when these pigs are facing sanitary challenges during the production period.
+3	89	105 oxidative stress	Phenotype	HP_0025464
+3	168	189 inflammatory response	Gene_function	GO_0006954
+3	208	214 growth	Gene_function	GO_0040007
+3	HP-GO	HP_0025464	GO_0006954
+3	HP-GO	HP_0025464	GO_0040007
+

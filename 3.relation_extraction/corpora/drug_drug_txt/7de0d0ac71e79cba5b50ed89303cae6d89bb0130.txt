@@ -1,0 +1,21 @@
+0|chunk|Multiplexed Component Analysis to Identify Genes Contributing to the Immune Response during Acute SIV Infection
+
+1|chunk|Immune response genes play an important role during acute HIV and SIV infection. Using an SIV macaque model of AIDS and CNS disease, our overall goal was to assess how the expression of genes associated with immune and inflammatory responses are longitudinally changed in different organs or cells during SIV infection. To compare RNA expression of a panel of 88 immune-related genes across time points and among three tissuesspleen, mesenteric lymph nodes (MLN) and peripheral blood mononuclear cells (PBMC)we designed a set of Nanostring probes. To identify significant genes during acute SIV infection and to investigate whether these genes are tissue-specific or have global roles, we introduce a novel multiplexed component analysis (MCA) method. This combines multivariate analysis methods with multiple preprocessing methods to create a set of 12 "judges"; each judge emphasizes particular types of change in gene expression to which cells could respond, for example, the absolute or relative size of expression change from baseline. Compared to bivariate analysis methods, our MCA method improved classification rates. This analysis allows us to identify three categories of genes: (a) consensus genes likely to contribute highly to the immune response; (b) genes that would contribute highly to the immune response only if certain assumptions are mete.g. that the cell responds to relative expression change rather than absolute expression change; and (c) genes whose contribution to immune response appears to be modest. We then compared the results across the three tissues of interest; some genes are consistently highly-contributing in all tissues, while others are specific for certain tissues. Our analysis identified CCL8, CXCL10, CXCL11, MxA, OAS2, and OAS1 as top contributing genes, all of which are stimulated by type I interferon. This suggests that the cytokine storm during acute SIV infection is a systemic innate immune response against viral replication. Furthermore, these genes have approximately equal contributions to all tissues, making them possible candidates to be used as non-invasive biomarkers in studying PBMCs instead of MLN and spleen during acute SIV infection experiments. We identified clusters of genes that co-vary together and studied their correlation with regard to other gene clusters. We also developed novel methods to faithfully PLOS ONE |
+1	40	44 role	Chemical	CHEBI_50906
+1	331	334 RNA	Chemical	CHEBI_33697
+1	739	742 MCA	Chemical	CHEBI_34342
+1	1085	1088 MCA	Chemical	CHEBI_34342
+1	2229	2237 clusters	Chemical	CHEBI_33731
+1	2325	2333 clusters	Chemical	CHEBI_33731
+1	2386	2389 ONE	Chemical	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_34342
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_34342
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_34342	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_34342	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_33731	CHEBI_58972
+

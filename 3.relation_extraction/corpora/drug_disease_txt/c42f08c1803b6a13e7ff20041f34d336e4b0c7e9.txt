@@ -1,0 +1,16 @@
+0|chunk|BMC Molecular Biology Identification of new reference genes for the normalisation of canine osteoarthritic joint tissue transcripts from microarray data
+0	0	3 BMC	Chemical	CHEBI_3392
+
+1|chunk|Background: Real-time reverse transcriptase quantitative polymerase chain reaction (real-time RT-qPCR) is the most accurate measure of gene expression in biological systems. The comparison of different samples requires the transformation of data through a process called normalisation. Reference or housekeeping genes are candidate genes which are selected on the basis of constitutive expression across samples, and allow the quantification of changes in gene expression. At present, no reference gene has been identified for any organism which is universally optimal for use across different tissue types or disease situations. We used microarray data to identify new reference genes generated from total RNA isolated from normal and osteoarthritic canine articular tissues (bone, ligament, cartilage, synovium and fat). RT-qPCR assays were designed and applied to each different articular tissue. Reference gene expression stability and ranking was compared using three different mathematical algorithms.
+1	610	617 disease	Disease	DOID_4
+1	707	710 RNA	Chemical	CHEBI_33697
+1	DOID-CHEBI	DOID_4	CHEBI_33697
+
+2|chunk|Twelve new potential reference genes were identified from microarray data. One gene (mitochondrial ribosomal protein S7 [MRPS7]) was stably expressed in all five of the articular tissues evaluated. One gene HIRA interacting protein 5 isoform 2 [HIRP5]) was stably expressed in four of the tissues evaluated. A commonly used reference gene glyceraldehyde-3-phosphate dehydrogenase (GAPDH) was not stably expressed in any of the tissues evaluated. Most consistent agreement between rank ordering of reference genes was observed between Bestkeeper and geNorm, although each method tended to agree on the identity of the most stably expressed genes and the least stably expressed genes for each tissue. New reference genes identified using microarray data normalised in a conventional manner were more stable than those identified by microarray data normalised by using a real-time RT-qPCR methodology.
+2	109	116 protein	Chemical	CHEBI_16541
+2	224	231 protein	Chemical	CHEBI_16541
+2	339	365 glyceraldehyde-3-phosphate	Chemical	CHEBI_17138
+
+3|chunk|Conclusion: Microarray data normalised by a conventional manner can be filtered using a simple stepwise procedure to identify new reference genes, some of which will demonstrate good measures of stability. Mitochondrial ribosomal protein S7 is a new reference gene worthy of investigation in other canine tissues and diseases. Different methods of reference gene stability assessment will generally agree on the most and least stably expressed genes, when co-regulation is not present.
+3	230	237 protein	Chemical	CHEBI_16541
+

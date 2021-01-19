@@ -1,0 +1,26 @@
+0|chunk|Enrichment of Retroviral Sequences in Brain Tissue from Patients with Severe Demyelinating Diseases
+
+1|chunk|Background-Our group has used deep sequencing to identify viral RNA signatures in human brain specimens. We have previously used this method to detect HSV1, GBV-C, and measles virus sequence in brain tissue from deceased donors. Deep sequencing was performed on brain specimens from a cohort of patients who died with progressive forms of MS, revealing evidence of increased expression of some human endogenous retrovirus (HERV) domains.
+1	64	67 RNA	Chemical	CHEBI_33697
+1	168	175 measles	Disease	DOID_8622
+1	285	291 cohort	Chemical	CHEBI_34935
+1	CHEBI-DOID	CHEBI_33697	DOID_8622
+1	DOID-CHEBI	DOID_8622	CHEBI_34935
+
+2|chunk|Methods-Deep sequencing was performed on RNA extracted from 12 progressive MS, 2 neuromyelitis optica (MS/NMO = demyelination group), 14 normal control, and 7 other neurologic disease (OND) control frozen brain specimens. The resulting single-ended 50 bp sequences (reads) were compared to a non redundant viral database representing (NRVDB) all 1.2 M viral records in GenBank. A retroviral gene catalog (RVGC) was prepared by identifying human genetic loci (GRCh37.p13) homologous to domains contained in the Gypsy 2.0 retro element database. Reads were aligned to the RVGC and human transcriptome with Bowtie2. The resulting viral hit rates (VHRs) were normalized by the number of high quality reads. The expression of human genes, including HERVs, was determined using Cufflinks. Comparisons between the groups were performed using the false discovery rate.
+2	41	44 RNA	Chemical	CHEBI_33697
+2	81	101 neuromyelitis optica	Disease	DOID_8869
+2	176	183 disease	Disease	DOID_4
+2	526	533 element	Chemical	CHEBI_33250
+2	CHEBI-DOID	CHEBI_33697	DOID_8869
+2	CHEBI-DOID	CHEBI_33697	DOID_4
+2	DOID-CHEBI	DOID_8869	CHEBI_33250
+2	DOID-CHEBI	DOID_4	CHEBI_33250
+
+3|chunk|Results-Fifty to 131 million high quality reads per specimen were obtained. Comparison of the reads to the NRVDB suggested that the demyelination and OND specimens had higher VHRs against some retroviral sequences compared with the controls. This was confirmed by retroviral domain averaging. Gene expression analysis showed differential expression among some HERV sequences. Single read mapping revealed one envelope and one reverse transcriptase sequence record that were significantly enriched among the demyelination samples compared to the normal controls. Less restrictive (comprehensive) read mapping showed that 2 integrase, 2 core, 2 envelope, and 3 KRAB sequences that were overexpressed in the demyelination group.
+
+4|chunk|This is an open-Conclusions-These data demonstrate that some endogenous retroviral sequences are significantly overexpressed in these demyelination brain tissue specimens, but the magnitude of this overexpression is small. This is consistent with the concept of HERV activation as a part of the innate immune response.
+
+5|chunk|Primary progressive MS cases were requested from the Human Brain and Spinal Fluid Resource Center (Los Angeles Veterans Administration, California) and the Rocky Mountain MS Center (Englewood, Colorado) brain repositories. Cases were selected by the directors of these two institutions. Specimens were studied from 11 persons with primary progressive MS (PPMS), one with secondary progressive MS (SPMS), and 2 persons with Kriesel et al. 
+5	99	102 Los	Chemical	CHEBI_35371
+

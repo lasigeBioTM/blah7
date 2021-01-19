@@ -1,0 +1,28 @@
+0|chunk|Intrinsically disordered sequences enable modulation of protein phase separation through distributed tyrosine motifs
+
+1|chunk|Liquid-liquid phase separation (LLPS) is thought to contribute to the establishment of many biomolecular condensates, eukaryotic cell structures that concentrate diverse macromolecules but lack a bounding membrane. RNA granules control RNA metabolism and comprise a large class of condensates that are enriched in RNA-binding proteins and RNA molecules. Many RNA granule proteins are composed of both modular domains and intrinsically disordered regions (IDRs) having low amino acid sequence complexity. Phase separation of these molecules likely plays an important role in the generation and stability of RNA granules. To understand how folded domains and IDRs can cooperate to modulate LLPS, we generated a series of engineered proteins. These were based on fusions of an IDR derived from the RNA granule protein FUS (fused in sarcoma) to a multivalent poly-Src homology 3 (SH3) domain protein that phase-separates when mixed with a poly-proline-rich-motif (polyPRM) ligand. We found that the wild-type IDR promotes LLPS of the polySH3-polyPRM system, decreasing the phase separation threshold concentration by 8-fold. Systematic mutation of tyrosine residues in Gly/Ser-Tyr-Gly/Ser motifs of the IDR reduced this effect, depending on the number but not on the position of these substitutions. Mutating all tyrosines to nonaromatic residues or phosphorylating the IDR raised the phase separation threshold above that of the unmodified polySH3-polyPRM pair. These results show that low-complexity IDRs can modulate LLPS both positively and negatively, depending on the degree of aromaticity and phosphorylation status. Our findings provide plausible mechanisms by which these sequences could alter RNA granule properties on evolutionary and cellular timescales.
+1	236	250 RNA metabolism	Gene_function	GO_0016070
+1	240	250 metabolism	Gene_function	GO_0008152
+1	829	836 sarcoma	Phenotype	HP_0100242
+1	1263	1271 position	Phenotype	HP_0012830
+1	1596	1611 phosphorylation	Gene_function	GO_0016310
+1	GO-HP	GO_0016070	HP_0100242
+1	GO-HP	GO_0016070	HP_0012830
+1	GO-HP	GO_0008152	HP_0100242
+1	GO-HP	GO_0008152	HP_0012830
+1	HP-GO	HP_0100242	GO_0016310
+1	HP-GO	HP_0012830	GO_0016310
+
+2|chunk|Eukaryotic cells organize complex biochemical reactions through compartmentalization. In addition to canonical membrane-bound organelles, such as mitochondria and the endoplasmic reticulum, there are also many subcellular compartments that are enriched in selected proteins and nucleic acids but are not surrounded by a lipid bilayer (1). These structures have recently been termed biomolecular condensates to emphasize their common property of concentrating biological molecules (2). Many condensates behave as viscous liquid phases distinct from cytoplasm and nucleoplasm (3-9). A variety of evidence suggests that some may form via the physical process of liquid-liquid phase separation (LLPS) 2 (2, 9 -12). The LLPS model is also supported in part by numerous observations that purified protein and RNA components of condensates can recapitulate the immiscible liquid structures in vitro (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) (24) .
+2	146	158 mitochondria	Gene_function	GO_0005739
+2	548	557 cytoplasm	Gene_function	GO_0005737
+2	562	573 nucleoplasm	Gene_function	GO_0005654
+
+3|chunk|RNA granules, including processing bodies, stress granules, germ line P granules, nuclear speckles, and nucleoli, are a class of condensates that are enriched in RNAs and RNA-binding proteins (25-28). These structures have diverse roles in the metabolism of RNA, including splicing, modification, assembly, storage, degradation, and localization (25-28). Many RNA granule proteins contain multiple RNA-binding domains as well as large intrinsically disordered regions (IDRs) (13, 29 -31). The IDRs, as well as the folded domains, are important for assembly of RNA granules (32-36), and their phosphorylation can trigger granule disassembly (37-40). In vitro, tandem arrays of folded domains, including RNA-binding domains, can oligomerize and phase-separate when mixed with their multivalent cognate ligands, including repetitive RNAs (13, 14, 24, 41) . IDRs can also self-associate and do so through a variety of side-chain interaction modes, including electrostatic, polar, and hydrophobic (42), as well as backbone modes that generate amyloid fibers and potentially other glassy structures (43, 44). These interactions can promote LLPS and/or formation of solid, amyloid-containing hydrogels (12, 16 -18, 20 -22, 29, 45).
+3	244	254 metabolism	Gene_function	GO_0008152
+3	333	345 localization	Gene_function	GO_0051179
+3	592	607 phosphorylation	Gene_function	GO_0016310
+
+4|chunk|The IDRs of RNA-binding proteins often have low amino acid sequence complexity, being enriched in only a subset of residue types such as Gly, Ser, Tyr, and Gln (29 -31). Aromatic residues appear to play particularly important roles in IDR interactions and LLPS. Cationinteractions between arginine and phenylalanine side chains are thought to be an important driving force for LLPS of the RNA helicase Ddx4 (16). Mutation or deletion of tyrosine residues in the BugZ and Nephrin intracellular domain proteins decreases their propensity to phase-
+4	479	492 intracellular	Gene_function	GO_0005622
+

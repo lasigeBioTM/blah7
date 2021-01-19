@@ -1,0 +1,49 @@
+0|chunk|A dual controllability analysis of influenza virus-host protein-protein interaction networks for antiviral drug target discovery
+0	35	44 influenza	Disease	DOID_8469
+0	97	106 antiviral	Chemical	CHEBI_22587
+0	97	111 antiviral drug	Chemical	CHEBI_36044
+0	107	111 drug	Chemical	CHEBI_23888
+0	DOID-CHEBI	DOID_8469	CHEBI_22587
+0	DOID-CHEBI	DOID_8469	CHEBI_36044
+0	DOID-CHEBI	DOID_8469	CHEBI_23888
+
+1|chunk|Background: Host factors of influenza virus replication are often found in key topological positions within proteinprotein interaction networks. This work explores how protein states can be manipulated through controllability analysis: the determination of the minimum manipulation needed to drive the cell system to any desired state. Here, we complete a two-part controllability analysis of two protein networks: a host network representing the healthy cell state and an influenza A virus-host network representing the infected cell state. In this context, controllability analyses aim to identify key regulating host factors of the infected cell's progression. This knowledge can be utilized in further biological analysis to understand disease dynamics and isolate proteins for study as drug target candidates.
+1	28	37 influenza	Disease	DOID_8469
+1	168	175 protein	Chemical	CHEBI_16541
+1	397	404 protein	Chemical	CHEBI_16541
+1	473	482 influenza	Disease	DOID_8469
+1	740	747 disease	Disease	DOID_4
+1	769	777 proteins	Chemical	CHEBI_36080
+1	791	795 drug	Chemical	CHEBI_23888
+1	DOID-CHEBI	DOID_8469	CHEBI_16541
+1	DOID-CHEBI	DOID_8469	CHEBI_36080
+1	DOID-CHEBI	DOID_8469	CHEBI_23888
+1	CHEBI-DOID	CHEBI_16541	DOID_4
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+
+2|chunk|Results: Both topological and controllability analyses provide evidence of wide-reaching network effects stemming from the addition of viral-host protein interactions. Virus interacting and driver host proteins are significant both topologically and in controllability, therefore playing important roles in cell behavior during infection. Functional analysis finds overlap of results with previous siRNA studies of host factors involved in influenza replication, NF-kB pathway and infection relevance, and roles as interferon regulating genes. 24 proteins are identified as holding regulatory roles specific to the infected cell by measures of topology, controllability, and functional role. These proteins are recommended for further study as potential antiviral drug targets. Conclusions: Seasonal outbreaks of influenza A virus are a major cause of illness and death around the world each year with a constant threat of pandemic infection. This research aims to increase the efficiency of antiviral drug target discovery using existing protein-protein interaction data and network analysis methods. These results are beneficial to future studies of influenza virus, both experimental and computational, and provide evidence that the combination of topology and controllability analyses may be valuable for future efforts in drug target discovery.
+2	146	153 protein	Chemical	CHEBI_16541
+2	202	210 proteins	Chemical	CHEBI_36080
+2	440	449 influenza	Disease	DOID_8469
+2	469	476 pathway	Chemical	CHEBI_34922
+2	515	525 interferon	Chemical	CHEBI_52999
+2	547	555 proteins	Chemical	CHEBI_36080
+2	698	706 proteins	Chemical	CHEBI_36080
+2	754	763 antiviral	Chemical	CHEBI_22587
+2	754	768 antiviral drug	Chemical	CHEBI_36044
+2	764	768 drug	Chemical	CHEBI_23888
+2	813	822 influenza	Disease	DOID_8469
+2	992	1001 antiviral	Chemical	CHEBI_22587
+2	992	1006 antiviral drug	Chemical	CHEBI_36044
+2	1002	1006 drug	Chemical	CHEBI_23888
+2	1152	1161 influenza	Disease	DOID_8469
+2	1327	1331 drug	Chemical	CHEBI_23888
+2	CHEBI-DOID	CHEBI_16541	DOID_8469
+2	CHEBI-DOID	CHEBI_36080	DOID_8469
+2	DOID-CHEBI	DOID_8469	CHEBI_34922
+2	DOID-CHEBI	DOID_8469	CHEBI_52999
+2	DOID-CHEBI	DOID_8469	CHEBI_22587
+2	DOID-CHEBI	DOID_8469	CHEBI_36044
+2	DOID-CHEBI	DOID_8469	CHEBI_23888
+

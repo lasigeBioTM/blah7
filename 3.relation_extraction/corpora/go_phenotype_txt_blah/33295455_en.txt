@@ -1,0 +1,31 @@
+0|chunk|Disease Severity Affects Ventricular Repolarization Parameters in Patients With COVID-19.
+0	8	16 Severity	Phenotype	HP_0012824
+0	25	51 Ventricular Repolarization	Gene_function	GO_0060307
+0	HP-GO	HP_0012824	GO_0060307
+
+1|chunk|There is no study evaluating the Tpeak-Tend (Tpe) interval, Tpe/QT ratio, and Tpe/QTc ratio to assess cardiac arrhythmias in patients with COVID-19.We aimed to examine whether there is a change in QT, QTc, Tpe interval, Tpe/QT ratio, and Tpe/QTc ratio in patients with COVID-19.The study included 90 patients with COVID-19 infection and 30 age-and-sex-matched healthy controls. QT, QTc, Tpe interval, Tpe/QT ratio, and Tpe/QTc ratio were measured. The participants included in the study were divided into the following 4 groups: healthy controls (group I), patients with COVID-19 without pneumonia (group II), patients with COVID-19 and mild pneumonia (group III), and patients with COVID-19 and severe pneumonia (group IV). Statistical significance was set at p < 0.05.It was found that baseline heart rate, presence of hypertension and diabetes, white blood cell count, blood urea nitrogen, creatinine, potassium, aspartate aminotransferase, alanine aminotransferase, NT-proBNP, high sensitive C reactive protein, D-dimer, hs-cTnI, Tpe, Tpe/QT, and Tpe/QTc increased from group I to group IV, and they were significantly higher in all patients in group IV (p < 0.05). Systolic-diastolic blood pressure, hemoglobin, and calcium levels were found to be lowest in group IV and significantly lower than in other groups (< 0.05). QT and QTc intervals were similar between groups. It was determined that increased heart rate, calcium, D-dimer, NT-proBNP and hs-CRP levels were significantly related to Tpe, Tpe/QT, and Tpe/QTc.In patients with COVID-19 and severe pneumonia, Tpe, Tpe/QT ratio, and Tpe/QTc ratio, which are among ventricular repolarization parameters, were found to be increased, without prolonged QT and QTc intervals. In this study, we cannot definitively conclude that the ECG changes observed are directly related to COVID-19 infection or inflammation, but rather associated with severe COVID-19 scenarios, which might involve other causes of inflammation and comorbidities. (Arq Bras Cardiol. 2020; 115(5):907-913).
+1	102	121 cardiac arrhythmias	Phenotype	HP_0011675
+1	110	121 arrhythmias	Phenotype	HP_0011675
+1	360	367 healthy	Phenotype	HP_0032322
+1	529	536 healthy	Phenotype	HP_0032322
+1	588	597 pneumonia	Phenotype	HP_0002090
+1	637	641 mild	Phenotype	HP_0012825
+1	642	651 pneumonia	Phenotype	HP_0002090
+1	696	702 severe	Phenotype	HP_0012828
+1	703	712 pneumonia	Phenotype	HP_0002090
+1	821	833 hypertension	Phenotype	HP_0000822
+1	1400	1420 increased heart rate	Phenotype	HP_0001649
+1	1553	1559 severe	Phenotype	HP_0012828
+1	1560	1569 pneumonia	Phenotype	HP_0002090
+1	1625	1651 ventricular repolarization	Gene_function	GO_0060307
+1	1700	1709 prolonged	Phenotype	HP_0025297
+1	1896	1902 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0011675	GO_0060307
+1	HP-GO	HP_0032322	GO_0060307
+1	HP-GO	HP_0002090	GO_0060307
+1	HP-GO	HP_0012825	GO_0060307
+1	HP-GO	HP_0012828	GO_0060307
+1	HP-GO	HP_0000822	GO_0060307
+1	HP-GO	HP_0001649	GO_0060307
+1	GO-HP	GO_0060307	HP_0025297
+

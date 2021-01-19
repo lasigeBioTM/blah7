@@ -1,0 +1,15 @@
+0|chunk|iNR-Drug: Predicting the Interaction of Drugs with Nuclear Receptors in Cellular Networking
+0	40	45 Drugs	Chemical	CHEBI_23888
+
+1|chunk|Nuclear receptors (NRs) are closely associated with various major diseases such as cancer, diabetes, inflammatory disease, and osteoporosis. Therefore, NRs have become a frequent target for drug development. During the process of developing drugs against these diseases by targeting NRs, we are often facing a problem: Given a NR and chemical compound, can we identify whether they are really in interaction with each other in a cell? To address this problem, a predictor called "iNR-Drug" was developed. In the predictor, the drug compound concerned was formulated by a 256-D (dimensional) vector derived from its molecular fingerprint, and the NR by a 500-D vector formed by incorporating its sequential evolution information and physicochemical features into the general form of pseudo amino acid composition, and the prediction engine was operated by the SVM (support vector machine) algorithm. Compared with the existing prediction methods in this area, iNR-Drug not only can yield a higher success rate, but is also featured by a user-friendly web-server established at http://www.jci-bioinfo.cn/iNR-Drug/, which is particularly useful for most experimental scientists to obtain their desired data in a timely manner. It is anticipated that the iNR-Drug server may become a useful high throughput tool for both basic research and drug development, and that the current approach may be easily extended to study the interactions of drug with other targets as well.
+1	190	194 drug	Chemical	CHEBI_23888
+1	241	246 drugs	Chemical	CHEBI_23888
+1	527	531 drug	Chemical	CHEBI_23888
+1	789	794 amino	Chemical	CHEBI_46882
+1	789	799 amino acid	Chemical	CHEBI_33704
+1	795	799 acid	Chemical	CHEBI_37527
+1	1336	1340 drug	Chemical	CHEBI_23888
+1	1436	1440 drug	Chemical	CHEBI_23888
+
+2|chunk|Int. J. Mol. Sci. 2014, 15 4916 
+

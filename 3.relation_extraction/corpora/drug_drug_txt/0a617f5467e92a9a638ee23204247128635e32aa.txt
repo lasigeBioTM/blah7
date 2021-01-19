@@ -1,0 +1,145 @@
+0|chunk|Role of extracellular matrix and microenvironment in regulation of tumor growth and LAR-mediated invasion in glioblastoma
+0	0	4 Role	Chemical	CHEBI_50906
+
+1|chunk|The cellular dispersion and therapeutic control of glioblastoma, the most aggressive type of primary brain cancer, depends critically on the migration patterns after surgery and intracellular responses of the individual cancer cells in response to external biochemical cues in the microenvironment. Recent studies have shown that miR-451 regulates downstream molecules including AMPK/CAB39/MARK and mTOR to determine the balance between rapid proliferation and invasion in response to metabolic stress in the harsh tumor microenvironment. Surgical removal of the main tumor is inevitably followed by recurrence of the tumor due to inaccessibility of dispersed tumor cells in normal brain tissue. In order to address this complex process of cell proliferation and invasion and its response to conventional treatment, we propose a mathematical model that analyzes the intracellular dynamics of the miR-451-AMPK-mTOR-cell cycle signaling pathway within a cell. The model identifies a key mechanism underlying the molecular switches between proliferative phase and migratory phase in response to metabolic stress in response to fluctuating glucose levels. We show how up-or down-regulation of components in these pathways affects the key cellular decision to infiltrate or proliferate in a complex microenvironment in the absence and presence of time delays and stochastic noise. Glycosylated chondroitin sulfate proteoglycans (CSPGs), a major component of the extracellular matrix (ECM) in the brain, contribute to the physical structure of the local brain microenvironment but also induce or inhibit glioma invasion by regulating the dynamics of the CSPG receptor LAR as well as the spatiotemporal activation status of resident astrocytes and tumor-associated microglia. Using a multi-scale mathematical model, we investigate a CSPG-induced switch between invasive and noninvasive tumors through the coordination of ECM-cell adhesion and dynamic changes in stromal cells. We show that the CSPG-rich microenvironment is associated with non-PLOS ONE | https://doi.invasive tumor lesions through LAR-CSGAG binding while the absence of glycosylated CSPGs induce the critical glioma invasion. We illustrate how high molecular weight CSPGs can regulate the exodus of local reactive astrocytes from the main tumor lesion, leading to encapsulation of non-invasive tumor and inhibition of tumor invasion. These different CSPG conditions also change the spatial profiles of ramified and activated microglia. The complex distribution of CSPGs in the tumor microenvironment can determine the nonlinear invasion behaviors of glioma cells, which suggests the need for careful therapeutic strategies. Role of CSPG and microenvironment in regulation of glioma invasion PLOS ONE | https://doi.org/10.1371/journal.pone.0204865 October 4, 2018 2 / 40
+1	359	368 molecules	Chemical	CHEBI_25367
+1	935	942 pathway	Chemical	CHEBI_34922
+1	1136	1143 glucose	Chemical	CHEBI_17234
+1	1389	1400 chondroitin	Chemical	CHEBI_16137
+1	1389	1408 chondroitin sulfate	Chemical	CHEBI_37397
+1	1401	1408 sulfate	Chemical	CHEBI_16189
+1	1409	1422 proteoglycans	Chemical	CHEBI_37396
+1	2042	2045 ONE	Chemical	CHEBI_58972
+1	2684	2688 Role	Chemical	CHEBI_50906
+1	2756	2759 ONE	Chemical	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_17234
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_16137
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_37397
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_16189
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_17234
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_16137
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_37397
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_16189
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_16137
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_37397
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_16189
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_17234	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16137	CHEBI_37397
+1	CHEBI-CHEBI	CHEBI_16137	CHEBI_16189
+1	CHEBI-CHEBI	CHEBI_16137	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_16137	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_16137	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_37397	CHEBI_16189
+1	CHEBI-CHEBI	CHEBI_37397	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_37397	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_37397	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16189	CHEBI_37396
+1	CHEBI-CHEBI	CHEBI_16189	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_16189	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_37396	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_37396	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_58972	CHEBI_50906
+
+2|chunk|complex, which induces elevated proliferation and decreased cell polarity/migration and (ii) glucose withdrawal leads to down-regulation of miR-451 and up-regulation of AMPK activity, which in turn induces increased cell polarity/migration and reduced cell proliferation. See Fig  1 for a schematic summary of miR-451-AMPK-mTOR core control system [1, 22] . Chondroitin sulfate proteoglycans (CSPGs), major components of the brain extracellular matrix (ECM) in the brain [23] , are reported to play a pivotal role in inhibiting axon growth and regeneration process in scars after CNS damage [24] . CSPGs are also known to serve as biophysical barriers, preventing brain cells from migrating across the boundary of two adjacent structures during CNS development [25] [26] [27] [28] [29] [30][31][32]. In CNS tumors, CSPGs may provide a structural foundation and guidance for tumor invasion [33] as well as a physical barrier for cell infiltration like other ECMs. Not surprisingly, this heavy chain of CSPGs has been associated with tumor growth, penetration into neighboring tissues, and angiogenesis [34]. The accumulating interstitial pressure and severe tortuosity in the extracellular space within the tumor [1] due to the high concentration of CSPG ECM are a severe limiting factor for efficient delivery of large therapeutic drugs [35]. Therefore, lowering the CSPG levels by an digestive enzyme was suggested as a way of promoting intratumoral transport of larger therapeutic compounds, making this ECM a potential target for adjuvant therapy [36, 37]. For example, tumor growth and invasion was reduced when these ECM molecules were digested by blocking antibodies against versican [36] or manipulating RNA against phosphacan [38]. CSPG degradation by classical proteases such as MMP-1 and MMP-8 also results in an increase in diffusion and hydraulic conductivity in solid tumors [39]. In oncolytic virus therapy, the diffusion-limiting properties of CSPGs are blamed for low therapeutic anti-tumor efficacy due to the inefficient intratumoral spread of oncolytic viruses within the compact glioma [40, 41]. The CSPG receptor LAR was shown to be involved in promoting or inhibiting tumor invasion [33, 42]. In recent work [42], CSPGs were suggested to be a biochemical indicator of non-invasive tumor and diffusely infiltrating tumor. In the study, they found that (i) a CSPG-rich microenvironment was associated with a strong cell-ECM adhesion and stimulated resident astrocytes to actively escape the CSPG-dense lesions, leading to the self-contained non-invasive tumor surrounded by astrocytes. (ii) Glycosylated CSPGs were not found in invasive GBM [42] and no collective migration of astrocytes was observed. (iii) These CSPG conditions also changed the profile of ramified and activated microglia within and outside the tumor. (iv) CSPG-induced cell-ECM bonding was mediated by its receptor LAR and LAR-CSGAG complex [42]. Integrins usually mediate the cell-matrix interactions by tethering the cell to its surrounding ECM and activating intracellular signalling cascades [43, 44].
+2	93	100 glucose	Chemical	CHEBI_17234
+2	358	369 Chondroitin	Chemical	CHEBI_16137
+2	358	377 Chondroitin sulfate	Chemical	CHEBI_37397
+2	370	377 sulfate	Chemical	CHEBI_16189
+2	378	391 proteoglycans	Chemical	CHEBI_37396
+2	509	513 role	Chemical	CHEBI_50906
+2	1331	1336 drugs	Chemical	CHEBI_23888
+2	1533	1541 adjuvant	Chemical	CHEBI_60809
+2	1626	1635 molecules	Chemical	CHEBI_25367
+2	1711	1714 RNA	Chemical	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_16137
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_37397
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_16189
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_37396
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_37397
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_16189
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_37396
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_16137	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_16189
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_37396
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_37397	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_37396
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_16189	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_37396	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_37396	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_37396	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_37396	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_37396	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_60809
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_60809	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_60809	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_33697
+
+3|chunk|Chondroitinase ABC I (Chase-ABC) is an enzyme that can eliminate Chondroitin sulfate glycosoamino glycans from proteoglycans without harmful effects in vivo [40] and has been widely tested for its effect on neuronal regeneration after CNS injury. This bacterial enzyme is known for its 'loosening' effect on the ECM scaffold [24, 45] and studied for enhancement of regeneration of injured axonal tracts. Chase-ABC was also suggested as an attractive target to enhance oncolytic virus (OV) spread in in vivo [40] and in silico [41] experiments and its anti-tumor effect has been proposed in Phase I/II trials for patients treated in Asia [46].
+3	15	18 ABC	Chemical	CHEBI_421707
+3	65	76 Chondroitin	Chemical	CHEBI_16137
+3	65	84 Chondroitin sulfate	Chemical	CHEBI_37397
+3	77	84 sulfate	Chemical	CHEBI_16189
+3	98	105 glycans	Chemical	CHEBI_18154
+3	111	124 proteoglycans	Chemical	CHEBI_37396
+3	CHEBI-CHEBI	CHEBI_421707	CHEBI_16137
+3	CHEBI-CHEBI	CHEBI_421707	CHEBI_37397
+3	CHEBI-CHEBI	CHEBI_421707	CHEBI_16189
+3	CHEBI-CHEBI	CHEBI_421707	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_421707	CHEBI_37396
+3	CHEBI-CHEBI	CHEBI_16137	CHEBI_37397
+3	CHEBI-CHEBI	CHEBI_16137	CHEBI_16189
+3	CHEBI-CHEBI	CHEBI_16137	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_16137	CHEBI_37396
+3	CHEBI-CHEBI	CHEBI_37397	CHEBI_16189
+3	CHEBI-CHEBI	CHEBI_37397	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_37397	CHEBI_37396
+3	CHEBI-CHEBI	CHEBI_16189	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_16189	CHEBI_37396
+3	CHEBI-CHEBI	CHEBI_18154	CHEBI_37396
+
+4|chunk|A glioma interacts with its microenvironment such as stromal cells (astrocytes, neurons, microglia, macrophages), ECM, vessels, and chemokines/cytokines by direct and indirect contacts in the tumor-stroma network [42, 43, 47, 48]. M1 and M2 types of microglia were shown to promote glioma cell invasion by exchanging signaling molecules such as CSF-1, . Astrocytes also play a significant role in the progression, aggression, and angiogenesis of CNS tumors [53, 54] . Mutual crosstalk between glioma cells and astrocytes plays a central role in cell infiltration through blood vessels through regulation of H + /Ca 2 Role of CSPG and microenvironment in regulation of glioma invasion PLOS ONE | https://doi.org/10.
+4	317	336 signaling molecules	Chemical	CHEBI_62488
+4	327	336 molecules	Chemical	CHEBI_25367
+4	389	393 role	Chemical	CHEBI_50906
+4	537	541 role	Chemical	CHEBI_50906
+4	617	621 Role	Chemical	CHEBI_50906
+4	689	692 ONE	Chemical	CHEBI_58972
+4	CHEBI-CHEBI	CHEBI_62488	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_62488	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_62488	CHEBI_58972
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_58972
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_58972
+

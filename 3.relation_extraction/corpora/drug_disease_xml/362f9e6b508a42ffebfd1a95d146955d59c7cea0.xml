@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="362f9e6b508a42ffebfd1a95d146955d59c7cea0">
+  <chunk id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c0" text="Quantitative prediction of mouse class I MHC peptide binding affinity using support vector machine regression (SVR) models">
+    <entity charOffset="45-52" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c0.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+  </chunk>
+  <chunk id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1" text="The binding between peptide epitopes and major histocompatibility complex proteins (MHCs) is an important event in the cellular immune response. Accurate prediction of the binding between short peptides and the MHC molecules has long been a principal challenge for immunoinformatics. Recently, the modeling of MHC-peptide binding has come to emphasize quantitative predictions: instead of categorizing peptides as &quot;binders&quot; or &quot;non-binders&quot; or as &quot;strong binders&quot; and &quot;weak binders&quot;, recent methods seek to make predictions about precise binding affinities.">
+    <entity charOffset="20-27" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="74-82" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="194-202" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1.e2" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="215-224" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1.e3" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="402-410" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c1.e4" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+  </chunk>
+  <chunk id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c2" text="We developed a quantitative support vector machine regression (SVR) approach, called SVRMHC, to model peptide-MHC binding affinities. As a non-linear method, SVRMHC was able to generate models that out-performed existing linear models, such as the &quot;additive method&quot;. By adopting a new &quot;11-factor encoding&quot; scheme, SVRMHC takes into account similarities in the physicochemical properties of the amino acids constituting the input peptides. When applied to MHC-peptide binding data for three mouse class I MHC alleles, the SVRMHC models produced more accurate predictions than those produced previously. Furthermore, comparisons based on Receiver Operating Characteristic (ROC) analysis indicated that SVRMHC was able to outperform several prominent methods in identifying strongly binding peptides.">
+    <entity charOffset="394-399" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c2.e0" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="394-405" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c2.e1" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="400-405" id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c2.e2" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+  </chunk>
+  <chunk id="362f9e6b508a42ffebfd1a95d146955d59c7cea0.c3" text="As a method with demonstrated performance in the quantitative modeling of MHCpeptide binding and in identifying strong binders, SVRMHC is a promising immunoinformatics tool with not inconsiderable future potential."/>
+</document>

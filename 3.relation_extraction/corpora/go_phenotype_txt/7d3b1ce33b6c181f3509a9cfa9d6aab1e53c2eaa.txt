@@ -1,0 +1,44 @@
+0|chunk|Clinical Relevance and Discriminatory Value of Elevated Liver Aminotransferase Levels for Dengue Severity
+0	0	18 Clinical Relevance	Phenotype	HP_0045088
+0	97	105 Severity	Phenotype	HP_0012824
+
+1|chunk|Background: Elevation of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) is prominent in acute dengue illness. The World Health Organization (WHO) 2009 dengue guidelines defined AST or ALT$1000 units/liter (U/L) as a criterion for severe dengue. We aimed to assess the clinical relevance and discriminatory value of AST or ALT for dengue hemorrhagic fever (DHF) and severe dengue.
+1	88	91 ALT	Gene_function	GO_0004021
+1	109	114 acute	Phenotype	HP_0011009
+1	205	208 ALT	Gene_function	GO_0004021
+1	251	257 severe	Phenotype	HP_0012828
+1	289	307 clinical relevance	Phenotype	HP_0045088
+1	343	346 ALT	Gene_function	GO_0004021
+1	370	375 fever	Phenotype	HP_0001945
+1	386	392 severe	Phenotype	HP_0012828
+1	GO-HP	GO_0004021	HP_0011009
+1	GO-HP	GO_0004021	HP_0012828
+1	GO-HP	GO_0004021	HP_0045088
+1	GO-HP	GO_0004021	HP_0001945
+
+2|chunk|Methodology/Principal Findings: We retrospectively studied and classified polymerase chain reaction positive dengue patients from 2006 to 2008 treated at Tan Tock Seng Hospital, Singapore according to WHO 1997 and 2009 criteria for dengue severity. Of 690 dengue patients, 31% had DHF and 24% severe dengue. Elevated AST and ALT occurred in 86% and 46%, respectively. Seven had AST or ALT$1000 U/L. None had acute liver failure but one patient died. Median AST and ALT values were significantly higher with increasing dengue severity by both WHO 1997 and 2009 criteria. However, they were poorly discriminatory between non-severe and severe dengue (e.g., AST area under the receiver operating characteristic [ROC] curve = 0.62; 95% confidence interval [CI]: 0.57-0.67) and between dengue fever (DF) and DHF (AST area under the ROC curve = 0.56; 95% CI: 0.52-0.61). There was significant overlap in AST and ALT values among patients with dengue with or without warning signs and severe dengue, and between those with DF and DHF.
+2	239	247 severity	Phenotype	HP_0012824
+2	293	299 severe	Phenotype	HP_0012828
+2	325	328 ALT	Gene_function	GO_0004021
+2	385	388 ALT	Gene_function	GO_0004021
+2	408	413 acute	Phenotype	HP_0011009
+2	408	427 acute liver failure	Phenotype	HP_0006554
+2	414	427 liver failure	Phenotype	HP_0001399
+2	465	468 ALT	Gene_function	GO_0004021
+2	525	533 severity	Phenotype	HP_0012824
+2	634	640 severe	Phenotype	HP_0012828
+2	788	793 fever	Phenotype	HP_0001945
+2	906	909 ALT	Gene_function	GO_0004021
+2	978	984 severe	Phenotype	HP_0012828
+2	HP-GO	HP_0012824	GO_0004021
+2	HP-GO	HP_0012828	GO_0004021
+2	GO-HP	GO_0004021	HP_0011009
+2	GO-HP	GO_0004021	HP_0006554
+2	GO-HP	GO_0004021	HP_0001399
+2	GO-HP	GO_0004021	HP_0001945
+
+3|chunk|Conclusions: Although aminotransferase levels increased in conjunction with dengue severity, AST or ALT values did not discriminate between DF and DHF or non-severe and severe dengue.
+3	100	103 ALT	Gene_function	GO_0004021
+3	169	175 severe	Phenotype	HP_0012828
+3	GO-HP	GO_0004021	HP_0012828
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="b67b75854801b20d8d89d71adf85199ec70c3daa">
+  <chunk id="b67b75854801b20d8d89d71adf85199ec70c3daa.c0" text="A flexibly shaped space-time scan statistic for disease outbreak detection and monitoring">
+    <entity charOffset="48-55" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c0.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+  <chunk id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1" text="Background: Early detection of disease outbreaks enables public health officials to implement disease control and prevention measures at the earliest possible time. A time periodic geographical disease surveillance system based on a cylindrical space-time scan statistic has been used extensively for disease surveillance along with the SaTScan software. In the purely spatial setting, many different methods have been proposed to detect spatial disease clusters. In particular, some spatial scan statistics are aimed at detecting irregularly shaped clusters which may not be detected by the circular spatial scan statistic.">
+    <entity charOffset="31-38" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="94-101" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="194-201" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="301-308" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e3" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="446-453" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="454-462" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="550-558" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e0" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p0" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e0" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p1" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e1" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p2" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e1" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p3" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e2" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p4" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e2" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p5" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e3" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p6" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e3" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p7" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e4" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e5" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p8" relation="true"/>
+    <pair e1="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e4" e2="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.e6" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c1.p9" relation="true"/>
+  </chunk>
+  <chunk id="b67b75854801b20d8d89d71adf85199ec70c3daa.c2" text="Results: Based on the flexible purely spatial scan statistic, we propose a flexibly shaped space-time scan statistic for early detection of disease outbreaks. The performance of the proposed spacetime scan statistic is compared with that of the cylindrical scan statistic using benchmark data. In order to compare their performances, we have developed a space-time power distribution by extending the purely spatial bivariate power distribution. Daily syndromic surveillance data in Massachusetts, USA, are used to illustrate the proposed test statistic.">
+    <entity charOffset="140-147" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c2.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+  <chunk id="b67b75854801b20d8d89d71adf85199ec70c3daa.c3" text="The flexible space-time scan statistic is well suited for detecting and monitoring disease outbreaks in irregularly shaped areas.">
+    <entity charOffset="83-90" id="b67b75854801b20d8d89d71adf85199ec70c3daa.c3.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+</document>

@@ -1,0 +1,70 @@
+0|chunk|Single Chain Fragment Variable (scFv) Antibodies Targeting the Spike Protein of Porcine Epidemic Diarrhea Virus Provide Protection against Viral Infection in Piglets
+0	69	76 Protein	Chemical	CHEBI_16541
+0	97	105 Diarrhea	Disease	DOID_13250
+0	139	154 Viral Infection	Disease	DOID_934
+0	CHEBI-DOID	CHEBI_16541	DOID_13250
+0	CHEBI-DOID	CHEBI_16541	DOID_934
+
+1|chunk|Porcine epidemic diarrhea virus (PEDV) is a highly contagious coronavirus that causes severe diarrhea and death in neonatal piglets. Passive immunization with neutralizing antibodies against PEDV is an effective prevention measure. In this study, single chain fragment variable (scFv) antibodies against PEDV were screened from the porcine scFv phage display library. After four rounds of biopanning, scFvs that showed higher affinity to the PEDV antigen were selected for further study. The scFv genes were cloned into the expression plasmid for recombinant protein expression. These scFvs were shown to inhibit PEDV infectivity by the plaque reduction neutralization assay. Immunofluorescence assay (IFA) revealed that the epitopes recognized by these scFvs were in the S1 region of the spike protein. The potential of scFvs to provide prevention against PEDV infections in piglets was further investigated. Piglets orally administered scFvs showed no to mild clinical symptoms, significantly less viral shedding, no mortality and no intestinal lesions. The field application also revealed that the survival rate of piglets was significantly increased by oral administration of scFvs. Our data support the potential role of scFvs in the prevention and treatment of PEDV infection. virulent variants emphasizes the importance of developing an effective method to control their spread and infection.
+1	17	25 diarrhea	Disease	DOID_13250
+1	93	101 diarrhea	Disease	DOID_13250
+1	447	454 antigen	Chemical	CHEBI_59132
+1	559	566 protein	Chemical	CHEBI_16541
+1	795	802 protein	Chemical	CHEBI_16541
+1	1218	1222 role	Chemical	CHEBI_50906
+1	DOID-CHEBI	DOID_13250	CHEBI_59132
+1	DOID-CHEBI	DOID_13250	CHEBI_16541
+1	DOID-CHEBI	DOID_13250	CHEBI_50906
+
+2|chunk|PEDV is a member of the Alpha-coronavirus genus, within the family Coronaviridae in the order Nidovirales [3,10]. PEDV possesses an~28 kb single-stranded, positive-sense, RNA genome, which encodes seven open reading frames (ORF 1a/1b, and ORF 2-6) [11] . Among them, the first gene ORFs 1a/1b encode large replicase polyproteins, which are processed to generate 16 nonstructural proteins (nsp1-nsp16) [12] . ORF 2, -3, -4, -5, and -6 encode structural/accessory proteins, including spike (S) protein, nonstructural accessory protein, envelope (E) protein, membrane (M) protein, and nucleocapsid (N) protein, respectively [13] .
+2	171	174 RNA	Chemical	CHEBI_33697
+2	224	227 ORF	Disease	DOID_8771
+2	239	242 ORF	Disease	DOID_8771
+2	379	387 proteins	Chemical	CHEBI_36080
+2	408	411 ORF	Disease	DOID_8771
+2	462	470 proteins	Chemical	CHEBI_36080
+2	CHEBI-DOID	CHEBI_33697	DOID_8771
+2	DOID-CHEBI	DOID_8771	CHEBI_36080
+
+3|chunk|The S protein is a type I glycoprotein that plays a crucial role in virus attachment, entry, receptor binding, cell membrane fusion and induction of neutralizing antibodies [14, 15] . The S protein can be cleaved into S1 (residues 1-789) and S2 subunits (residues 790-1386) by host protease [16] . The S1 subunit contains the N-terminal domain (NTD, residues 1-233) that shows sialic acid binding activity and the C-terminal domain (CTD, residues 253-638) that attaches to the cell surface receptor (e.g., aminopeptidase N (APN)) [17]. The S2 subunit mediates virus-cell membrane fusion [16] . S protein is an excellent target for vaccine development for the induction of protective immunity against PEDV. Several studies have confirmed that antibodies, especially neutralizing antibodies stimulated by the vaccine expressing spike protein, are able to protect the host from PEDV infection [18, 19] . Additionally, neutralizing antibodies against PEDV can be developed as candidates for passive protection. Lee et al. reported that egg yolk antibody (IgY) against S1 domain of spike protein efficiently protects neonatal piglets against PEDV, supporting the potential of antibody reagents as a prophylactic or therapeutic agent to protect piglets against PEDV infection [20] .
+3	6	13 protein	Chemical	CHEBI_16541
+3	26	38 glycoprotein	Chemical	CHEBI_17089
+3	60	64 role	Chemical	CHEBI_50906
+3	190	197 protein	Chemical	CHEBI_16541
+3	377	388 sialic acid	Chemical	CHEBI_26667
+3	384	388 acid	Chemical	CHEBI_37527
+3	596	603 protein	Chemical	CHEBI_16541
+3	832	839 protein	Chemical	CHEBI_16541
+3	1083	1090 protein	Chemical	CHEBI_16541
+3	1180	1188 reagents	Chemical	CHEBI_33893
+
+4|chunk|Genetically engineered recombinant antibody fragments are increasingly being used in medical diagnosis and therapy in many diseases. The single chain fragment variable (ScFv), also called single-chain antibody, is one of the most popular types of genetically engineered antibodies [21, 22] . The scFv consists of a variable light chain (V L ) and heavy chain (V H ) that are connected by a short peptide linker [23] . The advantages of scFv are its small size, low immunogenicity, high specificity, and ability to be genetically engineered. The scFv can be produced in bacterial expression systems for large-scale production. Although scFv is smaller than full-length IgG, it retains the complete antigen binding site [24] . Several scFvs have been produced to control virus infection, including scFvs against chicken infectious bursal disease virus, scFvs targeting human influenza virus H5N1, and scFvs against the phosphoprotein of Newcastle disease virus [25] [26] [27] [28] . Thus, scFv is considered a potential reagent for the prevention and treatment of viral disease.
+4	324	329 light	Chemical	CHEBI_30212
+4	396	403 peptide	Chemical	CHEBI_16670
+4	697	704 antigen	Chemical	CHEBI_59132
+4	836	843 disease	Disease	DOID_4
+4	873	882 influenza	Disease	DOID_8469
+4	935	952 Newcastle disease	Disease	DOID_2929
+4	945	952 disease	Disease	DOID_4
+4	1018	1025 reagent	Chemical	CHEBI_33893
+4	1068	1075 disease	Disease	DOID_4
+4	CHEBI-DOID	CHEBI_30212	DOID_4
+4	CHEBI-DOID	CHEBI_30212	DOID_8469
+4	CHEBI-DOID	CHEBI_30212	DOID_2929
+4	CHEBI-DOID	CHEBI_16670	DOID_4
+4	CHEBI-DOID	CHEBI_16670	DOID_8469
+4	CHEBI-DOID	CHEBI_16670	DOID_2929
+4	CHEBI-DOID	CHEBI_59132	DOID_4
+4	CHEBI-DOID	CHEBI_59132	DOID_8469
+4	CHEBI-DOID	CHEBI_59132	DOID_2929
+4	DOID-CHEBI	DOID_4	CHEBI_33893
+4	DOID-CHEBI	DOID_8469	CHEBI_33893
+4	DOID-CHEBI	DOID_2929	CHEBI_33893
+
+5|chunk|At present, there have been no reports of the selection of porcine scFvs to target the porcine pathogen. In this study, we constructed a scFv phage display library using peripheral blood lymphocytes of piglets induced with PEDV. The scFvs against PEDV were selected, and their neutralization efficiencies were evaluated. We further confirmed that the mechanism of scFvs neutralization of PEDV occurred through binding to the viral spike protein. The immunoprophylactic and therapeutic properties of scFvs in neonatal piglets against PEDV infection were further explored. Our results provide a foundation for the development of scFv-based drugs for the prevention and treatment of PEDV infection.
+5	638	643 drugs	Chemical	CHEBI_23888
+
+6|chunk|Materials and Methods
+
+7|chunk|2.
+

@@ -1,0 +1,31 @@
+0|chunk|Viral Membrane Channels: Role and Function in the Virus Life Cycle
+0	0	14 Viral Membrane	Gene_function	GO_0036338
+0	6	14 Membrane	Gene_function	GO_0016020
+
+1|chunk|Viroporins are small, hydrophobic trans-membrane viral proteins that oligomerize to form hydrophilic pores in the host cell membranes. These proteins are crucial for the pathogenicity and replication of viruses as they aid in various stages of the viral life cycle, from genome uncoating to viral release. In addition, the ion channel activity of viroporin causes disruption in the cellular ion homeostasis, in particular the calcium ion. Fluctuation in the calcium level triggers the activation of the host defensive programmed cell death pathways as well as the inflammasome, which in turn are being subverted for the viruses' replication benefits. This review article summarizes recent developments in the functional investigation of viroporins from various viruses and their contributions to viral replication and virulence.
+1	114	123 host cell	Gene_function	GO_0043657
+1	248	264 viral life cycle	Gene_function	GO_0019058
+1	323	343 ion channel activity	Gene_function	GO_0005216
+1	327	343 channel activity	Gene_function	GO_0015267
+1	347	356 viroporin	Gene_function	GO_0039707
+1	382	406 cellular ion homeostasis	Gene_function	GO_0006873
+1	518	539 programmed cell death	Gene_function	GO_0012501
+1	529	539 cell death	Gene_function	GO_0008219
+
+2|chunk|Recent categorization places viroporins into two major classes based on the number of TMD that are then further classified into A or B subclasses based on their membrane topology [2] . Single TMD viroporins in subclass A have their N terminus facing the ER lumen while those in subclass B have their C-terminal tails in the ER lumen. For Class IIA and IIB viroporins, both N-and C-terminus are inside the ER lumen or the cytoplasmic matrix, respectively (Figure 1 ). An additional third class of viroporins may be necessary as viroporins with three-pass TMD have been proposed, such as the non-structural protein 4 (NSP4) of rotavirus [49] and 3a of severe acute respiratory syndrome SARS-CoV [31]. Due to their high structural variability under different conditions, solving the architecture of viroporins under physiological environment has been difficult. However, recent advancement in technology such as the ability to characterize protein structure at the atomic resolution using nuclear magnetic resonance (NMR)
+2	86	89 TMD	Phenotype	HP_0005534
+2	161	169 membrane	Gene_function	GO_0016020
+2	192	195 TMD	Phenotype	HP_0005534
+2	254	262 ER lumen	Gene_function	GO_0005788
+2	324	332 ER lumen	Gene_function	GO_0005788
+2	405	413 ER lumen	Gene_function	GO_0005788
+2	554	557 TMD	Phenotype	HP_0005534
+2	650	656 severe	Phenotype	HP_0012828
+2	657	662 acute	Phenotype	HP_0011009
+2	HP-GO	HP_0005534	GO_0016020
+2	HP-GO	HP_0005534	GO_0005788
+2	GO-HP	GO_0016020	HP_0012828
+2	GO-HP	GO_0016020	HP_0011009
+2	GO-HP	GO_0005788	HP_0012828
+2	GO-HP	GO_0005788	HP_0011009
+

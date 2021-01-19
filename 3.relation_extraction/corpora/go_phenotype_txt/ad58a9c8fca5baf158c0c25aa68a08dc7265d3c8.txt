@@ -1,0 +1,27 @@
+0|chunk|Identification and analysis of long non- coding RNAs that are involved in inflammatory process in response to transmissible gastroenteritis virus infection
+
+1|chunk|Background: Transmissible gastroenteritis virus (TGEV) infection can cause acute inflammation. Long noncoding RNAs (lncRNAs) play important roles in a number of biological process including inflammation response. However, whether lncRNAs participate in TGEV-induced inflammation in porcine intestinal epithelial cells (IPECs) is largely unknown. Results: In this study, the next-generation sequencing (NGS) technology was used to analyze the profiles of lncRNAs in Mock and TGEV-infected porcine intestinal epithelial cell-jejunum 2 (IPEC-J2) cell line. A total of 106 lncRNAs were differentially expressed. Many differentially expressed lncRNAs act as elements to competitively attach microRNAs (miRNAs) which target to messenger RNA (mRNAs) to mediate expression of genes that related to tolllike receptors (TLRs), NOD-like receptors (NLRs), tumor necrosis factor (TNF), and RIG-I-like receptors (RLRs) pathways. Functional analysis of the binding proteins and the up/down-stream genes of the differentially expressed lncRNAs revealed that lncRNAs were principally related to inflammatory response. Meanwhile, we found that the differentially expressed lncRNA TCONS_00058367 might lead to a reduction of phosphorylation of transcription factor p65 (p-p65) in TGEV-infected IPEC-J2 cells by negatively regulating its antisense gene promyelocytic leukemia (PML).
+1	75	80 acute	Phenotype	HP_0011009
+1	161	179 biological process	Gene_function	GO_0008150
+1	844	849 tumor	Phenotype	HP_0002664
+1	850	858 necrosis	Gene_function	GO_0001906
+1	942	949 binding	Gene_function	GO_0005488
+1	1206	1221 phosphorylation	Gene_function	GO_0016310
+1	1347	1355 leukemia	Phenotype	HP_0001909
+1	HP-GO	HP_0011009	GO_0008150
+1	HP-GO	HP_0011009	GO_0001906
+1	HP-GO	HP_0011009	GO_0005488
+1	HP-GO	HP_0011009	GO_0016310
+1	GO-HP	GO_0008150	HP_0002664
+1	GO-HP	GO_0008150	HP_0001909
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0005488
+1	HP-GO	HP_0002664	GO_0016310
+1	GO-HP	GO_0001906	HP_0001909
+1	GO-HP	GO_0005488	HP_0001909
+1	GO-HP	GO_0016310	HP_0001909
+
+2|chunk|The data showed that differentially expressed lncRNAs might be involved in inflammatory response induced by TGEV through acting as miRNA sponges, regulating their up/down-stream genes, or directly binding proteins.
+2	75	96 inflammatory response	Gene_function	GO_0006954
+2	197	204 binding	Gene_function	GO_0005488
+

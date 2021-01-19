@@ -1,0 +1,34 @@
+0|chunk|Epitope mapping by random peptide phage display reveals essential residues for vaccinia extracellular enveloped virion spread
+0	0	7 Epitope	Chemical	CHEBI_53000
+0	26	33 peptide	Chemical	CHEBI_16670
+0	79	87 vaccinia	Disease	DOID_3298
+0	CHEBI-DOID	CHEBI_53000	DOID_3298
+0	CHEBI-DOID	CHEBI_16670	DOID_3298
+
+1|chunk|Background: A33 is a type II integral membrane protein expressed on the extracellular enveloped form of vaccinia virus (VACV). Passive transfer of A33-directed monoclonal antibodies or vaccination with an A33 subunit vaccine confers protection against lethal poxvirus challenge in animal models. Homologs of A33 are highly conserved among members of the Orthopoxvirus genus and are potential candidates for inclusion in vaccines or assays targeting extracellular enveloped virus activity. One monoclonal antibody directed against VACV A33, MAb-1G10, has been shown to target a conformation-dependent epitope. Interestingly, while it recognizes VACV A33 as well as the corresponding variola homolog, it does not bind to the monkeypox homolog. In this study, we utilized a random phage display library to investigate the epitope recognized by MAb-1G10 that is critical for facilitating cell-to-cell spread of the vaccinia virus. Results: By screening with linear or conformational random phage libraries, we found that phages binding to MAb-1G10 display the consensus motif CEPLC, with a disulfide bond formed between two cysteine residues required for MAb-1G10 binding. Although the phage motif contained no linear sequences homologous to VACV A33, structure modeling and analysis suggested that residue D115 is important to form the minimal epitope core. A panel of point mutants expressing the ectodomain of A33 protein was generated and analyzed by either binding assays such as ELISA and immunoprecipitation or a functional assessment by blocking MAb-1G10 mediated comet inhibition in cell culture. Conclusions: These results confirm L118 as a component of the MAb-1G10 binding epitope, and further identify D115 as an essential residue. By defining the minimum conformational structure, as well as the conformational arrangement of a short peptide sequence recognized by MAb-1G10, these results introduce the possibility of designing small molecule mimetics that may interfere with the function of A33 in vivo. This information will also be useful for designing improved assays to evaluate the potency of monoclonal and polyclonal products that target A33 or A33-modulated EV dissemination.
+1	47	54 protein	Chemical	CHEBI_16541
+1	104	112 vaccinia	Disease	DOID_3298
+1	600	607 epitope	Chemical	CHEBI_53000
+1	723	732 monkeypox	Disease	DOID_3292
+1	819	826 epitope	Chemical	CHEBI_53000
+1	911	919 vaccinia	Disease	DOID_3298
+1	1086	1095 disulfide	Chemical	CHEBI_48343
+1	1120	1128 cysteine	Chemical	CHEBI_15356
+1	1341	1348 epitope	Chemical	CHEBI_53000
+1	1413	1420 protein	Chemical	CHEBI_16541
+1	1681	1688 epitope	Chemical	CHEBI_53000
+1	1844	1851 peptide	Chemical	CHEBI_16670
+1	1944	1952 molecule	Chemical	CHEBI_25367
+1	CHEBI-DOID	CHEBI_16541	DOID_3298
+1	CHEBI-DOID	CHEBI_16541	DOID_3292
+1	DOID-CHEBI	DOID_3298	CHEBI_53000
+1	DOID-CHEBI	DOID_3298	CHEBI_48343
+1	DOID-CHEBI	DOID_3298	CHEBI_15356
+1	DOID-CHEBI	DOID_3298	CHEBI_16670
+1	DOID-CHEBI	DOID_3298	CHEBI_25367
+1	CHEBI-DOID	CHEBI_53000	DOID_3292
+1	DOID-CHEBI	DOID_3292	CHEBI_48343
+1	DOID-CHEBI	DOID_3292	CHEBI_15356
+1	DOID-CHEBI	DOID_3292	CHEBI_16670
+1	DOID-CHEBI	DOID_3292	CHEBI_25367
+

@@ -1,0 +1,26 @@
+0|chunk|The ORF2 glycoprotein of hepatitis E virus inhibits cellular NF-B activity by blocking ubiquitination mediated proteasomal degradation of IB in human hepatoma cells
+0	25	34 hepatitis	Phenotype	HP_0012115
+0	124	135 degradation	Gene_function	GO_0009056
+0	HP-GO	HP_0012115	GO_0009056
+
+1|chunk|Background: Nuclear factor kappa B (NF-B) is a key transcription factor that plays a crucial role in host survival during infection by pathogens. Therefore, it has been a priority of many pathogens to manipulate the cellular NF-B activity in order to create a favorable environment for their survival inside the host.
+
+2|chunk|Results: We observed that heterologous expression of the open reading frame 2 (ORF2) protein in human hepatoma cells led to stabilization of the cellular I kappa B alpha (IB) pool, with a concomitant reduction in the nuclear localization of the p65 subunit of NF-B and inhibition of NF-B activity. Although basal or TPA induced phosphorylation of IB was not altered, its ubiquitination was markedly reduced in ORF2 expressing cells. Further analysis revealed that ORF2 protein could directly associate with the F-box protein, beta transducin repeat containing protein (TRCP) and ORF2 over expression resulted in reduced association of IB with the SKP1 and CUL1 components of the SCF TRCP complex. Chromatin immunoprecipitation (ChIP) assay of the proximal promoter regions of MHC-I heavy chain and IL-8 genes using p65 antibody and LPS stimulated ORF2 expressing cell extract revealed decreased association of p65 with the above regions, indicating that ORF2 inhibited p65 binding at endogenous promoters. Conclusions: In this report we suggest a mechanism by which ORF2 protein of HEV may inhibit host cell NF-B activity during the course of a viral infection.
+2	227	239 localization	Gene_function	GO_0051179
+2	320	323 TPA	Gene_function	GO_0031299
+2	332	347 phosphorylation	Gene_function	GO_0016310
+2	707	716 Chromatin	Gene_function	GO_0000785
+2	757	765 proximal	Phenotype	HP_0012840
+2	829	837 antibody	Gene_function	GO_0003823
+2	829	837 antibody	Gene_function	GO_0042571
+2	983	990 binding	Gene_function	GO_0005488
+2	1108	1117 host cell	Gene_function	GO_0043657
+2	GO-HP	GO_0051179	HP_0012840
+2	GO-HP	GO_0031299	HP_0012840
+2	GO-HP	GO_0016310	HP_0012840
+2	GO-HP	GO_0000785	HP_0012840
+2	HP-GO	HP_0012840	GO_0003823
+2	HP-GO	HP_0012840	GO_0042571
+2	HP-GO	HP_0012840	GO_0005488
+2	HP-GO	HP_0012840	GO_0043657
+

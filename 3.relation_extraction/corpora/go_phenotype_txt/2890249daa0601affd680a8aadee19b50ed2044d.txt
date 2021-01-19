@@ -1,0 +1,24 @@
+0|chunk|Kinome-Wide siRNA Screening Identifies Src-Enhanced Resistance of Chemotherapeutic Drugs in Triple-Negative Breast Cancer Cells
+0	108	121 Breast Cancer	Phenotype	HP_0003002
+0	115	121 Cancer	Phenotype	HP_0002664
+
+1|chunk|Background: Chemotherapy is the main treatment for triple-negative breast cancer (TNBC), which lack molecular markers for diagnosis and therapy. Cancer cells activate chemoresistant pathways and lead to therapeutic failure for patients with TNBC. Several kinases have been identified as chemoresistant genes. However, the involvement of kinases in the chemoresistance in TNBC cells is not fully understood.
+1	67	80 breast cancer	Phenotype	HP_0003002
+1	74	80 cancer	Phenotype	HP_0002664
+1	145	151 Cancer	Phenotype	HP_0002664
+
+2|chunk|We employed a kinome siRNA library to screen whether targeting any kinases could increase the chemosensitivity of TNBC cell lines. The effects of kinase on cell viability in various breast cancer cells were validated with ATP level and colony formation. Protein expression and phosphorylation were determined by immunoblotting. The Cancer Genome Atlas (TCGA) dataset was collected to analyze the correlation of Src expression with prognosis of TNBC patients.
+2	182	195 breast cancer	Phenotype	HP_0003002
+2	189	195 cancer	Phenotype	HP_0002664
+2	277	292 phosphorylation	Gene_function	GO_0016310
+2	332	338 Cancer	Phenotype	HP_0002664
+2	HP-GO	HP_0003002	GO_0016310
+2	HP-GO	HP_0002664	GO_0016310
+
+3|chunk|Results: Primary screening and validation for the initial hits showed that Src kinase was a potential doxorubicin-resistant kinase in the TNBC cell lines MDA-MB-231 and Hs578T. Both siRNA against Src and the Src inhibitor dasatinib enhanced the cytotoxic effects of doxorubicin in TNBC cells. Moreover, phosphorylation of AKT and signal transducer and activator of transcription 3 (STAT3), downstream effectors of Src, were accordingly decreased in Src-silenced or -inhibited TNBC cells. Additionally, TCGA data analysis indicated that Src expression levels in tumor tissues were higher than those in tumor-adjacent normal tissues in patients with TNBC. High co-expression level of Src and STAT3 was also significantly correlated with poor prognosis in patients.
+3	303	318 phosphorylation	Gene_function	GO_0016310
+3	561	566 tumor	Phenotype	HP_0002664
+3	GO-HP	GO_0016310	HP_0002664
+
+4|chunk|Our results showed that Src-STAT3 axis might be involved in chemoresistance of TNBC cells.
+

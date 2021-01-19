@@ -1,0 +1,17 @@
+0|chunk|The Role of EGFR in Influenza Pathogenicity: Multiple Network-Based Approaches to Identify a Key Regulator of Non-lethal Infections
+0	12	16 EGFR	Gene_function	GO_0005006
+
+1|chunk|Despite high sequence similarity between pandemic and seasonal influenza viruses, there is extreme variation in host pathogenicity from one viral strain to the next. Identifying the underlying mechanisms of variability in pathogenicity is a critical task for understanding influenza virus infection and effective management of highly pathogenic influenza virus disease. We applied a network-based modeling approach to identify critical functions related to influenza virus pathogenicity using large transcriptomic and proteomic datasets from mice infected with six influenza virus strains or mutants. Our analysis revealed two pathogenicity-related gene expression clusters; these results were corroborated by matching proteomics data. We also identified parallel downstream processes that were altered during influenza pathogenesis. We found that network bottlenecks (nodes that bridge different network regions) were highly enriched in pathogenicity-related genes, while network hubs (highly connected network nodes) were significantly depleted in these genes. We confirmed that this trend persisted in a distinct virus: Severe Acute Respiratory Syndrome Coronavirus (SARS). The role of epidermal growth factor receptor (EGFR) in influenza pathogenesis, one of the bottleneck regulators with corroborating signals across transcript and protein expression data, was tested and validated in additional mouse infection experiments. We demonstrate that EGFR is important during influenza infection, but the role it plays changes for lethal versus non-lethal infections. Our results show that by using association networks, bottleneck genes that lack hub characteristics can be used to predict a gene's involvement in influenza virus pathogenicity. We also demonstrate the utility of employing multiple network approaches for analyzing host response data from viral infections.
+1	649	664 gene expression	Gene_function	GO_0010467
+1	1123	1129 Severe	Phenotype	HP_0012828
+1	1130	1135 Acute	Phenotype	HP_0011009
+1	1199	1205 growth	Gene_function	GO_0040007
+1	1223	1227 EGFR	Gene_function	GO_0005006
+1	1451	1455 EGFR	Gene_function	GO_0005006
+1	GO-HP	GO_0010467	HP_0012828
+1	GO-HP	GO_0010467	HP_0011009
+1	HP-GO	HP_0012828	GO_0040007
+1	HP-GO	HP_0012828	GO_0005006
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0005006
+

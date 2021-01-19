@@ -1,0 +1,28 @@
+0|chunk|Construction and characterization of an improved DNA-launched infectious clone of duck hepatitis a virus type 1
+0	87	96 hepatitis	Phenotype	HP_0012115
+
+1|chunk|Background: DNA-launched infectious system is a useful tool with high rescue efficiency that allows the introduction of mutations in specific positions to investigate the function of an individual viral element. Rescued virus particles could be harvested by directly transfecting the DNA-launched recombinant plasmid to the host cells, which will reduce labor and experimental cost by skipping the in vitro transcription assay.
+
+2|chunk|Methods: A total of four overlapping fragments covering the entire viral genome were amplified and then were assembled into a transformation vector based on pIRES2-EGFP to establish the DNA-launched infectious system of duck hepatitis A virus type 1 (DHAV-1), named pIR-DHAV-1. Reverse transcription polymerase chain reaction (RT-PCR) detection, quantitative real-time polymerase chain reaction (qRT-PCR), western blotting assay and indirect immunofluorescence (IFA) were conducted for rescued virus identification. A total of 4.0 g of recombinant plasmid of pIR-DHAV-1 and in vitro transcribed product of 4.0 g of RNA-launched infectious clone named pR-DHAV-1 were transfected into BHK-21 cells to analyze the rescue efficiency. Following that, tissue tropism of rescued virus (rDHAV-1) and parental virus (pDHAV-1) were assayed for virulence testing in 1-day-old ducklings.
+2	225	234 hepatitis	Phenotype	HP_0012115
+2	278	299 Reverse transcription	Gene_function	GO_0001171
+2	755	762 tropism	Gene_function	GO_0009606
+2	HP-GO	HP_0012115	GO_0001171
+2	HP-GO	HP_0012115	GO_0009606
+
+3|chunk|Results: Rescued virus particles carry the designed genetic marker which could be harvested by directly transfecting pIR-DHAV-1 to BHK-21 cells. The qRT-PCR and western blotting results indicated that rDHAV-1 shared similar growth characteristics with pDHAV-1. Furthermore, DNA-launched infectious system possessed much higher rescue efficiency assay compared to RNA-launched infectious system. The mutation at position 3042 from T to C has no impact on viral replication and tissue tropism. From 1 h post infection (hpi) to 48 hpi, the viral RNA copies of rDHAV-1 in liver were the highest among the six tested tissues (with an exception of thymus at 6 hpi), while the viral RNA copy numbers in heart and kidney were alternately the lowest. Conclusion: We have constructed a genetically stable and highly pathogenic DNA-launched infectious clone, from which the rescued virus could be harvested by direct transfection with recombinant plasmids. rDHAV-1 shared similar growth characteristics and tissue tropism with pDHAV-1. The DNA-launched infectious system of DHAV-1 possessed higher rescue efficiency compared to the traditional RNA-launched infectious system.
+3	224	230 growth	Gene_function	GO_0040007
+3	411	419 position	Phenotype	HP_0012830
+3	483	490 tropism	Gene_function	GO_0009606
+3	517	520 hpi	Gene_function	GO_0009978
+3	528	531 hpi	Gene_function	GO_0009978
+3	788	794 stable	Phenotype	HP_0031915
+3	969	975 growth	Gene_function	GO_0040007
+3	1003	1010 tropism	Gene_function	GO_0009606
+3	GO-HP	GO_0040007	HP_0012830
+3	GO-HP	GO_0040007	HP_0031915
+3	HP-GO	HP_0012830	GO_0009606
+3	HP-GO	HP_0012830	GO_0009978
+3	GO-HP	GO_0009606	HP_0031915
+3	GO-HP	GO_0009978	HP_0031915
+

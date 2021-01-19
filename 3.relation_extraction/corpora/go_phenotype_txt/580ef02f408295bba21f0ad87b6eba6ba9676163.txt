@@ -1,0 +1,34 @@
+0|chunk|Significant Prognostic Predictor for Patients with Severe Sepsis and Septic Shock
+0	51	57 Severe	Phenotype	HP_0012828
+0	58	64 Sepsis	Phenotype	HP_0100806
+0	76	81 Shock	Phenotype	HP_0031273
+
+1|chunk|Pathogenesis of sepsis includes complex interaction between pathogen activities and host response, manifesting highly variable signs and symptoms, possibly delaying diagnosis and timely life-saving interventions. This study applies traditional Chinese medicine (TCM) Zheng diagnosis in patients with severe sepsis and septic shock to evaluate its adaptability and use as an early predictor of sepsis mortality. Three-year prospective observational study enrolled 126 septic patients. TCM Zheng diagnosis, Acute Physiology and Chronic Health Evaluation (APACHE) II score, and blood samples for host response cytokines measurement (tumor necrosis factor-, Interleukin-6, Interleukin-8, Interleukin-10, Interleukin-18) were collected within 24 hours after admission to Intensive Care Unit. Main outcome was 28-day mortality; multivariate logistic regression analysis served to determine predictive variables of the sepsis mortality. APACHE II score, frequency of Nutrient-phase heat, and Qi-Xu and Yang-Xu Zhengs were significantly higher in nonsurvivors. The multivariate logistic regression analysis identified Yang-Xu Zheng as the outcome predictor. APACHE II score and levels of five host response cytokines between patients with and without Yang-Xu Zheng revealed significant differences. Furthermore, cool extremities and weak pulse, both diagnostic signs of Yang-Xu Zheng, were also proven independent predictors of sepsis mortality. TCM diagnosis "Yang-Xu Zheng" may provide a new mortality predictor for septic patients.
+1	0	12 Pathogenesis	Gene_function	GO_0009405
+1	16	22 sepsis	Phenotype	HP_0100806
+1	300	306 severe	Phenotype	HP_0012828
+1	307	313 sepsis	Phenotype	HP_0100806
+1	325	330 shock	Phenotype	HP_0031273
+1	393	399 sepsis	Phenotype	HP_0100806
+1	505	510 Acute	Phenotype	HP_0011009
+1	526	533 Chronic	Phenotype	HP_0011010
+1	630	635 tumor	Phenotype	HP_0002664
+1	636	644 necrosis	Gene_function	GO_0001906
+1	912	918 sepsis	Phenotype	HP_0100806
+1	947	956 frequency	Phenotype	HP_0040279
+1	1420	1426 sepsis	Phenotype	HP_0100806
+1	GO-HP	GO_0009405	HP_0100806
+1	GO-HP	GO_0009405	HP_0012828
+1	GO-HP	GO_0009405	HP_0031273
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-HP	GO_0009405	HP_0011010
+1	GO-HP	GO_0009405	HP_0002664
+1	GO-HP	GO_0009405	HP_0040279
+1	HP-GO	HP_0100806	GO_0001906
+1	HP-GO	HP_0012828	GO_0001906
+1	HP-GO	HP_0031273	GO_0001906
+1	HP-GO	HP_0011009	GO_0001906
+1	HP-GO	HP_0011010	GO_0001906
+1	HP-GO	HP_0002664	GO_0001906
+1	GO-HP	GO_0001906	HP_0040279
+

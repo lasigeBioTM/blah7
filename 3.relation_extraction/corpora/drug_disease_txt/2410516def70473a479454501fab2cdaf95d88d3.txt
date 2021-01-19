@@ -1,0 +1,43 @@
+0|chunk|Early events during human coronavirus OC43 entry to the cell OPEN
+
+1|chunk|The Coronaviridae family clusters a number of large RNA viruses, which share several structural and functional features. However, members of this family recognize different cellular receptors and exploit different entry routes, what affects their species specificity and virulence. The aim of this study was to determine how human coronavirus OC43 enters the susceptible cell. Using confocal microscopy and molecular biology tools we visualized early events during infection. We found that the virus employs caveolin-1 dependent endocytosis for the entry and the scission of virus-containing vesicles from the cell surface is dynamin-dependent. Furthermore, the vesicle internalization process requires actin cytoskeleton rearrangements. With our research we strove to broaden the understanding of the infection process, which in future may be beneficial for the development of a potential therapeutics.
+1	25	33 clusters	Chemical	CHEBI_33731
+1	52	55 RNA	Chemical	CHEBI_33697
+
+2|chunk|There are currently six human coronaviruses described. The well-known human coronaviruses (HCoV) 229E and OC43 were described in 1960's and for almost 40 years were considered to be the only representatives of Coronaviridae infecting humans. Emergence of Severe Acute Respiratory Syndrome-associated coronavirus (SARS-CoV) in 2002, followed by identification of HCoV-NL63 and HCoV-HKU1 revealed that these viruses are far more common and clinically relevant than previously expected. Further, emergence of the Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012 proved that these pathogens frequently cross the species border and may pose a significant healthcare risk.
+2	510	542 Middle East respiratory syndrome	Disease	DOID_0080642
+2	534	542 syndrome	Disease	DOID_225
+
+3|chunk|HCoV-OC43 infection has been associated with respiratory tract illnesses of varying severity 1 . The virus is considered to be the most common human coronavirus worldwide, with highest incidence during winter and spring months 1,2 . Due to genomic sequence similarities between HCoV-OC43, bovine coronavirus (BCoV) and, to a lesser extent, canine respiratory coronavirus, which cause the disease in respective animals, it has been assumed that zoonotic transmission to humans occurred relatively recently. The most recent common ancestor of HCoV-OC43 and BCoV has been dated to the end of 19 th century 3 and the evolutionary rate was estimated to be 4  10 4 nucleotide changes per site per year 3 .
+3	388	395 disease	Disease	DOID_4
+3	661	671 nucleotide	Chemical	CHEBI_36976
+3	DOID-CHEBI	DOID_4	CHEBI_36976
+
+4|chunk|The coronavirus entry to the cell is a complex process, which requires a series of cellular factors. First, the virus binds to the attachment receptor. This interaction results in an increased cell surface density of virus particles and (or) facilitates interaction with the fusion receptor. To make an example, HCoV-OC43 and bovine coronavirus bind to N-acetyl-9-O-acetylneuraminic acid 4 , HCoV-HKU1 binds to O-acetylated sialic acids 5 , while HCoV-NL63 and SARS-CoV bind to heparan sulfate proteoglycans 6,7 . In some cases this step seems to be redundant 8 , while in others depletion of the adhesion receptor results in lack of interaction between the virus and the cell and consequently severe decrease in virus infectivity 6, 9, 10 . Nonetheless, the presence of the adhesion factor is not sufficient to make the cell permissive. Coronaviruses utilize a broad variety of fusion receptors. Most of the alphacoronaviruses use aminopeptidase N (CD13) for cell entry, with the exception of HCoV-NL63, which similarly to SARS-CoV employs human angiotensin-converting enzyme 2 11 . HCoV-OC43 was reported to utilize HLA class I molecule or sialic acids 12,13 , MERS-CoV -dipeptidyl peptidase 4 (DPP4 or CD26) 14 , whereas the receptor for HCoV-HKU1 remains unknown 5 . Recognition of different receptors implies not only different cellular tropism, but also different internalization routes. It is worth to mention, however, that recent reports also stress the importance of other cellular factors for virus tissue specificity, including tissue-specific proteases 15-18 . Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 ScientiFic REPORTS | (2018) 8:7124 |
+4	353	387 N-acetyl-9-O-acetylneuraminic acid	Chemical	CHEBI_21500
+4	383	387 acid	Chemical	CHEBI_37527
+4	424	436 sialic acids	Chemical	CHEBI_26667
+4	431	436 acids	Chemical	CHEBI_37527
+4	478	485 heparan	Chemical	CHEBI_24500
+4	478	493 heparan sulfate	Chemical	CHEBI_28815
+4	486	493 sulfate	Chemical	CHEBI_16189
+4	494	507 proteoglycans	Chemical	CHEBI_37396
+4	1130	1138 molecule	Chemical	CHEBI_25367
+4	1142	1154 sialic acids	Chemical	CHEBI_26667
+4	1149	1154 acids	Chemical	CHEBI_37527
+
+5|chunk|The interaction with the receptor is only the beginning. The binding may induce fusion with cellular membranes, but in most of the cases this event is preceded by virus internalization via the endocytic route. The most common, and the best described route is clathrin-dependent endocytosis. This path is used by representatives of wide range of viral families (e.g., human enterovirus 71 19 , human metapneumovirus 20 , rabies virus 21 and others). Upon receptor recognition, a viral particle is docked into a clathrin-coated pit. Its' formation is initialized by concerted action of a protein complex that consists of FCHo1/2, Eps15 and intersectin-1. FCHo1/2 induces curvature of the plasma membrane and through Eps15 recruits Adaptor Protein 2 (AP2) to the nucleation site 22 . AP2 assembles clathrin units and once their concentration reaches a critical level, they polymerize to form a lattice on the membrane 23 . The structure deepens, stabilized by the cargo 24 . Budding of the vesicle is accompanied by a tubular neck formation, to which amphiphysin protein is attracted. It recruits dynamin, which polymerizes in a GTP dependent mode to finally cut off the cargo-containing vesicle from the cell surface 25,26 .
+5	420	426 rabies	Disease	DOID_11260
+5	574	580 action	Chemical	CHEBI_5133
+5	586	593 protein	Chemical	CHEBI_16541
+5	737	744 Protein	Chemical	CHEBI_16541
+5	1060	1067 protein	Chemical	CHEBI_16541
+5	1126	1129 GTP	Chemical	CHEBI_15996
+5	DOID-CHEBI	DOID_11260	CHEBI_5133
+5	DOID-CHEBI	DOID_11260	CHEBI_16541
+5	DOID-CHEBI	DOID_11260	CHEBI_15996
+
+6|chunk|Another well-described path is caveolin-1 mediated endocytosis. Caveolae are flask-shaped cholesterol-and sphingolipid-rich smooth membrane invaginations stabilized with caveolin-1 27 . Loading of the caveolae with cargo results in recruitment of dynamin-2 28 , which cuts off the invagination, forming a neutral-pH vesicle called caveosome. The vesicle can be either transferred into Golgi complex, endoplasmic reticulum (ER) or progress to early endosomes 27 . Recently, besides these two canonical pathways, numerous alternative routes have been described, including entosis, flotillin-dependent entry, FEME, and IL2R-like mechanisms.
+
+7|chunk|The aim of this study was to map the entry of HCoV-OC43 to susceptible cell. At first, we confirmed that the virus binds to the cells and is internalized via endocytosis. Subsequently, we have shown that HCoV-OC43 particle after binding to the cell surface migrates to caveolae and is trafficked to endosomes by caveolin-mediated and dynamin-dependent route. Virus internalization requires unwinding of the actin cortex, yet actin filaments are not required for the entry.
+

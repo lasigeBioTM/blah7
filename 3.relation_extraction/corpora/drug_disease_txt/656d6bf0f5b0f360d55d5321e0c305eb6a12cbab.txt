@@ -1,0 +1,22 @@
+0|chunk|IFN- protects from lethal IL-17 mediated viral encephalomyelitis independent of neutrophils
+0	48	65 encephalomyelitis	Disease	DOID_640
+
+1|chunk|Background: The interplay between IFN-, IL-17 and neutrophils during CNS inflammatory disease is complex due to cross-regulatory factors affecting both positive and negative feedback loops. These interactions have hindered the ability to distinguish the relative contributions of neutrophils, Th1 and Th17 cell-derived effector molecules from secondary mediators to tissue damage and morbidity. Methods: Encephalitis induced by a gliatropic murine coronavirus was used as a model to assess the direct contributions of neutrophils, IFN- and IL-17 to virus-induced mortality. CNS inflammatory conditions were selectively manipulated by adoptive transfer of virus-primed wild-type (WT) or IFN- deficient (GKO) memory CD4 + T cells into infected SCID mice, coupled with antibody-mediated neutrophil depletion and cytokine blockade.
+1	87	94 disease	Disease	DOID_4
+1	320	328 effector	Chemical	CHEBI_35224
+1	329	338 molecules	Chemical	CHEBI_25367
+1	405	417 Encephalitis	Disease	DOID_9588
+1	745	749 SCID	Disease	DOID_627
+1	DOID-CHEBI	DOID_4	CHEBI_35224
+1	DOID-CHEBI	DOID_4	CHEBI_25367
+1	CHEBI-DOID	CHEBI_35224	DOID_9588
+1	CHEBI-DOID	CHEBI_35224	DOID_627
+1	CHEBI-DOID	CHEBI_25367	DOID_9588
+1	CHEBI-DOID	CHEBI_25367	DOID_627
+
+2|chunk|Results: Transfer of GKO memory CD4 + T cells into infected SCID mice induced rapid mortality compared to recipients of WT memory CD4 + T cells, despite similar virus control and demyelination. In contrast to recipients of WT CD4 + T cells, extensive neutrophil infiltration and IL-17 expression within the CNS in recipients of GKO CD4 + T cells provided a model to directly assess their contribution(s) to disease. Recipients of WT CD4 + T cells depleted of IFN- did not express IL-17 and were spared from mortality despite abundant CNS neutrophil infiltration, indicating that mortality was not mediated by excessive CNS neutrophil accumulation. By contrast, IL-17 depletion rescued recipients of GKO CD4 + T cells from rapid mortality without diminishing neutrophils or reducing GM-CSF, associated with pathogenic Th17 cells in CNS autoimmune models. Furthermore, co-transfer of WT and GKO CD4 + T cells prolonged survival in an IFN- dependent manner, although IL-17 transcription was not reduced.
+2	60	64 SCID	Disease	DOID_627
+
+3|chunk|Conclusions: These data demonstrate that IL-17 mediates detrimental clinical consequences in an IFN--deprived environment, independent of extensive neutrophil accumulation or GM-CSF upregulation. The results also suggest that IFN- overrides the detrimental IL-17 effector responses via a mechanism downstream of transcriptional regulation.
+3	265	273 effector	Chemical	CHEBI_35224
+

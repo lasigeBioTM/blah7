@@ -1,0 +1,51 @@
+0|chunk|Interferon-inducible ribonuclease ISG20 inhibits hepatitis B virus replication through directly binding to the epsilon stem-loop structure of viral RNA Author summary
+0	49	58 hepatitis	Phenotype	HP_0012115
+0	96	103 binding	Gene_function	GO_0005488
+0	HP-GO	HP_0012115	GO_0005488
+
+1|chunk|Hepatitis B virus (HBV) replicates its DNA genome through reverse transcription of a viral RNA pregenome. We report herein that the interferon (IFN) stimulated exoribonuclease gene of 20 KD (ISG20) inhibits HBV replication through degradation of HBV RNA. ISG20 expression was observed at basal level and was highly upregulated upon IFN treatment in hepatocytes, and knock down of ISG20 resulted in elevation of HBV replication and attenuation of IFN-mediated antiviral effect. The sequence element conferring the susceptibility of HBV RNA to ISG20-mediated RNA degradation was mapped at the HBV RNA terminal redundant region containing epsilon () stem-loop. Furthermore, ISG20-induced HBV RNA degradation relies on its ribonuclease activity, as the enzymatic inactive form ISG20 D94G was unable to promote HBV RNA decay. Interestingly, ISG20 D94G retained antiviral activity against HBV DNA replication by preventing pgRNA encapsidation, resulting from a consequence of ISG20- interaction. This interaction was further characterized by in vitro electrophoretic mobility shift assay (EMSA) and ISG20 was able to bind HBV  directly in absence of any other cellular proteins, indicating a direct  RNA binding capability of ISG20; however, cofactor(s) may be required for ISG20 to efficiently degrade . In addition, the lower stem portion of  is the major ISG20 binding site, and the removal of 4 base pairs from the bottom portion of  abrogated the sensitivity of HBV RNA to ISG20, suggesting that the specificity of ISG20- interaction relies on both RNA structure and sequence. Furthermore, the C-terminal Exonuclease III (ExoIII) domain of ISG20 was determined to be responsible for interacting with , as the deletion of ExoIII abolished in vitro ISG20- binding and intracellular HBV RNA degradation. Taken together, our study sheds light on the underlying mechanisms of IFN-mediated HBV inhibition and the antiviral mechanism of ISG20 in general. R, et al. (2017) Interferon-inducible ribonuclease ISG20 inhibits hepatitis B virus replication through directly binding to the epsilon stem-loop structure of viral RNA. PLoS Pathog 13(4): e1006296.
+1	0	9 Hepatitis	Phenotype	HP_0012115
+1	58	79 reverse transcription	Gene_function	GO_0001171
+1	231	242 degradation	Gene_function	GO_0009056
+1	557	572 RNA degradation	Gene_function	GO_0006401
+1	561	572 degradation	Gene_function	GO_0009056
+1	690	705 RNA degradation	Gene_function	GO_0006401
+1	694	705 degradation	Gene_function	GO_0009056
+1	888	903 DNA replication	Gene_function	GO_0006260
+1	1198	1209 RNA binding	Gene_function	GO_0003723
+1	1202	1209 binding	Gene_function	GO_0005488
+1	1364	1371 binding	Gene_function	GO_0005488
+1	1763	1770 binding	Gene_function	GO_0005488
+1	1775	1788 intracellular	Gene_function	GO_0005622
+1	1793	1808 RNA degradation	Gene_function	GO_0006401
+1	1797	1808 degradation	Gene_function	GO_0009056
+1	2023	2032 hepatitis	Phenotype	HP_0012115
+1	2070	2077 binding	Gene_function	GO_0005488
+1	HP-GO	HP_0012115	GO_0001171
+1	HP-GO	HP_0012115	GO_0009056
+1	HP-GO	HP_0012115	GO_0006401
+1	HP-GO	HP_0012115	GO_0006260
+1	HP-GO	HP_0012115	GO_0003723
+1	HP-GO	HP_0012115	GO_0005488
+1	HP-GO	HP_0012115	GO_0005622
+
+2|chunk|HBV is a DNA virus but replicates its DNA via retrotranscription of a viral RNA pregenome. ISG20, an antiviral RNase induced by interferons, inhibits the replication of many RNA viruses but the underlying molecular antiviral mechanism remains elusive. Since all the known viruses, except for prions, have RNA products in their life cycles, ISG20 can be a broad spectrum antiviral protein; but in order to distinguish viral RNA from host RNA, ISG20 may have evolved to recognize virus-specific signals as its antiviral target. We demonstrated herein that ISG20 selectively binds to a unique stem-loop structure called epsilon () in all HBV RNA species and degrades viral RNA to inhibit HBV replication. Because  is the HBV pregenomic RNA packaging signal and reverse transcription priming site, the binding of ISG20 to , even in the absence of ribonuclease activity, results in antiviral effect to prevent DNA replication due to preventing viral polymerase binding to pgRNA. We also determined the structure and sequence requirements of  RNA and ISG20 protein for ISG20- binding and antiviral activity. Such information will aid the function study of ISG20 against viral pathogens in host innate defense, and ISG20 has potentials to be developed into a therapeutic agent for viral diseases including hepatitis B. Mechanism of ISG20-mediated HBV RNA degradation PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1006296 April 11, 2017 2 / 35
+2	760	781 reverse transcription	Gene_function	GO_0001171
+2	800	807 binding	Gene_function	GO_0005488
+2	908	923 DNA replication	Gene_function	GO_0006260
+2	959	966 binding	Gene_function	GO_0005488
+2	1075	1082 binding	Gene_function	GO_0005488
+2	1304	1313 hepatitis	Phenotype	HP_0012115
+2	1349	1364 RNA degradation	Gene_function	GO_0006401
+2	1353	1364 degradation	Gene_function	GO_0009056
+2	GO-HP	GO_0001171	HP_0012115
+2	GO-HP	GO_0005488	HP_0012115
+2	GO-HP	GO_0006260	HP_0012115
+2	HP-GO	HP_0012115	GO_0006401
+2	HP-GO	HP_0012115	GO_0009056
+
+3|chunk|ISG20 markedly inhibited HBV DNA replication (middle panel) primarily through reducing the steady state levels of 3.5kb viral pgRNA (top panel) which is the template for HBV DNA synthesis, and such effect is independent of promoter (HBV EnII/Cp or CMV-IE) used to transcribe the pgRNA. A similar antiviral effect of ISG20 was also observed in Huh7 cells ( Fig  2B) . Furthermore, the ISG20-mediated pgRNA reduction is dose dependent (S1 Fig) and not due to a possible cytotoxicity effect caused by ISG20 overexpression (S2 Fig). In addition, along with pgRNA reduction, the levels of 2.4 kb and 2.1 kb HBV surface mRNA, which share 100% sequence identity with the 3' portion of pgRNA, were also reduced upon ISG20 expression (Fig 2, top panels) . The reduction of HBV 2.4/2.1 kb RNA by ISG20 was further confirmed by co-transfection of ISG20 and plasmid pLMS expressing HBV subgenomic surface mRNA in HepG2 cells (S3A Fig). Consistent with ISG20-mediated reduction of 3.5 kb and Fig 2. ISG20 overexpression reduces HBV replication in hepatocyte-derived cells. (A) HepG2 cells were co-transfected with either pHBV1.
+3	29	44 DNA replication	Gene_function	GO_0006260
+
+4|chunk|3 and F-ISG20 or empty vector, or pCMVHBV and F-ISG20 or empty vector, as indicated. Cells were harvested at day 5 post-transfection, and the levels of viral RNA and DNA were determined by Northern (top) and Southern (middle) blot hybridization, respectively. For RNA analysis, each lane was loaded with 10 g of total RNA and probed with a genome-length, plus-strand-specific HBV riboprobe. Ribosomal RNAs (28S and 18S) are presented as loading controls. The positions of HBV pgRNA (3.5kb) and subgenomic surface RNAs (2.4kb and 2.1kb) are indicated. For DNA analysis, HBV core DNA was probed with genome-length, minus-strand-specific HBV riboprobe. The positions of relaxed circular (RC) and single-stranded (SS) DNAs are indicated. The relative pgRNA, sRNA or total DNA replicative intermediate level in each sample is expressed as the percentage of RNA or DNA of the cells transfected with empty vector. ISG20 overexpression was confirmed by Western blot using monoclonal antibodies against FLAG-tag. -actin expression was presented as protein loading control (bottom panels). (B) The same experiment was done in Huh7 cells with pHBV1.3 as HBV expression vector.
+

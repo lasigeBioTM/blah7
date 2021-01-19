@@ -1,0 +1,56 @@
+0|chunk|Blockage of indoleamine 2,3-dioxygenase regulates Japanese encephalitis via enhancement of type I/II IFN innate and adaptive T-cell responses
+0	12	23 indoleamine	Chemical	CHEBI_28626
+0	50	71 Japanese encephalitis	Disease	DOID_10844
+0	59	71 encephalitis	Disease	DOID_9588
+0	CHEBI-DOID	CHEBI_28626	DOID_10844
+0	CHEBI-DOID	CHEBI_28626	DOID_9588
+
+1|chunk|Background: Japanese encephalitis (JE), a leading cause of viral encephalitis, is characterized by extensive neuroinflammation following infection with neurotropic JE virus (JEV). Indoleamine 2,3-dioxygenase (IDO) has been identified as an enzyme associated with immunoregulatory function. Although the regulatory role of IDO in viral replication has been postulated, the in vivo role of IDO activity has not been fully addressed in neurotropic virus-caused encephalitis.
+1	12	33 Japanese encephalitis	Disease	DOID_10844
+1	21	33 encephalitis	Disease	DOID_9588
+1	65	77 encephalitis	Disease	DOID_9588
+1	180	191 Indoleamine	Chemical	CHEBI_28626
+1	209	212 IDO	Chemical	CHEBI_37709
+1	314	318 role	Chemical	CHEBI_50906
+1	322	325 IDO	Chemical	CHEBI_37709
+1	380	384 role	Chemical	CHEBI_50906
+1	388	391 IDO	Chemical	CHEBI_37709
+1	458	470 encephalitis	Disease	DOID_9588
+1	DOID-CHEBI	DOID_10844	CHEBI_28626
+1	DOID-CHEBI	DOID_10844	CHEBI_37709
+1	DOID-CHEBI	DOID_10844	CHEBI_50906
+1	DOID-CHEBI	DOID_9588	CHEBI_28626
+1	DOID-CHEBI	DOID_9588	CHEBI_37709
+1	DOID-CHEBI	DOID_9588	CHEBI_50906
+
+2|chunk|Methods: Mice in which IDO activity was inhibited by genetic ablation or using a specific inhibitor were examined for mortality and clinical signs after infection. Neuroinflammation was evaluated by central nervous system (CNS) infiltration of leukocytes and cytokine expression. IDO expression, viral burden, JEV-specific T-cell, and type I/II interferon (IFN-I/II) innate responses were also analyzed.
+2	23	26 IDO	Chemical	CHEBI_37709
+2	90	99 inhibitor	Chemical	CHEBI_35222
+2	280	283 IDO	Chemical	CHEBI_37709
+2	345	355 interferon	Chemical	CHEBI_52999
+
+3|chunk|Results: Elevated expression of IDO activity in myeloid and neuron cells of the lymphoid and CNS tissues was closely associated with clinical signs of JE. Furthermore, inhibition of IDO activity enhanced resistance to JE, reduced the viral burden in lymphoid and CNS tissues, and resulted in early and increased CNS infiltration by Ly-6C hi monocytes, NK, CD4 + , and CD8 + T-cells. JE amelioration in IDO-ablated mice was also associated with enhanced NK and JEV-specific T-cell responses. More interestingly, IDO ablation induced rapid enhancement of type I IFN (IFN-I) innate responses in CD11c + dendritic cells (DCs), including conventional and plasmacytoid DCs, following JEV infection. This enhanced IFN-I innate response in IDO-ablated CD11c + DCs was coupled with strong induction of PRRs (RIG-I, MDA5), transcription factors (IRF7, STAT1), and antiviral ISG genes (Mx1, Mx2, ISG49, ISG54, ISG56). IDO ablation also enhanced the IFN-I innate response in neuron cells, which may delay the spread of virus in the CNS. Finally, we identified that IDO ablation in myeloid cells derived from hematopoietic stem cells (HSCs) dominantly contributed to JE amelioration and that HSC-derived leukocytes played a key role in the enhanced IFN-I innate responses in the IDO-ablated environment.
+3	32	35 IDO	Chemical	CHEBI_37709
+3	182	185 IDO	Chemical	CHEBI_37709
+3	511	514 IDO	Chemical	CHEBI_37709
+3	663	666 DCs	Chemical	CHEBI_40009
+3	752	755 DCs	Chemical	CHEBI_40009
+3	854	863 antiviral	Chemical	CHEBI_22587
+3	907	910 IDO	Chemical	CHEBI_37709
+3	1053	1056 IDO	Chemical	CHEBI_37709
+3	1215	1219 role	Chemical	CHEBI_50906
+
+4|chunk|Conclusions: Inhibition of IDO activity ameliorated JE via enhancement of antiviral IFN-I/II innate and adaptive T-cell responses and increased CNS infiltration of peripheral leukocytes. Therefore, our data provide valuable insight into the use of IDO inhibition by specific inhibitors as a promising tool for therapeutic and prophylactic strategies against viral encephalitis caused by neurotropic viruses.
+4	27	30 IDO	Chemical	CHEBI_37709
+4	74	83 antiviral	Chemical	CHEBI_22587
+4	248	251 IDO	Chemical	CHEBI_37709
+4	275	285 inhibitors	Chemical	CHEBI_35222
+4	358	376 viral encephalitis	Disease	DOID_646
+4	364	376 encephalitis	Disease	DOID_9588
+4	CHEBI-DOID	CHEBI_37709	DOID_646
+4	CHEBI-DOID	CHEBI_37709	DOID_9588
+4	CHEBI-DOID	CHEBI_22587	DOID_646
+4	CHEBI-DOID	CHEBI_22587	DOID_9588
+4	CHEBI-DOID	CHEBI_35222	DOID_646
+4	CHEBI-DOID	CHEBI_35222	DOID_9588
+

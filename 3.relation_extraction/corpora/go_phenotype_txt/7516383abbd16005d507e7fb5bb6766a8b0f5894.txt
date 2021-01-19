@@ -1,0 +1,21 @@
+0|chunk|Goal-Oriented Respiratory Management for Critically Ill Patients with Acute Respiratory Distress Syndrome
+0	70	75 Acute	Phenotype	HP_0011009
+0	76	96 Respiratory Distress	Phenotype	HP_0002098
+
+1|chunk|This paper, based on relevant literature articles and the authors' clinical experience, presents a goal-oriented respiratory management for critically ill patients with acute respiratory distress syndrome (ARDS) that can help improve clinicians' ability to care for these patients. Early recognition of ARDS modified risk factors and avoidance of aggravating factors during hospital stay such as nonprotective mechanical ventilation, multiple blood products transfusions, positive fluid balance, ventilator-associated pneumonia, and gastric aspiration can help decrease its incidence. An early extensive clinical, laboratory, and imaging evaluation of "at risk patients" allows a correct diagnosis of ARDS, assessment of comorbidities, and calculation of prognostic indices, so that a careful treatment can be planned. Rapid administration of antibiotics and resuscitative measures in case of sepsis and septic shock associated with protective ventilatory strategies and early short-term paralysis associated with differential ventilatory techniques (recruitment maneuvers with adequate positive end-expiratory pressure titration, prone position, and new extracorporeal membrane oxygenation techniques) in severe ARDS can help improve its prognosis. Revaluation of ARDS patients on the third day of evolution (Sequential Organ Failure Assessment (SOFA), biomarkers and response to infection therapy) allows changes in the initial treatment plans and can help decrease ARDS mortality.
+1	169	174 acute	Phenotype	HP_0011009
+1	175	195 respiratory distress	Phenotype	HP_0002098
+1	541	551 aspiration	Phenotype	HP_0002835
+1	893	899 sepsis	Phenotype	HP_0100806
+1	911	916 shock	Phenotype	HP_0031273
+1	988	997 paralysis	Phenotype	HP_0003470
+1	1170	1178 membrane	Gene_function	GO_0016020
+1	1206	1212 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0011009	GO_0016020
+1	HP-GO	HP_0002098	GO_0016020
+1	HP-GO	HP_0002835	GO_0016020
+1	HP-GO	HP_0100806	GO_0016020
+1	HP-GO	HP_0031273	GO_0016020
+1	HP-GO	HP_0003470	GO_0016020
+1	GO-HP	GO_0016020	HP_0012828
+

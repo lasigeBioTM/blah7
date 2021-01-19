@@ -1,0 +1,22 @@
+0|chunk|BMC Genomics Sequence space coverage, entropy of genomes and the potential to detect non-human DNA in human samples
+0	0	3 BMC	Chemical	CHEBI_3392
+0	95	98 DNA	Chemical	CHEBI_16991
+0	CHEBI-CHEBI	CHEBI_3392	CHEBI_16991
+
+1|chunk|Background: Genomes store information for building and maintaining organisms. Complete sequencing of many genomes provides the opportunity to study and compare global information properties of those genomes.
+
+2|chunk|We have analyzed aspects of the information content of Homo sapiens, Mus musculus, Drosophila melanogaster, Caenorhabditis elegans, Arabidopsis thaliana, Saccharomyces cerevisiae, and Escherichia coli (K-12) genomes. Virtually all possible (> 98%) 12 bp oligomers appear in vertebrate genomes while < 2% of 19 bp oligomers are present. Other species showed different ranges of > 98% to < 2% of possible oligomers in D. melanogaster (12-17 bp), C. elegans (11-17 bp), A. thaliana (11-17 bp), S. cerevisiae (10-16 bp) and E. coli (9-15 bp). Frequencies of unique oligomers in the genomes follow similar patterns. We identified a set of 2.6 M 15-mers that are more than 1 nucleotide different from all 15-mers in the human genome and so could be used as probes to detect microbes in human samples. In a human sample, these probes would detect 100% of the 433 currently fully sequenced prokaryotes and 75% of the 3065 fully sequenced viruses. The human genome is significantly more compact in sequence space than a random genome. We identified the most frequent 5-to 20-mers in the human genome, which may prove useful as PCR primers. We also identified a bacterium, Anaeromyxobacter dehalogenans, which has an exceptionally low diversity of oligomers given the size of its genome and its GC content. The entropy of coding regions in the human genome is significantly higher than non-coding regions and chromosomes. However chromosomes 1, 2, 9, 12 and 14 have a relatively high proportion of coding DNA without high entropy, and chromosome 20 is the opposite with a low frequency of coding regions but relatively high entropy.
+2	254	263 oligomers	Chemical	CHEBI_132554
+2	313	322 oligomers	Chemical	CHEBI_132554
+2	403	412 oligomers	Chemical	CHEBI_132554
+2	561	570 oligomers	Chemical	CHEBI_132554
+2	669	679 nucleotide	Chemical	CHEBI_36976
+2	1238	1247 oligomers	Chemical	CHEBI_132554
+2	1495	1498 DNA	Chemical	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_132554	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_132554	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_36976	CHEBI_16991
+
+3|chunk|Measures of the frequency of oligomers are useful for designing PCR assays and for identifying chromosomes and organisms with hidden structure that had not been previously recognized. This information may be used to detect novel microbes in human tissues.
+3	29	38 oligomers	Chemical	CHEBI_132554
+

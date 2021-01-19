@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<document id="79da8c8e26960026682cb2daf09ec3357b1bec5a">
+  <chunk id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c0" text="BMC Genomics Molecular signature of clinical severity in recovering patients with severe acute respiratory syndrome coronavirus (SARS-CoV)">
+    <entity charOffset="45-53" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c0.e0" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="82-88" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c0.e1" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="89-94" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c0.e2" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+  </chunk>
+  <chunk id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1" text="Background: Severe acute respiratory syndrome (SARS), a recent epidemic human disease, is caused by a novel coronavirus (SARS-CoV). First reported in Asia, SARS quickly spread worldwide through international travelling. As of July 2003, the World Health Organization reported a total of 8,437 people afflicted with SARS with a 9.6% mortality rate. Although immunopathological damages may account for the severity of respiratory distress, little is known about how the genome-wide gene expression of the host changes under the attack of SARS-CoV.">
+    <entity charOffset="12-18" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e0" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="19-24" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e1" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="404-412" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e2" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="480-495" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e3" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e3" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.p0" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e1" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e3" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.p1" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e2" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.e3" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2" text="Results: Based on changes in gene expression of peripheral blood, we identified 52 signature genes that accurately discriminated acute SARS patients from non-SARS controls. While a general suppression of gene expression predominated in SARS-infected blood, several genes including those involved in innate immunity, such as defensins and eosinophil-derived neurotoxin, were upregulated. Instead of employing clustering methods, we ranked the severity of recovering SARS patients by generalized associate plots (GAP) according to the expression profiles of 52 signature genes. Through this method, we discovered a smooth transition pattern of severity from normal">
+    <entity charOffset="29-44" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="48-58" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e1" ontology_id="HP_0030646" text="peripheral" type="phenotype"/>
+    <entity charOffset="129-134" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e2" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="204-219" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="442-450" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e4" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="482-493" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e5" ontology_id="HP_0012837" text="generalized" type="phenotype"/>
+    <entity charOffset="642-650" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e6" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e1" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p0" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e2" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p1" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e4" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p2" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e5" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p3" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e0" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e6" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p4" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e1" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p5" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e2" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p6" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e4" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p7" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e5" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p8" relation="true"/>
+    <pair e1="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e3" e2="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.e6" id="79da8c8e26960026682cb2daf09ec3357b1bec5a.c2.p9" relation="true"/>
+  </chunk>
+</document>

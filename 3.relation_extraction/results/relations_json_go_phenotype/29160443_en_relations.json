@@ -1,0 +1,203 @@
+{
+    "text": "The HIV lipodystrophy syndrome is characterized by changes in metabolism, and body composition that increase cardiovascular risk of people living with HIV/AIDS (PLWHA) using highly active antiretroviral therapy (HAART).To assess the prevalence of lipodystrophy and changes in lipid and glucose metabolism in PLWHA in use of HAART.For the anthropometric evaluation we measured weight, height and abdominal circumference (AC). For the lipodystrophy evaluation we conducted physical examination (subjective) and the (objective) examination of absorptiometry with X-ray dual energy (DEXA) by fat mass ratio (FMR). We also conducted lipid profile tests and fasting glucose and used the criteria suggested by The National Cholesterol Education Program III for metabolic disorders classification.The final sample consisted of 262 patients with a mean age of 44.3 \u00b1 10.2 years. Lipodystrophy, according to the physical examination, was present in 47.7% (95%CI 41.7 - 53.8) of patients, while the prevalence using FMR (DEXA) was 40.8% (95%CI 33.1 - 48.5). Most (53.0%; 95%CI 47.0 - 59.1) of the patients showed increased abdominal adiposity according to AC. The most prevalent metabolic alterations were reduced HDL (67.6%; 95%CI 61.9 - 73.2) and hypertriglyceridemia (55.7%; 95%CI 49.7 - 61.7).The high prevalence of lipodystrophy and changes in lipid and glucose metabolism show the importance of early intervention in this group of patients to prevent cardiovascular complications.",
+    "denotations": [
+        {
+            "id": "HP_0009125",
+            "span": {
+                "begin": 8,
+                "end": 21
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "GO_0008152",
+            "span": {
+                "begin": 62,
+                "end": 72
+            },
+            "obj": "metabolism"
+        },
+        {
+            "id": "HP_0009125",
+            "span": {
+                "begin": 247,
+                "end": 260
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "GO_0006006",
+            "span": {
+                "begin": 286,
+                "end": 304
+            },
+            "obj": "glucose metabolism"
+        },
+        {
+            "id": "GO_0008152",
+            "span": {
+                "begin": 294,
+                "end": 304
+            },
+            "obj": "metabolism"
+        },
+        {
+            "id": "HP_0009125",
+            "span": {
+                "begin": 433,
+                "end": 446
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "HP_0009125",
+            "span": {
+                "begin": 870,
+                "end": 883
+            },
+            "obj": "Lipodystrophy"
+        },
+        {
+            "id": "HP_0002155",
+            "span": {
+                "begin": 1238,
+                "end": 1258
+            },
+            "obj": "hypertriglyceridemia"
+        },
+        {
+            "id": "HP_0009125",
+            "span": {
+                "begin": 1309,
+                "end": 1322
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "GO_0006006",
+            "span": {
+                "begin": 1348,
+                "end": 1366
+            },
+            "obj": "glucose metabolism"
+        },
+        {
+            "id": "GO_0008152",
+            "span": {
+                "begin": 1356,
+                "end": 1366
+            },
+            "obj": "metabolism"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0002155"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0008152",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R7",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R8",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R9",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R10",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0002155"
+        },
+        {
+            "id": "R11",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R12",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R13",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R14",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R15",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        },
+        {
+            "id": "R16",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0002155"
+        },
+        {
+            "id": "R17",
+            "subj": "GO_0006006",
+            "pred": "no_relation",
+            "obj": "HP_0009125"
+        }
+    ]
+}

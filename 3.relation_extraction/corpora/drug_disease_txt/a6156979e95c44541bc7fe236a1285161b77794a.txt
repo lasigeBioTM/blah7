@@ -1,0 +1,28 @@
+0|chunk|Development and evaluation of a Multiplexed Immunoassay for simultaneous Detection of serum IgG Antibodies to six Human Coronaviruses
+
+1|chunk|Known human coronaviruses (hCoV) usually cause mild to moderate upper-respiratory tract illnesses, except sARs-CoV and MeRs-CoV, which, in addition to mild illness can also be associated with severe respiratory diseases and high mortality rates. Well-characterized multiplexed serologic assays are needed to aid in rapid detection and surveillance of hCoVs. the present study describes development and evaluation of a multiplexed magnetic microsphere immunoassay (MMIA) to simultaneously detect immunoglobulin G (IgG) antibodies specific for recombinant nucleocapsid proteins (recN) from hCoVs 229E, NL63, OC43, HKU1, SARS-CoV, and MERS-CoV. We used paired human sera to screen for IgG with reactivity against six hCoVs to determine assay sensitivity, specificity and reproducibility. We found no signal interference between monoplex and multiplex assay formats (R 2 range = 0.87-0.97). Screening of paired human sera using MMIA, resulted in 92 of 106 (sensitivity: 86%) as positive and 68 of 80 (specificity: 84%) as negative. This study serves as a proof of concept that it is feasible to develop and use a multiplexed microsphere immunoassay as a next generation screening tool for use in large scale seroprevalence studies of hCoVs.
+1	567	575 proteins	Chemical	CHEBI_36080
+
+2|chunk|Coronaviruses (CoVs) belong to Coronaviridae family in the order of Nidovirale 1 . They are single-stranded, positive-sense RNA viruses with an outer envelope and crown-like morphologies, formed by spike (S) attachment glycoproteins 2 . Based on phylogenetic analysis, all CoVs are classified into four genera, Alpha-, Beta-, Gamma-, or Deltacoronavirus 3 . Currently, there are six strains of human coronaviruses (hCoVs), known to cause mild to severe, upper and lower respiratory tract infections in humans 2 . From early 1960s to early 2000s, there were only two hCoVs known to cause infections in humans, 229E (Alphacoronavirus) and OC43 (Betacoronavirus) 4 . In 2003, an outbreak of severe acute respiratory syndrome (SARS)-CoV (Betacoronavirus), originating from Guangdong province in China, resulted in 8,096 reported cases and 774 deaths worldwide 5 . Following this outbreak, hCoV-NL63 (Alphacoronavirus) and hCoV-HKU1 (Betacoronavirus) 6 were identified as sources of upper respiratory and gastrointestinal tract infections in hospitalized patients 7 . More recently, MERS-CoV (Middle East respiratory syndrome coronavirus) has been identified as the etiological agent for an ongoing epidemic of severe respiratory infection with high mortality rate in the Middle East 5 .
+2	124	127 RNA	Chemical	CHEBI_33697
+2	219	232 glycoproteins	Chemical	CHEBI_17089
+2	688	721 severe acute respiratory syndrome	Disease	DOID_2945
+2	713	721 syndrome	Disease	DOID_225
+2	1088	1120 Middle East respiratory syndrome	Disease	DOID_0080642
+2	1112	1120 syndrome	Disease	DOID_225
+2	CHEBI-DOID	CHEBI_33697	DOID_2945
+2	CHEBI-DOID	CHEBI_33697	DOID_225
+2	CHEBI-DOID	CHEBI_33697	DOID_0080642
+2	CHEBI-DOID	CHEBI_17089	DOID_2945
+2	CHEBI-DOID	CHEBI_17089	DOID_225
+2	CHEBI-DOID	CHEBI_17089	DOID_0080642
+
+3|chunk|There are no vaccines or antivirals approved for the treatment or prevention of infections caused by SARS-CoV or MERS-CoV 8 . In the absence of virus-specific control measures, the key to controlling a reemergence of SARS-CoV and spread of MERS-CoV, is rapid detection and isolation of suspect cases. Large scale, population-based seroprevalence studies are very useful for identification of critical control points in disease outbreaks as they provide important data about susceptible populations and potential of future outbreaks through predictive modeling 9 . Use of purified or recombinant viral antigen based enzyme-linked immunosorbent assays (ELISAs)
+3	25	35 antivirals	Chemical	CHEBI_22587
+3	419	426 disease	Disease	DOID_4
+3	601	608 antigen	Chemical	CHEBI_59132
+3	CHEBI-DOID	CHEBI_22587	DOID_4
+3	DOID-CHEBI	DOID_4	CHEBI_59132
+
+4|chunk|Published: xx xx xxxx opeN www.nature.com/scientificreports/
+

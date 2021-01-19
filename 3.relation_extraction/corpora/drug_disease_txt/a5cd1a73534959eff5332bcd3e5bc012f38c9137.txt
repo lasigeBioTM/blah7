@@ -1,0 +1,17 @@
+0|chunk|Sensitive Detection of Viral Transcripts in Human Tumor Transcriptomes
+
+1|chunk|In excess of 12% of human cancer incidents have a viral cofactor. Epidemiological studies of idiopathic human cancers indicate that additional tumor viruses remain to be discovered. Recent advances in sequencing technology have enabled systematic screenings of human tumor transcriptomes for viral transcripts. However, technical problems such as low abundances of viral transcripts in large volumes of sequencing data, viral sequence divergence, and homology between viral and human factors significantly confound identification of tumor viruses. We have developed a novel computational approach for detecting viral transcripts in human cancers that takes the aforementioned confounding factors into account and is applicable to a wide variety of viruses and tumors. We apply the approach to conducting the first systematic search for viruses in neuroblastoma, the most common cancer in infancy. The diverse clinical progression of this disease as well as related epidemiological and virological findings are highly suggestive of a pathogenic cofactor. However, a viral etiology of neuroblastoma is currently contested. We mapped 14 transcriptomes of neuroblastoma as well as positive and negative controls to the human and all known viral genomes in order to detect both known and unknown viruses. Analysis of controls, comparisons with related methods, and statistical estimates demonstrate the high sensitivity of our approach. Detailed investigation of putative viral transcripts within neuroblastoma samples did not provide evidence for the existence of any known human viruses. Likewise, de-novo assembly and analysis of chimeric transcripts did not result in expression signatures associated with novel human pathogens. While confounding factors such as sample dilution or viral clearance in progressed tumors may mask viral cofactors in the data, in principle, this is rendered less likely by the high sensitivity of our approach and the number of biological replicates analyzed. Therefore, our results suggest that frequent viral cofactors of metastatic neuroblastoma are unlikely.
+1	26	32 cancer	Disease	DOID_162
+1	847	860 neuroblastoma	Disease	DOID_769
+1	878	884 cancer	Disease	DOID_162
+1	938	945 disease	Disease	DOID_4
+1	1083	1096 neuroblastoma	Disease	DOID_769
+1	1152	1165 neuroblastoma	Disease	DOID_769
+1	1492	1505 neuroblastoma	Disease	DOID_769
+1	1833	1842 cofactors	Chemical	CHEBI_23357
+1	2040	2049 cofactors	Chemical	CHEBI_23357
+1	2064	2077 neuroblastoma	Disease	DOID_769
+1	DOID-CHEBI	DOID_162	CHEBI_23357
+1	DOID-CHEBI	DOID_769	CHEBI_23357
+1	DOID-CHEBI	DOID_4	CHEBI_23357
+

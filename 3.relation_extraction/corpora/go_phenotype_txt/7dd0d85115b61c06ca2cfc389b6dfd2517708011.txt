@@ -1,0 +1,14 @@
+0|chunk|Frequency of respiratory virus infections and next-generation analysis of influenza A/ H1N1pdm09 dynamics in the lower respiratory tract of patients admitted to the ICU
+0	0	9 Frequency	Phenotype	HP_0040279
+
+1|chunk|Recent molecular diagnostic methods have significantly improved the diagnosis of viral pneumonia in intensive care units (ICUs). It has been observed that 222G/N changes in the HA gene of H1N1pdm09 are associated with increased lower respiratory tract (LRT) replication and worse clinical outcome. In the present study, the frequency of respiratory viruses was assessed in respiratory samples from 88 patients admitted to 16 ICUs during the 2014-2015 winter-spring season in Lombardy. Sixty-nine out of 88 (78.4%) patients were positive for a respiratory viral infection at admission. Of these, 57/69 (82.6%) were positive for influenza A (41 A/H1N1pdm09 and 15 A/H3N2), 8/69 (11.6%) for HRV, 2/69 (2.9%) for RSV and 2/69 (2.9%) for influenza B. Phylogenetic analysis of influenza A/H1N1pdm09 strains from 28/41 ICU-patients and 21 patients with mild respiratory syndrome not requiring hospitalization, showed the clear predominance of subgroup 6B strains. The median influenza A load in LRT samples of ICU patients was higher than that observed in the upper respiratory tract (URT) (p<0.05). Overall, a greater number of H1N1pdm09 virus variants were observed using next generation sequencing on partial HA sequences (codons 180-286) in clinical samples from the LRT as compared to URT. In addition, 222G/N/A mutations were observed in 30% of LRT samples from ICU patients. Finally, intra-host evolution analysis showed the presence of different dynamics of viral population in LRT of patients hospitalized in ICU with a severe influenza infection.
+1	87	96 pneumonia	Phenotype	HP_0002090
+1	324	333 frequency	Phenotype	HP_0040279
+1	555	570 viral infection	Gene_function	GO_0016032
+1	846	850 mild	Phenotype	HP_0012825
+1	1522	1528 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0002090	GO_0016032
+1	HP-GO	HP_0040279	GO_0016032
+1	GO-HP	GO_0016032	HP_0012825
+1	GO-HP	GO_0016032	HP_0012828
+

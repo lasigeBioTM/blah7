@@ -1,0 +1,31 @@
+0|chunk|Severe varicella-zoster virus pneumonia: a multicenter cohort study
+0	55	61 cohort	Chemical	CHEBI_34935
+
+1|chunk|Background: Pneumonia is a dreaded complication of varicella-zoster virus (VZV) infection in adults; however, the data are limited. Our objective was to investigate the clinical features, management, and outcomes of critically ill patients with VZV-related community-acquired pneumonia (VZV-CAP). Methods: This was an observational study of patients with VZV-CAP admitted to 29 intensive care units (ICUs) Results: One hundred and two patients with VZV-CAP were included. Patients were young (age 39 years (interquartile range 32-51)) and 53 (52%) were immunocompromised. Time since respiratory symptom onset was 2 (1-3) days. There was a seasonal distribution of the disease, with more cases during spring and winter time. All but four patients presented with typical skin rash on ICU admission. Half the patients received mechanical ventilation within 1 (1-2) day following ICU admission (the ratio of arterial oxygen partial pressure to fractional inspired oxygen (PaO 2 /FiO 2 ) = 150 (80-284), 80% with acute respiratory distress syndrome (ARDS)). Sequential Organ Failure Assessment (SOFA) score on day 1 (odds ratio (OR) 1.90 (1.33-2.70); p < 0.001), oxygen flow at ICU admission (OR 1.25 (1.08-1.45); p = 0.004), and early bacterial co-infection (OR 14.94 (2.00-111.8); p = 0.009) were independently associated with the need for mechanical ventilation. Duration of mechanical ventilation was 14 (7-21) days. ICU and hospital mortality rates were 17% and 24%, respectively. All patients were treated with aciclovir and 10 received adjunctive therapy with steroids. Compared to 60 matched steroid-free controls, patients treated with steroids had a longer mechanical ventilation duration, ICU length of stay, and a similar hospital mortality, but experienced more ICU-acquired infections.
+1	12	21 Pneumonia	Disease	DOID_552
+1	276	285 pneumonia	Disease	DOID_552
+1	774	778 rash	Disease	DOID_0050486
+1	913	919 oxygen	Chemical	CHEBI_15379
+1	960	966 oxygen	Chemical	CHEBI_15379
+1	968	971 PaO	Chemical	CHEBI_53240
+1	1035	1043 syndrome	Disease	DOID_225
+1	1158	1164 oxygen	Chemical	CHEBI_15379
+1	1512	1521 aciclovir	Chemical	CHEBI_2453
+1	1562	1570 steroids	Chemical	CHEBI_35341
+1	1640	1648 steroids	Chemical	CHEBI_35341
+1	DOID-CHEBI	DOID_552	CHEBI_15379
+1	DOID-CHEBI	DOID_552	CHEBI_53240
+1	DOID-CHEBI	DOID_552	CHEBI_2453
+1	DOID-CHEBI	DOID_552	CHEBI_35341
+1	DOID-CHEBI	DOID_0050486	CHEBI_15379
+1	DOID-CHEBI	DOID_0050486	CHEBI_53240
+1	DOID-CHEBI	DOID_0050486	CHEBI_2453
+1	DOID-CHEBI	DOID_0050486	CHEBI_35341
+1	CHEBI-DOID	CHEBI_15379	DOID_225
+1	CHEBI-DOID	CHEBI_53240	DOID_225
+1	DOID-CHEBI	DOID_225	CHEBI_2453
+1	DOID-CHEBI	DOID_225	CHEBI_35341
+
+2|chunk|Conclusions: Severe VZV-CAP is responsible for an acute pulmonary involvement associated with a significant morbidity and mortality. Steroid therapy did not influence mortality, but increased the risk of superinfection.
+2	133	140 Steroid	Chemical	CHEBI_35341
+

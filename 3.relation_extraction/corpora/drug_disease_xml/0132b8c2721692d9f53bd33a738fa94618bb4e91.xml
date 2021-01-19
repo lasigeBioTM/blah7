@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="0132b8c2721692d9f53bd33a738fa94618bb4e91">
+  <chunk id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c0" text="BMC Microbiology Complete genome sequence of Treponema pallidum ssp. pallidum strain SS14 determined with oligonucleotide arrays">
+    <entity charOffset="0-3" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c0.e0" ontology_id="CHEBI_3392" text="BMC" type="chemical"/>
+    <entity charOffset="106-121" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c0.e1" ontology_id="CHEBI_7754" text="oligonucleotide" type="chemical"/>
+  </chunk>
+  <chunk id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1" text="Background: Syphilis spirochete Treponema pallidum ssp. pallidum remains the enigmatic pathogen, since no virulence factors have been identified and the pathogenesis of the disease is poorly understood. Increasing rates of new syphilis cases per year have been observed recently.">
+    <entity charOffset="12-20" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e0" ontology_id="DOID_4166" text="Syphilis" type="disease"/>
+    <entity charOffset="106-123" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e1" ontology_id="CHEBI_72316" text="virulence factors" type="chemical"/>
+    <entity charOffset="173-180" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="227-235" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e3" ontology_id="DOID_4166" text="syphilis" type="disease"/>
+    <pair e1="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e0" e2="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e1" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.p0" relation="true"/>
+    <pair e1="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e1" e2="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e2" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.p1" relation="true"/>
+    <pair e1="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e1" e2="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.e3" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c2" text="The genome of the SS14 strain was sequenced to high accuracy by an oligonucleotide array strategy requiring hybridization to only three arrays (Comparative Genome Sequencing, CGS). Gaps in the resulting sequence were filled with targeted dideoxy-terminators (DDT) sequencing and the sequence was confirmed by whole genome fingerprinting (WGF). When compared to the Nichols strain, 327 single nucleotide substitutions (224 transitions, 103 transversions), 14 deletions, and 18 insertions were found. On the proteome level, the highest frequency of amino acid-altering substitution polymorphisms was in novel genes, while the lowest was in housekeeping genes, as expected by their evolutionary conservation. Evidence was also found for hypervariable regions and multiple regions showing intrastrain heterogeneity in the T. pallidum chromosome.">
+    <entity charOffset="67-82" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c2.e0" ontology_id="CHEBI_7754" text="oligonucleotide" type="chemical"/>
+    <entity charOffset="259-262" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c2.e1" ontology_id="CHEBI_16130" text="DDT" type="chemical"/>
+    <entity charOffset="392-402" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c2.e2" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="547-552" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c2.e3" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+  </chunk>
+  <chunk id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c3" text="The observed genetic changes do not have influence on the ability of Treponema pallidum to cause syphilitic infection, since both SS14 and Nichols are virulent in rabbit. However, this is the first assessment of the degree of variation between the two syphilis pathogens and paves the way for phylogenetic studies of this fascinating organism.">
+    <entity charOffset="252-260" id="0132b8c2721692d9f53bd33a738fa94618bb4e91.c3.e0" ontology_id="DOID_4166" text="syphilis" type="disease"/>
+  </chunk>
+</document>

@@ -1,0 +1,43 @@
+{
+    "text": "to describe de functional development of swallowing in Intensive Care Unit (ICU) patients with COVID-19, who were submitted to a swallowing intervention.participants of the study were 77 patients (both gender, mean age 53.4\u00b115.9; score on the Glasgow Coma Scale \u226514 and stable respiratory condition). The functional scale of swallowing used for assessment was the American Speech-Language-Hearing Association National Outcome Measurement System (ASHA NOMS).the results indicate that there was a significant recovery of the functional swallowing patterns when comparing the measurements pre and post swallowing intervention.83% of the patients needed up to 3 swallowing interventions to recover a safe swallowing pattern.",
+    "denotations": [
+        {
+            "id": "HP_0001259",
+            "span": {
+                "begin": 251,
+                "end": 255
+            },
+            "obj": "Coma"
+        },
+        {
+            "id": "HP_0031915",
+            "span": {
+                "begin": 270,
+                "end": 276
+            },
+            "obj": "stable"
+        },
+        {
+            "id": "GO_0003904",
+            "span": {
+                "begin": 586,
+                "end": 589
+            },
+            "obj": "pre"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0003904",
+            "pred": "no_relation",
+            "obj": "HP_0001259"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0003904",
+            "pred": "no_relation",
+            "obj": "HP_0031915"
+        }
+    ]
+}

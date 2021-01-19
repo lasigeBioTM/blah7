@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f">
+  <chunk id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c0" text="Identification of Common Biological Pathways and Drug Targets Across Multiple Respiratory Viruses Based on Human Host Gene Expression Analysis">
+    <entity charOffset="49-53" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c0.e0" ontology_id="CHEBI_23888" text="Drug" type="chemical"/>
+  </chunk>
+  <chunk id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c1" text="Background: Pandemic and seasonal respiratory viruses are a major global health concern. Given the genetic diversity of respiratory viruses and the emergence of drug resistant strains, the targeted disruption of human host-virus interactions is a potential therapeutic strategy for treating multi-viral infections. The availability of large-scale genomic datasets focused on host-pathogen interactions can be used to discover novel drug targets as well as potential opportunities for drug repositioning.">
+    <entity charOffset="161-165" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c1.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="432-436" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c1.e1" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="484-488" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c1.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2" text="Methods/Results: In this study, we performed a large-scale analysis of microarray datasets involving host response to infections by influenza A virus, respiratory syncytial virus, rhinovirus, SARS-coronavirus, metapneumonia virus, coxsackievirus and cytomegalovirus. Common genes and pathways were found through a rigorous, iterative analysis pipeline where relevant host mRNA expression datasets were identified, analyzed for quality and gene differential expression, then mapped to pathways for enrichment analysis. Possible repurposed drugs targets were found through database and literature searches. A total of 67 common biological pathways were identified among the seven different respiratory viruses analyzed, representing fifteen laboratories, nine different cell types, and seven different array platforms. A large overlap in the general immune response was observed among the top twenty of these 67 pathways, adding validation to our analysis strategy. Of the top five pathways, we found 53 differentially expressed genes affected by at least five of the seven viruses. We suggest five new therapeutic indications for existing small molecules or biological agents targeting proteins encoded by the genes F3, IL1B, TNF, CASP1 and MMP9. Pathway enrichment analysis also identified a potential novel host response, the Parkin-Ubiquitin Proteasomal System (Parkin-UPS) pathway, which is known to be involved in the progression of neurodegenerative Parkinson's disease.">
+    <entity charOffset="132-141" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="372-376" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e1" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="538-543" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e2" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="1144-1153" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e3" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="1185-1193" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1246-1253" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e5" ontology_id="CHEBI_34922" text="Pathway" type="chemical"/>
+    <entity charOffset="1376-1383" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e6" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e1" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p0" relation="true"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e2" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p1" relation="true"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e3" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p2" relation="true"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e4" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p3" relation="true"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e5" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p4" relation="true"/>
+    <pair e1="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e0" e2="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.e6" id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c2.p5" relation="true"/>
+  </chunk>
+  <chunk id="5ac423d77382c035d9ba1f51ed94d524d1a9ec7f.c3" text="Our study suggests that multiple and diverse respiratory viruses invoke several common host response pathways. Further analysis of these pathways suggests potential opportunities for therapeutic intervention."/>
+</document>

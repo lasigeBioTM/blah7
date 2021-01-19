@@ -1,0 +1,19 @@
+0|chunk|S1 Text -Supporting text S1.1 Text
+
+1|chunk|The Gillespie Algorithm 693 In the section "Predicting epidemic behavior", we discussed that to use Eq. (11) to 694 project the expected behavior of an epidemic outcome Z using the accrued observation 695 Y i at time t i , one needs access to a stochastic simulator to sample from the random 696 variable Z| i for a given set of parameter values . We use the Gillespie algorithm [40] 697 for this purpose. To describe the steps of the Gillespie algorithm, we consider an 698 epidemic model with K compartments (e.g. in the model described in  "Design of the 699 Performance Analysis", K = 4). Let (t) = ( 1 (t),  2 (t), . . . ,  K (t)) denote the state of 700 the epidemic at time t, where  k (t) denotes the number of individuals in compartment 701 k  {1, 2, . . . , K} at time t.
+1	137	145 behavior	Gene_function	GO_0007610
+1	600	603 aat	Gene_function	GO_0004069
+
+2|chunk|The state of an epidemic (i.e. (t)) may change due to the occurrence of specific 703 events, such the transmission of the disease to a susceptible or the recovery from the 704 disease. We use Q to denote the number of such events. In the model shown in Fig 3, 705 these epidemic events include Infection, Seeking Treatment, and Recovery (and hence 706 Q = 3). Let  q ((t), ) denote the rate at which the event q is occurring when the 707 epidemic is at state (t) and with parameter values  that is a transformation of the 708 parameter .
+2	463	466 aat	Gene_function	GO_0004069
+
+3|chunk|Note that the stochastic model usually uses a volume dependent transformation of 710 the parameter  from the ODE model. We do not need this transformation as our ODE 711 description is volume independent.
+
+4|chunk|In the model described in -"Design of the Performance Analysis", the force of
+
+5|chunk|N (t) , the rate of seeking treatment is  2  I (t), and the rate of 714 recovery is  3  T (t), where  S (t),  I (t) and  T (t) denote, respectively, the number of 715 individuals in the compartments Susceptible, Infective, and Treatment (see Fig 3) . The 716 Gillespie algorithm proceeds as follows.
+
+6|chunk|Assuming that the epidemic is at state v(t) at time t :
+
+7|chunk|1. Calculate the sum of rates:  0 = PLOS 24/38
+

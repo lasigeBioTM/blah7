@@ -1,0 +1,37 @@
+0|chunk|SARS-Coronavirus Open Reading Frame-8b triggers intracellular stress pathways and activates NLRP3 inflammasomes
+0	48	61 intracellular	Gene_function	GO_0005622
+
+1|chunk|The SARS (severe acute respiratory syndrome) outbreak was caused by a coronavirus (CoV) named the SARS-CoV. SARS pathology is propagated both by direct cytotoxic effects of the virus and aberrant activation of the innate immune response. Here, we identify several mechanisms by which a SARS-CoV open reading frame (ORF) activates intracellular stress pathways and targets the innate immune response. We show that ORF8b forms insoluble intracellular aggregates dependent on a valine at residue 77. Aggregated ORF8b induces endoplasmic reticulum (ER) stress, lysosomal damage, and subsequent activation of the master regulator of the autophagy and lysosome machinery, Transcription factor EB (TFEB). ORF8b causes cell death in epithelial cells, which is partially rescued by reducing its ability to aggregate. In macrophages, ORF8b robustly activates the NLRP3 inflammasome by providing a potent signal 2 required for activation. Mechanistically, ORF8b interacts directly with the Leucine Rich Repeat domain of NLRP3 and localizes with NLRP3 and ASC in cytosolic dot-like structures. ORF8b triggers cell death consistent with pyroptotic cell death in macrophages. While in those cells lacking NLRP3 accumulating ORF8b cytosolic aggregates cause ER stress, mitochondrial dysfunction, and caspase-independent cell death.
+1	10	16 severe	Phenotype	HP_0012828
+1	17	22 acute	Phenotype	HP_0011009
+1	214	236 innate immune response	Gene_function	GO_0045087
+1	330	343 intracellular	Gene_function	GO_0005622
+1	376	398 innate immune response	Gene_function	GO_0045087
+1	435	448 intracellular	Gene_function	GO_0005622
+1	522	543 endoplasmic reticulum	Gene_function	GO_0005783
+1	632	641 autophagy	Gene_function	GO_0006914
+1	646	654 lysosome	Gene_function	GO_0005764
+1	711	721 cell death	Gene_function	GO_0008219
+1	1097	1107 cell death	Gene_function	GO_0008219
+1	1135	1145 cell death	Gene_function	GO_0008219
+1	1254	1267 mitochondrial	Phenotype	HP_0001427
+1	1305	1315 cell death	Gene_function	GO_0008219
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0012828	GO_0005783
+1	HP-GO	HP_0012828	GO_0006914
+1	HP-GO	HP_0012828	GO_0005764
+1	HP-GO	HP_0012828	GO_0008219
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0011009	GO_0005622
+1	HP-GO	HP_0011009	GO_0005783
+1	HP-GO	HP_0011009	GO_0006914
+1	HP-GO	HP_0011009	GO_0005764
+1	HP-GO	HP_0011009	GO_0008219
+1	GO-HP	GO_0045087	HP_0001427
+1	GO-HP	GO_0005622	HP_0001427
+1	GO-HP	GO_0005783	HP_0001427
+1	GO-HP	GO_0006914	HP_0001427
+1	GO-HP	GO_0005764	HP_0001427
+1	GO-HP	GO_0008219	HP_0001427
+

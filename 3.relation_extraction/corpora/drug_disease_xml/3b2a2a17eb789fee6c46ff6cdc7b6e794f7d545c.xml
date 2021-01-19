@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c">
+  <chunk id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c0" text="Epidemic Surveillance Using an Electronic Medical Record: An Empiric Approach to Performance Improvement"/>
+  <chunk id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c1" text="Backgrounds: Electronic medical records (EMR) form a rich repository of information that could benefit public health. We asked how structured and free-text narrative EMR data should be combined to improve epidemic surveillance for acute respiratory infections (ARI)."/>
+  <chunk id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2" text="Methods: Eight previously characterized ARI case detection algorithms (CDA) were applied to historical EMR entries to create authentic time series of daily ARI case counts (background). An epidemic model simulated influenza cases (injection). From the time of the injection, cluster-detection statistics were applied daily on paired background+injection (combined) and background-only time series. This cycle was then repeated with the injection shifted to each week of the evaluation year. We computed: a) the time from injection to the first statistical alarm uniquely found in the combined dataset (Detection Delay); b) how often alarms originated in the background-only dataset (false-alarm rate, or FAR); and c) the number of cases found within these false alarms (Caseload). For each CDA, we plotted the Detection Delay as a function of FAR or Caseload, over a broad range of alarm thresholds.">
+    <entity charOffset="40-43" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e0" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <entity charOffset="71-74" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e1" ontology_id="CHEBI_29548" text="CDA" type="chemical"/>
+    <entity charOffset="156-159" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e2" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <entity charOffset="214-223" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="790-793" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e4" ontology_id="CHEBI_29548" text="CDA" type="chemical"/>
+    <pair e1="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e0" e2="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e3" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.p0" relation="true"/>
+    <pair e1="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e1" e2="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e3" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.p1" relation="true"/>
+    <pair e1="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e2" e2="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e3" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.p2" relation="true"/>
+    <pair e1="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e3" e2="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.e4" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c3" text="Results: CDAs that combined text analyses seeking ARI symptoms in clinical notes with provider-assigned diagnostic codes in order to maximize the precision rather than the sensitivity of case-detection lowered Detection Delay at any given FAR or Caseload.">
+    <entity charOffset="50-53" id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c3.e0" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+  </chunk>
+  <chunk id="3b2a2a17eb789fee6c46ff6cdc7b6e794f7d545c.c4" text="Conclusion: An empiric approach can guide the integration of EMR data into case-detection methods that improve both the timeliness and efficiency of epidemic detection."/>
+</document>

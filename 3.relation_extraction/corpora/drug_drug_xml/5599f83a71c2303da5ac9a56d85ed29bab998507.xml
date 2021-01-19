@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="5599f83a71c2303da5ac9a56d85ed29bab998507">
+  <chunk id="5599f83a71c2303da5ac9a56d85ed29bab998507.c0" text="Efficient production of glycyrrhetinic acid in metabolically engineered Saccharomyces cerevisiae via an integrated strategy">
+    <entity charOffset="24-43" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c0.e0" ontology_id="CHEBI_30853" text="glycyrrhetinic acid" type="chemical"/>
+    <entity charOffset="39-43" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c0.e1" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c0.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c0.e1" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1" text="Background: Glycyrrhetinic acid (GA) is the most important ingredient in licorice due to its outstanding anti-inflammatory activity and wide application in the medicine and cosmetics industries. Contemporary industrial production of GA by acid hydrolysis of glycyrrhizin which was extracted from Glycyrrhiza plants, is not environment-friendly and devastates farmland since the Glycyrrhiza rhizomes grow up to 10 m underground.">
+    <entity charOffset="12-31" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" ontology_id="CHEBI_30853" text="Glycyrrhetinic acid" type="chemical"/>
+    <entity charOffset="27-31" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e1" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="160-168" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" ontology_id="CHEBI_23888" text="medicine" type="chemical"/>
+    <entity charOffset="173-182" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" ontology_id="CHEBI_64857" text="cosmetics" type="chemical"/>
+    <entity charOffset="239-243" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e4" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="258-270" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" ontology_id="CHEBI_15939" text="glycyrrhizin" type="chemical"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e1" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p0" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p1" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p2" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e4" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p3" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e0" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p4" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e1" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p5" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e1" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p6" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e1" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p7" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p8" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e4" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p9" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e2" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p10" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e4" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p11" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e3" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p12" relation="true"/>
+    <pair e1="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e4" e2="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.e5" id="5599f83a71c2303da5ac9a56d85ed29bab998507.c1.p13" relation="true"/>
+  </chunk>
+</document>

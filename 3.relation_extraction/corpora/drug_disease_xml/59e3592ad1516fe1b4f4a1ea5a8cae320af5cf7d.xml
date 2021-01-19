@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<document id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d">
+  <chunk id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c0" text="VIGOR, an annotation program for small viral genomes"/>
+  <chunk id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1" text="Background: The decrease in cost for sequencing and improvement in technologies has made it easier and more common for the re-sequencing of large genomes as well as parallel sequencing of small genomes. It is possible to completely sequence a small genome within days and this increases the number of publicly available genomes. Among the types of genomes being rapidly sequenced are those of microbial and viral genomes responsible for infectious diseases. However, accurate gene prediction is a challenge that persists for decoding a newly sequenced genome. Therefore, accurate and efficient gene prediction programs are highly desired for rapid and cost effective surveillance of RNA viruses through full genome sequencing. Results: We have developed VIGOR (Viral Genome ORF Reader), a web application tool for gene prediction in influenza virus, rotavirus, rhinovirus and coronavirus subtypes. VIGOR detects protein coding regions based on sequence similarity searches and can accurately detect genome specific features such as frame shifts, overlapping genes, embedded genes, and can predict mature peptides within the context of a single polypeptide open reading frame. Genotyping capability for influenza and rotavirus is built into the program. We compared VIGOR to previously described gene prediction programs, ZCURVE_V, GeneMarkS and FLAN. The specificity and sensitivity of VIGOR are greater than 99% for the RNA viral genomes tested. Conclusions: VIGOR is a user friendly web-based genome annotation program for five different viral agents, influenza, rotavirus, rhinovirus, coronavirus and SARS coronavirus. This is the first gene prediction program for rotavirus and rhinovirus for public access. VIGOR is able to accurately predict protein coding genes for the above five viral types and has the capability to assign function to the predicted open reading frames and genotype influenza virus. The prediction software was designed for performing high throughput annotation and closure validation in a post-sequencing production pipeline.">
+    <entity charOffset="683-686" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="774-777" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" ontology_id="DOID_8771" text="ORF" type="disease"/>
+    <entity charOffset="833-842" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="912-919" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1104-1112" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="1144-1155" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" ontology_id="CHEBI_15841" text="polypeptide" type="chemical"/>
+    <entity charOffset="1202-1211" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1421-1424" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1554-1563" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1604-1608" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="1748-1755" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1892-1901" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p0" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p1" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p2" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p3" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p4" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e0" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p5" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p6" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p7" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p8" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p9" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e1" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p10" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p11" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p12" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p13" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p14" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e2" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p15" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p16" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p17" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p18" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e3" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p19" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p20" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p21" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p22" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e4" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p23" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p24" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p25" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p26" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e5" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p27" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p28" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e6" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p29" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p30" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p31" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e7" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p32" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e8" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p33" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e9" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p34" relation="true"/>
+    <pair e1="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e10" e2="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.e11" id="59e3592ad1516fe1b4f4a1ea5a8cae320af5cf7d.c1.p35" relation="true"/>
+  </chunk>
+</document>

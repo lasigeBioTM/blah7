@@ -1,0 +1,27 @@
+0|chunk|Rift Valley Fever Virus NSs Protein Promotes Post-Transcriptional Downregulation of Protein Kinase PKR and Inhibits eIF2a Phosphorylation
+0	5	17 Valley Fever	Phenotype	HP_0032249
+0	12	17 Fever	Phenotype	HP_0001945
+0	122	137 Phosphorylation	Gene_function	GO_0016310
+0	HP-GO	HP_0032249	GO_0016310
+0	HP-GO	HP_0001945	GO_0016310
+
+1|chunk|Rift Valley fever virus (RVFV) (genus Phlebovirus, family Bunyaviridae) is a negative-stranded RNA virus with a tripartite genome. RVFV is transmitted by mosquitoes and causes fever and severe hemorrhagic illness among humans, and fever and high rates of abortions in livestock. A nonstructural RVFV NSs protein inhibits the transcription of host mRNAs, including interferon-b mRNA, and is a major virulence factor. The present study explored a novel function of the RVFV NSs protein by testing the replication of RVFV lacking the NSs gene in the presence of actinomycin D (ActD) or a-amanitin, both of which served as a surrogate of the host mRNA synthesis suppression function of the NSs. In the presence of the hosttranscriptional inhibitors, the replication of RVFV lacking the NSs protein, but not that carrying NSs, induced doublestranded RNA-dependent protein kinase (PKR)-mediated eukaryotic initiation factor (eIF)2a phosphorylation, leading to the suppression of host and viral protein translation. RVFV NSs promoted post-transcriptional downregulation of PKR early in the course of the infection and suppressed the phosphorylated eIF2a accumulation. These data suggested that a combination of RVFV replication and NSs-induced host transcriptional suppression induces PKR-mediated eIF2a phosphorylation, while the NSs facilitates efficient viral translation by downregulating PKR and inhibiting PKR-mediated eIF2a phosphorylation. Thus, the two distinct functions of the NSs, i.e., the suppression of host transcription, including that of type I interferon mRNAs, and the downregulation of PKR, work together to prevent host innate antiviral functions, allowing efficient replication and survival of RVFV in infected mammalian hosts.
+1	5	17 Valley fever	Phenotype	HP_0032249
+1	12	17 fever	Phenotype	HP_0001945
+1	176	181 fever	Phenotype	HP_0001945
+1	186	192 severe	Phenotype	HP_0012828
+1	231	236 fever	Phenotype	HP_0001945
+1	648	657 synthesis	Gene_function	GO_0009058
+1	996	1007 translation	Gene_function	GO_0006412
+1	1350	1367 viral translation	Gene_function	GO_0019081
+1	1356	1367 translation	Gene_function	GO_0006412
+1	HP-GO	HP_0032249	GO_0009058
+1	HP-GO	HP_0032249	GO_0006412
+1	HP-GO	HP_0032249	GO_0019081
+1	HP-GO	HP_0001945	GO_0009058
+1	HP-GO	HP_0001945	GO_0006412
+1	HP-GO	HP_0001945	GO_0019081
+1	HP-GO	HP_0012828	GO_0009058
+1	HP-GO	HP_0012828	GO_0006412
+1	HP-GO	HP_0012828	GO_0019081
+

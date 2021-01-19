@@ -1,0 +1,24 @@
+0|chunk|Molecular Sciences SARS Coronavirus Papain-Like Protease Inhibits the TLR7 Signaling Pathway through Removing Lys63-Linked Polyubiquitination of TRAF3 and TRAF6
+0	70	92 TLR7 Signaling Pathway	Gene_function	GO_0034154
+0	75	84 Signaling	Gene_function	GO_0023052
+0	75	92 Signaling Pathway	Gene_function	GO_0007165
+
+1|chunk|Severe acute respiratory syndrome coronavirus (SARS-CoV) papain-like protease (PLPro) reportedly inhibits the production of type I interferons (IFNs) and pro-inflammatory cytokines in Toll-like receptor 3 (TLR3) and retinoic acid-inducible gene 1 (RIG-I) pathways. The study investigated the inhibitory effect and its antagonistic mechanism of SARS-CoV PLPro on TLR7-mediated cytokine production. TLR7 agonist (imiquimod (IMQ)) concentration-dependently induced activation of ISRE-, NF-B-and AP-1-luciferase reporters, as well as the production of IFN-, IFN-, TNF-, IL-6 and IL-8 in human promonocyte cells. However, SARS-CoV PLPro significantly inhibited IMQ-induced cytokine production through suppressing the activation of transcription factors IRF-3, NF-B and AP-1. Western blot analysis with anti-Lys48 and anti-Lys63 ubiquitin antibodies indicated the SARS-CoV PLPro removed Lys63-linked ubiquitin chains of TRAF3 and TRAF6, but not Lys48-linked ubiquitin chains in un-treated and treated cells. The decrease in the activated state of TRAF3 and TRAF6 correlated with the inactivation of TBK1 in response to IMQ by PLPro. The results revealed that the antagonism of SARS-CoV PLPro on TLR7-mediated innate immunity was associated with the negative regulation of TRAF3/6-TBK1-IRF3/NF-B/AP1 signals.
+1	0	6 Severe	Phenotype	HP_0012828
+1	7	12 acute	Phenotype	HP_0011009
+1	376	395 cytokine production	Gene_function	GO_0001816
+1	672	691 cytokine production	Gene_function	GO_0001816
+1	828	837 ubiquitin	Gene_function	GO_0031386
+1	899	908 ubiquitin	Gene_function	GO_0031386
+1	957	966 ubiquitin	Gene_function	GO_0031386
+1	1098	1102 TBK1	Gene_function	GO_0008384
+1	1208	1223 innate immunity	Gene_function	GO_0045087
+1	HP-GO	HP_0012828	GO_0001816
+1	HP-GO	HP_0012828	GO_0031386
+1	HP-GO	HP_0012828	GO_0008384
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0011009	GO_0001816
+1	HP-GO	HP_0011009	GO_0031386
+1	HP-GO	HP_0011009	GO_0008384
+1	HP-GO	HP_0011009	GO_0045087
+

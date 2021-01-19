@@ -1,0 +1,19 @@
+0|chunk|Common Nodes of Virus-Host Interaction Revealed Through an Integrated Network Analysis
+
+1|chunk|Viruses are one of the major causes of acute and chronic infectious diseases and thus a major contributor to the global burden of disease. Several studies have shown how viruses have evolved to hijack basic cellular pathways and evade innate immune response by modulating key host factors and signaling pathways. A collective view of these multiple studies could advance our understanding of virus-host interactions and provide new therapeutic perspectives for the treatment of viral diseases. Here, we performed an integrative meta-analysis to elucidate the 17 different host-virus interactomes. Network and bioinformatics analyses showed how viruses with small genomes efficiently achieve the maximal effect by targeting multifunctional and highly connected host proteins with a high occurrence of disordered regions. We also identified the core cellular process subnetworks that are targeted by all the viruses. Integration with functional RNA interference (RNAi) datasets showed that a large proportion of the targets are required for viral replication. Furthermore, we performed an interactome-informed drug re-purposing screen and identified novel activities for broad-spectrum antiviral agents against hepatitis C virus and human metapneumovirus. Altogether, these orthogonal datasets could serve as a platform for hypothesis generation and follow-up studies to broaden our understanding of the viral evasion landscape.
+1	765	773 proteins	Chemical	CHEBI_36080
+1	943	946 RNA	Chemical	CHEBI_33697
+1	1108	1112 drug	Chemical	CHEBI_23888
+1	1184	1193 antiviral	Chemical	CHEBI_22587
+1	1184	1200 antiviral agents	Chemical	CHEBI_22587
+1	1209	1218 hepatitis	Disease	DOID_2237
+1	1209	1220 hepatitis C	Disease	DOID_1883
+1	CHEBI-DOID	CHEBI_36080	DOID_2237
+1	CHEBI-DOID	CHEBI_36080	DOID_1883
+1	CHEBI-DOID	CHEBI_33697	DOID_2237
+1	CHEBI-DOID	CHEBI_33697	DOID_1883
+1	CHEBI-DOID	CHEBI_23888	DOID_2237
+1	CHEBI-DOID	CHEBI_23888	DOID_1883
+1	CHEBI-DOID	CHEBI_22587	DOID_2237
+1	CHEBI-DOID	CHEBI_22587	DOID_1883
+

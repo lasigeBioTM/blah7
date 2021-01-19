@@ -1,0 +1,50 @@
+0|chunk|Differential expression of lncRNAs during the HIV replication cycle: an underestimated layer in the HIV- host interplay OPEN
+
+1|chunk|Studying the effects of HIV infection on the host transcriptome has typically focused on protein-coding genes. However, recent advances in the field of RNA sequencing revealed that long non-coding RNAs (lncRNAs) add an extensive additional layer to the cell's molecular network. Here, we performed transcriptome profiling throughout a primary HIV infection in vitro to investigate lncRNA expression at the different HIV replication cycle processes (reverse transcription, integration and particle production). Subsequently, guilt-by-association, transcription factor and co-expression analysis were performed to infer biological roles for the lncRNAs identified in the HIV-host interplay. Many lncRNAs were suggested to play a role in mechanisms relying on proteasomal and ubiquitination pathways, apoptosis, DNA damage responses and cell cycle regulation. Through transcription factor binding analysis, we found that lncRNAs display a distinct transcriptional regulation profile as compared to protein coding mRNAs, suggesting that mRNAs and lncRNAs are independently modulated. In addition, we identified five differentially expressed lncRNA-mRNA pairs with mRNA involvement in HIV pathogenesis with possible cis regulatory lncRNAs that control nearby mRNA expression and function. Altogether, the present study demonstrates that lncRNAs add a new dimension to the HIV-host interplay and should be further investigated as they may represent targets for controlling HIV replication.
+1	152	155 RNA	Chemical	CHEBI_33697
+1	212	215 add	Chemical	CHEBI_40799
+1	727	731 role	Chemical	CHEBI_50906
+1	809	812 DNA	Chemical	CHEBI_16991
+1	995	1002 protein	Chemical	CHEBI_16541
+1	1160	1164 mRNA	Chemical	CHEBI_33699
+1	1254	1258 mRNA	Chemical	CHEBI_33699
+1	1340	1343 add	Chemical	CHEBI_40799
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_40799
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33699
+
+2|chunk|The interplay between the human immunodeficiency virus (HIV) and the host's cellular defenses has been broadly studied to elucidate the underlying viral and antiviral molecular mechanisms. These studies typically focused on protein-coding genes and successfully identified several host factors involved in HIV pathogenesis and intracellular defense 1-6 . However, over the past decade it has become evident from genome-wide tiling arrays and RNA sequencing studies that the human genome is pervasively transcribed and that the majority of these transcribed genomic sequences are associated with non-coding RNAs (ncRNAs) rather than protein coding RNAs, underpinning their widespread presence in the cellular environment and adding a new layer of complexity to the cell's molecular network 7-10 .
+2	157	166 antiviral	Chemical	CHEBI_22587
+2	442	445 RNA	Chemical	CHEBI_33697
+2	632	639 protein	Chemical	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+
+3|chunk|The class of ncRNAs is subdivided by length into small (< 200 nt) and long (> 200 nt) non-coding RNAs (lncRNAs). The lncRNAs constitute the bulk of ncRNAs with current databases describing up to ~62 000 long non-coding RNA genes compared to the ~20 000 known protein coding genes 11,12 . LncRNAs form a diverse group of molecules that can bind to DNA, RNA or proteins and are mainly involved in the regulation of gene expression, chromatin organization, nucleus-to-cytoplasm trafficking, RNA maturation and protein synthesis 9 . In addition, lncRNAs are frequently co-expressed with neighboring genes and show nuclear and/or cytoplasmic
+3	219	222 RNA	Chemical	CHEBI_33697
+3	259	266 protein	Chemical	CHEBI_16541
+3	320	329 molecules	Chemical	CHEBI_25367
+3	352	355 RNA	Chemical	CHEBI_33697
+3	359	367 proteins	Chemical	CHEBI_36080
+3	488	491 RNA	Chemical	CHEBI_33697
+3	507	514 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_25367	CHEBI_36080
+

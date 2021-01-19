@@ -1,0 +1,75 @@
+0|chunk|Endoplasmic Reticulum: The Favorite Intracellular Niche for Viral Replication and Assembly
+0	36	49 Intracellular	Gene_function	GO_0005622
+
+1|chunk|The endoplasmic reticulum (ER) is the largest intracellular organelle. It forms a complex network of continuous sheets and tubules, extending from the nuclear envelope (NE) to the plasma membrane. This network is frequently perturbed by positive-strand RNA viruses utilizing the ER to create membranous replication factories (RFs), where amplification of their genomes occurs. In addition, many enveloped viruses assemble progeny virions in association with ER membranes, and viruses replicating in the nucleus need to overcome the NE barrier, requiring transient changes of the NE morphology. This review first summarizes some key aspects of ER morphology and then focuses on the exploitation of the ER by viruses for the sake of promoting the different steps of their replication cycles.
+1	4	25 endoplasmic reticulum	Gene_function	GO_0005783
+1	46	59 intracellular	Gene_function	GO_0005622
+1	151	167 nuclear envelope	Gene_function	GO_0005635
+1	159	167 envelope	Gene_function	GO_0031975
+1	503	510 nucleus	Gene_function	GO_0005634
+1	554	563 transient	Phenotype	HP_0025153
+1	GO-HP	GO_0005783	HP_0025153
+1	GO-HP	GO_0005622	HP_0025153
+1	GO-HP	GO_0005635	HP_0025153
+1	GO-HP	GO_0031975	HP_0025153
+1	GO-HP	GO_0005634	HP_0025153
+
+2|chunk|In the following sections we briefly summarize the morphologies and properties of these ER 44 subdomains. 45 46 Figure 1. Schematic representation of the endoplasmic reticulum (ER) network organization. (A) The 47 ER network comprises the nuclear envelope (NE) and the peripheral ER. The peripheral ER is 48 composed of stacked sheets, studded with ribosomes, and tubules extending the reticular network to 49 the plasma membrane; (B) Schematic of an ER sheet, depicting its multidimensional properties and 50 the ER-shaping proteins that are responsible for the characteristic, flattened morphology. CLIMP63 is 51 a coiled-coil protein forming oligomers bridging across the luminal space of the sheets that are also 52 studded with ribosomes. High membrane curvature at the edges of the sheets is stabilized by 53 reticulon/DP1/Yop1p proteins, forming wedges inside the bilayer and arc-like scaffolds around the 54 edge. Sheets are also connected to neighboring sheets by membranous twists ("Parking garage 55 model", [7]); (C) Schematic of two ER tubules. Reticulon/DP1/Yop1p oligomers might not only 56 determine the size of the sheet edges, but also the diameter of the tubules. These are interconnected 57 through proteins such as atlastins/Sey1p residing at three-way junctions. The models in (B) and (C)
+2	154	175 endoplasmic reticulum	Gene_function	GO_0005783
+2	239	255 nuclear envelope	Gene_function	GO_0005635
+2	247	255 envelope	Gene_function	GO_0031975
+2	269	279 peripheral	Phenotype	HP_0030646
+2	269	282 peripheral ER	Gene_function	GO_0032541
+2	288	298 peripheral	Phenotype	HP_0030646
+2	288	301 peripheral ER	Gene_function	GO_0032541
+2	421	429 membrane	Gene_function	GO_0016020
+2	749	757 membrane	Gene_function	GO_0016020
+2	749	767 membrane curvature	Gene_function	GO_0097753
+2	GO-HP	GO_0005783	HP_0030646
+2	GO-HP	GO_0005635	HP_0030646
+2	GO-HP	GO_0031975	HP_0030646
+2	HP-GO	HP_0030646	GO_0032541
+2	HP-GO	HP_0030646	GO_0016020
+2	HP-GO	HP_0030646	GO_0097753
+
+3|chunk|are adapted from [8, 9] . Dimensions of ER sheets and tubules refer to those found in mammalian cells. 59 2.1.1. Nuclear Envelope (NE) 60 The nuclear envelope consists of two flat ER membrane bilayers, the inner nuclear membrane 61 (INM) and the outer nuclear membrane (ONM). The NE morphology is maintained via protein 62 linkers within the perinuclear space (PNS), keeping a constant distance of 50 nm between the two 63 membrane layers [10,11]. In addition, interactions of the INM proteins with chromatin and the lamin 64 and of the ONM with nuclear pores and the cytoskeleton (reviewed in [12-14]) are required for the 65 maintenance of the NE structure. This double membrane separates the intranuclear space from the 66 cytoplasmic compartment and is only interrupted by nuclear pores, composed of nuclear pore 67 complexes (NPCs) responsible for nucleocytoplasmic transport. Molecules up to 9 nm in diameter 68 can passively diffuse through their inner channel [15], while molecules up to 39 nm in diameter in 69 most cases require active nuclear import/export. Efficient translocation is carried out by transport 70 receptors (karyopherins) that recognize cargos carrying specific recognition signals: nuclear 71 localization and nuclear export signals (NLS and NES, respectively) [16].
+3	113	129 Nuclear Envelope	Gene_function	GO_0005635
+3	121	129 Envelope	Gene_function	GO_0031975
+3	142	158 nuclear envelope	Gene_function	GO_0005635
+3	150	158 envelope	Gene_function	GO_0031975
+3	180	191 ER membrane	Gene_function	GO_0005789
+3	183	191 membrane	Gene_function	GO_0016020
+3	206	228 inner nuclear membrane	Gene_function	GO_0005637
+3	212	228 nuclear membrane	Gene_function	GO_0031965
+3	220	228 membrane	Gene_function	GO_0016020
+3	252	268 nuclear membrane	Gene_function	GO_0031965
+3	260	268 membrane	Gene_function	GO_0016020
+3	342	359 perinuclear space	Gene_function	GO_0005641
+3	423	431 membrane	Gene_function	GO_0016020
+3	499	508 chromatin	Gene_function	GO_0000785
+3	568	580 cytoskeleton	Gene_function	GO_0005856
+3	672	680 membrane	Gene_function	GO_0016020
+3	804	816 nuclear pore	Gene_function	GO_0005643
+3	812	816 pore	Gene_function	GO_0046930
+3	871	880 transport	Gene_function	GO_0006810
+3	932	939 diffuse	Phenotype	HP_0020034
+3	1111	1120 transport	Gene_function	GO_0006810
+3	1221	1233 localization	Gene_function	GO_0051179
+3	1238	1252 nuclear export	Gene_function	GO_0051168
+3	GO-HP	GO_0005635	HP_0020034
+3	GO-HP	GO_0031975	HP_0020034
+3	GO-HP	GO_0005789	HP_0020034
+3	GO-HP	GO_0016020	HP_0020034
+3	GO-HP	GO_0005637	HP_0020034
+3	GO-HP	GO_0031965	HP_0020034
+3	GO-HP	GO_0005641	HP_0020034
+3	GO-HP	GO_0000785	HP_0020034
+3	GO-HP	GO_0005856	HP_0020034
+3	GO-HP	GO_0005643	HP_0020034
+3	GO-HP	GO_0046930	HP_0020034
+3	GO-HP	GO_0006810	HP_0020034
+3	HP-GO	HP_0020034	GO_0051179
+3	HP-GO	HP_0020034	GO_0051168
+
+4|chunk|72 73
+

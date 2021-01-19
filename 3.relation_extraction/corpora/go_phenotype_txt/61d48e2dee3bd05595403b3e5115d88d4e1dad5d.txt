@@ -1,0 +1,38 @@
+0|chunk|Potent Host-Directed Small-Molecule Inhibitors of Myxovirus RNA-Dependent RNA-Polymerases
+
+1|chunk|Therapeutic targeting of host cell factors required for virus replication rather than of pathogen components opens new perspectives to counteract virus infections. Anticipated advantages of this approach include a heightened barrier against the development of viral resistance and a broadened pathogen target spectrum. Myxoviruses are predominantly associated with acute disease and thus are particularly attractive for this approach since treatment time can be kept limited. To identify inhibitor candidates, we have analyzed hit compounds that emerged from a large-scale high-throughput screen for their ability to block replication of members of both the orthomyxovirus and paramyxovirus families. This has returned a compound class with broad anti-viral activity including potent inhibition of different influenza virus and paramyxovirus strains. After hit-to-lead chemistry, inhibitory concentrations are in the nanomolar range in the context of immortalized cell lines and human PBMCs. The compound shows high metabolic stability when exposed to human S-9 hepatocyte subcellular fractions. Antiviral activity is host-cell species specific and most pronounced in cells of higher mammalian origin, supporting a host-cell target. While the compound induces a temporary cell cycle arrest, host mRNA and protein biosynthesis are largely unaffected and treated cells maintain full metabolic activity. Viral replication is blocked at a post-entry step and resembles the inhibition profile of a known inhibitor of viral RNA-dependent RNA-polymerase (RdRp) activity. Direct assessment of RdRp activity in the presence of the reagent reveals strong inhibition both in the context of viral infection and in reporter-based minireplicon assays. In toto, we have identified a compound class with broad viral target range that blocks host factors required for viral RdRp activity. Viral adaptation attempts did not induce resistance after prolonged exposure, in contrast to rapid adaptation to a pathogen-directed inhibitor of RdRp activity.
+1	25	34 host cell	Gene_function	GO_0043657
+1	365	370 acute	Phenotype	HP_0011009
+1	1272	1282 cell cycle	Gene_function	GO_0007049
+1	1272	1289 cell cycle arrest	Gene_function	GO_0007050
+1	1305	1325 protein biosynthesis	Gene_function	GO_0006412
+1	1313	1325 biosynthesis	Gene_function	GO_0009058
+1	1338	1348 unaffected	Phenotype	HP_0032321
+1	1548	1552 RdRp	Gene_function	GO_0003968
+1	1585	1589 RdRp	Gene_function	GO_0003968
+1	1679	1694 viral infection	Gene_function	GO_0016032
+1	1857	1861 RdRp	Gene_function	GO_0003968
+1	1930	1939 prolonged	Phenotype	HP_0025297
+1	2018	2022 RdRp	Gene_function	GO_0003968
+1	GO-HP	GO_0043657	HP_0011009
+1	GO-HP	GO_0043657	HP_0032321
+1	GO-HP	GO_0043657	HP_0025297
+1	HP-GO	HP_0011009	GO_0007049
+1	HP-GO	HP_0011009	GO_0007050
+1	HP-GO	HP_0011009	GO_0006412
+1	HP-GO	HP_0011009	GO_0009058
+1	HP-GO	HP_0011009	GO_0003968
+1	HP-GO	HP_0011009	GO_0016032
+1	GO-HP	GO_0007049	HP_0032321
+1	GO-HP	GO_0007049	HP_0025297
+1	GO-HP	GO_0007050	HP_0032321
+1	GO-HP	GO_0007050	HP_0025297
+1	GO-HP	GO_0006412	HP_0032321
+1	GO-HP	GO_0006412	HP_0025297
+1	GO-HP	GO_0009058	HP_0032321
+1	GO-HP	GO_0009058	HP_0025297
+1	HP-GO	HP_0032321	GO_0003968
+1	HP-GO	HP_0032321	GO_0016032
+1	GO-HP	GO_0003968	HP_0025297
+1	GO-HP	GO_0016032	HP_0025297
+

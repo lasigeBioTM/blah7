@@ -1,0 +1,35 @@
+0|chunk|Association of low serum TGF- level in hantavirus infected patients with severe disease
+0	74	80 severe	Phenotype	HP_0012828
+
+1|chunk|Background: Hantaviruses are emerging zoonotic pathogens which cause hemorrhagic fever with renal syndrome, an immune-mediated pathogenesis is discussed. The aim of the present study was to investigate the role of TGF- expression in acute hantavirus infection. Results: We retrospectively studied 77 patients hospitalised with acute Puumala infection during a hantavirus epidemic in Germany in 2012. Hantavirus infection was confirmed by positive anti-Puumala hantavirus IgG and IgM. Plasma levels of transforming growth factor (TGF)-1 and TGF-2 were analysed. Based on glomerular filtration rate on admission, patients were divided in mild and severe course of disease. Puumala virus RNA was detected by PCR amplification of the viral L segment gene. Out of 77 Puumala virus infected patients, 52 (68%) were male. A seasonal distribution was detected in our cohort with a peak in summer 2012, the highest incidence was observed in the age group of 30-39 years. Puumala virus RNA was detectable in 4/77 cases. Patients with severe disease had a significant longer hospital stay than patients with mild disease (6.2 vs 3.6 days). Thrombocyte count (186 vs 225 per nl), serum TGF-1 (74 vs 118 ng/l) and TGF-2 (479 vs 586 pg/l) were significantly lower in severe compared to mild disease. However, C-reactive protein (CRP) was significantly higher in patients with severe disease (62 vs 40 mg/l). TGF-1/Cr was the most sensitive and specific marker associated with renal dysfunction.
+1	81	86 fever	Phenotype	HP_0001945
+1	127	139 pathogenesis	Gene_function	GO_0009405
+1	234	239 acute	Phenotype	HP_0011009
+1	328	333 acute	Phenotype	HP_0011009
+1	515	521 growth	Gene_function	GO_0040007
+1	573	594 glomerular filtration	Gene_function	GO_0003094
+1	639	643 mild	Phenotype	HP_0012825
+1	648	654 severe	Phenotype	HP_0012828
+1	1027	1033 severe	Phenotype	HP_0012828
+1	1100	1104 mild	Phenotype	HP_0012825
+1	1258	1264 severe	Phenotype	HP_0012828
+1	1277	1281 mild	Phenotype	HP_0012825
+1	1367	1373 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0001945	GO_0040007
+1	HP-GO	HP_0001945	GO_0003094
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-HP	GO_0009405	HP_0012825
+1	GO-HP	GO_0009405	HP_0012828
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0003094
+1	GO-HP	GO_0040007	HP_0012825
+1	GO-HP	GO_0040007	HP_0012828
+1	GO-HP	GO_0003094	HP_0012825
+1	GO-HP	GO_0003094	HP_0012828
+
+2|chunk|Conclusion: High serum CRP and low serum TGF- in the early phase of hantavirus infection is associated with a severe course of disease. Our results support the hypothesis of an immune-mediated pathogenesis in hantavirus infection.
+2	111	117 severe	Phenotype	HP_0012828
+2	194	206 pathogenesis	Gene_function	GO_0009405
+2	HP-GO	HP_0012828	GO_0009405
+

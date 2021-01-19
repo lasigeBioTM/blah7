@@ -1,0 +1,33 @@
+0|chunk|Using mutagenesis to explore conserved residues in the RNA- binding groove of influenza A virus nucleoprotein for antiviral drug development OPEN
+0	60	67 binding	Gene_function	GO_0005488
+
+1|chunk|influenza NP is a valid target for antiviral drug development. The surface of the groove, covered with numerous conserved residues between the head and body domains of influenza A NP, plays a crucial role in RNA binding. To explore the mechanism by which NP binds RNA, we performed a series of sitedirected mutagenesis in the RNA-binding groove, followed by surface plasmon resonance (SPR), to characterize the interactions between RNA and NP. Furthermore, a role of Y148 in NP stability and NP-RNA binding was evaluated. The aromatic residue of Y148 was found to stack with a nucleotide base. By interrupting the stacking interaction between Y148 and an RNA base, we identified an influenza virus NP inhibitor, (E, E)-1,7-bis(4-hydroxy-3-methoxyphenyl) -1,6-heptadiene-3,5-dione; this inhibitor reduced the NP's RNA-binding affinity and hindered viral replication. Our findings will be useful for the development of new drugs that disrupt the interaction between RNA and viral NP in the influenza virus.
+1	212	219 binding	Gene_function	GO_0005488
+1	499	506 binding	Gene_function	GO_0005488
+
+2|chunk|Influenza is an infectious disease of birds and mammals caused by the influenza viruses belonging to the family Orthomyxoviridae 1 . The sudden swine-origin influenza virus H1N1v pandemic outbreak in 2009 caused 18,000 deaths 1,2 . The viral surface proteins hemagglutinin and neuraminidase have played important roles in antiviral drug discoveries and provide crucial neutralization against the virus 3 . Tamiflu (oseltamivir), which is a neuraminidase inhibitor, is used to treat flu infection 4-7 . However, several H1N1 influenza strains are resistant to Tamiflu because they contain the H274Y mutation in neuraminidase. Thus, new anti-influenza drugs are urgently needed.
+
+3|chunk|Influenza A virus nucleoprotein (NP) is a major virion structural protein that has been predicted to interact with negative-strand viral RNA during viral nucleocapsid formation 8 . NP encapsulates the viral genome for RNA transcription, replication, virus packaging, and intracellular trafficking, and it also functions as a key adapter molecule between viral and host cell processes 9 . NP has been shown to cooperatively interact with RNA. In addition, NP interacts with a wide variety of viral and cellular macromolecules, including two subunits of the viral RNA-dependent RNA polymerase, viral matrix, actin, components of the nuclear import/export apparatus, and a nuclear RNA helicase 10 . According to protein sequence alignment, the 498-aa NP is highly conserved among influenza viruses. The multifunctional capabilities of NP in the viral life cycle makes this protein an attractive target for drug development 11,12 .
+3	48	54 virion	Gene_function	GO_0019012
+3	148	166 viral nucleocapsid	Gene_function	GO_0019013
+3	154	166 nucleocapsid	Gene_function	GO_0019013
+3	271	284 intracellular	Gene_function	GO_0005622
+3	364	373 host cell	Gene_function	GO_0043657
+3	842	858 viral life cycle	Gene_function	GO_0019058
+
+4|chunk|A substantial quantity of RNA is wrapped around each NP monomer, with a stoichiometric ratio of 20 nucleotides of RNA per 1 NP 13 . The NP crystal structure reveals that RNA molecules likely bind to a deep groove located between the head and body domains on the exterior of the NP oligomer 14, 15 . Several residues that are critical for RNA binding and virus infectivity in the influenza A virus NP have been identified 16, 17 . Ye et al. have been reported that the tail loop binding pocket as a potential target for antiviral development 14 . Le et al. reported that several NP mutations that affected the efficient incorporation of multiple viral-RNA (vRNA) segments into progeny virions even though a single vRNA segment was incorporated efficiently 16 . However, understanding structural and mechanistic information regarding influenza A virus NP and its interactions with RNA should facilitate the discovery of agents that specifically block the formation of ribonucleoprotein (RNP) during viral genome replication.
+4	338	349 RNA binding	Gene_function	GO_0003723
+4	342	349 binding	Gene_function	GO_0005488
+4	478	485 binding	Gene_function	GO_0005488
+4	596	604 affected	Phenotype	HP_0032320
+4	985	988 RNP	Gene_function	GO_1990904
+4	997	1021 viral genome replication	Gene_function	GO_0019079
+4	GO-HP	GO_0003723	HP_0032320
+4	GO-HP	GO_0005488	HP_0032320
+4	HP-GO	HP_0032320	GO_1990904
+4	HP-GO	HP_0032320	GO_0019079
+
+5|chunk|Accordingly, we proposed that the surface of the groove, which contains numerous conserved residues (including Y148, R150, R152, R156, R174, R175, K184, R195, R199, R213, R214, R221, R236) is able to interact with the RNA residue (Fig. 1) . In this study, we performed a series of site-directed mutagenesis to explore the mechanism by which the NP binds RNA, followed by surface plasmon resonance (SPR) to monitor the binding between various mutants and RNA. Furthermore, a role of Y148 in the protein stability of NP and the binding of NP to RNA was evaluated. An aromatic residue, Y148 was also found to stack its benzene ring with a nucleotide base. By targeting Y148, we identified an influenza virus NP inhibitor, H7 [(E,E) -1,7-bis(4-hydroxy-3-me thoxyphenyl)-1,6-heptadiene-3,5-dione], which reduced the NP's RNA-binding affinity and hindered viral replication. Finally, we present a structural model of the influenza NP in complex with RNA, which clearly illustrates the critical role of Y148.
+5	418	425 binding	Gene_function	GO_0005488
+5	526	533 binding	Gene_function	GO_0005488
+

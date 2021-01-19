@@ -1,0 +1,65 @@
+{
+    "text": "This study examines the health situation in Brazil's Federal District between 2005 and 2017. A related set of indicators were selected and compared to those for Brazil's Midwest (\"Centro-Oeste\") region and for the country as a whole. First, data are presented on the demographic profile and current organizational structure of the health regions and administrative areas of the Federal District. The results show that infant mortality declined from 18.3% in 2006 to 10.3% (one of the lowest in rates in Brazil) in 2016. AIDS incidence in the Federal District declined 21.3% between 2006 and 2016, a positive result when compared to data for the Midwest region and Brazil. Tuberculosis incidence and mortality rates were among the lowest in Brazil between 2006 and 2016, well below the national average, as were those for Hansen's disease, where both annual incidence and incidence of grade 2 disability decreased significantly between 2007 and 2017. Congenital syphilis in under 1 year-olds has increased in recent years in Brazil and the Midwest, and also in the Federal District, where the rate was 2.56 per 1,000 live births in 2006 and 4.7 per 1,000 live births in in 2016. These data enable managers to identify trends and challenges to be met, and inform decision-making in response to health realities in the Federal District.",
+    "denotations": [
+        {
+            "id": "DOID_635",
+            "span": {
+                "begin": 520,
+                "end": 524
+            },
+            "obj": "AIDS"
+        },
+        {
+            "id": "DOID_399",
+            "span": {
+                "begin": 672,
+                "end": 684
+            },
+            "obj": "Tuberculosis"
+        },
+        {
+            "id": "DOID_9856",
+            "span": {
+                "begin": 950,
+                "end": 969
+            },
+            "obj": "Congenital syphilis"
+        },
+        {
+            "id": "DOID_4166",
+            "span": {
+                "begin": 961,
+                "end": 969
+            },
+            "obj": "syphilis"
+        },
+        {
+            "id": "CHEBI_16044",
+            "span": {
+                "begin": 1245,
+                "end": 1249
+            },
+            "obj": "met,"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_635",
+            "pred": "no_relation",
+            "obj": "CHEBI_16044"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_399",
+            "pred": "no_relation",
+            "obj": "CHEBI_16044"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_9856",
+            "pred": "no_relation",
+            "obj": "CHEBI_16044"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+0|chunk|Inferring pandemic growth rates from sequence data
+
+1|chunk|Using sequence data to infer population dynamics is playing an increasing role in the analysis of outbreaks. The most common methods in use, based on coalescent inference, have been widely used but not extensively tested against simulated epidemics. Here, we use simulated data to test the ability of both parametric and non-parametric methods for inference of effective population size (coded in the popular BEAST package) to reconstruct epidemic dynamics. We consider a range of simulations centred on scenarios considered plausible for pandemic influenza, but our conclusions are generic for any exponentially growing epidemic. We highlight systematic biases in non-parametric effective population size estimation. The most prominent such bias leads to the false inference of slowing of epidemic spread in the recent past even when the real epidemic is growing exponentially. We suggest some sampling strategies that could reduce (but not eliminate) some of the biases. Parametric methods can correct for these biases if the infected population size is large. We also explore how some poor sampling strategies (e.g. that over-represent epidemiologically linked clusters of cases) could dramatically exacerbate bias in an uncontrolled manner. Finally, we present a simple diagnostic indicator, based on coalescent density and which can easily be applied to reconstructed phylogenies, that identifies time-periods for which effective population size estimates are less likely to be biased. We illustrate this with an application to the 2009 H1N1 pandemic.
+1	74	78 role	Chemical	CHEBI_50906
+1	1164	1172 clusters	Chemical	CHEBI_33731
+
+2|chunk|Pandemic growth rates from sequences E. de Silva et al. 1799
+
+3|chunk|Pandemic growth rates from sequences E. de Silva et al. 1807 
+

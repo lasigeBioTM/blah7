@@ -1,0 +1,15 @@
+0|chunk|Gaining Insights into the Codon Usage Patterns of TP53 Gene across Eight Mammalian Species
+
+1|chunk|TP53 gene is known as the "guardian of the genome" as it plays a vital role in regulating cell cycle, cell proliferation, DNA damage repair, initiation of programmed cell death and suppressing tumor growth. Non uniform usage of synonymous codons for a specific amino acid during translation of protein known as codon usage bias (CUB) is a unique property of the genome and shows species specific deviation. Analysis of codon usage bias with compositional dynamics of coding sequences has contributed to the better understanding of the molecular mechanism and the evolution of a particular gene. In this study, the complete nucleotide coding sequences of TP53 gene from eight different mammalian species were used for CUB analysis. Our results showed that the codon usage patterns in TP53 gene across different mammalian species has been influenced by GC bias particularly GC 3 and a moderate bias exists in the codon usage of TP53 gene. Moreover, we observed that nature has highly favored the most over represented codon CTG for leucine amino acid but selected against the ATA codon for isoleucine in TP53 gene across all mammalian species during the course of evolution.
+1	155	176 programmed cell death	Gene_function	GO_0012501
+1	166	176 cell death	Gene_function	GO_0008219
+1	193	198 tumor	Phenotype	HP_0002664
+1	279	290 translation	Gene_function	GO_0006412
+1	883	891 moderate	Phenotype	HP_0012826
+1	GO-HP	GO_0012501	HP_0002664
+1	GO-HP	GO_0012501	HP_0012826
+1	GO-HP	GO_0008219	HP_0002664
+1	GO-HP	GO_0008219	HP_0012826
+1	HP-GO	HP_0002664	GO_0006412
+1	GO-HP	GO_0006412	HP_0012826
+

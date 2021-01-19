@@ -1,0 +1,63 @@
+0|chunk|molecules Human Lectins and Their Roles in Viral Infections
+0	0	9 molecules	Chemical	CHEBI_25367
+
+1|chunk|Innate recognition of virus proteins is an important component of the immune response to viral pathogens. A component of this immune recognition is the family of lectins; pattern recognition receptors (PRRs) that recognise viral pathogen-associated molecular patterns (PAMPs) including viral glycoproteins. In this review we discuss the contribution of soluble and membrane-associated PRRs to immunity against virus pathogens, and the potential role of these molecules in facilitating virus replication. These processes are illustrated with examples of viruses including human immunodeficiency virus (HIV), hepatitis C virus (HCV) and Ebola virus (EBOV). We focus on the structure, function and genetics of the well-characterised C-type lectin mannose-binding lectin, the ficolins, and the membrane-bound CD209 proteins expressed on dendritic cells. The potential for lectin-based antiviral therapies is also discussed. 2230 the primitive immune system depended on lectin-protease-mediated opsonophagocytosis [2] . Lectins differ in tissue expression, ligand affinities, structure and function, and are classified by the phylogeny and primary and tertiary amino acid structures of their carbohydrate-recognition domains (CRD). However there are several inconsistencies in this classification system (reviewed in [3] ).
+1	28	36 proteins	Chemical	CHEBI_36080
+1	445	449 role	Chemical	CHEBI_50906
+1	459	468 molecules	Chemical	CHEBI_25367
+1	607	616 hepatitis	Disease	DOID_2237
+1	607	618 hepatitis C	Disease	DOID_1883
+1	811	819 proteins	Chemical	CHEBI_36080
+1	881	890 antiviral	Chemical	CHEBI_22587
+1	1052	1058 ligand	Chemical	CHEBI_52214
+1	1156	1161 amino	Chemical	CHEBI_46882
+1	1156	1166 amino acid	Chemical	CHEBI_33704
+1	1162	1166 acid	Chemical	CHEBI_37527
+1	CHEBI-DOID	CHEBI_36080	DOID_2237
+1	CHEBI-DOID	CHEBI_36080	DOID_1883
+1	CHEBI-DOID	CHEBI_50906	DOID_2237
+1	CHEBI-DOID	CHEBI_50906	DOID_1883
+1	CHEBI-DOID	CHEBI_25367	DOID_2237
+1	CHEBI-DOID	CHEBI_25367	DOID_1883
+1	DOID-CHEBI	DOID_2237	CHEBI_22587
+1	DOID-CHEBI	DOID_2237	CHEBI_52214
+1	DOID-CHEBI	DOID_2237	CHEBI_46882
+1	DOID-CHEBI	DOID_2237	CHEBI_33704
+1	DOID-CHEBI	DOID_2237	CHEBI_37527
+1	DOID-CHEBI	DOID_1883	CHEBI_22587
+1	DOID-CHEBI	DOID_1883	CHEBI_52214
+1	DOID-CHEBI	DOID_1883	CHEBI_46882
+1	DOID-CHEBI	DOID_1883	CHEBI_33704
+1	DOID-CHEBI	DOID_1883	CHEBI_37527
+
+2|chunk|Glycosylation is a form of post-translational modification in which glycans-monosaccharides or oligosaccharides-are glycosidically bonded to an organic molecule (reviewed in [4] ). This modification plays an essential role in the expression and function of many proteins in eukaryotes and prokaryote cells, with roles in, for example, inter-compound interaction and pathogenic immune evasion. Eukaryotic and viral glycosylation occurs in the host cell endoplasmic reticulum (ER) and Golgi apparatus. Lectin-glycan interactions are generally achieved by hydrogen bonding and Van der Waals forces, and often depend on cations and multivalent interactions between multiple CRDs and multiple, clustered target glycans in order to achieve sufficient affinities for lectin activity [3] .
+2	144	160 organic molecule	Chemical	CHEBI_72695
+2	152	160 molecule	Chemical	CHEBI_25367
+2	218	222 role	Chemical	CHEBI_50906
+2	262	270 proteins	Chemical	CHEBI_36080
+2	553	561 hydrogen	Chemical	CHEBI_18276
+2	553	561 hydrogen	Chemical	CHEBI_49637
+2	616	623 cations	Chemical	CHEBI_36916
+2	706	713 glycans	Chemical	CHEBI_18154
+
+3|chunk|The roles of human lectins include protein modulation, cell growth and homeostasis [4] . As glycoproteins are found on the surfaces of several pathogens to a diverse and widespread degree, some lectins act as pattern-recognition receptors (PRRs), recognising pathogen-associated molecular patterns (PAMPs)-including glycans and nucleic acid-related to invading microorganisms and malignant, apoptotic or dead host cells. This can lead to the induction of an immune response against the invading pathogen. However, the relationship between lectins and viruses is complex. In addition to immune evasion, glycosylation is essential for protein expression, assembly and entry steps in virus replication cycles [5] , and many viruses have evolved mechanisms to exploit lectins to enhance infection.
+3	35	42 protein	Chemical	CHEBI_16541
+3	92	105 glycoproteins	Chemical	CHEBI_17089
+3	316	323 glycans	Chemical	CHEBI_18154
+3	633	640 protein	Chemical	CHEBI_16541
+
+4|chunk|This review focuses on human lectins and their roles during viral infections, concentrating on the well-described lectins mannose-binding lectin (MBL), ficolins and dendritic cell-specific ICAM-3 grabbing non-integrin (DC-SIGN). It highlights the different effects of lectins on viral infections and the consequences of genetic variation in lectin genes on susceptibility to virus infections.
+
+5|chunk|Complement contributes towards the initial defence against viral infections through a sequential protein activation cascade (reviewed in [6] ). There are three known complement activation pathways. Each pathway converges at the formation of C3 convertase, which activates downstream complement factors to constitute the membrane attack complex (MAC). The MAC subsequently forms pores in the lipid membranes of pathogens and infected cells, causing osmotic lysis. Parallel to the cascade, some complement cleavage products mediate inflammation and opsonise pathogens, attracting phagocytes, encouraging antigen aggregation and preventing viral entry. To avoid potentially damaging, excessive complement activity, stringent regulation mechanisms have evolved, including complement factor cleavage and endocytotic shedding of MACs.
+5	97	104 protein	Chemical	CHEBI_16541
+5	203	210 pathway	Chemical	CHEBI_34922
+5	391	396 lipid	Chemical	CHEBI_18059
+5	602	609 antigen	Chemical	CHEBI_59132
+
+6|chunk|The alternate and classical complement pathways are triggered by foreign surface molecules and antigen:antibody complexes, respectively. The lectin pathway involves the binding of microbial surface carbohydrate moieties to serum lectins, which activates lectin-bound MBL-associated serine proteases (MASPs) and proteins (MAPs) (Figure 1 ).
+6	81	90 molecules	Chemical	CHEBI_25367
+6	148	155 pathway	Chemical	CHEBI_34922
+6	198	210 carbohydrate	Chemical	CHEBI_16646
+6	282	288 serine	Chemical	CHEBI_17115
+6	311	319 proteins	Chemical	CHEBI_36080
+

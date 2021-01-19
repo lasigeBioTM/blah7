@@ -1,0 +1,52 @@
+0|chunk|Establishment and optimization of a liquid bead array for the simultaneous detection of ten insect-borne pathogens
+
+1|chunk|Background: Insect-borne diseases could induce severe symptoms in human and clinical signs in animals, such as febrility, erythra, arthralgia and hemorrhagic fever, and cause significant economic losses and pose public health threat all over the world. The significant advantages of Luminex xMAP technology are high-throughput, high parallel and automation. This study aimed to establish a liquid bead array based on Luminex xMAP technology that was able to simultaneously detect multiple insect-borne pathogens. Methods: Specific probes and primers to detect the nucleic acid of 10 insect-borne pathogens were designed. Probes were coupled with fluorescent carboxylated microspheres. The parameters of the system were optimized, including ratio of forward/reverse primers (1:2), hybridization temperature (50C) and duration (30 min) and quantity of PCR product (2 l). The sensitivity and specificity of the system were also evaluated. Moreover mixed nucleic acid of 10 insect-borne pathogens, including Bluetongue virus, Epizootic hemorrhagic disease virus of deer, Coxiella burnetii, African swine fever virus, West Nile fever virus, Borrelia burgdorferi, vesicular stomatitis virus, Rift Valley fever virus, Ebola virus and Schmalenberg's disease virus, and 3000 clinical samples were tested for practicability.
+1	564	576 nucleic acid	Chemical	CHEBI_33696
+1	572	576 acid	Chemical	CHEBI_37527
+1	953	965 nucleic acid	Chemical	CHEBI_33696
+1	961	965 acid	Chemical	CHEBI_37527
+1	1034	1053 hemorrhagic disease	Disease	DOID_2213
+1	1046	1053 disease	Disease	DOID_4
+1	1115	1130 West Nile fever	Disease	DOID_2366
+1	1170	1180 stomatitis	Disease	DOID_9637
+1	1188	1205 Rift Valley fever	Disease	DOID_1328
+1	1244	1251 disease	Disease	DOID_4
+1	CHEBI-DOID	CHEBI_33696	DOID_2213
+1	CHEBI-DOID	CHEBI_33696	DOID_4
+1	CHEBI-DOID	CHEBI_33696	DOID_2366
+1	CHEBI-DOID	CHEBI_33696	DOID_9637
+1	CHEBI-DOID	CHEBI_33696	DOID_1328
+1	CHEBI-DOID	CHEBI_37527	DOID_2213
+1	CHEBI-DOID	CHEBI_37527	DOID_4
+1	CHEBI-DOID	CHEBI_37527	DOID_2366
+1	CHEBI-DOID	CHEBI_37527	DOID_9637
+1	CHEBI-DOID	CHEBI_37527	DOID_1328
+
+2|chunk|Results: The optimized detection system showed high sensitivity, specificity and reproducibility. Each probe showed specific fluorescence signal intensity without any cross-hybridization for the other insect-borne pathogens tested, which included dengue virus, tick-borne encephalitis virus, Japanese encephalitis virus, Xinjiang hemorrhagic fever virus, spotted fever group rickettsiae, ehrlichiae and chikungunya virus. The limit of detection was 10 copies of target gene. Insect-borne pathogens were successfully detected among the 3000 clinical samples, and the results were consistent with those obtained using gold-standard assays or commercial nucleic acid detection kits.
+2	103	108 probe	Chemical	CHEBI_50406
+2	261	284 tick-borne encephalitis	Disease	DOID_0050175
+2	272	284 encephalitis	Disease	DOID_9588
+2	292	313 Japanese encephalitis	Disease	DOID_10844
+2	301	313 encephalitis	Disease	DOID_9588
+2	355	368 spotted fever	Disease	DOID_11104
+2	403	414 chikungunya	Disease	DOID_0050012
+2	651	663 nucleic acid	Chemical	CHEBI_33696
+2	659	663 acid	Chemical	CHEBI_37527
+2	CHEBI-DOID	CHEBI_50406	DOID_0050175
+2	CHEBI-DOID	CHEBI_50406	DOID_9588
+2	CHEBI-DOID	CHEBI_50406	DOID_10844
+2	CHEBI-DOID	CHEBI_50406	DOID_11104
+2	CHEBI-DOID	CHEBI_50406	DOID_0050012
+2	DOID-CHEBI	DOID_0050175	CHEBI_33696
+2	DOID-CHEBI	DOID_0050175	CHEBI_37527
+2	DOID-CHEBI	DOID_9588	CHEBI_33696
+2	DOID-CHEBI	DOID_9588	CHEBI_37527
+2	DOID-CHEBI	DOID_10844	CHEBI_33696
+2	DOID-CHEBI	DOID_10844	CHEBI_37527
+2	DOID-CHEBI	DOID_11104	CHEBI_33696
+2	DOID-CHEBI	DOID_11104	CHEBI_37527
+2	DOID-CHEBI	DOID_0050012	CHEBI_33696
+2	DOID-CHEBI	DOID_0050012	CHEBI_37527
+
+3|chunk|Conclusions: This optimized liquid array detection system was high-throughput and highly specific and sensitive in screening of the insect-borne pathogens. It was promising in detection of these pathogens for molecular epidemiological studies.
+

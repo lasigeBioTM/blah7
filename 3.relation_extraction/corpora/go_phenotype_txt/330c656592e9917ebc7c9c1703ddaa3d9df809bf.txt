@@ -1,0 +1,19 @@
+0|chunk|Virology Journal Proteomics computational analyses suggest that baculovirus GP64 superfamily proteins are class III penetrenes
+
+1|chunk|Background: Members of the Baculoviridae encode two types of proteins that mediate virus:cell membrane fusion and penetration into the host cell. Alignments of primary amino acid sequences indicate that baculovirus fusion proteins of group I nucleopolyhedroviruses (NPV) form the GP64 superfamily. The structure of these viral penetrenes has not been determined. The GP64 superfamily includes the glycoprotein (GP) encoded by members of the Thogotovirus genus of the Orthomyxoviridae. The entry proteins of other baculoviruses, group II NPV and granuloviruses, are class I penetrenes.
+1	94	102 membrane	Gene_function	GO_0016020
+1	94	109 membrane fusion	Gene_function	GO_0061025
+
+2|chunk|Results: Class III penetrenes encoded by members of the Rhabdoviridae and Herpesviridae have an internal fusion domain comprised of beta sheets, other beta sheet domains, an extended alpha helical domain, a membrane proximal stem domain and a carboxyl terminal anchor. Similar sequences and structural/functional motifs that characterize class III penetrenes are located collinearly in GP64 of group I baculoviruses and related glycoproteins encoded by thogotoviruses. Structural models based on a prototypic class III penetrene, vesicular stomatitis virus glycoprotein (VSV G), were established for Thogoto virus (THOV) GP and Autographa california multiple NPV (AcMNPV) GP64 demonstrating feasible cysteine linkages. Glycosylation sites in THOV GP and AcMNPV GP64 appear in similar model locations to the two glycosylation sites of VSV G.
+2	207	215 membrane	Gene_function	GO_0016020
+2	216	224 proximal	Phenotype	HP_0012840
+2	540	550 stomatitis	Phenotype	HP_0010280
+2	719	732 Glycosylation	Gene_function	GO_0070085
+2	811	824 glycosylation	Gene_function	GO_0070085
+2	GO-HP	GO_0016020	HP_0012840
+2	GO-HP	GO_0016020	HP_0010280
+2	HP-GO	HP_0012840	GO_0070085
+2	HP-GO	HP_0010280	GO_0070085
+
+3|chunk|These results suggest that proteins in the GP64 superfamily are class III penetrenes.
+

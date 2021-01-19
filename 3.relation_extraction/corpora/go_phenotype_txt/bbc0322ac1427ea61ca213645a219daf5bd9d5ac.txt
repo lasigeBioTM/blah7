@@ -1,0 +1,19 @@
+0|chunk|Spatial pattern of severe acute respiratory syndrome in-out flow in 2003 in Mainland China
+0	0	15 Spatial pattern	Phenotype	HP_0012836
+0	19	25 severe	Phenotype	HP_0012828
+0	26	31 acute	Phenotype	HP_0011009
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS) spread to 32 countries and regions within a few months in 2003. There were 5327 SARS cases from November 2002 to May 2003 in Mainland China, which involved 29 provinces, resulted in 349 deaths, and directly caused economic losses of $18.3 billion.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 acute	Phenotype	HP_0011009
+
+2|chunk|Methods: This study used an in-out flow model and flow mapping to visualize and explore the spatial pattern of SARS transmission in different regions. In-out flow is measured by the in-out degree and clustering coefficient of SARS. Flow mapping is an exploratory method of spatial visualization for interaction data.
+2	92	107 spatial pattern	Phenotype	HP_0012836
+
+3|chunk|Results: The findings were as follows.
+
+4|chunk|(1) SARS in-out flow had a clear hierarchy. It formed two main centers, Guangdong in South China and Beijing in North China, and two secondary centers, Shanxi and Inner Mongolia, both connected to Beijing. (2) "Spring Festival travel" strengthened external flow, but "SARS panic effect" played a more significant role and pushed the external flow to the peak. (3) External flow and its three typical kinds showed obvious spatial heterogeneity, such as self-spreading flow (spatial displacement of SARS cases only within the province or municipality of onset and medical locations); hospitalized flow (spatial displacement of SARS cases that had been seen by a hospital doctor); and migrant flow (spatial displacement of SARS cases among migrant workers). (4) Internal and external flow tended to occur in younger groups, and occupational differentiation was particularly evident. Low-income groups of male migrants aged 19-35 years were the main routes of external flow. Conclusions: During 2002, SARS in-out flow played an important role in countrywide transmission of the disease in Mainland China. The flow had obvious spatial heterogeneity, which was influenced by migrants' behavior characteristics. In addition, the Chinese holiday effect led to irregular spread of SARS, but the panic effect was more apparent in the middle and late stages of the epidemic. These findings constitute valuable input to prevent and control future serious infectious diseases like SARS.
+4	552	557 onset	Phenotype	HP_0003674
+4	1179	1187 behavior	Gene_function	GO_0007610
+4	HP-GO	HP_0003674	GO_0007610
+

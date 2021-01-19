@@ -1,0 +1,864 @@
+<?xml version="1.0" ?>
+<document id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f">
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c0" text="cells A Comprehensive Review of Autophagy and Its Various Roles in Infectious, Non-Infectious, and Lifestyle Diseases: Current Knowledge and Prospects for Disease Prevention, Novel Drug Design, and Therapy">
+    <entity charOffset="32-41" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c0.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1" text="Autophagy (self-eating) is a conserved cellular degradation process that plays important roles in maintaining homeostasis and preventing nutritional, metabolic, and infection-mediated stresses. Autophagy dysfunction can have various pathological consequences, including tumor progression, pathogen hyper-virulence, and neurodegeneration. This review describes the mechanisms of autophagy and its associations with other cell death mechanisms, including apoptosis, necrosis, necroptosis, and autosis. Autophagy has both positive and negative roles in infection, cancer, neural development, metabolism, cardiovascular health, immunity, and iron homeostasis. Genetic defects in autophagy can have pathological consequences, such as static childhood encephalopathy with neurodegeneration in adulthood, Crohn's disease, hereditary spastic paraparesis, Danon disease, X-linked myopathy with excessive autophagy, and sporadic inclusion body myositis. Further studies on the process of autophagy in different microbial infections could help to design and develop novel therapeutic strategies against important pathogenic microbes. This review on the progress and prospects of autophagy research describes various activators and suppressors, which could be used to design novel intervention strategies against numerous diseases and develop therapeutic drugs to protect human and animal health.">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="39-59" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" ontology_id="GO_0044248" text="cellular degradation" type="gene_function"/>
+    <entity charOffset="48-59" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="110-121" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" ontology_id="GO_0042592" text="homeostasis" type="gene_function"/>
+    <entity charOffset="194-203" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="270-275" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="319-336" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" ontology_id="HP_0002180" text="neurodegeneration" type="phenotype"/>
+    <entity charOffset="378-387" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="420-430" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="500-509" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="643-654" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" ontology_id="GO_0042592" text="homeostasis" type="gene_function"/>
+    <entity charOffset="675-684" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="746-760" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" ontology_id="HP_0001298" text="encephalopathy" type="phenotype"/>
+    <entity charOffset="766-783" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" ontology_id="HP_0002180" text="neurodegeneration" type="phenotype"/>
+    <entity charOffset="862-870" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" ontology_id="HP_0001417" text="X-linked" type="phenotype"/>
+    <entity charOffset="871-879" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" ontology_id="HP_0003198" text="myopathy" type="phenotype"/>
+    <entity charOffset="895-904" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="910-918" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" ontology_id="HP_0003745" text="sporadic" type="phenotype"/>
+    <entity charOffset="919-933" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" ontology_id="GO_0016234" text="inclusion body" type="gene_function"/>
+    <entity charOffset="978-987" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1168-1177" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p13" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p14" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p15" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p16" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p17" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p18" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p19" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p20" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p21" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p22" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p23" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p24" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p25" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p26" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p27" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p28" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p29" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p30" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p31" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p32" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p33" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p34" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p35" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p36" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p37" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p38" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p39" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p40" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p41" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p42" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p43" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p44" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p45" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p46" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p47" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p48" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p49" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p50" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p51" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p52" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p53" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p54" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p55" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p56" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p57" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p58" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p59" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p60" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p61" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p62" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p63" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p64" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p65" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p66" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p67" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p68" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p69" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p70" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p71" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p72" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p73" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p74" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p75" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p76" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p77" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p78" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p79" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p80" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p81" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p82" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p83" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p84" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p85" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p86" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p87" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p88" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p89" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p90" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p91" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p92" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p93" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p94" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p95" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p96" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c1.p97" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2" text="Autophagy is a conserved catabolic process that is involved in cellular homeostasis and is required to maintain normal cellular physiology under stressful conditions [1] . It overcomes carcinogenic, infectious, degenerative, and deleterious agents to maintain the homeostasis of bodily systems and regulate healthy life processes; thus, its dysregulation is known to cause multiple human diseases [2] [3] [4] [5] . Autophagy can be a selective or non-selective lysosomal degradative process and is activated by stresses such as starvation or rapamycin via regulatory signaling complexes [6, 7] . There are three types of autophagy: macroautophagy, microautophagy, and chaperone-mediated autophagy (CMA) [8] . Macroautophagy, referred to as &quot;autophagy&quot; from now on, is the major pathway which engulfs large portions of cytoplasm and cellular contents (e.g., long-lived proteins, aggregated proteins, damaged organelles, and intracellular pathogens) into a double-membraned vacuole called the autophagosome, which fuses with lysosomes to form an autolysosome, degrades the autolysosomal contents, and recycles macromolecules for reuse [9] [10] [11] .">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="25-42" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e1" ontology_id="GO_0009056" text="catabolic process" type="gene_function"/>
+    <entity charOffset="63-83" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e2" ontology_id="GO_0019725" text="cellular homeostasis" type="gene_function"/>
+    <entity charOffset="72-83" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e3" ontology_id="GO_0042592" text="homeostasis" type="gene_function"/>
+    <entity charOffset="264-275" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e4" ontology_id="GO_0042592" text="homeostasis" type="gene_function"/>
+    <entity charOffset="307-314" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" ontology_id="HP_0032322" text="healthy" type="phenotype"/>
+    <entity charOffset="415-424" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e6" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="567-576" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e7" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="621-630" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e8" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="668-696" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e9" ontology_id="GO_0061684" text="chaperone-mediated autophagy" type="gene_function"/>
+    <entity charOffset="687-696" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e10" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="741-750" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e11" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="818-827" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e12" ontology_id="GO_0005737" text="cytoplasm" type="gene_function"/>
+    <entity charOffset="923-936" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e13" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="972-979" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e14" ontology_id="GO_0005773" text="vacuole" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c2.p13" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3" text="Microautophagy refers to the process by which lysosomes directly engulf and digest small volumes of cytosolic substrate [12, 13] , whilst CMA is induced by physiological stresses such as prolonged starvation [14] and involves the heat shock cognate protein (HSC70; 71-kDa, also known as HSPA8) which contains a KFERQ-like pentapeptide sequence [15] . The CMA pathway delivers target proteins across lysosomal membranes into the lysosomal lumen by interacting with lysosome-associated membrane protein type 2A (LAMP-2A) [9] . Hence, CMA differs from microautophagy and macroautophagy, as it does not require vesicular trafficking [14] . Regardless of the type, autophagy acts as a cleaning mechanism by removing or degrading unnecessary materials from the body (e.g., proteins, organelles, and microbes) and retaining or maintaining materials (biochemicals, metabolites, and organelles) required for survival, function, and development [1, 6, 16, 17] . The physiological processes of autophagy are governed by numerous cellular regulators (e.g., transcription factors and genes), which can affect homeostatic processing if disturbed by genetic or functional reasons, or overexertion [4, 6, 17] . Hence, autophagy defects can affect the pathogenesis of many diseases [17] .">
+    <entity charOffset="187-196" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" ontology_id="HP_0025297" text="prolonged" type="phenotype"/>
+    <entity charOffset="235-240" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" ontology_id="HP_0031273" text="shock" type="phenotype"/>
+    <entity charOffset="428-443" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e2" ontology_id="GO_0043202" text="lysosomal lumen" type="gene_function"/>
+    <entity charOffset="484-492" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e3" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <entity charOffset="660-669" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e4" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="983-992" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e5" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1202-1211" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1235-1247" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e7" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c3.p11" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4" text="The roles of autophagy have been explored in fields such as health, disease, infection, degeneration, and genetic or lifestyle-acquired diseases [18] [19] [20] [21] ; however, cancer [7, 22] , microbial infections [20, 21, 23] , and degenerative diseases [18, 24] have been the main focus of autophagy-related research. Currently, the roles of autophagy are being explored in diverse fields of study.">
+    <entity charOffset="13-22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="176-182" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="344-353" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e1" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c4.p1" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5" text="Autophagy plays important roles in cancer metastasis; 4-acetyl-antroquinonol B has been shown to modulate autophagy and prevent the growth of ovarian cancer cells [25] . Clinical studies have revealed higher levels of autophagic flux in distant metastases than in primary tumors [26, 27] ; therefore, autophagy has stage-dependent dual roles in cancer which may facilitate the growth and spread of tumors and affect treatment resistance [19] . Conversely, autophagy has been shown to act as a tumor suppressor during the early and late phases of cancer development [28, 29] by mediating the destruction and removal of carcinogens and cancerous cells, thus enabling the growth and development of healthy cells; however, under disturbed or uncontrolled conditions autophagy can promote cancer growth and dissemination. Autophagy is also important in neuronal homeostasis, with its dysfunction associated with numerous neurodegenerative disorders [18] . Pathogenic protein aggregates are a common feature of neurodegenerative disorders, and dysfunctional autophagy is involved in this disease state [30] . Furthermore, mutations in autophagy regulation genes have been shown to induce neurodegenerative diseases such as amyotrophic lateral sclerosis, Alzheimer's disease, and familial Cells 2019, 8, 674 3 of 64">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="35-41" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="106-115" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="132-138" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="150-156" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="301-310" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="345-351" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="377-383" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="456-465" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="493-498" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="493-509" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" ontology_id="GO_0051726" text="tumor suppressor" type="gene_function"/>
+    <entity charOffset="546-552" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="669-675" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="695-702" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" ontology_id="HP_0032322" text="healthy" type="phenotype"/>
+    <entity charOffset="762-771" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="784-790" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="791-797" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="817-826" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="1052-1061" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1129-1138" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1217-1246" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" ontology_id="HP_0007354" text="amyotrophic lateral sclerosis" type="phenotype"/>
+    <entity charOffset="1229-1236" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" ontology_id="HP_0025275" text="lateral" type="phenotype"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p13" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p14" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p15" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p16" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p17" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p18" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p19" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p20" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p21" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p22" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p23" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p24" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p25" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p26" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p27" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p28" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p29" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p30" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p31" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p32" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p33" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p34" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p35" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p36" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p37" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p38" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p39" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p40" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p41" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p42" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p43" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p44" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p45" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p46" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p47" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p48" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p49" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p50" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p51" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p52" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p53" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p54" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p55" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p56" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p57" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p58" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p59" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p60" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p61" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p62" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p63" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p64" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p65" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p66" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p67" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p68" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p69" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p70" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p71" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p72" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p73" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p74" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p75" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p76" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p77" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p78" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p79" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p80" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p81" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p82" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p83" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p84" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p85" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p86" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p87" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p88" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p89" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p90" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p91" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p92" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p93" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p94" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p95" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p96" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p97" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p98" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p99" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p100" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p101" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p102" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p103" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p104" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p105" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p106" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p107" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p108" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p109" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p110" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p111" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p112" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p113" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e18" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p114" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p115" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e19" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c5.p116" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c6" text="Parkinson's disease [18, 24] . These mutations affect different stages of autophagy and thus have different implications for pathogenesis and therapy [31] .">
+    <entity charOffset="74-83" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c6.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="125-137" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c6.e1" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7" text="In the modern world, factors such as globalization, liberal trade, climate change, population explosions, public health lapses, immune pressures, and mutations, species jumping, and emerging antibiotic resistance in pathogens have facilitated the spread of various infectious pathogens. In recent years, it has been shown that autophagy has a role in many emerging and re-emerging infectious viral and bacterial diseases that pose significant threats to humans. Autophagy initially encounters these infectious pathogens to neutralize them; however, may infections can propagate themselves as persistent intracellular infections and are generally associated with wide outbreaks, epidemics, and highly devastating effects. Many viral life cycles are linked with autophagic pathways. The influenza A virus induces autophagosome formation during the early stages of infection and inhibits autophagosomal maturation during the later stages. Classical swine fever virus replication is negatively regulated by mTORC1 via autophagy and IRES-dependent translation, whilst Dengue/Zika virus pathogenicity is modulated by antibody-dependent enhancement (ADE) which can induce autophagy in human umbilical vein endothelial cells. Multimodal necrotic cell death is driven by open reading frame-3a of severe acute respiratory syndrome (SARS)-coronavirus (CoV), that triggers the lysosomal damage and dysfunction and therefore transcription of autophagy-related genes is enhanced, whilst endoplasmic reticulum (ER) stress in Dengue virus (DENV) infections results in autophagy activation, viral replication, and pathogenesis. The disruption of mitochondrial membrane potentials by the non-structural protein of Crimean-Congo hemorrhagic fever (CCHF) virus results in apoptosis, whereas paramyxovirus V proteins inhibit constitutively active MDA5 proteins to induce autophagy. All of these viral events are related to autophagy and can provide directions for future therapies for Chikungunya (CHIKV), DENV, and Zika virus (ZIKV) infections. Autophagy has a pivotal role in viral diseases such as bird flu [32], swine fever [33], Ebola virus disease [20], ZIKV infection [34,35], SARS [36], CHIKV infection [37], DENV infection [38], viral encephalitis [39], CCHF [40], Hendra virus (HeV) infection [41], Nipah virus (NiV) infection [42], and the West Nile virus (WNV) infection [43]. Apart from these, other viral diseases, such as rabies, rotavirus enteritis, and smallpox, have already posed a serious threat to human life [44-48]. Autophagy has also been shown to have a central role in microbial infections [49], including those caused by Listeria [50], Salmonella [51], Shigella [52], and Streptococcus [53]. Autophagy can kill or eradicate infectious disease-causing pathogens via the autophagosome or autophagolysosome (autolysosome) to prevent or treat infection [20, 21] ; however, autophagy can also disseminate pathogens during pathogenesis. For example, gut epithelial autophagy can disseminate viruses and bacteria in enteric diseases. Therefore, autophagy can play a dual role in infections [20, 21, 54] .">
+    <entity charOffset="327-336" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="462-471" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="603-616" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="811-824" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" ontology_id="GO_0005776" text="autophagosome" type="gene_function"/>
+    <entity charOffset="811-834" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" ontology_id="GO_0000045" text="autophagosome formation" type="gene_function"/>
+    <entity charOffset="952-957" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+    <entity charOffset="1014-1023" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1165-1174" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1229-1248" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" ontology_id="GO_0070265" text="necrotic cell death" type="gene_function"/>
+    <entity charOffset="1238-1248" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="1287-1293" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="1294-1299" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="1473-1494" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" ontology_id="GO_0005783" text="endoplasmic reticulum" type="gene_function"/>
+    <entity charOffset="1552-1561" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1629-1642" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="1629-1651" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" ontology_id="GO_0031966" text="mitochondrial membrane" type="gene_function"/>
+    <entity charOffset="1643-1651" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <entity charOffset="1722-1727" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+    <entity charOffset="1850-1859" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1902-1911" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="2025-2034" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="2101-2106" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+    <entity charOffset="2223-2235" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" ontology_id="HP_0002383" text="encephalitis" type="phenotype"/>
+    <entity charOffset="2518-2527" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="2558-2565" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" ontology_id="HP_0030645" text="central" type="phenotype"/>
+    <entity charOffset="2698-2707" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="2775-2788" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" ontology_id="GO_0005776" text="autophagosome" type="gene_function"/>
+    <entity charOffset="2792-2809" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" ontology_id="GO_0044754" text="autophagolysosome" type="gene_function"/>
+    <entity charOffset="2811-2823" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" ontology_id="GO_0044754" text="autolysosome" type="gene_function"/>
+    <entity charOffset="2875-2884" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="2965-2974" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="3044-3053" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p13" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p14" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p15" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p16" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p17" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p18" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p19" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p20" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p21" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p22" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p23" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p24" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p25" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p26" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p27" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p28" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p29" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p30" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p31" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p32" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p33" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p34" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p35" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p36" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p37" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p38" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p39" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p40" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p41" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p42" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p43" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p44" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p45" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p46" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p47" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p48" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p49" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p50" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p51" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p52" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p53" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p54" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p55" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p56" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p57" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p58" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p59" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p60" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p61" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p62" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p63" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p64" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p65" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p66" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p67" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p68" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p69" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p70" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p71" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p72" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p73" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p74" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p75" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p76" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p77" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p78" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p79" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p80" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p81" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p82" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p83" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p84" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p85" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p86" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p87" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p88" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p89" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p90" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p91" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p92" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p93" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p94" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p95" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p96" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p97" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p98" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p99" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p100" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p101" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p102" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p103" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p104" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p105" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p106" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p107" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p108" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p109" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p110" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p111" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p112" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p113" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p114" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p115" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e11" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p116" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p117" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p118" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p119" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p120" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e12" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p121" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p122" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p123" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p124" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p125" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e13" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p126" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p127" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p128" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p129" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p130" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p131" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p132" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p133" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p134" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p135" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p136" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p137" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p138" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e14" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p139" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p140" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p141" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p142" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e15" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p143" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p144" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p145" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p146" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e16" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p147" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p148" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p149" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p150" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p151" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p152" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p153" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p154" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p155" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p156" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p157" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e17" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p158" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p159" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p160" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e18" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p161" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p162" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p163" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e19" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p164" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p165" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p166" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e20" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p167" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p168" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p169" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p170" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p171" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p172" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p173" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p174" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e21" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p175" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p176" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p177" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p178" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p179" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p180" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p181" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p182" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e22" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p183" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e23" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p184" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p185" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p186" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p187" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p188" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p189" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p190" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e24" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.e31" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c7.p191" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8" text="In recent years, there has been an increase in the incidence of lifestyle and genetic diseases, such as cancers and neurodegenerative disorders (Alzheimer's, Parkinson's, and Huntington's diseases), which affect the quality of life. Advances in science and technology have contributed to overcoming these challenges. Novel, alternative, and complementary therapeutic options have been developed, including phages, homing peptides, cytokines, siRNA, viral inhibitors, Toll-like receptors (TLRs), antibodies, probiotics, herbs, phytomedicines, nanomedicines, and immunomodulatory techniques [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] . Autophagy is the first mechanism to clear endogenous debris and exogenous substances and maintains normal physiological conditions in all eukaryotic cells [65]. Besides maintaining homeostasis [66], autophagy also regulates the development [67], differentiation [5], and maturation [68] of cells, such as endothelial cells [69], erythrocytes [70], and adipocytes [71, 72] . These cells are involved in normal physiological (e.g., erythrocytes in respiration), immunological (e.g., mononuclear cells in immunity), metabolic (e.g., adipocytes in fat metabolism), growth (e.g., osteocytes in bone growth), and development (e.g., spermatozoa or ova in reproduction) processes. Autophagy is also involved in clearing abnormal protein accumulations and correcting mitochondrial disorganization [73, 74] . The processes of autophagy and apoptosis are interwoven and have been implicated in both microbial infections [54, 75] and cancers [26, 76] . Autophagy might play both physiological and pathological roles since it is involved in overcoming cell stresses [19, 77, 78] . Considering the numerous Cells 2019, 8, 674 4 of 64">
+    <entity charOffset="641-650" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="822-833" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e1" ontology_id="GO_0042592" text="homeostasis" type="gene_function"/>
+    <entity charOffset="840-849" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1202-1208" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e3" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="1289-1301" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e4" ontology_id="GO_0000003" text="reproduction" type="gene_function"/>
+    <entity charOffset="1314-1323" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e5" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="1399-1412" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="1457-1466" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e7" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1582-1591" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e8" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c8.p7" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9" text="roles and functions of autophagy in health and disease, we present a comprehensive overview of autophagy, its mechanisms and types, and its associations with other cell death mechanisms. The dual roles of autophagy in infectious diseases (bacterial and viral), tumor suppression/progression, brain development/neurodegeneration, the immune system, and autoimmune diseases, and its other roles have been discussed thoroughly alongside numerous applications of autophagy. We have also summarized the role of autophagy in cardiovascular diseases, iron homeostasis, obesity, diabetes, and diseases caused by defects in autophagy genes. The treatment of autophagy-associated diseases has been described alongside strategies to inhibit or activate autophagy in the prevention and treatment of diseases. This review details the important functions of autophagy in health and disease and its key roles in disease prevention and treatment.">
+    <entity charOffset="23-32" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="95-104" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e1" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="164-174" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e2" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="205-214" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e3" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="261-266" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="459-468" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e5" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="506-515" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="615-624" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e7" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="742-751" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e8" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="844-853" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e9" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c9.p8" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c10" text="Autophagy (from the Greek words auto, meaning self, and phagy, meaning eating), is an essential, ubiquitous, evolutionarily conserved, catabolic, and self-degradative process that mediates the destruction of cytoplasmic macromolecules to preserve genomic integrity, achieve cell metabolism, and ensure cell survival [30, [79] [80] [81] . It is a natural regulatory mechanism which retains beneficial substances and removes harmful substances from body, whilst playing a housekeeping role in the elimination of misfolded or aggregated proteins, the eradication of damaged organelles, proteins [82] [83] [84] , and cancerous materials [7] , and the elimination of foreign pathogens such as viruses via a degradative lysosomal pathway [21, [85] [86] [87] .">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c10.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c11" text="Numerous physiobiological roles of autophagy have been identified, such as the disposal of endogenous wastes and exogenous agents to maintain homeostasis; however, disturbing the natural balance of this mechanism can result in pathological consequences [88] .">
+    <entity charOffset="35-44" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c11.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12" text="Since it is the primary system for cleaning the body, autophagy can prevent or treat cancer by killing cancerous cells and degrading endogenous or exogenous carcinogens; thus, favoring the development of healthy cells. However, autophagy may have dual roles in cancer as it is involved in stem cell-related resistance to anti-cancer therapy (radioresistance and chemoresistance), metastasis, and tumor recurrence [89] . As obligate intracellular pathogens, viruses interact with multiple host cell processes for their survival, including metabolism, cellular trafficking, and immunity-related responses [54, 90] . Furthermore, autophagy is a major degradative cellular process, with essential roles in many innate and adaptive immune processes [91] [92] [93] . Autophagy also regulates the phosphorylation of p38 and ERK1/2 MAPKs in BV2 microglial cells, required for nitric oxide production [94, 95] . Thus, it can affect the activation of neuronal cells by microglia and suppress neurotoxicity. Moreover, it can downregulate pro-inflammatory mediators in BV2 microglial cells to rescue them from LPS-and α-synuclein-induced neuronal cell death [94] .">
+    <entity charOffset="54-63" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="85-91" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="204-211" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" ontology_id="HP_0032322" text="healthy" type="phenotype"/>
+    <entity charOffset="228-237" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="261-267" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="396-401" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="423-431" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" ontology_id="HP_0040280" text="obligate" type="phenotype"/>
+    <entity charOffset="432-445" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="488-497" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" ontology_id="GO_0043657" text="host cell" type="gene_function"/>
+    <entity charOffset="627-636" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="761-770" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="790-805" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="1126-1145" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" ontology_id="GO_0070997" text="neuronal cell death" type="gene_function"/>
+    <entity charOffset="1135-1145" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p13" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p14" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p15" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p16" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p17" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p18" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p19" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p20" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p21" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p22" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p23" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p24" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p25" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p26" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p27" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p28" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p29" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p30" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p31" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p32" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p33" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p34" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p35" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p36" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p37" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p38" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p39" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p40" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p41" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p42" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p43" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c12.p44" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13" text="Autophagy can either be selective or non-selective [96] . In selective autophagy, cargo is recognized by specific receptors to enable their specific identification, sequestration, and degradation by the autophagosome, whereas in non-specific autophagy, all materials are degraded by the lysosome in a non-specific manner [96, 97] . Furthermore, autophagy is known to exist in two forms: constitutive and reactive (induced) autophagy. Constitutive autophagy has not been well studied, whereas the latter has been studied extensively and is known to stimulate neurite remodeling in developing brains, thus may be essential during brain development [98, 99] . Mice lacking the autophagy proteins Atg59 and Atg710 display excessive neurodegeneration, indicating that autophagy has physiological importance [100]. Numerous factors relating to nutrient deprivation (amino acids and hormones) and build-up of degraded products (proteins) or exogenous agents (pathogens) have been evaluated as induced autophagy stimuli [101, 102] . Endogenous and exogenous stimuli induce autophagy for degradation or as a repair mechanism.">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="71-80" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e1" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="82-87" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e2" ontology_id="GO_0140355" text="cargo" type="gene_function"/>
+    <entity charOffset="184-195" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e3" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="242-251" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e4" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="287-295" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e5" ontology_id="GO_0005764" text="lysosome" type="gene_function"/>
+    <entity charOffset="345-354" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="423-432" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e7" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="447-456" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e8" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="628-645" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e9" ontology_id="GO_0007420" text="brain development" type="gene_function"/>
+    <entity charOffset="674-683" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e10" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="763-772" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e11" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="994-1003" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e12" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1065-1074" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e13" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1079-1090" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c13.e14" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c14" text="Several stimuli have been shown to induce autophagy, including stress, amino acid starvation [103], rapid declines in trophic factors or hormones (such as sex-based differences) [104], lipid starvation [105], impaired intracellular cholesterol trafficking [106], protein products, and infectious pathogens [32,38,85]. Cells 2019, 8, 674 5 of 64">
+    <entity charOffset="218-231" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c14.e0" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15" text="These stimuli can affect the autophagic function and induce different morphological consequences via diverse signaling pathways; for instance, suppressing phosphatidylinositol-3-kinase (PI3K) inhibitors and Beclin 1 inhibits the starvation-induced mitochondrial autophagy, but not the neurotoxin (1-methyl-4-phenylpyridinium)-mediated autophagy [107] [108] [109] . Although autophagy was discovered over 50 years ago [54], its molecular mechanisms were only understood in the late 1990s following a genetic screening in yeast, which revealed mutations in autophagy-related genes. At least 30 yeast autophagy genes (Atgs) have been identified, many of which have mammalian cell homologs [85] .">
+    <entity charOffset="109-118" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e0" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="248-261" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="262-271" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="335-344" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e3" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="374-383" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e4" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="598-607" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e5" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e3" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e4" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.e5" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c15.p4" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16" text="Many molecular mechanisms have been explored to reveal the basic processes underlying autophagy. Multiple signaling pathways focus on two protein complexes to initiate autophagy, the ULK1 (unc51-like autophagy activating kinase 1) protein kinase complex and the PI3KC3-C1 (class III phosphatidylinositol 3-kinase complex I) lipid kinase complex [110] . Novel autophagy regulators with RNA-related activities have also been shown to be involved in this process [111] . Furthermore, upstream signaling pathways common to both autophagy and apoptosis are known to be induced by ER stress via signaling molecules such as PERK/ATF4, IRE1α, ATF6, and Ca 2+ [112] . The details of these mechanisms will shed light on the different forms of autophagy and the numerous intermediates involved.">
+    <entity charOffset="86-95" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="106-115" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e1" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="168-177" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="200-209" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e3" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="231-253" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e4" ontology_id="GO_1902911" text="protein kinase complex" type="gene_function"/>
+    <entity charOffset="283-322" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e5" ontology_id="GO_0034271" text="phosphatidylinositol 3-kinase complex I" type="gene_function"/>
+    <entity charOffset="359-368" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="490-499" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e7" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="524-533" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e8" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="589-598" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e9" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="733-742" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c16.e10" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c17" text="Three types of autophagy [macroautophagy, microautophagy, and chaperone-mediated autophagy (CMA)] are depicted in Figure 1 . Cells 2019, 8, x FOR PEER REVIEW 5 of 65">
+    <entity charOffset="15-24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c17.e0" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="62-90" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c17.e1" ontology_id="GO_0061684" text="chaperone-mediated autophagy" type="gene_function"/>
+    <entity charOffset="81-90" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c17.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18" text="Autophagy refers to the process of delivering cytoplasmic or extracellular components to the lysosomes of an animal cell or the vacuoles of plant or yeast cells [113] . The production and maturation of autophagosomes are directly regulated by location, timing, and intensity [114] . Cells 2019, 8, 674 6 of 64">
+    <entity charOffset="0-9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e0" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="61-74" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e1" ontology_id="GO_0005576" text="extracellular" type="gene_function"/>
+    <entity charOffset="265-274" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e2" ontology_id="HP_0012824" text="intensity" type="phenotype"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.e2" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c18.p1" relation="true"/>
+  </chunk>
+  <chunk id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19" text="The phosphoinositide-binding protein, HS1BP3, is a negative regulator of autophagosome biogenesis that regulates the lipid composition and phosphatidic acid (PA) levels of autophagosome precursor membranes [114] . Increased levels of systemic autophagy have been reported in Caenorhabditis elegans, with hormetic heat stress and heat-shock responsive transcription factor (HSF-1) inducing autophagy to improve the survival and proteostasis of the worm [115] . Furthermore, it has been revealed that autophagy is fine-tuned by epigenetic regulation, through histone (coactivator-associated) arginine methyltransferase, CARM1, a novel enzyme that follows histone H3R17 dimethylation (histone H3 methylated at arginine 17) which is an important epigenetic marker of starvation-induced autophagy [116] . In addition, the vitamin D receptor has been shown to modulate autophagy in normal mammary glands and luminal breast cancer cells, suggesting a potential therapeutic link between vitamin D levels and breast cancer risk [117] . There are numerous additional endogenous and exogenous factors that modulate autophagy, such as transcription factors, variation in the amount or concentration of various cytoplasmic biochemicals, damaged organelles, exogenous compounds, and pathogens [6, 40, 103] ; therefore, autophagy mechanisms vary. Autophagy can be divided into macroautophagy, microautophagy, and CMA based on the mechanism by which intracellular materials are delivered into the lysosome for degradation and the molecular structures that target substrates to the lysosomes [3, [118] [119] [120] . Although these pathways are mechanistically distinct, they all carry out degradation via the lysosome [54, 118] . Most forms of selective autophagy involve the degradation of specific targets; for example, mitophagy (mitochondria), pexophagy (peroxisomes), aggrephagy (protein aggregates), glycophagy (glycogens), lipophagy (lipids), ribophagy (ribosome), xenophagy (pathogens), and ER-phagy [21, 121] . Autophagy is a novel, evolutionarily conserved function of the eukaryotic initiation factor 2 (eIF2α) kinase pathway, which consists of a family of evolutionarily conserved serine/threonine kinases that regulate stress-induced translational arrest and are targeted by virulence gene products [122] .">
+    <entity charOffset="73-86" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e0" ontology_id="GO_0005776" text="autophagosome" type="gene_function"/>
+    <entity charOffset="172-185" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e1" ontology_id="GO_0005776" text="autophagosome" type="gene_function"/>
+    <entity charOffset="243-252" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e2" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="389-398" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e3" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="499-508" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e4" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="782-791" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e5" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="863-872" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e6" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="910-923" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="917-923" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1000-1013" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="1007-1013" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1104-1113" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e11" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1305-1314" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e12" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1332-1341" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e13" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <entity charOffset="1434-1447" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e14" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="1481-1489" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e15" ontology_id="GO_0005764" text="lysosome" type="gene_function"/>
+    <entity charOffset="1494-1505" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e16" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="1672-1683" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e17" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="1692-1700" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e18" ontology_id="GO_0005764" text="lysosome" type="gene_function"/>
+    <entity charOffset="1727-1746" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e19" ontology_id="GO_0061912" text="selective autophagy" type="gene_function"/>
+    <entity charOffset="1737-1746" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e20" ontology_id="GO_0006914" text="autophagy" type="gene_function"/>
+    <entity charOffset="1759-1770" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e21" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="1805-1814" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e22" ontology_id="GO_0000422" text="mitophagy" type="gene_function"/>
+    <entity charOffset="1831-1840" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e23" ontology_id="GO_0000425" text="pexophagy" type="gene_function"/>
+    <entity charOffset="1856-1866" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e24" ontology_id="GO_0035973" text="aggrephagy" type="gene_function"/>
+    <entity charOffset="1889-1899" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e25" ontology_id="GO_0061723" text="glycophagy" type="gene_function"/>
+    <entity charOffset="1913-1922" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e26" ontology_id="GO_0061724" text="lipophagy" type="gene_function"/>
+    <entity charOffset="1933-1942" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e27" ontology_id="GO_0034517" text="ribophagy" type="gene_function"/>
+    <entity charOffset="1955-1964" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e28" ontology_id="GO_0098792" text="xenophagy" type="gene_function"/>
+    <entity charOffset="1982-1990" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e29" ontology_id="GO_0061709" text="ER-phagy" type="gene_function"/>
+    <entity charOffset="2003-2012" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e30" ontology_id="GO_0006914" text="Autophagy" type="gene_function"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p0" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p1" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p2" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e0" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p3" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p4" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p5" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p6" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e1" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p7" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p8" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p9" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p10" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e2" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p11" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p12" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p13" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p14" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e3" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p15" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p16" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p17" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p18" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e4" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p19" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p20" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p21" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p22" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e5" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p23" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p24" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p25" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p26" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e6" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p27" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p28" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p29" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p30" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p31" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p32" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p33" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p34" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p35" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p36" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p37" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p38" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p39" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p40" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p41" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p42" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p43" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p44" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p45" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p46" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e7" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p47" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p48" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p49" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p50" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p51" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p52" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p53" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p54" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p55" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p56" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p57" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p58" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p59" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p60" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p61" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p62" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p63" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p64" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p65" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p66" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e8" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p67" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p68" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p69" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p70" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p71" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p72" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p73" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p74" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p75" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p76" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p77" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p78" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p79" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p80" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p81" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p82" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p83" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p84" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p85" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p86" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e9" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p87" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e11" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p88" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e12" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p89" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e13" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p90" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e14" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p91" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e15" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p92" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e16" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p93" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e17" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p94" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e18" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p95" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e19" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p96" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e20" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p97" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e21" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p98" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e22" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p99" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e23" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p100" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e24" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p101" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e25" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p102" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e26" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p103" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e27" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p104" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e28" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p105" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e29" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p106" relation="true"/>
+    <pair e1="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e10" e2="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.e30" id="6f1f4714674c1dbe218971f0fcb9cd986e6f6a4f.c19.p107" relation="true"/>
+  </chunk>
+</document>

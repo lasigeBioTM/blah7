@@ -1,0 +1,34 @@
+0|chunk|Ribosomal stress and Tp53- mediated neuronal apoptosis in response to capsid protein of the Zika virus OPEN
+0	77	84 protein	Chemical	CHEBI_16541
+
+1|chunk|We report here that in rat and human neuroprogenitor cells as well as rat embryonic cortical neurons Zika virus (ZIKV) infection leads to ribosomal stress that is characterized by structural disruption of the nucleolus. The anti-nucleolar effects were most pronounced in postmitotic neurons. Moreover, in the latter system, nucleolar presence of ZIKV capsid protein (ZIKV-C) was associated with ribosomal stress and apoptosis. Deletion of 22 C-terminal residues of ZIKV-C prevented nucleolar localization, ribosomal stress and apoptosis. Consistent with a casual relationship between ZIKV-C-induced ribosomal stress and apoptosis, ZIKV-C-overexpressing neurons were protected by loss-of-function manipulations targeting the ribosomal stress effector Tp53 or knockdown of the ribosomal stress mediator RPL11. Finally, capsid protein of Dengue virus, but not West Nile virus, induced ribosomal stress and apoptosis. Thus, anti-nucleolar and pro-apoptotic effects of protein C are flavivirus-species specific. In the case of ZIKV, capsid protein-mediated ribosomal stress may contribute to neuronal death, neurodevelopmental disruption and microcephaly.
+1	358	365 protein	Chemical	CHEBI_16541
+1	741	749 effector	Chemical	CHEBI_35224
+1	824	831 protein	Chemical	CHEBI_16541
+1	964	971 protein	Chemical	CHEBI_16541
+1	964	973 protein C	Chemical	CHEBI_82131
+
+2|chunk|Zika virus (ZIKV) is a mosquito-transmitted RNA virus that belongs to the virus family Flaviviridae and causes usually asymptomatic infection in humans 1 . However, a causative link has been established between prenatal exposure to ZIKV and severe congenital microcephaly 1 . ZIKV ability to disturb neurodevelopment is consistent with a neurotropic potential of other arthropod-transmitted flaviviruses 1 . For instance, mosquito-transmitted West Nile virus (WNV) and Japanese encephalitis virus (JEV) infect CNS neurons causing neurological diseases which may include neuronal loss and permanent deficits in brain function 2 . However, ZIKV appears to be a uniquely potent brain teratogen 1 . Such effect is likely due to its ability to penetrate the placenta and infect fetal brain 3 . In contrast, innate anti-viral response may prevent ZIKV from reaching the brain in adults.
+2	44	47 RNA	Chemical	CHEBI_33697
+2	259	271 microcephaly	Disease	DOID_10907
+2	469	490 Japanese encephalitis	Disease	DOID_10844
+2	478	490 encephalitis	Disease	DOID_9588
+2	681	690 teratogen	Chemical	CHEBI_50905
+2	CHEBI-DOID	CHEBI_33697	DOID_10907
+2	CHEBI-DOID	CHEBI_33697	DOID_10844
+2	CHEBI-DOID	CHEBI_33697	DOID_9588
+2	DOID-CHEBI	DOID_10907	CHEBI_50905
+2	DOID-CHEBI	DOID_10844	CHEBI_50905
+2	DOID-CHEBI	DOID_9588	CHEBI_50905
+
+3|chunk|Congenital microcephaly is caused by insufficiency of neurogenesis that may originate from (i) depletion of neuroprogenitor cells (NPCs) due to their apoptosis and/or pre-mature differentiation, (ii) inhibition of NPC proliferation, and, (iii) apoptosis of newly generated neurons 4-6 . ZIKV has a high potential to infect human or rodent NPCs and to a lesser extent developing neurons 7-11 . ZIKV reduces NPC proliferation, induces their premature differentiation and activates apoptosis of NPCs and immature neurons. However, a question remains as to what are the mechanisms behind such cytotoxic effects of ZIKV.
+3	11	23 microcephaly	Disease	DOID_10907
+3	214	217 NPC	Chemical	CHEBI_80552
+3	406	409 NPC	Chemical	CHEBI_80552
+3	DOID-CHEBI	DOID_10907	CHEBI_80552
+
+4|chunk|Recent work has suggested that ZIKV protein NS4A and, to lesser extent, NS4B may impair NP proliferation by inhibiting the growth promoting AKT pathway 12 . In addition, Tp53 has been proposed to mediate ZIKV-induced apoptosis but its ZIKV-related activation mechanism remains obscure 13 . Thus, experiments are needed to determine which ZIKV proteins induce cell death of the developing brain cells and what the mechanisms behind their anti-survival effects in that cellular context are.
+4	36	43 protein	Chemical	CHEBI_16541
+4	144	151 pathway	Chemical	CHEBI_34922
+4	343	351 proteins	Chemical	CHEBI_36080
+

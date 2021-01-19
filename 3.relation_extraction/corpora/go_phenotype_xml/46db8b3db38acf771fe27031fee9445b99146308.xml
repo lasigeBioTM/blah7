@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="46db8b3db38acf771fe27031fee9445b99146308">
+  <chunk id="46db8b3db38acf771fe27031fee9445b99146308.c0" text="Epigenetic Effect of Environmental Factors on Autism Spectrum Disorders">
+    <entity charOffset="46-52" id="46db8b3db38acf771fe27031fee9445b99146308.c0.e0" ontology_id="HP_0000717" text="Autism" type="phenotype"/>
+    <entity charOffset="46-71" id="46db8b3db38acf771fe27031fee9445b99146308.c0.e1" ontology_id="HP_0000729" text="Autism Spectrum Disorders" type="phenotype"/>
+  </chunk>
+  <chunk id="46db8b3db38acf771fe27031fee9445b99146308.c1" text="Both environmental factors and genetic factors are involved in the pathogenesis of autism spectrum disorders (ASDs). Epigenetics, an essential mechanism for gene regulation based on chemical modifications of DNA and histone proteins, is also involved in congenital ASDs. It was recently demonstrated that environmental factors, such as endocrine disrupting chemicals and mental stress in early life, can change epigenetic status and gene expression, and can cause ASDs. Moreover, environmentally induced epigenetic changes are not erased during gametogenesis and are transmitted to subsequent generations, leading to changes in behavior phenotypes. However, epigenetics has a reversible nature since it is based on the addition or removal of chemical residues, and thus the original epigenetic status may be restored. Indeed, several antidepressants and anticonvulsants used for mental disorders including ASDs restore the epigenetic state and gene expression. Therefore, further epigenetic understanding of ASDs is important for the development of new drugs that take advantages of epigenetic reversibility.">
+    <entity charOffset="67-79" id="46db8b3db38acf771fe27031fee9445b99146308.c1.e0" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="83-89" id="46db8b3db38acf771fe27031fee9445b99146308.c1.e1" ontology_id="HP_0000717" text="autism" type="phenotype"/>
+    <entity charOffset="83-108" id="46db8b3db38acf771fe27031fee9445b99146308.c1.e2" ontology_id="HP_0000729" text="autism spectrum disorders" type="phenotype"/>
+    <entity charOffset="545-558" id="46db8b3db38acf771fe27031fee9445b99146308.c1.e3" ontology_id="GO_0007276" text="gametogenesis" type="gene_function"/>
+    <entity charOffset="628-636" id="46db8b3db38acf771fe27031fee9445b99146308.c1.e4" ontology_id="GO_0007610" text="behavior" type="gene_function"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e0" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e1" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p0" relation="true"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e0" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e2" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p1" relation="true"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e1" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e3" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p2" relation="true"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e1" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e4" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p3" relation="true"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e2" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e3" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p4" relation="true"/>
+    <pair e1="46db8b3db38acf771fe27031fee9445b99146308.c1.e2" e2="46db8b3db38acf771fe27031fee9445b99146308.c1.e4" id="46db8b3db38acf771fe27031fee9445b99146308.c1.p5" relation="true"/>
+  </chunk>
+</document>

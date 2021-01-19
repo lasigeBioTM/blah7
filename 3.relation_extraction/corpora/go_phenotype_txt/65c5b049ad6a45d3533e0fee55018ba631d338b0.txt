@@ -1,0 +1,40 @@
+0|chunk|The enemy within: Targeting host-parasite interaction for antileishmanial drug discovery
+
+1|chunk|The state of antileishmanial chemotherapy is strongly compromised by the emergence of drug-resistant Leishmania. The evolution of drug-resistant phenotypes has been linked to the parasites' intrinsic genome instability, with frequent gene and chromosome amplifications causing fitness gains that are directly selected by environmental factors, including the presence of antileishmanial drugs. Thus, even though the unique eukaryotic biology of Leishmania and its dependence on parasite-specific virulence factors provide valid opportunities for chemotherapeutical intervention, all strategies that target the parasite in a direct fashion are likely prone to select for resistance. Here, we review the current state of antileishmanial chemotherapy and discuss the limitations of ongoing drug discovery efforts. We finally propose new strategies that target Leishmania viability indirectly via mechanisms of host-parasite interaction, including parasite-released ectokinases and host epigenetic regulation, which modulate host cell signaling and transcriptional regulation, respectively, to establish permissive conditions for intracellular Leishmania survival.
+1	225	233 frequent	Phenotype	HP_0040282
+1	243	253 chromosome	Gene_function	GO_0005694
+1	1020	1029 host cell	Gene_function	GO_0043657
+1	1030	1039 signaling	Gene_function	GO_0023052
+1	1125	1138 intracellular	Gene_function	GO_0005622
+1	HP-GO	HP_0040282	GO_0005694
+1	HP-GO	HP_0040282	GO_0043657
+1	HP-GO	HP_0040282	GO_0023052
+1	HP-GO	HP_0040282	GO_0005622
+
+2|chunk|Leishmania has evolved mechanisms to subvert both innate and adaptive immune responses that cause immune dysregulation and the pathologies characteristic of CL and VL and ultimately allow parasite proliferation and persistent infection inside the mammalian host [8] [9] [10] . Surprisingly, even though it is very well established that Leishmania reprograms its host cell to subvert the immune response and to meet the nutritional and metabolic needs for intracellular parasite survival and proliferation [11, 12], there is only little effort to exploit these crucial effects of the parasite on the host cell for antiparasitic drug discovery. Here, we review the current literature on antileishmanial therapy and Leishmania host-pathogen interaction and discuss novel strategies to target host cell rather than parasite biology for drug discovery-a strategy that likely will be more refractory to the emergence of drug-resistant parasites.
+2	98	118 immune dysregulation	Phenotype	HP_0002958
+2	362	371 host cell	Gene_function	GO_0043657
+2	387	402 immune response	Gene_function	GO_0006955
+2	455	468 intracellular	Gene_function	GO_0005622
+2	599	608 host cell	Gene_function	GO_0043657
+2	789	798 host cell	Gene_function	GO_0043657
+2	883	893 refractory	Phenotype	HP_0031375
+2	HP-GO	HP_0002958	GO_0043657
+2	HP-GO	HP_0002958	GO_0006955
+2	HP-GO	HP_0002958	GO_0005622
+2	GO-HP	GO_0043657	HP_0031375
+2	GO-HP	GO_0006955	HP_0031375
+2	GO-HP	GO_0005622	HP_0031375
+
+3|chunk|Recent strategies to replace antimonials as first-line treatment to circumvent their limitations with respect to toxicity [13] and drug resistance [14] largely rely on repurposing of existing drugs [15]. These include the antifungal drug amphotericin B, the off-patent antibiotic paromomycin, the oral anticancer drug miltefosine, and the antimalarial drug sitamaquine, all of which were shown efficient for treating leishmaniases. Despite the success of this repurposing strategy, all these therapies have important limitations: (1) miltefosine is teratogenic, can provoke acute gastrointestinal side effects, and the length of the treatment (several weeks) causes poor treatment compliance with the risk of relapse [16], (2) conventional amphotericin B deoxycholate is not only nephrotoxic but also costly and cannot be stored at high temperature, rendering it unaffordable in some countries [17], and (3) paromomycin needs long parenteral regimens, involving qualified personnel and hospitalization [18].
+3	131	146 drug resistance	Gene_function	GO_0042493
+3	574	579 acute	Phenotype	HP_0011009
+3	GO-HP	GO_0042493	HP_0011009
+
+4|chunk|In addition, depending on Leishmania species and geographical area, the parasite response to the drugs can vary substantially, with, for example, a cure rate of paromomycin treatment for VL ranging from 14.3% to 93.1% in Sudanese and Ethiopian patients, respectively [19]. Relapse can occur, and post-kala-azar dermal leishmaniasis can appear even months after the Fig 1. Different aspects of macrophage-Leishmania interaction. Leishmania responds to the intramacrophagic environment by adaptive differentiation (left panel) and hijacks vital macrophage functions via release of parasite ectoproteins (such as the ectokinase casein kinase 1 isoform 2 [CK1.2]), which affect host defense mechanisms, causing immune subversion (middle panel), and modulate host metabolic pathways, promoting parasite growth (right panel).
+4	513	517 left	Phenotype	HP_0012835
+4	798	804 growth	Gene_function	GO_0040007
+4	806	811 right	Phenotype	HP_0012834
+4	HP-GO	HP_0012835	GO_0040007
+4	GO-HP	GO_0040007	HP_0012834
+

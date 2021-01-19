@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="72ace5af731fdf4c384e912b074193d13902b7a1">
+  <chunk id="72ace5af731fdf4c384e912b074193d13902b7a1.c0" text="BMC Immunology Expression profile of immune response genes in patients with Severe Acute Respiratory Syndrome">
+    <entity charOffset="37-52" id="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e0" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+    <entity charOffset="76-82" id="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e1" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="83-88" id="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e2" ontology_id="HP_0011009" text="Acute" type="phenotype"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e0" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e1" id="72ace5af731fdf4c384e912b074193d13902b7a1.c0.p0" relation="true"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e0" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c0.e2" id="72ace5af731fdf4c384e912b074193d13902b7a1.c0.p1" relation="true"/>
+  </chunk>
+  <chunk id="72ace5af731fdf4c384e912b074193d13902b7a1.c1" text="Background: Severe acute respiratory syndrome (SARS) emerged in later February 2003, as a new epidemic form of life-threatening infection caused by a novel coronavirus. However, the immune-pathogenesis of SARS is poorly understood. To understand the host response to this pathogen, we investigated the gene expression profiles of peripheral blood mononuclear cells (PBMCs) derived from SARS patients, and compared with healthy controls.">
+    <entity charOffset="12-18" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e0" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="19-24" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e1" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="302-317" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e2" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="330-340" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e3" ontology_id="HP_0030646" text="peripheral" type="phenotype"/>
+    <entity charOffset="419-426" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e4" ontology_id="HP_0032322" text="healthy" type="phenotype"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e0" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e2" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.p0" relation="true"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e1" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e2" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.p1" relation="true"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e2" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e3" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.p2" relation="true"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e2" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c1.e4" id="72ace5af731fdf4c384e912b074193d13902b7a1.c1.p3" relation="true"/>
+  </chunk>
+  <chunk id="72ace5af731fdf4c384e912b074193d13902b7a1.c2" text="Results: The number of differentially expressed genes was found to be 186 under stringent filtering criteria of microarray data analysis. Several genes were highly up-regulated in patients with SARS, such as, the genes coding for Lactoferrin, S100A9 and Lipocalin 2. The real-time PCR method verified the results of the gene array analysis and showed that those genes that were up-regulated as determined by microarray analysis were also found to be comparatively up-regulated by realtime PCR analysis."/>
+  <chunk id="72ace5af731fdf4c384e912b074193d13902b7a1.c3" text="This differential gene expression profiling of PBMCs from patients with SARS strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response, rather than a specific immune response against a viral infection, as we observed a complete lack of cytokine genes usually triggered during a viral infection. Our study shows for the first time how the immune system responds to the SARS infection, and opens new possibilities for designing new diagnostics and treatments for this new life-threatening disease.">
+    <entity charOffset="18-33" id="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="121-129" id="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e1" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="214-229" id="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e2" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e0" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e1" id="72ace5af731fdf4c384e912b074193d13902b7a1.c3.p0" relation="true"/>
+    <pair e1="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e1" e2="72ace5af731fdf4c384e912b074193d13902b7a1.c3.e2" id="72ace5af731fdf4c384e912b074193d13902b7a1.c3.p1" relation="true"/>
+  </chunk>
+</document>

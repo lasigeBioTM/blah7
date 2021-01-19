@@ -1,0 +1,70 @@
+0|chunk|molecules Drug Repurposing for Japanese Encephalitis Virus Infection by Systems Biology Methods
+0	0	9 molecules	Chemical	CHEBI_25367
+0	10	14 Drug	Chemical	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+
+1|chunk|Japanese encephalitis is a zoonotic disease caused by the Japanese encephalitis virus (JEV). It is mainly epidemic in Asia with an estimated 69,000 cases occurring per year. However, no approved agents are available for the treatment of JEV infection, and existing vaccines cannot control various types of JEV strains. Drug repurposing is a new concept for finding new indication of existing drugs, and, recently, the concept has been used to discover new antiviral agents. Identifying host proteins involved in the progress of JEV infection and using these proteins as targets are the center of drug repurposing for JEV infection. In this study, based on the gene expression data of JEV infection and the phenome-wide association study (PheWAS) data, we identified 286 genes that participate in the progress of JEV infection using systems biology methods. The enrichment analysis of these genes suggested that the genes identified by our methods were predominantly related to viral infection pathways and immune response-related pathways. We found that bortezomib, which can target these genes, may have an effect on the treatment of JEV infection. Subsequently, we evaluated the antiviral activity of bortezomib using a JEV-infected mouse model. The results showed that bortezomib can lower JEV-induced lethality in mice, alleviate suffering in JEV-infected mice and reduce the damage in brains caused by JEV infection. This work provides an agent with new indication to treat JEV infection.
+1	319	323 Drug	Chemical	CHEBI_23888
+1	456	465 antiviral	Chemical	CHEBI_22587
+1	491	499 proteins	Chemical	CHEBI_36080
+1	558	566 proteins	Chemical	CHEBI_36080
+1	596	600 drug	Chemical	CHEBI_23888
+1	1054	1064 bortezomib	Chemical	CHEBI_52717
+1	1181	1190 antiviral	Chemical	CHEBI_22587
+1	1203	1213 bortezomib	Chemical	CHEBI_52717
+1	1272	1282 bortezomib	Chemical	CHEBI_52717
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_52717
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_52717
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_52717
+
+2|chunk|Molecules 2018, 23, 3346 2 of 16 mortality rate caused by JEV can be as high as 30% in the past 30 years, and the proportion of survival with permanent neurological or psychiatric sequelae is approximately 44% [1]. With its epidemic area expansion, JEV affects approximately 25 countries in Asia, and approximately 60% of the population lives with a risk of JEV infection [2] . At present, vaccination is the most effective way to prevent JEV infection. The common vaccines include the inactivated mouse brain-derived vaccine (JE-VAX), inactivated BHK-21 cell-derived vaccine, live-attenuated vaccine (SA14-14-2), inactivated Vero cell-derived vaccine, and the chimeric attenuated vaccine [5] . However, approximately 80% cases of the JEV infection occur in areas covered by the JEV vaccination program due to the failures of immunization strategies or the limitation of vaccines themselves [1] . To date, no clinically approved antiviral agents have been available for the treatment of JEV infection. Furthermore, few randomized clinical trials have tested treatments for JEV. In the past 30 years, only six agents for the treatment of JEV infection have been tested by clinical trials, but none of them have been found effective [1] . Therefore, it is essential and urgent to find a safe and effective treatment.
+2	0	9 Molecules	Chemical	CHEBI_25367
+2	929	938 antiviral	Chemical	CHEBI_22587
+2	929	945 antiviral agents	Chemical	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_22587
+
+3|chunk|Drug repurposing has recently become a very popular method for drug discovery; drug repurposing provides old drugs (including approved drugs, under research drugs, and withdrawn drugs) with new indications by exploring new molecular pathways and targets [6, 7] . With this strategy, finding an alternative agent to treatment JEV infection will be fast and safe. During the past decades, the traditional method for drug repurposing depends on high-throughput screening of small-molecule libraries consisting of approved and developing drugs [8]. However, the success rate of high-throughput screening for effective repurposed drugs has dropped dramatically [9] . With the development of computational methods, the high-throughput omics data, virtual screening, and text mining have been used for drug repurposing [9,10]. One of the computational methods for antiviral drug repurposing is to target pathogen to block its lifecycle. Using the crystal structure of the E protein and the strategy of structural-based virtual screening (SBVS), Leal et al. identified a compound exhibiting marked antiviral activity against DENV with its EC50 being 3.1 M [11] . The other methods for antiviral drug repurposing are targeting host genes to inhibit pathogen infection. Identifying the proteins participating in the pathogen infection process is the basis of host-targeted drug repurposing approaches [9] . Quan et al. identified 170 Mycobacterium tuberculosis (Mtb) infection-associated genes by theoretical genetic analysis, and obtained high potential anti-Mtb drugs by targeting these genes [12] . Therefore, it is possible to rapidly identify effective therapeutics for JEV infection using the method of drug repurposing through targeting JEV-susceptible genes.
+3	0	4 Drug	Chemical	CHEBI_23888
+3	63	67 drug	Chemical	CHEBI_23888
+3	79	83 drug	Chemical	CHEBI_23888
+3	109	114 drugs	Chemical	CHEBI_23888
+3	135	140 drugs	Chemical	CHEBI_23888
+3	157	162 drugs	Chemical	CHEBI_23888
+3	178	183 drugs	Chemical	CHEBI_23888
+3	414	418 drug	Chemical	CHEBI_23888
+3	534	539 drugs	Chemical	CHEBI_23888
+3	625	630 drugs	Chemical	CHEBI_23888
+3	795	799 drug	Chemical	CHEBI_23888
+3	857	866 antiviral	Chemical	CHEBI_22587
+3	857	871 antiviral drug	Chemical	CHEBI_36044
+3	867	871 drug	Chemical	CHEBI_23888
+3	967	974 protein	Chemical	CHEBI_16541
+3	1090	1099 antiviral	Chemical	CHEBI_22587
+3	1178	1187 antiviral	Chemical	CHEBI_22587
+3	1178	1192 antiviral drug	Chemical	CHEBI_36044
+3	1188	1192 drug	Chemical	CHEBI_23888
+3	1277	1285 proteins	Chemical	CHEBI_36080
+3	1364	1368 drug	Chemical	CHEBI_23888
+3	1555	1560 drugs	Chemical	CHEBI_23888
+3	1700	1704 drug	Chemical	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_36044
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_36044	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36044	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+
+4|chunk|Systems biology has been used to identify the pathogenic mechanisms of complex human diseases by integrating genetic variation, genomics, pathways, and molecular networks [13] . The advent of systems biology provides a powerful method for facilitating drug development and drug repurposing [14] . The representative algorithms used in the systems biology field include GeneRank and HotNet2 [15, 16] . In this study, we applied the methods of HotNet2 and GeneRank to identify the genes essential in JEV infection (Figure 1 ). Additionally, we analyzed Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) athway enrichment of these genes to validate our results. Using the information of the drug-target, we obtained the agents that have a potential treatment effect on JEV infection. We found that multiple targets of bortezomib play critical roles in the progress of JEV infection based on the analysis of the PheWAS data of encephalitis and of the gene expression data of human microglial cells after JEV infection. Furthermore, we investigated the effect of bortezomib using a JEV-infected mouse model. Overall, our research provided a novel agent for the treatment of JEV infection.
+4	252	256 drug	Chemical	CHEBI_23888
+4	273	277 drug	Chemical	CHEBI_23888
+4	835	845 bortezomib	Chemical	CHEBI_52717
+4	1078	1088 bortezomib	Chemical	CHEBI_52717
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_52717
+

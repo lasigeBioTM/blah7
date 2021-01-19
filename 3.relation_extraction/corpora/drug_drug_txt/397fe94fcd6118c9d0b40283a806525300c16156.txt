@@ -1,0 +1,15 @@
+0|chunk|S1 Appendix -Methods supplement to Fig 2 of Infectious disease pandemic planning and response: incorporating decision analysis
+
+1|chunk|This Appendix supports the example decision model presented in Fig 2 of the manuscript "Case study: Antiviral decision model for pandemic influenza in the Australian context".
+1	100	109 Antiviral	Chemical	CHEBI_22587
+
+2|chunk|The purpose of this case study is to show that outputs from situational and intervention analyses, when combined using a statistical decision model (specifically a Bayesian decision network), can provide recommendations on response options (including uncertainty). For the intervention analysis, we used our previously published intervention model of targeted antiviral distribution strategies [1]. This model and its findings form the basis for Australia's current response plan [2] . The model allows for: the use of antivirals for treatment of cases and postexposure prophylaxis of contacts; differential risks of severe disease outcomes and differential benefits of treatment across population subgroups; and health system capacity constraints. The most recent version of this model is described by Moss and colleagues [1] and it builds on a larger body of work, conducted over a 15-year period, which has focused on developing pandemic antiviral policy for the Australian context [1, 3, 4, 5, 6, 7, 8] .
+2	360	369 antiviral	Chemical	CHEBI_22587
+2	519	529 antivirals	Chemical	CHEBI_22587
+2	941	950 antiviral	Chemical	CHEBI_22587
+
+3|chunk|We considered three different antiviral strategies (decision options): treatment of all identified cases and post-exposure prophylaxis of all identified contacts (Rx all/PEP all); treatment of all identified cases (Rx all); and treatment of at-risk and hospitalised cases (Rx AR, hosp). Decision model outcomes were compared for two hypothetical pandemics with distinct pandemic characteristics: one of severe impact (Pandemic A) and another of milder impact (Pandemic B) (see Section 2). The decision options for Pandemics A and B, given the evidence, were assessed using a Bayesian decision network.
+3	30	39 antiviral	Chemical	CHEBI_22587
+
+4|chunk|It is important to note that the decision model presented in this case study is for demonstrative purposes only. The main text of the manuscript describes what is required to scale this example decision model for use in a fully operational decision support system. S1 Appendix begins with a background section on Bayesian networks, and then steps through each section of Manuscript Fig 2. 
+

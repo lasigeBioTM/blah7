@@ -1,0 +1,35 @@
+0|chunk|X-ray Structure and Enzymatic Activity Profile of a Core Papain- like Protease of MERS Coronavirus with utility for structure-based drug design OPEN
+0	132	136 drug	Chemical	CHEBI_23888
+
+1|chunk|Ubl2 domain from MERS PLpro has no effect on its ability to process the viral polyprotein or act as an interferon antagonist, which involves deubiquitinating and deISGylating cellular proteins. Here, we test the hypothesis that the Ubl2 domain is not required for the catalytic function of MERS PLpro in vitro. The X-ray structure of MERS PLpro-Ubl2 was determined to 1.9  and compared to PLpro containing the N-terminal Ubl2 domain. While the structures were nearly identical, the PLpro-Ubl2 enzyme revealed the intact structure of the substrate-binding loop. Moreover, PLpro-Ubl2 catalysis against different substrates and a purported inhibitor revealed no differences in catalytic efficiency, substrate specificity, and inhibition. Further, no changes in thermal stability were observed between enzymes. We conclude that the catalytic core of MERS PLpro, i.e. without the Ubl2 domain, is sufficient for catalysis and stability in vitro with utility to evaluate potential inhibitors as a platform for structure-based drug design.
+1	103	113 interferon	Chemical	CHEBI_52999
+1	641	650 inhibitor	Chemical	CHEBI_35222
+1	978	988 inhibitors	Chemical	CHEBI_35222
+1	1023	1027 drug	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+
+2|chunk|Coronaviruses (CoVs) are enveloped, positive sense, single-stranded RNA viruses that cause mild to severe upper respiratory tract infections in humans. Approximately 10 years after emergence of the severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002/2003, Middle East respiratory syndrome coronavirus (MERS-CoV) emerged and has been identified so far in 26 countries with a case-fatality rate over 30% 1,2 . Although these CoVs are well-recognized global pathogens, there are no antiviral interventions available. Thus, a better understanding of the molecular mechanisms that facilitate viral pathogenesis and replication may permit the design of targeted therapeutics against CoVs.
+2	68	71 RNA	Chemical	CHEBI_33697
+2	492	501 antiviral	Chemical	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+
+3|chunk|MERS-CoV is classified in the sub-lineage C genus Betacoronavirus with a conserved genomic size of ~30 kb among other CoVs 2 . The first 22 kilobases located at the 5 -end of the RNA genome is encoded in two open reading frames (ORF1a/ORF1b) that are translated by host ribosomes to generate two respective viral polyproteins (pp1a & pp1ab). Pp1a and pp1ab are processed by two virus-encoded cysteine proteases, termed the papain-like protease (PLpro) and the 3C-like protease (3CLpro). Together, these two proteases cleave the polyproteins to produce 16 nonstructural proteins (nsps), which are essential for the formation of the replicase complex and hence RNA replication. This study focuses on the multifunctional and putative drug target, PLpro, located in nonstructural protein 3 (nsp3; Fig. 1a ).
+3	180	183 RNA	Chemical	CHEBI_33697
+3	393	401 cysteine	Chemical	CHEBI_15356
+3	570	578 proteins	Chemical	CHEBI_36080
+3	660	663 RNA	Chemical	CHEBI_33697
+3	732	736 drug	Chemical	CHEBI_23888
+3	777	784 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_15356
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+

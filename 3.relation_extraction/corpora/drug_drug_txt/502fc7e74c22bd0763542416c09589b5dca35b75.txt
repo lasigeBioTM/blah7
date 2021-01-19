@@ -1,0 +1,48 @@
+0|chunk|Quantitative Analysis of Hepatitis C NS5A Viral Protein Dynamics on the ER Surface
+0	48	55 Protein	Chemical	CHEBI_16541
+
+1|chunk|Exploring biophysical properties of virus-encoded components and their requirement for virus replication is an exciting new area of interdisciplinary virological research. To date, spatial resolution has only rarely been analyzed in computational/biophysical descriptions of virus replication dynamics. However, it is widely acknowledged that intracellular spatial dependence is a crucial component of virus life cycles. The hepatitis C virus-encoded NS5A protein is an endoplasmatic reticulum (ER)-anchored viral protein and an essential component of the virus replication machinery. Therefore, we simulate NS5A dynamics on realistic reconstructed, curved ER surfaces by means of surface partial differential equations (sPDE) upon unstructured grids. We match the in silico NS5A diffusion constant such that the NS5A sPDE simulation data reproduce experimental NS5A fluorescence recovery after photobleaching (FRAP) time series data. This parameter estimation yields the NS5A diffusion constant. Such parameters are needed for spatial models of HCV dynamics, which we are developing in parallel but remain qualitative at this stage. Thus, our present study likely provides the first quantitative biophysical description of the movement of a viral component. Our spatio-temporal resolved ansatz paves new ways for understanding intricate spatial-defined processes central to specfic aspects of virus life cycles.
+1	456	463 protein	Chemical	CHEBI_16541
+1	514	521 protein	Chemical	CHEBI_16541
+
+2|chunk|For the host, such events can cause different degrees of cell stress and damage according to the cytopathogenicity of the virus. Hepatitis C virus (HCV) [1] belongs to the plus stranded RNA (ss(+)RNA) viruses [2,3] such as Dengue and Yellow fever viruses (DNFV and YFV) [2,4]; these latter 2 viruses are poised to create increased health problems in the US and Europe over subsequent years; largely driven by climatic changes favoring geographic expansion of their mosquito vector. However, infection by HCV is a current global pandemic and liver disease such as cirrhosis, which is associated with chronic infection by the virus, is the main reason for liver transplantations in Western countries.
+2	186	189 RNA	Chemical	CHEBI_33697
+
+3|chunk|Spatial dependence is a crucial factor in the process all viruses use in order to replicate [2,4-20]; many viruses rearrange cellular membranes, or create inclusion bodies, to create specialized regions within the host cell designed to replicate viral nucleic acid and assemble progeny. For HCV, replication is believed to occur in specialized compartments within virus-infected cells, termed membranous webs [1, 6, 9] . The membranous webs are derived from altered regions of an interconnected intracellular membrane network called the Endoplasmic Reticulum (ER) [21] ; the HCV-modified structure is termed the membranous web due to its appearance when viewed by electron microscopy [5, 6, 9] . Formation, maintenance, regulation, and turnover of membranous webs is likely driven both by interactions between virus-encoded components (virus proteins and RNA), and those with host proteins/organelles. This delicate balance of interactions is likely a dynamic process occurring in 3D that is both difficult to capture experimentally and conceptually visualize [9] .
+3	252	264 nucleic acid	Chemical	CHEBI_33696
+3	260	264 acid	Chemical	CHEBI_37527
+3	664	672 electron	Chemical	CHEBI_10545
+3	842	850 proteins	Chemical	CHEBI_36080
+3	881	889 proteins	Chemical	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33696	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33696	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_33696	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_36080
+
+4|chunk|Exploring the biophysics of viral replication mechanisms through cross-discipline work i.e., application of physics-based solutions to understand biology-based data is a highly relevant goal. Previous modeling work at an (intra)cellular level using HCV has focused upon ordinary differential equation (ODE) compartment models, cf. e.g., [22] [23] [24] [25] [26] .
+
+5|chunk|To our best knowledge, spatial resolution is an aspect that has only been rarely appreciated in biophysical modeling simulations approaches of virus dynamics to date. For a detailed discussion, we refer to our former paper [27] . In the previous paper [27], we developed spatio-temporal resolved (surface) partial differential equation (PDE/sPDE) reaction-diffusion models of the HCV viral RNA (vRNA) replication cycle. Even though these models were computed upon realistic reconstructed cell geometries, they suffered from a lack of experimentally validated parameters. For example, the diffusion constants for the agents of the vRNA cycle, namely for the vRNA and the non structural viral proteins (NSPs), which are responsible for the replication of the vRNA were not known.
+5	390	393 RNA	Chemical	CHEBI_33697
+5	691	699 proteins	Chemical	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+
+6|chunk|The 28, 29] belongs to the class of NSPs. NS5A is an essential component of HCV replication and probably contributes many functions that the virus is dependent upon to replicate its RNA and assemble its progeny [1, 6, 28, 30, 31] . Research has revealed a substantial spatial facet of NS5A function and particular biophysical characteristics of the protein arise from its anchoring to the 3D embedded curved 2D ER manifold [1, 2, 5, 6] . Inhibition of NS5A functions by small molecule-based inhibitors of the protein [28, 30] lead to spatial redistribution of NS5A [7] and also change its mobility characteristics [8, 10] . Increasing our knowledge of the properties and functions of the HCV NS5A protein may reveal global processes that ss(+)RNA viruses employ to replicate their genome and, therefore, may ultimately help to identify mechanisms suitable for intervention to enable discovery of broad-spectrum inhibitors.
+6	182	185 RNA	Chemical	CHEBI_33697
+6	349	356 protein	Chemical	CHEBI_16541
+6	491	501 inhibitors	Chemical	CHEBI_35222
+6	509	516 protein	Chemical	CHEBI_16541
+6	697	704 protein	Chemical	CHEBI_16541
+6	911	921 inhibitors	Chemical	CHEBI_35222
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_35222
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+
+7|chunk|Therefore, in this study, we present a quantitative, spatially resolved analysis of the NS5A movement dynamics. For this purpose, we combine and compare experimental fluorescence recovery after photobleaching (FRAP) [32, 33] time series (TMS) data [34] with mathematical simulations of a model probing a diffusion process of the NS5A protein on realistic reconstructed ER surfaces [5] by means of surface partial differential equations (sPDE). The sPDEs were solved with advanced numerical techniques upon large unstructured grids representing the ER surface [35] . Hence, we present the estimation of the biophysical meaningful NS5A diffusion constant based on the comparison of experimental and simulation data.
+7	238	241 TMS	Chemical	CHEBI_85361
+7	334	341 protein	Chemical	CHEBI_16541
+7	CHEBI-CHEBI	CHEBI_85361	CHEBI_16541
+
+8|chunk|To this end, data presented in the present study are complementary to our former paper [27] , which demonstrated the development of qualitative spatio-temporal resolved diffusion-reaction
+

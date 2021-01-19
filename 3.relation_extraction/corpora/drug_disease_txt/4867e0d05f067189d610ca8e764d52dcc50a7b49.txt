@@ -1,0 +1,94 @@
+0|chunk|The alpha-1 subunit of the Na + ,K + -ATPase (ATP1A1) is required for macropinocytic entry of respiratory syncytial virus (RSV) in human respiratory epithelial cells
+
+1|chunk|Human respiratory syncytial virus (RSV) is the leading viral cause of acute pediatric lower respiratory tract infections worldwide, with no available vaccine or effective antiviral drug. To gain insight into virus-host interactions, we performed a genome-wide siRNA screen. The expression of over 20,000 cellular genes was individually knocked down in human airway epithelial A549 cells, followed by infection with RSV expressing green fluorescent protein (GFP). Knockdown of expression of the cellular ATP1A1 protein, which is the major subunit of the Na + ,K + -ATPase of the plasma membrane, had one of the strongest inhibitory effects on GFP expression and viral titer. Inhibition was not observed for vesicular stomatitis virus, indicating that it was RSV-specific rather than a general effect. ATP1A1 formed clusters in the plasma membrane very early following RSV infection, which was independent of replication but dependent on the attachment glycoprotein G. RSV also triggered activation of ATP1A1, resulting in signaling by c-Src-kinase activity that transactivated epidermal growth factor receptor (EGFR) by Tyr845 phosphorylation. ATP1A1 signaling and activation of both c-Src and EGFR were found to be required for efficient RSV uptake. Signaling events downstream of EGFR culminated in the formation of macropinosomes. There was extensive uptake of RSV virions into macropinosomes at the beginning of infection, suggesting that this is a major route of RSV uptake, with fusion presumably occurring in the macropinosomes rather than at the plasma membrane. Important findings were validated in primary human small airway epithelial cells (HSAEC). In A549 cells and HSAEC, RSV uptake could be inhibited by the cardiotonic steroid ouabain and the digitoxigenin derivative PST2238 (rostafuroxin) that bind specifically to the ATP1A1 extracellular domain and block RSV-triggered EGFR Tyr845 phosphorylation. In conclusion, we identified ATP1A1 as a host protein essential for macropinocytic entry of RSV into respiratory epithelial cells, and identified PST2238 as a potential anti-RSV drug. PLOS Pathogens | https://doi.
+1	171	180 antiviral	Chemical	CHEBI_22587
+1	448	455 protein	Chemical	CHEBI_16541
+1	510	517 protein	Chemical	CHEBI_16541
+1	716	726 stomatitis	Disease	DOID_9637
+1	814	822 clusters	Chemical	CHEBI_33731
+1	951	963 glycoprotein	Chemical	CHEBI_17089
+1	1734	1741 steroid	Chemical	CHEBI_35341
+1	1742	1749 ouabain	Chemical	CHEBI_145798
+1	1758	1771 digitoxigenin	Chemical	CHEBI_42219
+1	1963	1970 protein	Chemical	CHEBI_16541
+1	CHEBI-DOID	CHEBI_22587	DOID_9637
+1	CHEBI-DOID	CHEBI_16541	DOID_9637
+1	DOID-CHEBI	DOID_9637	CHEBI_33731
+1	DOID-CHEBI	DOID_9637	CHEBI_17089
+1	DOID-CHEBI	DOID_9637	CHEBI_35341
+1	DOID-CHEBI	DOID_9637	CHEBI_145798
+1	DOID-CHEBI	DOID_9637	CHEBI_42219
+
+2|chunk|RSV continues to be the most important viral cause of severe bronchiolitis and pneumonia in infants and young children, and also has a substantial impact in the elderly. It is estimated to claim the lives of~118,000 children under five years of age annually. No vaccine or antiviral drug suitable for general use is available. The involvement of host factors in RSV infection and replication is not well understood, but this knowledge might lead to intervention strategies to prevent infection. Using a genome-wide siRNA screen to knock down the expression of over 20,000 individual cellular genes, we identified ATP1A1, the major subunit of the Na + ,K + -ATPase, as an important host protein for RSV entry. We showed that ATP1A1 activation by RSV resulted in transactivation of EGFR by Src-kinase activity, resulting in the uptake of RSV particles into the host cell through macropinocytosis. We also showed that the cardiotonic steroid ouabain and the synthetic digitoxigenin derivative PST2238, which bind specifically to the extracellular domain of ATP1A1, significantly reduced RSV entry. Taken together, we describe a novel ATP1A1-enabled mechanism used by RSV to enter the host cell, and describe candidate antiviral drugs that block this entry. ATP1A1 signaling is required for macropinocytic entry of RSV PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1007963 August 5, 2019 2 / 37 Competing interests: M.L., P.L.C. and S.M. are coinventors on a patent application for the development of PST2238 (rostafuroxin) as an antiviral drug. RSV [14], but how this occurs was unknown. It remained unknown if EGFR alone is sufficient or requires other factors to initiate signaling, or if EGFR and its associated signaling are somehow physically linked with caveolae. While RSV entry generally has been thought to involve fusion between the viral envelope and the plasma membrane, new evidence suggested either of two additional, different uptake pathways, namely EGFR-triggered macropinocytosis [14] and clathrin-mediated endocytosis [15]. It is unclear if one or both are involved.
+2	61	74 bronchiolitis	Disease	DOID_2942
+2	79	88 pneumonia	Disease	DOID_552
+2	273	282 antiviral	Chemical	CHEBI_22587
+2	273	287 antiviral drug	Chemical	CHEBI_36044
+2	283	287 drug	Chemical	CHEBI_23888
+2	686	693 protein	Chemical	CHEBI_16541
+2	931	938 steroid	Chemical	CHEBI_35341
+2	939	946 ouabain	Chemical	CHEBI_145798
+2	965	978 digitoxigenin	Chemical	CHEBI_42219
+2	1215	1224 antiviral	Chemical	CHEBI_22587
+2	1215	1230 antiviral drugs	Chemical	CHEBI_36044
+2	1225	1230 drugs	Chemical	CHEBI_23888
+2	1534	1543 antiviral	Chemical	CHEBI_22587
+2	1534	1548 antiviral drug	Chemical	CHEBI_36044
+2	1544	1548 drug	Chemical	CHEBI_23888
+2	DOID-CHEBI	DOID_2942	CHEBI_22587
+2	DOID-CHEBI	DOID_2942	CHEBI_36044
+2	DOID-CHEBI	DOID_2942	CHEBI_23888
+2	DOID-CHEBI	DOID_2942	CHEBI_16541
+2	DOID-CHEBI	DOID_2942	CHEBI_35341
+2	DOID-CHEBI	DOID_2942	CHEBI_145798
+2	DOID-CHEBI	DOID_2942	CHEBI_42219
+2	DOID-CHEBI	DOID_552	CHEBI_22587
+2	DOID-CHEBI	DOID_552	CHEBI_36044
+2	DOID-CHEBI	DOID_552	CHEBI_23888
+2	DOID-CHEBI	DOID_552	CHEBI_16541
+2	DOID-CHEBI	DOID_552	CHEBI_35341
+2	DOID-CHEBI	DOID_552	CHEBI_145798
+2	DOID-CHEBI	DOID_552	CHEBI_42219
+
+3|chunk|We describe an in vitro genome-wide siRNA screen that was performed to identify cellular proteins with presumptive roles in RSV infection. One of the proteins identified by this screen was described previously [16] . Another protein that was identified is ATP1A1 (GenBank ID: 476), the -subunit of the Na + ,K + -ATPase complex located in the plasma membrane. This complex contains in addition a -subunit, and usually also a -subunit (also known as the FXYD subunit) [17, 18] . ATP1A1 is the major subunit and contains ten transmembrane helices that embed the protein complex in the plasma membrane and form the ion channel. The  and FXYD subunits are important for the ion transport properties of the Na + ,K + -ATPase and also stabilize the complex [19] . Humans express three additional -isoforms beside ATP1A1 (ATP1A2, ATP1A3, and ATP1A4). The expression profile of the four isoforms is cell typedependent, with ATP1A1 being expressed ubiquitously and being the predominant isoform in A549 cells [20] (minor amounts of ATP1A3 have been found in A549 cells, but are 50-fold reduced compared to ATP1A1 [20]). In the ciliated epithelial cells lining the nasopharynx and the bronchi of both mice and humans, Na + ,K + -ATPase bearing ATP1A1 is present in greater abundance on the basolateral surfaces and in lower abundance on the apical surface; it also is readily detected in human alveolar cells including on the luminal surface [21] [22] [23] .
+3	89	97 proteins	Chemical	CHEBI_36080
+3	150	158 proteins	Chemical	CHEBI_36080
+3	225	232 protein	Chemical	CHEBI_16541
+3	563	570 protein	Chemical	CHEBI_16541
+3	615	618 ion	Chemical	CHEBI_24870
+3	674	677 ion	Chemical	CHEBI_24870
+3	1421	1428 luminal	Chemical	CHEBI_8069
+
+4|chunk|Na + ,K + -ATPase plays a major role in ion transport, maintaining electrolyte and fluid balance. In addition, a subpopulation of Na + ,K + -ATPase that is localized in caveolae [24, 25] uniquely can engage in signal transduction, via the ATP1A1 subunit [17, [26] [27] [28] . Na + ,K + -ATPase, bearing the ATP1A1 subunit, has been well-characterized as the sole receptor for cardiotonic steroids (CTS) such as ouabain, which are its sole known agonists initiating signaling. Ouabain has been reported in humans as an endogenous hormone-like agent that contributes to the regulation of blood pressure, among other things, via ATP1A1 signaling [29] . ATP1A1 does not possess a known cytoplasmic signaling domain, but it interacts through its cytoplasmic tail with the cellular kinase c-Src [30] . ATP1A1 initiates signaling by conferring a conformational change to c-Src that exposes its kinase domain, leading to activation through autophosphorylation of c-Src at tyrosine 418 [30]. This can trigger several different signaling pathways, which can lead to the induction of endocytosis by more than one mechanism. For example, activated c-Src can mediate phosphorylation and activation of EGFR in an EGFindependent manner [31, 32] , which can induce macropinocytosis [31] , similar to the wellcharacterized EGF-induced macropinocytosis [33, 34] . Activated c-Src also can trigger signaling through the PI3K pathway to induce clathrin-mediated endocytosis [17, 26] . Incidentally, this results in removal of Na + ,K + -ATPase from the plasma membrane for degradation in the lysosome [35, 36] , resulting in decreased ion channel activity and increased blood pressure. This can be reversed by a synthetic digitoxigenin derivative called PST2238 (or rostafuroxin), which competitively inhibits ouabain binding and signaling [37] and is being evaluated as a therapeutic to lower this kind of hypertension [38] .
+4	32	36 role	Chemical	CHEBI_50906
+4	40	43 ion	Chemical	CHEBI_24870
+4	388	396 steroids	Chemical	CHEBI_35341
+4	411	418 ouabain	Chemical	CHEBI_145798
+4	445	453 agonists	Chemical	CHEBI_48705
+4	476	483 Ouabain	Chemical	CHEBI_145798
+4	964	972 tyrosine	Chemical	CHEBI_17895
+4	964	972 tyrosine	Chemical	CHEBI_18186
+4	1406	1413 pathway	Chemical	CHEBI_34922
+4	1615	1618 ion	Chemical	CHEBI_24870
+4	1702	1715 digitoxigenin	Chemical	CHEBI_42219
+4	1790	1797 ouabain	Chemical	CHEBI_145798
+4	1887	1899 hypertension	Disease	DOID_10763
+4	CHEBI-DOID	CHEBI_50906	DOID_10763
+4	CHEBI-DOID	CHEBI_24870	DOID_10763
+4	CHEBI-DOID	CHEBI_35341	DOID_10763
+4	CHEBI-DOID	CHEBI_145798	DOID_10763
+4	CHEBI-DOID	CHEBI_48705	DOID_10763
+4	CHEBI-DOID	CHEBI_17895	DOID_10763
+4	CHEBI-DOID	CHEBI_18186	DOID_10763
+4	CHEBI-DOID	CHEBI_34922	DOID_10763
+4	CHEBI-DOID	CHEBI_42219	DOID_10763
+
+5|chunk|Here, we report a novel role for ATP1A1 signaling in enabling RSV entry into human airway epithelial cells. We demonstrate that RSV induces the signaling function of ATP1A1 to enable cell entry by a mechanism that is dependent on the activation of c-Src and EGFR. We also show that this signaling results in the induction of macropinocytosis, which appears to be a major route for uptake of RSV into the cell, with membrane fusion presumably occurring in the macropinosomes. We also provide evidence that RSV-induced ATP1A1 activation and ATP1A1 signaling is required for macropinocytic entry of RSV PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1007963 August 5, 2019 3 / 37 ATP1A1 signaling is required for macropinocytic entry of RSV PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1007963 August 5, 2019 4 / 37
+5	24	28 role	Chemical	CHEBI_50906
+
+6|chunk|Fig 3. RSV infection triggers ATP1A1 clustering. (A) A549 cells were inoculated with wt RSV (MOI = 5 PFU/cell).
+
+7|chunk|Cells were fixed at different time points p.i. with 4% PFA, permeabilized with 0.1% TritonX-100 and stained for ATP1A1 (green) with an anti-ATP1A1 MAb (ab76020) and AF488-conjugated donkey anti-rabbit secondary antibody. RSV F (red) was detected with anti-RSV F mouse MAb #1129 [72] and an AF594-conjugated anti-mouse secondary antibody. The cell nuclei were stained with DAPI (blue). Images (z-stacks) were acquired on a Leica SP5 confocal microscope, with a 63x objective (NA 1.4) and a zoom of 3.0. Arrows indicate examples of co-localization of ATP1A1 and RSV F. Scale bar 10 m. (B) Cross section of the marked area of the RSV 5 h p.i. image of Fig 3A. The entire crosssection in ZY-view of this image is shown in S1 Movie. Scale bar 10 m.
+7	347	353 nuclei	Chemical	CHEBI_33252
+7	372	376 DAPI	Chemical	CHEBI_51231
+

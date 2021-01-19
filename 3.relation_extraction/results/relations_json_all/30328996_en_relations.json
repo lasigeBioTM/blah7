@@ -1,0 +1,195 @@
+{
+    "text": "In August 2015, pediatric neurologists at public hospitals in Recife, Pernambuco State, Brazil, observed an increase in the number of disproportional microcephaly cases associated with other congenital anomalies. The fact caused social commotion and mobilization of the academic community and led the Brazilian Ministry of Health to declare a national public health emergency, followed by the declaration of a Public Health Emergency of International Concern by the World Health Organization. The hypothesis for the phenomenon was congenital Zika virus (ZIKV) infection, based on spatial-temporal correlation and the clinical-epidemiological characteristics of the two epidemics. Further evidence accumulated, and within the scope of epidemiologial reasoning fulfilled criteria that gave support to the hypothesis. The plausibility of the hypothesis is based on the neurotropism of ZIKV, demonstrated in animals, affecting neural progenitors in the developing brain, and in humans, due to neurological complications in adults following infection. Isolation of viral RNA and antigens in the amniotic fluid of infected mothers and in brains of newborns and fetuses with microcephaly further demonstrated the consistency of the hypothesis. The criterion of temporality was met by identifying adverse pregnancy outcomes in a cohort of mothers with a history of rash and positive ZIKV serology. Finally, the first case-control study demonstrated a strong association between microcephaly and congenital ZIKV infection. The knowledge built with the epidemiological paradigm was supported by the scientific community, thereby establishing the consensus for a causal relationship between ZIKV and the microcephaly epidemic.",
+    "denotations": [
+        {
+            "id": "HP_0000252",
+            "span": {
+                "begin": 150,
+                "end": 162
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "DOID_10907",
+            "span": {
+                "begin": 150,
+                "end": 162
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "CHEBI_33697",
+            "span": {
+                "begin": 1066,
+                "end": 1069
+            },
+            "obj": "RNA"
+        },
+        {
+            "id": "CHEBI_59132",
+            "span": {
+                "begin": 1074,
+                "end": 1082
+            },
+            "obj": "antigens"
+        },
+        {
+            "id": "HP_0000252",
+            "span": {
+                "begin": 1168,
+                "end": 1180
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "DOID_10907",
+            "span": {
+                "begin": 1168,
+                "end": 1180
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "CHEBI_34935",
+            "span": {
+                "begin": 1321,
+                "end": 1327
+            },
+            "obj": "cohort"
+        },
+        {
+            "id": "HP_0000988",
+            "span": {
+                "begin": 1357,
+                "end": 1361
+            },
+            "obj": "rash"
+        },
+        {
+            "id": "DOID_0050486",
+            "span": {
+                "begin": 1357,
+                "end": 1361
+            },
+            "obj": "rash"
+        },
+        {
+            "id": "HP_0000252",
+            "span": {
+                "begin": 1470,
+                "end": 1482
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "DOID_10907",
+            "span": {
+                "begin": 1470,
+                "end": 1482
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "HP_0000252",
+            "span": {
+                "begin": 1693,
+                "end": 1705
+            },
+            "obj": "microcephaly"
+        },
+        {
+            "id": "DOID_10907",
+            "span": {
+                "begin": 1693,
+                "end": 1705
+            },
+            "obj": "microcephaly"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_33697"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_59132"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_33697"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_59132"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_0050486",
+            "pred": "no_relation",
+            "obj": "CHEBI_33697"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_0050486",
+            "pred": "no_relation",
+            "obj": "CHEBI_59132"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_0050486",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_33697"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_59132"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_10907",
+            "pred": "effect",
+            "obj": "CHEBI_33697"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_10907",
+            "pred": "effect",
+            "obj": "CHEBI_59132"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_10907",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        }
+    ]
+}

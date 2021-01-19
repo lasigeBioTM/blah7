@@ -1,0 +1,43 @@
+{
+    "text": "HTLV is a virus that affects human T-cells. Brazil is the country of the world with the largest absolute number of HTLV cases. Estimates by the Ministry of Health point to 700,000 to 2 million infected Brazilians. The majority are asymptomatic carriers, but some persons may develop degenerative neurological conditions such as tropical spastic paraparesis, in addition to leukemia and lymphoma. The forms of transmission and clinical manifestations such as progressive motor incapacity, genitourinary disorders, in addition to restriction of maternal breastfeeding, impact daily life and can lead to social discrimination and stigma. The stigma denotes violation of social norms and reinforces prejudice and inequalities. This article aims to discuss the concept of stigma and its repercussions on persons living with HTLV. The discussion is based on a literature review on the theme and the authors' experience with care for persons affected by the infection and illness. The study found that both HTLV carrier status and HTLV-related illness can be stigmatizing for individuals, who feel inferior for being infected with a potentially serious and even fatal disease, although incompletely understood and loaded with derogatory stereotypes. This situation can have negative repercussions on access to health services, treatment adherence, and pursuit of rights. Public policies should help mitigate such stigmatization, ensuring the rights of individuals in a situation of vulnerability due to HTLV in order from them to live as protagonists in the exercise of their civil rights.",
+    "denotations": [
+        {
+            "id": "DOID_321",
+            "span": {
+                "begin": 328,
+                "end": 356
+            },
+            "obj": "tropical spastic paraparesis"
+        },
+        {
+            "id": "DOID_1240",
+            "span": {
+                "begin": 373,
+                "end": 381
+            },
+            "obj": "leukemia"
+        },
+        {
+            "id": "CHEBI_78059",
+            "span": {
+                "begin": 1005,
+                "end": 1012
+            },
+            "obj": "carrier"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_321",
+            "pred": "effect",
+            "obj": "CHEBI_78059"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_1240",
+            "pred": "effect",
+            "obj": "CHEBI_78059"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+0|chunk|Arthritis suppression by NADPH activation operates through an interferon- pathway
+0	0	9 Arthritis	Phenotype	HP_0001369
+
+1|chunk|Background: A polymorphism in the activating component of the nicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex, neutrophil cytosolic factor 1 (NCF1), has previously been identified as a regulator of arthritis severity in mice and rats. This discovery resulted in a search for NADPH oxidase-activating substances as a potential new approach to treat autoimmune disorders such as rheumatoid arthritis (RA). We have recently shown that compounds inducing NCF1-dependent oxidative burst, e.g. phytol, have a strong ameliorating effect on arthritis in rats. However, the underlying molecular mechanism is still not clearly understood. The aim of this study was to use gene-expression profiling to understand the protective effect against arthritis of activation of NADPH oxidase in the immune system.
+1	218	227 arthritis	Phenotype	HP_0001369
+1	228	236 severity	Phenotype	HP_0012824
+1	397	417 rheumatoid arthritis	Phenotype	HP_0001370
+1	408	417 arthritis	Phenotype	HP_0001369
+1	553	562 arthritis	Phenotype	HP_0001369
+1	752	761 arthritis	Phenotype	HP_0001369
+
+2|chunk|Results: Subcutaneous administration of phytol leads to an accumulation of the compound in the inguinal lymph nodes, with peak levels being reached approximately 10 days after administration. Hence, global gene-expression profiling on inguinal lymph nodes was performed 10 days after the induction of pristaneinduced arthritis (PIA) and phytol administration. The differentially expressed genes could be divided into two pathways, consisting of genes regulated by different interferons. IFN- regulated the pathway associated with arthritis development, whereas IFN- regulated the pathway associated with disease protection through phytol. Importantly, these two molecular pathways were also confirmed to differentiate between the arthritis-susceptible dark agouti (DA) rat, (with an Ncf-1 DA allele that allows only low oxidative burst), and the arthritis-protected DA.Ncf-1 E3 rat (with an Ncf1 E3 allele that allows a stronger oxidative burst).
+2	317	326 arthritis	Phenotype	HP_0001369
+2	531	540 arthritis	Phenotype	HP_0001369
+
+3|chunk|Conclusion: Naturally occurring genetic polymorphisms in the Ncf-1 gene modulate the activity of the NADPH oxidase complex, which strongly regulates the severity of arthritis. We now show that the Ncf-1 allele that enhances oxidative burst and protects against arthritis is operating through an IFN-associated pathway, whereas the arthritis-driving allele operates through an IFN--associated pathway. Treatment of arthritis-susceptible rats with an NADPH oxidase-activating substance, phytol, protects against arthritis. Interestingly, the treatment led to a restoration of the oxidative-burst effect and induction of a strikingly similar IFN--dependent pathway, as seen with the disease-protective Ncf1 polymorphism.
+3	101	122 NADPH oxidase complex	Gene_function	GO_0043020
+3	153	161 severity	Phenotype	HP_0012824
+3	165	174 arthritis	Phenotype	HP_0001369
+3	224	239 oxidative burst	Gene_function	GO_0045730
+3	261	270 arthritis	Phenotype	HP_0001369
+3	512	521 arthritis	Phenotype	HP_0001369
+3	GO-HP	GO_0043020	HP_0012824
+3	GO-HP	GO_0043020	HP_0001369
+3	HP-GO	HP_0012824	GO_0045730
+3	HP-GO	HP_0001369	GO_0045730
+

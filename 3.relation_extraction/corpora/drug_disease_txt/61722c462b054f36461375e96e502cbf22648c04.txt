@@ -1,0 +1,94 @@
+0|chunk|2 convergent Research center for emerging Virus infection
+0	42	57 Virus infection	Disease	DOID_934
+
+1|chunk|and subtropical countries and is a significant public health concern and socioeconomic burden. There is an urgent need to develop antivirals that can effectively reduce dengue virus (DENV) replication and decrease viral load. Niclosamide, an antiparasitic drug approved for human use, has been recently identified as an effective antiviral agent against a number of pH-dependent viruses, including flaviviruses. Here, we reveal that neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Specifically, niclosamide-induced endosomal neutralization not only prevents viral RNA replication but also affects the maturation of DENV particles, rendering them non-infectious. We found that niclosamide-induced endosomal neutralization prevented E glycoprotein conformational changes on the virion surface of flaviviruses, resulting in the release of non-infectious immature virus particles with uncleaved pr peptide from host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.
+1	130	140 antivirals	Chemical	CHEBI_22587
+1	226	237 Niclosamide	Chemical	CHEBI_7553
+1	256	260 drug	Chemical	CHEBI_23888
+1	330	339 antiviral	Chemical	CHEBI_22587
+1	330	345 antiviral agent	Chemical	CHEBI_22587
+1	488	499 niclosamide	Chemical	CHEBI_7553
+1	636	639 RNA	Chemical	CHEBI_33697
+1	805	817 glycoprotein	Chemical	CHEBI_17089
+1	966	973 peptide	Chemical	CHEBI_16670
+1	1055	1066 niclosamide	Chemical	CHEBI_7553
+1	1073	1082 antiviral	Chemical	CHEBI_22587
+1	1073	1088 antiviral agent	Chemical	CHEBI_22587
+1	1174	1180 action	Chemical	CHEBI_5133
+1	1188	1192 drug	Chemical	CHEBI_23888
+
+2|chunk|Dengue virus (DENV) represents a major mosquito-borne pathogen responsible for significant public health and socioeconomic burden in large regions of tropical and subtropical countries 1,2 . There are four distinct serotypes, DENV-1 to DENV-4, that are transmitted mainly by mosquitoes of Aedes species, which continuously spread to new geographical areas around the world 3 . The World Health Organization estimates a prevalence of 50-100 million cases of DENV infection per year; however, a recent global estimate study suggested that 390 million DENV infections occur annually, of which 96 million cases have clear symptoms 2 . DENV infection causes a wide range of clinical symptoms, from acute febrile illness (dengue fever) to life-threatening haemorrhagic fever/dengue shock syndrome 1 . To date, clinically approved therapeutic options for treating DENV-infected patients are still lacking.
+2	716	728 dengue fever	Disease	DOID_12205
+2	782	790 syndrome	Disease	DOID_225
+
+3|chunk|DENV is an enveloped, single-stranded, positive-sense RNA virus that belongs to Flavivirus genus in the family Flaviviridae 4 . The genus Flavivirus comprises many important emerging arboviruses including Japanese encephalitis virus, West Nile virus and Zika virus (ZIKV). Recently, ZIKV infection has emerged as a global public health concern due to its association with newborn microcephaly 5,6 and neurological sequelae such as Guillain-Barr syndrome, meningoencephalitis, and myelitis in infected adults 6-10 . The flavivirus genome is approximately 11 kb in length and encodes a polyprotein that is processed into three structural (capsid [C], premembrane [prM], and envelope [E]) and seven non-structural proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, www.nature.com/scientificreports www.nature.com/scientificreports/ and NS5) by cellular and viral proteases 11,12 . Flavivirus infection is initiated by attachment of the virus to a cellular receptor on the plasma membrane followed by receptor-mediated endocytosis and transportation of viral particles to endosomes 13, 14 . Viral membrane fusion with the endosomal membrane is triggered upon exposure of the virus to the low-pH environment of endosomes, through which the viral genome is released into the cytoplasm 15-19 . Following RNA replication and protein translation, immature virions containing prM proteins are assembled within the endoplasmic reticulum (ER) and mature through passaging the acidic environment of the trans-Golgi network (TGN), wherein E proteins undergo conformational changes and the pr peptides are cleaved by furin endoproteases, after which progeny virions are released from the host cell 20-24 .
+3	54	57 RNA	Chemical	CHEBI_33697
+3	205	226 Japanese encephalitis	Disease	DOID_10844
+3	214	226 encephalitis	Disease	DOID_9588
+3	380	392 microcephaly	Disease	DOID_10907
+3	481	489 myelitis	Disease	DOID_322
+3	712	720 proteins	Chemical	CHEBI_36080
+3	1291	1294 RNA	Chemical	CHEBI_33697
+3	1311	1318 protein	Chemical	CHEBI_16541
+3	1364	1372 proteins	Chemical	CHEBI_36080
+3	1521	1529 proteins	Chemical	CHEBI_36080
+3	1572	1580 peptides	Chemical	CHEBI_16670
+3	CHEBI-DOID	CHEBI_33697	DOID_10844
+3	CHEBI-DOID	CHEBI_33697	DOID_9588
+3	CHEBI-DOID	CHEBI_33697	DOID_10907
+3	CHEBI-DOID	CHEBI_33697	DOID_322
+3	DOID-CHEBI	DOID_10844	CHEBI_36080
+3	DOID-CHEBI	DOID_10844	CHEBI_16541
+3	DOID-CHEBI	DOID_10844	CHEBI_16670
+3	DOID-CHEBI	DOID_9588	CHEBI_36080
+3	DOID-CHEBI	DOID_9588	CHEBI_16541
+3	DOID-CHEBI	DOID_9588	CHEBI_16670
+3	DOID-CHEBI	DOID_10907	CHEBI_36080
+3	DOID-CHEBI	DOID_10907	CHEBI_16541
+3	DOID-CHEBI	DOID_10907	CHEBI_16670
+3	DOID-CHEBI	DOID_322	CHEBI_36080
+3	DOID-CHEBI	DOID_322	CHEBI_16541
+3	DOID-CHEBI	DOID_322	CHEBI_16670
+
+4|chunk|It is well established that neutralization of the acidic TGN environment prevents furin cleavage, resulting in immature particles containing uncleaved prM proteins [25] [26] [27] . These immature particles are non-infectious since the uncleaved prM peptides block the low-pH-induced conformational changes of the viral E proteins essential for binding to the cell surface as well as membrane fusion of the virus during entry 23, 26, 28, 29 . Thus, several studies have shown that lysosomotropic agents, such as chloroquine, exert modest antiviral effects against pH-dependent viruses, including flaviviruses, by interfering with endosomal fusion and furin-dependent maturation in vivo and in vitro 23,30-32 . Recently, niclosamide, a U.S. Food and Drug Administration (FDA)-approved antiparasitic drug used in humans 33-35 , has been identified as an effective antiviral agent against a number of pH-dependent viruses, such as human rhinoviruses and influenza virus 36 , severe acute respiratory syndrome-coronavirus 37 , Chikungunya virus 38 , and flaviviruses [39] [40] [41] . These studies suggested that the broad antiviral activity of niclosamide is associated with neutralization of endo-lysosomal pH that interferes with pH-dependent membrane fusion which is a critical step for virus entry 36 . In a recent study, Kao et al. 41 , determined the inhibitory role of endosomal deacidification in DENV viral genome replication and uncoating but not in later steps of the viral life cycle. Therefore, the possible effect of niclosamide-induced neutralization of endosomal compartments on later stages of the DENV infectious cycle remains to be elucidated.
+4	155	163 proteins	Chemical	CHEBI_36080
+4	249	257 peptides	Chemical	CHEBI_16670
+4	321	329 proteins	Chemical	CHEBI_36080
+4	537	546 antiviral	Chemical	CHEBI_22587
+4	719	730 niclosamide	Chemical	CHEBI_7553
+4	739	743 Food	Chemical	CHEBI_33290
+4	748	752 Drug	Chemical	CHEBI_23888
+4	797	801 drug	Chemical	CHEBI_23888
+4	861	870 antiviral	Chemical	CHEBI_22587
+4	861	876 antiviral agent	Chemical	CHEBI_22587
+4	950	959 influenza	Disease	DOID_8469
+4	1022	1033 Chikungunya	Disease	DOID_0050012
+4	1118	1127 antiviral	Chemical	CHEBI_22587
+4	1140	1151 niclosamide	Chemical	CHEBI_7553
+4	1364	1368 role	Chemical	CHEBI_50906
+4	CHEBI-DOID	CHEBI_36080	DOID_8469
+4	CHEBI-DOID	CHEBI_36080	DOID_0050012
+4	CHEBI-DOID	CHEBI_16670	DOID_8469
+4	CHEBI-DOID	CHEBI_16670	DOID_0050012
+4	CHEBI-DOID	CHEBI_22587	DOID_8469
+4	CHEBI-DOID	CHEBI_22587	DOID_0050012
+4	CHEBI-DOID	CHEBI_7553	DOID_8469
+4	CHEBI-DOID	CHEBI_7553	DOID_0050012
+4	CHEBI-DOID	CHEBI_33290	DOID_8469
+4	CHEBI-DOID	CHEBI_33290	DOID_0050012
+4	CHEBI-DOID	CHEBI_23888	DOID_8469
+4	CHEBI-DOID	CHEBI_23888	DOID_0050012
+4	DOID-CHEBI	DOID_8469	CHEBI_50906
+4	DOID-CHEBI	DOID_0050012	CHEBI_50906
+
+5|chunk|In this study, we investigated and confirmed that the neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Our data indicate that niclosamide-induced endosomal neutralization prevents viral genome release and replication as well as maturation of DENV particles rendering it non-infectious. Specifically, we found that niclosamide-induced endosomal neutralization blocks conformational changes of E glycoproteins on the virion surface of both DENV and ZIKV, resulting in the release of immature virus particles with uncleaved pr peptide and preventing them from infecting new host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.
+5	109	120 niclosamide	Chemical	CHEBI_7553
+5	465	478 glycoproteins	Chemical	CHEBI_17089
+5	595	602 peptide	Chemical	CHEBI_16670
+5	718	729 niclosamide	Chemical	CHEBI_7553
+5	736	745 antiviral	Chemical	CHEBI_22587
+5	736	751 antiviral agent	Chemical	CHEBI_22587
+5	837	843 action	Chemical	CHEBI_5133
+
+6|chunk|Scientific RepoRts | (2019) 9:8682 | https://doi.
+

@@ -1,0 +1,14 @@
+0|chunk|Quantitative Fluorescence Quenching on Antibody-conjugated Graphene Oxide as a Platform for Protein Sensing OPEN
+
+1|chunk|We created an immunosensing platform for the detection of proteins in a buffer solution. Our sensing platform relies on graphene oxide (GO) nanosheets conjugated with antibodies to provide quantitative binding sites for analyte proteins. When analyte proteins and standard fluorescein-labelled proteins are competing for the binding sites, the assay exhibits quantitative fluorescence quenching by GO for the fluorescein-labelled proteins as determined by the analyte protein concentration. Because of this mechanism, measured fluorescence intensity from unquenched fluorescein-labelled protein was shown to increase with an increasing analyte protein concentration. As an alternative to the conventional enzyme-linked immunosorbent assay (ELISA), our method does not require an enzyme-linked second antibody for protein recognition and the enzyme for optical signal measurement. Thus, it is beneficial with its low cost and fewer systematic errors caused by the series of antigen-antibody recognition steps in ELISA. Immune globulin G (IgG) was introduced as a model protein to test our method and our results showed that the limit of detection for IgG was 4.67 pmol mL 1 in the buffer solution. This sensing mechanism could be developed into a promising biosensor for the detection of proteins, which would broaden the spectrum of GO applications in both analytical biochemistry and clinical diagnosis.
+1	202	209 binding	Gene_function	GO_0005488
+1	325	332 binding	Gene_function	GO_0005488
+1	540	549 intensity	Phenotype	HP_0012824
+1	800	808 antibody	Gene_function	GO_0003823
+1	800	808 antibody	Gene_function	GO_0042571
+1	1025	1035 globulin G	Gene_function	GO_0003796
+1	GO-HP	GO_0005488	HP_0012824
+1	HP-GO	HP_0012824	GO_0003823
+1	HP-GO	HP_0012824	GO_0042571
+1	HP-GO	HP_0012824	GO_0003796
+

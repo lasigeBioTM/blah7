@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<document id="88395bf2fdca68c0eb033b14655275547bdcd714">
+  <chunk id="88395bf2fdca68c0eb033b14655275547bdcd714.c0" text="Comparative analysis of the activation of unfolded protein response by spike proteins of severe acute respiratory syndrome coronavirus and human coronavirus HKU1">
+    <entity charOffset="51-58" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="77-85" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="89-122" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e2" ontology_id="DOID_2945" text="severe acute respiratory syndrome" type="disease"/>
+    <entity charOffset="114-122" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e3" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e2" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.p0" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e3" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.p1" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e2" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.p2" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c0.e3" id="88395bf2fdca68c0eb033b14655275547bdcd714.c0.p3" relation="true"/>
+  </chunk>
+  <chunk id="88395bf2fdca68c0eb033b14655275547bdcd714.c1" text="Background: Whereas severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) is associated with severe disease, human coronavirus HKU1 (HCoV-HKU1) commonly circulates in the human populations causing generally milder illness. Spike (S) protein of SARS-CoV activates the unfolded protein response (UPR). It is not understood whether HCoV-HKU1 S protein has similar activity. In addition, the UPR-activating domain in SARS-CoV S protein remains to be identified. Results: In this study we compared S proteins of SARS-CoV and HCoV-HKU1 for their ability to activate the UPR. Both S proteins were found in the endoplasmic reticulum. Transmembrane serine protease TMPRSS2 catalyzed the cleavage of SARS-CoV S protein, but not the counterpart in HCoV-HKU1. Both S proteins showed a similar pattern of UPR-activating activity. Through PERK kinase they activated the transcription of UPR effector genes such as Grp78, Grp94 and CHOP. N-linked glycosylation was not required for the activation of the UPR by S proteins. S1 subunit of SARS-CoV but not its counterpart in HCoV-HKU1 was capable of activating the UPR. A central region (amino acids 201-400) of SARS-CoV S1 was required for this activity.">
+    <entity charOffset="20-53" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" ontology_id="DOID_2945" text="severe acute respiratory syndrome" type="disease"/>
+    <entity charOffset="45-53" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="55-59" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="243-250" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="286-293" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="351-358" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="434-441" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="505-513" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="586-594" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="650-656" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e9" ontology_id="CHEBI_17115" text="serine" type="chemical"/>
+    <entity charOffset="711-718" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="765-773" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e11" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="835-839" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e12" ontology_id="CHEBI_17300" text="PERK" type="chemical"/>
+    <entity charOffset="887-895" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e13" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="1008-1016" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e14" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1131-1136" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e15" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="1131-1142" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e16" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="1137-1142" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e17" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e3" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p0" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e4" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p1" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e5" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p2" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e6" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p3" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e7" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p4" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e8" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p5" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e9" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p6" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e10" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p7" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e11" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p8" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e12" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p9" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e13" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p10" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e14" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p11" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e15" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p12" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e16" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p13" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e0" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e17" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p14" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e3" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p15" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e4" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p16" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e5" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p17" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e6" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p18" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e7" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p19" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e8" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p20" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e9" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p21" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e10" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p22" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e11" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p23" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e12" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p24" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e13" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p25" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e14" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p26" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e15" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p27" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e16" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p28" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e1" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e17" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p29" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e3" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p30" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e4" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p31" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e5" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p32" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e6" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p33" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e7" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p34" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e8" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p35" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e9" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p36" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e10" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p37" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e11" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p38" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e12" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p39" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e13" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p40" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e14" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p41" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e15" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p42" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e16" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p43" relation="true"/>
+    <pair e1="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e2" e2="88395bf2fdca68c0eb033b14655275547bdcd714.c1.e17" id="88395bf2fdca68c0eb033b14655275547bdcd714.c1.p44" relation="true"/>
+  </chunk>
+  <chunk id="88395bf2fdca68c0eb033b14655275547bdcd714.c2" text="Conclusions: SARS-CoV and HCoV-HKU1 S proteins use distinct UPR-activating domains to exert the same modulatory effects on UPR signaling.">
+    <entity charOffset="38-46" id="88395bf2fdca68c0eb033b14655275547bdcd714.c2.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+  </chunk>
+</document>

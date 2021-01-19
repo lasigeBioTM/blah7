@@ -1,0 +1,18 @@
+0|chunk|Severe acute respiratory syndrome-coronavirus infection in aged nonhuman primates is associated with modulated pulmonary and systemic immune responses
+0	0	6 Severe	Phenotype	HP_0012828
+0	7	12 acute	Phenotype	HP_0011009
+
+1|chunk|Background: Many respiratory viruses disproportionately impact the elderly. Likewise, advanced age correlated with more adverse disease outcomes following severe acute respiratory syndrome coronavirus (SARS-CoV) infection in humans. We used an aged African green monkey SARS-CoV infection model to better understand age-related mechanisms of increased susceptibility to viral respiratory infections. Nonhuman primates are critical translational models for such research given their similarities to humans in immune-ageing as well as lung structure.
+1	155	161 severe	Phenotype	HP_0012828
+1	162	167 acute	Phenotype	HP_0011009
+
+2|chunk|Results: Significant age-and infection-dependent differences were observed in both systemic and mucosal immune compartments. Peripheral lymphocytes, specifically CD8 T and B cells were significantly lower in aged monkeys pre-and post-SARS-CoV infection, while neutrophil and monocyte numbers were not impacted by age or infection status. Serum proinflammatory cytokines were similar in both age groups, whereas significantly lower levels of IL-1beta, IL-18, IL-6, IL-12 and IL-15 were detected in the lungs of SARS-CoV-infected aged monkeys at either 5 or 10 days post infection. Total lung leukocyte numbers and relative frequency of CD8 T cells, B cells, macrophages and dendritic cells were greatly reduced in the aged host during SARS-CoV infection, despite high levels of chemoattractants for many of these cells in the aged lung. Dendritic cells and monocytes/macrophages showed age-dependent differences in activation and chemokine receptor profiles, while the CD8 T cell and B cell responses were significantly reduced in the aged host. In examination of viral titers, significantly higher levels of SARS-CoV were detected in the nasal swabs early, at day 1 post infection, in aged as compared to juvenile monkeys, but virus levels were only slightly higher in aged animals by day 3. Although there was a trend of higher titers in respiratory tissues at day 5 post infection, this did not reach statistical significance and virus was cleared from all animals by day 10, regardless of age. Conclusions: This study provides unique insight into how several parameters of the systemic and mucosal immune response to SARS-CoV infection are significantly modulated by age. These immune differences may contribute to deficient immune function and the observed trend of higher SARS-CoV replication in aged nonhuman primates.
+2	125	135 Peripheral	Phenotype	HP_0030646
+2	622	631 frequency	Phenotype	HP_0040279
+2	1593	1616 mucosal immune response	Gene_function	GO_0002385
+2	1601	1616 immune response	Gene_function	GO_0006955
+2	HP-GO	HP_0030646	GO_0002385
+2	HP-GO	HP_0030646	GO_0006955
+2	HP-GO	HP_0040279	GO_0002385
+2	HP-GO	HP_0040279	GO_0006955
+

@@ -1,0 +1,101 @@
+0|chunk|Novel Synthetic DNA Immunogens Targeting Latent Expressed Antigens of Epstein-Barr Virus Elicit Potent Cellular Responses and Inhibit Tumor Growth
+0	16	19 DNA	Chemical	CHEBI_16991
+0	58	66 Antigens	Chemical	CHEBI_59132
+0	CHEBI-CHEBI	CHEBI_16991	CHEBI_59132
+
+1|chunk|Infectious diseases are linked to 15%-20% of cancers worldwide. Among them, Epstein-Barr virus (EBV) is an oncogenic herpesvirus that chronically infects over 90% of the adult population, with over 200,000 cases of cancer and 150,000 cancer-related deaths attributed to it yearly. Acute EBV infection can present as infectious mononucleosis, and lead to the future onset of multiple cancers, including Burkitt lymphoma, Hodgkin lymphoma, nasopharyngeal carcinoma, and gastric carcinoma. Many of these cancers express latent viral genes, including Epstein-Barr virus nuclear antigen 1 (EBNA1) and latent membrane proteins 1 and 2 (LMP1 and LMP2). Previous attempts to create potent immunogens against EBV have been reported but generated mixed success. We designed novel Synthetic Consensus (SynCon) DNA vaccines against EBNA1, LMP1 and LMP2 to improve on the immune potency targeting important antigens expressed in latently infected cells. These EBV tumor antigens are hypothesized to be useful targets for potential immunotherapy of EBV-driven cancers. We optimized the genetic sequences for these three antigens, studied them for expression, and examined their immune profiles in vivo. We observed that these immunogens generated unique profiles based on which antigen was delivered as the vaccine target. EBNA1vax and LMP2Avax generated the most robust T cell immunity. Interestingly, LMP1vax was a very weak immunogen, generating very low levels of CD8 T cell immunity both as a standalone vaccine and as part of a trivalent vaccine cocktail. LMP2Avax was able to drive immunity that impacted EBV-antigen-positive tumor growth. These studies suggest that engineered EBV latent protein vaccines deserve additional study as potential agents for immunotherapy of EBV-driven cancers.
+1	574	581 antigen	Chemical	CHEBI_59132
+1	612	620 proteins	Chemical	CHEBI_36080
+1	799	802 DNA	Chemical	CHEBI_16991
+1	894	902 antigens	Chemical	CHEBI_59132
+1	957	965 antigens	Chemical	CHEBI_59132
+1	1106	1114 antigens	Chemical	CHEBI_59132
+1	1264	1271 antigen	Chemical	CHEBI_59132
+1	1682	1689 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_16541
+
+2|chunk|Vaccines 2019, 7, 44 2 of 16 carcinoma [8, 9] , and gastric carcinoma [10] . EBV infection is also linked to autoimmune disorders, such as multiple sclerosis [11] and systemic lupus erythematosus [12] , which are likely tied to EBV-driven immune dysregulation [13] . The cancers associated with EBV are linked to their expression of EBV oncogenes, including Epstein-Barr virus nuclear antigen 1 (EBNA1) and latent membrane proteins 1 and 2 (LMP1 and LMP2) [14] . The latent viral oncoproteins of EBV are important cancer drivers and are implicated in directly contributing to EBV-associated malignancies [15] [16] [17] .
+2	385	392 antigen	Chemical	CHEBI_59132
+2	423	431 proteins	Chemical	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+
+3|chunk|EBNA1 is important in maintaining the viral genome and is required for EBV latency and associated transformation. LMP1 and LMP2 were discovered to colocalize in the membranes of latently infected lymphocytes [18] , and these oncoproteins contribute to cancer progression via diverse signaling pathways [19] . LMP1 interacts with tumor necrosis factor receptor (TNFR)-associated factors (TRAFS) to drive nuclear factor-B (NF-B), mitogen-activated protein kinase (MAPK), and phosphatidylinositol 3-kinase (PI3K) pathways [20] . LMP2 mimics the B cell receptor, sending survival signals to B cells without the need for antigen stimulation [21] . The LMP2 gene produces LMP2A and LMP2B, of which LMP2A has an additional 119 amino acids at the N-terminus.
+3	448	455 protein	Chemical	CHEBI_16541
+3	475	495 phosphatidylinositol	Chemical	CHEBI_16749
+3	618	625 antigen	Chemical	CHEBI_59132
+3	722	727 amino	Chemical	CHEBI_46882
+3	722	733 amino acids	Chemical	CHEBI_33704
+3	728	733 acids	Chemical	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_16749
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_16749	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_16749	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_16749	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_16749	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+4|chunk|There are no approved vaccines available to prevent initial infection by EBV, and clinical trials of EBV vaccine candidates have had limited success. The target that progressed furthest along in the clinic was a recombinant subunit gp350 prophylactic vaccine adjuvanted with aluminum hydroxide and 3-O-desacyl-4 -monophosphoryl lipid A (AS04) which was tested in a phase 2 trial. The study reported that it statistically decreased the incidence of infectious mononucleosis, but this vaccine did not reduce infections by the virus, despite generating high-titer antibody responses in vaccine recipients [22] . Future vaccines against EBV can further explore the numerous other glycoproteins involved in EBV entry and the latent proteins essential for maintaining the virus [23] .
+4	275	283 aluminum	Chemical	CHEBI_28984
+4	275	293 aluminum hydroxide	Chemical	CHEBI_33130
+4	284	293 hydroxide	Chemical	CHEBI_16234
+4	328	333 lipid	Chemical	CHEBI_18059
+4	328	335 lipid A	Chemical	CHEBI_25051
+4	676	689 glycoproteins	Chemical	CHEBI_17089
+4	727	735 proteins	Chemical	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_33130
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_16234
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_18059
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_25051
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_28984	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_33130	CHEBI_16234
+4	CHEBI-CHEBI	CHEBI_33130	CHEBI_18059
+4	CHEBI-CHEBI	CHEBI_33130	CHEBI_25051
+4	CHEBI-CHEBI	CHEBI_33130	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_33130	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_16234	CHEBI_18059
+4	CHEBI-CHEBI	CHEBI_16234	CHEBI_25051
+4	CHEBI-CHEBI	CHEBI_16234	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_16234	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_18059	CHEBI_25051
+4	CHEBI-CHEBI	CHEBI_18059	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_18059	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_25051	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_25051	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_36080
+
+5|chunk|EBV is a viable target for therapeutic approaches to treating cancer. Cellular immune responses are particularly important in targeting malignant cells, and they have been exploited in specific cancer immunotherapies [24, 25] . It would be a major advantage for such approaches if they would drive both CD4 T cell responses and induce functional CD8 T cell responses that could clear EBV-infected targets. Prior vaccine approaches particularly lacked potent induction of CD8 cellular immunity.
+
+6|chunk|Newer Synthetic Consensus (SynCon) DNA vaccines, combined with adaptive electroporation (EP), have demonstrated safety, as well as the potent induction of antibodies, T helper responses, and CD8 effector T cells, in multiple clinical trials. Clinical efficacy has been reported in the context of immunotherapy for human papillomavirus (HPV)-driven neoplasia, and clinical regressions with clearance have been described in early studies that use a combination approach involving engineered HPV nuclear gene targets and checkpoint inhibitor therapy with PD-1. Specifically, a therapeutic DNA vaccine targeting HPV E6/E7 antigens from the HPV 16 and 18 strains has shown a positive impact in patients when this vaccine was delivered by Cellectra adaptive EP in a phase 2b trial for the treatment of cervical intraepithelial neoplasia [26] . Importantly, this vaccine induced potent CD8 T cells that infiltrated the tumor and caused the lesions to regress, resulting in both histopathological regression and viral clearance in 40% of treated patients. Similar data has been reported impacting HPV-driven head and neck cancers in a preliminary report [27] , where a similar genetically-adjuvanted HPV DNA vaccine has been shown to drive an increase in intratumoral T cell infiltration by CD8 cells, as well as result in complete clinical regression in metastatic head and neck cancer when the vaccine was followed by PD-1 immunotherapy (this outcome was observed in 2/4 patients).
+6	35	38 DNA	Chemical	CHEBI_16991
+6	195	203 effector	Chemical	CHEBI_35224
+6	529	538 inhibitor	Chemical	CHEBI_35222
+6	586	589 DNA	Chemical	CHEBI_16991
+6	618	626 antigens	Chemical	CHEBI_59132
+6	1196	1199 DNA	Chemical	CHEBI_16991
+6	CHEBI-CHEBI	CHEBI_16991	CHEBI_35224
+6	CHEBI-CHEBI	CHEBI_16991	CHEBI_35222
+6	CHEBI-CHEBI	CHEBI_16991	CHEBI_59132
+6	CHEBI-CHEBI	CHEBI_35224	CHEBI_35222
+6	CHEBI-CHEBI	CHEBI_35224	CHEBI_59132
+6	CHEBI-CHEBI	CHEBI_35222	CHEBI_59132
+
+7|chunk|These data support the importance of the synthetic DNA approach for the treatment of virally-driven cancers which rely on viral oncogenes for continued disease. This is the situation for EBV-driven cancer as well. Here we report on studies investigating the generation of a multiantigen immunotherapeutic vaccine for EBV infection. We focused on developing a vaccine cocktail consisting of the episome-maintaining EBNA1 antigen combined with the two important latency-related membrane antigens for EBV, LMP1 and LMP2. We report the immune potency and early impact of the combined immune responses to these constructs.
+7	51	54 DNA	Chemical	CHEBI_16991
+7	420	427 antigen	Chemical	CHEBI_59132
+7	485	493 antigens	Chemical	CHEBI_59132
+7	CHEBI-CHEBI	CHEBI_16991	CHEBI_59132
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc">
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c0" text="A novel fast vector method for genetic sequence comparison OPEN"/>
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1" text="With sharp increasing in biological sequences, the traditional sequence alignment methods become unsuitable and infeasible. It motivates a surge of fast alignment-free techniques for sequence analysis. Among these methods, many sorts of feature vector methods are established and applied to reconstruction of species phylogeny. The vectors basically consist of some typical numerical features for certain biological problems. The features may come from the primary sequences, secondary or three dimensional structures of macromolecules. In this study, we propose a novel numerical vector based on only primary sequences of organism to build their phylogeny. Three chemical and physical properties of primary sequences: purine, pyrimidine and keto are also incorporated to the vector. Using each property, we convert the nucleotide sequence into a new sequence consisting of only two kinds of letters. Therefore, three sequences are constructed according to the three properties. For each letter of each sequence we calculate the number of the letter, the average position of the letter and the variation of the position of the letter appearing in the sequence. Tested on several datasets related to mammals, viruses and bacteria, this new tool is fast in speed and accurate for inferring the phylogeny of organisms.">
+    <entity charOffset="727-737" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e0" ontology_id="CHEBI_16898" text="pyrimidine" type="chemical"/>
+    <entity charOffset="820-830" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e1" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="988-994" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e2" ontology_id="CHEBI_6446" text="letter" type="chemical"/>
+    <entity charOffset="1043-1049" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e3" ontology_id="CHEBI_6446" text="letter" type="chemical"/>
+    <entity charOffset="1079-1085" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e4" ontology_id="CHEBI_6446" text="letter" type="chemical"/>
+    <entity charOffset="1127-1133" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e5" ontology_id="CHEBI_6446" text="letter" type="chemical"/>
+  </chunk>
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c2" text="Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 12226 |"/>
+</document>

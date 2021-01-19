@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3">
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c0" text=""/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c1" text="Table S1 -The detailed description of 133 features Features were grouped into mutation site features and neighborhood features*. The abbreviated feature name is inside the brackets following the full name. Mutation site, sequence features 1. Entropy of superfamily (EntropySuper): Superfamily alignment was obtained from the SAM-T02 web server [1]. Entropy was calculated as ! &quot;"/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c2" text="Pr (x) x= 20 amino acids # Log(Pr(x)) , where Pr(x) represents the probability of each amino acid occurring in that position."/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c3" text="2. Relative entropy of superfamily (RelEntropySuper): Entropy was normalized against the distribution of all amino acids in the superfamily alignment:"/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c4" text="Pr (x) x= 20 amino acids &quot; Log(Pr(x) /Pr(xb)) , where Pr(x) represents the probability of each amino acid in that position and">
+    <entity charOffset="114-122" id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c4.e0" ontology_id="HP_0012830" text="position" type="phenotype"/>
+  </chunk>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c5" text="Pr(x b ) represents the overall probability of occurrence of each amino acid in the superfamily alignment."/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c6" text="3. Entropy of subfamily (EntropySub): Subfamily alignment was constructed manually from the superfamily by including ten orthologs having the highest sequence identity to the query. The entropy formula is same as above. 4. Relative entropy of subfamily (RelEntropySub): The above relative entropy formula was applied to the subfamily alignment. 5. Positional hidden Markov model conservation score (PHC): The score was computed by the formula:"/>
+  <chunk id="c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3.c7" text="! Log(| Pr(wild &quot; type) &quot; Pr(mutant) |) + Log(Pr(wild &quot; type)) + Log(Pr(most favored)) &quot; Log(Pr(mutant)) [2], where Pr(wild-type),"/>
+</document>

@@ -1,0 +1,15 @@
+0|chunk|Combining Free Text and Structured Electronic Medical Record Entries to Detect Acute Respiratory Infections
+0	79	84 Acute	Phenotype	HP_0011009
+0	85	107 Respiratory Infections	Phenotype	HP_0011947
+
+1|chunk|Background: The electronic medical record (EMR) contains a rich source of information that could be harnessed for epidemic surveillance. We asked if structured EMR data could be coupled with computerized processing of free-text clinical entries to enhance detection of acute respiratory infections (ARI).
+1	269	274 acute	Phenotype	HP_0011009
+1	275	297 respiratory infections	Phenotype	HP_0011947
+
+2|chunk|Methodology: A manual review of EMR records related to 15,377 outpatient visits uncovered 280 reference cases of ARI. We used logistic regression with backward elimination to determine which among candidate structured EMR parameters (diagnostic codes, vital signs and orders for tests, imaging and medications) contributed to the detection of those reference cases. We also developed a computerized free-text search to identify clinical notes documenting at least two non-negated ARI symptoms. We then used heuristics to build case-detection algorithms that best combined the retained structured EMR parameters with the results of the text analysis.
+
+3|chunk|Principal Findings: An adjusted grouping of diagnostic codes identified reference ARI patients with a sensitivity of 79%, a specificity of 96% and a positive predictive value (PPV) of 32%. Of the 21 additional structured clinical parameters considered, two contributed significantly to ARI detection: new prescriptions for cough remedies and elevations in body temperature to at least 38uC. Together with the diagnostic codes, these parameters increased detection sensitivity to 87%, but specificity and PPV declined to 95% and 25%, respectively. Adding text analysis increased sensitivity to 99%, but PPV dropped further to 14%. Algorithms that required satisfying both a query of structured EMR parameters as well as text analysis disclosed PPVs of 52-68% and retained sensitivities of 69-73%.
+3	323	328 cough	Phenotype	HP_0012735
+
+4|chunk|Conclusion: Structured EMR parameters and free-text analyses can be combined into algorithms that can detect ARI cases with new levels of sensitivity or precision. These results highlight potential paths by which repurposed EMR information could facilitate the discovery of epidemics before they cause mass casualties.
+

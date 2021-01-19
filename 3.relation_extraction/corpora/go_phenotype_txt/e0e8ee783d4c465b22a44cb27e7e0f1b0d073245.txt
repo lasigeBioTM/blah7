@@ -1,0 +1,50 @@
+0|chunk|Significant Interference with Porcine Epidemic Diarrhea Virus Pandemic and Classical Strain Replication in Small-Intestine Epithelial Cells Using an shRNA Expression Vector
+0	47	55 Diarrhea	Phenotype	HP_0002014
+
+1|chunk|Porcine epidemic diarrhea (PED) re-emerged in China in 2010 and is now widespread. Evidence indicates that highly virulent porcine epidemic diarrhea virus (PEDV) strains belonging to genotype G2 caused a large-scale outbreak of diarrhea. Currently, vaccines derived from PEDV classical strains do not effectively prevent infection by virulent PEDV strains, and no specific drug is available to treat the disease. RNA interference (RNAi) is a novel and effective way to cure a wide range of viruses. We constructed three short hairpin RNA (shRNA)-expressing plasmids (shR-N307, shR-N463, and shR-N1071) directed against nucleocapsid (N) and determined their antiviral activities in intestine epithelial cells infected with a classical CV777 strain and LNCT2. We verified that shR-N307, shR-N463, and shR-N1071 effectively inhibited the expression of the transfected N gene in vitro, comparable to the control shRNA. We further demonstrated the shRNAs markedly reduced PEDV CV777 and LNCT2 replication upon downregulation of N production. Therefore, this study provides a new strategy for the design of antiviral methods against coronaviruses by targeting their processivity factors.
+1	17	25 diarrhea	Phenotype	HP_0002014
+1	140	148 diarrhea	Phenotype	HP_0002014
+1	228	236 diarrhea	Phenotype	HP_0002014
+1	413	429 RNA interference	Gene_function	GO_0016246
+1	431	435 RNAi	Gene_function	GO_0016246
+1	619	631 nucleocapsid	Gene_function	GO_0019013
+1	HP-GO	HP_0002014	GO_0016246
+1	HP-GO	HP_0002014	GO_0019013
+
+2|chunk|Vaccines 2019, 7, 173 2 of 12 the CV777 vaccine strain belonging to subtype G1 [11] . However, many studies demonstrated that commercially available PEDV vaccines derived from classical strains of PEDV do not provide effective protection against highly virulent PEDV variant infections in China [3] . Thus, PEDV infection remains a major veterinary problem. Understanding it is essential to developing novel antiviral drugs that will specifically inhibit PEDV propagation.
+
+3|chunk|RNA interference (RNAi) is a short, double-strand RNA-induced process that targets and degrades the messenger RNA (mRNA) of specific sequences [12, 13] . Post-transcriptional gene silencing can be mediated by exogenous small interfering RNAs (siRNAs), endogenous microRNAs (miRNAs), and short hairpin RNAs (shRNAs). Effective gene knockdown is achieved by shRNAs by inducing the endogenous RNAi process [14, 15] . Transcribed shRNAs are exported from the nucleus by Exportin-5 and processed by the RNase III Dicer into small double-stranded RNA (dsRNA) molecules of 19 to 23 bp called siRNAs. The complementary guide strand of processed siRNA is incorporated into the RNA-induced silencing complex to mediate the cleavage of target mRNAs [16, 17] . RNAi evolves in the host defense system directed at infectious viruses and transposable elements. Effective silencing of transgene expression and endogenous genes in vivo was shown by a number of groups [6, 7, 18] . These findings raised the possibility that RNAi could be another therapeutic approach for inhibiting virus infection. ShRNAs were employed for therapy against human viral diseases, as well as cancer and neurogenerative diseases [8] . PEDV primarily infects villous epithelial cells throughout the small intestine and causes serious injury of intestine epithelial cells (IECs), including superficial villous enterocyte swelling and severe diffuse atrophic enteritis [19] . Infection of PEDV variant strains in the field complicates the development of prophylactic and therapeutic strategies to protect suckling pigs from diarrhea. As an RNA virus, PEDV could be an ideal target for studying its biology and therapeutics using RNAi.
+3	0	16 RNA interference	Gene_function	GO_0016246
+3	18	22 RNAi	Gene_function	GO_0016246
+3	154	189 Post-transcriptional gene silencing	Gene_function	GO_0016441
+3	175	189 gene silencing	Gene_function	GO_0016458
+3	390	394 RNAi	Gene_function	GO_0016246
+3	455	462 nucleus	Gene_function	GO_0005634
+3	668	697 RNA-induced silencing complex	Gene_function	GO_0016442
+3	749	753 RNAi	Gene_function	GO_0016246
+3	1008	1012 RNAi	Gene_function	GO_0016246
+3	1157	1163 cancer	Phenotype	HP_0002664
+3	1396	1402 severe	Phenotype	HP_0012828
+3	1403	1410 diffuse	Phenotype	HP_0020034
+3	1690	1694 RNAi	Gene_function	GO_0016246
+3	GO-HP	GO_0016246	HP_0002664
+3	GO-HP	GO_0016246	HP_0012828
+3	GO-HP	GO_0016246	HP_0020034
+3	GO-HP	GO_0016441	HP_0002664
+3	GO-HP	GO_0016441	HP_0012828
+3	GO-HP	GO_0016441	HP_0020034
+3	GO-HP	GO_0016458	HP_0002664
+3	GO-HP	GO_0016458	HP_0012828
+3	GO-HP	GO_0016458	HP_0020034
+3	GO-HP	GO_0005634	HP_0002664
+3	GO-HP	GO_0005634	HP_0012828
+3	GO-HP	GO_0005634	HP_0020034
+3	GO-HP	GO_0016442	HP_0002664
+3	GO-HP	GO_0016442	HP_0012828
+3	GO-HP	GO_0016442	HP_0020034
+
+4|chunk|The PEDV nucleocapsid (N) protein, which is abundantly expressed in infected cells, has multiple functions. It is one of the structural proteins that forms complexes with genomic RNA, enhancing viral transcription and assembly. Therefore, the N protein may be a potential drug target for antiviral therapy against PEDV infection. In this study, we compared and analyzed N gene sequences from 25 different PEDV G1 and G2 isolates from different countries. Three novel shRNAs targeting conserved and unexploited regions in the N gene were tested for inhibition of PEDV CV777 and LNCT2 replication. Cell viability, viral titer, and protein expression were examined as indicators of the efficacy of targeted gene silencing by the shRNAs. All three shRNAs effectively inhibited PEDV replication and N expression of the G1 and G2 subtypes.
+4	9	21 nucleocapsid	Gene_function	GO_0019013
+4	194	213 viral transcription	Gene_function	GO_0019083
+4	704	718 gene silencing	Gene_function	GO_0016458
+

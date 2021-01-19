@@ -1,0 +1,31 @@
+0|chunk|Deficient IFN Signaling by Myeloid Cells Leads to MAVS-Dependent Virus-Induced Sepsis
+0	14	23 Signaling	Gene_function	GO_0023052
+0	79	85 Sepsis	Phenotype	HP_0100806
+0	GO-HP	GO_0023052	HP_0100806
+
+1|chunk|The type I interferon (IFN) signaling response limits infection of many RNA and DNA viruses. To define key cell types that require type I IFN signaling to orchestrate immunity against West Nile virus (WNV), we infected mice with conditional deletions of the type I IFN receptor (IFNAR) gene. Deletion of the Ifnar gene in subsets of myeloid cells resulted in uncontrolled WNV replication, vasoactive cytokine production, sepsis, organ damage, and death that were remarkably similar to infection of Ifnar 2/2 mice completely lacking type I IFN signaling. In Mavs 2/2 6Ifnar 2/2 myeloid cells and mice lacking both Ifnar and the RIG-I-like receptor adaptor gene Mavs, cytokine production was muted despite high levels of WNV infection. Thus, in myeloid cells, viral infection triggers signaling through MAVS to induce proinflammatory cytokines that can result in sepsis and organ damage. Viral pathogenesis was caused in part by massive complement activation, as liver damage was minimized in animals lacking complement components C3 or factor B or treated with neutralizing anti-C5 antibodies. Disease in Ifnar 2/2 and CD11c Cre + Ifnar f/f mice also was facilitated by the proinflammatory cytokine TNF-a, as blocking antibodies diminished complement activation and prolonged survival without altering viral burden. Collectively, our findings establish the dominant role of type I IFN signaling in myeloid cells in restricting virus infection and controlling pathological inflammation and tissue injury.
+1	28	37 signaling	Gene_function	GO_0023052
+1	142	151 signaling	Gene_function	GO_0023052
+1	400	419 cytokine production	Gene_function	GO_0001816
+1	421	427 sepsis	Phenotype	HP_0100806
+1	543	552 signaling	Gene_function	GO_0023052
+1	666	685 cytokine production	Gene_function	GO_0001816
+1	758	773 viral infection	Gene_function	GO_0016032
+1	783	792 signaling	Gene_function	GO_0023052
+1	861	867 sepsis	Phenotype	HP_0100806
+1	892	904 pathogenesis	Gene_function	GO_0009405
+1	935	956 complement activation	Gene_function	GO_0006956
+1	1239	1260 complement activation	Gene_function	GO_0006956
+1	1265	1274 prolonged	Phenotype	HP_0025297
+1	1384	1393 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0023052	HP_0100806
+1	GO-HP	GO_0023052	HP_0025297
+1	GO-HP	GO_0001816	HP_0100806
+1	GO-HP	GO_0001816	HP_0025297
+1	HP-GO	HP_0100806	GO_0016032
+1	HP-GO	HP_0100806	GO_0009405
+1	HP-GO	HP_0100806	GO_0006956
+1	GO-HP	GO_0016032	HP_0025297
+1	GO-HP	GO_0009405	HP_0025297
+1	GO-HP	GO_0006956	HP_0025297
+

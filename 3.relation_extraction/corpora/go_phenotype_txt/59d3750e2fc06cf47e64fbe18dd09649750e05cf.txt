@@ -1,0 +1,24 @@
+0|chunk|molecules Current Understanding of Molecular Pathology and Treatment of Cardiomyopathy in Duchenne Muscular Dystrophy
+0	72	86 Cardiomyopathy	Phenotype	HP_0001638
+0	99	117 Muscular Dystrophy	Phenotype	HP_0003560
+
+1|chunk|Duchenne muscular dystrophy (DMD) is a genetic muscle disorder caused by mutations in the Dmd gene resulting in the loss of the protein dystrophin. Patients do not only experience skeletal muscle degeneration, but also develop severe cardiomyopathy by their second decade, one of the main causes of death. The absence of dystrophin in the heart renders cardiomyocytes more sensitive to stretch-induced damage. Moreover, it pathologically alters intracellular calcium (Ca 2+ ) concentration, neuronal nitric oxide synthase (nNOS) localization and mitochondrial function and leads to inflammation and necrosis, all contributing to the development of cardiomyopathy. Current therapies only treat symptoms and therefore the need for targeting the genetic defect is immense. Several preclinical therapies are undergoing development, including utrophin up-regulation, stop codon read-through therapy, viral gene therapy, cell-based therapy and exon skipping. Some of these therapies are undergoing clinical trials, but these have predominantly focused on skeletal muscle correction. However, improving skeletal muscle function without addressing cardiac aspects of the disease may aggravate cardiomyopathy and therefore it is essential that preclinical and clinical focus include improving heart function. This review consolidates what is known regarding molecular pathology of the DMD heart, specifically focusing on intracellular Ca 2+ , nNOS and mitochondrial dysregulation. It briefly discusses the current treatment options and then elaborates on the preclinical therapeutic approaches currently under development to restore dystrophin thereby improving pathology, with a focus on the heart.
+1	9	27 muscular dystrophy	Phenotype	HP_0003560
+1	227	233 severe	Phenotype	HP_0012828
+1	234	248 cardiomyopathy	Phenotype	HP_0001638
+1	445	458 intracellular	Gene_function	GO_0005622
+1	529	541 localization	Gene_function	GO_0051179
+1	546	559 mitochondrial	Phenotype	HP_0001427
+1	648	662 cardiomyopathy	Phenotype	HP_0001638
+1	1185	1199 cardiomyopathy	Phenotype	HP_0001638
+1	1412	1425 intracellular	Gene_function	GO_0005622
+1	1443	1456 mitochondrial	Phenotype	HP_0001427
+1	HP-GO	HP_0003560	GO_0005622
+1	HP-GO	HP_0003560	GO_0051179
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0012828	GO_0051179
+1	HP-GO	HP_0001638	GO_0005622
+1	HP-GO	HP_0001638	GO_0051179
+1	GO-HP	GO_0005622	HP_0001427
+1	GO-HP	GO_0051179	HP_0001427
+

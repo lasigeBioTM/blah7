@@ -1,0 +1,20 @@
+0|chunk|BMC Genomics Gene expression analyses in Atlantic salmon challenged with infectious salmon anemia virus reveal differences between individuals with early, intermediate and late mortality
+0	13	28 Gene expression	Gene_function	GO_0010467
+0	91	97 anemia	Phenotype	HP_0001903
+0	GO-HP	GO_0010467	HP_0001903
+
+1|chunk|Background: Infectious salmon anemia virus (ISAV) causes a multisystemic disease responsible for severe losses in salmon aquaculture. Better understanding of factors that explain variations in resistance between individuals and families is essential for development of strategies for disease control. To approach this, we compared global gene expression using microarrays in fish dying early and late in the time course following infection from a highly pathogenic ISAV.
+1	30	36 anemia	Phenotype	HP_0001903
+1	97	103 severe	Phenotype	HP_0012828
+1	338	353 gene expression	Gene_function	GO_0010467
+1	HP-GO	HP_0001903	GO_0010467
+1	HP-GO	HP_0012828	GO_0010467
+
+2|chunk|Results: Tissues (gill, heart, liver and spleen) from infected Atlantic salmon (cohabitation, ISAV Glesvaer 2/90 isolate) were collected from three stages over the time course of the experiment; early (EM, 0-10% cumulative mortality (CM), 21-25 days post-infection (DPI)), intermediate (IM, 35-55% CM, 28-31 DPI) and late (LM, 75-85% CM, 37-48 DPI) mortality. Viral loads were equal in EM and IM but dropped markedly in LM fish. Gene expression analyses using a 1.8 K salmonid fish cDNA microarray (SFA2.0) and real-time qPCR revealed a large group of genes highly up-regulated across tissues in EM, which were mainly implicated in innate antiviral responses and cellular stress. Despite equal levels of MHC class I in EM and LM, increase of splenic and cardiac expression of immunoglobulin-like genes was found only in LM while a suite of adaptive immunity markers were activated already in IM. The hepatic responses to ISAV were characterized by difference between EM and LM in expression of chaperones and genes involved in eicosanoid metabolism. To develop classification of high and low resistance phenotypes based on a small number of genes, we processed results from qPCR analyses of liver using a linear discriminant analysis. Four genes (5-lipoxygenase activating protein, cytochrome P450 2K4-1, galectin-9 and annexin A1) were sufficient for correct assignment of individuals to EM, LM and uninfected groups, while IM was inseparable from EM. Three of four prognostic markers are involved in metabolism of inflammatory regulators.
+2	429	444 Gene expression	Gene_function	GO_0010467
+2	1038	1048 metabolism	Gene_function	GO_0008152
+2	1502	1512 metabolism	Gene_function	GO_0008152
+
+3|chunk|This study adds to the understanding of molecular determinants for resistance to acute ISAV infection. The most susceptible individuals were characterized by high viral replication and dramatic activation of innate immune responses, which did not provide protection. The ability to endure high levels of infection for sustained periods could be associated with lower inflammatory responses while subsequent protection and viral clearance was most likely conferred by activation of adaptive immunity.
+3	81	86 acute	Phenotype	HP_0011009
+

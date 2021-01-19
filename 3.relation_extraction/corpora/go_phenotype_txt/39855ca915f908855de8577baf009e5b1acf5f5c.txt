@@ -1,0 +1,33 @@
+0|chunk|Angiotensin-converting enzyme 2 inhibits lung injury induced by respiratory syncytial virus OPEN
+
+1|chunk|and young children, but the underlying mechanisms responsible for viral pathogenesis have not been fully elucidated. To date, no drugs or vaccines have been employed to improve clinical outcomes for RSV-infected patients. In this paper, we report that angiotensin-converting enzyme-2 (ACE2) protected against severe lung injury induced by RSV infection in an experimental mouse model and in pediatric patients. Moreover, ACE2 deficiency aggravated RSV-associated disease pathogenesis, mainly by its action on the angiotensin II type 1 receptor (AT1R). Furthermore, administration of a recombinant ACE2 protein alleviated the severity of RSV-induced lung injury. These findings demonstrate that ACE2 plays a critical role in preventing RSV-induced lung injury, and suggest that ACE2 is a promising potential therapeutic target in the management of RSV-induced lung disease.
+1	72	84 pathogenesis	Gene_function	GO_0009405
+1	309	315 severe	Phenotype	HP_0012828
+1	471	483 pathogenesis	Gene_function	GO_0009405
+1	625	633 severity	Phenotype	HP_0012824
+1	GO-HP	GO_0009405	HP_0012828
+1	GO-HP	GO_0009405	HP_0012824
+
+2|chunk|Human respiratory syncytial virus (RSV) is a non-segmented, negative-sense, single-stranded RNA virus belonging to the Paramyxoviridae family. RSV is the most common virus responsible for acute and severe lower airway diseases in infants and young children, with nearly all children experiencing at least one RSV infection by the age of 2 years 1 . According to the World Health Organization (WHO), approximately 34 million new pediatric cases of RSV-associated lower airway disease occur annually worldwide; most cases occur in developing countries, with a mortality rate of nearly 200,000 annually 2,3 .
+2	188	193 acute	Phenotype	HP_0011009
+2	198	204 severe	Phenotype	HP_0012828
+
+3|chunk|Despite the significant impact of RSV infection on infant morbidity and mortality, treatment options remain largely limited to supportive care 4 . Currently, Ribavirin is the only antiviral drug that has been approved for treatment of RSV-infected airway diseases, although issues with its efficacy and side effects restrict its application in immunocompromised patients 5 . The high incidence of RSV infection and its potential to cause severe respiratory tract disease in vulnerable young children, combined with the limited availability of therapeutic options, highlight an urgent unmet global human health need.
+3	438	444 severe	Phenotype	HP_0012828
+
+4|chunk|The renin-angiotensin system (RAS) plays a major role in maintaining blood pressure, and electrolyte and fluid homeostasis 6-8 . In 2000, ACE2, a homolog of the angiotensin-converting enzyme (ACE) gene was reported to negatively regulate RAS by converting angiotensin (Ang)-II to Ang-1-7 9 . Previous studies, from our group and others, have demonstrated that ACE2 protects against severe acute lung injury (ALI) that can be triggered by sepsis, acid aspiration, severe acute respiratory syndrome (SARS), and the lethal avian influenza A H5N1 virus 10-12 . Moreover, ACE2 has been identified as the receptor of the SARS coronavirus 11 , and has also been found to modulate innate immunity and influence the composition of gut microbiota 13 . More importantly, a recombinant ACE2 protein has proven to be effective in improving lung pathologies associated with ALI and acute respiratory distress syndrome (ARDS) induced by viruses including SARS and influenza 12, 14, 15 . Currently, a soluble version of recombinant ACE2 is being tested in phase II clinical trials for patients with ALI 14 .
+4	111	122 homeostasis	Gene_function	GO_0042592
+4	382	388 severe	Phenotype	HP_0012828
+4	389	394 acute	Phenotype	HP_0011009
+4	463	469 severe	Phenotype	HP_0012828
+4	470	475 acute	Phenotype	HP_0011009
+4	673	688 innate immunity	Gene_function	GO_0045087
+4	868	873 acute	Phenotype	HP_0011009
+4	874	894 respiratory distress	Phenotype	HP_0002098
+4	GO-HP	GO_0042592	HP_0012828
+4	GO-HP	GO_0042592	HP_0011009
+4	GO-HP	GO_0042592	HP_0002098
+4	HP-GO	HP_0012828	GO_0045087
+4	HP-GO	HP_0011009	GO_0045087
+4	GO-HP	GO_0045087	HP_0002098
+

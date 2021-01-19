@@ -1,0 +1,25 @@
+0|chunk|Reference gene selection for gene expression study in shell gland and spleen of laying hens challenged with infectious bronchitis virus OPEN
+0	29	44 gene expression	Gene_function	GO_0010467
+0	119	129 bronchitis	Phenotype	HP_0012387
+0	GO-HP	GO_0010467	HP_0012387
+
+1|chunk|Ten reference genes were investigated for normalisation of candidate target gene expression data in the shell gland and spleen of laying hens challenged with two strains of infectious bronchitis virus (IBV). Data were analysed with geNorm, NormFinder and BestKeeper, and a comprehensive ranking (geomean) was calculated. In the combined data set of IBV challenged shell gland samples, the comprehensive ranking showed TATA-box binding protein (TBP) and tyrosine 3-monooxygenase/ tryptophan 5-monooxygenase activation protein zeta (YWHAZ) as the two most stable, and succinate dehydrogenase complex flavoprotein subunit A (SDHA) and albumin (ALB) as the two least stable reference genes. In the spleen, and in the combined data set of the shell gland and spleen, the two most stable and the two least stable reference genes were TBP and YWHAZ, and ribosomal protein L4 (RPL4) and ALB, respectively. Different ranking has been due to different algorithms. Validation studies showed that the use of the two most stable reference genes produced accurate and more robust gene expression data. The two most and least stable reference genes obtained in the study, were further used for candidate target gene expression data normalisation of the shell gland and spleen under an IBV infection model. Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 SciENTific REPORTS | 7: 14271 |
+1	76	91 gene expression	Gene_function	GO_0010467
+1	184	194 bronchitis	Phenotype	HP_0012387
+1	427	434 binding	Gene_function	GO_0005488
+1	554	560 stable	Phenotype	HP_0031915
+1	566	597 succinate dehydrogenase complex	Gene_function	GO_0045281
+1	663	669 stable	Phenotype	HP_0031915
+1	775	781 stable	Phenotype	HP_0031915
+1	800	806 stable	Phenotype	HP_0031915
+1	1009	1015 stable	Phenotype	HP_0031915
+1	1066	1081 gene expression	Gene_function	GO_0010467
+1	1111	1117 stable	Phenotype	HP_0031915
+1	1196	1211 gene expression	Gene_function	GO_0010467
+1	GO-HP	GO_0010467	HP_0012387
+1	GO-HP	GO_0010467	HP_0031915
+1	HP-GO	HP_0012387	GO_0005488
+1	HP-GO	HP_0012387	GO_0045281
+1	GO-HP	GO_0005488	HP_0031915
+1	HP-GO	HP_0031915	GO_0045281
+

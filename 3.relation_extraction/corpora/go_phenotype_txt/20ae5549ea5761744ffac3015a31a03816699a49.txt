@@ -1,0 +1,29 @@
+0|chunk|a section of the journal Frontiers in Immunology PD-1 Dynamically Regulates Inflammation and Development of Brain-Resident Memory CD8 T Cells During Persistent Viral Encephalitis
+0	123	129 Memory	Gene_function	GO_0007613
+0	166	178 Encephalitis	Phenotype	HP_0002383
+0	GO-HP	GO_0007613	HP_0002383
+
+1|chunk|Programmed cell death-1 (PD-1) receptor signaling dampens the functionality of T cells faced with repetitive antigenic stimulation from chronic infections or tumors. Using intracerebral (i.c.) inoculation with mouse polyomavirus (MuPyV), we have shown that CD8 T cells establish a PD-1 hi , tissue-resident memory population in the brains (bT RM ) of mice with a low-level persistent infection. In MuPyV encephalitis, PD-L1 was expressed on infiltrating myeloid cells, microglia and astrocytes, but not on oligodendrocytes. Engagement of PD-1 on anti-MuPyV CD8 T cells limited their effector activity. NanoString gene expression analysis showed that neuroinflammation was higher in PD-L1 / than wild type mice at day 8 post-infection, the peak of the MuPyV-specific CD8 response. During the persistent phase of infection, however, the absence of PD-1 signaling was found to be associated with a lower inflammatory response than in wild type mice. Genetic disruption and intracerebroventricular blockade of PD-1 signaling resulted in an increase in number of MuPyV-specific CD8 bT RM and the fraction of these cells expressing CD103, the E integrin commonly used to define tissue-resident T cells. However, PD-L1 / mice persistently infected with MuPyV showed impaired virus control upon i.c. re-infection with MuPyV. Collectively, these data reveal a temporal duality in PD-1-mediated regulation of MuPyV-associated neuroinflammation. PD-1 signaling limited the severity of neuroinflammation during acute infection but sustained a level of inflammation during persistent infection for maintaining control of virus re-infection.
+1	40	49 signaling	Gene_function	GO_0023052
+1	136	143 chronic	Phenotype	HP_0011010
+1	307	313 memory	Gene_function	GO_0007613
+1	613	628 gene expression	Gene_function	GO_0010467
+1	853	862 signaling	Gene_function	GO_0023052
+1	903	924 inflammatory response	Gene_function	GO_0006954
+1	1013	1022 signaling	Gene_function	GO_0023052
+1	1445	1454 signaling	Gene_function	GO_0023052
+1	1467	1475 severity	Phenotype	HP_0012824
+1	1504	1509 acute	Phenotype	HP_0011009
+1	GO-HP	GO_0023052	HP_0011010
+1	GO-HP	GO_0023052	HP_0012824
+1	GO-HP	GO_0023052	HP_0011009
+1	HP-GO	HP_0011010	GO_0007613
+1	HP-GO	HP_0011010	GO_0010467
+1	HP-GO	HP_0011010	GO_0006954
+1	GO-HP	GO_0007613	HP_0012824
+1	GO-HP	GO_0007613	HP_0011009
+1	GO-HP	GO_0010467	HP_0012824
+1	GO-HP	GO_0010467	HP_0011009
+1	GO-HP	GO_0006954	HP_0012824
+1	GO-HP	GO_0006954	HP_0011009
+

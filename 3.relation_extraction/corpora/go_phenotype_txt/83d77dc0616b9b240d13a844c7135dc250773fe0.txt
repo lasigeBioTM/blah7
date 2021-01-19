@@ -1,0 +1,38 @@
+0|chunk|Altered Thymic Function during Interferon Therapy in HCV-Infected Patients
+
+1|chunk|Interferon alpha (IFNa) therapy, despite good efficacy in curing HCV infection, leads to major side effects, in particular inducement of a strong peripheral T-cell lymphocytopenia. We here analyze the early consequences of IFNa therapy on both thymic function and peripheral T-cell homeostasis in patients in the acute or chronic phase of HCV-infection as well as in HIV/HCV co-infected patients. The evolution of T-cell subsets and T-cell homeostasis were estimated by flow cytometry while thymic function was measured through quantification of T-cell receptor excision circles (TREC) and estimation of intrathymic precursor T-cell proliferation during the first four months following the initiation of IFNa therapy. Beginning with the first month of therapy, a profound lymphocytopenia was observed for all T-cell subsets, including nave T-cells and recent thymic emigrants (RTE), associated with inhibition of intrathymic precursor T-cell proliferation. Interleukin (IL)-7 plasma concentration rapidly dropped while lymphocytopenia progressed. This was neither a consequence of higher consumption of the cytokine nor due to its neutralization by soluble CD127. Decrease in IL-7 plasma concentration under IFNa therapy correlated with the decline in HCV viral load, thymic activity and RTE concentration in blood. These data demonstrate that IFNa-based therapy rapidly impacts on thymopoiesis and, consequently, perturbs T-cell homeostasis. Such a side effect might be detrimental for the continuation of IFNa therapy and may lead to an increased level of infectious risk, in particular in HIV/HCV co-infected patients. Altogether, this study suggests the therapeutic potential of IL-7 in the maintenance of peripheral T-cell homeostasis in IFNa-treated patients.
+1	146	156 peripheral	Phenotype	HP_0030646
+1	164	179 lymphocytopenia	Phenotype	HP_0001888
+1	264	274 peripheral	Phenotype	HP_0030646
+1	275	293 T-cell homeostasis	Gene_function	GO_0043029
+1	282	293 homeostasis	Gene_function	GO_0042592
+1	313	318 acute	Phenotype	HP_0011009
+1	322	329 chronic	Phenotype	HP_0011010
+1	433	451 T-cell homeostasis	Gene_function	GO_0043029
+1	440	451 homeostasis	Gene_function	GO_0042592
+1	626	646 T-cell proliferation	Gene_function	GO_0042098
+1	763	771 profound	Phenotype	HP_0012829
+1	772	787 lymphocytopenia	Phenotype	HP_0001888
+1	936	956 T-cell proliferation	Gene_function	GO_0042098
+1	1020	1035 lymphocytopenia	Phenotype	HP_0001888
+1	1424	1442 T-cell homeostasis	Gene_function	GO_0043029
+1	1431	1442 homeostasis	Gene_function	GO_0042592
+1	1711	1721 peripheral	Phenotype	HP_0030646
+1	1722	1740 T-cell homeostasis	Gene_function	GO_0043029
+1	1729	1740 homeostasis	Gene_function	GO_0042592
+1	HP-GO	HP_0030646	GO_0043029
+1	HP-GO	HP_0030646	GO_0042592
+1	HP-GO	HP_0030646	GO_0042098
+1	HP-GO	HP_0001888	GO_0043029
+1	HP-GO	HP_0001888	GO_0042592
+1	HP-GO	HP_0001888	GO_0042098
+1	GO-HP	GO_0043029	HP_0011009
+1	GO-HP	GO_0043029	HP_0011010
+1	GO-HP	GO_0043029	HP_0012829
+1	GO-HP	GO_0042592	HP_0011009
+1	GO-HP	GO_0042592	HP_0011010
+1	GO-HP	GO_0042592	HP_0012829
+1	HP-GO	HP_0011009	GO_0042098
+1	HP-GO	HP_0011010	GO_0042098
+1	GO-HP	GO_0042098	HP_0012829
+

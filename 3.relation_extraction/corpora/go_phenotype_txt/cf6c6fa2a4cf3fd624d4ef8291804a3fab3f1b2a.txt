@@ -1,0 +1,24 @@
+0|chunk|The SARS Coronavirus 3a Protein Causes Endoplasmic Reticulum Stress and Induces Ligand-Independent Downregulation of the Type 1 Interferon Receptor
+0	39	60 Endoplasmic Reticulum	Gene_function	GO_0005783
+
+1|chunk|The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is reported to cause apoptosis of infected cells and several of its proteins including the 3a accessory protein, are pro-apoptotic. Since the 3a protein localizes to the endoplasmic reticulum (ER)-Golgi compartment, its role in causing ER stress was investigated in transiently transfected cells. Cells expressing the 3a proteins showed ER stress based on activation of genes for the ER chaperones GRP78 and GRP94. Since ER stress can cause differential modulation of the unfolded protein response (UPR), which includes the inositol-requiring enzyme 1 (IRE-1), activating transcription factor 6 (ATF6) and PKR-like ER kinase (PERK) pathways, these were individually tested in 3a-expressing cells. Only the PERK pathway was found to be activated in 3a-expressing cells based on (1) increased phosphorylation of eukaryotic initiation factor 2 alpha (eIF2a) and inhibitory effects of a dominant-negative form of eIF2a on GRP78 promoter activity, (2) increased translation of activating transcription factor 4 (ATF4) mRNA, and (3) ATF4dependent activation of the C/EBP homologous protein (CHOP) gene promoter. Activation of PERK affects innate immunity by suppression of type 1 interferon (IFN) signaling. The 3a protein was found to induce serine phosphorylation within the IFN alpha-receptor subunit 1 (IFNAR1) degradation motif and to increase IFNAR1 ubiquitination. Confocal microscopic analysis showed increased translocation of IFNAR1 into the lysosomal compartment and flow cytometry showed reduced levels of IFNAR1 in 3a-expressing cells. These results provide further mechanistic details of the pro-apoptotic effects of the SARS-CoV 3a protein, and suggest a potential role for it in attenuating interferon responses and innate immunity.
+1	4	10 Severe	Phenotype	HP_0012828
+1	11	16 Acute	Phenotype	HP_0011009
+1	231	252 endoplasmic reticulum	Gene_function	GO_0005783
+1	852	867 phosphorylation	Gene_function	GO_0016310
+1	1018	1029 translation	Gene_function	GO_0006412
+1	1194	1209 innate immunity	Gene_function	GO_0045087
+1	1305	1320 phosphorylation	Gene_function	GO_0016310
+1	1370	1381 degradation	Gene_function	GO_0009056
+1	1787	1802 innate immunity	Gene_function	GO_0045087
+1	HP-GO	HP_0012828	GO_0005783
+1	HP-GO	HP_0012828	GO_0016310
+1	HP-GO	HP_0012828	GO_0006412
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0012828	GO_0009056
+1	HP-GO	HP_0011009	GO_0005783
+1	HP-GO	HP_0011009	GO_0016310
+1	HP-GO	HP_0011009	GO_0006412
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0011009	GO_0009056
+

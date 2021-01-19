@@ -1,0 +1,31 @@
+0|chunk|Identification of a Novel Bat Papillomavirus by Metagenomics
+
+1|chunk|The discovery of novel viruses in animals expands our knowledge of viral diversity and potentially emerging zoonoses. Highthroughput sequencing (HTS) technology gives millions or even billions of sequence reads per run, allowing a comprehensive survey of the genetic content within a sample without prior nucleic acid amplification. In this study, we screened 156 rectal swab samples from apparently healthy bats (n = 96), pigs (n = 9), cattles (n = 9), stray dogs (n = 11), stray cats (n = 11) and monkeys (n = 20) using a HTS metagenomics approach. The complete genome of a novel papillomavirus (PV), Miniopterus schreibersii papillomavirus type 1 (MscPV1), with L1 of 60% nucleotide identity to Canine papillomavirus (CPV6), was identified in a specimen from a Common Bent-wing Bat (M. schreibersii). It is about 7.5kb in length, with a G+C content of 45.8% and a genomic organization similar to that of other PVs. Despite the higher nucleotide identity between the genomes of MscPV1 and CPV6, maximum-likelihood phylogenetic analysis of the L1 gene sequence showed that MscPV1 and Erethizon dorsatum papillomavirus (EdPV1) are most closely related. Estimated divergence time of MscPV1 from the EdPV1/MscPV1 common ancestor was approximately 60.2-91.9 millions of years ago, inferred under strict clocks using the L1 and E1 genes. The estimates were limited by the lack of reliable calibration points from co-divergence because of possible host shifts. As the nucleotide sequence of this virus only showed limited similarity with that of related animal PVs, the conventional approach of PCR using consensus primers would be unlikely to have detected the novel virus in the sample. Unlike the first bat papillomavirus RaPV1, MscPV1 was found in an asymptomatic bat with no apparent mucosal or skin lesions whereas RaPV1 was detected in the basosquamous carcinoma of a fruit bat Rousettus aegyptiacus. We propose MscPV1 as the first member of the novel Dyolambda-papillomavirus genus.
+1	145	148 HTS	Disease	DOID_0110698
+1	305	317 nucleic acid	Chemical	CHEBI_33696
+1	313	317 acid	Chemical	CHEBI_37527
+1	524	527 HTS	Disease	DOID_0110698
+1	675	685 nucleotide	Chemical	CHEBI_36976
+1	937	947 nucleotide	Chemical	CHEBI_36976
+1	1463	1473 nucleotide	Chemical	CHEBI_36976
+1	1842	1864 basosquamous carcinoma	Disease	DOID_5063
+1	1855	1864 carcinoma	Disease	DOID_305
+1	DOID-CHEBI	DOID_0110698	CHEBI_33696
+1	DOID-CHEBI	DOID_0110698	CHEBI_37527
+1	DOID-CHEBI	DOID_0110698	CHEBI_36976
+1	CHEBI-DOID	CHEBI_33696	DOID_5063
+1	CHEBI-DOID	CHEBI_33696	DOID_305
+1	CHEBI-DOID	CHEBI_37527	DOID_5063
+1	CHEBI-DOID	CHEBI_37527	DOID_305
+1	CHEBI-DOID	CHEBI_36976	DOID_5063
+1	CHEBI-DOID	CHEBI_36976	DOID_305
+
+2|chunk|. These authors contributed equally to this work.
+
+3|chunk|PLOS ONE | www.plosone.org 1 August 2012 | Volume 7 | Issue 8 | e43986
+3	5	8 ONE	Chemical	CHEBI_58972
+
+4|chunk|De novo metagenomic assembly
+
+5|chunk|De novo assembly of the metagenome was performed using MIRA to confirm isolation of viral genomes using an assembly option with minimum read length of 80 and base default quality of 10 [29]. There were 1,283 contigs ranging in size from 91 to 3,722 bp for human samples, and 1,960 contigs from 116 to 11,170 bp for animal samples. Contigs were compared to the database containing 3,959 complete eukaryotic viral genomes and the nr database from NCBI using tBLASTx and BLASTx, respectively, with an E-value cutoff of 10 25 to assign taxonomy.
+

@@ -1,0 +1,40 @@
+0|chunk|De novo Fatty Acid Biosynthesis Contributes Significantly to Establishment of a Bioenergetically Favorable Environment for Vaccinia Virus Infection
+0	8	31 Fatty Acid Biosynthesis	Gene_function	GO_0006633
+0	19	31 Biosynthesis	Gene_function	GO_0009058
+
+1|chunk|The poxvirus life cycle, although physically autonomous from the host nucleus, is nevertheless dependent upon cellular functions. A requirement for de novo fatty acid biosynthesis was implied by our previous demonstration that cerulenin, a fatty acid synthase inhibitor, impaired vaccinia virus production. Here we show that additional inhibitors of this pathway, TOFA and C75, reduce viral yield significantly, with partial rescue provided by exogenous palmitate, the pathway's endproduct. Palmitate's major role during infection is not for phospholipid synthesis or protein palmitoylation. Instead, the mitochondrial import and b-oxidation of palmitate are essential, as shown by the impact of etomoxir and trimetazidine, which target these two processes respectively. Moreover, the impact of these inhibitors is exacerbated in the absence of exogenous glucose, which is otherwise dispensable for infection. In contrast to glucose, glutamine is essential for productive viral infection, providing intermediates that sustain the TCA cycle (anaplerosis). Cumulatively, these data suggest that productive infection requires the mitochondrial b-oxidation of palmitate which drives the TCA cycle and energy production. Additionally, infection causes a significant rise in the cellular oxygen consumption rate (ATP synthesis) that is ablated by etomoxir. The biochemical progression of the vaccinia life cycle is not impaired in the presence of TOFA, C75, or etomoxir, although the levels of viral DNA and proteins synthesized are somewhat diminished. However, by reversibly arresting infections at the onset of morphogenesis, and then monitoring virus production after release of the block, we determined that virion assembly is highly sensitive to TOFA and C75. Electron microscopic analysis of cells released into C75 revealed fragmented aggregates of viroplasm which failed to be enclosed by developing virion membranes. Taken together, these data indicate that vaccinia infection, and in particular virion assembly, relies on the synthesis and mitochondrial import of fatty acids, where their b-oxidation drives robust ATP production. Citation: Greseth MD, Traktman P (2014) De novo Fatty Acid Biosynthesis Contributes Significantly to Establishment of a Bioenergetically Favorable Environment for Vaccinia Virus Infection. PLoS Pathog 10(3): e1004021.
+1	156	179 fatty acid biosynthesis	Gene_function	GO_0006633
+1	167	179 biosynthesis	Gene_function	GO_0009058
+1	542	564 phospholipid synthesis	Gene_function	GO_0008654
+1	555	564 synthesis	Gene_function	GO_0009058
+1	605	618 mitochondrial	Phenotype	HP_0001427
+1	1030	1039 TCA cycle	Gene_function	GO_0006099
+1	1127	1140 mitochondrial	Phenotype	HP_0001427
+1	1183	1192 TCA cycle	Gene_function	GO_0006099
+1	1307	1320 ATP synthesis	Gene_function	GO_0006754
+1	1311	1320 synthesis	Gene_function	GO_0009058
+1	1599	1604 onset	Phenotype	HP_0003674
+1	1707	1713 virion	Gene_function	GO_0019012
+1	1707	1722 virion assembly	Gene_function	GO_0019068
+1	1903	1909 virion	Gene_function	GO_0019012
+1	2000	2006 virion	Gene_function	GO_0019012
+1	2000	2015 virion assembly	Gene_function	GO_0019068
+1	2031	2040 synthesis	Gene_function	GO_0009058
+1	2045	2058 mitochondrial	Phenotype	HP_0001427
+1	2184	2207 Fatty Acid Biosynthesis	Gene_function	GO_0006633
+1	2195	2207 Biosynthesis	Gene_function	GO_0009058
+1	GO-HP	GO_0006633	HP_0001427
+1	GO-HP	GO_0006633	HP_0003674
+1	GO-HP	GO_0009058	HP_0001427
+1	GO-HP	GO_0009058	HP_0003674
+1	GO-HP	GO_0008654	HP_0001427
+1	GO-HP	GO_0008654	HP_0003674
+1	HP-GO	HP_0001427	GO_0006099
+1	HP-GO	HP_0001427	GO_0006754
+1	HP-GO	HP_0001427	GO_0019012
+1	HP-GO	HP_0001427	GO_0019068
+1	GO-HP	GO_0006099	HP_0003674
+1	GO-HP	GO_0006754	HP_0003674
+1	HP-GO	HP_0003674	GO_0019012
+1	HP-GO	HP_0003674	GO_0019068
+

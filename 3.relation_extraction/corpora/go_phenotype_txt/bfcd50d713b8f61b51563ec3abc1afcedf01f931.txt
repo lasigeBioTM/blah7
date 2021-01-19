@@ -1,0 +1,9 @@
+0|chunk|S1 Materials and Methods
+
+1|chunk|Two de novo transcriptomes of planarian S. mediterranea [1] were searched for sequences similar to human coronavirus OC43 (GenBank KY014282.1) by the tblastx application in BLAST+ v2.2.29 [2] using BLOSUM80 matrix, word size 2, and E-value cut-off 10. The resulting hits were translated in six frames by EMBOSS:6.6.0.0 transeq [3] and used to search for similar domains in the NCBI non-redundant protein database (NR) by deltablast (BLAST+ v2.2.29) [4] with the same parameters, except using an E-value cut-off of 1.
+
+2|chunk|Assessment of PSCNV genome coverage by RNA-seq reads. Reads from five independent in-house S. mediterranea RNA-seq datasets, previously used to assemble the transcriptomes in which PSCNV was found [1], were mapped to the PSCNV genome sequence (1-41103 nt) using either CLC Genomics Workbench 7 (alignment criteria: mismatch cost 2, insertion/deletion cost 3, length fraction > 0.9, similarity fraction > 0.9), or Bowtie2 version 2.1.0 with default parameters [5] . PSCNV genome coverage by reads from each dataset was estimated using SAMtools 0.1.19 [6] .
+
+3|chunk|Search for viruses related to PSCNV in planarian RNA database. The PlanMine database [7] was downloaded from http://planmine.mpi-cbg.de/planmine/ on 2017.10.06, contigs were translated in six frames by EMBOSS:6.6.0.0 transeq [3] , and compared with PSCNV polyprotein by blastp (BLAST+ v2.2.29) [2]. Only hits with E-value < 0.001 were considered with the exception of those that involved PSCNV HEL1 or ANK domains. For these domains, whose homologs are common in many proteomes, an additional condition for consideration was to have one or more extra hits between the particular contig translation and other regions of PSCNV polyprotein.
+3	586	597 translation	Gene_function	GO_0006412
+

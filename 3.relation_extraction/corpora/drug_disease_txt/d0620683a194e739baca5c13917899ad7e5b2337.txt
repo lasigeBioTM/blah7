@@ -1,0 +1,31 @@
+0|chunk|VIP: an integrated pipeline for metagenomics of virus identification and discovery OPEN
+
+1|chunk|Identification and discovery of viruses using next-generation sequencing technology is a fastdeveloping area with potential wide application in clinical diagnostics, public health monitoring and novel virus discovery. However, tremendous sequence data from NGS study has posed great challenge both in accuracy and velocity for application of NGS study. Here we describe VIP ("Virus Identification Pipeline"), a one-touch computational pipeline for virus identification and discovery from metagenomic NGS data. VIP performs the following steps to achieve its goal: (i) map and filter out background-related reads, (ii) extensive classification of reads on the basis of nucleotide and remote amino acid homology, (iii) multiple k-mer based de novo assembly and phylogenetic analysis to provide evolutionary insight. We validated the feasibility and veracity of this pipeline with sequencing results of various types of clinical samples and public datasets. VIP has also contributed to timely virus diagnosis (~10 min) in acutely ill patients, demonstrating its potential in the performance of unbiased NGS-based clinical studies with demand of short turnaround time. VIP is released under GPLv3 and is available for free download at: https://github.com/keylabivdc/VIP.
+1	314	322 velocity	Chemical	CHEBI_145500
+1	370	373 VIP	Chemical	CHEBI_80331
+1	510	513 VIP	Chemical	CHEBI_80331
+1	668	678 nucleotide	Chemical	CHEBI_36976
+1	690	695 amino	Chemical	CHEBI_46882
+1	690	700 amino acid	Chemical	CHEBI_33704
+1	696	700 acid	Chemical	CHEBI_37527
+1	955	958 VIP	Chemical	CHEBI_80331
+1	1165	1168 VIP	Chemical	CHEBI_80331
+1	1262	1265 VIP	Chemical	CHEBI_80331
+
+2|chunk|The world contains a high diversity of human viral pathogens. There are approximately 300 recognized viral pathogen species, and additional species continue to be discovered. The identification of viral pathogens has a tremendous impact on infectious diseases, virology and public health. Nearly all of the outbreaks of public health issues over the last decade have been caused by viruses, including Severe Acute Respiratory Syndrome (SARS) coronavirus 1 , 2009 pandemic influenza H1N1 2 , H7N9 avian influenza viruses 3 and the recently described Ebola virus in West Africa 4 . Traditional diagnostic methods for viruses, such as cell culture, serodiagnosis, or nucleic acid-based testing are narrow in scope and require a priori knowledge of the potential infectious agents 5,6 . Accurate diagnosis and timely treatment for the infection dramatically reduced the risk of continued transmission and mortality in hospitalized patients 7 . Wild interest in comprehensive detection of these newly emerging and re-emerging viruses from clinical samples highlight the need for rapid, broad-spectrum diagnostic assays.
+2	401	434 Severe Acute Respiratory Syndrome	Disease	DOID_2945
+2	426	434 Syndrome	Disease	DOID_225
+2	436	440 SARS	Disease	DOID_2945
+2	472	481 influenza	Disease	DOID_8469
+2	496	511 avian influenza	Disease	DOID_4492
+2	502	511 influenza	Disease	DOID_8469
+
+3|chunk|Shotgun metagenomic sequencing of clinical samples for viral pathogen identification provides a promising alternative solution. Although metagenomics is typically applied to understanding genomic diversity from environment samples, this methodology has also revolutionized virology with comprehensive applications, including viral pathogen identification of infectious disease in clinical laboratories 8 and virus discovery in acute and chronic illnesses of unknown origin 9 . Many novel viruses have been discovered using popular next generation sequencing (NGS) platforms such as pyrosequencing (454 Roche), semiconductor sequencing (Life Technology) and illumina dye sequencing (Illumina) 10-12 . Achievements obtained by viral metagenomics show significant advantages over traditional methods of identifying a viral pathogen, including no need of sequence information for that pathogen, identifying multiple pathogens in a single assay and eliminating the need for time-consuming culturing or antibody laboratory tests.
+3	358	376 infectious disease	Disease	DOID_0050117
+3	369	376 disease	Disease	DOID_4
+3	666	669 dye	Chemical	CHEBI_37958
+3	DOID-CHEBI	DOID_0050117	CHEBI_37958
+3	DOID-CHEBI	DOID_4	CHEBI_37958
+
+4|chunk|A key feature of latest NGS platforms is their speed. It takes minimum turnaround times about 8 hours for sequencing 13 . Thus, it is critical that subsequent computational handling of the large amount of sequence
+

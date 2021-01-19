@@ -1,0 +1,15 @@
+0|chunk|A Network Integration Approach to Predict Conserved Regulators Related to Pathogenicity of Influenza and SARS-CoV Respiratory Viruses
+
+1|chunk|Respiratory infections stemming from influenza viruses and the Severe Acute Respiratory Syndrome corona virus (SARS-CoV) represent a serious public health threat as emerging pandemics. Despite efforts to identify the critical interactions of these viruses with host machinery, the key regulatory events that lead to disease pathology remain poorly targeted with therapeutics. Here we implement an integrated network interrogation approach, in which proteome and transcriptome datasets from infection of both viruses in human lung epithelial cells are utilized to predict regulatory genes involved in the host response. We take advantage of a novel ''crowd-based'' approach to identify and combine ranking metrics that isolate genes/proteins likely related to the pathogenicity of SARS-CoV and influenza virus. Subsequently, a multivariate regression model is used to compare predicted lung epithelial regulatory influences with data derived from other respiratory virus infection models. We predicted a small set of regulatory factors with conserved behavior for consideration as important components of viral pathogenesis that might also serve as therapeutic targets for intervention. Our results demonstrate the utility of integrating diverse 'omic datasets to predict and prioritize regulatory features conserved across multiple pathogen infection models. Citation: Mitchell HD, Eisfeld AJ, Sims AC, McDermott JE, Matzke MM, et al. (2013) A Network Integration Approach to Predict Conserved Regulators Related to Pathogenicity of Influenza and SARS-CoV Respiratory Viruses. PLoS ONE 8(7): e69374.
+1	0	22 Respiratory infections	Phenotype	HP_0011947
+1	63	69 Severe	Phenotype	HP_0012828
+1	70	75 Acute	Phenotype	HP_0011009
+1	1050	1058 behavior	Gene_function	GO_0007610
+1	1110	1122 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0011947	GO_0007610
+1	HP-GO	HP_0011947	GO_0009405
+1	HP-GO	HP_0012828	GO_0007610
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0011009	GO_0007610
+1	HP-GO	HP_0011009	GO_0009405
+

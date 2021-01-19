@@ -1,0 +1,23 @@
+0|chunk|Quantitative prediction of mouse class I MHC peptide binding affinity using support vector machine regression (SVR) models
+0	45	52 peptide	Chemical	CHEBI_16670
+
+1|chunk|The binding between peptide epitopes and major histocompatibility complex proteins (MHCs) is an important event in the cellular immune response. Accurate prediction of the binding between short peptides and the MHC molecules has long been a principal challenge for immunoinformatics. Recently, the modeling of MHC-peptide binding has come to emphasize quantitative predictions: instead of categorizing peptides as "binders" or "non-binders" or as "strong binders" and "weak binders", recent methods seek to make predictions about precise binding affinities.
+1	20	27 peptide	Chemical	CHEBI_16670
+1	74	82 proteins	Chemical	CHEBI_36080
+1	194	202 peptides	Chemical	CHEBI_16670
+1	215	224 molecules	Chemical	CHEBI_25367
+1	402	410 peptides	Chemical	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_25367
+
+2|chunk|We developed a quantitative support vector machine regression (SVR) approach, called SVRMHC, to model peptide-MHC binding affinities. As a non-linear method, SVRMHC was able to generate models that out-performed existing linear models, such as the "additive method". By adopting a new "11-factor encoding" scheme, SVRMHC takes into account similarities in the physicochemical properties of the amino acids constituting the input peptides. When applied to MHC-peptide binding data for three mouse class I MHC alleles, the SVRMHC models produced more accurate predictions than those produced previously. Furthermore, comparisons based on Receiver Operating Characteristic (ROC) analysis indicated that SVRMHC was able to outperform several prominent methods in identifying strongly binding peptides.
+2	394	399 amino	Chemical	CHEBI_46882
+2	394	405 amino acids	Chemical	CHEBI_33704
+2	400	405 acids	Chemical	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+3|chunk|As a method with demonstrated performance in the quantitative modeling of MHCpeptide binding and in identifying strong binders, SVRMHC is a promising immunoinformatics tool with not inconsiderable future potential.
+

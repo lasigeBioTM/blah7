@@ -1,0 +1,69 @@
+0|chunk|The YXX motif within the severe acute respiratory syndrome coronavirus (SARS-CoV) 3a protein is crucial for its intracellular transport
+0	86	93 protein	Chemical	CHEBI_16541
+
+1|chunk|Background: The SARS coronavirus (SARS-CoV) 3a protein functions as an ion channel, induces apoptosis and is important for viral pathogenesis. It is expressed on the cell surface and contains a tyrosine-based sorting motif and a di-acidic motif, which may be crucial for its intracellular trafficking. However the role of these motifs is not fully understood in the case of 3a protein.
+1	47	54 protein	Chemical	CHEBI_16541
+1	71	74 ion	Chemical	CHEBI_24870
+1	314	318 role	Chemical	CHEBI_50906
+1	377	384 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_24870
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_24870	CHEBI_50906
+
+2|chunk|The subcellular distribution of the 3a protein was studied by immunofluorescence staining of cells transfected with wild type and mutant constructs along with markers for different intracellular compartments. Semi-quantitative RT-PCR was performed to estimate the mRNA where as western blotting was carried out to detect protein levels of wild type and mutant 3a proteins. In vitro transcription-translation was performed to estimate cell free protein synthesis.
+2	39	46 protein	Chemical	CHEBI_16541
+2	264	268 mRNA	Chemical	CHEBI_33699
+2	321	328 protein	Chemical	CHEBI_16541
+2	444	451 protein	Chemical	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33699
+
+3|chunk|Results: While the wild type 3a protein is efficiently transported to the plasma membrane, the protein with mutations in the tyrosine and valine residues within the YXXV motif (YXX) accumulated in the Golgi compartment. However the 3a protein with mutations within the EXD di-acidic motif (EXD) showed an intracellular distribution similar to the wild type protein. Increased retention of the YXX protein in the Golgi compartment also increased its association with lipid droplets. The YXX protein also expressed at significantly lower levels compared to the wild type 3a protein, which was reversed with Brefeldin A and Aprotinin.
+3	32	39 protein	Chemical	CHEBI_16541
+3	95	102 protein	Chemical	CHEBI_16541
+3	125	133 tyrosine	Chemical	CHEBI_17895
+3	125	133 tyrosine	Chemical	CHEBI_18186
+3	138	144 valine	Chemical	CHEBI_16414
+3	138	144 valine	Chemical	CHEBI_27266
+3	237	244 protein	Chemical	CHEBI_16541
+3	271	274 EXD	Chemical	CHEBI_82241
+3	360	367 protein	Chemical	CHEBI_16541
+3	402	409 protein	Chemical	CHEBI_16541
+3	471	476 lipid	Chemical	CHEBI_18059
+3	497	504 protein	Chemical	CHEBI_16541
+3	579	586 protein	Chemical	CHEBI_16541
+3	612	623 Brefeldin A	Chemical	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_17895
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18186
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_16414
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_27266
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_82241
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_18186
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_16414
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_27266
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_82241
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_17895	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_18186	CHEBI_16414
+3	CHEBI-CHEBI	CHEBI_18186	CHEBI_27266
+3	CHEBI-CHEBI	CHEBI_18186	CHEBI_82241
+3	CHEBI-CHEBI	CHEBI_18186	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_18186	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_16414	CHEBI_27266
+3	CHEBI-CHEBI	CHEBI_16414	CHEBI_82241
+3	CHEBI-CHEBI	CHEBI_16414	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_16414	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_27266	CHEBI_82241
+3	CHEBI-CHEBI	CHEBI_27266	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_27266	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_82241	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_82241	CHEBI_48080
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_48080
+
+4|chunk|The data suggest that the YXX motif of the SARS-CoV 3a protein is necessary for Golgi to plasma membrane transport, in the absence of which the protein is targeted to lysosomal degradation compartment via lipid droplets.
+4	56	63 protein	Chemical	CHEBI_16541
+4	145	152 protein	Chemical	CHEBI_16541
+4	206	211 lipid	Chemical	CHEBI_18059
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_18059
+

@@ -1,0 +1,19 @@
+0|chunk|Molecular Imaging Reveals a Progressive Pulmonary Inflammation in Lower Airways in Ferrets Infected with 2009 H1N1 Pandemic Influenza Virus
+0	28	39 Progressive	Phenotype	HP_0003676
+
+1|chunk|Molecular imaging has gained attention as a possible approach for the study of the progression of inflammation and disease dynamics. Herein we used [ 18 F]-2-deoxy-2-fluoro-D-glucose ([ 18 F]-FDG) as a radiotracer for PET imaging coupled with CT (FDG-PET/CT) to gain insight into the spatiotemporal progression of the inflammatory response of ferrets infected with a clinical isolate of a pandemic influenza virus, H1N1 (H1N1pdm). The thoracic regions of mock-and H1N1pdminfected ferrets were imaged prior to infection and at 1, 2, 3 and 6 days post-infection (DPI). On 1 DPI, FDG-PET/CT imaging revealed areas of consolidation in the right caudal lobe which corresponded with elevated [ 18 F]-FDG uptake (maximum standardized uptake values (SUVMax), 4.7-7.0). By days 2 and 3, consolidation (CT) and inflammation ([ 18 F]-FDG) appeared in the left caudal lobe. By 6 DPI, CT images showed extensive areas of patchy ground-glass opacities (GGO) and consolidations with the largest lesions having high SUVMax (6.0-7.6). Viral shedding and replication were detected in most nasal, throat and rectal swabs and nasal turbinates and lungs on 1, 2 and 3 DPI, but not on day 7, respectively. In conclusion, molecular imaging of infected ferrets revealed a progressive consolidation on CT with corresponding [ 18 F]-FDG uptake. Strong positive correlations were measured between SUVMax and bronchiolitis-related pathologic scoring (Spearman's r = 0.75). Importantly, the extensive areas of patchy GGO and consolidation seen on CT in the ferret model at 6 DPI are similar to that reported for human H1N1pdm infections. In summary, these first molecular imaging studies of lower respiratory infection with H1N1pdm show that FDG-PET can give insight into the spatiotemporal progression of the inflammation in real-time.
+1	318	339 inflammatory response	Gene_function	GO_0006954
+1	635	640 right	Phenotype	HP_0012834
+1	844	848 left	Phenotype	HP_0012835
+1	1018	1032 Viral shedding	Gene_function	GO_0019076
+1	1248	1259 progressive	Phenotype	HP_0003676
+1	1668	1689 respiratory infection	Phenotype	HP_0011947
+1	GO-HP	GO_0006954	HP_0012834
+1	GO-HP	GO_0006954	HP_0012835
+1	GO-HP	GO_0006954	HP_0003676
+1	GO-HP	GO_0006954	HP_0011947
+1	HP-GO	HP_0012834	GO_0019076
+1	HP-GO	HP_0012835	GO_0019076
+1	GO-HP	GO_0019076	HP_0003676
+1	GO-HP	GO_0019076	HP_0011947
+

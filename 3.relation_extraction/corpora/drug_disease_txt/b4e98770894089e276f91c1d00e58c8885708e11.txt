@@ -1,0 +1,22 @@
+0|chunk|Evaluation of a combined MxA and CRP point-of-care immunoassay to identify viral and/or bacterial immune response in patients with acute febrile respiratory infection
+
+1|chunk|to determine the accuracy of a POC immunoassay to identify a clinically significant immune response to viral and/or bacterial infection. Sixty patients with acute febrile respiratory infection (19 pharyngitis and 41 lower respiratory tract infection [LRTI]) were enrolled. Participants provided fingerstick blood for immunoassay testing (myxovirus A [MxA] and c-reactive protein [CRP]) and four oropharyngeal samples for viral PCR and routine bacterial cell culture. Avenous blood sample was collected. An ELISAwas used to measure CRP and MxA. Paired serological testing was used to confirm atypical bacteria. A urine sample was provided for Streptococcus and Legionella antigen testing. Patients with suspected LRTI had sputum and blood cultures, chest X-ray, and WBC count measured. Viral infection was confirmed if oropharyngeal PCR was positive for viral pathogens. Bacterial infection was confirmed in positive throat or sputum cultures. Elevated immunoglobulin M antibodies or twofold increase in IgG antibodies between acute and convalescent phase indicated atypical bacteria. Positive Streptococcus or Legionella urine antigen assays also confirmed bacterial infection. The immunoassay correctly categorized subjects as 92% (22/24) negative, 80% (16/20) with bacterial infection, and 70% (7/10) with viral infection. Conclusions: The interplay between an MxA value and a semi-quantitative CRP value can aid in the differentiation of infectious etiology. In isolation, neither MxA nor CRP alone is sensitive or specific. However, the pattern of results in a rapid immunoassay provides a sensitive and specific method to differentiate acute febrile respiratory infections. This diagnostic information may help reduce antibiotic misuse and resistance and lower healthcare costs.
+1	197	208 pharyngitis	Disease	DOID_2275
+1	371	378 protein	Chemical	CHEBI_16541
+1	660	670 Legionella	Disease	DOID_10457
+1	671	678 antigen	Chemical	CHEBI_59132
+1	785	800 Viral infection	Disease	DOID_934
+1	1110	1120 Legionella	Disease	DOID_10457
+1	1127	1134 antigen	Chemical	CHEBI_59132
+1	1308	1323 viral infection	Disease	DOID_934
+1	1723	1733 antibiotic	Chemical	CHEBI_33281
+1	DOID-CHEBI	DOID_2275	CHEBI_16541
+1	DOID-CHEBI	DOID_2275	CHEBI_59132
+1	DOID-CHEBI	DOID_2275	CHEBI_33281
+1	CHEBI-DOID	CHEBI_16541	DOID_10457
+1	CHEBI-DOID	CHEBI_16541	DOID_934
+1	DOID-CHEBI	DOID_10457	CHEBI_59132
+1	DOID-CHEBI	DOID_10457	CHEBI_33281
+1	CHEBI-DOID	CHEBI_59132	DOID_934
+1	DOID-CHEBI	DOID_934	CHEBI_33281
+

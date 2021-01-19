@@ -1,0 +1,13 @@
+0|chunk|Comparative domain modeling of human EGF-like module EMR2 and study of interaction of the fourth domain of EGF with chondroitin 4-sulphate 
+
+1|chunk|EMR2 is an EGF-like module containing mucin-like hormone receptor-2 precursor, a G-protein coupled receptor (G-PCR). Mutation in EMR2 causes complicated disorders like polycystic kidney disease (PKD). The structure of EMR2 shows that the fifth domain is comprised of EGF-TM7 helices. Functional assignment of EMR2 by support vector machine (SVM) revealed that along with transporter activity, several novel functions are predicted. A twenty amino acid sequence "MGGRVFLVFLAFCVWLTLPG" acts as the signal peptide responsible for posttranslational transport. Eight amino acids are involved in N-glycosylation sites and two cleavage sites are Leu517 and Ser518 in EMR2. The residue Arg241 is responsible for interaction with glycosaminoglycan and chondroitin sulfate. On the basis of structure, function and ligand binding sites, competitive EMR2 inhibitors designed may decrease the rate of human diseases like Usher's syndrome, bilateral frontoparietal polymicrogyria and PKD.
+1	168	193 polycystic kidney disease	Phenotype	HP_0000113
+1	811	818 binding	Gene_function	GO_0005488
+1	926	935 bilateral	Phenotype	HP_0012832
+1	936	965 frontoparietal polymicrogyria	Phenotype	HP_0007095
+1	951	965 polymicrogyria	Phenotype	HP_0002126
+1	HP-GO	HP_0000113	GO_0005488
+1	GO-HP	GO_0005488	HP_0012832
+1	GO-HP	GO_0005488	HP_0007095
+1	GO-HP	GO_0005488	HP_0002126
+

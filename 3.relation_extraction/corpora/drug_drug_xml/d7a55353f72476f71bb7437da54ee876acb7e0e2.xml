@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="d7a55353f72476f71bb7437da54ee876acb7e0e2">
+  <chunk id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0" text="A new prokaryotic expression vector for the expression of antimicrobial peptide abaecin using SUMO fusion tag">
+    <entity charOffset="58-71" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0.e0" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="72-79" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0.e1" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0.e1" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1" text="Background: Despite the growing demand for antimicrobial peptides (AMPs) for clinical use as an alternative approach against antibiotic-resistant bacteria, the manufacture of AMPs relies on expensive, small-scale chemical methods. The small ubiquitin-related modifier (SUMO) tag is industrially practical for increasing the yield of recombinant proteins by increasing solubility and preventing degradation in expression systems.">
+    <entity charOffset="43-56" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e0" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="57-65" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e1" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="345-353" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e1" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.p0" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e2" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.p1" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e1" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.e2" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2" text="Results: A new vector system, pKSEC1, was designed to produce AMPs, which can work in prokaryotic systems such as Escherichia coli and plant chloroplasts. 6xHis was tagged to SUMO for purification of SUMO-fused AMPs. Abaecin, a 34-aa-long antimicrobial peptide from honeybees, was expressed in a fusion form to 6xHis-SUMO in a new vector system to evaluate the prokaryotic expression platform of the antimicrobial peptides. The fusion sequences were codon-optimized in three different combinations and expressed in E. coli. The combination of the native SUMO sequence with codon-optimized abaecin showed the highest expression level among the three combinations, and most of the expressed fusion proteins were detected in soluble fractions. Cleavage of the SUMO tag by sumoase produced a 29-aa-long abaecin derivative with a C-terminal deletion. However, this abaecin derivative still retained the binding sequence for its target protein, DnaK. Antibacterial activity of the 29-aa long abaecin was tested against Bacillus subtilis alone or in combination with cecropin B. The combined treatment of the abaecin derivative and cecropin B showed bacteriolytic activity 2 to 3 times greater than that of abaecin alone.">
+    <entity charOffset="239-252" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e0" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="253-260" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e1" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="400-413" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e2" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="696-704" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e1" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.p0" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e3" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.p1" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e1" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e2" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.p2" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e1" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e3" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.p3" relation="true"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e2" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.e3" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c2.p4" relation="true"/>
+  </chunk>
+  <chunk id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3" text="Conclusions: Using a SUMO-tag with an appropriate codon-optimization strategy could be an approach for the production of antimicrobial peptides in E.coli without affecting the viability of the host cell.">
+    <entity charOffset="121-134" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3.e0" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="135-143" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3.e1" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <pair e1="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3.e0" e2="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3.e1" id="d7a55353f72476f71bb7437da54ee876acb7e0e2.c3.p0" relation="true"/>
+  </chunk>
+</document>

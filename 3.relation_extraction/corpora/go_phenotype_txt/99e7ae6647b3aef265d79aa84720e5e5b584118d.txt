@@ -1,0 +1,27 @@
+0|chunk|Human Anti-CCR4 Minibody Gene Transfer for the Treatment of Cutaneous T-Cell Lymphoma
+0	60	85 Cutaneous T-Cell Lymphoma	Phenotype	HP_0012192
+0	70	85 T-Cell Lymphoma	Phenotype	HP_0012190
+0	77	85 Lymphoma	Phenotype	HP_0002665
+
+1|chunk|Background: Although several therapeutic options have become available for patients with Cutaneous T-cell Lymphoma (CTCL), no therapy has been curative. Recent studies have demonstrated that CTCL cells overexpress the CC chemokine receptor 4 (CCR4).
+1	89	114 Cutaneous T-cell Lymphoma	Phenotype	HP_0012192
+1	99	114 T-cell Lymphoma	Phenotype	HP_0012190
+1	106	114 Lymphoma	Phenotype	HP_0002665
+
+2|chunk|Methodology/Principal Findings: In this study, a xenograft model of CTCL was established and a recombinant adenoassociated viral serotype 8 (AAV8) vector expressing a humanized single-chain variable fragment (scFv)-Fc fusion (scFvFc or ''minibody'') of anti-CCR4 monoclonal antibody (mAb) h1567 was evaluated for curative treatment. Human CCR4 + tumorbearing mice treated once with intravenous infusion of AAV8 virions encoding the h1567 (AAV8-h1567) minibody showed anti-tumor activity in vivo and increased survival. The AAV8-h1567 minibody notably increased the number of tumorinfiltrating Ly-6G + FccRIIIa(CD16A) + murine neutrophils in the tumor xenografts over that of AAV8-control minibody treated mice. Furthermore, in CCR4 + tumor-bearing mice co-treated with AAV8-h1567 minibody and infused with human peripheral blood mononuclear cells (PBMCs), marked tumor infiltration of human CD16A + CD56 + NK cells was observed. The h1567 minibody also induced in vitro ADCC activity through both mouse neutrophils and human NK cells.
+2	274	282 antibody	Gene_function	GO_0003823
+2	274	282 antibody	Gene_function	GO_0042571
+2	645	650 tumor	Phenotype	HP_0002664
+2	812	822 peripheral	Phenotype	HP_0030646
+2	863	868 tumor	Phenotype	HP_0002664
+2	970	974 ADCC	Gene_function	GO_0001788
+2	GO-HP	GO_0003823	HP_0002664
+2	GO-HP	GO_0003823	HP_0030646
+2	GO-HP	GO_0042571	HP_0002664
+2	GO-HP	GO_0042571	HP_0030646
+2	HP-GO	HP_0002664	GO_0001788
+2	HP-GO	HP_0030646	GO_0001788
+
+3|chunk|Conclusions/Significance: Overall, our data demonstrate that the in vivo anti-tumor activity of h1567 minibody is mediated, at least in part, through CD16A + immune effector cell ADCC mechanisms. These data further demonstrate the utility of the AAV-minibody gene transfer system in the rapid evaluation of candidate anti-tumor mAbs and the potency of h1567 as a potential novel therapy for CTCL.
+3	179	183 ADCC	Gene_function	GO_0001788
+

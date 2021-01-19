@@ -1,0 +1,25 @@
+0|chunk|Amino Acid Similarity Accounts for T Cell Cross- Reactivity and for ''Holes'' in the T Cell Repertoire
+0	0	5 Amino	Chemical	CHEBI_46882
+0	0	10 Amino Acid	Chemical	CHEBI_33704
+0	6	10 Acid	Chemical	CHEBI_37527
+
+1|chunk|Background: Cytotoxic T cell (CTL) cross-reactivity is believed to play a pivotal role in generating immune responses but the extent and mechanisms of CTL cross-reactivity remain largely unknown. Several studies suggest that CTL clones can recognize highly diverse peptides, some sharing no obvious sequence identity. The emerging realization in the field is that T cell receptors (TcR) recognize multiple distinct ligands.
+1	82	86 role	Chemical	CHEBI_50906
+
+2|chunk|Principal Findings: First, we analyzed peptide scans of the HIV epitope SLFNTVATL (SFL9) and found that TCR specificity is position dependent and that biochemically similar amino acid substitutions do not drastically affect recognition. Inspired by this, we developed a general model of TCR peptide recognition using amino acid similarity matrices and found that such a model was able to predict the cross-reactivity of a diverse set of CTL epitopes. With this model, we were able to demonstrate that seemingly distinct T cell epitopes, i.e., ones with low sequence identity, are in fact more biochemically similar than expected. Additionally, an analysis of HIV immunogenicity data with our model showed that CTLs have the tendency to respond mostly to peptides that do not resemble self-antigens.
+2	39	46 peptide	Chemical	CHEBI_16670
+2	64	71 epitope	Chemical	CHEBI_53000
+2	173	178 amino	Chemical	CHEBI_46882
+2	173	183 amino acid	Chemical	CHEBI_33704
+2	179	183 acid	Chemical	CHEBI_37527
+2	291	298 peptide	Chemical	CHEBI_16670
+2	317	322 amino	Chemical	CHEBI_46882
+2	317	327 amino acid	Chemical	CHEBI_33704
+2	323	327 acid	Chemical	CHEBI_37527
+2	754	762 peptides	Chemical	CHEBI_16670
+
+3|chunk|Conclusions: T cell cross-reactivity can thus, to an extent greater than earlier appreciated, be explained by amino acid similarity. The results presented in this paper will help resolving some of the long-lasting discussions in the field of T cell cross-reactivity.
+3	110	115 amino	Chemical	CHEBI_46882
+3	110	120 amino acid	Chemical	CHEBI_33704
+3	116	120 acid	Chemical	CHEBI_37527
+

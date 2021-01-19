@@ -1,0 +1,18 @@
+0|chunk|Supporting Material Choindroitinase ABC I-mediated enhancement of oncolytic virus spread and anti tumor efficacy: A mathematical model
+0	36	39 ABC	Chemical	CHEBI_421707
+
+1|chunk|Random motility of virus (D v , D P BS ), controlling parameter ( 51 ), Inhibition parameter of virus motility from ECM (K E ): Mok et al.
+
+2|chunk|[1] estimated the effective diffusion coefficient of HSV (herpes simplex virus) particles in tumors with high collagen content, 5  10 10 cm 2 /s (=1.8  10 4 mm 2 /h). Darcy permeability (K) of HSTS26T tumors led to the calculated diffusion coefficient of 2  10 9 cm 2 /s and 2  10 10 cm 2 /s for K = 50 nm 2 [2] and K = 3 nm 2 [3], respectively. Friedman et al [4] used high values of diffusion coefficient, 3.6  10 2 mm 2 /h. We take D P BS = 1.08  10 7 cm 2 /s (=3.8910 2 mm 2 /h). We note here that the effective random motility of virus D v depends ECM concentrations, especially at the invading front where virus face both high and low concentrations of ECM in the the absence and presence of Chase-ABC. The random motility of virus and viral penatration differ significantly on the periphery and center of the tumor spheroids as illustrated in [5] and ECM concentrations at the invading front fluctuates due to virus infiltration and Chase-ABC molecules, leading to varying D v . Based on experimental observations in [5], we take  51 = 2.25  10 10 mm 3 /g and K E = 1.0  10 8 mm 3 /g. By assuming fluctuating averaged CSPG ECM concentration E s ave = (0  2.6) mg/ml [6] and with parameters  51 , K E taken above, we get the dimensionless scaling factor 51 K E +E s ave = 8.6  10 5  2.25  10 2 , leading to the effective diffusion coefficient D v = 51 K E +E s ave D P BS =9.29  10 12  2.43  10 9 cm 2 /s, which is rather consistent with experimental data in Mok et al. [1]. Diffusion coefficient of Chase-ABC (D C ): Diffusion coefficient of typical ECM-degrading molecules such as MMPs is small. For instance, Saffarian et al.
+2	58	72 herpes simplex	Disease	DOID_8566
+2	110	118 collagen	Chemical	CHEBI_3815
+2	632	636 face	Disease	DOID_0111084
+2	964	973 molecules	Chemical	CHEBI_25367
+2	1604	1613 molecules	Chemical	CHEBI_25367
+2	DOID-CHEBI	DOID_8566	CHEBI_3815
+2	DOID-CHEBI	DOID_8566	CHEBI_25367
+2	CHEBI-DOID	CHEBI_3815	DOID_0111084
+2	DOID-CHEBI	DOID_0111084	CHEBI_25367
+
+3|chunk|[7] estimated the diffusion coefficient of MMP-1 to be (6.7  1.5)  10 9 cm 2 /s for inactive mutant MMP-1 and (8  1.5)  10 9 cm 2 /s for wide-type (activated) MMP-1. In our simulation, we take D C = 1.08  10 9 cm 2 /s (=3.8910 4 mm 2 /h). Proliferation rate of tumor cells (): Friedman et al. [4] used  = 2.0  10 2 h 1 . We take  = 0.1536 = 1.54  10 1 h 1 . Infected cell lysis rate (): Friedman et al. [4] used  = 1 18 h = 0.0556 h 1 . We take  = 0.012 = 1.2  10 2 h 1 . Infection rate (): We take  = 7.0  10 10 (mm 3 /h virus) from [4]. Removal rate of dead cells (): Friedman et al. [4] used  = 1 48 h = 0.0208 h 1 . We take  = 0.012 = 1.2  10 2 h 1 .
+

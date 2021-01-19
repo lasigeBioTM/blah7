@@ -1,0 +1,23 @@
+0|chunk|A novel sub-epidemic modeling framework for short-term forecasting epidemic waves
+
+1|chunk|Background: Simple phenomenological growth models can be useful for estimating transmission parameters and forecasting epidemic trajectories. However, most existing phenomenological growth models only support singlepeak outbreak dynamics whereas real epidemics often display more complex transmission trajectories. Methods: We develop and apply a novel sub-epidemic modeling framework that supports a diversity of epidemic trajectories including stable incidence patterns with sustained or damped oscillations to better understand and forecast epidemic outbreaks. We describe how to forecast an epidemic based on the premise that the observed coarse-scale incidence can be decomposed into overlapping sub-epidemics at finer scales. We evaluate our modeling framework using three outbreak datasets: Severe Acute Respiratory Syndrome (SARS) in Singapore, plague in Madagascar, and the ongoing Ebola outbreak in the Democratic Republic of Congo (DRC) and four performance metrics. Results: The sub-epidemic wave model outperforms simpler growth models in short-term forecasts based on performance metrics that account for the uncertainty of the predictions namely the mean interval score (MIS) and the coverage of the 95% prediction interval. For example, we demonstrate how the sub-epidemic wave model successfully captures the 2-peak pattern of the SARS outbreak in Singapore. Moreover, in short-term sequential forecasts, the sub-epidemic model was able to forecast the second surge in case incidence for this outbreak, which was not possible using the simple growth models. Furthermore, our findings support the view that the national incidence curve of the Ebola epidemic in DRC follows a stable incidence pattern with periodic behavior that can be decomposed into overlapping sub-epidemics. Conclusions: Our findings highlight how overlapping sub-epidemics can capture complex epidemic dynamics, including oscillatory behavior in the trajectory of the epidemic wave. This observation has significant implications for interpreting apparent noise in incidence data where the oscillations could be dismissed as a result of overdispersion, rather than an intrinsic part of the epidemic dynamics. Unless the oscillations are appropriately modeled, they could also give a false positive, or negative, impression of the impact from public health interventions. These preliminary results using sub-epidemic models can help guide future efforts to better understand the heterogenous spatial and social factors shaping sub-epidemic patterns for other infectious diseases.
+1	36	42 growth	Gene_function	GO_0040007
+1	182	188 growth	Gene_function	GO_0040007
+1	446	452 stable	Phenotype	HP_0031915
+1	798	804 Severe	Phenotype	HP_0012828
+1	805	810 Acute	Phenotype	HP_0011009
+1	1035	1041 growth	Gene_function	GO_0040007
+1	1560	1566 growth	Gene_function	GO_0040007
+1	1691	1697 stable	Phenotype	HP_0031915
+1	1721	1729 periodic	Phenotype	HP_0025304
+1	1730	1738 behavior	Gene_function	GO_0007610
+1	1921	1929 behavior	Gene_function	GO_0007610
+1	GO-HP	GO_0040007	HP_0031915
+1	GO-HP	GO_0040007	HP_0012828
+1	GO-HP	GO_0040007	HP_0011009
+1	GO-HP	GO_0040007	HP_0025304
+1	HP-GO	HP_0031915	GO_0007610
+1	HP-GO	HP_0012828	GO_0007610
+1	HP-GO	HP_0011009	GO_0007610
+1	HP-GO	HP_0025304	GO_0007610
+

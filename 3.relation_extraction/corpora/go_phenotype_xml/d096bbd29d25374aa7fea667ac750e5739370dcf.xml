@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<document id="d096bbd29d25374aa7fea667ac750e5739370dcf">
+  <chunk id="d096bbd29d25374aa7fea667ac750e5739370dcf.c0" text="A systematic view on influenza induced host shutoff"/>
+  <chunk id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1" text="Host shutoff is a common strategy used by viruses to repress cellular mRNA translation and concomitantly allow the efficient translation of viral mRNAs. Here we use RNAsequencing and ribosome profiling to explore the mechanisms that are being utilized by the Influenza A virus (IAV) to induce host shutoff. We show that viral transcripts are not preferentially translated and instead the decline in cellular protein synthesis is mediated by viral takeover on the mRNA pool. Our measurements also uncover strong variability in the levels of cellular transcripts reduction, revealing that short transcripts are less affected by IAV. Interestingly, these mRNAs that are refractory to IAV infection are enriched in cell maintenance processes such as oxidative phosphorylation. Furthermore, we show that the continuous oxidative phosphorylation activity is important for viral propagation. Our results advance our understanding of IAV-induced shutoff, and suggest a mechanism that facilitates the translation of genes with important housekeeping functions.">
+    <entity charOffset="75-86" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e0" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="125-136" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="183-191" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e2" ontology_id="GO_0005840" text="ribosome" type="gene_function"/>
+    <entity charOffset="408-425" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e3" ontology_id="GO_0006412" text="protein synthesis" type="gene_function"/>
+    <entity charOffset="416-425" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e4" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+    <entity charOffset="614-622" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="667-677" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" ontology_id="HP_0031375" text="refractory" type="phenotype"/>
+    <entity charOffset="746-771" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e7" ontology_id="GO_0006119" text="oxidative phosphorylation" type="gene_function"/>
+    <entity charOffset="756-771" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e8" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="814-839" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e9" ontology_id="GO_0006119" text="oxidative phosphorylation" type="gene_function"/>
+    <entity charOffset="824-839" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e10" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="992-1003" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e11" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e0" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p0" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e0" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p1" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p2" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p3" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e2" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p4" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e2" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p5" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e3" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p6" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e3" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p7" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e4" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p8" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e4" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p9" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e7" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p10" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e8" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p11" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e9" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p12" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e10" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p13" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e5" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e11" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p14" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e7" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p15" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e8" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p16" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e9" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p17" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e10" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p18" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e6" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e11" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p19" relation="true"/>
+  </chunk>
+</document>

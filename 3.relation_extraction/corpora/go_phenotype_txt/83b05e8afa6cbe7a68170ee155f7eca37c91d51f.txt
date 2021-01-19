@@ -1,0 +1,14 @@
+0|chunk|BMC Genomics Bioinformatic mapping of AlkB homology domains in viruses
+
+1|chunk|Background: AlkB-like proteins are members of the 2-oxoglutarate-and Fe(II)-dependent oxygenase superfamily. In Escherichia coli the protein protects RNA and DNA against damage from methylating agents. 1-methyladenine and 3-methylcytosine are repaired by oxidative demethylation and direct reversal of the methylated base back to its unmethylated form. Genes for AlkB homologues are widespread in nature, and Eukaryotes often have several genes coding for AlkBlike proteins. Similar domains have also been observed in certain plant viruses. The function of the viral domain is unknown, but it has been suggested that it may be involved in protecting the virus against the post-transcriptional gene silencing (PTGS) system found in plants. We wanted to do a phylogenomic mapping of viral AlkB-like domains as a basis for analysing functional aspects of these domains, because this could have some relevance for understanding possible alternative roles of AlkB homologues e.g. in Eukaryotes.
+1	255	278 oxidative demethylation	Gene_function	GO_0070989
+1	265	278 demethylation	Gene_function	GO_0070988
+1	672	707 post-transcriptional gene silencing	Gene_function	GO_0016441
+1	693	707 gene silencing	Gene_function	GO_0016458
+1	709	713 PTGS	Gene_function	GO_0016441
+
+2|chunk|Profile-based searches of protein sequence libraries showed that AlkB-like domains are found in at least 22 different single-stranded RNA positive-strand plant viruses, but mainly in a subgroup of the Flexiviridae family. Sequence analysis indicated that the AlkB domains probably are functionally conserved, and that they most likely have been integrated relatively recently into several viral genomes at geographically distinct locations. This pattern seems to be more consistent with increased environmental pressure, e.g. from methylating pesticides, than with interaction with the PTGS system.
+2	586	590 PTGS	Gene_function	GO_0016441
+
+3|chunk|The AlkB domain found in viral genomes is most likely a conventional DNA/RNA repair domain that protects the viral RNA genome against methylating compounds from the environment.
+

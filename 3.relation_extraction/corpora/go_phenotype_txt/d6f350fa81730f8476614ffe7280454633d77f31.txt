@@ -1,0 +1,25 @@
+0|chunk|The Cytokine and Chemokine Profiles in Patients with Hand, Foot and Mouth Disease of Different Severities in Shanghai, China, 2010
+
+1|chunk|Background and purpose: Systemic upregulation of inflammatory cytokines is characteristic of critical severe hand, foot, and mouth disease (HFMD) with pulmonary edema. Thus, immunomodulatory medicines such as steroids, including methylprednisolone, have been proposed to treat patients with severe HFMD in China, because it is postulated that inflammatory cytokines play a role in the development of severe complications. This study is to further investigate the inflammatory response in the relatively mild HFMD patients, and whether steroid treatment has a beneficial effect on the suppression of inflammation in HFMD patients.
+1	102	108 severe	Phenotype	HP_0012828
+1	291	297 severe	Phenotype	HP_0012828
+1	400	406 severe	Phenotype	HP_0012828
+1	463	484 inflammatory response	Gene_function	GO_0006954
+1	503	507 mild	Phenotype	HP_0012825
+1	HP-GO	HP_0012828	GO_0006954
+1	GO-HP	GO_0006954	HP_0012825
+
+2|chunk|We measured the levels of 50 kinds of chemokines, cytokines, growth factors and soluble receptors in serum samples from control patients without HFMD and the HFMD patients with or without prior treatment of intravenous methylprednisolone.
+2	61	67 growth	Gene_function	GO_0040007
+
+3|chunk|Results: Our present study found that even relatively mild HFMD patients without central nervous system (CNS) complications had elevated serum levels of inflammatory cytokines, including interleukin (IL)-3, IL-6, IL-12p40, and tumor necrosis factor (TNF)-a, which suggested systemic inflammation. In contrast, these patients also have decreased levels of other serum biomarkers, including IL-1Ra, IL-8, IL-16, soluble ICAM-1, CXCL-1, and CCL27. The dysregulation of cytokine and chemokine expression may be involved in CNS complications and unbalanced circulating leukocytes in HFMD patients. Surprisingly, patients treated with methylprednisolone had no difference in the expression levels of HFMD-associated biomarkers instead had slightly increased levels of IL-17A, which was not associated with the occurrence of HFMD.
+3	54	58 mild	Phenotype	HP_0012825
+3	81	88 central	Phenotype	HP_0030645
+3	227	232 tumor	Phenotype	HP_0002664
+3	233	241 necrosis	Gene_function	GO_0001906
+3	HP-GO	HP_0012825	GO_0001906
+3	HP-GO	HP_0030645	GO_0001906
+3	HP-GO	HP_0002664	GO_0001906
+
+4|chunk|Conclusion: Whether steroid treatment has any beneficial effect on the prognosis of HFMD patients requires to be further investigated.
+

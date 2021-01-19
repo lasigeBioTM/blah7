@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="306bedd61bce68752ab0206d35b28c79f4eebb0a">
+  <chunk id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c0" text="Minimal within-host dengue models highlight the specific roles of the immune response in primary and secondary dengue infections Electronic supplementary material 1. Primary infection model with saturating production of IFN">
+    <entity charOffset="70-85" id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c0.e0" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+  </chunk>
+  <chunk id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c1" text="Here we consider a more complicated model of IFN, namely one which uses Michaelis-Menten dynamics to describe the secretion of IFN as a function of infected cells. We again assume that IFN decays at some rate dF and that NK cells kill infected cells at a rate proportional to κIF . The model is given by:">
+    <entity charOffset="114-123" id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c1.e0" ontology_id="GO_0046903" text="secretion" type="gene_function"/>
+  </chunk>
+  <chunk id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c2" text="For simplicity, we also assume the rate of infected cell death δ = 0. This model has five free parameter combinations (βρ, κ, q, d and K) and one free initial condition (I (0)). Supplementary figure 1 shows that this model (under the parameterization provided in Supplementary Table S1 ) can recover all of the characteristic features of a primary dengue infection: the final fraction of uninfected cells, time to peak viremia, viral clearance rate, and peak viral load. To reproduce these features, particularly the high viral clearance rate, the model requires high IFN levels late in infection ( Figure S1d ). These high IFN levels late in infection are, however, inconsistent">
+    <entity charOffset="52-62" id="306bedd61bce68752ab0206d35b28c79f4eebb0a.c2.e0" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+  </chunk>
+</document>

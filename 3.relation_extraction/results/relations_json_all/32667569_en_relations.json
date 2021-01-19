@@ -1,0 +1,73 @@
+{
+    "text": "Primary care-sensitive condition hospitalizations (PCSCH) are an essential health care indicator. This ecological, time-series study aimed to analyze the time trend of PCSCH in children under the age of 1 in Brazil, considering the age subcomponents of newborns and post-newborns. The PCSCH rates were calculated for infants under the age of 1 and in the neonatal and postneonatal subgroups. The Prais-Winsten generalized linear analysis model and the Annual Percent Change (APC) calculation were used to evaluate the time trend. The results showed that infectious gastroenteritis represented the most important cause of hospitalizations due PCSCH in children under the age of 1. Congenital syphilis and other congenital infections accounted for the highest proportion of hospitalizations in newborns, whereas gastroenteritis prevailed in post-newborns. An increase in newborn hospitalization rates and a decrease in hospitalization rates in both the postneonatal group and the group of children under the age of 1. Differences in trends in these hospitalization rates may reflect the influence of specific determinants on the risk of hospitalization in each age subcomponent.",
+    "denotations": [
+        {
+            "id": "HP_0012837",
+            "span": {
+                "begin": 410,
+                "end": 421
+            },
+            "obj": "generalized"
+        },
+        {
+            "id": "CHEBI_80551",
+            "span": {
+                "begin": 475,
+                "end": 478
+            },
+            "obj": "APC"
+        },
+        {
+            "id": "DOID_2326",
+            "span": {
+                "begin": 565,
+                "end": 580
+            },
+            "obj": "gastroenteritis"
+        },
+        {
+            "id": "DOID_9856",
+            "span": {
+                "begin": 680,
+                "end": 699
+            },
+            "obj": "Congenital syphilis"
+        },
+        {
+            "id": "DOID_4166",
+            "span": {
+                "begin": 691,
+                "end": 699
+            },
+            "obj": "syphilis"
+        },
+        {
+            "id": "DOID_2326",
+            "span": {
+                "begin": 810,
+                "end": 825
+            },
+            "obj": "gastroenteritis"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_2326",
+            "pred": "effect",
+            "obj": "CHEBI_80551"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_9856",
+            "pred": "effect",
+            "obj": "CHEBI_80551"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_2326",
+            "pred": "effect",
+            "obj": "CHEBI_80551"
+        }
+    ]
+}

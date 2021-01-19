@@ -1,0 +1,18 @@
+0|chunk|Microbial Cell Factories Protein secretion in Lactococcus lactis : an efficient way to increase the overall heterologous protein production
+0	25	42 Protein secretion	Gene_function	GO_0009306
+0	33	42 secretion	Gene_function	GO_0046903
+
+1|chunk|Lactococcus lactis, the model lactic acid bacterium (LAB), is a food grade and well-characterized Gram positive bacterium. It is a good candidate for heterologous protein delivery in foodstuff or in the digestive tract. L. lactis can also be used as a protein producer in fermentor. Many heterologous proteins have already been produced in L. lactis but only few reports allow comparing production yields for a given protein either produced intracellularly or secreted in the medium. Here, we review several works evaluating the influence of the localization on the production yields of several heterologous proteins produced in L. lactis. The questions of size limits, conformation, and proteolysis are addressed and discussed with regard to protein yields. These data show that i) secretion is preferable to cytoplasmic production; ii) secretion enhancement (by signal peptide and propeptide optimization) results in increased production yield; iii) protein conformation rather than protein size can impair secretion and thus alter production yields; and iv) fusion of a stable protein can stabilize labile proteins. The role of intracellular proteolysis on heterologous cytoplasmic proteins and precursors is discussed. The new challenges now are the development of food grade systems and the identification and optimization of host factors affecting heterologous protein production not only in L. lactis, but also in other LAB species.
+1	546	558 localization	Gene_function	GO_0051179
+1	688	699 proteolysis	Gene_function	GO_0006508
+1	783	792 secretion	Gene_function	GO_0046903
+1	838	847 secretion	Gene_function	GO_0046903
+1	1009	1018 secretion	Gene_function	GO_0046903
+1	1073	1079 stable	Phenotype	HP_0031915
+1	1131	1144 intracellular	Gene_function	GO_0005622
+1	1145	1156 proteolysis	Gene_function	GO_0006508
+1	GO-HP	GO_0051179	HP_0031915
+1	GO-HP	GO_0006508	HP_0031915
+1	GO-HP	GO_0046903	HP_0031915
+1	HP-GO	HP_0031915	GO_0005622
+

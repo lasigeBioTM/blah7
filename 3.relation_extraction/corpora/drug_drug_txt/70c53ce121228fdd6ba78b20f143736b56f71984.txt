@@ -1,0 +1,24 @@
+0|chunk|
+
+1|chunk|Background: Multiple Sclerosis (MS) is characterized by the pathological trafficking of leukocytes into the central nervous system (CNS). Using the murine MS model, experimental autoimmune encephalomyelitis (EAE), we previously demonstrated that antagonism of the chemokine receptor CXCR7 blocks endothelial cell sequestration of CXCL12, thereby enhancing the abluminal localization of CXCR4-expressing leukocytes. CXCR7 antagonism led to decreased parenchymal entry of leukocytes and amelioration of ongoing disease during EAE. Of note, animals that received high doses of CXCR7 antagonist recovered to baseline function, as assessed by standard clinical scoring. Because functional recovery reflects axonal integrity, we utilized diffusion tensor imaging (DTI) to evaluate axonal injury in CXCR7 antagonist-versus vehicle-treated mice after recovery from EAE.
+1	580	590 antagonist	Chemical	CHEBI_48706
+
+2|chunk|Methods: C57BL6/J mice underwent adoptive transfer of MOG-reactive Th1 cells and were treated daily with either CXCR7 antagonist or vehicle for 28 days; and then evaluated by DTI to assess for axonal injury. After imaging, spinal cords underwent histological analysis of myelin and oligodendrocytes via staining with luxol fast blue (LFB), and immunofluorescence for myelin basic protein (MBP) and glutathione S-transferase- (GST-). Detection of nonphosphorylated neurofilament H (NH-F) was also performed to detect injured axons. Statistical analysis for EAE scores, DTI parameters and non-phosphorylated NH-F immunofluorescence were done by ANOVA followed by Bonferroni post-hoc test. For all statistical analysis a p < 0.05 was considered significant.
+2	118	128 antagonist	Chemical	CHEBI_48706
+2	317	332 luxol fast blue	Chemical	CHEBI_90211
+2	380	387 protein	Chemical	CHEBI_16541
+2	398	409 glutathione	Chemical	CHEBI_16856
+2	CHEBI-CHEBI	CHEBI_48706	CHEBI_90211
+2	CHEBI-CHEBI	CHEBI_48706	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_48706	CHEBI_16856
+2	CHEBI-CHEBI	CHEBI_90211	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_90211	CHEBI_16856
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_16856
+
+3|chunk|Results: In vivo DTI maps of spinal cord ventrolateral white matter (VLWM) axial diffusivities of nave and CXCR7 antagonist-treated mice were indistinguishable, while vehicle-treated animals exhibited decreased axial diffusivities. Quantitative differences in injured axons, as assessed via detection of non-phosphorylated NH-F, were consistent with axial diffusivity measurements. Overall, qualitative myelin content and presence of oligodendrocytes were similar in all treatment groups, as expected by their radial diffusivity values. Quantitative assessment of persistent inflammatory infiltrates revealed significant decreases within the parenchyma of CXCR7 antagonist-treated mice versus controls.
+
+4|chunk|Conclusions: These data suggest that CXCR7 antagonism not only prevents persistent inflammation but also preserves axonal integrity. Thus, targeting CXCR7 modifies both disease severity and recovery during EAE, suggesting a role for this molecule in both phases of disease.
+4	224	228 role	Chemical	CHEBI_50906
+4	238	246 molecule	Chemical	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_25367
+

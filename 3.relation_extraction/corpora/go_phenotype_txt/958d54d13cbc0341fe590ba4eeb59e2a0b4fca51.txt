@@ -1,0 +1,29 @@
+0|chunk|TRIM52 inhibits Japanese Encephalitis Virus replication by degrading the viral NS2A OPEN
+0	25	37 Encephalitis	Phenotype	HP_0002383
+
+1|chunk|The members of tripartite-motif containing (TRIM) protein participate in various cellular processes and play an important role in host antiviral function. TRIM proteins exert their antiviral activity either directly by degrading viral proteins through their E3 ligase activity, or indirectly by promoting host innate immunity. This study demonstrated for the first time that TRIM52 is a novel antiviral TRIM protein against Japanese encephalitis virus (JEV) infection. Overexpression of TRIM52 restricted JEV replication in BHK-21 and 293T cells. In addition, JEV nonstructural protein 2A (NS2A) is a protein that interacts with TRIM52. Their interaction degraded NS2A in a proteasome-dependent manner via the E3 ligase activity of TRIM52. Thus, TRIM52 is a novel antiviral TRIM protein, and it exerted antiviral activity against JEV infection by targeting and degrading viral NS2A.
+1	261	276 ligase activity	Gene_function	GO_0016874
+1	433	445 encephalitis	Phenotype	HP_0002383
+1	713	728 ligase activity	Gene_function	GO_0016874
+1	GO-HP	GO_0016874	HP_0002383
+
+2|chunk|More than 70 distinct tripartite-motif containing (TRIM) proteins have been identified in humans and mice 1,2 . Members of the TRIM family proteins share a conserved domain architecture known as RBCC motif, which displays a highly conserved order that consists of N-terminus: a RING finger domain, one or two B-boxes domains, and a coiled-coil region 2-4 . The RING domain endues TRIM proteins with the function of E3-ubiquitin ligase, which can mediate the conjugation of proteins with ubiquitin, with small ubiquitin-like molecule modifier (SUMO) or with the ubiquitin-like molecule interferon (IFN) stimulated gene (ISG) of 15 kDa (ISG15). The CC region is associated with the formation of high molecular weight complexes formed between TRIM proteins. The C-terminal domains of TRIM proteins are variable, these domains include PRY/SPRY (B30.2), NHL repeats (NHL), COS box motif (COS), fibronectin type III motif (FN3), and uncharacterized motif 1,3,4 . The C-terminus often serves TRIM protein as a protein-protein interaction and/or RNA binding module 5 .
+2	458	469 conjugation	Gene_function	GO_0000746
+2	1038	1049 RNA binding	Gene_function	GO_0003723
+2	1042	1049 binding	Gene_function	GO_0005488
+
+3|chunk|TRIM proteins are implicated in a variety of cellular functions, such as cell growth, differentiation, oncogenesis, inflammation, apoptosis, and innate antiviral immunity 1-3,6-11 . Accumulating studies have expounded on the important role of TRIM proteins in host responses to viral infections. These proteins exert their antiviral functions either directly or by regulating the innate antiviral immunity signaling of the host. Some TRIM proteins target innate immune pattern-recognition receptors to regulate host innate immune response 12 . TRIM25, is a famous TRIM protein, that promotes ubiquitination and activation of retinoic-acid-inducible gene-I (RIG-I) to sense RNA virus infection and induce IFN production to elicit host antiviral innate immunity 13 . TRIM9 short isoform was identified as a positive regulator in production of type I IFN, which serves as a platform that bridges GSK3 to TANK-binding kinase 1 (TBK1), resulting in activation of IRF3 signaling 14 . Ran discovered that ubiquitinated TRIM26 is associated with NF- B essential modulator (NEMO) and promotes TBK1-NEMO interaction to activate TBK1 15 . Moreover, some TRIM proteins exert direct antiviral activity. TRIM22 restricts influenza A virus (IAV) and hepatitis C virus (HCV) infection by targeting and degrading IAV viral nucleoprotein (NP) and HCV viral NS5A in a proteasome-dependent manner 16, 17 . TRIM32 also exerts antiviral effect against IAV through ubiquitination of PB1 polymerase 18 .
+3	406	415 signaling	Gene_function	GO_0023052
+3	516	538 innate immune response	Gene_function	GO_0045087
+3	523	538 immune response	Gene_function	GO_0006955
+3	744	759 innate immunity	Gene_function	GO_0045087
+3	964	973 signaling	Gene_function	GO_0023052
+3	1120	1124 TBK1	Gene_function	GO_0008384
+3	1237	1246 hepatitis	Phenotype	HP_0012115
+3	GO-HP	GO_0023052	HP_0012115
+3	GO-HP	GO_0045087	HP_0012115
+3	GO-HP	GO_0006955	HP_0012115
+3	GO-HP	GO_0008384	HP_0012115
+
+4|chunk|TRIM52 belongs to the C-V subfamily of TRIM proteins based on the structure of its C-terminal domains 3 . TRIM52 is unique among the TRIM family members because it contains only the RING domain and a B-Box domain. More intriguingly, the RING domain of TRIM52 is the largest among the classical RING domains; thus,
+

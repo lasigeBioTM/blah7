@@ -1,0 +1,30 @@
+0|chunk|K-Pax2: Bayesian identification of cluster-defining amino acid positions in large sequence datasets
+0	52	57 amino	Chemical	CHEBI_46882
+0	52	62 amino acid	Chemical	CHEBI_33704
+0	58	62 acid	Chemical	CHEBI_37527
+0	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+0	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+0	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+1|chunk|The recent growth in publicly available sequence data has introduced new opportunities for studying microbial evolution and spread. Because the pace of sequence accumulation tends to exceed the pace of experimental studies of protein function and the roles of individual amino acids, statistical tools to identify meaningful patterns in protein diversity are essential. Large sequence alignments from fast-evolving micro-organisms are particularly challenging to dissect using standard tools from phylogenetics and multivariate statistics because biologically relevant functional signals are easily masked by neutral variation and noise. To meet this need, a novel computational method is introduced that is easily executed in parallel using a cluster environment and can handle thousands of sequences with minimal subjective input from the user. The usefulness of this kind of machine learning is demonstrated by applying it to nearly 5000 haemagglutinin sequences of influenza A/H3N2.Antigenic and 3D structural mapping of the results show that the method can recover the major jumps in antigenic phenotype that occurred between 1968 and 2013 and identify specific amino acids associated with these changes. The method is expected to provide a useful tool to uncover patterns of protein evolution.
+1	226	233 protein	Chemical	CHEBI_16541
+1	271	276 amino	Chemical	CHEBI_46882
+1	271	282 amino acids	Chemical	CHEBI_33704
+1	277	282 acids	Chemical	CHEBI_37527
+1	337	344 protein	Chemical	CHEBI_16541
+1	744	751 cluster	Chemical	CHEBI_33731
+1	1167	1172 amino	Chemical	CHEBI_46882
+1	1167	1178 amino acids	Chemical	CHEBI_33704
+1	1173	1178 acids	Chemical	CHEBI_37527
+1	1281	1288 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_33731
+

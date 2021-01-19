@@ -1,0 +1,50 @@
+0|chunk|RNA-Dependent RNA Polymerase Speed and Fidelity are not the Only Determinants of the Mechanism or Efficiency of Recombination
+0	14	17 RNA	Chemical	CHEBI_33697
+
+1|chunk|Using the RNA-dependent RNA polymerase (RdRp) from poliovirus (PV) as our model system, we have shown that Lys-359 in motif-D functions as a general acid in the mechanism of nucleotidyl transfer. A K359H (KH) RdRp derivative is slow and faithful relative to wild-type enzyme. In the context of the KH virus, RdRp-coding sequence evolves, selecting for the following substitutions: I331F (IF, motif-C) and P356S (PS, motif-D). We have evaluated IF-KH, PS-KH, and IF-PS-KH viruses and enzymes. The speed and fidelity of each double mutant are equivalent. Each exhibits a unique recombination phenotype, with IF-KH being competent for copy-choice recombination and PS-KH being competent for forced-copy-choice recombination. Although the IF-PS-KH RdRp exhibits biochemical properties within twofold of wild type, the virus is impaired substantially for recombination in cells. We conclude that there are biochemical properties of the RdRp in addition to speed and fidelity that determine the mechanism and efficiency of recombination. The interwoven nature of speed, fidelity, the undefined property suggested here, and recombination makes it impossible to attribute a single property of the RdRp to fitness. However, the derivatives described here may permit elucidation of the importance of recombination on the fitness of the viral population in a background of constant polymerase speed and fidelity.
+1	24	27 RNA	Chemical	CHEBI_33697
+1	149	153 acid	Chemical	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_37527
+
+2|chunk|broad-spectrum therapeutics [2-4] and a target for function/mechanism-based strategies for viral attenuation [5-10]. One function/mechanism of the RdRp that has been targeted most is that required for faithful incorporation of nucleotides [5] [6] [7] [8] [9] [10] . Changing RdRp fidelity decreases or increases the genetic variation of the viral population, which, in turn, decreases fitness and virulence of the viral population [11] [12] [13] [14] [15] [16] .
+2	227	238 nucleotides	Chemical	CHEBI_36976
+
+3|chunk|Known RdRp variants exhibiting a high-fidelity phenotype can also exhibit a reduced speed of nucleotide incorporation, at least at the biochemical level [17] . Replication speed is also a determinant of viral fitness and virulence [18] . So, is it the increased fidelity or decreased speed of nucleotide addition that gives rise to the attenuated phenotype? Further complicating the fidelity-versus-speed question are the recent observations that changes to fidelity also have consequence for the efficiency of recombination [19] [20] [21] [22] [23] [24] . Increased RdRp fidelity decreases recombination efficiency and vice versa [19] [20] [21] [22] [23] [24] . It will likely be impossible to attribute a single biochemical property of the RdRp to biological outcome.
+3	93	103 nucleotide	Chemical	CHEBI_36976
+3	293	303 nucleotide	Chemical	CHEBI_36976
+
+4|chunk|The most extensively studied PV fidelity mutants encode RdRps with amino acid substitutions at sites remote from the active site. Constructing equivalent substitutions conferring equivalent phenotypes in RdRps other than PV is difficult if not impossible. Our laboratory has therefore pursued active-site-based strategies to manipulate the fidelity, speed, and/or recombination efficiency of the RdRp [25]. We have shown that a lysine (Lys-359 in PV) present in conserved structural motif D of the RdRp contributes to the efficiency of nucleotidyl transfer [25] . A PV mutant encoding a K359R RdRp is attenuated but elicits a protective immune response in mice that is at least as robust as the immune response elicited by the type 1 Sabin vaccine strain [7] .
+4	67	72 amino	Chemical	CHEBI_46882
+4	67	77 amino acid	Chemical	CHEBI_33704
+4	73	77 acid	Chemical	CHEBI_37527
+4	428	434 lysine	Chemical	CHEBI_18019
+4	428	434 lysine	Chemical	CHEBI_25094
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_18019
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_25094
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_18019
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_25094
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_18019
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_25094
+4	CHEBI-CHEBI	CHEBI_18019	CHEBI_25094
+
+5|chunk|In this study, we characterize a second motif-D mutant of PV (K359H). Unlike the K359R RdRp-encoding virus [7], K359H PV is genetically unstable and acquires mutations encoding two second-site amino acid substitutions after a few passages in cell culture. Together, the two substitutions restore all biochemical properties of the derivative to near wild-type levels. Individually, however, we observe differences in the mechanism (copy-choice vs. forced-copy-choice) and efficiency of recombination by each derivative, although each derivative exhibits equivalent speed and fidelity. We conclude that biochemical properties in addition to speed and fidelity must exist and contribute to both the mechanism and efficiency of recombination. The desire to attribute single, biochemical properties of the viral RdRp to fitness, virulence, and pathogenesis may be futile.
+5	193	198 amino	Chemical	CHEBI_46882
+5	193	203 amino acid	Chemical	CHEBI_33704
+5	199	203 acid	Chemical	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+6|chunk|Materials and Methods
+
+7|chunk|Adherent monolayers of HeLa and L929 fibroblasts were grown in DMEM/F-12 media. Media was supplemented with 100 U/mL penicillin, 100 g/mL streptomycin, and 10% heat inactivated (HI)-FBS. All cells were passaged in the presence of trypsin-EDTA. Wild-type and recombinant PV viruses were recovered after transfection of RNA produced in vitro (see below) from full-length cDNA or from the CRE-REP assay parental partners [23] . PV type 1 (Mahoney) was used throughout this study (GenBank accession number: V01149.1).
+7	319	322 RNA	Chemical	CHEBI_33697
+
+8|chunk|All mutations were introduced into the pET26Ub-PV 3D [26] bacterial expression plasmids using overlap extension PCR. The presence of the desired mutations and the absence of additional mutations were verified by DNA sequencing. The expression plasmid encoding the various mutations was digested and inserted into an intermediate plasmid, pUC18-BglII-EcoRI-3CD (referred as pUC-3CD in [27] , and then the fragment between BglII and ApaI was cloned into the subgenomic replicon, pRLucRA, or viral cDNA, pMovRA, or PV1CRE. PV1CRE is a full-length PV type 1 (Mahoney) cDNA bearing 8 synonymous substitutions in the oriI cis-acting replication element (CRE) located in the 2C-coding region and was described previously [23] . In order to create a fluorescence-based assay Genes 2019, 10, 968 3 of 16
+8	212	215 DNA	Chemical	CHEBI_16991
+8	641	648 element	Chemical	CHEBI_33250
+8	CHEBI-CHEBI	CHEBI_16991	CHEBI_33250
+

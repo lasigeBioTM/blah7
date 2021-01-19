@@ -1,0 +1,37 @@
+0|chunk|Lentivirus Display: Stable Expression of Human Antibodies on the Surface of Human Cells and Virus Particles
+0	20	26 Stable	Phenotype	HP_0031915
+
+1|chunk|Background: Isolation of human antibodies using current display technologies can be limited by constraints on protein expression, folding and post-translational modifications. Here we describe a discovery platform that utilizes self-inactivating (SIN) lentiviral vectors for the surface display of high-affinity single-chain variable region (scFv) antibody fragments on human cells and lentivirus particles.
+1	247	250 SIN	Gene_function	GO_0031028
+1	348	356 antibody	Gene_function	GO_0003823
+1	348	356 antibody	Gene_function	GO_0042571
+
+2|chunk|Methodology/Principal Findings: Bivalent scFvFc human antibodies were fused in frame with different transmembrane (TM) anchoring moieties to allow efficient high-level expression on human cells and the optimal TM was identified. The addition of an eight amino acid HIV-1 gp41 envelope incorporation motif further increased scFvFc expression on human cells and incorporation into lentiviral particles. Both antibody-displaying human cells and virus particles bound antigen specifically. Sulfation of CDR tyrosine residues, a property recently shown to broaden antibody binding affinity and antigen recognition was also demonstrated. High level scFvFc expression and stable integration was achieved in human cells following transduction with IRES containing bicistronic SIN lentivectors encoding ZsGreen when scFvFc fusion proteins were expressed from the first cassette. Up to 10 6 -fold enrichment of antibody expressing cells was achieved with one round of antigen coupled magnetic bead pre-selection followed by FACS sorting. Finally, the scFvFc displaying human cells could be used directly in functional biological screens with remarkable sensitivity.
+2	100	113 transmembrane	Gene_function	GO_0016021
+2	119	128 anchoring	Gene_function	GO_0043495
+2	276	284 envelope	Gene_function	GO_0031975
+2	486	495 Sulfation	Gene_function	GO_0051923
+2	559	567 antibody	Gene_function	GO_0003823
+2	559	567 antibody	Gene_function	GO_0042571
+2	568	575 binding	Gene_function	GO_0005488
+2	665	671 stable	Phenotype	HP_0031915
+2	722	734 transduction	Gene_function	GO_0009293
+2	768	771 SIN	Gene_function	GO_0031028
+2	901	909 antibody	Gene_function	GO_0003823
+2	901	909 antibody	Gene_function	GO_0042571
+2	GO-HP	GO_0016021	HP_0031915
+2	GO-HP	GO_0043495	HP_0031915
+2	GO-HP	GO_0031975	HP_0031915
+2	GO-HP	GO_0051923	HP_0031915
+2	GO-HP	GO_0003823	HP_0031915
+2	GO-HP	GO_0042571	HP_0031915
+2	GO-HP	GO_0005488	HP_0031915
+2	HP-GO	HP_0031915	GO_0009293
+2	HP-GO	HP_0031915	GO_0031028
+
+3|chunk|Conclusions/Significance: This antibody display platform will complement existing technologies by virtue of providing properties unique to lentiviruses and antibody expression in human cells, which, in turn, may aid the discovery of novel therapeutic human mAbs.
+3	31	39 antibody	Gene_function	GO_0003823
+3	31	39 antibody	Gene_function	GO_0042571
+3	156	164 antibody	Gene_function	GO_0003823
+3	156	164 antibody	Gene_function	GO_0042571
+

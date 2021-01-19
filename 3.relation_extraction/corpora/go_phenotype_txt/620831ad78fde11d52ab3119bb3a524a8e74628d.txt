@@ -1,0 +1,28 @@
+0|chunk|Masters of manipulation: Viral modulation of the immunological synapse
+0	49	70 immunological synapse	Gene_function	GO_0001772
+0	63	70 synapse	Gene_function	GO_0045202
+
+1|chunk|In order to thrive, viruses have evolved to manipulate host cell machinery for their own benefit. One major obstacle faced by pathogens is the immunological synapse.
+1	55	64 host cell	Gene_function	GO_0043657
+
+2|chunk|To enable efficient replication and latency in immune cells, viruses have developed a range of strategies to manipulate cellular processes involved in immunological synapse formation to evade immune detection and control T-cell activation.
+2	151	172 immunological synapse	Gene_function	GO_0001772
+2	151	182 immunological synapse formation	Gene_function	GO_0001771
+2	165	172 synapse	Gene_function	GO_0045202
+
+3|chunk|In vitro, viruses such as human immunodeficiency virus 1 and human T-lymphotropic virus type 1 utilise structures known as virological synapses to aid transmission of viral particles from cell to cell in a process termed trans-infection. The formation of the virological synapse provides a gateway for virus to be transferred between cells avoiding the extracellular space, preventing antibody neutralisation or recognition by complement.
+3	32	48 immunodeficiency	Phenotype	HP_0002721
+3	271	278 synapse	Gene_function	GO_0045202
+3	353	366 extracellular	Gene_function	GO_0005576
+3	385	393 antibody	Gene_function	GO_0003823
+3	385	393 antibody	Gene_function	GO_0042571
+3	HP-GO	HP_0002721	GO_0045202
+3	HP-GO	HP_0002721	GO_0005576
+3	HP-GO	HP_0002721	GO_0003823
+3	HP-GO	HP_0002721	GO_0042571
+
+4|chunk|This review looks at how viruses are able to subvert intracellular signalling to modulate immune function to their advantage and explores the role synapse formation has in viral persistence and cell-to-cell transmission.
+4	53	66 intracellular	Gene_function	GO_0005622
+4	67	77 signalling	Gene_function	GO_0023052
+4	147	154 synapse	Gene_function	GO_0045202
+

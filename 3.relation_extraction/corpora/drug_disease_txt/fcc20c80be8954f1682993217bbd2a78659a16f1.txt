@@ -1,0 +1,56 @@
+0|chunk|Saracatinib Inhibits Middle East Respiratory Syndrome-Coronavirus Replication In Vitro
+
+1|chunk|The Middle East respiratory syndrome-coronavirus (MERS-CoV), first identified in Saudi Arabia, is an emerging zoonotic pathogen that causes severe acute respiratory illness in humans with a high fatality rate. Since its emergence, MERS-CoV continues to spread to countries outside of the Arabian Peninsula and gives rise to sporadic human infections following the entry of infected individuals to other countries, which can precipitate outbreaks similar to the one that occurred in South Korea in 2015. Current therapeutics against MERS-CoV infection have primarily been adapted from previous drugs used for the treatment of severe acute respiratory syndrome. In search of new potential drug candidates, we screened a library composed of 2334 clinically approved drugs and pharmacologically active compounds. The drug saracatinib, a potent inhibitor of Src-family of tyrosine kinases (SFK), was identified as an inhibitor of MERS-CoV replication in vitro. Our results suggest that saracatinib potently inhibits MERS-CoV at the early stages of the viral life cycle in Huh-7 cells, possibly through the suppression of SFK signaling pathways. Furthermore, saracatinib exhibited a synergistic effect with gemcitabine, an anticancer drug with antiviral activity against several RNA viruses. These data indicate that saracatinib alone or in combination with gemcitabine can provide a new therapeutic option for the treatment of MERS-CoV infection.
+1	593	598 drugs	Chemical	CHEBI_23888
+1	625	658 severe acute respiratory syndrome	Disease	DOID_2945
+1	687	691 drug	Chemical	CHEBI_23888
+1	763	768 drugs	Chemical	CHEBI_23888
+1	813	817 drug	Chemical	CHEBI_23888
+1	840	849 inhibitor	Chemical	CHEBI_35222
+1	867	875 tyrosine	Chemical	CHEBI_17895
+1	867	875 tyrosine	Chemical	CHEBI_18186
+1	912	921 inhibitor	Chemical	CHEBI_35222
+1	1201	1212 gemcitabine	Chemical	CHEBI_175901
+1	1228	1232 drug	Chemical	CHEBI_23888
+1	1238	1247 antiviral	Chemical	CHEBI_22587
+1	1273	1276 RNA	Chemical	CHEBI_33697
+1	1352	1363 gemcitabine	Chemical	CHEBI_175901
+1	CHEBI-DOID	CHEBI_23888	DOID_2945
+1	DOID-CHEBI	DOID_2945	CHEBI_35222
+1	DOID-CHEBI	DOID_2945	CHEBI_17895
+1	DOID-CHEBI	DOID_2945	CHEBI_18186
+1	DOID-CHEBI	DOID_2945	CHEBI_175901
+1	DOID-CHEBI	DOID_2945	CHEBI_22587
+1	DOID-CHEBI	DOID_2945	CHEBI_33697
+
+2|chunk|Eastern countries that are associated with human-to-human spread, typically starting in healthcare settings that result in sporadic outbreaks [8] . The clinical features of MERS-CoV infection in humans range from asymptomatic to severe lower respiratory tract infections with the potential development of acute respiratory distress syndrome, septic shock, and multiorgan failure resulting in death [9, 10] . Due to high morbidity and mortality rates, therapeutic options of MERS-CoV were immediately adapted from previous reports of severe acute respiratory syndrome (SARS) therapies including the use of broad-spectrum antibiotics, corticosteroids, interferons, ribavirin, lopinavir-ritonavir, and/or mycophenolate mofetil, but none of them were effective in randomized controlled trials [3, 11] . Therefore, the rapid discovery of effective prophylactic or therapeutic measures to prevent or treat MERS is urgently needed.
+2	332	340 syndrome	Disease	DOID_225
+2	533	566 severe acute respiratory syndrome	Disease	DOID_2945
+2	558	566 syndrome	Disease	DOID_225
+2	568	572 SARS	Disease	DOID_2945
+2	702	715 mycophenolate	Chemical	CHEBI_168396
+2	DOID-CHEBI	DOID_225	CHEBI_168396
+2	DOID-CHEBI	DOID_2945	CHEBI_168396
+
+3|chunk|Repurposing clinically validated products is a valuable approach for drug discovery, which has the potential to greatly reduce the time and costs associated with the development and licensure of de novo therapeutics [12] . Prompt response and availability of a therapeutic option are especially critical for controlling the spread of highly infectious pathogens such as MERS-CoV. Along these lines, several Food and Drug Administration (FDA)-approved compounds have been reported to inhibit MERS-CoV replication in cell culture since its emergence [13] [14] [15] [16] [17] .
+3	69	73 drug	Chemical	CHEBI_23888
+3	407	411 Food	Chemical	CHEBI_33290
+3	416	420 Drug	Chemical	CHEBI_23888
+
+4|chunk|In search of additional MERS-CoV inhibitors, we conducted a screening of 2334 approved drugs and biologically active molecules using a cytopathic-effect (CPE)-based, high-throughput screening (HTS) assay. From the results, we identified saracatinib, a potent inhibitor of the Src-family of tyrosine kinases (SFKs), as an inhibitor of MERS-CoV as well as other members of the Coronaviridae family. We evaluated the antiviral activity of saracatinib and found that it suppressed the early stages of the MERS-CoV life cycle in Huh-7 cells through a possible suppression of the SFK signaling pathways. Furthermore, we assessed the combined effect of saracatinib with another chemotherapeutic agent, gemcitabine, in Huh-7 cells. Enhanced effects with lower toxicity were observed in a combination of these two drugs. Data presented in this study suggest that saracatinib alone or in combination with other agents can provide a new therapeutic option for the treatment of MERS-CoV infection.
+4	87	92 drugs	Chemical	CHEBI_23888
+4	117	126 molecules	Chemical	CHEBI_25367
+4	193	196 HTS	Disease	DOID_0110698
+4	259	268 inhibitor	Chemical	CHEBI_35222
+4	290	298 tyrosine	Chemical	CHEBI_17895
+4	290	298 tyrosine	Chemical	CHEBI_18186
+4	321	330 inhibitor	Chemical	CHEBI_35222
+4	414	423 antiviral	Chemical	CHEBI_22587
+4	805	810 drugs	Chemical	CHEBI_23888
+4	CHEBI-DOID	CHEBI_23888	DOID_0110698
+4	CHEBI-DOID	CHEBI_25367	DOID_0110698
+4	DOID-CHEBI	DOID_0110698	CHEBI_35222
+4	DOID-CHEBI	DOID_0110698	CHEBI_17895
+4	DOID-CHEBI	DOID_0110698	CHEBI_18186
+4	DOID-CHEBI	DOID_0110698	CHEBI_22587
+

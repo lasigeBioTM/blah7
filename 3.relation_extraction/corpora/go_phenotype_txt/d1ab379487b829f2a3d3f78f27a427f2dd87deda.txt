@@ -1,0 +1,64 @@
+0|chunk|Porcine Hemagglutinating Encephalomyelitis Virus Enters Neuro-2a Cells via Clathrin-Mediated Endocytosis in a Rab5-, Cholesterol-, and pH-Dependent Manner VIRUS-CELL INTERACTIONS crossm
+0	75	104 Clathrin-Mediated Endocytosis	Gene_function	GO_0072583
+0	93	104 Endocytosis	Gene_function	GO_0006897
+
+1|chunk|Porcine hemagglutinating encephalomyelitis virus (PHEV) is a highly neurovirulent coronavirus that invades the central nervous system (CNS) in piglets. Although important progress has been made toward understanding the biology of PHEV, many aspects of its life cycle remain obscure. Here we dissected the molecular mechanism underlying cellular entry and intracellular trafficking of PHEV in mouse neuroblastoma (Neuro-2a) cells. We first performed a thin-section transmission electron microscopy (TEM) assay to characterize the kinetics of PHEV, and we found that viral entry and transfer occur via membranous coating-mediated endo-and exocytosis. To verify the roles of distinct endocytic pathways, systematic approaches were used, including pharmacological inhibition, RNA interference, confocal microscopy analysis, use of fluorescently labeled virus particles, and overexpression of a dominant negative (DN) mutant. Quantification of infected cells showed that PHEV enters cells by clathrin-mediated endocytosis (CME) and that low pH, dynamin, cholesterol, and Eps15 are indispensably involved in this process. Intriguingly, PHEV invasion leads to rapid actin rearrangement, suggesting that the intactness and dynamics of the actin cytoskeleton are positively correlated with viral endocytosis. We next investigated the trafficking of internalized PHEV and found that Rab5-and Rab7-dependent pathways are required for the initiation of a productive infection. Furthermore, a GTPase activation assay suggested that endogenous Rab5 is activated by PHEV and is crucial for viral progression. Our findings demonstrate that PHEV hijacks the CME and endosomal system of the host to enter and traffic within neural cells, providing new insights into PHEV pathogenesis and guidance for antiviral drug design. IMPORTANCE Porcine hemagglutinating encephalomyelitis virus (PHEV), a nonsegmented, positive-sense, single-stranded RNA coronavirus, invades the central nervous system (CNS) and causes neurological dysfunction. Neural cells are its targets for viral progression. However, the detailed mechanism underlying PHEV entry and trafficking remains unknown. PHEV is the etiological agent of porcine hemagglutinating encephalomyelitis, which is an acute and highly contagious disease that causes numerous deaths in suckling piglets and enormous economic losses in China. Understanding the viral entry pathway will not only advance our knowledge of PHEV infection and pathogenesis but also open new approaches to the development of novel therapeutic strategies. Therefore, we employed systematic approaches to dissect the internalization and intracellular trafficking mechanism of PHEV in Neuro-2a cells. This is the first report to describe the process of PHEV entry into He W. 2017. Porcine hemagglutinating encephalomyelitis virus enters Neuro-2a cells via clathrin-mediated endocytosis in a Rab5-, cholesterol-, and pH-dependent manner. J 1 Journal of Virology nerve cells via clathrin-mediated endocytosis in a dynamin-, cholesterol-, and pHdependent manner that requires Rab5 and Rab7. KEYWORDS porcine hemagglutinating encephalomyelitis virus, Rab, clathrin, endocytosis, neurovirulent coronavirus PHEV Entry Depends on Clathrin and Rabs Journal of Virology December 2017 Volume 91 Issue 23 e01083-17 jvi.asm.org 3 PHEV Entry Depends on Clathrin and Rabs Journal of Virology
+1	111	118 central	Phenotype	HP_0030645
+1	355	368 intracellular	Gene_function	GO_0005622
+1	398	411 neuroblastoma	Phenotype	HP_0003006
+1	498	501 TEM	Gene_function	GO_0097197
+1	987	1016 clathrin-mediated endocytosis	Gene_function	GO_0072583
+1	1005	1016 endocytosis	Gene_function	GO_0006897
+1	1018	1021 CME	Gene_function	GO_0072583
+1	1231	1249 actin cytoskeleton	Gene_function	GO_0015629
+1	1237	1249 cytoskeleton	Gene_function	GO_0005856
+1	1287	1298 endocytosis	Gene_function	GO_0006897
+1	1641	1644 CME	Gene_function	GO_0072583
+1	1753	1765 pathogenesis	Gene_function	GO_0009405
+1	1951	1958 central	Phenotype	HP_0030645
+1	2245	2250 acute	Phenotype	HP_0011009
+1	2464	2476 pathogenesis	Gene_function	GO_0009405
+1	2638	2651 intracellular	Gene_function	GO_0005622
+1	2856	2885 clathrin-mediated endocytosis	Gene_function	GO_0072583
+1	2874	2885 endocytosis	Gene_function	GO_0006897
+1	2977	3006 clathrin-mediated endocytosis	Gene_function	GO_0072583
+1	2995	3006 endocytosis	Gene_function	GO_0006897
+1	3162	3173 endocytosis	Gene_function	GO_0006897
+1	HP-GO	HP_0030645	GO_0005622
+1	HP-GO	HP_0030645	GO_0097197
+1	HP-GO	HP_0030645	GO_0072583
+1	HP-GO	HP_0030645	GO_0006897
+1	HP-GO	HP_0030645	GO_0015629
+1	HP-GO	HP_0030645	GO_0005856
+1	HP-GO	HP_0030645	GO_0009405
+1	GO-HP	GO_0005622	HP_0003006
+1	GO-HP	GO_0005622	HP_0011009
+1	HP-GO	HP_0003006	GO_0097197
+1	HP-GO	HP_0003006	GO_0072583
+1	HP-GO	HP_0003006	GO_0006897
+1	HP-GO	HP_0003006	GO_0015629
+1	HP-GO	HP_0003006	GO_0005856
+1	HP-GO	HP_0003006	GO_0009405
+1	GO-HP	GO_0097197	HP_0011009
+1	GO-HP	GO_0072583	HP_0011009
+1	GO-HP	GO_0006897	HP_0011009
+1	GO-HP	GO_0015629	HP_0011009
+1	GO-HP	GO_0005856	HP_0011009
+1	GO-HP	GO_0009405	HP_0011009
+
+2|chunk|Neuro-2a cells that were either mock treated or treated with CPZ (50 M). The infected cells were fixed and visualized by confocal microscopy. (B) A PHEV internalization assay was carried out with cells pretreated with CPZ at the indicated concentrations. Following internalization, surface-bound viruses were removed and detected by qRT-PCR. The internalization of VSV via CME was used as a control. (C) PHEV RNA replication was inhibited by pretreatment of the cells with CPZ for 1 h, and relative hemagglutinin-esterase (HE) gene expression was assessed using qRT-PCR. (D) PHEV protein synthesis was suppressed by pretreatment with CPZ. Cell lysates were collected, and the expression level of the major viral S protein was measured by Western blotting. (E) PHEV particles colocalized with clathrin. Neuro-2a cells were transfected with DsRed-clathrin prior to incubation with PHEV. The enlarged box indicates PHEV particles (green) that were swallowed into the vesicle structure, which bears clathrin (red) on the outer surface; colocalized signals were widely observed using confocal microscopy. (F) Neuro-2a cells were transfected with an siRNA directed against CHC or a control mock siRNA (siCtrl). Inhibition of PHEV internalization and replication was assessed by qRT-PCR to quantify relative gene expression (top) or by immunoblotting to analyze viral protein synthesis (bottom). The RNAi efficiency against CHC was also examined using an anti-CHC primary antibody. (G) The PHEV load and CHC expression in Neuro-2a cells against a background of CHC depletion were calculated at 24 hpi by confocal microscopy. The relative fluorescence intensities of PHEV and CHC staining are presented in the histogram on the right. Bars, 10 m. **, P  0.01.
+2	373	376 CME	Gene_function	GO_0072583
+2	409	424 RNA replication	Gene_function	GO_0039703
+2	527	542 gene expression	Gene_function	GO_0010467
+2	580	597 protein synthesis	Gene_function	GO_0006412
+2	588	597 synthesis	Gene_function	GO_0009058
+2	964	971 vesicle	Gene_function	GO_0031982
+2	1301	1316 gene expression	Gene_function	GO_0010467
+2	1355	1378 viral protein synthesis	Gene_function	GO_0003746
+2	1361	1378 protein synthesis	Gene_function	GO_0006412
+2	1369	1378 synthesis	Gene_function	GO_0009058
+2	1393	1397 RNAi	Gene_function	GO_0016246
+2	1590	1593 hpi	Gene_function	GO_0009978
+
+3|chunk|PHEV Entry Depends on Clathrin and Rabs Journal of Virology
+

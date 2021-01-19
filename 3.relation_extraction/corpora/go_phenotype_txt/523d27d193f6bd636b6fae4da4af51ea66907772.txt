@@ -1,0 +1,40 @@
+0|chunk|Persistent Expression of Hepatitis C Virus Non-Structural Proteins Leads to Increased Autophagy and Mitochondrial Injury in Human Hepatoma Cells
+0	25	34 Hepatitis	Phenotype	HP_0012115
+0	86	95 Autophagy	Gene_function	GO_0006914
+0	100	113 Mitochondrial	Phenotype	HP_0001427
+0	HP-GO	HP_0012115	GO_0006914
+0	GO-HP	GO_0006914	HP_0001427
+
+1|chunk|HCV infection is a major cause of chronic liver disease and liver cancer in the United States. To address the pathogenesis caused by HCV infection, recent studies have focused on the direct cytopathic effects of individual HCV proteins, with the objective of identifying their specific roles in the overall pathogenesis. However, this approach precludes examination of the possible interactions between different HCV proteins and organelles. To obtain a better understanding of the various cytopathic effects of and cellular responses to HCV proteins, we used human hepatoma cells constitutively replicating HCV RNA encoding either the full-length polyprotein or the non-structural proteins, or cells constitutively expressing the structural protein core, to model the state of persistent HCV infection and examined the combination of various HCV proteins in cellular pathogenesis. Increased reactive oxygen species (ROS) generation in the mitochondria, mitochondrial injury and degeneration, and increased lipid accumulation were common among all HCV protein-expressing cells regardless of whether they expressed the structural or non-structural proteins. Expression of the non-structural proteins also led to increased oxidative stress in the cytosol, membrane blebbing in the endoplasmic reticulum, and accumulation of autophagocytic vacuoles. Alterations of cellular redox state, on the other hand, significantly changed the level of autophagy, suggesting a direct link between oxidative stress and HCV-mediated activation of autophagy. With the widespread cytopathic effects, cells with the full-length HCV polyprotein showed a modest antioxidant response and exhibited a significant increase in population doubling time and a concomitant decrease in cyclin D1. In contrast, cells expressing the non-structural proteins were able to launch a vigorous antioxidant response with up-regulation of antioxidant enzymes. The population doubling time and cyclin D1 level were also comparable to that of control cells. Finally, the cytopathic effects of core protein appeared to focus on the mitochondria without remarkable disturbances in the cytosol.
+1	34	41 chronic	Phenotype	HP_0011010
+1	42	55 liver disease	Phenotype	HP_0001392
+1	60	72 liver cancer	Phenotype	HP_0002896
+1	66	72 cancer	Phenotype	HP_0002664
+1	110	122 pathogenesis	Gene_function	GO_0009405
+1	307	319 pathogenesis	Gene_function	GO_0009405
+1	868	880 pathogenesis	Gene_function	GO_0009405
+1	940	952 mitochondria	Gene_function	GO_0005739
+1	954	967 mitochondrial	Phenotype	HP_0001427
+1	1221	1237 oxidative stress	Phenotype	HP_0025464
+1	1254	1262 membrane	Gene_function	GO_0016020
+1	1482	1498 oxidative stress	Phenotype	HP_0025464
+1	2089	2101 mitochondria	Gene_function	GO_0005739
+1	HP-GO	HP_0011010	GO_0009405
+1	HP-GO	HP_0011010	GO_0005739
+1	HP-GO	HP_0011010	GO_0016020
+1	HP-GO	HP_0001392	GO_0009405
+1	HP-GO	HP_0001392	GO_0005739
+1	HP-GO	HP_0001392	GO_0016020
+1	HP-GO	HP_0002896	GO_0009405
+1	HP-GO	HP_0002896	GO_0005739
+1	HP-GO	HP_0002896	GO_0016020
+1	HP-GO	HP_0002664	GO_0009405
+1	HP-GO	HP_0002664	GO_0005739
+1	HP-GO	HP_0002664	GO_0016020
+1	GO-HP	GO_0009405	HP_0001427
+1	GO-HP	GO_0009405	HP_0025464
+1	GO-HP	GO_0005739	HP_0001427
+1	GO-HP	GO_0005739	HP_0025464
+1	HP-GO	HP_0001427	GO_0016020
+1	HP-GO	HP_0025464	GO_0016020
+

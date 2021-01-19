@@ -1,0 +1,69 @@
+0|chunk|Real-time analysis of quantum dot labeled single porcine epidemic diarrhea virus moving along the microtubules using single particle tracking
+0	66	74 diarrhea	Phenotype	HP_0002014
+
+1|chunk|In order to study the infection mechanism of porcine epidemic diarrhea virus (peDV), which causes porcine epidemic diarrhea, a highly contagious enteric disease, we combined quantum dot labeled method, which could hold intact infectivity of the labeled viruses to the largest extent, with the single particle tracking technique to dynamically and globally visualize the transport behaviors of peDVs in live Vero cells. Our results were the first time to uncover the dynamic characteristics of PEDVs moving along the microtubules in the host cells. It is found that peDVs kept restricted motion mode with a relatively stable speed in the cell membrane region; while performed a slow-fast-slow velocity pattern with different motion modes in the cell cytoplasm region and near the microtubule organizing center region. In addition, the return movements of small amount of peDVs were also observed in the live cells. Collectively, our work is crucial for understanding the movement mechanisms of peDV in the live cells, and the proposed work also provided important references for further analysis and study on the infection mechanism of peDVs.
+1	62	70 diarrhea	Phenotype	HP_0002014
+1	115	123 diarrhea	Phenotype	HP_0002014
+1	370	379 transport	Gene_function	GO_0006810
+1	617	623 stable	Phenotype	HP_0031915
+1	637	650 cell membrane	Gene_function	GO_0005886
+1	642	650 membrane	Gene_function	GO_0016020
+1	749	758 cytoplasm	Gene_function	GO_0005737
+1	779	790 microtubule	Gene_function	GO_0005874
+1	779	808 microtubule organizing center	Gene_function	GO_0005815
+1	HP-GO	HP_0002014	GO_0006810
+1	HP-GO	HP_0002014	GO_0005886
+1	HP-GO	HP_0002014	GO_0016020
+1	HP-GO	HP_0002014	GO_0005737
+1	HP-GO	HP_0002014	GO_0005874
+1	HP-GO	HP_0002014	GO_0005815
+1	GO-HP	GO_0006810	HP_0031915
+1	HP-GO	HP_0031915	GO_0005886
+1	HP-GO	HP_0031915	GO_0016020
+1	HP-GO	HP_0031915	GO_0005737
+1	HP-GO	HP_0031915	GO_0005874
+1	HP-GO	HP_0031915	GO_0005815
+
+2|chunk|Porcine epidemic diarrhea virus (PEDV), a member of the group I coronaviruses, is an enveloped RNA virus with a single, positive-stranded genome of about 30 kb. It was initially reported in England in 1971, since then it has been identified in many swine-producing countries in Europe and Asia, notably in Belgium, Italy, South Korea, Japan and China. PEDV can cause porcine epidemic diarrhea (PED), a highly contagious enteric disease characterized by vomiting, acute watery diarrhea, and in particular, a high mortality rate in suckling piglets, resulting in substantial economic loss. The PED outbreak in 2017 was a mixed infection caused by various genotypes of PEDV 1 , putting PED in a new situation. New drugs and vaccines are required to fight the PEDV infection, however, the mechanism of PEDV infection of host cells still remains unclear, limiting the development of new vaccines and effective PED treatments.
+2	17	25 diarrhea	Phenotype	HP_0002014
+2	384	392 diarrhea	Phenotype	HP_0002014
+2	463	468 acute	Phenotype	HP_0011009
+2	476	484 diarrhea	Phenotype	HP_0002014
+
+3|chunk|In order to study the PEDV infection mechanism, several works have been proposed as to reveal the endocytic pathways 2,3 and the receptors 4-6 . However, the intracellular transport of PEDV was uninvestigated. It is known that microtubule (MT) is a component of cytoskeleton and essential for the intracellular transport of cargoes based on molecular motors 7-9 . Dynein and kinesin are both intracellular motor proteins that move unidirectionally in opposite directions along MTs, which may lead to the complex movements of the cargoes along the MTs in live cells 10-12 . As obligate parasites, viruses such as human immunodeficiency virus (HIV) 13 and parvoviruses 14,15 require MTs during cell entry for efficient nuclear targeting, either for cytosolic transport of naked viral particles or for transport inside vesicles. During assembly and egress, viruses such as HIV 16 and African swine fever virus 17 also need MTs for trafficking inside exocytic vesicles or for cytosolic transport of capsids and nucleoprotein
+3	158	171 intracellular	Gene_function	GO_0005622
+3	158	181 intracellular transport	Gene_function	GO_0046907
+3	172	181 transport	Gene_function	GO_0006810
+3	227	238 microtubule	Gene_function	GO_0005874
+3	262	274 cytoskeleton	Gene_function	GO_0005856
+3	297	310 intracellular	Gene_function	GO_0005622
+3	297	320 intracellular transport	Gene_function	GO_0046907
+3	311	320 transport	Gene_function	GO_0006810
+3	392	405 intracellular	Gene_function	GO_0005622
+3	576	584 obligate	Phenotype	HP_0040280
+3	618	634 immunodeficiency	Phenotype	HP_0002721
+3	747	766 cytosolic transport	Gene_function	GO_0016482
+3	757	766 transport	Gene_function	GO_0006810
+3	799	808 transport	Gene_function	GO_0006810
+3	895	900 fever	Phenotype	HP_0001945
+3	972	991 cytosolic transport	Gene_function	GO_0016482
+3	982	991 transport	Gene_function	GO_0006810
+3	GO-HP	GO_0005622	HP_0040280
+3	GO-HP	GO_0005622	HP_0002721
+3	GO-HP	GO_0005622	HP_0001945
+3	GO-HP	GO_0046907	HP_0040280
+3	GO-HP	GO_0046907	HP_0002721
+3	GO-HP	GO_0046907	HP_0001945
+3	GO-HP	GO_0006810	HP_0040280
+3	GO-HP	GO_0006810	HP_0002721
+3	GO-HP	GO_0006810	HP_0001945
+3	GO-HP	GO_0005874	HP_0040280
+3	GO-HP	GO_0005874	HP_0002721
+3	GO-HP	GO_0005874	HP_0001945
+3	GO-HP	GO_0005856	HP_0040280
+3	GO-HP	GO_0005856	HP_0002721
+3	GO-HP	GO_0005856	HP_0001945
+3	HP-GO	HP_0040280	GO_0016482
+3	HP-GO	HP_0002721	GO_0016482
+3	GO-HP	GO_0016482	HP_0001945
+

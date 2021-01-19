@@ -1,0 +1,39 @@
+0|chunk|A High-Throughput Screening Approach To Repurpose FDA-Approved Drugs for Bactericidal Applications against Staphylococcus aureus Small-Colony Variants
+
+1|chunk|Drug repurposing offers an expedited and economical route to develop new clinical therapeutics in comparison to traditional drug development. Growthbased high-throughput screening is concomitant with drug repurposing and enables rapid identification of new therapeutic uses for investigated drugs; however, this traditional method is not compatible with microorganisms with abnormal growth patterns such as Staphylococcus aureus small-colony variants (SCV). SCV subpopulations are auxotrophic for key compounds in biosynthetic pathways, which result in low growth rate. SCV formation is also associated with reduced antibiotic susceptibility, and the SCV's ability to revert to the normal cell growth state is thought to contribute to recurrence of S. aureus infections. Thus, there is a critical need to identify antimicrobial agents that are potent against SCV in order to effectively treat chronic infections. Accordingly, here we describe adapting an adenylate kinase (AK)-based cell death reporter assay to identify members of a Food and Drug Administration (FDA)approved drug library that display bactericidal activity against S. aureus SCV. Four library members, daunorubicin, ketoconazole, rifapentine, and sitafloxacin, exhibited potent SCV bactericidal activity against a stable S. aureus SCV. Further investigation showed that sitafloxacin was potent against methicillin-susceptible and -resistant S. aureus, as well as S. aureus within an established biofilm. Taken together, these results demonstrate the ability to use the AK assay to screen small-molecule libraries for SCV bactericidal agents and highlight the therapeutic potential of sitafloxacin to be repurposed to treat chronic S. aureus infections associated with SCV and/or biofilm growth states. IMPORTANCE Conventional antibiotics fail to successfully treat chronic osteomyelitis, endocarditis, and device-related and airway infections. These recurring infections are associated with the emergence of SCV, which are recalcitrant to conventional antibiotics. Studies have investigated antibiotic therapies to treat SCV-related infections but have had little success, emphasizing the need to identify novel antimicrobial drugs. However, drug discovery is a costly and time-consuming process. An alternative strategy is drug repurposing, which could identify FDA-approved and wellcharacterized drugs that could have off-label utility in treating SCV. In this study, we adapted a high-throughput AK-based assay to identify 4 FDA-approved drugs, daunorubicin, ketoconazole, rifapentine, and sitafloxacin, which display antimicrobial activity against S. aureus SCV, suggesting an avenue for drug repurposing in order to effectively treat SCV-related infections. Additionally, this screening paradigm can Citation Trombetta RP, Dunman PM, Schwarz EM, Kates SL, Awad HA. 2018. A highthroughput screening approach to repurpose FDA-approved drugs for bactericidal applications against Staphylococcus aureus small-colony variants. mSphere 3:e00422-18.
+1	374	389 abnormal growth	Phenotype	HP_0001507
+1	383	389 growth	Gene_function	GO_0040007
+1	458	461 SCV	Gene_function	GO_0020003
+1	557	563 growth	Gene_function	GO_0040007
+1	570	573 SCV	Gene_function	GO_0020003
+1	651	654 SCV	Gene_function	GO_0020003
+1	689	700 cell growth	Gene_function	GO_0016049
+1	694	700 growth	Gene_function	GO_0040007
+1	859	862 SCV	Gene_function	GO_0020003
+1	893	900 chronic	Phenotype	HP_0011010
+1	983	993 cell death	Gene_function	GO_0008219
+1	1143	1146 SCV	Gene_function	GO_0020003
+1	1246	1249 SCV	Gene_function	GO_0020003
+1	1282	1288 stable	Phenotype	HP_0031915
+1	1299	1302 SCV	Gene_function	GO_0020003
+1	1585	1588 SCV	Gene_function	GO_0020003
+1	1691	1698 chronic	Phenotype	HP_0011010
+1	1736	1739 SCV	Gene_function	GO_0020003
+1	1755	1761 growth	Gene_function	GO_0040007
+1	1833	1840 chronic	Phenotype	HP_0011010
+1	1976	1979 SCV	Gene_function	GO_0020003
+1	2418	2421 SCV	Gene_function	GO_0020003
+1	2630	2633 SCV	Gene_function	GO_0020003
+1	HP-GO	HP_0001507	GO_0040007
+1	HP-GO	HP_0001507	GO_0020003
+1	HP-GO	HP_0001507	GO_0016049
+1	HP-GO	HP_0001507	GO_0008219
+1	GO-HP	GO_0040007	HP_0011010
+1	GO-HP	GO_0040007	HP_0031915
+1	GO-HP	GO_0020003	HP_0011010
+1	GO-HP	GO_0020003	HP_0031915
+1	GO-HP	GO_0016049	HP_0011010
+1	GO-HP	GO_0016049	HP_0031915
+1	HP-GO	HP_0011010	GO_0008219
+1	GO-HP	GO_0008219	HP_0031915
+

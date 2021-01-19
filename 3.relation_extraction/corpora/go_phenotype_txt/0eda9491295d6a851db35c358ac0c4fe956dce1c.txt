@@ -1,0 +1,7 @@
+0|chunk|CE-BLAST makes it possible to compute antigenic similarity for newly emerging pathogens
+
+1|chunk|Major challenges in vaccine development include rapidly selecting or designing immunogens for raising cross-protective immunity against different intra-or inter-subtypic pathogens, especially for the newly emerging varieties. Here we propose a computational method, Conformational Epitope (CE)-BLAST, for calculating the antigenic similarity among different pathogens with stable and high performance, which is independent of the prior binding-assay information, unlike the currently available models that heavily rely on the historical experimental data. Tool validation incorporates influenza-related experimental data sufficient for stability and reliability determination. Application to dengue-related data demonstrates high harmonization between the computed clusters and the experimental serological data, undetectable by classical grouping. CE-BLAST identifies the potential cross-reactive epitope between the recent zika pathogen and the dengue virus, precisely corroborated by experimental data. The high performance of the pathogens without the experimental binding data suggests the potential utility of CE-BLAST to rapidly design cross-protective vaccines or promptly determine the efficacy of the currently marketed vaccine against emerging pathogens, which are the critical factors for containing emerging disease outbreaks.
+1	373	379 stable	Phenotype	HP_0031915
+1	1069	1076 binding	Gene_function	GO_0005488
+1	HP-GO	HP_0031915	GO_0005488
+

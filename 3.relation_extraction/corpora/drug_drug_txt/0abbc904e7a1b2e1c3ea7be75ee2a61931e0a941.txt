@@ -1,0 +1,52 @@
+0|chunk|Automated cell-based luminescence assay for profiling antiviral compound activity against enteroviruses
+0	54	63 antiviral	Chemical	CHEBI_22587
+
+1|chunk|We describe the development, optimisation, and validation of an automated, cell-based and highthroughput screening assay using existing luminescence-based ATPlite reagents for identifying antiviral compounds that inhibit enterovirus replication. Antiviral efficacy was determined by measuring the ATP levels in cells that were protected from the viral cytopathic effect (CPE) by the antiviral compounds pleconaril and rupintrivir. CPE-based assay conditions were optimised at a cell density of 5000 cells/well and a viral infection dose of 100 CCID 50 in 384-well plates. The assay exhibited excellent robustness, with Z-factor values between 0.75 and 0.82, coefficients of variation between 0.33% and 1.45%, and signal-to-background ratios ranging from 6.92 to 22.6 when testing three enterovirus A71 isolates circulating in China. The assay was also suitable for screening other picornaviruses, such as poliovirus, coxsackievirus, echovirus, and parechovirus.
+1	163	171 reagents	Chemical	CHEBI_33893
+1	188	197 antiviral	Chemical	CHEBI_22587
+1	246	255 Antiviral	Chemical	CHEBI_22587
+1	297	300 ATP	Chemical	CHEBI_15422
+1	383	392 antiviral	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33893	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33893	CHEBI_15422
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_15422
+
+2|chunk|Enteroviruses (EVs; genus Enterovirus, family Picornaviridae) are small positive-sense RNA viruses that include human enteroviruses, which comprise more than 100 serotypes and are among the most common pathogens that infect humans worldwide, especially children 1 . Most EV infections are asymptomatic, but some may lead to illnesses, ranging from mild to more severe, or even life-threatening, such as hand, foot, and mouth disease (HFMD), aseptic meningitis, encephalitis, myocarditis, pancreatitis, acute flaccid paralysis, and neonatal sepsis 1 . In recent years, outbreaks of HFMD caused by enterovirus A71 (EV-A71) or coxsackievirus A16 have occcured in China and several countries in Southeast Asia 2-6 . To date, there are no approved specific antiviral therapies available to treat diseases caused by EVs. Thus, there is an urgent need to identify safe and broad-spectrum drugs against existing pathogenic EVs.
+2	87	90 RNA	Chemical	CHEBI_33697
+2	752	761 antiviral	Chemical	CHEBI_22587
+2	881	886 drugs	Chemical	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+
+3|chunk|We selected two well-studied compounds with different viral targets, to aid in the assay optimisation. Pleconaril is an enteroviral capsid inhibitor that inhibits enterovirus replication by blocking virus uncoating and release of viral RNA into cells 7,8 . Pleconaril was recently reported to have anti-enterovirus efficacy in the treatment of neonatal sepsis 9-11 . Rupintrivir (also known as AG-7088) is an irreversible inhibitor of the picornaviral 3 C protease, with demonstrated activity against rhinoviruses and several EVs 12-14 .
+3	139	148 inhibitor	Chemical	CHEBI_35222
+3	236	239 RNA	Chemical	CHEBI_33697
+3	422	431 inhibitor	Chemical	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_33697
+
+4|chunk|To measure cell viability, viral cytopathic effect (CPE) inhibition assays use uptake reagents, such as neutral red, MTT (3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide), or crystal violet 15 . Limitations of these colorimetric assays include low throughput, requirement for washing steps, low dynamic range, and low signal-to-noise ratio. Cell debris that remains from infected cells can adhere to the microplate, which can result in high background and low signal-to-noise 15 . To overcome these disadvantages, we implemented an alternative assay format using an adenosine triphosphate (ATP) luminescence readout previously developed and validated for a panel of positive-strand RNA viruses 15 . The ATPlite luminescence assay has been used to measure intracellular ATP as a function of cell number and/or viability 16, 17 . The advantages of these types of assays are their homogeneous nature, their ability to use both adherent or non-adherent cell lines, and amenability to automation and high-throughput screening (HTS). Our experiments sought to confirm this.
+4	117	120 MTT	Chemical	CHEBI_53233
+4	189	203 crystal violet	Chemical	CHEBI_41688
+4	580	589 adenosine	Chemical	CHEBI_16335
+4	580	602 adenosine triphosphate	Chemical	CHEBI_15422
+4	590	602 triphosphate	Chemical	CHEBI_18036
+4	604	607 ATP	Chemical	CHEBI_15422
+4	696	699 RNA	Chemical	CHEBI_33697
+4	783	786 ATP	Chemical	CHEBI_15422
+4	CHEBI-CHEBI	CHEBI_53233	CHEBI_41688
+4	CHEBI-CHEBI	CHEBI_53233	CHEBI_16335
+4	CHEBI-CHEBI	CHEBI_53233	CHEBI_15422
+4	CHEBI-CHEBI	CHEBI_53233	CHEBI_18036
+4	CHEBI-CHEBI	CHEBI_53233	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_41688	CHEBI_16335
+4	CHEBI-CHEBI	CHEBI_41688	CHEBI_15422
+4	CHEBI-CHEBI	CHEBI_41688	CHEBI_18036
+4	CHEBI-CHEBI	CHEBI_41688	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_16335	CHEBI_15422
+4	CHEBI-CHEBI	CHEBI_16335	CHEBI_18036
+4	CHEBI-CHEBI	CHEBI_16335	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_15422	CHEBI_18036
+4	CHEBI-CHEBI	CHEBI_15422	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_18036	CHEBI_33697
+

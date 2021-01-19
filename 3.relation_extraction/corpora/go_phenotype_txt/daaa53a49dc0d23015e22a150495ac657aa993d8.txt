@@ -1,0 +1,34 @@
+0|chunk|Transcriptional and Translational Landscape of Equine Torovirus GENOME REPLICATION AND REGULATION OF VIRAL GENE EXPRESSION crossm
+0	101	122 VIRAL GENE EXPRESSION	Gene_function	GO_0019080
+0	107	122 GENE EXPRESSION	Gene_function	GO_0010467
+
+1|chunk|The genus Torovirus (subfamily Torovirinae, family Coronaviridae, order Nidovirales) encompasses a range of species that infect domestic ungulates, including cattle, sheep, goats, pigs, and horses, causing an acute self-limiting gastroenteritis. Using the prototype species equine torovirus (EToV), we performed parallel RNA sequencing (RNA-seq) and ribosome profiling (Ribo-seq) to analyze the relative expression levels of the known torovirus proteins and transcripts, chimeric sequences produced via discontinuous RNA synthesis (a characteristic of the nidovirus replication cycle), and changes in host transcription and translation as a result of EToV infection. RNA sequencing confirmed that EToV utilizes a unique combination of discontinuous and nondiscontinuous RNA synthesis to produce its subgenomic RNAs (sgRNAs); indeed, we identified transcripts arising from both mechanisms that would result in sgRNAs encoding the nucleocapsid. Our ribosome profiling analysis revealed that ribosomes efficiently translate two novel CUG-initiated open reading frames (ORFs), located within the so-called 5= untranslated region. We have termed the resulting proteins U1 and U2. Comparative genomic analysis confirmed that these ORFs are conserved across all available torovirus sequences, and the inferred amino acid sequences are subject to purifying selection, indicating that U1 and U2 are functionally relevant. This study provides the first high-resolution analysis of transcription and translation in this neglected group of livestock pathogens. IMPORTANCE Toroviruses infect cattle, goats, pigs, and horses worldwide and can cause gastrointestinal disease. There is no treatment or vaccine, and their ability to spill over into humans has not been assessed. These viruses are related to important human pathogens, including severe acute respiratory syndrome (SARS) coronavirus, and they share some common features; however, the mechanism that they use to produce sgRNA molecules differs. Here, we performed deep sequencing to determine how equine torovirus produces sgRNAs. In doing so, we also identified two previously unknown open reading frames "hidden" within the genome. Together these results highlight the similarities and differences between this domestic animal virus and related pathogens of humans and livestock.
+1	209	214 acute	Phenotype	HP_0011009
+1	350	358 ribosome	Gene_function	GO_0005840
+1	517	530 RNA synthesis	Gene_function	GO_0032774
+1	521	530 synthesis	Gene_function	GO_0009058
+1	624	635 translation	Gene_function	GO_0006412
+1	770	783 RNA synthesis	Gene_function	GO_0032774
+1	774	783 synthesis	Gene_function	GO_0009058
+1	947	955 ribosome	Gene_function	GO_0005840
+1	1489	1500 translation	Gene_function	GO_0006412
+1	1828	1834 severe	Phenotype	HP_0012828
+1	1835	1840 acute	Phenotype	HP_0011009
+1	HP-GO	HP_0011009	GO_0005840
+1	HP-GO	HP_0011009	GO_0032774
+1	HP-GO	HP_0011009	GO_0009058
+1	HP-GO	HP_0011009	GO_0006412
+1	GO-HP	GO_0005840	HP_0012828
+1	GO-HP	GO_0032774	HP_0012828
+1	GO-HP	GO_0009058	HP_0012828
+1	GO-HP	GO_0006412	HP_0012828
+
+2|chunk|T he order Nidovirales currently contains four families of positive-sense, singlestranded RNA viruses: the Coronaviridae, Arteriviridae, Roniviridae, and Mesoniviridae (1). Their grouping into the one taxonomic order is based upon replicase protein conservation, genome organization, and replication strategy. However, these viral families are nonetheless very diverse with respect to their virion structure, host range, pathogenic potential, and genome size.
+2	391	397 virion	Gene_function	GO_0019012
+
+3|chunk|The genus Torovirus (family Coronaviridae, subfamily Torovirinae) encompasses a range of species with worldwide distribution that infect domestic ungulates, including Citation Stewart H, Brown K, Dinan AM, Irigoyen N, Snijder EJ, Firth AE. 2018. Transcriptional and translational landscape of equine torovirus. J Virol 92:e00589-18. https:// FIG 1 Schematic of the equine torovirus genome (EToV). Open reading frames (ORFs) are colored according to their respective reading frames (pink, phase 0; yellow, phase 1; blue, phase 1). Polyproteins pp1a and pp1ab are translated from genomic RNA, with pp1ab generated via 1 programmed ribosomal frameshifting. Structural proteins are translated from a series of sgRNAs. Untranslated regions of sgRNAs are represented by black bars. The leader transcription regulatory sequence (TRS) (green) and putative body TRSs (blue) are displayed below the viral genome. The frameshift site and a putative RNA hairpin involved in S sgRNA synthesis are indicated above the genome. Stewart et al. Journal of Virology September 2018 Volume 92 Issue 17 e00589-18 jvi.asm.org 2
+3	825	828 TRS	Gene_function	GO_0004829
+3	973	982 synthesis	Gene_function	GO_0009058
+
+4|chunk|Tandem RNA-seq and Ribo-seq of EToV-infected cells. We conducted tandem RNA-seq and Ribo-seq of EToV-infected equine dermal (ED) cells. Two biological replicates of virus-infected and mock-infected cells were analyzed, generating 25 to 53 million reads per sample. For RNA-seq, 77 to 92% of reads mapped to the host genome, of which a mean of 1.5% mapped to rRNA, 19% to mRNA, 32% to noncoding RNA (ncRNA), and 47% elsewhere in the genome. For Ribo-seq, 46 to 60% of reads mapped to the host genome, of which a mean of 56% mapped to rRNA, 13% to mRNA, 4.9% to ncRNA, and 26% elsewhere in the genome (see Table S1 in the supplemental material). Totals of 1.3% and 2.3% of reads mapped to the virus genome in the two EToV-infected RNA-seq replicates and 0.41% and 0.21% in the two EToV-infected Ribo-seq replicates.
+

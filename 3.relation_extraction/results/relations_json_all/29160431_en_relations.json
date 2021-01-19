@@ -1,0 +1,217 @@
+{
+    "text": "To reclassify deaths of women infected with the human immunodeficiency virus/acquired immunodeficiency syndrome in pregnancy and childbirth in the State of Pernambuco, Brazil, from 2000 to 2010.A descriptive exploratory study, developed from the following steps: translation to Portuguese of the item \"HIV and aids\" of the United Nations document \"The WHO application of ICD-10 to deaths during pregnancy, childbirth and the puerperium: DCI MM 2012\"; development of a classification algorithm of deaths of women living with the human immunodeficiency virus/acquired immunodeficiency syndrome in pregnancy and childbirth; and reclassification of deaths by a group of experts.Among the 25 reclassified deaths, 12 were due to human immunodeficiency virus/acquired immunodeficiency syndrome, and pregnancy condition was coexisting; 9 were reclassified as indirect maternal death, with O98.7 code, proposed by the World Health Organization; 2 as direct/indirect maternal death; and 2 were considered indeterminate.The reclassification showed a possible pattern of change in maternal mortality, since most of the deaths were attributed to the virus and may lead to a reduction in deaths from maternal causes. The algorithm will subsidize the use of the new classification of maternal death and human immunodeficiency virus/acquired immunodeficiency syndrome.",
+    "denotations": [
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 54,
+                "end": 70
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 86,
+                "end": 102
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "DOID_612",
+            "span": {
+                "begin": 86,
+                "end": 111
+            },
+            "obj": "immunodeficiency syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 103,
+                "end": 111
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "GO_0006412",
+            "span": {
+                "begin": 263,
+                "end": 274
+            },
+            "obj": "translation"
+        },
+        {
+            "id": "CHEBI_27372",
+            "span": {
+                "begin": 437,
+                "end": 440
+            },
+            "obj": "DCI"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 534,
+                "end": 550
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 566,
+                "end": 582
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "DOID_612",
+            "span": {
+                "begin": 566,
+                "end": 591
+            },
+            "obj": "immunodeficiency syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 583,
+                "end": 591
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 729,
+                "end": 745
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 761,
+                "end": 777
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "DOID_612",
+            "span": {
+                "begin": 761,
+                "end": 786
+            },
+            "obj": "immunodeficiency syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 778,
+                "end": 786
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 1294,
+                "end": 1310
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "HP_0002721",
+            "span": {
+                "begin": 1326,
+                "end": 1342
+            },
+            "obj": "immunodeficiency"
+        },
+        {
+            "id": "DOID_612",
+            "span": {
+                "begin": 1326,
+                "end": 1351
+            },
+            "obj": "immunodeficiency syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 1343,
+                "end": 1351
+            },
+            "obj": "syndrome"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0006412",
+            "pred": "effect",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0006412",
+            "pred": "effect",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0006412",
+            "pred": "no_relation",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0006412",
+            "pred": "effect",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0006412",
+            "pred": "no_relation",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0006412",
+            "pred": "effect",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0006412",
+            "pred": "no_relation",
+            "obj": "HP_0002721"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_612",
+            "pred": "effect",
+            "obj": "CHEBI_27372"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_612",
+            "pred": "effect",
+            "obj": "CHEBI_27372"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_27372"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_225",
+            "pred": "no_relation",
+            "obj": "CHEBI_27372"
+        }
+    ]
+}

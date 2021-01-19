@@ -1,0 +1,81 @@
+0|chunk|CD81 Receptor Regions outside the Large Extracellular Loop Determine Hepatitis C Virus Entry into Hepatoma Cells
+
+1|chunk|Hepatitis C virus (HCV) enters human hepatocytes using four essential entry factors, one of which is human CD81 (hCD81). The tetraspanin hCD81 contains a large extracellular loop (LEL), which interacts with the E2 glycoprotein of HCV. The role of the non-LEL regions of hCD81 (intracellular tails, four transmembrane domains, small extracellular loop and intracellular loop) is poorly understood. Here, we studied the contribution of these domains to HCV susceptibility of hepatoma cells by generating chimeras of related tetraspanins with the hCD81 LEL. Our results show that non-LEL regions in addition to the LEL determine susceptibility of cells to HCV. While closely related tetraspanins (X. tropicalis CD81 and D. rerio CD81) functionally complement hCD81 non-LEL regions, distantly related tetraspanins (C. elegans TSP9 amd D. melanogaster TSP96F) do not and tetraspanins with intermediate homology (hCD9) show an intermediate phenotype. Tetraspanin homology and susceptibility to HCV correlate positively. For some chimeras, infectivity correlates with surface expression. In contrast, the hCD9 chimera is fully surface expressed, binds HCV E2 glycoprotein but is impaired in HCV receptor function. We demonstrate that a cholesterol-coordinating glutamate residue in CD81, which hCD9 lacks, promotes HCV infection. This work highlights the hCD81 non-LEL regions as additional HCV susceptibility-determining factors.
+1	214	226 glycoprotein	Chemical	CHEBI_17089
+1	239	243 role	Chemical	CHEBI_50906
+1	827	830 amd	Chemical	CHEBI_61058
+1	1152	1164 glycoprotein	Chemical	CHEBI_17089
+1	1254	1263 glutamate	Chemical	CHEBI_14321
+1	1254	1271 glutamate residue	Chemical	CHEBI_32484
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_61058
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_14321
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_32484
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_61058
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_14321
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_32484
+1	CHEBI-CHEBI	CHEBI_61058	CHEBI_14321
+1	CHEBI-CHEBI	CHEBI_61058	CHEBI_32484
+1	CHEBI-CHEBI	CHEBI_14321	CHEBI_32484
+
+2|chunk|Hepatitis C virus (HCV) is a member of the Flaviviridae family and as such a small enveloped positive strand RNA virus. It is the causative agent of chronic hepatitis C, which affects approximately 71 million individuals worldwide [6, 7] . HCV uses four essential entry factors: scavenger receptor type B class I (SR-BI), human CD81 (hCD81), claudin-1 (CLDN1) and occludin (OCLN) [8] [9] [10] [11] . A second non-canonical uptake pathway using very low density lipoprotein receptor (VLDLR) and LDLR instead of SR-BI exists and presumably relies on the HCV particle associated serum lipoproteins [12, 13] . In contrast, SR-BI and hCD81 bind HCV particles directly through the viral E2 glycoprotein [8, 11] . In addition, hCD81 mediates post-binding steps in HCV entry. It translocates with the virus along the plasma membrane [14] , it co-endocytoses with the virus [15] and it triggers conformational changes in the viral E1/E2 glycoproteins rendering them competent for fusion with the endosomal membrane [16] . Which domains of hCD81 are required for these post-binding functions remains largely elusive.
+2	109	112 RNA	Chemical	CHEBI_33697
+2	430	437 pathway	Chemical	CHEBI_34922
+2	461	472 lipoprotein	Chemical	CHEBI_6495
+2	582	594 lipoproteins	Chemical	CHEBI_6495
+2	684	696 glycoprotein	Chemical	CHEBI_17089
+2	928	941 glycoproteins	Chemical	CHEBI_17089
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_6495
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_17089
+2	CHEBI-CHEBI	CHEBI_34922	CHEBI_6495
+2	CHEBI-CHEBI	CHEBI_34922	CHEBI_17089
+2	CHEBI-CHEBI	CHEBI_6495	CHEBI_17089
+
+3|chunk|CD81 belongs to the tetraspanin protein family. It is surface expressed and consists of four transmembrane domains, two short cytoplasmic termini, one short cytoplasmic loop and two extracellular domains, termed the small extracellular loop (SEL) and the large extracellular loop (LEL). Tetraspanins lack signaling domains, but coordinate PPIs and lipid interactions in tetraspanin webs [17] [18] [19] [20] . Human CD81 associates with the HCV entry factors SR-BI and CLDN1 [21, 22] and co-factors, such as the GTPase HRas and serum response factor binding protein 1 (SRFBP1) [22, 23] . Thus, hCD81 has at least two functions during HCV entry. First, it concentrates HCV at the cell surface. Second, it engages in interactions with host proteins and lipids needed for post-binding entry steps. For the former, the structure-function relationship of hCD81 has been extensively analyzed [8, 24, 25] . Specifically, the LEL region of hCD81 directly interacts with HCV E2 glycoprotein. In contrast, the structural requirements of hCD81 to engage in protein and lipid interactions needed for HCV entry are poorly defined. To function as a HCV receptor, CD81 needs to dynamically move in the plasma membrane, possibly to engage in different molecular interactions during virus penetration [26] . Some interactions of hCD81 with host proteins such as immunoglobulin superfamily member 8 (IGSF8) map to regions outside the LEL, here referred to as backbone [27] . In addition, transmembrane domains one and four form hydrogen bonds with cholesterol [19] . Thus, the hCD81 backbone (intracellular tails, four transmembrane domains, small extracellular loop and intracellular loop) can coordinate interactions with lipids and proteins, some of which may be required for HCV cell entry.
+3	32	39 protein	Chemical	CHEBI_16541
+3	242	245 SEL	Chemical	CHEBI_24866
+3	348	353 lipid	Chemical	CHEBI_18059
+3	557	564 protein	Chemical	CHEBI_16541
+3	737	745 proteins	Chemical	CHEBI_36080
+3	750	756 lipids	Chemical	CHEBI_18059
+3	1045	1052 protein	Chemical	CHEBI_16541
+3	1057	1062 lipid	Chemical	CHEBI_18059
+3	1327	1335 proteins	Chemical	CHEBI_36080
+3	1509	1517 hydrogen	Chemical	CHEBI_18276
+3	1509	1517 hydrogen	Chemical	CHEBI_49637
+3	1529	1540 cholesterol	Chemical	CHEBI_16113
+3	1705	1711 lipids	Chemical	CHEBI_18059
+3	1716	1724 proteins	Chemical	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_24866
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_24866	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_24866	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_24866	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_24866	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_24866	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_16113
+
+4|chunk|Importantly, hCD81 is one of the species tropism determining factors for HCV [24] . The virus naturally infects humans and can experimentally infect chimpanzees and tupaias [28] [29] [30] . A combination of host factor incompatibility and innate immune restriction leads to this narrow host tropism [31] [32] [33] . Murine and rat CD81 inefficiently function as HCV receptors and expression of hCD81 together with human OCLN renders mice susceptible to HCV [32, 34] . In vitro studies demonstrate that the murine CD81 LEL cannot bind HCV E2 efficiently [35] . Mouse CD81 backbone domains, however, when fused to the hCD81 LEL function as HCV receptor [24] . Therefore, CD81 backbone functions are conserved between human and rodent orthologs. Whether any tetraspanin backbone from more distantly related species than rodents could substitute the hCD81 backbone function in HCV entry remains largely undefined.
+
+5|chunk|Here, we set out to investigate whether regions of hCD81 outside the LEL are critical determinants of HCV entry. Therefore, we constructed and characterized chimeric tetraspanins composed of the hCD81 LEL and backbone domains (intracellular tails, transmembrane domains, small extracellular loop and intracellular loop) of related tetraspanin molecules (orthologs and paralogs). Three out of seven tested chimeras can bind HCV E2 glycoprotein, but fail to support HCV cell entry. In particular, backbones from distantly related tetraspanins such as the Drosophila melanogaster (dm) ortholog and hCD9 fail to function as efficient HCV receptors. While for some chimeras reduced surface expression correlates with reduced receptor function, the dm and hCD9 chimeras are surface expressed, bind HCV E2 glycoprotein, but fail to support HCV infection. Specifically, we identified the E219 residue in transmembrane domain four of hCD81, which coordinates cholesterol and is lacking in hCD9, Viruses 2018, 10, 207 3 of 24 to promote HCV infection. Together, these data highlight the critical role of hCD81 backbone domains in post-binding HCV entry events.
+5	343	352 molecules	Chemical	CHEBI_25367
+5	950	961 cholesterol	Chemical	CHEBI_16113
+5	1086	1090 role	Chemical	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_25367	CHEBI_16113
+5	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_16113	CHEBI_50906
+

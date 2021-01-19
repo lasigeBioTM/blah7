@@ -1,0 +1,18 @@
+0|chunk|A host gene expression approach for identifying triggers of asthma exacerbations
+0	60	66 asthma	Disease	DOID_2841
+
+1|chunk|Asthma exacerbations often occur due to infectious triggers, but determining whether infection is present and whether it is bacterial or viral remains clinically challenging. A diagnostic strategy that clarifies these uncertainties could enable personalized asthma treatment and mitigate antibiotic overuse.
+1	0	6 Asthma	Disease	DOID_2841
+1	258	264 asthma	Disease	DOID_2841
+1	288	298 antibiotic	Chemical	CHEBI_33281
+1	DOID-CHEBI	DOID_2841	CHEBI_33281
+
+2|chunk|To explore the performance of validated peripheral blood gene expression signatures in discriminating bacterial, viral, and noninfectious triggers in subjects with asthma exacerbations.
+2	164	170 asthma	Disease	DOID_2841
+
+3|chunk|Subjects with suspected asthma exacerbations of various etiologies were retrospectively selected for peripheral blood gene expression analysis from a pool of subjects previously enrolled in emergency departments with acute respiratory illness. RT-PCR quantified 87 gene targets, selected from microarray-based studies, followed by logistic regression modeling to define bacterial, viral, or noninfectious class. The model-predicted class was compared to clinical adjudication and procalcitonin.
+3	24	30 asthma	Disease	DOID_2841
+
+4|chunk|Of 46 subjects enrolled, 7 were clinically adjudicated as bacterial, 18 as viral, and 21 as noninfectious. Model prediction was congruent with clinical adjudication in 15/18 viral and 13/21 noninfectious cases, but only 1/7 bacterial cases. None of the adjudicated bacterial cases had confirmatory microbiology; the precise etiology in this group was uncertain. Procalcitonin classified only one subject in the cohort as bacterial. 47.8% of subjects received antibiotics.
+4	411	417 cohort	Chemical	CHEBI_34935
+

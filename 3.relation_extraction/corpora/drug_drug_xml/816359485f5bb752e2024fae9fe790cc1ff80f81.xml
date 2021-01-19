@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="816359485f5bb752e2024fae9fe790cc1ff80f81">
+  <chunk id="816359485f5bb752e2024fae9fe790cc1ff80f81.c0" text="StralSV: assessment of sequence variability within similar 3D structures and application to polio RNA-dependent RNA polymerase">
+    <entity charOffset="112-115" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c0.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1" text="Background: Most of the currently used methods for protein function prediction rely on sequence-based comparisons between a query protein and those for which a functional annotation is provided. A serious limitation of sequence similarity-based approaches for identifying residue conservation among proteins is the low confidence in assigning residue-residue correspondences among proteins when the level of sequence identity between the compared proteins is poor. Multiple sequence alignment methods are more satisfactory-still, they cannot provide reliable results at low levels of sequence identity. Our goal in the current work was to develop an algorithm that could help overcome these difficulties by facilitating the identification of structurally (and possibly functionally) relevant residue-residue correspondences between compared protein structures.">
+    <entity charOffset="51-58" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="130-137" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="299-307" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="381-389" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="447-455" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="841-848" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e0" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e2" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p0" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e0" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e3" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p1" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e0" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e4" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p2" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e1" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e2" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p3" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e1" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e3" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p4" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e1" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e4" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p5" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e2" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e5" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p6" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e3" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e5" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p7" relation="true"/>
+    <pair e1="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e4" e2="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.e5" id="816359485f5bb752e2024fae9fe790cc1ff80f81.c1.p8" relation="true"/>
+  </chunk>
+</document>

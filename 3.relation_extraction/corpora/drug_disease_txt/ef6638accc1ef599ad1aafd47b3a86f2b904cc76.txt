@@ -1,0 +1,79 @@
+0|chunk|acute Hemorrhagic encephalitis Responding to Combined Decompressive Craniectomy, Intravenous Immunoglobulin, and Corticosteroid therapies: association with Novel RANBP2 Variant
+0	0	30 acute Hemorrhagic encephalitis	Disease	DOID_5224
+0	18	30 encephalitis	Disease	DOID_9588
+0	113	127 Corticosteroid	Chemical	CHEBI_50858
+0	DOID-CHEBI	DOID_5224	CHEBI_50858
+0	DOID-CHEBI	DOID_9588	CHEBI_50858
+
+1|chunk|Background: Acute hemorrhagic encephalomyelitis (AHEM) is considered as a rare form of acute disseminated encephalomyelitis characterized by fulminant encephalopathy with hemorrhagic necrosis and most often fatal outcome. objective: To report the association with Ran Binding Protein (RANBP2) gene variant and the response to decompressive craniectomy and high-dose intravenous methylprednisolone (IVMP) in life-threatening AHEM.
+1	12	47 Acute hemorrhagic encephalomyelitis	Disease	DOID_10992
+1	30	47 encephalomyelitis	Disease	DOID_640
+1	87	123 acute disseminated encephalomyelitis	Disease	DOID_639
+1	106	123 encephalomyelitis	Disease	DOID_640
+1	151	165 encephalopathy	Disease	DOID_936
+1	276	283 Protein	Chemical	CHEBI_16541
+1	378	396 methylprednisolone	Chemical	CHEBI_6888
+1	DOID-CHEBI	DOID_10992	CHEBI_16541
+1	DOID-CHEBI	DOID_10992	CHEBI_6888
+1	DOID-CHEBI	DOID_640	CHEBI_16541
+1	DOID-CHEBI	DOID_640	CHEBI_6888
+1	DOID-CHEBI	DOID_639	CHEBI_16541
+1	DOID-CHEBI	DOID_639	CHEBI_6888
+1	DOID-CHEBI	DOID_936	CHEBI_16541
+1	DOID-CHEBI	DOID_936	CHEBI_6888
+
+2|chunk|Design: Single case study.
+
+3|chunk|Case report: A 6-year-old girl known to have sickle cell disease (SCD) presented an acquired demyelinating syndrome (ADS) with diplopia due to sudden unilateral fourth nerve palsy. She received five pulses of IVMP (30 mg/kg/day). Two weeks after steroid weaning, she developed right hemiplegia and coma. Brain magnetic resonance imaging showed a left frontal necrotico-hemorrhagic lesion and new multifocal areas of demyelination. She underwent decompressive craniotomy and evacuation of an ongoing left frontoparietal hemorrhage. Comprehensive investigations ruled out vascular and infectious process. The neurological deterioration stopped concomitantly with combined neurosurgical drainage of the hematoma, decompressive craniotomy, IVMP, and intravenous immunoglobulins (IVIG). She developed during the following months Crohn disease and sclerosing cholangitis. After 2-year follow-up, there was no new neurological manifestation. The patient still suffered right hemiplegia and aphasia, but was able to walk. Cognitive/behavioral abilities significantly recovered. A heterozygous novel rare missense variant (c.4993A>G, p.Lys1665Glu) was identified in RANBP2, a gene associated with acute necrotizing encephalopathy. RANBP2 is a protein playing an important role in the energy homeostasis of neuronal cells. FIguRe 1 | Brain magnetic resonance imaging on first presentation (day 5) showing multiple areas of abnormal signals (white arrowheads): left midbrain high signal on FLAIR sequence (a), left midbrain hypersignal on T2 weighed (T2W) sequence (B), central gadolinium enhancement of left midbrain lesion on T1 sequence (C), and scattered supratentorial white matter foci of high FLAIR signal (D).
+3	57	64 disease	Disease	DOID_4
+3	107	115 syndrome	Disease	DOID_225
+3	117	120 ADS	Chemical	CHEBI_73344
+3	161	179 fourth nerve palsy	Disease	DOID_10869
+3	246	253 steroid	Chemical	CHEBI_35341
+3	283	293 hemiplegia	Disease	DOID_10969
+3	824	837 Crohn disease	Disease	DOID_8778
+3	830	837 disease	Disease	DOID_4
+3	968	978 hemiplegia	Disease	DOID_10969
+3	1234	1241 protein	Chemical	CHEBI_16541
+3	1263	1267 role	Chemical	CHEBI_50906
+3	1567	1577 gadolinium	Chemical	CHEBI_33375
+3	1630	1633 Caa	Chemical	CHEBI_27869
+3	DOID-CHEBI	DOID_4	CHEBI_73344
+3	DOID-CHEBI	DOID_4	CHEBI_35341
+3	DOID-CHEBI	DOID_4	CHEBI_16541
+3	DOID-CHEBI	DOID_4	CHEBI_50906
+3	DOID-CHEBI	DOID_4	CHEBI_33375
+3	DOID-CHEBI	DOID_4	CHEBI_27869
+3	DOID-CHEBI	DOID_225	CHEBI_73344
+3	DOID-CHEBI	DOID_225	CHEBI_35341
+3	DOID-CHEBI	DOID_225	CHEBI_16541
+3	DOID-CHEBI	DOID_225	CHEBI_50906
+3	DOID-CHEBI	DOID_225	CHEBI_33375
+3	DOID-CHEBI	DOID_225	CHEBI_27869
+3	CHEBI-DOID	CHEBI_73344	DOID_10869
+3	CHEBI-DOID	CHEBI_73344	DOID_10969
+3	CHEBI-DOID	CHEBI_73344	DOID_8778
+3	DOID-CHEBI	DOID_10869	CHEBI_35341
+3	DOID-CHEBI	DOID_10869	CHEBI_16541
+3	DOID-CHEBI	DOID_10869	CHEBI_50906
+3	DOID-CHEBI	DOID_10869	CHEBI_33375
+3	DOID-CHEBI	DOID_10869	CHEBI_27869
+3	CHEBI-DOID	CHEBI_35341	DOID_10969
+3	CHEBI-DOID	CHEBI_35341	DOID_8778
+3	DOID-CHEBI	DOID_10969	CHEBI_16541
+3	DOID-CHEBI	DOID_10969	CHEBI_50906
+3	DOID-CHEBI	DOID_10969	CHEBI_33375
+3	DOID-CHEBI	DOID_10969	CHEBI_27869
+3	DOID-CHEBI	DOID_8778	CHEBI_16541
+3	DOID-CHEBI	DOID_8778	CHEBI_50906
+3	DOID-CHEBI	DOID_8778	CHEBI_33375
+3	DOID-CHEBI	DOID_8778	CHEBI_27869
+
+4|chunk|2 Alawadhi et al. Acute Hemorrhagic Encephalitis Frontiers in Neurology | www.frontiersin.org March 2018 | Volume 9 | Article 130
+4	18	48 Acute Hemorrhagic Encephalitis	Disease	DOID_5224
+4	36	48 Encephalitis	Disease	DOID_9588
+
+5|chunk|Conclusion: In any ADS occurring in the context of SCD and/or autoimmune condition, we recommend to slowly wean steroids and to closely monitor the patient after weaning to quickly treat any recurrence of neurological symptom with IVMP. This case report, in addition to others, stresses the likely efficacy of combined craniotomy, IVIG, and IVMP treatments in AHEM. RANBP2 mutations may sensitize the brain to inflammation and predispose to AHEM.
+5	19	22 ADS	Chemical	CHEBI_73344
+5	112	120 steroids	Chemical	CHEBI_35341
+

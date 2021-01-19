@@ -1,0 +1,63 @@
+0|chunk|Clinical Medicine Polyphenol-Rich Extracts from Toona sinensis Bark and Fruit Ameliorate Free Fatty Acid-Induced Lipogenesis through AMPK and LC3 Pathways
+0	113	124 Lipogenesis	Gene_function	GO_0008610
+0	133	137 AMPK	Gene_function	GO_0004691
+
+1|chunk|Non-alcoholic fatty liver disease (NAFLD) is a chronic liver disease found worldwide. The present study aimed to evaluate the mechanisms of inhibiting lipid accumulation in free fatty acid (FFA)-treated HepG2 cells caused by bark and fruit extracts of Toona sinensis (TSB and TSF). FFA induced lipid and triglyceride (TG) accumulation, which was attenuated by TSB and TSF. TSB and/or TSF promoted phosphorylation of AMP-activated protein kinase (AMPK) and acetyl-coA carboxylase and peroxisome proliferator-activated receptor alpha upregulation. Furthermore, TSB and TSF suppressed FFA-induced liver X receptor, sterol regulatory element-binding transcription protein 1, fatty acid synthase, and stearoyl-CoA desaturase 1 protein expression. Moreover, TSB and/or TSF induced phosphorylation of Unc-51 like autophagy-activating kinase and microtubule-associated protein 1A/1B-light chain 3 expressions. Therefore, TSB and TSF relieve lipid accumulation by attenuating lipogenic protein expression, activating the AMPK pathway, and upregulating the autophagic flux to enhance lipid metabolism. Moreover, TSB and TSF reduced TG contents, implying the therapeutic use of TSB and TSF in NAFLD. by specific transport proteins and undergoes -oxidation [5] [6] [7] [8] . Hyperinsulinemia directly inhibits -oxidation of FFA, promoting hepatic de novo lipid synthesis through upregulation of sterol regulatory element-binding protein-1c (SREBP-1c) and carbohydrate response element-binding protein [5] [6] [7] [8] .
+1	14	25 fatty liver	Phenotype	HP_0001397
+1	47	54 chronic	Phenotype	HP_0011010
+1	55	68 liver disease	Phenotype	HP_0001392
+1	397	412 phosphorylation	Gene_function	GO_0016310
+1	446	450 AMPK	Gene_function	GO_0004691
+1	483	493 peroxisome	Gene_function	GO_0005777
+1	775	790 phosphorylation	Gene_function	GO_0016310
+1	1012	1016 AMPK	Gene_function	GO_0004691
+1	1201	1210 transport	Gene_function	GO_0006810
+1	1264	1280 Hyperinsulinemia	Phenotype	HP_0000842
+1	1345	1360 lipid synthesis	Gene_function	GO_0008610
+1	1351	1360 synthesis	Gene_function	GO_0009058
+1	HP-GO	HP_0001397	GO_0016310
+1	HP-GO	HP_0001397	GO_0004691
+1	HP-GO	HP_0001397	GO_0005777
+1	HP-GO	HP_0001397	GO_0006810
+1	HP-GO	HP_0001397	GO_0008610
+1	HP-GO	HP_0001397	GO_0009058
+1	HP-GO	HP_0011010	GO_0016310
+1	HP-GO	HP_0011010	GO_0004691
+1	HP-GO	HP_0011010	GO_0005777
+1	HP-GO	HP_0011010	GO_0006810
+1	HP-GO	HP_0011010	GO_0008610
+1	HP-GO	HP_0011010	GO_0009058
+1	HP-GO	HP_0001392	GO_0016310
+1	HP-GO	HP_0001392	GO_0004691
+1	HP-GO	HP_0001392	GO_0005777
+1	HP-GO	HP_0001392	GO_0006810
+1	HP-GO	HP_0001392	GO_0008610
+1	HP-GO	HP_0001392	GO_0009058
+1	GO-HP	GO_0016310	HP_0000842
+1	GO-HP	GO_0004691	HP_0000842
+1	GO-HP	GO_0005777	HP_0000842
+1	GO-HP	GO_0006810	HP_0000842
+1	HP-GO	HP_0000842	GO_0008610
+1	HP-GO	HP_0000842	GO_0009058
+
+2|chunk|Recent studies have applied in vitro approaches to determine the molecular mechanisms involved in hepatic steatosis progression [9] .
+2	98	115 hepatic steatosis	Phenotype	HP_0001397
+2	106	115 steatosis	Phenotype	HP_0001397
+
+3|chunk|Emerging evidence suggests that AMP-activated protein kinase (AMPK), peroxisome proliferator-activated receptor alpha (PPAR) and LC3 are critical regulators of hepatic lipid metabolism and could be therapeutic targets in NAFLD [10]. These target proteins exhibit interactions; for example, phosphorylation of Thr172 in the -subunit of AMPK activates acetyl-coA carboxylase (ACC)-SREBP-1c, PPAR, and Unc-51-like autophagy activating kinase (ULK1)-LC3 [11, 12] .
+3	69	79 peroxisome	Gene_function	GO_0005777
+3	169	185 lipid metabolism	Gene_function	GO_0006629
+3	175	185 metabolism	Gene_function	GO_0008152
+3	291	306 phosphorylation	Gene_function	GO_0016310
+3	337	341 AMPK	Gene_function	GO_0004691
+3	414	423 autophagy	Gene_function	GO_0006914
+
+4|chunk|Toona sinensis (A. Juss.) M. Roem., a deciduous tree, is widely distributed in Southeast Asia and cultivated in many parts of the world [13] . The whole plant can be used in herbal remedies, and its tender leaves have been used in dishes or sauces for several years [13] . Until now, hundreds of phytochemical compounds have been identified in T. sinensis, including polyphenols (phenolic acid, flavonoids, stilbene, and lignan), terpenoids, and sterols [14] . It was reported that aqueous extract of leaves of T. sinensis (TSL-1) exhibits many biological functions, such as antiviral [15,16], antibacterial [17], antidiabetic [18], anti-obesity [19], hepatoprotective [20, 21] , and anti-cancer [22] [23] [24] functions. However, little is known about other parts of T. sinensis. Our preliminary results demonstrated that, among the root, leaves, bark, and fruit of T. sinensis, the bark and fruit could block lipid accumulation in hepatocytes. It has been shown that a diet with T. sinensis leaves, root, or bark (TSB) enhances sperm quality and improves memory in senescence-accelerated prone-8 mice [25] . T. sinensis fruit (TSF) extract exhibits strong antioxidative effects and protects the kidney from diabetic nephropathy [26] . The present study investigated the molecular mechanism of the effects of TSB and TSF extracts on lipid accumulation using an in vitro cellular model.
+4	199	205 tender	Phenotype	HP_0025283
+4	911	944 lipid accumulation in hepatocytes	Phenotype	HP_0006561
+4	1057	1063 memory	Gene_function	GO_0007613
+4	1218	1229 nephropathy	Phenotype	HP_0000112
+4	HP-GO	HP_0025283	GO_0007613
+4	HP-GO	HP_0006561	GO_0007613
+4	GO-HP	GO_0007613	HP_0000112
+

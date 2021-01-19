@@ -1,0 +1,27 @@
+0|chunk|SARS coronavirus papain-like protease induces Egr-1-dependent up-regulation of TGF-1 via ROS/ p38 MAPK/STAT3 pathway OPEN
+
+1|chunk|cells. Dual luciferase reporter assays with TGF-1 promoter plasmids indicated that TGF-1 promoter region between 175 to 60, the Egr-1 binding site, was responsible for TGF-1 promoter activation induced by SARS-CoV PLpro. Subcellular localization analysis of transcription factors showed PLpro triggering nuclear translocation of Egr-1, but not NF-B and Sp-1. Meanwhile, Egr-1 silencing by siRNA significantly reduced PLpro-induced up-regulation of TGF-1, TSP-1 and pro-fibrotic genes. Furthermore, the inhibitors for ROS (YCG063), p38 MAPK (SB203580), and STAT3 (Stattic) revealed ROS/p38 MAPK/STAT3 pathway involving in Egr-1 dependent activation of TGF-1 promoter induced by PLpro. In a mouse model with a direct pulmonary injection, PLpro stimulated macrophage infiltration into lung, up-regulating Egr-1, TSP-1, TGF-1 and vimentin expression in lung tissues. The results revealed that SARS-CoV PLpro significantly triggered Egr-1 dependent activation of TGF-1 promoter via ROS/p38 MAPK/STAT3 pathway, correlating with up-regulation of pro-fibrotic responses in vitro and in vivo.
+1	138	145 binding	Gene_function	GO_0005488
+1	238	250 localization	Gene_function	GO_0051179
+1	542	546 MAPK	Gene_function	GO_0004707
+1	596	600 MAPK	Gene_function	GO_0004707
+1	995	999 MAPK	Gene_function	GO_0004707
+
+2|chunk|Severe acute respiratory syndrome (SARS)-associated coronavirus (SARS-CoV) is the causative agent of SARS outbreak in 2003 1,2 . SARS-CoV infection induces severe respiratory illnesses, such as bronchial epithelial denudation, loss of cilia, multinucleated syncytial cells, squamous metaplasia and transendothelial migration of monocytes/macrophages and neutrophils into lung tissue 3,4 . SARS-CoV triggers a pro-inflammatory cytokine storm that links with pulmonary fibrosis of SARS patients 5,6 . Near 20% of SARS patients recovered still have lung fibrosis 9 months post infection 7,8 .
+2	0	6 Severe	Phenotype	HP_0012828
+2	7	12 acute	Phenotype	HP_0011009
+2	156	162 severe	Phenotype	HP_0012828
+2	283	293 metaplasia	Gene_function	GO_0036074
+2	457	475 pulmonary fibrosis	Phenotype	HP_0002206
+2	HP-GO	HP_0012828	GO_0036074
+2	HP-GO	HP_0011009	GO_0036074
+2	GO-HP	GO_0036074	HP_0002206
+
+3|chunk|SARS-CoV contains a single stranded and positive sense RNA genome that has a 5 cap and a 3 poly-(A) tract containing 14 open reading frames (ORFs) 1,2 . ORF1a and ORF1ab at the 5 proximal end encode two large overlapping replicase polyproteins 1a and 1ab (~450 and ~750 kDa, respectively). Two specific embedded proteases, papain-like (PLpro) and 3C-like (3CLpro), mediate the proteolytic processing of polyproteins 1a and 1ab precursors into 16 nsps (termed nsp1-16). SARS-CoV PLpro is identified as a deubiquitinating enzyme that removes Lys48-linked polyubiquitin chains 9 . PLpro blocks polyI:C-induced activation of IRF3, NF- B, and STAT1, correlating with the inhibitory effect on interferon (IFN) induction and signaling 10 . Recent, SARS-CoV PLpro exhibits the deubiquitinating enzymatic activity on RIG-I, STING, TRAF3, TBK1, and IRF3, in which suppresses STING-TRAF3-TBK1 signaling pathway, then negatively regulating IRF3 activation 11 . Our laboratory demonstrates type I IFN antagonist mechanism of SARS-CoV PLpro correlating with the activation of ubiquitin-proteosome pathway, in which inhibits type I IFN-induced phosphorylation of STAT1 Ser727
+3	182	190 proximal	Phenotype	HP_0012840
+3	722	731 signaling	Gene_function	GO_0023052
+3	886	895 signaling	Gene_function	GO_0023052
+3	1133	1148 phosphorylation	Gene_function	GO_0016310
+3	HP-GO	HP_0012840	GO_0023052
+3	HP-GO	HP_0012840	GO_0016310
+

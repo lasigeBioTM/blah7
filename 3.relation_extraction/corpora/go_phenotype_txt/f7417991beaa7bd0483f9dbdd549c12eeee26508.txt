@@ -1,0 +1,25 @@
+0|chunk|Poly(I:C) promotes TNF/TNFR1-dependent oligodendrocyte death in mixed glial cultures
+
+1|chunk|Background: Activation of glial cells via toll-like receptors (TLRs) and other intracellular pathogen recognition receptors promotes the release of potentially toxic acute phase reactants such as TNF and nitric oxide into the extracellular space. As such, prolonged glial activation, as is thought to occur during a persistent viral infection of the CNS, may contribute to both neurodegeneration and demyelination. However, the effects of virus-induced glial activation on oligodendrocytes are not fully understood. Method: To determine the effects of glial activation on oligodendrocyte viability we treated primary glial cultures isolated from neonatal rats or mice with the RNA viral mimic poly(I:C) and in some cases other TLR ligands. TLR3 expression was determined by western blot. Cytokine levels were measured by RT-PCR, ELISA, and intracellular cytokine staining. Oligodendrocyte precursor (preOL) viability was determined by Alamar blue assays and immunocytochemistry.
+1	79	92 intracellular	Gene_function	GO_0005622
+1	166	171 acute	Phenotype	HP_0011009
+1	227	240 extracellular	Gene_function	GO_0005576
+1	257	266 prolonged	Phenotype	HP_0025297
+1	328	343 viral infection	Gene_function	GO_0016032
+1	379	396 neurodegeneration	Phenotype	HP_0002180
+1	841	854 intracellular	Gene_function	GO_0005622
+1	GO-HP	GO_0005622	HP_0011009
+1	GO-HP	GO_0005622	HP_0025297
+1	GO-HP	GO_0005622	HP_0002180
+1	HP-GO	HP_0011009	GO_0005576
+1	HP-GO	HP_0011009	GO_0016032
+1	GO-HP	GO_0005576	HP_0025297
+1	GO-HP	GO_0005576	HP_0002180
+1	HP-GO	HP_0025297	GO_0016032
+1	GO-HP	GO_0016032	HP_0002180
+
+2|chunk|Result: Stimulation of mixed glial cultures with poly(I:C) resulted in microglia activation, TNF production and preOL toxicity. This toxic effect of poly(I:C) was indirect as it failed to affect preOL viability in pure cultures despite the fact that preOLs express TLR3. Poly(I:C)-induced loss of preOLs was abolished in TNF or TNFR1 deficient mixed glial cultures, suggesting that TNF/TNFR1 signaling is required for poly(I:C) toxicity. Furthermore, although both microglia and astrocytes express functional TLR3, only microglia produced TNF in culture. Consistent with these findings, other TLR agonists similarly triggered TNF production and preOL toxicity in mixed glial cultures. Conclusion: Activation of microglia by poly(I:C) promotes TNF/TNFR1-dependent oligodendroglial cell death. These data indicate that during an ongoing viral infection of the CNS, microglial TNF may be detrimental to oligodendrocytes.
+2	215	219 pure	Gene_function	GO_0034023
+2	395	404 signaling	Gene_function	GO_0023052
+2	841	856 viral infection	Gene_function	GO_0016032
+

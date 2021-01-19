@@ -1,0 +1,79 @@
+0|chunk|Targeted antigen delivery to dendritic cells elicits robust antiviral T cell-mediated immunity in the liver OPEN
+0	9	16 antigen	Chemical	CHEBI_59132
+0	60	69 antiviral	Chemical	CHEBI_22587
+
+1|chunk|DCs or formulations not involving in vivo DC targeting. As read-outs we used in vivo hepatotropic adenovirus challenge, histology and automated multidimensional fluorescence microscopy (MELC). We show that targeted in vivo antigen delivery to cross-presenting DCs is highly effective in inducing antiviral CTLs capable of eliminating virus-infected hepatocytes, while control vaccine formulation not involving DC targeting failed to induce immunity against hepatotropic virus. Moreover, we observed distinct patterns of CD8 + T cell interaction with virus-infected and apoptotic hepatocytes in the two DC-targeting groups suggesting that the different vaccine formulations may stimulate distinct types of effector functions. Our findings represent an important step toward the future development of vaccines against hepatotropic viruses and the treatment of patients with hepatic virus infection after liver transplantation to avoid reinfection.
+1	0	3 DCs	Chemical	CHEBI_40009
+1	223	230 antigen	Chemical	CHEBI_59132
+1	260	263 DCs	Chemical	CHEBI_40009
+1	296	305 antiviral	Chemical	CHEBI_22587
+1	705	713 effector	Chemical	CHEBI_35224
+1	880	895 virus infection	Disease	DOID_934
+1	CHEBI-DOID	CHEBI_40009	DOID_934
+1	CHEBI-DOID	CHEBI_59132	DOID_934
+1	CHEBI-DOID	CHEBI_22587	DOID_934
+1	CHEBI-DOID	CHEBI_35224	DOID_934
+
+2|chunk|The liver is permanently exposed to a plethora of antigens and microbial products with potentially immune-stimulatory capacity. The predominantly tolerogenic microenvironment of the liver usually prevents the induction of immunity to these innocuous antigens while at the same time it favours the establishment of persistent liver infection 1,2 . Next to other hepatotropic viruses, such as cytomegalovirus (CMV) or hepatitis B virus (HBV), a clinically highly relevant example for pathogens capable of establishing life-threatening chronic infections in the liver is the hepatitis C virus (HCV) 3 . Despite extensive research since the discovery of HCV in 1989 4 , an effective vaccine is still not available 5 .
+2	50	58 antigens	Chemical	CHEBI_59132
+2	250	258 antigens	Chemical	CHEBI_59132
+2	416	425 hepatitis	Disease	DOID_2237
+2	416	427 hepatitis B	Disease	DOID_2043
+2	572	581 hepatitis	Disease	DOID_2237
+2	572	583 hepatitis C	Disease	DOID_1883
+2	CHEBI-DOID	CHEBI_59132	DOID_2237
+2	CHEBI-DOID	CHEBI_59132	DOID_2043
+2	CHEBI-DOID	CHEBI_59132	DOID_1883
+
+3|chunk|Dendritic cells (DCs) represent optimal targets for designing effective vaccines 6 . CD8 + DCs are unique with respect to their capacity to effectively cross-present exogenous antigens on MHC-I molecules to induce cytotoxic T cells (CTLs) in addition to Th1 responses 7,8 . Accordingly, CD8 + DCs play a key role in establishing antiviral immunity 9,10 . Increasing knowledge regarding the characteristics of pattern recognition receptor (PRR) expression by different DC subsets has set the basis for a directed targeting of antigen in vivo by means of ligands or antibodies specific for the respective PRRs expressed on DCs. In this context, particularly Toll-like receptors (TLRs) and C-type lectin receptors (CLRs) gained importance 11 . For instance, the TLR2/6 heterodimer agonist S-[2,3-bispalmitoyloxy-(2R)-propyl]-R-cysteinyl-amido-mono-methoxyl polyethylene glycol (BPPcysMPEG), a synthetic derivative of the macrophage-activating lipopeptide (MALP-2), effectively targets cross-presenting CD8 + DCs. Importantly, co-administration of BPPcysMPEG together with soluble ovalbumin (OVA) (OVA + BPPcysMPEG) resulted in the induction of OVA-specific CTLs 12 . Interestingly, BPPcysOVAMPEG, a compound consisting of the immunodominant OVA peptides chemically linked to BPPcysMPEG and therefore specifically delivered to TLR2/6 positive DCs, was even more effective at inducing OVA-specific CTLs 12 .
+3	17	20 DCs	Chemical	CHEBI_40009
+3	92	95 DCs	Chemical	CHEBI_40009
+3	177	185 antigens	Chemical	CHEBI_59132
+3	195	204 molecules	Chemical	CHEBI_25367
+3	295	298 DCs	Chemical	CHEBI_40009
+3	310	314 role	Chemical	CHEBI_50906
+3	331	340 antiviral	Chemical	CHEBI_22587
+3	527	534 antigen	Chemical	CHEBI_59132
+3	555	562 ligands	Chemical	CHEBI_52214
+3	623	626 DCs	Chemical	CHEBI_40009
+3	780	787 agonist	Chemical	CHEBI_48705
+3	856	868 polyethylene	Chemical	CHEBI_53226
+3	856	875 polyethylene glycol	Chemical	CHEBI_46793
+3	869	875 glycol	Chemical	CHEBI_13643
+3	942	953 lipopeptide	Chemical	CHEBI_46895
+3	1008	1011 DCs	Chemical	CHEBI_40009
+3	1245	1253 peptides	Chemical	CHEBI_16670
+3	1342	1345 DCs	Chemical	CHEBI_40009
+
+4|chunk|Next to the TLR2/6 heterodimer, CD8 + DCs express high levels of the CLR family endocytosis receptor DEC-205 13 . Importantly, receptor-mediated antigen uptake by CD8 + DCs via DEC-205 results in extraordinarily effective antigen cross-presentation to CD8 + T cells [14] [15] [16] [17] [18] . Steinman and colleagues demonstrated that in vivo targeting of antigen to cross-presenting DCs by means of DEC-205-directed antibody-antigen conjugates together with the appropriate adjuvants resulted in a potent induction of specific T cell responses 19, 20 . Follow up studies with viral 14,16,17,21 , bacterial 22,23 and tumour antigens 24,25 proved DEC-205-mediated antigen delivery to CD8 + DCs to elicit protective CD4 + and CD8 + T effector cells. However, no study so far addressed whether antigen delivery to cross-presenting CD8 + DCs is able to induce effector T cell responses and antiviral immunity in the liver. To improve vaccination efficacy against hepatotropic viruses, we compared different vaccine formulations regarding their potency to induce antiviral effector T cell responses in the liver. This included targeted antigen delivery to cross-presenting DCs by  DEC-205 conjugated to the OVA protein ( DEC-205/OVA adjuvanted with Poly(I:C)/CpG) and the less well studied BPPcysOVAMPEG containing the two immunodominant MHC-I and -II OVA peptides. To assess whether antigen targeting to DCs would be required for inducing antiviral effector T cells in the liver, another group that received OVA co-administered with BPPcysMPEG (OVA + BPPcysMPEG) and thus not involving targeted antigen delivery to DCs was included. We show that only immunization with the DC targeting formulation  DEC-205/OVA and BPPcysOVAMPEG but not OVA + BPPcysMPEG vaccination induced CD8 + effector T cells capable of eliminating virus infected hepatocytes. Thus, we conclude that targeted in vivo antigen delivery to cross-presenting DCs represents a promising approach for the induction of antiviral immunity in the liver with potential implications for the development of vaccines against hepatotropic viruses.
+4	39	42 DCs	Chemical	CHEBI_40009
+4	146	153 antigen	Chemical	CHEBI_59132
+4	171	174 DCs	Chemical	CHEBI_40009
+4	224	231 antigen	Chemical	CHEBI_59132
+4	358	365 antigen	Chemical	CHEBI_59132
+4	386	389 DCs	Chemical	CHEBI_40009
+4	477	486 adjuvants	Chemical	CHEBI_60809
+4	626	634 antigens	Chemical	CHEBI_59132
+4	665	672 antigen	Chemical	CHEBI_59132
+4	692	695 DCs	Chemical	CHEBI_40009
+4	735	743 effector	Chemical	CHEBI_35224
+4	794	801 antigen	Chemical	CHEBI_59132
+4	838	841 DCs	Chemical	CHEBI_40009
+4	860	868 effector	Chemical	CHEBI_35224
+4	890	899 antiviral	Chemical	CHEBI_22587
+4	1062	1071 antiviral	Chemical	CHEBI_22587
+4	1072	1080 effector	Chemical	CHEBI_35224
+4	1135	1142 antigen	Chemical	CHEBI_59132
+4	1172	1175 DCs	Chemical	CHEBI_40009
+4	1211	1218 protein	Chemical	CHEBI_16541
+4	1385	1392 antigen	Chemical	CHEBI_59132
+4	1406	1409 DCs	Chemical	CHEBI_40009
+4	1441	1450 antiviral	Chemical	CHEBI_22587
+4	1451	1459 effector	Chemical	CHEBI_35224
+4	1597	1604 antigen	Chemical	CHEBI_59132
+4	1617	1620 DCs	Chemical	CHEBI_40009
+4	1783	1791 effector	Chemical	CHEBI_35224
+4	1891	1898 antigen	Chemical	CHEBI_59132
+4	1928	1931 DCs	Chemical	CHEBI_40009
+4	1985	1994 antiviral	Chemical	CHEBI_22587
+

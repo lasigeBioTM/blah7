@@ -1,0 +1,64 @@
+0|chunk|acute Hemorrhagic encephalitis Responding to Combined Decompressive Craniectomy, Intravenous Immunoglobulin, and Corticosteroid therapies: association with Novel RANBP2 Variant
+0	0	5 acute	Phenotype	HP_0011009
+0	18	30 encephalitis	Phenotype	HP_0002383
+
+1|chunk|Background: Acute hemorrhagic encephalomyelitis (AHEM) is considered as a rare form of acute disseminated encephalomyelitis characterized by fulminant encephalopathy with hemorrhagic necrosis and most often fatal outcome. objective: To report the association with Ran Binding Protein (RANBP2) gene variant and the response to decompressive craniectomy and high-dose intravenous methylprednisolone (IVMP) in life-threatening AHEM.
+1	12	17 Acute	Phenotype	HP_0011009
+1	87	92 acute	Phenotype	HP_0011009
+1	151	165 encephalopathy	Phenotype	HP_0001298
+1	183	191 necrosis	Gene_function	GO_0001906
+1	268	275 Binding	Gene_function	GO_0005488
+1	HP-GO	HP_0011009	GO_0001906
+1	HP-GO	HP_0011009	GO_0005488
+1	HP-GO	HP_0001298	GO_0001906
+1	HP-GO	HP_0001298	GO_0005488
+
+2|chunk|Design: Single case study.
+
+3|chunk|Case report: A 6-year-old girl known to have sickle cell disease (SCD) presented an acquired demyelinating syndrome (ADS) with diplopia due to sudden unilateral fourth nerve palsy. She received five pulses of IVMP (30 mg/kg/day). Two weeks after steroid weaning, she developed right hemiplegia and coma. Brain magnetic resonance imaging showed a left frontal necrotico-hemorrhagic lesion and new multifocal areas of demyelination. She underwent decompressive craniotomy and evacuation of an ongoing left frontoparietal hemorrhage. Comprehensive investigations ruled out vascular and infectious process. The neurological deterioration stopped concomitantly with combined neurosurgical drainage of the hematoma, decompressive craniotomy, IVMP, and intravenous immunoglobulins (IVIG). She developed during the following months Crohn disease and sclerosing cholangitis. After 2-year follow-up, there was no new neurological manifestation. The patient still suffered right hemiplegia and aphasia, but was able to walk. Cognitive/behavioral abilities significantly recovered. A heterozygous novel rare missense variant (c.4993A>G, p.Lys1665Glu) was identified in RANBP2, a gene associated with acute necrotizing encephalopathy. RANBP2 is a protein playing an important role in the energy homeostasis of neuronal cells. FIguRe 1 | Brain magnetic resonance imaging on first presentation (day 5) showing multiple areas of abnormal signals (white arrowheads): left midbrain high signal on FLAIR sequence (a), left midbrain hypersignal on T2 weighed (T2W) sequence (B), central gadolinium enhancement of left midbrain lesion on T1 sequence (C), and scattered supratentorial white matter foci of high FLAIR signal (D).
+3	127	135 diplopia	Phenotype	HP_0000651
+3	150	160 unilateral	Phenotype	HP_0012833
+3	277	282 right	Phenotype	HP_0012834
+3	277	293 right hemiplegia	Phenotype	HP_0040293
+3	283	293 hemiplegia	Phenotype	HP_0002301
+3	346	350 left	Phenotype	HP_0012835
+3	396	406 multifocal	Phenotype	HP_0030651
+3	499	503 left	Phenotype	HP_0012835
+3	962	967 right	Phenotype	HP_0012834
+3	962	978 right hemiplegia	Phenotype	HP_0040293
+3	968	978 hemiplegia	Phenotype	HP_0002301
+3	1188	1193 acute	Phenotype	HP_0011009
+3	1188	1220 acute necrotizing encephalopathy	Phenotype	HP_0006965
+3	1275	1293 energy homeostasis	Gene_function	GO_0097009
+3	1282	1293 homeostasis	Gene_function	GO_0042592
+3	1450	1454 left	Phenotype	HP_0012835
+3	1499	1503 left	Phenotype	HP_0012835
+3	1559	1566 central	Phenotype	HP_0030645
+3	1593	1597 left	Phenotype	HP_0012835
+3	HP-GO	HP_0000651	GO_0097009
+3	HP-GO	HP_0000651	GO_0042592
+3	HP-GO	HP_0012833	GO_0097009
+3	HP-GO	HP_0012833	GO_0042592
+3	HP-GO	HP_0012834	GO_0097009
+3	HP-GO	HP_0012834	GO_0042592
+3	HP-GO	HP_0040293	GO_0097009
+3	HP-GO	HP_0040293	GO_0042592
+3	HP-GO	HP_0002301	GO_0097009
+3	HP-GO	HP_0002301	GO_0042592
+3	HP-GO	HP_0012835	GO_0097009
+3	HP-GO	HP_0012835	GO_0042592
+3	HP-GO	HP_0030651	GO_0097009
+3	HP-GO	HP_0030651	GO_0042592
+3	HP-GO	HP_0011009	GO_0097009
+3	HP-GO	HP_0011009	GO_0042592
+3	HP-GO	HP_0006965	GO_0097009
+3	HP-GO	HP_0006965	GO_0042592
+3	GO-HP	GO_0097009	HP_0030645
+3	GO-HP	GO_0042592	HP_0030645
+
+4|chunk|2 Alawadhi et al. Acute Hemorrhagic Encephalitis Frontiers in Neurology | www.frontiersin.org March 2018 | Volume 9 | Article 130
+4	18	23 Acute	Phenotype	HP_0011009
+4	36	48 Encephalitis	Phenotype	HP_0002383
+
+5|chunk|Conclusion: In any ADS occurring in the context of SCD and/or autoimmune condition, we recommend to slowly wean steroids and to closely monitor the patient after weaning to quickly treat any recurrence of neurological symptom with IVMP. This case report, in addition to others, stresses the likely efficacy of combined craniotomy, IVIG, and IVMP treatments in AHEM. RANBP2 mutations may sensitize the brain to inflammation and predispose to AHEM.
+

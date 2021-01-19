@@ -1,0 +1,23 @@
+0|chunk|Nucleobase but not Sugar Fidelity is Maintained in the Sabin I RNA-Dependent RNA Polymerase
+
+1|chunk|The Sabin I poliovirus live, attenuated vaccine strain encodes for four amino acid changes (i.e., D53N, Y73H, K250E, and T362I) in the RNA-dependent RNA polymerase (RdRp). We have previously shown that the T362I substitution leads to a lower fidelity RdRp, and viruses encoding this variant are attenuated in a mouse model of poliovirus. Given these results, it was surprising that the nucleotide incorporation rate and nucleobase fidelity of the Sabin I RdRp is similar to that of wild-type enzyme, although the Sabin I RdRp is less selective against nucleotides with modified sugar groups. We suggest that the other Sabin amino acid changes (i.e., D53N, Y73H, K250E) help to re-establish nucleotide incorporation rates and nucleotide discrimination near wild-type levels, which may be a requirement for the propagation of the virus and its efficacy as a vaccine strain. These results also suggest that the nucleobase fidelity of the Sabin I RdRp likely does not contribute to viral attenuation.
+1	251	255 RdRp	Gene_function	GO_0003968
+1	455	459 RdRp	Gene_function	GO_0003968
+1	521	525 RdRp	Gene_function	GO_0003968
+1	943	947 RdRp	Gene_function	GO_0003968
+
+2|chunk|Viruses 2015, 7, 5571-5586 viral virulence, likely because the T362I RdRp is a more error-prone polymerase than the "wild-type" (WT) enzyme [22] . These results are intriguing, and might suggest that the Sabin I RdRp also contributes to viral attenuation. Such findings would be intriguing in light of the suggestion that viruses encoding RdRp enzymes with altered fidelity might serve as live, attenuated vaccine candidates [23] .
+2	69	73 RdRp	Gene_function	GO_0003968
+2	212	216 RdRp	Gene_function	GO_0003968
+2	339	343 RdRp	Gene_function	GO_0003968
+
+3|chunk|PV RdRp has a highly-conserved canonical cupped right-hand structure with palm, thumb, and finger subdomains (Figure 1) [24]. There are seven conserved structural motifs, five of which (A to E) are located in the palm subdomain [25, 26] . The T362I amino acid change occurs on structural motif D, which we have proposed is important in phosphodiester bond formation and nucleotide discrimination [27, 28] . More specifically, motif D contains a highly-conserved lysine residue (Lys359 in PV RdRp), which we have proposed acts as a general acid to protonate the -phosphate of the incoming nucleotide to facilitate bond breakage between the and -phosphates and create a better pyrophosphate leaving group [28, 29] . We have suggested that the active-site loop containing Lys359 fluctuates between "closed" and "open" conformations in which Lys359 is positioned and out-of-position for catalysis, respectively. Our previous nuclear magnetic resonance (NMR) studies are consistent with this proposal [22, 29, 30] . We have shown that the Sabin-derived T362I amino acid substitution alters the motions of motif D, allowing the enzyme to fluctuate more readily into a closed conformation even in the presence of incorrect nucleotide, leading to a less faithful polymerase [22] .
+3	3	7 RdRp	Gene_function	GO_0003968
+
+4|chunk|Other amino acid substitutions in the Sabin I RdRp may also change RdRp function. The Y73H substitution has been shown to interfere with the initiation of RNA synthesis [19] , which might help to explain why PV encoding the Y73H substitution is attenuated [17, 20] . The D53N, Y73H, and T362I substitutions also contribute to the temperature sensitivity of the Sabin I vaccine [15] [16] [17] 31] . The Sabin substitutions may also affect each other. Our previous molecular dynamics (MD) simulations suggest that the T362I amino acid substitution induces different nanosecond timescale motions in distant parts of the enzyme, including around Asp53 [22] . We have also previously noted anti-correlated motions between motif D and the -helix containing Tyr73 [32] . It is also noted that the helices containing Tyr73 and Lys250 are packed closely together (Figure 1 ). Altogether, these results suggest that there are structural and dynamic connections between the various Sabin sites, which may contribute to the function of the Sabin I RdRp.
+4	46	50 RdRp	Gene_function	GO_0003968
+4	67	71 RdRp	Gene_function	GO_0003968
+4	155	168 RNA synthesis	Gene_function	GO_0032774
+4	159	168 synthesis	Gene_function	GO_0009058
+4	1037	1041 RdRp	Gene_function	GO_0003968
+

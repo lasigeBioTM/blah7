@@ -1,0 +1,29 @@
+0|chunk|Evaluation of Antiviral Efficacy of Ribavirin, Arbidol, and T-705 (Favipiravir) in a Mouse Model for Crimean-Congo Hemorrhagic Fever
+0	14	23 Antiviral	Chemical	CHEBI_22587
+0	67	78 Favipiravir	Chemical	CHEBI_134722
+0	101	132 Crimean-Congo Hemorrhagic Fever	Disease	DOID_12287
+0	CHEBI-DOID	CHEBI_22587	DOID_12287
+0	CHEBI-DOID	CHEBI_134722	DOID_12287
+
+1|chunk|Background: Mice lacking the type I interferon receptor (IFNAR 2/2 mice) reproduce relevant aspects of Crimean-Congo hemorrhagic fever (CCHF) in humans, including liver damage. We aimed at characterizing the liver pathology in CCHF virusinfected IFNAR 2/2 mice by immunohistochemistry and employed the model to evaluate the antiviral efficacy of ribavirin, arbidol, and T-705 against CCHF virus.
+1	36	46 interferon	Chemical	CHEBI_52999
+1	103	134 Crimean-Congo hemorrhagic fever	Disease	DOID_12287
+1	324	333 antiviral	Chemical	CHEBI_22587
+1	CHEBI-DOID	CHEBI_52999	DOID_12287
+1	DOID-CHEBI	DOID_12287	CHEBI_22587
+
+2|chunk|Methodology/Principal Findings: CCHF virus-infected IFNAR 2/2 mice died 2-6 days post infection with elevated aminotransferase levels and high virus titers in blood and organs. Main pathological alteration was acute hepatitis with extensive bridging necrosis, reactive hepatocyte proliferation, and mild to moderate inflammatory response with monocyte/macrophage activation. Virus-infected and apoptotic hepatocytes clustered in the necrotic areas. Ribavirin, arbidol, and T-705 suppressed virus replication in vitro by $3 log units (IC 50 0.6-2.8 mg/ml; IC 90 1.2-4.7 mg/ml). Ribavirin [100 mg/(kg6d)] did not increase the survival rate of IFNAR 2/2 mice, but prolonged the time to death (p,0.001) and reduced the aminotransferase levels and the virus titers. Arbidol [150 mg/(kg6d)] had no efficacy in vivo. Animals treated with T-705 at 1 h [15, 30, and 300 mg/(kg6d)] or up to 2 days [300 mg/(kg6d)] post infection survived, showed no signs of disease, and had no virus in blood and organs. Co-administration of ribavirin and T-705 yielded beneficial rather than adverse effects.
+2	210	225 acute hepatitis	Disease	DOID_2237
+2	216	225 hepatitis	Disease	DOID_2237
+2	449	458 Ribavirin	Chemical	CHEBI_63580
+2	460	467 arbidol	Chemical	CHEBI_134730
+2	577	586 Ribavirin	Chemical	CHEBI_63580
+2	761	768 Arbidol	Chemical	CHEBI_134730
+2	1016	1025 ribavirin	Chemical	CHEBI_63580
+2	DOID-CHEBI	DOID_2237	CHEBI_63580
+2	DOID-CHEBI	DOID_2237	CHEBI_134730
+
+3|chunk|Conclusions/Significance: Activated hepatic macrophages and monocyte-derived cells may play a role in the proinflammatory cytokine response in CCHF. Clustering of infected hepatocytes in necrotic areas without marked inflammation suggests viral cytopathic effects. T-705 is highly potent against CCHF virus in vitro and in vivo. Its in vivo efficacy exceeds that of the current standard drug for treatment of CCHF, ribavirin.
+3	94	98 role	Chemical	CHEBI_50906
+3	387	391 drug	Chemical	CHEBI_23888
+

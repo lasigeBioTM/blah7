@@ -1,0 +1,34 @@
+0|chunk|Combination Kinase Inhibitor Treatment Suppresses Rift Valley Fever Virus Replication
+0	55	67 Valley Fever	Phenotype	HP_0032249
+0	62	67 Fever	Phenotype	HP_0001945
+
+1|chunk|Viruses must parasitize host cell translational machinery in order to make proteins for viral progeny. In this study, we sought to use this signal transduction conduit against them by inhibiting multiple kinases that influence translation. Previous work indicated that several kinases involved in translation, including p70 S6K, p90RSK, ERK, and p38 MAPK, are phosphorylated following Rift Valley fever virus (RVFV) infection. Furthermore, inhibiting p70 S6K through treatment with the FDA approved drug rapamycin prevents RVFV pathogenesis in a mouse model of infection. We hypothesized that inhibiting either p70 S6K, p90RSK, or p90RSK's upstream kinases, ERK and p38 MAPK, would decrease translation and subsequent viral replication. Treatment with the p70 S6K inhibitor PF-4708671 resulted in decreased phosphorylation of translational proteins and reduced RVFV titers. In contrast, treatment with the p90RSK inhibitor BI-D1870, p38MAPK inhibitor SB203580, or the ERK inhibitor PD0325901 alone had minimal influence on RVFV titers. The combination of PF-4708671 and BI-D1870 treatment resulted in robust inhibition of RVFV replication. Likewise, a synergistic inhibition of RVFV replication was observed with p38MAPK inhibitor SB203580 or the ERK inhibitor PD0325901 combined with rapamycin treatment. These findings serve as a proof of concept regarding combination kinase inhibitor treatment for RVFV infection.
+1	24	33 host cell	Gene_function	GO_0043657
+1	140	159 signal transduction	Gene_function	GO_0007165
+1	147	159 transduction	Gene_function	GO_0009293
+1	227	238 translation	Gene_function	GO_0006412
+1	297	308 translation	Gene_function	GO_0006412
+1	337	340 ERK	Gene_function	GO_0004707
+1	390	402 Valley fever	Phenotype	HP_0032249
+1	397	402 fever	Phenotype	HP_0001945
+1	528	540 pathogenesis	Gene_function	GO_0009405
+1	658	661 ERK	Gene_function	GO_0004707
+1	691	702 translation	Gene_function	GO_0006412
+1	807	822 phosphorylation	Gene_function	GO_0016310
+1	968	971 ERK	Gene_function	GO_0004707
+1	1247	1250 ERK	Gene_function	GO_0004707
+1	GO-HP	GO_0043657	HP_0032249
+1	GO-HP	GO_0043657	HP_0001945
+1	GO-HP	GO_0007165	HP_0032249
+1	GO-HP	GO_0007165	HP_0001945
+1	GO-HP	GO_0009293	HP_0032249
+1	GO-HP	GO_0009293	HP_0001945
+1	GO-HP	GO_0006412	HP_0032249
+1	GO-HP	GO_0006412	HP_0001945
+1	GO-HP	GO_0004707	HP_0032249
+1	GO-HP	GO_0004707	HP_0001945
+1	HP-GO	HP_0032249	GO_0009405
+1	HP-GO	HP_0032249	GO_0016310
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0001945	GO_0016310
+

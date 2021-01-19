@@ -1,0 +1,27 @@
+0|chunk|viruses Recombination in Enteroviruses, a Multi-Step Modular Evolutionary Process
+
+1|chunk|RNA recombination is a major driving force in the evolution and genetic architecture shaping of enteroviruses. In particular, intertypic recombination is implicated in the emergence of most pathogenic circulating vaccine-derived polioviruses, which have caused numerous outbreaks of paralytic poliomyelitis worldwide. Recent experimental studies that relied on recombination cellular systems mimicking natural genetic exchanges between enteroviruses provided new insights into the molecular mechanisms of enterovirus recombination and enabled to define a new model of genetic plasticity for enteroviruses. Homologous intertypic recombinant enteroviruses that were observed in nature would be the final products of a multi-step process, during which precursor nonhomologous recombinant genomes are generated through an initial inter-genomic RNA recombination event and can then evolve into a diversity of fitter homologous recombinant genomes over subsequent intra-genomic rearrangements. Moreover, these experimental studies demonstrated that the enterovirus genome could be defined as a combination of genomic modules that can be preferentially exchanged through recombination, and enabled defining the boundaries of these recombination modules. These results provided the first experimental evidence supporting the theoretical model of enterovirus modular evolution previously elaborated from phylogenetic studies of circulating enterovirus strains. This review summarizes our current knowledge regarding the mechanisms of recombination in enteroviruses and presents a new evolutionary process that may apply to other RNA viruses.
+
+2|chunk|Over 20 clinically recognized syndromes have been frequently associated with human EVs. Among the most frequent are pathologies of the central nervous system (CNS): poliomyelitis, encephalitis, and meningitis [3] [4] [5] [6] . More than 90% of viral meningitis cases are caused by EVs. Enteroviral encephalitis and myelitis are less common, but more often have severe manifestations. Following the elimination of wild type PV in most regions of the world, EV-A type 71 (EV-A71) emerged as the most significant neurotropic EV. EVs are also frequently associated with acute pericarditis and myocarditis, hand-foot-and-mouth disease, pleurodynia, or respiratory disease [7] [8] [9] [10] [11] . RVs represent the principal cause of the common cold, a frequent infection both in children and adults, usually limited to the upper respiratory airways [8, 10] . The three types of PV belong to the EV-C species, which also includes many weakly or non-pathogenic coxsackieviruses A (CV-A), such as CV-A13 or CV-A17.
+2	103	111 frequent	Phenotype	HP_0040282
+2	135	142 central	Phenotype	HP_0030645
+2	180	192 encephalitis	Phenotype	HP_0002383
+2	198	208 meningitis	Phenotype	HP_0001287
+2	250	260 meningitis	Phenotype	HP_0001287
+2	298	310 encephalitis	Phenotype	HP_0002383
+2	315	323 myelitis	Phenotype	HP_0012486
+2	361	367 severe	Phenotype	HP_0012828
+2	566	571 acute	Phenotype	HP_0011009
+2	572	584 pericarditis	Phenotype	HP_0001701
+2	747	755 frequent	Phenotype	HP_0040282
+
+3|chunk|EVs are small non-enveloped viruses containing a single positive-strand RNA genome of approximately 7.5 kb in length. This genome encodes a large open reading frame (ORF) that is translated into a polyprotein processed by viral proteases (2A, 3C, and 3CD) to yield four capsid proteins (VP1-4) and non-structural proteins, such as proteases and the RNA-dependent RNA polymerase (RdRp) 3D, which are involved in the viral multiplication and the control of the cellular environment ( Figure 1 ). Viral replication cycles entirely occur in the cytoplasm of infected cells [12] . It was recently demonstrated that the majority of EV-A and EV-B genomes and around half the EV-C genomes contain a second ORF located upstream and overlapping the polyprotein ORF (ppORF) [13] . This second upstream ORF (uORF) encodes a single protein that may play a role in virus growth in gut epithelial cells, which are the entry site of these viruses into a susceptible host. Two untranslated regions flank the coding region of EV genome (5 and 3 UTR). The EV 5 UTR is about 740 nucleotides in length and it contains seven highly conserved stem-loop domains (I to VII) forming two functional units (Figure 1) . Domain I forms a cloverleaf (CL) structure that is required for initiating both negative-and positive-strand RNA synthesis [14] [15] [16] [17] . Domains II to VI (dII to dVI) contain the internal ribosome entry site (IRES) that initiates cap-independent translation by interacting with canonical and noncanonical cellular translation factors to recruit ribosomes [18, 19] . The CL and IRES elements are separated by a short pyrimidine-rich sequence, named spacer 1, and the IRES is linked to the initiation AUG codon of the ppORF by dVII and a poorly structured sequence of about 100 nucleotides, named spacer 2 [20]. This dVII-spacer 2 region contains the main part of the uORF that is present in many EV genomes [13] .
+3	379	383 RdRp	Gene_function	GO_0003968
+3	541	550 cytoplasm	Gene_function	GO_0005737
+3	857	863 growth	Gene_function	GO_0040007
+3	1300	1313 RNA synthesis	Gene_function	GO_0032774
+3	1304	1313 synthesis	Gene_function	GO_0009058
+3	1387	1395 ribosome	Gene_function	GO_0005840
+3	1445	1456 translation	Gene_function	GO_0006412
+3	1513	1524 translation	Gene_function	GO_0006412
+

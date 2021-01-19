@@ -1,0 +1,25 @@
+0|chunk|Respiratory Research Streptococcus pneumoniae induced c-Jun-N-terminal kinase-and AP-1 -dependent IL-8 release by lung epithelial BEAS-2B cells
+
+1|chunk|Although pneumococcal pneumonia is one of the most common causes of death due to infectious diseases, little is known about pneumococci-lung cell interaction. Herein we tested the hypothesis that pneumococci activated pulmonary epithelial cell cytokine release by c-Jun-NH 2 -terminal kinase (JNK) Methods: Human bronchial epithelial cells (BEAS-2B) or epithelial HEK293 cells were infected with S. pneumoniae R6x and cytokine induction was measured by RT-PCR, ELISA and Bioplex assay. JNKphosphorylation was detected by Western blot and nuclear signaling was assessed by electrophoretic mobility shift assay (EMSA) and chromatin immunoprecipitation (ChIP). JNK was modulated by the small molecule inhibitor SP600125 and AP1 by transfection of a dominant negative mutant.
+1	22	31 pneumonia	Phenotype	HP_0002090
+1	293	296 JNK	Gene_function	GO_0004705
+1	546	555 signaling	Gene_function	GO_0023052
+1	620	629 chromatin	Gene_function	GO_0000785
+1	658	661 JNK	Gene_function	GO_0004705
+1	HP-GO	HP_0002090	GO_0004705
+1	HP-GO	HP_0002090	GO_0023052
+1	HP-GO	HP_0002090	GO_0000785
+
+2|chunk|Results: S. pneumoniae induced the release of distinct CC and CXC, as well as Th1 and Th2 cytokines and growth factors by human lung epithelial cell line BEAS-2B. Furthermore, pneumococci infection resulted in JNK phosphorylation in BEAS-2B cells. Inhibition of JNK by small molecule inhibitor SP600125 reduced pneumococci-induced IL-8 mRNA expression and release of IL-8 and IL-6. One regulator of the il8 promoter is JNK-phosphorylated activator protein 1 (AP-1). We showed that S. pneumoniae timedependently induced DNA binding of AP-1 and its phosphorylated subunit c-Jun with a maximum at 3 to 5 h after infection. Recruitment of Ser 63/73 -phosphorylated c-Jun and RNA polymerase II to the endogenous il8 promoter was found 2 h after S. pneumoniae infection by chromatin immunoprecipitation. AP-1 repressor A-Fos reduced IL-8 release by TLR2-overexpressing HEK293 cells induced by pneumococci but not by TNF. Antisense-constructs targeting the AP-1 subunits Fra1 and Fra2 had no inhibitory effect on pneumococci-induced IL-8 release.
+2	104	110 growth	Gene_function	GO_0040007
+2	210	213 JNK	Gene_function	GO_0004705
+2	214	229 phosphorylation	Gene_function	GO_0016310
+2	262	265 JNK	Gene_function	GO_0004705
+2	519	530 DNA binding	Gene_function	GO_0003677
+2	523	530 binding	Gene_function	GO_0005488
+2	635	638 Ser	Gene_function	GO_0005790
+2	767	776 chromatin	Gene_function	GO_0000785
+
+3|chunk|Conclusion: S. pneumoniae-induced IL-8 expression by human epithelial BEAS-2B cells depended on activation of JNK and recruitment of phosphorylated c-Jun to the il8 promoter.
+3	110	113 JNK	Gene_function	GO_0004705
+

@@ -1,0 +1,2957 @@
+0|chunk|Molecular Sciences Monocytes and Macrophages as Viral Targets and Reservoirs
+
+1|chunk|Viruses manipulate cell biology to utilize monocytes/macrophages as vessels for dissemination, long-term persistence within tissues and virus replication. Viruses enter cells through endocytosis, phagocytosis, macropinocytosis or membrane fusion. These processes play important roles in the mechanisms contributing to the pathogenesis of these agents and in establishing viral genome persistence and latency. Upon viral infection, monocytes respond with an elevated expression of proinflammatory signalling molecules and antiviral responses, as is shown in the case of the influenza, Chikungunya, human herpes and Zika viruses. Human immunodeficiency virus initiates acute inflammation on site during the early stages of infection but there is a shift of M1 to M2 at the later stages of infection. Cytomegalovirus creates a balance between pro-and anti-inflammatory processes by inducing a specific phenotype within the M1/M2 continuum. Despite facilitating inflammation, infected macrophages generally display abolished apoptosis and restricted cytopathic effect, which sustains the virus production. The majority of viruses discussed in this review employ monocytes/macrophages as a repository but certain viruses use these cells for productive replication. This review focuses on viral adaptations to enter monocytes/macrophages, immune escape, reprogramming of infected cells and the response of the host cells.
+1	210	226 macropinocytosis	Gene_function	GO_0044351
+1	230	238 membrane	Gene_function	GO_0016020
+1	322	334 pathogenesis	Gene_function	GO_0009405
+1	496	506 signalling	Gene_function	GO_0023052
+1	496	516 signalling molecules	Chemical	CHEBI_62488
+1	507	516 molecules	Chemical	CHEBI_25367
+1	521	530 antiviral	Chemical	CHEBI_22587
+1	634	650 immunodeficiency	Phenotype	HP_0002721
+1	667	672 acute	Phenotype	HP_0011009
+1	GO-GO	GO_0044351	GO_0016020
+1	GO-GO	GO_0044351	GO_0009405
+1	GO-GO	GO_0044351	GO_0023052
+1	GO-CHEBI	GO_0044351	CHEBI_62488
+1	GO-CHEBI	GO_0044351	CHEBI_25367
+1	GO-CHEBI	GO_0044351	CHEBI_22587
+1	GO-HP	GO_0044351	HP_0002721
+1	GO-HP	GO_0044351	HP_0011009
+1	GO-GO	GO_0016020	GO_0009405
+1	GO-GO	GO_0016020	GO_0023052
+1	GO-CHEBI	GO_0016020	CHEBI_62488
+1	GO-CHEBI	GO_0016020	CHEBI_25367
+1	GO-CHEBI	GO_0016020	CHEBI_22587
+1	GO-HP	GO_0016020	HP_0002721
+1	GO-HP	GO_0016020	HP_0011009
+1	GO-GO	GO_0009405	GO_0023052
+1	GO-CHEBI	GO_0009405	CHEBI_62488
+1	GO-CHEBI	GO_0009405	CHEBI_25367
+1	GO-CHEBI	GO_0009405	CHEBI_22587
+1	GO-HP	GO_0009405	HP_0002721
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-CHEBI	GO_0023052	CHEBI_62488
+1	GO-CHEBI	GO_0023052	CHEBI_25367
+1	GO-CHEBI	GO_0023052	CHEBI_22587
+1	GO-HP	GO_0023052	HP_0002721
+1	GO-HP	GO_0023052	HP_0011009
+1	CHEBI-CHEBI	CHEBI_62488	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_62488	CHEBI_22587
+1	CHEBI-HP	CHEBI_62488	HP_0002721
+1	CHEBI-HP	CHEBI_62488	HP_0011009
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_22587
+1	CHEBI-HP	CHEBI_25367	HP_0002721
+1	CHEBI-HP	CHEBI_25367	HP_0011009
+1	CHEBI-HP	CHEBI_22587	HP_0002721
+1	CHEBI-HP	CHEBI_22587	HP_0011009
+1	HP-HP	HP_0002721	HP_0011009
+
+2|chunk|Infectious agents must find, attack and enter permissive cells, avoid the immune response and productively replicate their genomes. Additionally, these agents must consolidate, that is, establish a persistent infection in an organism with the aim of viral army replenishment and a continuation of its lifecycle. To be a viral reservoir, cells must meet the following characteristics: have a sufficient lifespan, be able to avoid apoptosis and the immune response and have facile interactions with other cell populations. Some cells have these characteristics inherently but others can be transformed and adapted by viral infection, resulting in similar effects. These findings are validated by several results described in this review. Monocytes (Mo) by definition are non-dividing cells with a short half-life that makes viral replication difficult or almost impossible. A limited lifespan, limited cell resources, programmed cell death and an immune response are major restrictive characteristics of monocytes/macrophages as a permissive system and/or a reservoir. Nevertheless, monocytes/macrophages have several appealing characteristics as a target for viral infection, thus viruses have found ways to avoid the limitations and adapt these cells for their replication. Monocytes are broadly represented in the blood stream; they continuously differentiate from bone marrow precursors and enter into the circulation where they can be exposed to viral particles. Monocytes are at the front line in the defence against foreign invasion by microorganisms, providing the first virus-cell contact upon infection. Monocytes are professional antigen-presenting cells with a broad repertoire of receptors on the cell surface and high phagocytic activity, which can be exploited by viruses. As a host defender, upon infection, monocytes change their cytokine/chemokine pattern, which directs cell differentiation into long-lived macrophages (Mφ) and promotes migration into tissue where they become infected resident cells. This gives viruses the possibility to disseminate through all organs and tissues, including the brain (also known as the "Trojan horse" hypothesis [1, 2] ), forming stable and long-lived reservoirs which can be used for virus replenishment upon favourable conditions for reactivation. Additionally, Mo/Mφ are involved in the vertical transmission of virus from an infected mother to the developing foetus in utero [3] . Mo/Mφ can actively interact with other cell populations through direct cell-to-cell contacts, providing a basis for virus dissemination. Finally, monocytes/macrophages are powerful producers of cytokines/chemokines that are involved in the immune response and inflammation initiation and this can be modulated and utilized by viruses for infection spread and establishment. In the current review, these aspects are discussed in detail and are presented with representative examples.
+2	74	89 immune response	Gene_function	GO_0006955
+2	447	462 immune response	Gene_function	GO_0006955
+2	916	937 programmed cell death	Gene_function	GO_0012501
+2	927	937 cell death	Gene_function	GO_0008219
+2	945	960 immune response	Gene_function	GO_0006955
+2	1708	1720 cell surface	Gene_function	GO_0009986
+2	1887	1907 cell differentiation	Gene_function	GO_0030154
+2	2184	2190 stable	Phenotype	HP_0031915
+2	2679	2694 immune response	Gene_function	GO_0006955
+2	GO-GO	GO_0006955	GO_0012501
+2	GO-GO	GO_0006955	GO_0008219
+2	GO-GO	GO_0006955	GO_0009986
+2	GO-GO	GO_0006955	GO_0030154
+2	GO-HP	GO_0006955	HP_0031915
+2	GO-GO	GO_0012501	GO_0008219
+2	GO-GO	GO_0012501	GO_0009986
+2	GO-GO	GO_0012501	GO_0030154
+2	GO-HP	GO_0012501	HP_0031915
+2	GO-GO	GO_0008219	GO_0009986
+2	GO-GO	GO_0008219	GO_0030154
+2	GO-HP	GO_0008219	HP_0031915
+2	GO-GO	GO_0009986	GO_0030154
+2	GO-HP	GO_0009986	HP_0031915
+2	GO-HP	GO_0030154	HP_0031915
+
+3|chunk|Many types of viruses have been subject to comprehensive investigations exploring monocyte/macrophages-virus interactions, the molecular basis of these interactions, response and permissiveness. For some viral families such as Retroviridae (e.g., human immunodeficiency virus or HIV) and Herpesviridae (e.g., cytomegalovirus or CMV), information has been obtained and presented in detail due to their great importance to public health. This is highlighted by their worldwide role in millions of deaths each year. However, several questions remain unanswered due to the versatile biology of viruses, their resourcefulness and the diversity of monocyte/macrophage polarization and tissue specificity.
+3	253	269 immunodeficiency	Phenotype	HP_0002721
+3	475	479 role	Chemical	CHEBI_50906
+3	HP-CHEBI	HP_0002721	CHEBI_50906
+
+4|chunk|This review analyses previously published data on the myeloid cell lineage, with a primary focus on the interaction between monocytes/macrophages and viruses. This paper intends to highlight the aspects of cell regulation that viruses adopt to enable viral persistence, beginning with viral entry and then examining the launching of vital pathways and the regulation of many processes. Intriguing data presented in the literature has shown that, despite their small sizes and genomes, viruses can be very powerful machines responsible for specific changes in cell regulation and function. Certain viruses that seek monocytes/macrophages frequently possess the ability to change cellular decisions regarding fate and decoy apoptosis and can alter morphology and polarize cells. These abilities, therefore, lead to cytokine/chemokine expression modification and escape from the immune system. The basic biology of viral reservoirs, knowledge of viral transmission systems and "backup" cells will be of great help in the advancement of effective viral therapies, allowing the development of potential life-saving techniques. Recent achievements in this area of investigation are also summarized in this review.
+
+5|chunk|Macrophages are key cells of the immune system that orchestrate various physiological and pathological processes of an infectious and non-infectious nature. Macrophages were discovered by Russian zoologist Élie Metchnikoff in the late nineteenth century [4] . Initial discovery focused on the phagocytic activity of macrophages, which is important for host defence against infection and for maintenance of 'housekeeping' functions such as the removal of apoptotic cells and remodelling of the extracellular matrix [5] . Accumulating data has revealed that macrophages play a valuable role in
+5	493	506 extracellular	Gene_function	GO_0005576
+5	493	513 extracellular matrix	Gene_function	GO_0031012
+5	584	588 role	Chemical	CHEBI_50906
+5	GO-GO	GO_0005576	GO_0031012
+5	GO-CHEBI	GO_0005576	CHEBI_50906
+5	GO-CHEBI	GO_0031012	CHEBI_50906
+
+6|chunk|The first reports on the topic of myeloid cell response and reaction to viruses date back to 1978 [13, 14] . The questions of permissiveness and the potential of monocytes and macrophages to be a reservoir for infectious agents was and still is, very intriguing to scientists. Knowledge in this area is interesting because it can lead to the basic understanding of many processes, such as virus-cell interactions that are receptor-based, cell-to-cell transmission upon infection, persistence, genetic changes of cell machinery and therapy applications to certain cohorts of patients. Circulating monocytes and macrophages play one of the most important roles in the protection of the organism against viral infection. Through use of animal models and viruses associated with lethal disease, researchers have made the surprising discovery that these cells can be defined as part of a permissive system, carrying special "parcels" that assist viral spread into susceptible sites (e.g., the central nervous system) and virus dissemination to other cells [14] [15] [16] . Later experiments on human infection (tissue-derived cells, post-mortem tissue samples, human cell cultures) revealed many spectacular functions of monocytes/macrophages and the diverse adaptations of viruses to this particular cell system [17] [18] [19] [20] . Today, an important role of monocytes/macrophages has been shown for the persistence or spread of more than 35 viruses belonging to 13 different families. Among them are ssRNA and dsDNA agents, which lead to a variety of diseases including formidable immunodeficiency syndrome, virus-induced microcephaly and Guillain-Barré syndrome [3, 18] . Types of viruses, species affected, models and organisms used for experiments, monocyte/macrophage reaction and cell polarization changes upon infection and other valuable information are summarized in Table 1 and depicted in Figure 1 . These data concern humans [17, 19, 21, 22] , mammals in general [23, 24] and amphibian species [25] . functions of monocytes/macrophages and the diverse adaptations of viruses to this particular cell system [17] [18] [19] [20] . Today, an important role of monocytes/macrophages has been shown for the persistence or spread of more than 35 viruses belonging to 13 different families. Among them are ssRNA and dsDNA agents, which lead to a variety of diseases including formidable immunodeficiency syndrome, virus-induced microcephaly and Guillain-Barré syndrome [3, 18] . Types of viruses, species affected, models and organisms used for experiments, monocyte/macrophage reaction and cell polarization changes upon infection and other valuable information are summarized in Table 1 and depicted in Figure 1 . These data concern humans [17, 19, 21, 22] , mammals in general [23, 24] and amphibian species [25] . 
+6	988	995 central	Phenotype	HP_0030645
+6	1350	1354 role	Chemical	CHEBI_50906
+6	1581	1597 immunodeficiency	Phenotype	HP_0002721
+6	1598	1606 syndrome	Disease	DOID_225
+6	1622	1634 microcephaly	Disease	DOID_10907
+6	1622	1634 microcephaly	Phenotype	HP_0000252
+6	1654	1662 syndrome	Disease	DOID_225
+6	1785	1802 cell polarization	Gene_function	GO_0030010
+6	2159	2163 role	Chemical	CHEBI_50906
+6	2390	2406 immunodeficiency	Phenotype	HP_0002721
+6	2407	2415 syndrome	Disease	DOID_225
+6	2431	2443 microcephaly	Disease	DOID_10907
+6	2431	2443 microcephaly	Phenotype	HP_0000252
+6	2463	2471 syndrome	Disease	DOID_225
+6	2594	2611 cell polarization	Gene_function	GO_0030010
+6	HP-CHEBI	HP_0030645	CHEBI_50906
+6	HP-HP	HP_0030645	HP_0002721
+6	HP-DOID	HP_0030645	DOID_225
+6	HP-DOID	HP_0030645	DOID_10907
+6	HP-HP	HP_0030645	HP_0000252
+6	HP-GO	HP_0030645	GO_0030010
+6	CHEBI-HP	CHEBI_50906	HP_0002721
+6	CHEBI-DOID	CHEBI_50906	DOID_225
+6	CHEBI-DOID	CHEBI_50906	DOID_10907
+6	CHEBI-HP	CHEBI_50906	HP_0000252
+6	CHEBI-GO	CHEBI_50906	GO_0030010
+6	HP-DOID	HP_0002721	DOID_225
+6	HP-DOID	HP_0002721	DOID_10907
+6	HP-HP	HP_0002721	HP_0000252
+6	HP-GO	HP_0002721	GO_0030010
+6	DOID-DOID	DOID_225	DOID_10907
+6	DOID-HP	DOID_225	HP_0000252
+6	DOID-GO	DOID_225	GO_0030010
+6	DOID-HP	DOID_10907	HP_0000252
+6	DOID-GO	DOID_10907	GO_0030010
+6	HP-GO	HP_0000252	GO_0030010
+
+7|chunk|The initial step of infection is virus contact with the host cell and introduction of its material into the cell. The viral capsid is usually neutrally charged and viruses and cells do not naturally attract each other; therefore, the virus must find a way to move near to a host cell. Most viruses do this by attachment to a susceptible cell that contains a receptor. Initial virus-cell interaction can occur through low-or high-affinity receptors, leading to the activation of many signalling pathways, which in turn can provide virus escape from immune reaction, prevent host cell apoptosis or adapt the cell to the permissiveness. After initial contact with the cell surface, viruses can penetrate into the cell through endocytosis, phagocytosis, macropinocytosis or membrane fusion. It can be assumed that the uptake pathway and type of receptors involved are the first adaptation step necessary to the prosperous survival of viruses.
+7	56	65 host cell	Gene_function	GO_0043657
+7	118	130 viral capsid	Gene_function	GO_0019028
+7	274	283 host cell	Gene_function	GO_0043657
+7	483	493 signalling	Gene_function	GO_0023052
+7	573	582 host cell	Gene_function	GO_0043657
+7	750	766 macropinocytosis	Gene_function	GO_0044351
+7	770	778 membrane	Gene_function	GO_0016020
+7	821	828 pathway	Chemical	CHEBI_34922
+7	GO-GO	GO_0043657	GO_0019028
+7	GO-GO	GO_0043657	GO_0023052
+7	GO-GO	GO_0043657	GO_0044351
+7	GO-GO	GO_0043657	GO_0016020
+7	GO-CHEBI	GO_0043657	CHEBI_34922
+7	GO-GO	GO_0019028	GO_0023052
+7	GO-GO	GO_0019028	GO_0044351
+7	GO-GO	GO_0019028	GO_0016020
+7	GO-CHEBI	GO_0019028	CHEBI_34922
+7	GO-GO	GO_0023052	GO_0044351
+7	GO-GO	GO_0023052	GO_0016020
+7	GO-CHEBI	GO_0023052	CHEBI_34922
+7	GO-GO	GO_0044351	GO_0016020
+7	GO-CHEBI	GO_0044351	CHEBI_34922
+7	GO-CHEBI	GO_0016020	CHEBI_34922
+
+8|chunk|Endocytosis is a form of a clathrin-mediated molecule transportation. As described in detail by Grove J. and Marsh M. (2011) [72] , the receptor-mediated interaction can be represented as follows: receptors can target viruses for endocytosis; receptors may be used to activate specific signalling pathways leading to virus entry; receptors may directly drive fusion/penetration events, either at the surface of a target cell or within endocytic compartments, that can be achieved by inducing conformational changes in key virus surface structures. Phagocytosis is a type of endocytosis that involves the actin-dependent formation of vesicles. Macropinocytosis is an endocytic process of nonselective uptake of extracellular fluid, which can be induced upon activation of growth factor signalling pathways and can also be exploited by several viruses [73] . Virus surface components and the composition of viral coats determine virus-cell interactions and orchestrate their attachment to the cell surface. For example, enveloped viruses, which are packed in a membrane highly similar to that of the host cell, can fuse directly at the plasma membrane after interaction with cell surface receptors [72] , as has been shown for HIV-1 [55] . The various mechanisms given here are widely exploited by viruses against many cell populations, in addition to monocyte/macrophage cells.
+8	0	11 Endocytosis	Gene_function	GO_0006897
+8	45	53 molecule	Chemical	CHEBI_25367
+8	230	241 endocytosis	Gene_function	GO_0006897
+8	286	296 signalling	Gene_function	GO_0023052
+8	548	560 Phagocytosis	Gene_function	GO_0006909
+8	574	585 endocytosis	Gene_function	GO_0006897
+8	643	659 Macropinocytosis	Gene_function	GO_0044351
+8	710	723 extracellular	Gene_function	GO_0005576
+8	771	777 growth	Gene_function	GO_0040007
+8	785	795 signalling	Gene_function	GO_0023052
+8	991	1003 cell surface	Gene_function	GO_0009986
+8	1059	1067 membrane	Gene_function	GO_0016020
+8	1134	1149 plasma membrane	Gene_function	GO_0005886
+8	1141	1149 membrane	Gene_function	GO_0016020
+8	1173	1185 cell surface	Gene_function	GO_0009986
+8	GO-CHEBI	GO_0006897	CHEBI_25367
+8	GO-GO	GO_0006897	GO_0023052
+8	GO-GO	GO_0006897	GO_0006909
+8	GO-GO	GO_0006897	GO_0044351
+8	GO-GO	GO_0006897	GO_0005576
+8	GO-GO	GO_0006897	GO_0040007
+8	GO-GO	GO_0006897	GO_0009986
+8	GO-GO	GO_0006897	GO_0016020
+8	GO-GO	GO_0006897	GO_0005886
+8	CHEBI-GO	CHEBI_25367	GO_0023052
+8	CHEBI-GO	CHEBI_25367	GO_0006909
+8	CHEBI-GO	CHEBI_25367	GO_0044351
+8	CHEBI-GO	CHEBI_25367	GO_0005576
+8	CHEBI-GO	CHEBI_25367	GO_0040007
+8	CHEBI-GO	CHEBI_25367	GO_0009986
+8	CHEBI-GO	CHEBI_25367	GO_0016020
+8	CHEBI-GO	CHEBI_25367	GO_0005886
+8	GO-GO	GO_0023052	GO_0006909
+8	GO-GO	GO_0023052	GO_0044351
+8	GO-GO	GO_0023052	GO_0005576
+8	GO-GO	GO_0023052	GO_0040007
+8	GO-GO	GO_0023052	GO_0009986
+8	GO-GO	GO_0023052	GO_0016020
+8	GO-GO	GO_0023052	GO_0005886
+8	GO-GO	GO_0006909	GO_0044351
+8	GO-GO	GO_0006909	GO_0005576
+8	GO-GO	GO_0006909	GO_0040007
+8	GO-GO	GO_0006909	GO_0009986
+8	GO-GO	GO_0006909	GO_0016020
+8	GO-GO	GO_0006909	GO_0005886
+8	GO-GO	GO_0044351	GO_0005576
+8	GO-GO	GO_0044351	GO_0040007
+8	GO-GO	GO_0044351	GO_0009986
+8	GO-GO	GO_0044351	GO_0016020
+8	GO-GO	GO_0044351	GO_0005886
+8	GO-GO	GO_0005576	GO_0040007
+8	GO-GO	GO_0005576	GO_0009986
+8	GO-GO	GO_0005576	GO_0016020
+8	GO-GO	GO_0005576	GO_0005886
+8	GO-GO	GO_0040007	GO_0009986
+8	GO-GO	GO_0040007	GO_0016020
+8	GO-GO	GO_0040007	GO_0005886
+8	GO-GO	GO_0009986	GO_0016020
+8	GO-GO	GO_0009986	GO_0005886
+8	GO-GO	GO_0016020	GO_0005886
+
+9|chunk|Monocytes/macrophages are known to be a professional antigen-presenting cells and "professional" phagocytes. These cells are well equipped with general receptors and several sensors, namely, pattern recognition receptors. These receptors can initiate and control immune responses to invading pathogens and maintain tolerance to self-antigens [74] . Data representing virus-cell binding events for viruses that cause lethal or clinically severe diseases are summarized in Table 2 .
+9	378	385 binding	Gene_function	GO_0005488
+9	437	443 severe	Phenotype	HP_0012828
+9	GO-HP	GO_0005488	HP_0012828
+
+10|chunk|Receptors and proteins involved in virus-host interactions define the next steps of the viral life cycle. For receptor-mediated entry, viruses can employ both nonspecific receptors, where a virus accesses a broad range of cell populations, or highly specific interactions between the virus and cell surface receptors, where a virus infects a limited set of target cells; this determines the tropism of viral infection. Several viruses use classical receptors and transmembrane proteins that are widely represented in cells and are not restricted to the monocyte/macrophage population, such as nucleolin by the respiratory syncytial virus [75] ; sialic acid sugars by the influenza virus [76] , mouse hepatitis virus [77] and Theiler's murine encephalomyelitis virus [78] ; and phosphatidylserine by the vesicular stomatitis virus [79] . This strategy provides effective interactions with the cell and allows viruses to infect a wide range of cells. Despite the low-affinity of these interactions, further cellular reactions and cascade activation could provide an advantage to viruses in survival. For example, in chronic lymphocytic leukaemia, the nucleolin activation in cells result in stabilization of Bcl-2 mRNA, with subsequent overproduction of Bcl-2 protein and avoidance of apoptosis [80] . Sialic acids are highly conserved and abundant in large numbers in virtually all cells, which makes them a good target for viruses. RSV uses the hemagglutinin glycoproteins on their surface to directly bind to the sialic acids of erythrocytes as a first step of virus interaction with the host that helps to avoid immune response and enables spreading within the organism. Several viruses (HIV, CMV, RSV, KHSV) use heparan sulphate proteoglycans, which have been considered to be a nonspecific cell surface receptor based on their interactions with the positive motifs of viral proteins [11, 81, 82] . However, heparan sulphate proteoglycans play multiple roles in assisting viral infection. It has been suggested that heparan sulphate could serve as a specific receptor for viral infection [83] . Heparan sulphate shows activity in assisting both viral binding and viral entry. In the case of HIV infection, these receptors facilitate the internalization of viral trans activator protein, Tat and increase the levels of cytokines, promoting cell proliferation to increase the incidence of cancer and neurotoxicity in the central nervous system. The Tat protein might spread into the uninfected cells to cause the non-permissive cells to be susceptible to HIV infection [83] . Phosphatidylserine plays a valuable role in cell cycle signalling, specifically in relationship to apoptosis. In the viral membrane, phosphatidylserine mimics the membrane fragments generated during cellular apoptosis, which leads to macrophage recognition and internalization by macropinocytosis [73] , which then leads to its infection and enables immune escape. Other viruses bind to specific cofactors: FcγRII and FcγRIII and occludin for coxsackieviruses [42, 73] ; CD4 and coreceptors CXCR4/CCR5 or human mannose receptor C-type 1 (hMRC1) for human immunodeficiency virus [11, 86] ; and β1/β3 integrins and TLR3/TLR9 for cytomegalovirus [82] . Redundancy and conservation of receptors determines viral tropism, spread and pathogenesis of disease [90] . Binding to FcγRII and FcγRIII receptors, coxsackievirus launches signalling pathways resulting in the induction of both tumour necrosis factor-α and interleukin-1α production by human macrophages [91] , which are involved in inflammation onset Occludin plays an important role in coxsackievirus B (CVB) entry by launching macropinocytosis and occludin also plays a role in avoidance of immune surveillance [73] . Occludin may serve as a scaffold to recruit and anchor signalling or regulatory molecules, such as a caveolin, in the vicinity of virus entry providing a base for virus entry by endocytosis [92] . CD4 plays a prominent role in HIV entry and virus-cell interaction for T cells and for monocytes/macrophages. CD4 creates structural changes in viral proteins that allow HIV-1 to bind to a coreceptor expressed on the host cell, followed by insertion of a fusion peptide into the host cell and fusing with the membrane [55] . In turn, hMRC1-mediated uptake of HIV-1 by macrophages does not lead to productive infection in macrophages [86] but it facilitates virus transmission to T cells, which is important for virus dissemination and infection establishment This indicates that HIV-1 can also use the interaction with hMRC1 to its advantage [93] . Virus-induced receptor-mediated signalling can cause local actin rearrangement and facilitate phagocytosis, as was shown for cytomegalovirus [72] . HCMV binds to specific proteinaceous receptors-the β1 and β3 integrins-and to EGFR on the surface of monocytes, then triggers the activation of downstream signalling cascades [17] . The activation of both EGFR and integrins by HCMV is required for increased monocyte cellular motility through actin cytoskeletal rearrangement [17] . Actin rearrangement correlates with the translocation of viral capsids to the nucleus and infection, which is essential for the overall dissemination strategy of HCMV [94] . Numerous viruses can activate cells through different TLRs, including members of Herpesviridae (CMV, EBV) [82] . TLRs participate in the first line of defence against pathogens. They play a significant role in inflammation, immune cell regulation, survival and proliferation [95] . Although activation of TLRs might result in a protective antiviral immune response, it also may contribute to the pathology observed in infections caused by EBV [82] . Sensing of EBV by TLR2 results in increased secretion of proinflammatory cytokines, such as TNF-α, IL-1β, IL-6 and IL-8, which in turn contribute to the pathology observed in infections caused by EBV [82] . DC-SIGN and other C-type lectins act as pathogen recognition receptors that alert macrophages to take up and process pathogens for antigen presentation to T cells. Certain viruses such as HHV-8 can subvert this immune function by using DC-SIGN as a portal for immune dysfunction, resulting in the oncogenesis caused by HHV-8 infection [66] . Another example is the upregulation of xCT, which serves as a fusion-entry receptor for HHV-8 in infected macrophages; this receptor protects these cells from reactive nitrogen species-induced cell death [67] .
+10	14	22 proteins	Chemical	CHEBI_36080
+10	88	104 viral life cycle	Gene_function	GO_0019058
+10	294	306 cell surface	Gene_function	GO_0009986
+10	391	398 tropism	Gene_function	GO_0009606
+10	402	417 viral infection	Disease	DOID_934
+10	402	417 viral infection	Gene_function	GO_0016032
+10	463	476 transmembrane	Gene_function	GO_0016021
+10	477	485 proteins	Chemical	CHEBI_36080
+10	645	656 sialic acid	Chemical	CHEBI_26667
+10	652	656 acid	Chemical	CHEBI_37527
+10	671	680 influenza	Disease	DOID_8469
+10	700	709 hepatitis	Disease	DOID_2237
+10	700	709 hepatitis	Phenotype	HP_0012115
+10	742	759 encephalomyelitis	Disease	DOID_640
+10	777	795 phosphatidylserine	Chemical	CHEBI_18303
+10	813	823 stomatitis	Disease	DOID_9637
+10	813	823 stomatitis	Phenotype	HP_0010280
+10	1114	1121 chronic	Phenotype	HP_0011010
+10	1114	1143 chronic lymphocytic leukaemia	Disease	DOID_1040
+10	1258	1265 protein	Chemical	CHEBI_16541
+10	1300	1312 Sialic acids	Chemical	CHEBI_26667
+10	1307	1312 acids	Chemical	CHEBI_37527
+10	1459	1472 glycoproteins	Chemical	CHEBI_17089
+10	1514	1526 sialic acids	Chemical	CHEBI_26667
+10	1521	1526 acids	Chemical	CHEBI_37527
+10	1614	1629 immune response	Gene_function	GO_0006955
+10	1715	1722 heparan	Chemical	CHEBI_24500
+10	1715	1731 heparan sulphate	Chemical	CHEBI_28815
+10	1723	1731 sulphate	Chemical	CHEBI_16189
+10	1732	1745 proteoglycans	Chemical	CHEBI_37396
+10	1794	1806 cell surface	Gene_function	GO_0009986
+10	1878	1886 proteins	Chemical	CHEBI_36080
+10	1911	1918 heparan	Chemical	CHEBI_24500
+10	1911	1927 heparan sulphate	Chemical	CHEBI_28815
+10	1919	1927 sulphate	Chemical	CHEBI_16189
+10	1928	1941 proteoglycans	Chemical	CHEBI_37396
+10	1975	1990 viral infection	Disease	DOID_934
+10	1975	1990 viral infection	Gene_function	GO_0016032
+10	2019	2026 heparan	Chemical	CHEBI_24500
+10	2019	2035 heparan sulphate	Chemical	CHEBI_28815
+10	2027	2035 sulphate	Chemical	CHEBI_16189
+10	2075	2090 viral infection	Disease	DOID_934
+10	2075	2090 viral infection	Gene_function	GO_0016032
+10	2098	2105 Heparan	Chemical	CHEBI_24500
+10	2098	2114 Heparan sulphate	Chemical	CHEBI_28815
+10	2106	2114 sulphate	Chemical	CHEBI_16189
+10	2154	2161 binding	Gene_function	GO_0005488
+10	2194	2207 HIV infection	Disease	DOID_526
+10	2281	2288 protein	Chemical	CHEBI_16541
+10	2342	2360 cell proliferation	Gene_function	GO_0008283
+10	2390	2396 cancer	Disease	DOID_162
+10	2390	2396 cancer	Phenotype	HP_0002664
+10	2401	2414 neurotoxicity	Disease	DOID_3602
+10	2422	2429 central	Phenotype	HP_0030645
+10	2454	2461 protein	Chemical	CHEBI_16541
+10	2556	2569 HIV infection	Disease	DOID_526
+10	2577	2595 Phosphatidylserine	Chemical	CHEBI_18303
+10	2613	2617 role	Chemical	CHEBI_50906
+10	2621	2631 cell cycle	Gene_function	GO_0007049
+10	2632	2642 signalling	Gene_function	GO_0023052
+10	2700	2708 membrane	Gene_function	GO_0016020
+10	2710	2728 phosphatidylserine	Chemical	CHEBI_18303
+10	2740	2748 membrane	Gene_function	GO_0016020
+10	2857	2873 macropinocytosis	Gene_function	GO_0044351
+10	3088	3095 mannose	Chemical	CHEBI_37684
+10	3132	3148 immunodeficiency	Phenotype	HP_0002721
+10	3285	3292 tropism	Gene_function	GO_0009606
+10	3305	3317 pathogenesis	Gene_function	GO_0009405
+10	3321	3328 disease	Disease	DOID_4
+10	3336	3343 Binding	Gene_function	GO_0005488
+10	3401	3411 signalling	Gene_function	GO_0023052
+10	3456	3462 tumour	Phenotype	HP_0002664
+10	3463	3471 necrosis	Gene_function	GO_0001906
+10	3574	3579 onset	Phenotype	HP_0003674
+10	3608	3612 role	Chemical	CHEBI_50906
+10	3658	3674 macropinocytosis	Gene_function	GO_0044351
+10	3701	3705 role	Chemical	CHEBI_50906
+10	3804	3814 signalling	Gene_function	GO_0023052
+10	3927	3938 endocytosis	Gene_function	GO_0006897
+10	3968	3972 role	Chemical	CHEBI_50906
+10	4096	4104 proteins	Chemical	CHEBI_36080
+10	4163	4172 host cell	Gene_function	GO_0043657
+10	4208	4215 peptide	Chemical	CHEBI_16670
+10	4225	4234 host cell	Gene_function	GO_0043657
+10	4255	4263 membrane	Gene_function	GO_0016020
+10	4627	4637 signalling	Gene_function	GO_0023052
+10	4821	4825 EGFR	Gene_function	GO_0005006
+10	4898	4908 signalling	Gene_function	GO_0023052
+10	4948	4952 EGFR	Gene_function	GO_0005006
+10	5154	5161 nucleus	Chemical	CHEBI_33252
+10	5154	5161 nucleus	Gene_function	GO_0005634
+10	5452	5456 role	Chemical	CHEBI_50906
+10	5589	5598 antiviral	Chemical	CHEBI_22587
+10	5599	5614 immune response	Gene_function	GO_0006955
+10	5744	5753 secretion	Gene_function	GO_0046903
+10	6038	6045 antigen	Chemical	CHEBI_59132
+10	6038	6058 antigen presentation	Gene_function	GO_0019882
+10	6417	6425 nitrogen	Chemical	CHEBI_17997
+10	6417	6425 nitrogen	Chemical	CHEBI_25555
+10	6442	6452 cell death	Gene_function	GO_0008219
+10	CHEBI-GO	CHEBI_36080	GO_0019058
+10	CHEBI-GO	CHEBI_36080	GO_0009986
+10	CHEBI-GO	CHEBI_36080	GO_0009606
+10	CHEBI-DOID	CHEBI_36080	DOID_934
+10	CHEBI-GO	CHEBI_36080	GO_0016032
+10	CHEBI-GO	CHEBI_36080	GO_0016021
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_26667
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+10	CHEBI-DOID	CHEBI_36080	DOID_8469
+10	CHEBI-DOID	CHEBI_36080	DOID_2237
+10	CHEBI-HP	CHEBI_36080	HP_0012115
+10	CHEBI-DOID	CHEBI_36080	DOID_640
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_18303
+10	CHEBI-DOID	CHEBI_36080	DOID_9637
+10	CHEBI-HP	CHEBI_36080	HP_0010280
+10	CHEBI-HP	CHEBI_36080	HP_0011010
+10	CHEBI-DOID	CHEBI_36080	DOID_1040
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+10	CHEBI-GO	CHEBI_36080	GO_0006955
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_37396
+10	CHEBI-GO	CHEBI_36080	GO_0005488
+10	CHEBI-DOID	CHEBI_36080	DOID_526
+10	CHEBI-GO	CHEBI_36080	GO_0008283
+10	CHEBI-DOID	CHEBI_36080	DOID_162
+10	CHEBI-HP	CHEBI_36080	HP_0002664
+10	CHEBI-DOID	CHEBI_36080	DOID_3602
+10	CHEBI-HP	CHEBI_36080	HP_0030645
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+10	CHEBI-GO	CHEBI_36080	GO_0007049
+10	CHEBI-GO	CHEBI_36080	GO_0023052
+10	CHEBI-GO	CHEBI_36080	GO_0016020
+10	CHEBI-GO	CHEBI_36080	GO_0044351
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_37684
+10	CHEBI-HP	CHEBI_36080	HP_0002721
+10	CHEBI-GO	CHEBI_36080	GO_0009405
+10	CHEBI-DOID	CHEBI_36080	DOID_4
+10	CHEBI-GO	CHEBI_36080	GO_0001906
+10	CHEBI-HP	CHEBI_36080	HP_0003674
+10	CHEBI-GO	CHEBI_36080	GO_0006897
+10	CHEBI-GO	CHEBI_36080	GO_0043657
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_16670
+10	CHEBI-GO	CHEBI_36080	GO_0005006
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_33252
+10	CHEBI-GO	CHEBI_36080	GO_0005634
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+10	CHEBI-GO	CHEBI_36080	GO_0046903
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_59132
+10	CHEBI-GO	CHEBI_36080	GO_0019882
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_36080	CHEBI_25555
+10	CHEBI-GO	CHEBI_36080	GO_0008219
+10	GO-GO	GO_0019058	GO_0009986
+10	GO-GO	GO_0019058	GO_0009606
+10	GO-DOID	GO_0019058	DOID_934
+10	GO-GO	GO_0019058	GO_0016032
+10	GO-GO	GO_0019058	GO_0016021
+10	GO-CHEBI	GO_0019058	CHEBI_26667
+10	GO-CHEBI	GO_0019058	CHEBI_37527
+10	GO-DOID	GO_0019058	DOID_8469
+10	GO-DOID	GO_0019058	DOID_2237
+10	GO-HP	GO_0019058	HP_0012115
+10	GO-DOID	GO_0019058	DOID_640
+10	GO-CHEBI	GO_0019058	CHEBI_18303
+10	GO-DOID	GO_0019058	DOID_9637
+10	GO-HP	GO_0019058	HP_0010280
+10	GO-HP	GO_0019058	HP_0011010
+10	GO-DOID	GO_0019058	DOID_1040
+10	GO-CHEBI	GO_0019058	CHEBI_16541
+10	GO-CHEBI	GO_0019058	CHEBI_17089
+10	GO-GO	GO_0019058	GO_0006955
+10	GO-CHEBI	GO_0019058	CHEBI_24500
+10	GO-CHEBI	GO_0019058	CHEBI_28815
+10	GO-CHEBI	GO_0019058	CHEBI_16189
+10	GO-CHEBI	GO_0019058	CHEBI_37396
+10	GO-GO	GO_0019058	GO_0005488
+10	GO-DOID	GO_0019058	DOID_526
+10	GO-GO	GO_0019058	GO_0008283
+10	GO-DOID	GO_0019058	DOID_162
+10	GO-HP	GO_0019058	HP_0002664
+10	GO-DOID	GO_0019058	DOID_3602
+10	GO-HP	GO_0019058	HP_0030645
+10	GO-CHEBI	GO_0019058	CHEBI_50906
+10	GO-GO	GO_0019058	GO_0007049
+10	GO-GO	GO_0019058	GO_0023052
+10	GO-GO	GO_0019058	GO_0016020
+10	GO-GO	GO_0019058	GO_0044351
+10	GO-CHEBI	GO_0019058	CHEBI_37684
+10	GO-HP	GO_0019058	HP_0002721
+10	GO-GO	GO_0019058	GO_0009405
+10	GO-DOID	GO_0019058	DOID_4
+10	GO-GO	GO_0019058	GO_0001906
+10	GO-HP	GO_0019058	HP_0003674
+10	GO-GO	GO_0019058	GO_0006897
+10	GO-GO	GO_0019058	GO_0043657
+10	GO-CHEBI	GO_0019058	CHEBI_16670
+10	GO-GO	GO_0019058	GO_0005006
+10	GO-CHEBI	GO_0019058	CHEBI_33252
+10	GO-GO	GO_0019058	GO_0005634
+10	GO-CHEBI	GO_0019058	CHEBI_22587
+10	GO-GO	GO_0019058	GO_0046903
+10	GO-CHEBI	GO_0019058	CHEBI_59132
+10	GO-GO	GO_0019058	GO_0019882
+10	GO-CHEBI	GO_0019058	CHEBI_17997
+10	GO-CHEBI	GO_0019058	CHEBI_25555
+10	GO-GO	GO_0019058	GO_0008219
+10	GO-GO	GO_0009986	GO_0009606
+10	GO-DOID	GO_0009986	DOID_934
+10	GO-GO	GO_0009986	GO_0016032
+10	GO-GO	GO_0009986	GO_0016021
+10	GO-CHEBI	GO_0009986	CHEBI_26667
+10	GO-CHEBI	GO_0009986	CHEBI_37527
+10	GO-DOID	GO_0009986	DOID_8469
+10	GO-DOID	GO_0009986	DOID_2237
+10	GO-HP	GO_0009986	HP_0012115
+10	GO-DOID	GO_0009986	DOID_640
+10	GO-CHEBI	GO_0009986	CHEBI_18303
+10	GO-DOID	GO_0009986	DOID_9637
+10	GO-HP	GO_0009986	HP_0010280
+10	GO-HP	GO_0009986	HP_0011010
+10	GO-DOID	GO_0009986	DOID_1040
+10	GO-CHEBI	GO_0009986	CHEBI_16541
+10	GO-CHEBI	GO_0009986	CHEBI_17089
+10	GO-GO	GO_0009986	GO_0006955
+10	GO-CHEBI	GO_0009986	CHEBI_24500
+10	GO-CHEBI	GO_0009986	CHEBI_28815
+10	GO-CHEBI	GO_0009986	CHEBI_16189
+10	GO-CHEBI	GO_0009986	CHEBI_37396
+10	GO-GO	GO_0009986	GO_0005488
+10	GO-DOID	GO_0009986	DOID_526
+10	GO-GO	GO_0009986	GO_0008283
+10	GO-DOID	GO_0009986	DOID_162
+10	GO-HP	GO_0009986	HP_0002664
+10	GO-DOID	GO_0009986	DOID_3602
+10	GO-HP	GO_0009986	HP_0030645
+10	GO-CHEBI	GO_0009986	CHEBI_50906
+10	GO-GO	GO_0009986	GO_0007049
+10	GO-GO	GO_0009986	GO_0023052
+10	GO-GO	GO_0009986	GO_0016020
+10	GO-GO	GO_0009986	GO_0044351
+10	GO-CHEBI	GO_0009986	CHEBI_37684
+10	GO-HP	GO_0009986	HP_0002721
+10	GO-GO	GO_0009986	GO_0009405
+10	GO-DOID	GO_0009986	DOID_4
+10	GO-GO	GO_0009986	GO_0001906
+10	GO-HP	GO_0009986	HP_0003674
+10	GO-GO	GO_0009986	GO_0006897
+10	GO-GO	GO_0009986	GO_0043657
+10	GO-CHEBI	GO_0009986	CHEBI_16670
+10	GO-GO	GO_0009986	GO_0005006
+10	GO-CHEBI	GO_0009986	CHEBI_33252
+10	GO-GO	GO_0009986	GO_0005634
+10	GO-CHEBI	GO_0009986	CHEBI_22587
+10	GO-GO	GO_0009986	GO_0046903
+10	GO-CHEBI	GO_0009986	CHEBI_59132
+10	GO-GO	GO_0009986	GO_0019882
+10	GO-CHEBI	GO_0009986	CHEBI_17997
+10	GO-CHEBI	GO_0009986	CHEBI_25555
+10	GO-GO	GO_0009986	GO_0008219
+10	GO-DOID	GO_0009606	DOID_934
+10	GO-GO	GO_0009606	GO_0016032
+10	GO-GO	GO_0009606	GO_0016021
+10	GO-CHEBI	GO_0009606	CHEBI_26667
+10	GO-CHEBI	GO_0009606	CHEBI_37527
+10	GO-DOID	GO_0009606	DOID_8469
+10	GO-DOID	GO_0009606	DOID_2237
+10	GO-HP	GO_0009606	HP_0012115
+10	GO-DOID	GO_0009606	DOID_640
+10	GO-CHEBI	GO_0009606	CHEBI_18303
+10	GO-DOID	GO_0009606	DOID_9637
+10	GO-HP	GO_0009606	HP_0010280
+10	GO-HP	GO_0009606	HP_0011010
+10	GO-DOID	GO_0009606	DOID_1040
+10	GO-CHEBI	GO_0009606	CHEBI_16541
+10	GO-CHEBI	GO_0009606	CHEBI_17089
+10	GO-GO	GO_0009606	GO_0006955
+10	GO-CHEBI	GO_0009606	CHEBI_24500
+10	GO-CHEBI	GO_0009606	CHEBI_28815
+10	GO-CHEBI	GO_0009606	CHEBI_16189
+10	GO-CHEBI	GO_0009606	CHEBI_37396
+10	GO-GO	GO_0009606	GO_0005488
+10	GO-DOID	GO_0009606	DOID_526
+10	GO-GO	GO_0009606	GO_0008283
+10	GO-DOID	GO_0009606	DOID_162
+10	GO-HP	GO_0009606	HP_0002664
+10	GO-DOID	GO_0009606	DOID_3602
+10	GO-HP	GO_0009606	HP_0030645
+10	GO-CHEBI	GO_0009606	CHEBI_50906
+10	GO-GO	GO_0009606	GO_0007049
+10	GO-GO	GO_0009606	GO_0023052
+10	GO-GO	GO_0009606	GO_0016020
+10	GO-GO	GO_0009606	GO_0044351
+10	GO-CHEBI	GO_0009606	CHEBI_37684
+10	GO-HP	GO_0009606	HP_0002721
+10	GO-GO	GO_0009606	GO_0009405
+10	GO-DOID	GO_0009606	DOID_4
+10	GO-GO	GO_0009606	GO_0001906
+10	GO-HP	GO_0009606	HP_0003674
+10	GO-GO	GO_0009606	GO_0006897
+10	GO-GO	GO_0009606	GO_0043657
+10	GO-CHEBI	GO_0009606	CHEBI_16670
+10	GO-GO	GO_0009606	GO_0005006
+10	GO-CHEBI	GO_0009606	CHEBI_33252
+10	GO-GO	GO_0009606	GO_0005634
+10	GO-CHEBI	GO_0009606	CHEBI_22587
+10	GO-GO	GO_0009606	GO_0046903
+10	GO-CHEBI	GO_0009606	CHEBI_59132
+10	GO-GO	GO_0009606	GO_0019882
+10	GO-CHEBI	GO_0009606	CHEBI_17997
+10	GO-CHEBI	GO_0009606	CHEBI_25555
+10	GO-GO	GO_0009606	GO_0008219
+10	DOID-GO	DOID_934	GO_0016032
+10	DOID-GO	DOID_934	GO_0016021
+10	DOID-CHEBI	DOID_934	CHEBI_26667
+10	DOID-CHEBI	DOID_934	CHEBI_37527
+10	DOID-DOID	DOID_934	DOID_8469
+10	DOID-DOID	DOID_934	DOID_2237
+10	DOID-HP	DOID_934	HP_0012115
+10	DOID-DOID	DOID_934	DOID_640
+10	DOID-CHEBI	DOID_934	CHEBI_18303
+10	DOID-DOID	DOID_934	DOID_9637
+10	DOID-HP	DOID_934	HP_0010280
+10	DOID-HP	DOID_934	HP_0011010
+10	DOID-DOID	DOID_934	DOID_1040
+10	DOID-CHEBI	DOID_934	CHEBI_16541
+10	DOID-CHEBI	DOID_934	CHEBI_17089
+10	DOID-GO	DOID_934	GO_0006955
+10	DOID-CHEBI	DOID_934	CHEBI_24500
+10	DOID-CHEBI	DOID_934	CHEBI_28815
+10	DOID-CHEBI	DOID_934	CHEBI_16189
+10	DOID-CHEBI	DOID_934	CHEBI_37396
+10	DOID-GO	DOID_934	GO_0005488
+10	DOID-DOID	DOID_934	DOID_526
+10	DOID-GO	DOID_934	GO_0008283
+10	DOID-DOID	DOID_934	DOID_162
+10	DOID-HP	DOID_934	HP_0002664
+10	DOID-DOID	DOID_934	DOID_3602
+10	DOID-HP	DOID_934	HP_0030645
+10	DOID-CHEBI	DOID_934	CHEBI_50906
+10	DOID-GO	DOID_934	GO_0007049
+10	DOID-GO	DOID_934	GO_0023052
+10	DOID-GO	DOID_934	GO_0016020
+10	DOID-GO	DOID_934	GO_0044351
+10	DOID-CHEBI	DOID_934	CHEBI_37684
+10	DOID-HP	DOID_934	HP_0002721
+10	DOID-GO	DOID_934	GO_0009405
+10	DOID-DOID	DOID_934	DOID_4
+10	DOID-GO	DOID_934	GO_0001906
+10	DOID-HP	DOID_934	HP_0003674
+10	DOID-GO	DOID_934	GO_0006897
+10	DOID-GO	DOID_934	GO_0043657
+10	DOID-CHEBI	DOID_934	CHEBI_16670
+10	DOID-GO	DOID_934	GO_0005006
+10	DOID-CHEBI	DOID_934	CHEBI_33252
+10	DOID-GO	DOID_934	GO_0005634
+10	DOID-CHEBI	DOID_934	CHEBI_22587
+10	DOID-GO	DOID_934	GO_0046903
+10	DOID-CHEBI	DOID_934	CHEBI_59132
+10	DOID-GO	DOID_934	GO_0019882
+10	DOID-CHEBI	DOID_934	CHEBI_17997
+10	DOID-CHEBI	DOID_934	CHEBI_25555
+10	DOID-GO	DOID_934	GO_0008219
+10	GO-GO	GO_0016032	GO_0016021
+10	GO-CHEBI	GO_0016032	CHEBI_26667
+10	GO-CHEBI	GO_0016032	CHEBI_37527
+10	GO-DOID	GO_0016032	DOID_8469
+10	GO-DOID	GO_0016032	DOID_2237
+10	GO-HP	GO_0016032	HP_0012115
+10	GO-DOID	GO_0016032	DOID_640
+10	GO-CHEBI	GO_0016032	CHEBI_18303
+10	GO-DOID	GO_0016032	DOID_9637
+10	GO-HP	GO_0016032	HP_0010280
+10	GO-HP	GO_0016032	HP_0011010
+10	GO-DOID	GO_0016032	DOID_1040
+10	GO-CHEBI	GO_0016032	CHEBI_16541
+10	GO-CHEBI	GO_0016032	CHEBI_17089
+10	GO-GO	GO_0016032	GO_0006955
+10	GO-CHEBI	GO_0016032	CHEBI_24500
+10	GO-CHEBI	GO_0016032	CHEBI_28815
+10	GO-CHEBI	GO_0016032	CHEBI_16189
+10	GO-CHEBI	GO_0016032	CHEBI_37396
+10	GO-GO	GO_0016032	GO_0005488
+10	GO-DOID	GO_0016032	DOID_526
+10	GO-GO	GO_0016032	GO_0008283
+10	GO-DOID	GO_0016032	DOID_162
+10	GO-HP	GO_0016032	HP_0002664
+10	GO-DOID	GO_0016032	DOID_3602
+10	GO-HP	GO_0016032	HP_0030645
+10	GO-CHEBI	GO_0016032	CHEBI_50906
+10	GO-GO	GO_0016032	GO_0007049
+10	GO-GO	GO_0016032	GO_0023052
+10	GO-GO	GO_0016032	GO_0016020
+10	GO-GO	GO_0016032	GO_0044351
+10	GO-CHEBI	GO_0016032	CHEBI_37684
+10	GO-HP	GO_0016032	HP_0002721
+10	GO-GO	GO_0016032	GO_0009405
+10	GO-DOID	GO_0016032	DOID_4
+10	GO-GO	GO_0016032	GO_0001906
+10	GO-HP	GO_0016032	HP_0003674
+10	GO-GO	GO_0016032	GO_0006897
+10	GO-GO	GO_0016032	GO_0043657
+10	GO-CHEBI	GO_0016032	CHEBI_16670
+10	GO-GO	GO_0016032	GO_0005006
+10	GO-CHEBI	GO_0016032	CHEBI_33252
+10	GO-GO	GO_0016032	GO_0005634
+10	GO-CHEBI	GO_0016032	CHEBI_22587
+10	GO-GO	GO_0016032	GO_0046903
+10	GO-CHEBI	GO_0016032	CHEBI_59132
+10	GO-GO	GO_0016032	GO_0019882
+10	GO-CHEBI	GO_0016032	CHEBI_17997
+10	GO-CHEBI	GO_0016032	CHEBI_25555
+10	GO-GO	GO_0016032	GO_0008219
+10	GO-CHEBI	GO_0016021	CHEBI_26667
+10	GO-CHEBI	GO_0016021	CHEBI_37527
+10	GO-DOID	GO_0016021	DOID_8469
+10	GO-DOID	GO_0016021	DOID_2237
+10	GO-HP	GO_0016021	HP_0012115
+10	GO-DOID	GO_0016021	DOID_640
+10	GO-CHEBI	GO_0016021	CHEBI_18303
+10	GO-DOID	GO_0016021	DOID_9637
+10	GO-HP	GO_0016021	HP_0010280
+10	GO-HP	GO_0016021	HP_0011010
+10	GO-DOID	GO_0016021	DOID_1040
+10	GO-CHEBI	GO_0016021	CHEBI_16541
+10	GO-CHEBI	GO_0016021	CHEBI_17089
+10	GO-GO	GO_0016021	GO_0006955
+10	GO-CHEBI	GO_0016021	CHEBI_24500
+10	GO-CHEBI	GO_0016021	CHEBI_28815
+10	GO-CHEBI	GO_0016021	CHEBI_16189
+10	GO-CHEBI	GO_0016021	CHEBI_37396
+10	GO-GO	GO_0016021	GO_0005488
+10	GO-DOID	GO_0016021	DOID_526
+10	GO-GO	GO_0016021	GO_0008283
+10	GO-DOID	GO_0016021	DOID_162
+10	GO-HP	GO_0016021	HP_0002664
+10	GO-DOID	GO_0016021	DOID_3602
+10	GO-HP	GO_0016021	HP_0030645
+10	GO-CHEBI	GO_0016021	CHEBI_50906
+10	GO-GO	GO_0016021	GO_0007049
+10	GO-GO	GO_0016021	GO_0023052
+10	GO-GO	GO_0016021	GO_0016020
+10	GO-GO	GO_0016021	GO_0044351
+10	GO-CHEBI	GO_0016021	CHEBI_37684
+10	GO-HP	GO_0016021	HP_0002721
+10	GO-GO	GO_0016021	GO_0009405
+10	GO-DOID	GO_0016021	DOID_4
+10	GO-GO	GO_0016021	GO_0001906
+10	GO-HP	GO_0016021	HP_0003674
+10	GO-GO	GO_0016021	GO_0006897
+10	GO-GO	GO_0016021	GO_0043657
+10	GO-CHEBI	GO_0016021	CHEBI_16670
+10	GO-GO	GO_0016021	GO_0005006
+10	GO-CHEBI	GO_0016021	CHEBI_33252
+10	GO-GO	GO_0016021	GO_0005634
+10	GO-CHEBI	GO_0016021	CHEBI_22587
+10	GO-GO	GO_0016021	GO_0046903
+10	GO-CHEBI	GO_0016021	CHEBI_59132
+10	GO-GO	GO_0016021	GO_0019882
+10	GO-CHEBI	GO_0016021	CHEBI_17997
+10	GO-CHEBI	GO_0016021	CHEBI_25555
+10	GO-GO	GO_0016021	GO_0008219
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_37527
+10	CHEBI-DOID	CHEBI_26667	DOID_8469
+10	CHEBI-DOID	CHEBI_26667	DOID_2237
+10	CHEBI-HP	CHEBI_26667	HP_0012115
+10	CHEBI-DOID	CHEBI_26667	DOID_640
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_18303
+10	CHEBI-DOID	CHEBI_26667	DOID_9637
+10	CHEBI-HP	CHEBI_26667	HP_0010280
+10	CHEBI-HP	CHEBI_26667	HP_0011010
+10	CHEBI-DOID	CHEBI_26667	DOID_1040
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_16541
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_17089
+10	CHEBI-GO	CHEBI_26667	GO_0006955
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_37396
+10	CHEBI-GO	CHEBI_26667	GO_0005488
+10	CHEBI-DOID	CHEBI_26667	DOID_526
+10	CHEBI-GO	CHEBI_26667	GO_0008283
+10	CHEBI-DOID	CHEBI_26667	DOID_162
+10	CHEBI-HP	CHEBI_26667	HP_0002664
+10	CHEBI-DOID	CHEBI_26667	DOID_3602
+10	CHEBI-HP	CHEBI_26667	HP_0030645
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_50906
+10	CHEBI-GO	CHEBI_26667	GO_0007049
+10	CHEBI-GO	CHEBI_26667	GO_0023052
+10	CHEBI-GO	CHEBI_26667	GO_0016020
+10	CHEBI-GO	CHEBI_26667	GO_0044351
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_37684
+10	CHEBI-HP	CHEBI_26667	HP_0002721
+10	CHEBI-GO	CHEBI_26667	GO_0009405
+10	CHEBI-DOID	CHEBI_26667	DOID_4
+10	CHEBI-GO	CHEBI_26667	GO_0001906
+10	CHEBI-HP	CHEBI_26667	HP_0003674
+10	CHEBI-GO	CHEBI_26667	GO_0006897
+10	CHEBI-GO	CHEBI_26667	GO_0043657
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_16670
+10	CHEBI-GO	CHEBI_26667	GO_0005006
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_33252
+10	CHEBI-GO	CHEBI_26667	GO_0005634
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_22587
+10	CHEBI-GO	CHEBI_26667	GO_0046903
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_59132
+10	CHEBI-GO	CHEBI_26667	GO_0019882
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_26667	CHEBI_25555
+10	CHEBI-GO	CHEBI_26667	GO_0008219
+10	CHEBI-DOID	CHEBI_37527	DOID_8469
+10	CHEBI-DOID	CHEBI_37527	DOID_2237
+10	CHEBI-HP	CHEBI_37527	HP_0012115
+10	CHEBI-DOID	CHEBI_37527	DOID_640
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_18303
+10	CHEBI-DOID	CHEBI_37527	DOID_9637
+10	CHEBI-HP	CHEBI_37527	HP_0010280
+10	CHEBI-HP	CHEBI_37527	HP_0011010
+10	CHEBI-DOID	CHEBI_37527	DOID_1040
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_17089
+10	CHEBI-GO	CHEBI_37527	GO_0006955
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_37396
+10	CHEBI-GO	CHEBI_37527	GO_0005488
+10	CHEBI-DOID	CHEBI_37527	DOID_526
+10	CHEBI-GO	CHEBI_37527	GO_0008283
+10	CHEBI-DOID	CHEBI_37527	DOID_162
+10	CHEBI-HP	CHEBI_37527	HP_0002664
+10	CHEBI-DOID	CHEBI_37527	DOID_3602
+10	CHEBI-HP	CHEBI_37527	HP_0030645
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_50906
+10	CHEBI-GO	CHEBI_37527	GO_0007049
+10	CHEBI-GO	CHEBI_37527	GO_0023052
+10	CHEBI-GO	CHEBI_37527	GO_0016020
+10	CHEBI-GO	CHEBI_37527	GO_0044351
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_37684
+10	CHEBI-HP	CHEBI_37527	HP_0002721
+10	CHEBI-GO	CHEBI_37527	GO_0009405
+10	CHEBI-DOID	CHEBI_37527	DOID_4
+10	CHEBI-GO	CHEBI_37527	GO_0001906
+10	CHEBI-HP	CHEBI_37527	HP_0003674
+10	CHEBI-GO	CHEBI_37527	GO_0006897
+10	CHEBI-GO	CHEBI_37527	GO_0043657
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_16670
+10	CHEBI-GO	CHEBI_37527	GO_0005006
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_33252
+10	CHEBI-GO	CHEBI_37527	GO_0005634
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_22587
+10	CHEBI-GO	CHEBI_37527	GO_0046903
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_59132
+10	CHEBI-GO	CHEBI_37527	GO_0019882
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_37527	CHEBI_25555
+10	CHEBI-GO	CHEBI_37527	GO_0008219
+10	DOID-DOID	DOID_8469	DOID_2237
+10	DOID-HP	DOID_8469	HP_0012115
+10	DOID-DOID	DOID_8469	DOID_640
+10	DOID-CHEBI	DOID_8469	CHEBI_18303
+10	DOID-DOID	DOID_8469	DOID_9637
+10	DOID-HP	DOID_8469	HP_0010280
+10	DOID-HP	DOID_8469	HP_0011010
+10	DOID-DOID	DOID_8469	DOID_1040
+10	DOID-CHEBI	DOID_8469	CHEBI_16541
+10	DOID-CHEBI	DOID_8469	CHEBI_17089
+10	DOID-GO	DOID_8469	GO_0006955
+10	DOID-CHEBI	DOID_8469	CHEBI_24500
+10	DOID-CHEBI	DOID_8469	CHEBI_28815
+10	DOID-CHEBI	DOID_8469	CHEBI_16189
+10	DOID-CHEBI	DOID_8469	CHEBI_37396
+10	DOID-GO	DOID_8469	GO_0005488
+10	DOID-DOID	DOID_8469	DOID_526
+10	DOID-GO	DOID_8469	GO_0008283
+10	DOID-DOID	DOID_8469	DOID_162
+10	DOID-HP	DOID_8469	HP_0002664
+10	DOID-DOID	DOID_8469	DOID_3602
+10	DOID-HP	DOID_8469	HP_0030645
+10	DOID-CHEBI	DOID_8469	CHEBI_50906
+10	DOID-GO	DOID_8469	GO_0007049
+10	DOID-GO	DOID_8469	GO_0023052
+10	DOID-GO	DOID_8469	GO_0016020
+10	DOID-GO	DOID_8469	GO_0044351
+10	DOID-CHEBI	DOID_8469	CHEBI_37684
+10	DOID-HP	DOID_8469	HP_0002721
+10	DOID-GO	DOID_8469	GO_0009405
+10	DOID-DOID	DOID_8469	DOID_4
+10	DOID-GO	DOID_8469	GO_0001906
+10	DOID-HP	DOID_8469	HP_0003674
+10	DOID-GO	DOID_8469	GO_0006897
+10	DOID-GO	DOID_8469	GO_0043657
+10	DOID-CHEBI	DOID_8469	CHEBI_16670
+10	DOID-GO	DOID_8469	GO_0005006
+10	DOID-CHEBI	DOID_8469	CHEBI_33252
+10	DOID-GO	DOID_8469	GO_0005634
+10	DOID-CHEBI	DOID_8469	CHEBI_22587
+10	DOID-GO	DOID_8469	GO_0046903
+10	DOID-CHEBI	DOID_8469	CHEBI_59132
+10	DOID-GO	DOID_8469	GO_0019882
+10	DOID-CHEBI	DOID_8469	CHEBI_17997
+10	DOID-CHEBI	DOID_8469	CHEBI_25555
+10	DOID-GO	DOID_8469	GO_0008219
+10	DOID-HP	DOID_2237	HP_0012115
+10	DOID-DOID	DOID_2237	DOID_640
+10	DOID-CHEBI	DOID_2237	CHEBI_18303
+10	DOID-DOID	DOID_2237	DOID_9637
+10	DOID-HP	DOID_2237	HP_0010280
+10	DOID-HP	DOID_2237	HP_0011010
+10	DOID-DOID	DOID_2237	DOID_1040
+10	DOID-CHEBI	DOID_2237	CHEBI_16541
+10	DOID-CHEBI	DOID_2237	CHEBI_17089
+10	DOID-GO	DOID_2237	GO_0006955
+10	DOID-CHEBI	DOID_2237	CHEBI_24500
+10	DOID-CHEBI	DOID_2237	CHEBI_28815
+10	DOID-CHEBI	DOID_2237	CHEBI_16189
+10	DOID-CHEBI	DOID_2237	CHEBI_37396
+10	DOID-GO	DOID_2237	GO_0005488
+10	DOID-DOID	DOID_2237	DOID_526
+10	DOID-GO	DOID_2237	GO_0008283
+10	DOID-DOID	DOID_2237	DOID_162
+10	DOID-HP	DOID_2237	HP_0002664
+10	DOID-DOID	DOID_2237	DOID_3602
+10	DOID-HP	DOID_2237	HP_0030645
+10	DOID-CHEBI	DOID_2237	CHEBI_50906
+10	DOID-GO	DOID_2237	GO_0007049
+10	DOID-GO	DOID_2237	GO_0023052
+10	DOID-GO	DOID_2237	GO_0016020
+10	DOID-GO	DOID_2237	GO_0044351
+10	DOID-CHEBI	DOID_2237	CHEBI_37684
+10	DOID-HP	DOID_2237	HP_0002721
+10	DOID-GO	DOID_2237	GO_0009405
+10	DOID-DOID	DOID_2237	DOID_4
+10	DOID-GO	DOID_2237	GO_0001906
+10	DOID-HP	DOID_2237	HP_0003674
+10	DOID-GO	DOID_2237	GO_0006897
+10	DOID-GO	DOID_2237	GO_0043657
+10	DOID-CHEBI	DOID_2237	CHEBI_16670
+10	DOID-GO	DOID_2237	GO_0005006
+10	DOID-CHEBI	DOID_2237	CHEBI_33252
+10	DOID-GO	DOID_2237	GO_0005634
+10	DOID-CHEBI	DOID_2237	CHEBI_22587
+10	DOID-GO	DOID_2237	GO_0046903
+10	DOID-CHEBI	DOID_2237	CHEBI_59132
+10	DOID-GO	DOID_2237	GO_0019882
+10	DOID-CHEBI	DOID_2237	CHEBI_17997
+10	DOID-CHEBI	DOID_2237	CHEBI_25555
+10	DOID-GO	DOID_2237	GO_0008219
+10	HP-DOID	HP_0012115	DOID_640
+10	HP-CHEBI	HP_0012115	CHEBI_18303
+10	HP-DOID	HP_0012115	DOID_9637
+10	HP-HP	HP_0012115	HP_0010280
+10	HP-HP	HP_0012115	HP_0011010
+10	HP-DOID	HP_0012115	DOID_1040
+10	HP-CHEBI	HP_0012115	CHEBI_16541
+10	HP-CHEBI	HP_0012115	CHEBI_17089
+10	HP-GO	HP_0012115	GO_0006955
+10	HP-CHEBI	HP_0012115	CHEBI_24500
+10	HP-CHEBI	HP_0012115	CHEBI_28815
+10	HP-CHEBI	HP_0012115	CHEBI_16189
+10	HP-CHEBI	HP_0012115	CHEBI_37396
+10	HP-GO	HP_0012115	GO_0005488
+10	HP-DOID	HP_0012115	DOID_526
+10	HP-GO	HP_0012115	GO_0008283
+10	HP-DOID	HP_0012115	DOID_162
+10	HP-HP	HP_0012115	HP_0002664
+10	HP-DOID	HP_0012115	DOID_3602
+10	HP-HP	HP_0012115	HP_0030645
+10	HP-CHEBI	HP_0012115	CHEBI_50906
+10	HP-GO	HP_0012115	GO_0007049
+10	HP-GO	HP_0012115	GO_0023052
+10	HP-GO	HP_0012115	GO_0016020
+10	HP-GO	HP_0012115	GO_0044351
+10	HP-CHEBI	HP_0012115	CHEBI_37684
+10	HP-HP	HP_0012115	HP_0002721
+10	HP-GO	HP_0012115	GO_0009405
+10	HP-DOID	HP_0012115	DOID_4
+10	HP-GO	HP_0012115	GO_0001906
+10	HP-HP	HP_0012115	HP_0003674
+10	HP-GO	HP_0012115	GO_0006897
+10	HP-GO	HP_0012115	GO_0043657
+10	HP-CHEBI	HP_0012115	CHEBI_16670
+10	HP-GO	HP_0012115	GO_0005006
+10	HP-CHEBI	HP_0012115	CHEBI_33252
+10	HP-GO	HP_0012115	GO_0005634
+10	HP-CHEBI	HP_0012115	CHEBI_22587
+10	HP-GO	HP_0012115	GO_0046903
+10	HP-CHEBI	HP_0012115	CHEBI_59132
+10	HP-GO	HP_0012115	GO_0019882
+10	HP-CHEBI	HP_0012115	CHEBI_17997
+10	HP-CHEBI	HP_0012115	CHEBI_25555
+10	HP-GO	HP_0012115	GO_0008219
+10	DOID-CHEBI	DOID_640	CHEBI_18303
+10	DOID-DOID	DOID_640	DOID_9637
+10	DOID-HP	DOID_640	HP_0010280
+10	DOID-HP	DOID_640	HP_0011010
+10	DOID-DOID	DOID_640	DOID_1040
+10	DOID-CHEBI	DOID_640	CHEBI_16541
+10	DOID-CHEBI	DOID_640	CHEBI_17089
+10	DOID-GO	DOID_640	GO_0006955
+10	DOID-CHEBI	DOID_640	CHEBI_24500
+10	DOID-CHEBI	DOID_640	CHEBI_28815
+10	DOID-CHEBI	DOID_640	CHEBI_16189
+10	DOID-CHEBI	DOID_640	CHEBI_37396
+10	DOID-GO	DOID_640	GO_0005488
+10	DOID-DOID	DOID_640	DOID_526
+10	DOID-GO	DOID_640	GO_0008283
+10	DOID-DOID	DOID_640	DOID_162
+10	DOID-HP	DOID_640	HP_0002664
+10	DOID-DOID	DOID_640	DOID_3602
+10	DOID-HP	DOID_640	HP_0030645
+10	DOID-CHEBI	DOID_640	CHEBI_50906
+10	DOID-GO	DOID_640	GO_0007049
+10	DOID-GO	DOID_640	GO_0023052
+10	DOID-GO	DOID_640	GO_0016020
+10	DOID-GO	DOID_640	GO_0044351
+10	DOID-CHEBI	DOID_640	CHEBI_37684
+10	DOID-HP	DOID_640	HP_0002721
+10	DOID-GO	DOID_640	GO_0009405
+10	DOID-DOID	DOID_640	DOID_4
+10	DOID-GO	DOID_640	GO_0001906
+10	DOID-HP	DOID_640	HP_0003674
+10	DOID-GO	DOID_640	GO_0006897
+10	DOID-GO	DOID_640	GO_0043657
+10	DOID-CHEBI	DOID_640	CHEBI_16670
+10	DOID-GO	DOID_640	GO_0005006
+10	DOID-CHEBI	DOID_640	CHEBI_33252
+10	DOID-GO	DOID_640	GO_0005634
+10	DOID-CHEBI	DOID_640	CHEBI_22587
+10	DOID-GO	DOID_640	GO_0046903
+10	DOID-CHEBI	DOID_640	CHEBI_59132
+10	DOID-GO	DOID_640	GO_0019882
+10	DOID-CHEBI	DOID_640	CHEBI_17997
+10	DOID-CHEBI	DOID_640	CHEBI_25555
+10	DOID-GO	DOID_640	GO_0008219
+10	CHEBI-DOID	CHEBI_18303	DOID_9637
+10	CHEBI-HP	CHEBI_18303	HP_0010280
+10	CHEBI-HP	CHEBI_18303	HP_0011010
+10	CHEBI-DOID	CHEBI_18303	DOID_1040
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_16541
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_17089
+10	CHEBI-GO	CHEBI_18303	GO_0006955
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_37396
+10	CHEBI-GO	CHEBI_18303	GO_0005488
+10	CHEBI-DOID	CHEBI_18303	DOID_526
+10	CHEBI-GO	CHEBI_18303	GO_0008283
+10	CHEBI-DOID	CHEBI_18303	DOID_162
+10	CHEBI-HP	CHEBI_18303	HP_0002664
+10	CHEBI-DOID	CHEBI_18303	DOID_3602
+10	CHEBI-HP	CHEBI_18303	HP_0030645
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_50906
+10	CHEBI-GO	CHEBI_18303	GO_0007049
+10	CHEBI-GO	CHEBI_18303	GO_0023052
+10	CHEBI-GO	CHEBI_18303	GO_0016020
+10	CHEBI-GO	CHEBI_18303	GO_0044351
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_37684
+10	CHEBI-HP	CHEBI_18303	HP_0002721
+10	CHEBI-GO	CHEBI_18303	GO_0009405
+10	CHEBI-DOID	CHEBI_18303	DOID_4
+10	CHEBI-GO	CHEBI_18303	GO_0001906
+10	CHEBI-HP	CHEBI_18303	HP_0003674
+10	CHEBI-GO	CHEBI_18303	GO_0006897
+10	CHEBI-GO	CHEBI_18303	GO_0043657
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_16670
+10	CHEBI-GO	CHEBI_18303	GO_0005006
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_33252
+10	CHEBI-GO	CHEBI_18303	GO_0005634
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_22587
+10	CHEBI-GO	CHEBI_18303	GO_0046903
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_59132
+10	CHEBI-GO	CHEBI_18303	GO_0019882
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_18303	CHEBI_25555
+10	CHEBI-GO	CHEBI_18303	GO_0008219
+10	DOID-HP	DOID_9637	HP_0010280
+10	DOID-HP	DOID_9637	HP_0011010
+10	DOID-DOID	DOID_9637	DOID_1040
+10	DOID-CHEBI	DOID_9637	CHEBI_16541
+10	DOID-CHEBI	DOID_9637	CHEBI_17089
+10	DOID-GO	DOID_9637	GO_0006955
+10	DOID-CHEBI	DOID_9637	CHEBI_24500
+10	DOID-CHEBI	DOID_9637	CHEBI_28815
+10	DOID-CHEBI	DOID_9637	CHEBI_16189
+10	DOID-CHEBI	DOID_9637	CHEBI_37396
+10	DOID-GO	DOID_9637	GO_0005488
+10	DOID-DOID	DOID_9637	DOID_526
+10	DOID-GO	DOID_9637	GO_0008283
+10	DOID-DOID	DOID_9637	DOID_162
+10	DOID-HP	DOID_9637	HP_0002664
+10	DOID-DOID	DOID_9637	DOID_3602
+10	DOID-HP	DOID_9637	HP_0030645
+10	DOID-CHEBI	DOID_9637	CHEBI_50906
+10	DOID-GO	DOID_9637	GO_0007049
+10	DOID-GO	DOID_9637	GO_0023052
+10	DOID-GO	DOID_9637	GO_0016020
+10	DOID-GO	DOID_9637	GO_0044351
+10	DOID-CHEBI	DOID_9637	CHEBI_37684
+10	DOID-HP	DOID_9637	HP_0002721
+10	DOID-GO	DOID_9637	GO_0009405
+10	DOID-DOID	DOID_9637	DOID_4
+10	DOID-GO	DOID_9637	GO_0001906
+10	DOID-HP	DOID_9637	HP_0003674
+10	DOID-GO	DOID_9637	GO_0006897
+10	DOID-GO	DOID_9637	GO_0043657
+10	DOID-CHEBI	DOID_9637	CHEBI_16670
+10	DOID-GO	DOID_9637	GO_0005006
+10	DOID-CHEBI	DOID_9637	CHEBI_33252
+10	DOID-GO	DOID_9637	GO_0005634
+10	DOID-CHEBI	DOID_9637	CHEBI_22587
+10	DOID-GO	DOID_9637	GO_0046903
+10	DOID-CHEBI	DOID_9637	CHEBI_59132
+10	DOID-GO	DOID_9637	GO_0019882
+10	DOID-CHEBI	DOID_9637	CHEBI_17997
+10	DOID-CHEBI	DOID_9637	CHEBI_25555
+10	DOID-GO	DOID_9637	GO_0008219
+10	HP-HP	HP_0010280	HP_0011010
+10	HP-DOID	HP_0010280	DOID_1040
+10	HP-CHEBI	HP_0010280	CHEBI_16541
+10	HP-CHEBI	HP_0010280	CHEBI_17089
+10	HP-GO	HP_0010280	GO_0006955
+10	HP-CHEBI	HP_0010280	CHEBI_24500
+10	HP-CHEBI	HP_0010280	CHEBI_28815
+10	HP-CHEBI	HP_0010280	CHEBI_16189
+10	HP-CHEBI	HP_0010280	CHEBI_37396
+10	HP-GO	HP_0010280	GO_0005488
+10	HP-DOID	HP_0010280	DOID_526
+10	HP-GO	HP_0010280	GO_0008283
+10	HP-DOID	HP_0010280	DOID_162
+10	HP-HP	HP_0010280	HP_0002664
+10	HP-DOID	HP_0010280	DOID_3602
+10	HP-HP	HP_0010280	HP_0030645
+10	HP-CHEBI	HP_0010280	CHEBI_50906
+10	HP-GO	HP_0010280	GO_0007049
+10	HP-GO	HP_0010280	GO_0023052
+10	HP-GO	HP_0010280	GO_0016020
+10	HP-GO	HP_0010280	GO_0044351
+10	HP-CHEBI	HP_0010280	CHEBI_37684
+10	HP-HP	HP_0010280	HP_0002721
+10	HP-GO	HP_0010280	GO_0009405
+10	HP-DOID	HP_0010280	DOID_4
+10	HP-GO	HP_0010280	GO_0001906
+10	HP-HP	HP_0010280	HP_0003674
+10	HP-GO	HP_0010280	GO_0006897
+10	HP-GO	HP_0010280	GO_0043657
+10	HP-CHEBI	HP_0010280	CHEBI_16670
+10	HP-GO	HP_0010280	GO_0005006
+10	HP-CHEBI	HP_0010280	CHEBI_33252
+10	HP-GO	HP_0010280	GO_0005634
+10	HP-CHEBI	HP_0010280	CHEBI_22587
+10	HP-GO	HP_0010280	GO_0046903
+10	HP-CHEBI	HP_0010280	CHEBI_59132
+10	HP-GO	HP_0010280	GO_0019882
+10	HP-CHEBI	HP_0010280	CHEBI_17997
+10	HP-CHEBI	HP_0010280	CHEBI_25555
+10	HP-GO	HP_0010280	GO_0008219
+10	HP-DOID	HP_0011010	DOID_1040
+10	HP-CHEBI	HP_0011010	CHEBI_16541
+10	HP-CHEBI	HP_0011010	CHEBI_17089
+10	HP-GO	HP_0011010	GO_0006955
+10	HP-CHEBI	HP_0011010	CHEBI_24500
+10	HP-CHEBI	HP_0011010	CHEBI_28815
+10	HP-CHEBI	HP_0011010	CHEBI_16189
+10	HP-CHEBI	HP_0011010	CHEBI_37396
+10	HP-GO	HP_0011010	GO_0005488
+10	HP-DOID	HP_0011010	DOID_526
+10	HP-GO	HP_0011010	GO_0008283
+10	HP-DOID	HP_0011010	DOID_162
+10	HP-HP	HP_0011010	HP_0002664
+10	HP-DOID	HP_0011010	DOID_3602
+10	HP-HP	HP_0011010	HP_0030645
+10	HP-CHEBI	HP_0011010	CHEBI_50906
+10	HP-GO	HP_0011010	GO_0007049
+10	HP-GO	HP_0011010	GO_0023052
+10	HP-GO	HP_0011010	GO_0016020
+10	HP-GO	HP_0011010	GO_0044351
+10	HP-CHEBI	HP_0011010	CHEBI_37684
+10	HP-HP	HP_0011010	HP_0002721
+10	HP-GO	HP_0011010	GO_0009405
+10	HP-DOID	HP_0011010	DOID_4
+10	HP-GO	HP_0011010	GO_0001906
+10	HP-HP	HP_0011010	HP_0003674
+10	HP-GO	HP_0011010	GO_0006897
+10	HP-GO	HP_0011010	GO_0043657
+10	HP-CHEBI	HP_0011010	CHEBI_16670
+10	HP-GO	HP_0011010	GO_0005006
+10	HP-CHEBI	HP_0011010	CHEBI_33252
+10	HP-GO	HP_0011010	GO_0005634
+10	HP-CHEBI	HP_0011010	CHEBI_22587
+10	HP-GO	HP_0011010	GO_0046903
+10	HP-CHEBI	HP_0011010	CHEBI_59132
+10	HP-GO	HP_0011010	GO_0019882
+10	HP-CHEBI	HP_0011010	CHEBI_17997
+10	HP-CHEBI	HP_0011010	CHEBI_25555
+10	HP-GO	HP_0011010	GO_0008219
+10	DOID-CHEBI	DOID_1040	CHEBI_16541
+10	DOID-CHEBI	DOID_1040	CHEBI_17089
+10	DOID-GO	DOID_1040	GO_0006955
+10	DOID-CHEBI	DOID_1040	CHEBI_24500
+10	DOID-CHEBI	DOID_1040	CHEBI_28815
+10	DOID-CHEBI	DOID_1040	CHEBI_16189
+10	DOID-CHEBI	DOID_1040	CHEBI_37396
+10	DOID-GO	DOID_1040	GO_0005488
+10	DOID-DOID	DOID_1040	DOID_526
+10	DOID-GO	DOID_1040	GO_0008283
+10	DOID-DOID	DOID_1040	DOID_162
+10	DOID-HP	DOID_1040	HP_0002664
+10	DOID-DOID	DOID_1040	DOID_3602
+10	DOID-HP	DOID_1040	HP_0030645
+10	DOID-CHEBI	DOID_1040	CHEBI_50906
+10	DOID-GO	DOID_1040	GO_0007049
+10	DOID-GO	DOID_1040	GO_0023052
+10	DOID-GO	DOID_1040	GO_0016020
+10	DOID-GO	DOID_1040	GO_0044351
+10	DOID-CHEBI	DOID_1040	CHEBI_37684
+10	DOID-HP	DOID_1040	HP_0002721
+10	DOID-GO	DOID_1040	GO_0009405
+10	DOID-DOID	DOID_1040	DOID_4
+10	DOID-GO	DOID_1040	GO_0001906
+10	DOID-HP	DOID_1040	HP_0003674
+10	DOID-GO	DOID_1040	GO_0006897
+10	DOID-GO	DOID_1040	GO_0043657
+10	DOID-CHEBI	DOID_1040	CHEBI_16670
+10	DOID-GO	DOID_1040	GO_0005006
+10	DOID-CHEBI	DOID_1040	CHEBI_33252
+10	DOID-GO	DOID_1040	GO_0005634
+10	DOID-CHEBI	DOID_1040	CHEBI_22587
+10	DOID-GO	DOID_1040	GO_0046903
+10	DOID-CHEBI	DOID_1040	CHEBI_59132
+10	DOID-GO	DOID_1040	GO_0019882
+10	DOID-CHEBI	DOID_1040	CHEBI_17997
+10	DOID-CHEBI	DOID_1040	CHEBI_25555
+10	DOID-GO	DOID_1040	GO_0008219
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_17089
+10	CHEBI-GO	CHEBI_16541	GO_0006955
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_37396
+10	CHEBI-GO	CHEBI_16541	GO_0005488
+10	CHEBI-DOID	CHEBI_16541	DOID_526
+10	CHEBI-GO	CHEBI_16541	GO_0008283
+10	CHEBI-DOID	CHEBI_16541	DOID_162
+10	CHEBI-HP	CHEBI_16541	HP_0002664
+10	CHEBI-DOID	CHEBI_16541	DOID_3602
+10	CHEBI-HP	CHEBI_16541	HP_0030645
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+10	CHEBI-GO	CHEBI_16541	GO_0007049
+10	CHEBI-GO	CHEBI_16541	GO_0023052
+10	CHEBI-GO	CHEBI_16541	GO_0016020
+10	CHEBI-GO	CHEBI_16541	GO_0044351
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_37684
+10	CHEBI-HP	CHEBI_16541	HP_0002721
+10	CHEBI-GO	CHEBI_16541	GO_0009405
+10	CHEBI-DOID	CHEBI_16541	DOID_4
+10	CHEBI-GO	CHEBI_16541	GO_0001906
+10	CHEBI-HP	CHEBI_16541	HP_0003674
+10	CHEBI-GO	CHEBI_16541	GO_0006897
+10	CHEBI-GO	CHEBI_16541	GO_0043657
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_16670
+10	CHEBI-GO	CHEBI_16541	GO_0005006
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_33252
+10	CHEBI-GO	CHEBI_16541	GO_0005634
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+10	CHEBI-GO	CHEBI_16541	GO_0046903
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_59132
+10	CHEBI-GO	CHEBI_16541	GO_0019882
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_16541	CHEBI_25555
+10	CHEBI-GO	CHEBI_16541	GO_0008219
+10	CHEBI-GO	CHEBI_17089	GO_0006955
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_24500
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_37396
+10	CHEBI-GO	CHEBI_17089	GO_0005488
+10	CHEBI-DOID	CHEBI_17089	DOID_526
+10	CHEBI-GO	CHEBI_17089	GO_0008283
+10	CHEBI-DOID	CHEBI_17089	DOID_162
+10	CHEBI-HP	CHEBI_17089	HP_0002664
+10	CHEBI-DOID	CHEBI_17089	DOID_3602
+10	CHEBI-HP	CHEBI_17089	HP_0030645
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_50906
+10	CHEBI-GO	CHEBI_17089	GO_0007049
+10	CHEBI-GO	CHEBI_17089	GO_0023052
+10	CHEBI-GO	CHEBI_17089	GO_0016020
+10	CHEBI-GO	CHEBI_17089	GO_0044351
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_37684
+10	CHEBI-HP	CHEBI_17089	HP_0002721
+10	CHEBI-GO	CHEBI_17089	GO_0009405
+10	CHEBI-DOID	CHEBI_17089	DOID_4
+10	CHEBI-GO	CHEBI_17089	GO_0001906
+10	CHEBI-HP	CHEBI_17089	HP_0003674
+10	CHEBI-GO	CHEBI_17089	GO_0006897
+10	CHEBI-GO	CHEBI_17089	GO_0043657
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_16670
+10	CHEBI-GO	CHEBI_17089	GO_0005006
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_33252
+10	CHEBI-GO	CHEBI_17089	GO_0005634
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_22587
+10	CHEBI-GO	CHEBI_17089	GO_0046903
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_59132
+10	CHEBI-GO	CHEBI_17089	GO_0019882
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_17089	CHEBI_25555
+10	CHEBI-GO	CHEBI_17089	GO_0008219
+10	GO-CHEBI	GO_0006955	CHEBI_24500
+10	GO-CHEBI	GO_0006955	CHEBI_28815
+10	GO-CHEBI	GO_0006955	CHEBI_16189
+10	GO-CHEBI	GO_0006955	CHEBI_37396
+10	GO-GO	GO_0006955	GO_0005488
+10	GO-DOID	GO_0006955	DOID_526
+10	GO-GO	GO_0006955	GO_0008283
+10	GO-DOID	GO_0006955	DOID_162
+10	GO-HP	GO_0006955	HP_0002664
+10	GO-DOID	GO_0006955	DOID_3602
+10	GO-HP	GO_0006955	HP_0030645
+10	GO-CHEBI	GO_0006955	CHEBI_50906
+10	GO-GO	GO_0006955	GO_0007049
+10	GO-GO	GO_0006955	GO_0023052
+10	GO-GO	GO_0006955	GO_0016020
+10	GO-GO	GO_0006955	GO_0044351
+10	GO-CHEBI	GO_0006955	CHEBI_37684
+10	GO-HP	GO_0006955	HP_0002721
+10	GO-GO	GO_0006955	GO_0009405
+10	GO-DOID	GO_0006955	DOID_4
+10	GO-GO	GO_0006955	GO_0001906
+10	GO-HP	GO_0006955	HP_0003674
+10	GO-GO	GO_0006955	GO_0006897
+10	GO-GO	GO_0006955	GO_0043657
+10	GO-CHEBI	GO_0006955	CHEBI_16670
+10	GO-GO	GO_0006955	GO_0005006
+10	GO-CHEBI	GO_0006955	CHEBI_33252
+10	GO-GO	GO_0006955	GO_0005634
+10	GO-CHEBI	GO_0006955	CHEBI_22587
+10	GO-GO	GO_0006955	GO_0046903
+10	GO-CHEBI	GO_0006955	CHEBI_59132
+10	GO-GO	GO_0006955	GO_0019882
+10	GO-CHEBI	GO_0006955	CHEBI_17997
+10	GO-CHEBI	GO_0006955	CHEBI_25555
+10	GO-GO	GO_0006955	GO_0008219
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_28815
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_37396
+10	CHEBI-GO	CHEBI_24500	GO_0005488
+10	CHEBI-DOID	CHEBI_24500	DOID_526
+10	CHEBI-GO	CHEBI_24500	GO_0008283
+10	CHEBI-DOID	CHEBI_24500	DOID_162
+10	CHEBI-HP	CHEBI_24500	HP_0002664
+10	CHEBI-DOID	CHEBI_24500	DOID_3602
+10	CHEBI-HP	CHEBI_24500	HP_0030645
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_50906
+10	CHEBI-GO	CHEBI_24500	GO_0007049
+10	CHEBI-GO	CHEBI_24500	GO_0023052
+10	CHEBI-GO	CHEBI_24500	GO_0016020
+10	CHEBI-GO	CHEBI_24500	GO_0044351
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_37684
+10	CHEBI-HP	CHEBI_24500	HP_0002721
+10	CHEBI-GO	CHEBI_24500	GO_0009405
+10	CHEBI-DOID	CHEBI_24500	DOID_4
+10	CHEBI-GO	CHEBI_24500	GO_0001906
+10	CHEBI-HP	CHEBI_24500	HP_0003674
+10	CHEBI-GO	CHEBI_24500	GO_0006897
+10	CHEBI-GO	CHEBI_24500	GO_0043657
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_16670
+10	CHEBI-GO	CHEBI_24500	GO_0005006
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_33252
+10	CHEBI-GO	CHEBI_24500	GO_0005634
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_22587
+10	CHEBI-GO	CHEBI_24500	GO_0046903
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_59132
+10	CHEBI-GO	CHEBI_24500	GO_0019882
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_24500	CHEBI_25555
+10	CHEBI-GO	CHEBI_24500	GO_0008219
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_16189
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_37396
+10	CHEBI-GO	CHEBI_28815	GO_0005488
+10	CHEBI-DOID	CHEBI_28815	DOID_526
+10	CHEBI-GO	CHEBI_28815	GO_0008283
+10	CHEBI-DOID	CHEBI_28815	DOID_162
+10	CHEBI-HP	CHEBI_28815	HP_0002664
+10	CHEBI-DOID	CHEBI_28815	DOID_3602
+10	CHEBI-HP	CHEBI_28815	HP_0030645
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_50906
+10	CHEBI-GO	CHEBI_28815	GO_0007049
+10	CHEBI-GO	CHEBI_28815	GO_0023052
+10	CHEBI-GO	CHEBI_28815	GO_0016020
+10	CHEBI-GO	CHEBI_28815	GO_0044351
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_37684
+10	CHEBI-HP	CHEBI_28815	HP_0002721
+10	CHEBI-GO	CHEBI_28815	GO_0009405
+10	CHEBI-DOID	CHEBI_28815	DOID_4
+10	CHEBI-GO	CHEBI_28815	GO_0001906
+10	CHEBI-HP	CHEBI_28815	HP_0003674
+10	CHEBI-GO	CHEBI_28815	GO_0006897
+10	CHEBI-GO	CHEBI_28815	GO_0043657
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_16670
+10	CHEBI-GO	CHEBI_28815	GO_0005006
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_33252
+10	CHEBI-GO	CHEBI_28815	GO_0005634
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_22587
+10	CHEBI-GO	CHEBI_28815	GO_0046903
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_59132
+10	CHEBI-GO	CHEBI_28815	GO_0019882
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_28815	CHEBI_25555
+10	CHEBI-GO	CHEBI_28815	GO_0008219
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_37396
+10	CHEBI-GO	CHEBI_16189	GO_0005488
+10	CHEBI-DOID	CHEBI_16189	DOID_526
+10	CHEBI-GO	CHEBI_16189	GO_0008283
+10	CHEBI-DOID	CHEBI_16189	DOID_162
+10	CHEBI-HP	CHEBI_16189	HP_0002664
+10	CHEBI-DOID	CHEBI_16189	DOID_3602
+10	CHEBI-HP	CHEBI_16189	HP_0030645
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_50906
+10	CHEBI-GO	CHEBI_16189	GO_0007049
+10	CHEBI-GO	CHEBI_16189	GO_0023052
+10	CHEBI-GO	CHEBI_16189	GO_0016020
+10	CHEBI-GO	CHEBI_16189	GO_0044351
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_37684
+10	CHEBI-HP	CHEBI_16189	HP_0002721
+10	CHEBI-GO	CHEBI_16189	GO_0009405
+10	CHEBI-DOID	CHEBI_16189	DOID_4
+10	CHEBI-GO	CHEBI_16189	GO_0001906
+10	CHEBI-HP	CHEBI_16189	HP_0003674
+10	CHEBI-GO	CHEBI_16189	GO_0006897
+10	CHEBI-GO	CHEBI_16189	GO_0043657
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_16670
+10	CHEBI-GO	CHEBI_16189	GO_0005006
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_33252
+10	CHEBI-GO	CHEBI_16189	GO_0005634
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_22587
+10	CHEBI-GO	CHEBI_16189	GO_0046903
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_59132
+10	CHEBI-GO	CHEBI_16189	GO_0019882
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_16189	CHEBI_25555
+10	CHEBI-GO	CHEBI_16189	GO_0008219
+10	CHEBI-GO	CHEBI_37396	GO_0005488
+10	CHEBI-DOID	CHEBI_37396	DOID_526
+10	CHEBI-GO	CHEBI_37396	GO_0008283
+10	CHEBI-DOID	CHEBI_37396	DOID_162
+10	CHEBI-HP	CHEBI_37396	HP_0002664
+10	CHEBI-DOID	CHEBI_37396	DOID_3602
+10	CHEBI-HP	CHEBI_37396	HP_0030645
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_50906
+10	CHEBI-GO	CHEBI_37396	GO_0007049
+10	CHEBI-GO	CHEBI_37396	GO_0023052
+10	CHEBI-GO	CHEBI_37396	GO_0016020
+10	CHEBI-GO	CHEBI_37396	GO_0044351
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_37684
+10	CHEBI-HP	CHEBI_37396	HP_0002721
+10	CHEBI-GO	CHEBI_37396	GO_0009405
+10	CHEBI-DOID	CHEBI_37396	DOID_4
+10	CHEBI-GO	CHEBI_37396	GO_0001906
+10	CHEBI-HP	CHEBI_37396	HP_0003674
+10	CHEBI-GO	CHEBI_37396	GO_0006897
+10	CHEBI-GO	CHEBI_37396	GO_0043657
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_16670
+10	CHEBI-GO	CHEBI_37396	GO_0005006
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_33252
+10	CHEBI-GO	CHEBI_37396	GO_0005634
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_22587
+10	CHEBI-GO	CHEBI_37396	GO_0046903
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_59132
+10	CHEBI-GO	CHEBI_37396	GO_0019882
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_37396	CHEBI_25555
+10	CHEBI-GO	CHEBI_37396	GO_0008219
+10	GO-DOID	GO_0005488	DOID_526
+10	GO-GO	GO_0005488	GO_0008283
+10	GO-DOID	GO_0005488	DOID_162
+10	GO-HP	GO_0005488	HP_0002664
+10	GO-DOID	GO_0005488	DOID_3602
+10	GO-HP	GO_0005488	HP_0030645
+10	GO-CHEBI	GO_0005488	CHEBI_50906
+10	GO-GO	GO_0005488	GO_0007049
+10	GO-GO	GO_0005488	GO_0023052
+10	GO-GO	GO_0005488	GO_0016020
+10	GO-GO	GO_0005488	GO_0044351
+10	GO-CHEBI	GO_0005488	CHEBI_37684
+10	GO-HP	GO_0005488	HP_0002721
+10	GO-GO	GO_0005488	GO_0009405
+10	GO-DOID	GO_0005488	DOID_4
+10	GO-GO	GO_0005488	GO_0001906
+10	GO-HP	GO_0005488	HP_0003674
+10	GO-GO	GO_0005488	GO_0006897
+10	GO-GO	GO_0005488	GO_0043657
+10	GO-CHEBI	GO_0005488	CHEBI_16670
+10	GO-GO	GO_0005488	GO_0005006
+10	GO-CHEBI	GO_0005488	CHEBI_33252
+10	GO-GO	GO_0005488	GO_0005634
+10	GO-CHEBI	GO_0005488	CHEBI_22587
+10	GO-GO	GO_0005488	GO_0046903
+10	GO-CHEBI	GO_0005488	CHEBI_59132
+10	GO-GO	GO_0005488	GO_0019882
+10	GO-CHEBI	GO_0005488	CHEBI_17997
+10	GO-CHEBI	GO_0005488	CHEBI_25555
+10	GO-GO	GO_0005488	GO_0008219
+10	DOID-GO	DOID_526	GO_0008283
+10	DOID-DOID	DOID_526	DOID_162
+10	DOID-HP	DOID_526	HP_0002664
+10	DOID-DOID	DOID_526	DOID_3602
+10	DOID-HP	DOID_526	HP_0030645
+10	DOID-CHEBI	DOID_526	CHEBI_50906
+10	DOID-GO	DOID_526	GO_0007049
+10	DOID-GO	DOID_526	GO_0023052
+10	DOID-GO	DOID_526	GO_0016020
+10	DOID-GO	DOID_526	GO_0044351
+10	DOID-CHEBI	DOID_526	CHEBI_37684
+10	DOID-HP	DOID_526	HP_0002721
+10	DOID-GO	DOID_526	GO_0009405
+10	DOID-DOID	DOID_526	DOID_4
+10	DOID-GO	DOID_526	GO_0001906
+10	DOID-HP	DOID_526	HP_0003674
+10	DOID-GO	DOID_526	GO_0006897
+10	DOID-GO	DOID_526	GO_0043657
+10	DOID-CHEBI	DOID_526	CHEBI_16670
+10	DOID-GO	DOID_526	GO_0005006
+10	DOID-CHEBI	DOID_526	CHEBI_33252
+10	DOID-GO	DOID_526	GO_0005634
+10	DOID-CHEBI	DOID_526	CHEBI_22587
+10	DOID-GO	DOID_526	GO_0046903
+10	DOID-CHEBI	DOID_526	CHEBI_59132
+10	DOID-GO	DOID_526	GO_0019882
+10	DOID-CHEBI	DOID_526	CHEBI_17997
+10	DOID-CHEBI	DOID_526	CHEBI_25555
+10	DOID-GO	DOID_526	GO_0008219
+10	GO-DOID	GO_0008283	DOID_162
+10	GO-HP	GO_0008283	HP_0002664
+10	GO-DOID	GO_0008283	DOID_3602
+10	GO-HP	GO_0008283	HP_0030645
+10	GO-CHEBI	GO_0008283	CHEBI_50906
+10	GO-GO	GO_0008283	GO_0007049
+10	GO-GO	GO_0008283	GO_0023052
+10	GO-GO	GO_0008283	GO_0016020
+10	GO-GO	GO_0008283	GO_0044351
+10	GO-CHEBI	GO_0008283	CHEBI_37684
+10	GO-HP	GO_0008283	HP_0002721
+10	GO-GO	GO_0008283	GO_0009405
+10	GO-DOID	GO_0008283	DOID_4
+10	GO-GO	GO_0008283	GO_0001906
+10	GO-HP	GO_0008283	HP_0003674
+10	GO-GO	GO_0008283	GO_0006897
+10	GO-GO	GO_0008283	GO_0043657
+10	GO-CHEBI	GO_0008283	CHEBI_16670
+10	GO-GO	GO_0008283	GO_0005006
+10	GO-CHEBI	GO_0008283	CHEBI_33252
+10	GO-GO	GO_0008283	GO_0005634
+10	GO-CHEBI	GO_0008283	CHEBI_22587
+10	GO-GO	GO_0008283	GO_0046903
+10	GO-CHEBI	GO_0008283	CHEBI_59132
+10	GO-GO	GO_0008283	GO_0019882
+10	GO-CHEBI	GO_0008283	CHEBI_17997
+10	GO-CHEBI	GO_0008283	CHEBI_25555
+10	GO-GO	GO_0008283	GO_0008219
+10	DOID-HP	DOID_162	HP_0002664
+10	DOID-DOID	DOID_162	DOID_3602
+10	DOID-HP	DOID_162	HP_0030645
+10	DOID-CHEBI	DOID_162	CHEBI_50906
+10	DOID-GO	DOID_162	GO_0007049
+10	DOID-GO	DOID_162	GO_0023052
+10	DOID-GO	DOID_162	GO_0016020
+10	DOID-GO	DOID_162	GO_0044351
+10	DOID-CHEBI	DOID_162	CHEBI_37684
+10	DOID-HP	DOID_162	HP_0002721
+10	DOID-GO	DOID_162	GO_0009405
+10	DOID-DOID	DOID_162	DOID_4
+10	DOID-GO	DOID_162	GO_0001906
+10	DOID-HP	DOID_162	HP_0003674
+10	DOID-GO	DOID_162	GO_0006897
+10	DOID-GO	DOID_162	GO_0043657
+10	DOID-CHEBI	DOID_162	CHEBI_16670
+10	DOID-GO	DOID_162	GO_0005006
+10	DOID-CHEBI	DOID_162	CHEBI_33252
+10	DOID-GO	DOID_162	GO_0005634
+10	DOID-CHEBI	DOID_162	CHEBI_22587
+10	DOID-GO	DOID_162	GO_0046903
+10	DOID-CHEBI	DOID_162	CHEBI_59132
+10	DOID-GO	DOID_162	GO_0019882
+10	DOID-CHEBI	DOID_162	CHEBI_17997
+10	DOID-CHEBI	DOID_162	CHEBI_25555
+10	DOID-GO	DOID_162	GO_0008219
+10	HP-DOID	HP_0002664	DOID_3602
+10	HP-HP	HP_0002664	HP_0030645
+10	HP-CHEBI	HP_0002664	CHEBI_50906
+10	HP-GO	HP_0002664	GO_0007049
+10	HP-GO	HP_0002664	GO_0023052
+10	HP-GO	HP_0002664	GO_0016020
+10	HP-GO	HP_0002664	GO_0044351
+10	HP-CHEBI	HP_0002664	CHEBI_37684
+10	HP-HP	HP_0002664	HP_0002721
+10	HP-GO	HP_0002664	GO_0009405
+10	HP-DOID	HP_0002664	DOID_4
+10	HP-GO	HP_0002664	GO_0001906
+10	HP-HP	HP_0002664	HP_0003674
+10	HP-GO	HP_0002664	GO_0006897
+10	HP-GO	HP_0002664	GO_0043657
+10	HP-CHEBI	HP_0002664	CHEBI_16670
+10	HP-GO	HP_0002664	GO_0005006
+10	HP-CHEBI	HP_0002664	CHEBI_33252
+10	HP-GO	HP_0002664	GO_0005634
+10	HP-CHEBI	HP_0002664	CHEBI_22587
+10	HP-GO	HP_0002664	GO_0046903
+10	HP-CHEBI	HP_0002664	CHEBI_59132
+10	HP-GO	HP_0002664	GO_0019882
+10	HP-CHEBI	HP_0002664	CHEBI_17997
+10	HP-CHEBI	HP_0002664	CHEBI_25555
+10	HP-GO	HP_0002664	GO_0008219
+10	DOID-HP	DOID_3602	HP_0030645
+10	DOID-CHEBI	DOID_3602	CHEBI_50906
+10	DOID-GO	DOID_3602	GO_0007049
+10	DOID-GO	DOID_3602	GO_0023052
+10	DOID-GO	DOID_3602	GO_0016020
+10	DOID-GO	DOID_3602	GO_0044351
+10	DOID-CHEBI	DOID_3602	CHEBI_37684
+10	DOID-HP	DOID_3602	HP_0002721
+10	DOID-GO	DOID_3602	GO_0009405
+10	DOID-DOID	DOID_3602	DOID_4
+10	DOID-GO	DOID_3602	GO_0001906
+10	DOID-HP	DOID_3602	HP_0003674
+10	DOID-GO	DOID_3602	GO_0006897
+10	DOID-GO	DOID_3602	GO_0043657
+10	DOID-CHEBI	DOID_3602	CHEBI_16670
+10	DOID-GO	DOID_3602	GO_0005006
+10	DOID-CHEBI	DOID_3602	CHEBI_33252
+10	DOID-GO	DOID_3602	GO_0005634
+10	DOID-CHEBI	DOID_3602	CHEBI_22587
+10	DOID-GO	DOID_3602	GO_0046903
+10	DOID-CHEBI	DOID_3602	CHEBI_59132
+10	DOID-GO	DOID_3602	GO_0019882
+10	DOID-CHEBI	DOID_3602	CHEBI_17997
+10	DOID-CHEBI	DOID_3602	CHEBI_25555
+10	DOID-GO	DOID_3602	GO_0008219
+10	HP-CHEBI	HP_0030645	CHEBI_50906
+10	HP-GO	HP_0030645	GO_0007049
+10	HP-GO	HP_0030645	GO_0023052
+10	HP-GO	HP_0030645	GO_0016020
+10	HP-GO	HP_0030645	GO_0044351
+10	HP-CHEBI	HP_0030645	CHEBI_37684
+10	HP-HP	HP_0030645	HP_0002721
+10	HP-GO	HP_0030645	GO_0009405
+10	HP-DOID	HP_0030645	DOID_4
+10	HP-GO	HP_0030645	GO_0001906
+10	HP-HP	HP_0030645	HP_0003674
+10	HP-GO	HP_0030645	GO_0006897
+10	HP-GO	HP_0030645	GO_0043657
+10	HP-CHEBI	HP_0030645	CHEBI_16670
+10	HP-GO	HP_0030645	GO_0005006
+10	HP-CHEBI	HP_0030645	CHEBI_33252
+10	HP-GO	HP_0030645	GO_0005634
+10	HP-CHEBI	HP_0030645	CHEBI_22587
+10	HP-GO	HP_0030645	GO_0046903
+10	HP-CHEBI	HP_0030645	CHEBI_59132
+10	HP-GO	HP_0030645	GO_0019882
+10	HP-CHEBI	HP_0030645	CHEBI_17997
+10	HP-CHEBI	HP_0030645	CHEBI_25555
+10	HP-GO	HP_0030645	GO_0008219
+10	CHEBI-GO	CHEBI_50906	GO_0007049
+10	CHEBI-GO	CHEBI_50906	GO_0023052
+10	CHEBI-GO	CHEBI_50906	GO_0016020
+10	CHEBI-GO	CHEBI_50906	GO_0044351
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_37684
+10	CHEBI-HP	CHEBI_50906	HP_0002721
+10	CHEBI-GO	CHEBI_50906	GO_0009405
+10	CHEBI-DOID	CHEBI_50906	DOID_4
+10	CHEBI-GO	CHEBI_50906	GO_0001906
+10	CHEBI-HP	CHEBI_50906	HP_0003674
+10	CHEBI-GO	CHEBI_50906	GO_0006897
+10	CHEBI-GO	CHEBI_50906	GO_0043657
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_16670
+10	CHEBI-GO	CHEBI_50906	GO_0005006
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_33252
+10	CHEBI-GO	CHEBI_50906	GO_0005634
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+10	CHEBI-GO	CHEBI_50906	GO_0046903
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_59132
+10	CHEBI-GO	CHEBI_50906	GO_0019882
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_50906	CHEBI_25555
+10	CHEBI-GO	CHEBI_50906	GO_0008219
+10	GO-GO	GO_0007049	GO_0023052
+10	GO-GO	GO_0007049	GO_0016020
+10	GO-GO	GO_0007049	GO_0044351
+10	GO-CHEBI	GO_0007049	CHEBI_37684
+10	GO-HP	GO_0007049	HP_0002721
+10	GO-GO	GO_0007049	GO_0009405
+10	GO-DOID	GO_0007049	DOID_4
+10	GO-GO	GO_0007049	GO_0001906
+10	GO-HP	GO_0007049	HP_0003674
+10	GO-GO	GO_0007049	GO_0006897
+10	GO-GO	GO_0007049	GO_0043657
+10	GO-CHEBI	GO_0007049	CHEBI_16670
+10	GO-GO	GO_0007049	GO_0005006
+10	GO-CHEBI	GO_0007049	CHEBI_33252
+10	GO-GO	GO_0007049	GO_0005634
+10	GO-CHEBI	GO_0007049	CHEBI_22587
+10	GO-GO	GO_0007049	GO_0046903
+10	GO-CHEBI	GO_0007049	CHEBI_59132
+10	GO-GO	GO_0007049	GO_0019882
+10	GO-CHEBI	GO_0007049	CHEBI_17997
+10	GO-CHEBI	GO_0007049	CHEBI_25555
+10	GO-GO	GO_0007049	GO_0008219
+10	GO-GO	GO_0023052	GO_0016020
+10	GO-GO	GO_0023052	GO_0044351
+10	GO-CHEBI	GO_0023052	CHEBI_37684
+10	GO-HP	GO_0023052	HP_0002721
+10	GO-GO	GO_0023052	GO_0009405
+10	GO-DOID	GO_0023052	DOID_4
+10	GO-GO	GO_0023052	GO_0001906
+10	GO-HP	GO_0023052	HP_0003674
+10	GO-GO	GO_0023052	GO_0006897
+10	GO-GO	GO_0023052	GO_0043657
+10	GO-CHEBI	GO_0023052	CHEBI_16670
+10	GO-GO	GO_0023052	GO_0005006
+10	GO-CHEBI	GO_0023052	CHEBI_33252
+10	GO-GO	GO_0023052	GO_0005634
+10	GO-CHEBI	GO_0023052	CHEBI_22587
+10	GO-GO	GO_0023052	GO_0046903
+10	GO-CHEBI	GO_0023052	CHEBI_59132
+10	GO-GO	GO_0023052	GO_0019882
+10	GO-CHEBI	GO_0023052	CHEBI_17997
+10	GO-CHEBI	GO_0023052	CHEBI_25555
+10	GO-GO	GO_0023052	GO_0008219
+10	GO-GO	GO_0016020	GO_0044351
+10	GO-CHEBI	GO_0016020	CHEBI_37684
+10	GO-HP	GO_0016020	HP_0002721
+10	GO-GO	GO_0016020	GO_0009405
+10	GO-DOID	GO_0016020	DOID_4
+10	GO-GO	GO_0016020	GO_0001906
+10	GO-HP	GO_0016020	HP_0003674
+10	GO-GO	GO_0016020	GO_0006897
+10	GO-GO	GO_0016020	GO_0043657
+10	GO-CHEBI	GO_0016020	CHEBI_16670
+10	GO-GO	GO_0016020	GO_0005006
+10	GO-CHEBI	GO_0016020	CHEBI_33252
+10	GO-GO	GO_0016020	GO_0005634
+10	GO-CHEBI	GO_0016020	CHEBI_22587
+10	GO-GO	GO_0016020	GO_0046903
+10	GO-CHEBI	GO_0016020	CHEBI_59132
+10	GO-GO	GO_0016020	GO_0019882
+10	GO-CHEBI	GO_0016020	CHEBI_17997
+10	GO-CHEBI	GO_0016020	CHEBI_25555
+10	GO-GO	GO_0016020	GO_0008219
+10	GO-CHEBI	GO_0044351	CHEBI_37684
+10	GO-HP	GO_0044351	HP_0002721
+10	GO-GO	GO_0044351	GO_0009405
+10	GO-DOID	GO_0044351	DOID_4
+10	GO-GO	GO_0044351	GO_0001906
+10	GO-HP	GO_0044351	HP_0003674
+10	GO-GO	GO_0044351	GO_0006897
+10	GO-GO	GO_0044351	GO_0043657
+10	GO-CHEBI	GO_0044351	CHEBI_16670
+10	GO-GO	GO_0044351	GO_0005006
+10	GO-CHEBI	GO_0044351	CHEBI_33252
+10	GO-GO	GO_0044351	GO_0005634
+10	GO-CHEBI	GO_0044351	CHEBI_22587
+10	GO-GO	GO_0044351	GO_0046903
+10	GO-CHEBI	GO_0044351	CHEBI_59132
+10	GO-GO	GO_0044351	GO_0019882
+10	GO-CHEBI	GO_0044351	CHEBI_17997
+10	GO-CHEBI	GO_0044351	CHEBI_25555
+10	GO-GO	GO_0044351	GO_0008219
+10	CHEBI-HP	CHEBI_37684	HP_0002721
+10	CHEBI-GO	CHEBI_37684	GO_0009405
+10	CHEBI-DOID	CHEBI_37684	DOID_4
+10	CHEBI-GO	CHEBI_37684	GO_0001906
+10	CHEBI-HP	CHEBI_37684	HP_0003674
+10	CHEBI-GO	CHEBI_37684	GO_0006897
+10	CHEBI-GO	CHEBI_37684	GO_0043657
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_16670
+10	CHEBI-GO	CHEBI_37684	GO_0005006
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_33252
+10	CHEBI-GO	CHEBI_37684	GO_0005634
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_22587
+10	CHEBI-GO	CHEBI_37684	GO_0046903
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_59132
+10	CHEBI-GO	CHEBI_37684	GO_0019882
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_37684	CHEBI_25555
+10	CHEBI-GO	CHEBI_37684	GO_0008219
+10	HP-GO	HP_0002721	GO_0009405
+10	HP-DOID	HP_0002721	DOID_4
+10	HP-GO	HP_0002721	GO_0001906
+10	HP-HP	HP_0002721	HP_0003674
+10	HP-GO	HP_0002721	GO_0006897
+10	HP-GO	HP_0002721	GO_0043657
+10	HP-CHEBI	HP_0002721	CHEBI_16670
+10	HP-GO	HP_0002721	GO_0005006
+10	HP-CHEBI	HP_0002721	CHEBI_33252
+10	HP-GO	HP_0002721	GO_0005634
+10	HP-CHEBI	HP_0002721	CHEBI_22587
+10	HP-GO	HP_0002721	GO_0046903
+10	HP-CHEBI	HP_0002721	CHEBI_59132
+10	HP-GO	HP_0002721	GO_0019882
+10	HP-CHEBI	HP_0002721	CHEBI_17997
+10	HP-CHEBI	HP_0002721	CHEBI_25555
+10	HP-GO	HP_0002721	GO_0008219
+10	GO-DOID	GO_0009405	DOID_4
+10	GO-GO	GO_0009405	GO_0001906
+10	GO-HP	GO_0009405	HP_0003674
+10	GO-GO	GO_0009405	GO_0006897
+10	GO-GO	GO_0009405	GO_0043657
+10	GO-CHEBI	GO_0009405	CHEBI_16670
+10	GO-GO	GO_0009405	GO_0005006
+10	GO-CHEBI	GO_0009405	CHEBI_33252
+10	GO-GO	GO_0009405	GO_0005634
+10	GO-CHEBI	GO_0009405	CHEBI_22587
+10	GO-GO	GO_0009405	GO_0046903
+10	GO-CHEBI	GO_0009405	CHEBI_59132
+10	GO-GO	GO_0009405	GO_0019882
+10	GO-CHEBI	GO_0009405	CHEBI_17997
+10	GO-CHEBI	GO_0009405	CHEBI_25555
+10	GO-GO	GO_0009405	GO_0008219
+10	DOID-GO	DOID_4	GO_0001906
+10	DOID-HP	DOID_4	HP_0003674
+10	DOID-GO	DOID_4	GO_0006897
+10	DOID-GO	DOID_4	GO_0043657
+10	DOID-CHEBI	DOID_4	CHEBI_16670
+10	DOID-GO	DOID_4	GO_0005006
+10	DOID-CHEBI	DOID_4	CHEBI_33252
+10	DOID-GO	DOID_4	GO_0005634
+10	DOID-CHEBI	DOID_4	CHEBI_22587
+10	DOID-GO	DOID_4	GO_0046903
+10	DOID-CHEBI	DOID_4	CHEBI_59132
+10	DOID-GO	DOID_4	GO_0019882
+10	DOID-CHEBI	DOID_4	CHEBI_17997
+10	DOID-CHEBI	DOID_4	CHEBI_25555
+10	DOID-GO	DOID_4	GO_0008219
+10	GO-HP	GO_0001906	HP_0003674
+10	GO-GO	GO_0001906	GO_0006897
+10	GO-GO	GO_0001906	GO_0043657
+10	GO-CHEBI	GO_0001906	CHEBI_16670
+10	GO-GO	GO_0001906	GO_0005006
+10	GO-CHEBI	GO_0001906	CHEBI_33252
+10	GO-GO	GO_0001906	GO_0005634
+10	GO-CHEBI	GO_0001906	CHEBI_22587
+10	GO-GO	GO_0001906	GO_0046903
+10	GO-CHEBI	GO_0001906	CHEBI_59132
+10	GO-GO	GO_0001906	GO_0019882
+10	GO-CHEBI	GO_0001906	CHEBI_17997
+10	GO-CHEBI	GO_0001906	CHEBI_25555
+10	GO-GO	GO_0001906	GO_0008219
+10	HP-GO	HP_0003674	GO_0006897
+10	HP-GO	HP_0003674	GO_0043657
+10	HP-CHEBI	HP_0003674	CHEBI_16670
+10	HP-GO	HP_0003674	GO_0005006
+10	HP-CHEBI	HP_0003674	CHEBI_33252
+10	HP-GO	HP_0003674	GO_0005634
+10	HP-CHEBI	HP_0003674	CHEBI_22587
+10	HP-GO	HP_0003674	GO_0046903
+10	HP-CHEBI	HP_0003674	CHEBI_59132
+10	HP-GO	HP_0003674	GO_0019882
+10	HP-CHEBI	HP_0003674	CHEBI_17997
+10	HP-CHEBI	HP_0003674	CHEBI_25555
+10	HP-GO	HP_0003674	GO_0008219
+10	GO-GO	GO_0006897	GO_0043657
+10	GO-CHEBI	GO_0006897	CHEBI_16670
+10	GO-GO	GO_0006897	GO_0005006
+10	GO-CHEBI	GO_0006897	CHEBI_33252
+10	GO-GO	GO_0006897	GO_0005634
+10	GO-CHEBI	GO_0006897	CHEBI_22587
+10	GO-GO	GO_0006897	GO_0046903
+10	GO-CHEBI	GO_0006897	CHEBI_59132
+10	GO-GO	GO_0006897	GO_0019882
+10	GO-CHEBI	GO_0006897	CHEBI_17997
+10	GO-CHEBI	GO_0006897	CHEBI_25555
+10	GO-GO	GO_0006897	GO_0008219
+10	GO-CHEBI	GO_0043657	CHEBI_16670
+10	GO-GO	GO_0043657	GO_0005006
+10	GO-CHEBI	GO_0043657	CHEBI_33252
+10	GO-GO	GO_0043657	GO_0005634
+10	GO-CHEBI	GO_0043657	CHEBI_22587
+10	GO-GO	GO_0043657	GO_0046903
+10	GO-CHEBI	GO_0043657	CHEBI_59132
+10	GO-GO	GO_0043657	GO_0019882
+10	GO-CHEBI	GO_0043657	CHEBI_17997
+10	GO-CHEBI	GO_0043657	CHEBI_25555
+10	GO-GO	GO_0043657	GO_0008219
+10	CHEBI-GO	CHEBI_16670	GO_0005006
+10	CHEBI-CHEBI	CHEBI_16670	CHEBI_33252
+10	CHEBI-GO	CHEBI_16670	GO_0005634
+10	CHEBI-CHEBI	CHEBI_16670	CHEBI_22587
+10	CHEBI-GO	CHEBI_16670	GO_0046903
+10	CHEBI-CHEBI	CHEBI_16670	CHEBI_59132
+10	CHEBI-GO	CHEBI_16670	GO_0019882
+10	CHEBI-CHEBI	CHEBI_16670	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_16670	CHEBI_25555
+10	CHEBI-GO	CHEBI_16670	GO_0008219
+10	GO-CHEBI	GO_0005006	CHEBI_33252
+10	GO-GO	GO_0005006	GO_0005634
+10	GO-CHEBI	GO_0005006	CHEBI_22587
+10	GO-GO	GO_0005006	GO_0046903
+10	GO-CHEBI	GO_0005006	CHEBI_59132
+10	GO-GO	GO_0005006	GO_0019882
+10	GO-CHEBI	GO_0005006	CHEBI_17997
+10	GO-CHEBI	GO_0005006	CHEBI_25555
+10	GO-GO	GO_0005006	GO_0008219
+10	CHEBI-GO	CHEBI_33252	GO_0005634
+10	CHEBI-CHEBI	CHEBI_33252	CHEBI_22587
+10	CHEBI-GO	CHEBI_33252	GO_0046903
+10	CHEBI-CHEBI	CHEBI_33252	CHEBI_59132
+10	CHEBI-GO	CHEBI_33252	GO_0019882
+10	CHEBI-CHEBI	CHEBI_33252	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_33252	CHEBI_25555
+10	CHEBI-GO	CHEBI_33252	GO_0008219
+10	GO-CHEBI	GO_0005634	CHEBI_22587
+10	GO-GO	GO_0005634	GO_0046903
+10	GO-CHEBI	GO_0005634	CHEBI_59132
+10	GO-GO	GO_0005634	GO_0019882
+10	GO-CHEBI	GO_0005634	CHEBI_17997
+10	GO-CHEBI	GO_0005634	CHEBI_25555
+10	GO-GO	GO_0005634	GO_0008219
+10	CHEBI-GO	CHEBI_22587	GO_0046903
+10	CHEBI-CHEBI	CHEBI_22587	CHEBI_59132
+10	CHEBI-GO	CHEBI_22587	GO_0019882
+10	CHEBI-CHEBI	CHEBI_22587	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_22587	CHEBI_25555
+10	CHEBI-GO	CHEBI_22587	GO_0008219
+10	GO-CHEBI	GO_0046903	CHEBI_59132
+10	GO-GO	GO_0046903	GO_0019882
+10	GO-CHEBI	GO_0046903	CHEBI_17997
+10	GO-CHEBI	GO_0046903	CHEBI_25555
+10	GO-GO	GO_0046903	GO_0008219
+10	CHEBI-GO	CHEBI_59132	GO_0019882
+10	CHEBI-CHEBI	CHEBI_59132	CHEBI_17997
+10	CHEBI-CHEBI	CHEBI_59132	CHEBI_25555
+10	CHEBI-GO	CHEBI_59132	GO_0008219
+10	GO-CHEBI	GO_0019882	CHEBI_17997
+10	GO-CHEBI	GO_0019882	CHEBI_25555
+10	GO-GO	GO_0019882	GO_0008219
+10	CHEBI-CHEBI	CHEBI_17997	CHEBI_25555
+10	CHEBI-GO	CHEBI_17997	GO_0008219
+10	CHEBI-GO	CHEBI_25555	GO_0008219
+
+11|chunk|In addition to the classic entry scenario that uses cell surface receptors and subsequent endocytosis, macropinocytosis, or membrane fusion for cell entry, some viruses infect macrophages through phagocytosis of apoptotic macrophages that were previously infected by that virus [96] .
+11	52	64 cell surface	Gene_function	GO_0009986
+11	124	132 membrane	Gene_function	GO_0016020
+11	124	139 membrane fusion	Gene_function	GO_0061025
+11	196	208 phagocytosis	Gene_function	GO_0006909
+11	GO-GO	GO_0009986	GO_0016020
+11	GO-GO	GO_0009986	GO_0061025
+11	GO-GO	GO_0009986	GO_0006909
+11	GO-GO	GO_0016020	GO_0061025
+11	GO-GO	GO_0016020	GO_0006909
+11	GO-GO	GO_0061025	GO_0006909
+
+12|chunk|The fate of viruses and the cells affected by viral agents varies greatly depending upon the virus characteristics, although the fate can be grouped into 3 categories as follows: (1) persistence with productive viral replication; (2) persistence with a very limited time/amount of replication, or partial replication; and (3) restricted or short-term persistence with no/undetectable replication (cell here considered as a "random victim"). Monocytes/macrophages are the first subpopulation of immune cells that contact pathogens and can be infected and serve as a vehicle for virus dissemination; they are less likely to serve as a reservoir due to their naturally short life span and inability to support viral gene expression and replication [17] . Infected monocytes cross the blood-tissue barrier and disseminate viral particles as a specific parcels into the central nervous system, playing the role of the "Trojan horse," which is common in HIV [1, 2, 11] , HCV [38] , HCMV [17] and Japanese encephalitis virus (JEV) [97] . Viruses need to overcome a number of hurdles to be able to successfully infect and replicate in monocyte/macrophage cells. According to an inner genetic program, after three days of circulation in blood vessels, monocytes must make a cell fate decision-either differentiate into tissue macrophages or default to biological programming and undergo apoptosis [17] . Here, viruses demonstrate their superb ability to modulate and navigate cells in order to escape degradation and replicate effectively in an organism. They evade apoptosis and prolong the cell's life span via regulation of specific apoptotic pathways (PI3K and NFkB), that involves microRNAs [67, 98] and modulation of the mitochondrial pathway [99] . They provoke changes in cell polarization, hide viral receptors from the cell surface and alter chemokine/cytokine expression in order to evade the immune response; they also affect cell motility to promote viral spread and dissemination in the body. Relevant data concerning viral persistence, cell responses and replication are summarized in Table 1 and are graphically presented in Figure 1 Several examples have confirmed these findings in detail.
+12	34	42 affected	Phenotype	HP_0032320
+12	707	728 viral gene expression	Gene_function	GO_0019080
+12	713	728 gene expression	Gene_function	GO_0010467
+12	865	872 central	Phenotype	HP_0030645
+12	901	905 role	Chemical	CHEBI_50906
+12	990	1011 Japanese encephalitis	Disease	DOID_10844
+12	999	1011 encephalitis	Disease	DOID_9588
+12	999	1011 encephalitis	Phenotype	HP_0002383
+12	1492	1503 degradation	Gene_function	GO_0009056
+12	1718	1731 mitochondrial	Phenotype	HP_0001427
+12	1732	1739 pathway	Chemical	CHEBI_34922
+12	1820	1832 cell surface	Gene_function	GO_0009986
+12	1929	1942 cell motility	Gene_function	GO_0048870
+12	HP-GO	HP_0032320	GO_0019080
+12	HP-GO	HP_0032320	GO_0010467
+12	HP-HP	HP_0032320	HP_0030645
+12	HP-CHEBI	HP_0032320	CHEBI_50906
+12	HP-DOID	HP_0032320	DOID_10844
+12	HP-DOID	HP_0032320	DOID_9588
+12	HP-HP	HP_0032320	HP_0002383
+12	HP-GO	HP_0032320	GO_0009056
+12	HP-HP	HP_0032320	HP_0001427
+12	HP-CHEBI	HP_0032320	CHEBI_34922
+12	HP-GO	HP_0032320	GO_0009986
+12	HP-GO	HP_0032320	GO_0048870
+12	GO-GO	GO_0019080	GO_0010467
+12	GO-HP	GO_0019080	HP_0030645
+12	GO-CHEBI	GO_0019080	CHEBI_50906
+12	GO-DOID	GO_0019080	DOID_10844
+12	GO-DOID	GO_0019080	DOID_9588
+12	GO-HP	GO_0019080	HP_0002383
+12	GO-GO	GO_0019080	GO_0009056
+12	GO-HP	GO_0019080	HP_0001427
+12	GO-CHEBI	GO_0019080	CHEBI_34922
+12	GO-GO	GO_0019080	GO_0009986
+12	GO-GO	GO_0019080	GO_0048870
+12	GO-HP	GO_0010467	HP_0030645
+12	GO-CHEBI	GO_0010467	CHEBI_50906
+12	GO-DOID	GO_0010467	DOID_10844
+12	GO-DOID	GO_0010467	DOID_9588
+12	GO-HP	GO_0010467	HP_0002383
+12	GO-GO	GO_0010467	GO_0009056
+12	GO-HP	GO_0010467	HP_0001427
+12	GO-CHEBI	GO_0010467	CHEBI_34922
+12	GO-GO	GO_0010467	GO_0009986
+12	GO-GO	GO_0010467	GO_0048870
+12	HP-CHEBI	HP_0030645	CHEBI_50906
+12	HP-DOID	HP_0030645	DOID_10844
+12	HP-DOID	HP_0030645	DOID_9588
+12	HP-HP	HP_0030645	HP_0002383
+12	HP-GO	HP_0030645	GO_0009056
+12	HP-HP	HP_0030645	HP_0001427
+12	HP-CHEBI	HP_0030645	CHEBI_34922
+12	HP-GO	HP_0030645	GO_0009986
+12	HP-GO	HP_0030645	GO_0048870
+12	CHEBI-DOID	CHEBI_50906	DOID_10844
+12	CHEBI-DOID	CHEBI_50906	DOID_9588
+12	CHEBI-HP	CHEBI_50906	HP_0002383
+12	CHEBI-GO	CHEBI_50906	GO_0009056
+12	CHEBI-HP	CHEBI_50906	HP_0001427
+12	CHEBI-CHEBI	CHEBI_50906	CHEBI_34922
+12	CHEBI-GO	CHEBI_50906	GO_0009986
+12	CHEBI-GO	CHEBI_50906	GO_0048870
+12	DOID-DOID	DOID_10844	DOID_9588
+12	DOID-HP	DOID_10844	HP_0002383
+12	DOID-GO	DOID_10844	GO_0009056
+12	DOID-HP	DOID_10844	HP_0001427
+12	DOID-CHEBI	DOID_10844	CHEBI_34922
+12	DOID-GO	DOID_10844	GO_0009986
+12	DOID-GO	DOID_10844	GO_0048870
+12	DOID-HP	DOID_9588	HP_0002383
+12	DOID-GO	DOID_9588	GO_0009056
+12	DOID-HP	DOID_9588	HP_0001427
+12	DOID-CHEBI	DOID_9588	CHEBI_34922
+12	DOID-GO	DOID_9588	GO_0009986
+12	DOID-GO	DOID_9588	GO_0048870
+12	HP-GO	HP_0002383	GO_0009056
+12	HP-HP	HP_0002383	HP_0001427
+12	HP-CHEBI	HP_0002383	CHEBI_34922
+12	HP-GO	HP_0002383	GO_0009986
+12	HP-GO	HP_0002383	GO_0048870
+12	GO-HP	GO_0009056	HP_0001427
+12	GO-CHEBI	GO_0009056	CHEBI_34922
+12	GO-GO	GO_0009056	GO_0009986
+12	GO-GO	GO_0009056	GO_0048870
+12	HP-CHEBI	HP_0001427	CHEBI_34922
+12	HP-GO	HP_0001427	GO_0009986
+12	HP-GO	HP_0001427	GO_0048870
+12	CHEBI-GO	CHEBI_34922	GO_0009986
+12	CHEBI-GO	CHEBI_34922	GO_0048870
+12	GO-GO	GO_0009986	GO_0048870
+
+13|chunk|An accumulation of evidence suggests that macrophages are not only random targets for HIV, they are also important and specialized viral reservoirs distributed throughout the body that store large amounts of unintegrated viral DNA in circular form in internal compartments [18] . HIV-1 infected macrophages were found in several body locations such as spleen, lung, heart, colon, brain and adipose tissue; this represents a major challenge for cure efforts due to the low drug delivery efficiency into these tissues [100, 101] . Although CD4+ T cells are considered to be major permissive cells for HIV-1, the size of the virus reservoir is small. Approximately 1 infectious unit per million resting CD4+ T cells (1 IUPM) harbour the replication-competent proviral HIV-1 DNA [102] . Macrophages can also sustain a linear, steady amount of HIV-1 production, releasing replication-competent viral particles [103] . Attempts to assess the size of a viral reservoir in macrophages was recently carried out by Avalos C. R. et al. (2017) [100] . The authors applied a novel quantitative viral outgrowth assay in SIV-infected macaques that were ART-treated for 500 days and they revealed several interesting facts. First, even after antiretroviral therapy, 87% of suppressed animals contained latently infected brain macrophages, which were able to produce replication competent SIV. Second, unlike CD4+ T cells, the number of productively infected macrophages varied greatly across different tissues from the same macaque; this could be important for infection establishment and treatment strategy. Third, the highest levels of SIV production were found in spleen and brain macrophages (both microglial and perivascular) and was higher than the level of SIV production in CD4+ T cells, although these parameters could not be directly compared [100, 104] .
+13	227	230 DNA	Chemical	CHEBI_16991
+13	472	476 drug	Chemical	CHEBI_23888
+13	771	774 DNA	Chemical	CHEBI_16991
+13	CHEBI-CHEBI	CHEBI_16991	CHEBI_23888
+
+14|chunk|Macrophages are appealing to HIV-1 infection in many ways. They support productive replication and a life-long persistence as a latent reservoir that is provided by the cell machinery changes. HIV-1 adjusts macrophage for their existence by abolishing apoptosis and affecting several pathways that allow the virus to extend the period of persistence. HIV-1 infection of macrophages leads to overexpression of the Nef viral protein, which interacts with apoptosis signal regulating kinase-1. This result in the inhibition of Fas-and TNF receptor-mediated apoptosis and immune escape by preventing recognition by cytotoxic T lymphocytes [55, 105, 106] . Resistance to apoptosis also involves direct modulation of the mitochondrial pathway by regulating Bax pore induction [99] . Upon HIV-1 infection, macrophages increase their telomerase activity [107] and activate the expression of colony stimulating factor (M-CSF) protein [108] . After infection, macrophages actively secrete proinflammatory cytokines and chemokines that attract permissive cells within their vicinity, thereby transmitting virus to uninfected T cells, playing a crucial role in transmission and dissemination of HIV to other organs, including the brain [18] . The acute phase of HIV infection is characterized by a predominance of M1 macrophages expressing Th1 cytokines and chemokines (IFN-γ, IL-2, IL-12 and CCL3, CCL4, CCL5, respectively) and proinflammatory cytokines (TNF-α, IL-1β, IL-6 and IL-18). This inflammatory phenotype is characterized by a poor surface expression of CD4 and DC-SIGN, which are important receptors for HIV-1 binding [104] . The low abundance of specific receptors prevents superinfection in infected macrophages without restriction of viral replication [11] . However, at later stages of viral infection, there is a shift of macrophages to M2 due to the presence of IL-4 and IL-13, which favours the progression to AIDS [11] . Along with the above mentioned impairments, infected macrophages show phagocytosis impairments of apoptotic neutrophils during HIV infection, where the Nef protein plays a crucial role. The persistence of apoptotic neutrophils and their apoptotic bodies at the inflammatory site may maintain the inflammatory state through persistent stimulation of proinflammatory cytokines (TGFβ-1, prostaglandin E2 and platelet-activating factor) [109, 110] . Macrophages also show anti-HIV-1 cellular restrictions such as the expression of SAMHD1, APOBEC3A, APOBEC3G, tetherin, TRIM5-alpha and MX2 [17] , suggesting the substantial importance of macrophages in HIV-1 pathogenesis. Monocyte differentiation into polarized macrophages and their dissemination into tissues are critical for the establishment of HIV-1 infection. First, resident tissue macrophages remain in tissues long term, with a capability of self-renewal upon cell machinery changes; second, macrophages are relatively resistant to the cytopathic effects of HIV infection compared to CD4+ T cells. Together, these peculiar qualities provide a basis for the formation of a stable viral reservoir, which is recognized as a major barrier to curing HIV-1 infections [104] .
+14	423	430 protein	Chemical	CHEBI_16541
+14	715	728 mitochondrial	Phenotype	HP_0001427
+14	729	736 pathway	Chemical	CHEBI_34922
+14	755	759 pore	Gene_function	GO_0046930
+14	826	845 telomerase activity	Gene_function	GO_0003720
+14	917	924 protein	Chemical	CHEBI_16541
+14	1141	1145 role	Chemical	CHEBI_50906
+14	1235	1240 acute	Phenotype	HP_0011009
+14	1250	1263 HIV infection	Disease	DOID_526
+14	1609	1616 binding	Gene_function	GO_0005488
+14	1916	1920 AIDS	Disease	DOID_635
+14	1998	2010 phagocytosis	Gene_function	GO_0006909
+14	2055	2068 HIV infection	Disease	DOID_526
+14	2084	2091 protein	Chemical	CHEBI_16541
+14	2108	2112 role	Chemical	CHEBI_50906
+14	2312	2325 prostaglandin	Chemical	CHEBI_26333
+14	2312	2328 prostaglandin E2	Chemical	CHEBI_15551
+14	2333	2359 platelet-activating factor	Chemical	CHEBI_44811
+14	2596	2620 Monocyte differentiation	Gene_function	GO_0030224
+14	2941	2954 HIV infection	Disease	DOID_526
+14	3055	3061 stable	Phenotype	HP_0031915
+14	CHEBI-HP	CHEBI_16541	HP_0001427
+14	CHEBI-CHEBI	CHEBI_16541	CHEBI_34922
+14	CHEBI-GO	CHEBI_16541	GO_0046930
+14	CHEBI-GO	CHEBI_16541	GO_0003720
+14	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+14	CHEBI-HP	CHEBI_16541	HP_0011009
+14	CHEBI-DOID	CHEBI_16541	DOID_526
+14	CHEBI-GO	CHEBI_16541	GO_0005488
+14	CHEBI-DOID	CHEBI_16541	DOID_635
+14	CHEBI-GO	CHEBI_16541	GO_0006909
+14	CHEBI-CHEBI	CHEBI_16541	CHEBI_26333
+14	CHEBI-CHEBI	CHEBI_16541	CHEBI_15551
+14	CHEBI-CHEBI	CHEBI_16541	CHEBI_44811
+14	CHEBI-GO	CHEBI_16541	GO_0030224
+14	CHEBI-HP	CHEBI_16541	HP_0031915
+14	HP-CHEBI	HP_0001427	CHEBI_34922
+14	HP-GO	HP_0001427	GO_0046930
+14	HP-GO	HP_0001427	GO_0003720
+14	HP-CHEBI	HP_0001427	CHEBI_50906
+14	HP-HP	HP_0001427	HP_0011009
+14	HP-DOID	HP_0001427	DOID_526
+14	HP-GO	HP_0001427	GO_0005488
+14	HP-DOID	HP_0001427	DOID_635
+14	HP-GO	HP_0001427	GO_0006909
+14	HP-CHEBI	HP_0001427	CHEBI_26333
+14	HP-CHEBI	HP_0001427	CHEBI_15551
+14	HP-CHEBI	HP_0001427	CHEBI_44811
+14	HP-GO	HP_0001427	GO_0030224
+14	HP-HP	HP_0001427	HP_0031915
+14	CHEBI-GO	CHEBI_34922	GO_0046930
+14	CHEBI-GO	CHEBI_34922	GO_0003720
+14	CHEBI-CHEBI	CHEBI_34922	CHEBI_50906
+14	CHEBI-HP	CHEBI_34922	HP_0011009
+14	CHEBI-DOID	CHEBI_34922	DOID_526
+14	CHEBI-GO	CHEBI_34922	GO_0005488
+14	CHEBI-DOID	CHEBI_34922	DOID_635
+14	CHEBI-GO	CHEBI_34922	GO_0006909
+14	CHEBI-CHEBI	CHEBI_34922	CHEBI_26333
+14	CHEBI-CHEBI	CHEBI_34922	CHEBI_15551
+14	CHEBI-CHEBI	CHEBI_34922	CHEBI_44811
+14	CHEBI-GO	CHEBI_34922	GO_0030224
+14	CHEBI-HP	CHEBI_34922	HP_0031915
+14	GO-GO	GO_0046930	GO_0003720
+14	GO-CHEBI	GO_0046930	CHEBI_50906
+14	GO-HP	GO_0046930	HP_0011009
+14	GO-DOID	GO_0046930	DOID_526
+14	GO-GO	GO_0046930	GO_0005488
+14	GO-DOID	GO_0046930	DOID_635
+14	GO-GO	GO_0046930	GO_0006909
+14	GO-CHEBI	GO_0046930	CHEBI_26333
+14	GO-CHEBI	GO_0046930	CHEBI_15551
+14	GO-CHEBI	GO_0046930	CHEBI_44811
+14	GO-GO	GO_0046930	GO_0030224
+14	GO-HP	GO_0046930	HP_0031915
+14	GO-CHEBI	GO_0003720	CHEBI_50906
+14	GO-HP	GO_0003720	HP_0011009
+14	GO-DOID	GO_0003720	DOID_526
+14	GO-GO	GO_0003720	GO_0005488
+14	GO-DOID	GO_0003720	DOID_635
+14	GO-GO	GO_0003720	GO_0006909
+14	GO-CHEBI	GO_0003720	CHEBI_26333
+14	GO-CHEBI	GO_0003720	CHEBI_15551
+14	GO-CHEBI	GO_0003720	CHEBI_44811
+14	GO-GO	GO_0003720	GO_0030224
+14	GO-HP	GO_0003720	HP_0031915
+14	CHEBI-HP	CHEBI_50906	HP_0011009
+14	CHEBI-DOID	CHEBI_50906	DOID_526
+14	CHEBI-GO	CHEBI_50906	GO_0005488
+14	CHEBI-DOID	CHEBI_50906	DOID_635
+14	CHEBI-GO	CHEBI_50906	GO_0006909
+14	CHEBI-CHEBI	CHEBI_50906	CHEBI_26333
+14	CHEBI-CHEBI	CHEBI_50906	CHEBI_15551
+14	CHEBI-CHEBI	CHEBI_50906	CHEBI_44811
+14	CHEBI-GO	CHEBI_50906	GO_0030224
+14	CHEBI-HP	CHEBI_50906	HP_0031915
+14	HP-DOID	HP_0011009	DOID_526
+14	HP-GO	HP_0011009	GO_0005488
+14	HP-DOID	HP_0011009	DOID_635
+14	HP-GO	HP_0011009	GO_0006909
+14	HP-CHEBI	HP_0011009	CHEBI_26333
+14	HP-CHEBI	HP_0011009	CHEBI_15551
+14	HP-CHEBI	HP_0011009	CHEBI_44811
+14	HP-GO	HP_0011009	GO_0030224
+14	HP-HP	HP_0011009	HP_0031915
+14	DOID-GO	DOID_526	GO_0005488
+14	DOID-DOID	DOID_526	DOID_635
+14	DOID-GO	DOID_526	GO_0006909
+14	DOID-CHEBI	DOID_526	CHEBI_26333
+14	DOID-CHEBI	DOID_526	CHEBI_15551
+14	DOID-CHEBI	DOID_526	CHEBI_44811
+14	DOID-GO	DOID_526	GO_0030224
+14	DOID-HP	DOID_526	HP_0031915
+14	GO-DOID	GO_0005488	DOID_635
+14	GO-GO	GO_0005488	GO_0006909
+14	GO-CHEBI	GO_0005488	CHEBI_26333
+14	GO-CHEBI	GO_0005488	CHEBI_15551
+14	GO-CHEBI	GO_0005488	CHEBI_44811
+14	GO-GO	GO_0005488	GO_0030224
+14	GO-HP	GO_0005488	HP_0031915
+14	DOID-GO	DOID_635	GO_0006909
+14	DOID-CHEBI	DOID_635	CHEBI_26333
+14	DOID-CHEBI	DOID_635	CHEBI_15551
+14	DOID-CHEBI	DOID_635	CHEBI_44811
+14	DOID-GO	DOID_635	GO_0030224
+14	DOID-HP	DOID_635	HP_0031915
+14	GO-CHEBI	GO_0006909	CHEBI_26333
+14	GO-CHEBI	GO_0006909	CHEBI_15551
+14	GO-CHEBI	GO_0006909	CHEBI_44811
+14	GO-GO	GO_0006909	GO_0030224
+14	GO-HP	GO_0006909	HP_0031915
+14	CHEBI-CHEBI	CHEBI_26333	CHEBI_15551
+14	CHEBI-CHEBI	CHEBI_26333	CHEBI_44811
+14	CHEBI-GO	CHEBI_26333	GO_0030224
+14	CHEBI-HP	CHEBI_26333	HP_0031915
+14	CHEBI-CHEBI	CHEBI_15551	CHEBI_44811
+14	CHEBI-GO	CHEBI_15551	GO_0030224
+14	CHEBI-HP	CHEBI_15551	HP_0031915
+14	CHEBI-GO	CHEBI_44811	GO_0030224
+14	CHEBI-HP	CHEBI_44811	HP_0031915
+14	GO-HP	GO_0030224	HP_0031915
+
+15|chunk|There is a wide range of disease pathologies seen in several organ sites associated with human cytomegalovirus infection. HCMV is involved in chronic inflammation and the development of cardiovascular diseases and some types of cancers in immunocompetent individuals [111, 112] . HCMV has the potential to contribute to tumour progression by oncomodulation through the production of viral proteins, affecting cellular differentiation, gene expression, DNA replication and cell cycle progression [113] . The virus leads to immunosuppression, which may further lead to immunotolerance against the growing tumour [113] . HCMV-induced pathologies are mediated predominately by infected monocytes, which serves as a permissive system and are a long-term reservoir for the virus. Productive virus release of HCMV from monocytes/macrophages is detectable up to 16 weeks after infection [17] . This virus overcomes a number of biological hurdles in the monocytes to provide support for viral gene expression and replication. Monocytes become permissive only upon their differentiation into macrophages, which is driven by the virus, resulting in progeny virions capable of infecting the necessary surrounding cell types. Monocyte-to-macrophage differentiation is partially mediated by caspase-3 activation [17] . It was shown that HCMV could specifically regulate the polarization of infected monocytes/macrophages to achieve an effective balance between proinflammatory and anti-inflammatory signals. This regulation may establish a cellular environment that is conducive for the dissemination and persistence of HCMV (the "Goldilocks" phenomenon) [17] . During latency, HCMV modulates cytokine/chemokine secretion for the biased recruitment of immune cells to propagate latency in the host. Stevenson E. et al. (2014) [17] hypothesized a very specific role of HCMV in monocyte/macrophages modulation. According to this hypothesis, viruses promote a "finely-tuned" cell type, where monocytes/macrophages exist somewhere along the M1/M2 continuum that is needed for viral spread, replication and persistence. HCMV drives the simultaneous expression of M1-(IL-6, TNF-α, CD86) and M2-associated molecules (IL-10 and CD163). HCMV likely employs M1-associated markers and chemokines to promote the proinflammatory activation of infected monocytes/macrophages. This ensures elevated cellular motility, migration and monocyte recruitment, which has also been observed for infected tumour cells [113] . At the same time, HCMV use M2-associated macrophage markers and chemokines to silence the tissue-damaging effects of the pro-inflammatory response and any potential anti-viral responses [17] . HCMV belongs to the agents capable of long-lasting infection due to cell apoptosis decoy. Thus, after infection, cytomegalovirus induces activation of EGFR and the β1 and β3 integrins on the surface of monocytes, leading to the prolonged survival of infected cells by the prolonged expression of Mcl-1 [98, 114] .
+15	25	32 disease	Disease	DOID_4
+15	142	149 chronic	Phenotype	HP_0011010
+15	320	326 tumour	Phenotype	HP_0002664
+15	435	450 gene expression	Gene_function	GO_0010467
+15	452	455 DNA	Chemical	CHEBI_16991
+15	452	467 DNA replication	Gene_function	GO_0006260
+15	472	482 cell cycle	Gene_function	GO_0007049
+15	603	609 tumour	Phenotype	HP_0002664
+15	978	999 viral gene expression	Gene_function	GO_0019080
+15	984	999 gene expression	Gene_function	GO_0010467
+15	1698	1707 secretion	Gene_function	GO_0046903
+15	1846	1850 role	Chemical	CHEBI_50906
+15	2185	2194 molecules	Chemical	CHEBI_25367
+15	2467	2473 tumour	Phenotype	HP_0002664
+15	2832	2836 EGFR	Gene_function	GO_0005006
+15	2909	2918 prolonged	Phenotype	HP_0025297
+15	2953	2962 prolonged	Phenotype	HP_0025297
+15	DOID-HP	DOID_4	HP_0011010
+15	DOID-HP	DOID_4	HP_0002664
+15	DOID-GO	DOID_4	GO_0010467
+15	DOID-CHEBI	DOID_4	CHEBI_16991
+15	DOID-GO	DOID_4	GO_0006260
+15	DOID-GO	DOID_4	GO_0007049
+15	DOID-GO	DOID_4	GO_0019080
+15	DOID-GO	DOID_4	GO_0046903
+15	DOID-CHEBI	DOID_4	CHEBI_50906
+15	DOID-CHEBI	DOID_4	CHEBI_25367
+15	DOID-GO	DOID_4	GO_0005006
+15	DOID-HP	DOID_4	HP_0025297
+15	HP-HP	HP_0011010	HP_0002664
+15	HP-GO	HP_0011010	GO_0010467
+15	HP-CHEBI	HP_0011010	CHEBI_16991
+15	HP-GO	HP_0011010	GO_0006260
+15	HP-GO	HP_0011010	GO_0007049
+15	HP-GO	HP_0011010	GO_0019080
+15	HP-GO	HP_0011010	GO_0046903
+15	HP-CHEBI	HP_0011010	CHEBI_50906
+15	HP-CHEBI	HP_0011010	CHEBI_25367
+15	HP-GO	HP_0011010	GO_0005006
+15	HP-HP	HP_0011010	HP_0025297
+15	HP-GO	HP_0002664	GO_0010467
+15	HP-CHEBI	HP_0002664	CHEBI_16991
+15	HP-GO	HP_0002664	GO_0006260
+15	HP-GO	HP_0002664	GO_0007049
+15	HP-GO	HP_0002664	GO_0019080
+15	HP-GO	HP_0002664	GO_0046903
+15	HP-CHEBI	HP_0002664	CHEBI_50906
+15	HP-CHEBI	HP_0002664	CHEBI_25367
+15	HP-GO	HP_0002664	GO_0005006
+15	HP-HP	HP_0002664	HP_0025297
+15	GO-CHEBI	GO_0010467	CHEBI_16991
+15	GO-GO	GO_0010467	GO_0006260
+15	GO-GO	GO_0010467	GO_0007049
+15	GO-GO	GO_0010467	GO_0019080
+15	GO-GO	GO_0010467	GO_0046903
+15	GO-CHEBI	GO_0010467	CHEBI_50906
+15	GO-CHEBI	GO_0010467	CHEBI_25367
+15	GO-GO	GO_0010467	GO_0005006
+15	GO-HP	GO_0010467	HP_0025297
+15	CHEBI-GO	CHEBI_16991	GO_0006260
+15	CHEBI-GO	CHEBI_16991	GO_0007049
+15	CHEBI-GO	CHEBI_16991	GO_0019080
+15	CHEBI-GO	CHEBI_16991	GO_0046903
+15	CHEBI-CHEBI	CHEBI_16991	CHEBI_50906
+15	CHEBI-CHEBI	CHEBI_16991	CHEBI_25367
+15	CHEBI-GO	CHEBI_16991	GO_0005006
+15	CHEBI-HP	CHEBI_16991	HP_0025297
+15	GO-GO	GO_0006260	GO_0007049
+15	GO-GO	GO_0006260	GO_0019080
+15	GO-GO	GO_0006260	GO_0046903
+15	GO-CHEBI	GO_0006260	CHEBI_50906
+15	GO-CHEBI	GO_0006260	CHEBI_25367
+15	GO-GO	GO_0006260	GO_0005006
+15	GO-HP	GO_0006260	HP_0025297
+15	GO-GO	GO_0007049	GO_0019080
+15	GO-GO	GO_0007049	GO_0046903
+15	GO-CHEBI	GO_0007049	CHEBI_50906
+15	GO-CHEBI	GO_0007049	CHEBI_25367
+15	GO-GO	GO_0007049	GO_0005006
+15	GO-HP	GO_0007049	HP_0025297
+15	GO-GO	GO_0019080	GO_0046903
+15	GO-CHEBI	GO_0019080	CHEBI_50906
+15	GO-CHEBI	GO_0019080	CHEBI_25367
+15	GO-GO	GO_0019080	GO_0005006
+15	GO-HP	GO_0019080	HP_0025297
+15	GO-CHEBI	GO_0046903	CHEBI_50906
+15	GO-CHEBI	GO_0046903	CHEBI_25367
+15	GO-GO	GO_0046903	GO_0005006
+15	GO-HP	GO_0046903	HP_0025297
+15	CHEBI-CHEBI	CHEBI_50906	CHEBI_25367
+15	CHEBI-GO	CHEBI_50906	GO_0005006
+15	CHEBI-HP	CHEBI_50906	HP_0025297
+15	CHEBI-GO	CHEBI_25367	GO_0005006
+15	CHEBI-HP	CHEBI_25367	HP_0025297
+15	GO-HP	GO_0005006	HP_0025297
+
+16|chunk|The long persistence in liver macrophages was observed for a member of Flaviviridae family-the hepatitis C virus, albeit in small quantities. It was detected in cells up to 9 years after therapy [37] . Chronic HCV infection can lead to advanced liver fibrosis, cirrhosis and hepatocellular carcinoma and constitutes a significant health burden worldwide [115] . Despite the tropism to hepatocytes, monocytes/macrophages also play an important role in HCV replication in vivo, showing productive replication of a virus in a relatively nonspecific manner as long as macrophages survive [116] .
+16	95	104 hepatitis	Disease	DOID_2237
+16	95	104 hepatitis	Phenotype	HP_0012115
+16	95	106 hepatitis C	Disease	DOID_1883
+16	202	209 Chronic	Phenotype	HP_0011010
+16	261	270 cirrhosis	Disease	DOID_5082
+16	261	270 cirrhosis	Phenotype	HP_0001394
+16	275	299 hepatocellular carcinoma	Disease	DOID_684
+16	275	299 hepatocellular carcinoma	Phenotype	HP_0001402
+16	290	299 carcinoma	Disease	DOID_305
+16	290	299 carcinoma	Phenotype	HP_0030731
+16	374	381 tropism	Gene_function	GO_0009606
+16	443	447 role	Chemical	CHEBI_50906
+16	DOID-HP	DOID_2237	HP_0012115
+16	DOID-DOID	DOID_2237	DOID_1883
+16	DOID-HP	DOID_2237	HP_0011010
+16	DOID-DOID	DOID_2237	DOID_5082
+16	DOID-HP	DOID_2237	HP_0001394
+16	DOID-DOID	DOID_2237	DOID_684
+16	DOID-HP	DOID_2237	HP_0001402
+16	DOID-DOID	DOID_2237	DOID_305
+16	DOID-HP	DOID_2237	HP_0030731
+16	DOID-GO	DOID_2237	GO_0009606
+16	DOID-CHEBI	DOID_2237	CHEBI_50906
+16	HP-DOID	HP_0012115	DOID_1883
+16	HP-HP	HP_0012115	HP_0011010
+16	HP-DOID	HP_0012115	DOID_5082
+16	HP-HP	HP_0012115	HP_0001394
+16	HP-DOID	HP_0012115	DOID_684
+16	HP-HP	HP_0012115	HP_0001402
+16	HP-DOID	HP_0012115	DOID_305
+16	HP-HP	HP_0012115	HP_0030731
+16	HP-GO	HP_0012115	GO_0009606
+16	HP-CHEBI	HP_0012115	CHEBI_50906
+16	DOID-HP	DOID_1883	HP_0011010
+16	DOID-DOID	DOID_1883	DOID_5082
+16	DOID-HP	DOID_1883	HP_0001394
+16	DOID-DOID	DOID_1883	DOID_684
+16	DOID-HP	DOID_1883	HP_0001402
+16	DOID-DOID	DOID_1883	DOID_305
+16	DOID-HP	DOID_1883	HP_0030731
+16	DOID-GO	DOID_1883	GO_0009606
+16	DOID-CHEBI	DOID_1883	CHEBI_50906
+16	HP-DOID	HP_0011010	DOID_5082
+16	HP-HP	HP_0011010	HP_0001394
+16	HP-DOID	HP_0011010	DOID_684
+16	HP-HP	HP_0011010	HP_0001402
+16	HP-DOID	HP_0011010	DOID_305
+16	HP-HP	HP_0011010	HP_0030731
+16	HP-GO	HP_0011010	GO_0009606
+16	HP-CHEBI	HP_0011010	CHEBI_50906
+16	DOID-HP	DOID_5082	HP_0001394
+16	DOID-DOID	DOID_5082	DOID_684
+16	DOID-HP	DOID_5082	HP_0001402
+16	DOID-DOID	DOID_5082	DOID_305
+16	DOID-HP	DOID_5082	HP_0030731
+16	DOID-GO	DOID_5082	GO_0009606
+16	DOID-CHEBI	DOID_5082	CHEBI_50906
+16	HP-DOID	HP_0001394	DOID_684
+16	HP-HP	HP_0001394	HP_0001402
+16	HP-DOID	HP_0001394	DOID_305
+16	HP-HP	HP_0001394	HP_0030731
+16	HP-GO	HP_0001394	GO_0009606
+16	HP-CHEBI	HP_0001394	CHEBI_50906
+16	DOID-HP	DOID_684	HP_0001402
+16	DOID-DOID	DOID_684	DOID_305
+16	DOID-HP	DOID_684	HP_0030731
+16	DOID-GO	DOID_684	GO_0009606
+16	DOID-CHEBI	DOID_684	CHEBI_50906
+16	HP-DOID	HP_0001402	DOID_305
+16	HP-HP	HP_0001402	HP_0030731
+16	HP-GO	HP_0001402	GO_0009606
+16	HP-CHEBI	HP_0001402	CHEBI_50906
+16	DOID-HP	DOID_305	HP_0030731
+16	DOID-GO	DOID_305	GO_0009606
+16	DOID-CHEBI	DOID_305	CHEBI_50906
+16	HP-GO	HP_0030731	GO_0009606
+16	HP-CHEBI	HP_0030731	CHEBI_50906
+16	GO-CHEBI	GO_0009606	CHEBI_50906
+
+17|chunk|Flaviviruses successfully replicate their genome and can evade and/or subvert the macrophage response to favour survival and replication due to elevated TNF expression, along with the increased expression of NOS2 and the antiviral (but immune-suppressive) enzyme indolamine-2-3 dioxygenase production [40] . In addition to hepatocytes, microglial cells of HCV-infected individuals have been shown to be virus-positive, demonstrating significantly higher levels of proinflammatory cytokines IL-1a, IL-1b, TNFa, IL-12 and IL-18 and increased transcription of chemokines IL-8, IL-16 and IP-10 [38] . Some authors speculate that the release of proinflammatory cytokines and neurotoxins such as NO and HCV viral proteins upon infection could potentially induce changes in brain function, leading to neurocognitive dysfunction and depression [38] .
+17	221	230 antiviral	Chemical	CHEBI_22587
+17	670	681 neurotoxins	Chemical	CHEBI_50910
+17	707	715 proteins	Chemical	CHEBI_36080
+17	825	835 depression	Phenotype	HP_0000716
+17	CHEBI-CHEBI	CHEBI_22587	CHEBI_50910
+17	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+17	CHEBI-HP	CHEBI_22587	HP_0000716
+17	CHEBI-CHEBI	CHEBI_50910	CHEBI_36080
+17	CHEBI-HP	CHEBI_50910	HP_0000716
+17	CHEBI-HP	CHEBI_36080	HP_0000716
+
+18|chunk|Members of Togaviridae, the Chikungunya alphavirus and the Ross River virus, have been shown to persist in macrophages for a long time. CHIKV persist in synovial tissue after 18 months in patient after infection [50] , with the productive replication of virus in synovial macrophages [20] . The Ross River virus showed high level of replication in macrophages shortly after infection but viral antigens were also detectable by IFA analysis after 170 days in an in vitro model, indicating that the virus had not been completely cleared from the cells [52] . Despite the induced apoptosis in many cell types, CHIKV appears to launch a specific innate immune response in infected cells through the increased levels of TNFα, controlled by NFkB activation [49] . Moreover, this virus utilizes a high cell mortality for its dissemination into apoptotic blebs [20] .
+18	28	39 Chikungunya	Disease	DOID_0050012
+18	394	402 antigens	Chemical	CHEBI_59132
+18	642	664 innate immune response	Gene_function	GO_0045087
+18	649	664 immune response	Gene_function	GO_0006955
+18	DOID-CHEBI	DOID_0050012	CHEBI_59132
+18	DOID-GO	DOID_0050012	GO_0045087
+18	DOID-GO	DOID_0050012	GO_0006955
+18	CHEBI-GO	CHEBI_59132	GO_0045087
+18	CHEBI-GO	CHEBI_59132	GO_0006955
+18	GO-GO	GO_0045087	GO_0006955
+
+19|chunk|There are several examples of persistence that are very limited in the time or amount replication. It is known that lytic productive replication leads to high mortality of permissive cells but not in the case of macrophages. For example, macrophages carrying virus particles can survive due to the limited replication of virus, as was demonstrated for Frog virus 3 [25] . This phenomenon provides additional time for the dissemination in organism and to infect other cell populations in the vicinity. Among the viruses with short replication times in macrophages are the Theiler's murine encephalomyelitis virus (TMEV) and the respiratory syncytial virus (RSV). Experiments in vitro using different cell lines have demonstrated the upregulation of IL-10 and the downregulation of IFN-α, INF-β and IFN-g, which may contribute to the TMEV persistence. Upregulation of these mediators, as well as B-lymphocyte chemoattractant (BLC) and granulocyte colony-stimulating factor (G-CSF), were observed in macrophages after infection and may contribute to the acceleration of TMEV-induced demyelination resembling multiple sclerosis [46] . Information regarding cell machinery modifications upon TMEV infection is contradictory. There are alterations in the immune response of those cells that contribute to chronic inflammatory responses from macrophages and changes that allow infected macrophages to escape from immune response [117, 118] . Productive RSV infection was found in isolated human alveolar macrophages in vitro for at least 25 days, suggesting that macrophages may be important targets for RSV during acute infection [26] . RSV-infected cells showed lack of autocrine response to the constitutively produced IFN-β by inhibition of STAT1 phosphorylation. This may prevent the transcription of antiviral genes and consequently allow the maintenance of persistent RSV infection [27] .In addition to a group of viruses that can replicate their genome and produce infectious particles in monocyte/macrophage cells, there are a set that carry out a latent infection, exploiting cells only as a potential reservoir for viral storage.
+19	588	605 encephalomyelitis	Disease	DOID_640
+19	1080	1093 demyelination	Phenotype	HP_0011096
+19	1105	1123 multiple sclerosis	Disease	DOID_2377
+19	1249	1264 immune response	Gene_function	GO_0006955
+19	1299	1306 chronic	Phenotype	HP_0011010
+19	1406	1421 immune response	Gene_function	GO_0006955
+19	1608	1613 acute	Phenotype	HP_0011009
+19	1799	1808 antiviral	Chemical	CHEBI_22587
+19	DOID-HP	DOID_640	HP_0011096
+19	DOID-DOID	DOID_640	DOID_2377
+19	DOID-GO	DOID_640	GO_0006955
+19	DOID-HP	DOID_640	HP_0011010
+19	DOID-HP	DOID_640	HP_0011009
+19	DOID-CHEBI	DOID_640	CHEBI_22587
+19	HP-DOID	HP_0011096	DOID_2377
+19	HP-GO	HP_0011096	GO_0006955
+19	HP-HP	HP_0011096	HP_0011010
+19	HP-HP	HP_0011096	HP_0011009
+19	HP-CHEBI	HP_0011096	CHEBI_22587
+19	DOID-GO	DOID_2377	GO_0006955
+19	DOID-HP	DOID_2377	HP_0011010
+19	DOID-HP	DOID_2377	HP_0011009
+19	DOID-CHEBI	DOID_2377	CHEBI_22587
+19	GO-HP	GO_0006955	HP_0011010
+19	GO-HP	GO_0006955	HP_0011009
+19	GO-CHEBI	GO_0006955	CHEBI_22587
+19	HP-HP	HP_0011010	HP_0011009
+19	HP-CHEBI	HP_0011010	CHEBI_22587
+19	HP-CHEBI	HP_0011009	CHEBI_22587
+
+20|chunk|Some infection agents use macrophages to establish a latent infection. Viral latency characterized by the ability of a pathogenic virus to lie dormant within infected cells. It is a state of reversibly non-productive infection of cells and provides an important mechanism for viral persistence and escape from immune recognition and drug pressure [104] . It could contribute to several pathologies by promoting chronic inflammation and a subsequent predisposition to cognitive impairments, inflammatory demyelinating disease and multiple sclerosis, precancerous lesions and cancer [12] . Human herpesvirus 8 (HHV-8) infection correlates with an elevated risk of prostate cancer development. HHV-8 was shown to establish a chronic latent infection in epithelial cells and macrophages, which contributed to increased macrophage infiltration in tissue that serve as a cofactor for prostate cancer development in Tobagonian males [68] . Other viruses, such as retroviruses, flaviviruses, alphaviruses, picornaviruses and rhabdoviruses, are commonly associated with skeletal muscle infection and inflammation, leading to either direct infection of myofibers or infiltrating inflammatory macrophages [48] . Although macrophages are not the major reservoirs of varicella zoster virus (VZV), infection causes an intense inflammatory response during the reactivation of VZV, leading to widespread necrosis of glial cells and neurons [70] . Clinically, herpes zoster is associated with severe, acute pain and frequently, prolonged severe pain or post herpetic neuralgia. It often requires follow-up medical care for months or even years after the initial attack [70] .
+20	71	84 Viral latency	Gene_function	GO_0019042
+20	333	337 drug	Chemical	CHEBI_23888
+20	411	418 chronic	Phenotype	HP_0011010
+20	503	524 demyelinating disease	Disease	DOID_3213
+20	517	524 disease	Disease	DOID_4
+20	574	580 cancer	Disease	DOID_162
+20	574	580 cancer	Phenotype	HP_0002664
+20	662	677 prostate cancer	Disease	DOID_10283
+20	662	677 prostate cancer	Phenotype	HP_0012125
+20	671	677 cancer	Disease	DOID_162
+20	671	677 cancer	Phenotype	HP_0002664
+20	722	729 chronic	Phenotype	HP_0011010
+20	865	873 cofactor	Chemical	CHEBI_23357
+20	878	893 prostate cancer	Disease	DOID_10283
+20	878	893 prostate cancer	Phenotype	HP_0012125
+20	887	893 cancer	Disease	DOID_162
+20	887	893 cancer	Phenotype	HP_0002664
+20	1254	1263 varicella	Disease	DOID_8659
+20	1312	1333 inflammatory response	Gene_function	GO_0006954
+20	1388	1396 necrosis	Gene_function	GO_0001906
+20	1443	1456 herpes zoster	Disease	DOID_8536
+20	1476	1482 severe	Phenotype	HP_0012828
+20	1484	1489 acute	Phenotype	HP_0011009
+20	1490	1494 pain	Phenotype	HP_0012531
+20	1511	1520 prolonged	Phenotype	HP_0025297
+20	1521	1527 severe	Phenotype	HP_0012828
+20	1528	1532 pain	Phenotype	HP_0012531
+20	GO-CHEBI	GO_0019042	CHEBI_23888
+20	GO-HP	GO_0019042	HP_0011010
+20	GO-DOID	GO_0019042	DOID_3213
+20	GO-DOID	GO_0019042	DOID_4
+20	GO-DOID	GO_0019042	DOID_162
+20	GO-HP	GO_0019042	HP_0002664
+20	GO-DOID	GO_0019042	DOID_10283
+20	GO-HP	GO_0019042	HP_0012125
+20	GO-CHEBI	GO_0019042	CHEBI_23357
+20	GO-DOID	GO_0019042	DOID_8659
+20	GO-GO	GO_0019042	GO_0006954
+20	GO-GO	GO_0019042	GO_0001906
+20	GO-DOID	GO_0019042	DOID_8536
+20	GO-HP	GO_0019042	HP_0012828
+20	GO-HP	GO_0019042	HP_0011009
+20	GO-HP	GO_0019042	HP_0012531
+20	GO-HP	GO_0019042	HP_0025297
+20	CHEBI-HP	CHEBI_23888	HP_0011010
+20	CHEBI-DOID	CHEBI_23888	DOID_3213
+20	CHEBI-DOID	CHEBI_23888	DOID_4
+20	CHEBI-DOID	CHEBI_23888	DOID_162
+20	CHEBI-HP	CHEBI_23888	HP_0002664
+20	CHEBI-DOID	CHEBI_23888	DOID_10283
+20	CHEBI-HP	CHEBI_23888	HP_0012125
+20	CHEBI-CHEBI	CHEBI_23888	CHEBI_23357
+20	CHEBI-DOID	CHEBI_23888	DOID_8659
+20	CHEBI-GO	CHEBI_23888	GO_0006954
+20	CHEBI-GO	CHEBI_23888	GO_0001906
+20	CHEBI-DOID	CHEBI_23888	DOID_8536
+20	CHEBI-HP	CHEBI_23888	HP_0012828
+20	CHEBI-HP	CHEBI_23888	HP_0011009
+20	CHEBI-HP	CHEBI_23888	HP_0012531
+20	CHEBI-HP	CHEBI_23888	HP_0025297
+20	HP-DOID	HP_0011010	DOID_3213
+20	HP-DOID	HP_0011010	DOID_4
+20	HP-DOID	HP_0011010	DOID_162
+20	HP-HP	HP_0011010	HP_0002664
+20	HP-DOID	HP_0011010	DOID_10283
+20	HP-HP	HP_0011010	HP_0012125
+20	HP-CHEBI	HP_0011010	CHEBI_23357
+20	HP-DOID	HP_0011010	DOID_8659
+20	HP-GO	HP_0011010	GO_0006954
+20	HP-GO	HP_0011010	GO_0001906
+20	HP-DOID	HP_0011010	DOID_8536
+20	HP-HP	HP_0011010	HP_0012828
+20	HP-HP	HP_0011010	HP_0011009
+20	HP-HP	HP_0011010	HP_0012531
+20	HP-HP	HP_0011010	HP_0025297
+20	DOID-DOID	DOID_3213	DOID_4
+20	DOID-DOID	DOID_3213	DOID_162
+20	DOID-HP	DOID_3213	HP_0002664
+20	DOID-DOID	DOID_3213	DOID_10283
+20	DOID-HP	DOID_3213	HP_0012125
+20	DOID-CHEBI	DOID_3213	CHEBI_23357
+20	DOID-DOID	DOID_3213	DOID_8659
+20	DOID-GO	DOID_3213	GO_0006954
+20	DOID-GO	DOID_3213	GO_0001906
+20	DOID-DOID	DOID_3213	DOID_8536
+20	DOID-HP	DOID_3213	HP_0012828
+20	DOID-HP	DOID_3213	HP_0011009
+20	DOID-HP	DOID_3213	HP_0012531
+20	DOID-HP	DOID_3213	HP_0025297
+20	DOID-DOID	DOID_4	DOID_162
+20	DOID-HP	DOID_4	HP_0002664
+20	DOID-DOID	DOID_4	DOID_10283
+20	DOID-HP	DOID_4	HP_0012125
+20	DOID-CHEBI	DOID_4	CHEBI_23357
+20	DOID-DOID	DOID_4	DOID_8659
+20	DOID-GO	DOID_4	GO_0006954
+20	DOID-GO	DOID_4	GO_0001906
+20	DOID-DOID	DOID_4	DOID_8536
+20	DOID-HP	DOID_4	HP_0012828
+20	DOID-HP	DOID_4	HP_0011009
+20	DOID-HP	DOID_4	HP_0012531
+20	DOID-HP	DOID_4	HP_0025297
+20	DOID-HP	DOID_162	HP_0002664
+20	DOID-DOID	DOID_162	DOID_10283
+20	DOID-HP	DOID_162	HP_0012125
+20	DOID-CHEBI	DOID_162	CHEBI_23357
+20	DOID-DOID	DOID_162	DOID_8659
+20	DOID-GO	DOID_162	GO_0006954
+20	DOID-GO	DOID_162	GO_0001906
+20	DOID-DOID	DOID_162	DOID_8536
+20	DOID-HP	DOID_162	HP_0012828
+20	DOID-HP	DOID_162	HP_0011009
+20	DOID-HP	DOID_162	HP_0012531
+20	DOID-HP	DOID_162	HP_0025297
+20	HP-DOID	HP_0002664	DOID_10283
+20	HP-HP	HP_0002664	HP_0012125
+20	HP-CHEBI	HP_0002664	CHEBI_23357
+20	HP-DOID	HP_0002664	DOID_8659
+20	HP-GO	HP_0002664	GO_0006954
+20	HP-GO	HP_0002664	GO_0001906
+20	HP-DOID	HP_0002664	DOID_8536
+20	HP-HP	HP_0002664	HP_0012828
+20	HP-HP	HP_0002664	HP_0011009
+20	HP-HP	HP_0002664	HP_0012531
+20	HP-HP	HP_0002664	HP_0025297
+20	DOID-HP	DOID_10283	HP_0012125
+20	DOID-CHEBI	DOID_10283	CHEBI_23357
+20	DOID-DOID	DOID_10283	DOID_8659
+20	DOID-GO	DOID_10283	GO_0006954
+20	DOID-GO	DOID_10283	GO_0001906
+20	DOID-DOID	DOID_10283	DOID_8536
+20	DOID-HP	DOID_10283	HP_0012828
+20	DOID-HP	DOID_10283	HP_0011009
+20	DOID-HP	DOID_10283	HP_0012531
+20	DOID-HP	DOID_10283	HP_0025297
+20	HP-CHEBI	HP_0012125	CHEBI_23357
+20	HP-DOID	HP_0012125	DOID_8659
+20	HP-GO	HP_0012125	GO_0006954
+20	HP-GO	HP_0012125	GO_0001906
+20	HP-DOID	HP_0012125	DOID_8536
+20	HP-HP	HP_0012125	HP_0012828
+20	HP-HP	HP_0012125	HP_0011009
+20	HP-HP	HP_0012125	HP_0012531
+20	HP-HP	HP_0012125	HP_0025297
+20	CHEBI-DOID	CHEBI_23357	DOID_8659
+20	CHEBI-GO	CHEBI_23357	GO_0006954
+20	CHEBI-GO	CHEBI_23357	GO_0001906
+20	CHEBI-DOID	CHEBI_23357	DOID_8536
+20	CHEBI-HP	CHEBI_23357	HP_0012828
+20	CHEBI-HP	CHEBI_23357	HP_0011009
+20	CHEBI-HP	CHEBI_23357	HP_0012531
+20	CHEBI-HP	CHEBI_23357	HP_0025297
+20	DOID-GO	DOID_8659	GO_0006954
+20	DOID-GO	DOID_8659	GO_0001906
+20	DOID-DOID	DOID_8659	DOID_8536
+20	DOID-HP	DOID_8659	HP_0012828
+20	DOID-HP	DOID_8659	HP_0011009
+20	DOID-HP	DOID_8659	HP_0012531
+20	DOID-HP	DOID_8659	HP_0025297
+20	GO-GO	GO_0006954	GO_0001906
+20	GO-DOID	GO_0006954	DOID_8536
+20	GO-HP	GO_0006954	HP_0012828
+20	GO-HP	GO_0006954	HP_0011009
+20	GO-HP	GO_0006954	HP_0012531
+20	GO-HP	GO_0006954	HP_0025297
+20	GO-DOID	GO_0001906	DOID_8536
+20	GO-HP	GO_0001906	HP_0012828
+20	GO-HP	GO_0001906	HP_0011009
+20	GO-HP	GO_0001906	HP_0012531
+20	GO-HP	GO_0001906	HP_0025297
+20	DOID-HP	DOID_8536	HP_0012828
+20	DOID-HP	DOID_8536	HP_0011009
+20	DOID-HP	DOID_8536	HP_0012531
+20	DOID-HP	DOID_8536	HP_0025297
+20	HP-HP	HP_0012828	HP_0011009
+20	HP-HP	HP_0012828	HP_0012531
+20	HP-HP	HP_0012828	HP_0025297
+20	HP-HP	HP_0011009	HP_0012531
+20	HP-HP	HP_0011009	HP_0025297
+20	HP-HP	HP_0012531	HP_0025297
+
+21|chunk|A member of the Flaviviridae family, Zika virus, was identified in 1947 but initially garnered little interest from scientists. Today, it attracts much attention within the scientific community given the recent evidence of linkages to microcephaly in new-borns, central nervous system abnormalities, foetal growth restriction, maternal Guillain-Barré symptoms and its rapid spread around the globe [3] . Human placental macrophages, called Hofbauer cells, play a prominent role in virus dissemination. Zika virus replicates in macrophages for at least 96 hours after infection in vitro, which lead to little induction of pro-inflammatory cytokines and chemokines and antiviral gene expression, with minimal cell death [41] . It results in a weaker immune response that prolongs the virus infection and persistence in body tissues [119] Infected macrophages showed strong activation of migration inhibitory factor (MIF), which leads to a higher migration ability of infected cells and can boost virus ability to cross the placental barrier and promote its spread in the body [119] .
+21	235	247 microcephaly	Disease	DOID_10907
+21	235	247 microcephaly	Phenotype	HP_0000252
+21	262	269 central	Phenotype	HP_0030645
+21	307	313 growth	Gene_function	GO_0040007
+21	473	477 role	Chemical	CHEBI_50906
+21	667	676 antiviral	Chemical	CHEBI_22587
+21	707	717 cell death	Gene_function	GO_0008219
+21	748	763 immune response	Gene_function	GO_0006955
+21	782	797 virus infection	Disease	DOID_934
+21	DOID-HP	DOID_10907	HP_0000252
+21	DOID-HP	DOID_10907	HP_0030645
+21	DOID-GO	DOID_10907	GO_0040007
+21	DOID-CHEBI	DOID_10907	CHEBI_50906
+21	DOID-CHEBI	DOID_10907	CHEBI_22587
+21	DOID-GO	DOID_10907	GO_0008219
+21	DOID-GO	DOID_10907	GO_0006955
+21	DOID-DOID	DOID_10907	DOID_934
+21	HP-HP	HP_0000252	HP_0030645
+21	HP-GO	HP_0000252	GO_0040007
+21	HP-CHEBI	HP_0000252	CHEBI_50906
+21	HP-CHEBI	HP_0000252	CHEBI_22587
+21	HP-GO	HP_0000252	GO_0008219
+21	HP-GO	HP_0000252	GO_0006955
+21	HP-DOID	HP_0000252	DOID_934
+21	HP-GO	HP_0030645	GO_0040007
+21	HP-CHEBI	HP_0030645	CHEBI_50906
+21	HP-CHEBI	HP_0030645	CHEBI_22587
+21	HP-GO	HP_0030645	GO_0008219
+21	HP-GO	HP_0030645	GO_0006955
+21	HP-DOID	HP_0030645	DOID_934
+21	GO-CHEBI	GO_0040007	CHEBI_50906
+21	GO-CHEBI	GO_0040007	CHEBI_22587
+21	GO-GO	GO_0040007	GO_0008219
+21	GO-GO	GO_0040007	GO_0006955
+21	GO-DOID	GO_0040007	DOID_934
+21	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+21	CHEBI-GO	CHEBI_50906	GO_0008219
+21	CHEBI-GO	CHEBI_50906	GO_0006955
+21	CHEBI-DOID	CHEBI_50906	DOID_934
+21	CHEBI-GO	CHEBI_22587	GO_0008219
+21	CHEBI-GO	CHEBI_22587	GO_0006955
+21	CHEBI-DOID	CHEBI_22587	DOID_934
+21	GO-GO	GO_0008219	GO_0006955
+21	GO-DOID	GO_0008219	DOID_934
+21	GO-DOID	GO_0006955	DOID_934
+
+22|chunk|Several types of viruses utilize macrophages as a potential reservoir for viral storage in the absence of replication, as was demonstrated for vesicular stomatitis virus [32] . It was shown that macrophages are the major target cells of Maedi-visna virus despite very limited replication in the animal host [57] . HHV-6 infection is typically non-productive in macrophages; nevertheless, it induces severe functional abnormalities, including the selective suppression of IL-12, a critical cytokine in the generation of M1-polarized antiviral immune responses [63] . An additional mechanism of cell transformation utilized by HHV-6 is immunomodulation, which includes alterations in the cell surface receptor expression that can facilitate its own spread and persistence [63] .
+22	153	163 stomatitis	Disease	DOID_9637
+22	153	163 stomatitis	Phenotype	HP_0010280
+22	399	405 severe	Phenotype	HP_0012828
+22	532	541 antiviral	Chemical	CHEBI_22587
+22	686	698 cell surface	Gene_function	GO_0009986
+22	DOID-HP	DOID_9637	HP_0010280
+22	DOID-HP	DOID_9637	HP_0012828
+22	DOID-CHEBI	DOID_9637	CHEBI_22587
+22	DOID-GO	DOID_9637	GO_0009986
+22	HP-HP	HP_0010280	HP_0012828
+22	HP-CHEBI	HP_0010280	CHEBI_22587
+22	HP-GO	HP_0010280	GO_0009986
+22	HP-CHEBI	HP_0012828	CHEBI_22587
+22	HP-GO	HP_0012828	GO_0009986
+22	CHEBI-GO	CHEBI_22587	GO_0009986
+
+23|chunk|Therefore, it has to be assumed that viruses manipulate the cell biology of monocytes/macrophages in order to utilize them as a repository for dissemination, to promote long-term persistence within infected tissues and for enabling virus replication under favourable conditions.
+
+24|chunk|Monocytes/macrophages play a critical role in several virus-mediated diseases and represent a major hurdle for treatment. Therapeutic targeting of macrophages is challenging, as these cells reside broadly dispersed in nearly all tissues, including those that are difficult to access with drugs such as the CNS and adipose tissue. Nevertheless, several attempts have been undertaken.HIV-1 persists in CD4+ T cells and macrophages and cannot be eliminated by antiretroviral therapy [106] . There are several therapeutic agents available on market; however, for macrophages, protease inhibitors (PIs) are currently the only approved drugs. One of the hurdles to clinical implementation is the pharmacokinetics of a drug. When targeting macrophages, approximately 15-to 89-fold higher concentrations of PIs are required compared with CD4+ T cells [120] . Despite the failure of macrophage-HIV eradication, another innovative idea has been successfully implemented. Liao H.K. et al. (2015) [121] showed a significant reduction of HIV-1 expression by using a multiplexed CRISPR/Cas9 system. The result was also confirmed in primary CD4+ T cells [122] .
+24	38	42 role	Chemical	CHEBI_50906
+24	288	293 drugs	Chemical	CHEBI_23888
+24	572	591 protease inhibitors	Chemical	CHEBI_37670
+24	581	591 inhibitors	Chemical	CHEBI_35222
+24	593	596 PIs	Chemical	CHEBI_53232
+24	630	635 drugs	Chemical	CHEBI_23888
+24	799	802 PIs	Chemical	CHEBI_53232
+24	CHEBI-CHEBI	CHEBI_50906	CHEBI_23888
+24	CHEBI-CHEBI	CHEBI_50906	CHEBI_37670
+24	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+24	CHEBI-CHEBI	CHEBI_50906	CHEBI_53232
+24	CHEBI-CHEBI	CHEBI_23888	CHEBI_37670
+24	CHEBI-CHEBI	CHEBI_23888	CHEBI_35222
+24	CHEBI-CHEBI	CHEBI_23888	CHEBI_53232
+24	CHEBI-CHEBI	CHEBI_37670	CHEBI_35222
+24	CHEBI-CHEBI	CHEBI_37670	CHEBI_53232
+24	CHEBI-CHEBI	CHEBI_35222	CHEBI_53232
+
+25|chunk|When activated by HCV, macrophages play a critical role in hepatic inflammation and fibrosis progression [123] . The approved direct-acting antiviral (DAA) therapy for HCV patients aims for viral clearance, mainly in hepatocytes. However, recent data show a positive effect of the treatment on myeloid cells. A sustained virological response, as assessed by the kinetics of soluble CD163 in the serum of patients, was achieved for the clearance of the HCV virus, with consequent mitigation of inflammation, confirming the relevance of monocyte/macrophage populations in HCV-mediated liver pathologies [123] . JEV and West Nile virus are the leading cause of acute viral meningoencephalitis worldwide [124] . Recently, a pharmacologic method of microglia depletion (PLX5622, Plexxikon Inc., Berkeley, CA, USA, an inhibitor of colony-stimulating factor 1 receptor) has been applied experimentally to evaluate macrophage involvement in viral clearance and CNS injury as part of the neuroinflammatory process [125] . It is known that microglial cells are a significant target for the Japanese encephalitis virus [125] . Seitz S. et al. (2018) [125] showed that PLX5622 treatment lead to a dramatically increased disease severity and increased virus titres and mortality following Flavivirus infection. The authors speculate that microglia could have an additional protective function that is critical in controlling viral infection [125] . These data demonstrate the crucial role of macrophages in virus establishment and clearance and should be taken into consideration when targeting macrophages in therapeutic interventions. Apart from antiviral therapy, nonsteroidal anti-inflammatory drugs are used for virus-induced pathologies; this has been applied for the Ross River virus and other viral arthritides [126] . RRV causes arthralgia and/or arthritis, with many patients experiencing myalgia and fatigue and some experiencing fever and rash [127] . Macrophages are central players in the onset of viral arthropathies, expressing a spectrum of cytokines and chemokines upon infection. Rulli N.E. et al. (2009) [126] demonstrated that bindarit-based treatment (an inhibitor of chemokine synthesis) reduced macrophage infiltration into the muscles and joints, which led to reduced TNFα and NOS2 expression; this resulted in reduced tissue damage and a significant amelioration of disease symptoms.
+25	51	55 role	Chemical	CHEBI_50906
+25	140	149 antiviral	Chemical	CHEBI_22587
+25	658	663 acute	Phenotype	HP_0011009
+25	670	689 meningoencephalitis	Disease	DOID_10554
+25	812	821 inhibitor	Chemical	CHEBI_35222
+25	1080	1101 Japanese encephalitis	Disease	DOID_10844
+25	1089	1101 encephalitis	Disease	DOID_9588
+25	1089	1101 encephalitis	Phenotype	HP_0002383
+25	1208	1215 disease	Disease	DOID_4
+25	1216	1224 severity	Phenotype	HP_0012824
+25	1412	1427 viral infection	Disease	DOID_934
+25	1412	1427 viral infection	Gene_function	GO_0016032
+25	1471	1475 role	Chemical	CHEBI_50906
+25	1635	1644 antiviral	Chemical	CHEBI_22587
+25	1667	1690 anti-inflammatory drugs	Chemical	CHEBI_35472
+25	1685	1690 drugs	Chemical	CHEBI_23888
+25	1825	1835 arthralgia	Phenotype	HP_0002829
+25	1886	1893 myalgia	Phenotype	HP_0003326
+25	1898	1905 fatigue	Phenotype	HP_0012378
+25	1928	1933 fever	Phenotype	HP_0001945
+25	1938	1942 rash	Disease	DOID_0050486
+25	1938	1942 rash	Phenotype	HP_0000988
+25	1967	1974 central	Phenotype	HP_0030645
+25	1990	1995 onset	Phenotype	HP_0003674
+25	2164	2173 inhibitor	Chemical	CHEBI_35222
+25	2177	2196 chemokine synthesis	Gene_function	GO_0042033
+25	2187	2196 synthesis	Gene_function	GO_0009058
+25	2379	2386 disease	Disease	DOID_4
+25	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+25	CHEBI-HP	CHEBI_50906	HP_0011009
+25	CHEBI-DOID	CHEBI_50906	DOID_10554
+25	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+25	CHEBI-DOID	CHEBI_50906	DOID_10844
+25	CHEBI-DOID	CHEBI_50906	DOID_9588
+25	CHEBI-HP	CHEBI_50906	HP_0002383
+25	CHEBI-DOID	CHEBI_50906	DOID_4
+25	CHEBI-HP	CHEBI_50906	HP_0012824
+25	CHEBI-DOID	CHEBI_50906	DOID_934
+25	CHEBI-GO	CHEBI_50906	GO_0016032
+25	CHEBI-CHEBI	CHEBI_50906	CHEBI_35472
+25	CHEBI-CHEBI	CHEBI_50906	CHEBI_23888
+25	CHEBI-HP	CHEBI_50906	HP_0002829
+25	CHEBI-HP	CHEBI_50906	HP_0003326
+25	CHEBI-HP	CHEBI_50906	HP_0012378
+25	CHEBI-HP	CHEBI_50906	HP_0001945
+25	CHEBI-DOID	CHEBI_50906	DOID_0050486
+25	CHEBI-HP	CHEBI_50906	HP_0000988
+25	CHEBI-HP	CHEBI_50906	HP_0030645
+25	CHEBI-HP	CHEBI_50906	HP_0003674
+25	CHEBI-GO	CHEBI_50906	GO_0042033
+25	CHEBI-GO	CHEBI_50906	GO_0009058
+25	CHEBI-HP	CHEBI_22587	HP_0011009
+25	CHEBI-DOID	CHEBI_22587	DOID_10554
+25	CHEBI-CHEBI	CHEBI_22587	CHEBI_35222
+25	CHEBI-DOID	CHEBI_22587	DOID_10844
+25	CHEBI-DOID	CHEBI_22587	DOID_9588
+25	CHEBI-HP	CHEBI_22587	HP_0002383
+25	CHEBI-DOID	CHEBI_22587	DOID_4
+25	CHEBI-HP	CHEBI_22587	HP_0012824
+25	CHEBI-DOID	CHEBI_22587	DOID_934
+25	CHEBI-GO	CHEBI_22587	GO_0016032
+25	CHEBI-CHEBI	CHEBI_22587	CHEBI_35472
+25	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+25	CHEBI-HP	CHEBI_22587	HP_0002829
+25	CHEBI-HP	CHEBI_22587	HP_0003326
+25	CHEBI-HP	CHEBI_22587	HP_0012378
+25	CHEBI-HP	CHEBI_22587	HP_0001945
+25	CHEBI-DOID	CHEBI_22587	DOID_0050486
+25	CHEBI-HP	CHEBI_22587	HP_0000988
+25	CHEBI-HP	CHEBI_22587	HP_0030645
+25	CHEBI-HP	CHEBI_22587	HP_0003674
+25	CHEBI-GO	CHEBI_22587	GO_0042033
+25	CHEBI-GO	CHEBI_22587	GO_0009058
+25	HP-DOID	HP_0011009	DOID_10554
+25	HP-CHEBI	HP_0011009	CHEBI_35222
+25	HP-DOID	HP_0011009	DOID_10844
+25	HP-DOID	HP_0011009	DOID_9588
+25	HP-HP	HP_0011009	HP_0002383
+25	HP-DOID	HP_0011009	DOID_4
+25	HP-HP	HP_0011009	HP_0012824
+25	HP-DOID	HP_0011009	DOID_934
+25	HP-GO	HP_0011009	GO_0016032
+25	HP-CHEBI	HP_0011009	CHEBI_35472
+25	HP-CHEBI	HP_0011009	CHEBI_23888
+25	HP-HP	HP_0011009	HP_0002829
+25	HP-HP	HP_0011009	HP_0003326
+25	HP-HP	HP_0011009	HP_0012378
+25	HP-HP	HP_0011009	HP_0001945
+25	HP-DOID	HP_0011009	DOID_0050486
+25	HP-HP	HP_0011009	HP_0000988
+25	HP-HP	HP_0011009	HP_0030645
+25	HP-HP	HP_0011009	HP_0003674
+25	HP-GO	HP_0011009	GO_0042033
+25	HP-GO	HP_0011009	GO_0009058
+25	DOID-CHEBI	DOID_10554	CHEBI_35222
+25	DOID-DOID	DOID_10554	DOID_10844
+25	DOID-DOID	DOID_10554	DOID_9588
+25	DOID-HP	DOID_10554	HP_0002383
+25	DOID-DOID	DOID_10554	DOID_4
+25	DOID-HP	DOID_10554	HP_0012824
+25	DOID-DOID	DOID_10554	DOID_934
+25	DOID-GO	DOID_10554	GO_0016032
+25	DOID-CHEBI	DOID_10554	CHEBI_35472
+25	DOID-CHEBI	DOID_10554	CHEBI_23888
+25	DOID-HP	DOID_10554	HP_0002829
+25	DOID-HP	DOID_10554	HP_0003326
+25	DOID-HP	DOID_10554	HP_0012378
+25	DOID-HP	DOID_10554	HP_0001945
+25	DOID-DOID	DOID_10554	DOID_0050486
+25	DOID-HP	DOID_10554	HP_0000988
+25	DOID-HP	DOID_10554	HP_0030645
+25	DOID-HP	DOID_10554	HP_0003674
+25	DOID-GO	DOID_10554	GO_0042033
+25	DOID-GO	DOID_10554	GO_0009058
+25	CHEBI-DOID	CHEBI_35222	DOID_10844
+25	CHEBI-DOID	CHEBI_35222	DOID_9588
+25	CHEBI-HP	CHEBI_35222	HP_0002383
+25	CHEBI-DOID	CHEBI_35222	DOID_4
+25	CHEBI-HP	CHEBI_35222	HP_0012824
+25	CHEBI-DOID	CHEBI_35222	DOID_934
+25	CHEBI-GO	CHEBI_35222	GO_0016032
+25	CHEBI-CHEBI	CHEBI_35222	CHEBI_35472
+25	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+25	CHEBI-HP	CHEBI_35222	HP_0002829
+25	CHEBI-HP	CHEBI_35222	HP_0003326
+25	CHEBI-HP	CHEBI_35222	HP_0012378
+25	CHEBI-HP	CHEBI_35222	HP_0001945
+25	CHEBI-DOID	CHEBI_35222	DOID_0050486
+25	CHEBI-HP	CHEBI_35222	HP_0000988
+25	CHEBI-HP	CHEBI_35222	HP_0030645
+25	CHEBI-HP	CHEBI_35222	HP_0003674
+25	CHEBI-GO	CHEBI_35222	GO_0042033
+25	CHEBI-GO	CHEBI_35222	GO_0009058
+25	DOID-DOID	DOID_10844	DOID_9588
+25	DOID-HP	DOID_10844	HP_0002383
+25	DOID-DOID	DOID_10844	DOID_4
+25	DOID-HP	DOID_10844	HP_0012824
+25	DOID-DOID	DOID_10844	DOID_934
+25	DOID-GO	DOID_10844	GO_0016032
+25	DOID-CHEBI	DOID_10844	CHEBI_35472
+25	DOID-CHEBI	DOID_10844	CHEBI_23888
+25	DOID-HP	DOID_10844	HP_0002829
+25	DOID-HP	DOID_10844	HP_0003326
+25	DOID-HP	DOID_10844	HP_0012378
+25	DOID-HP	DOID_10844	HP_0001945
+25	DOID-DOID	DOID_10844	DOID_0050486
+25	DOID-HP	DOID_10844	HP_0000988
+25	DOID-HP	DOID_10844	HP_0030645
+25	DOID-HP	DOID_10844	HP_0003674
+25	DOID-GO	DOID_10844	GO_0042033
+25	DOID-GO	DOID_10844	GO_0009058
+25	DOID-HP	DOID_9588	HP_0002383
+25	DOID-DOID	DOID_9588	DOID_4
+25	DOID-HP	DOID_9588	HP_0012824
+25	DOID-DOID	DOID_9588	DOID_934
+25	DOID-GO	DOID_9588	GO_0016032
+25	DOID-CHEBI	DOID_9588	CHEBI_35472
+25	DOID-CHEBI	DOID_9588	CHEBI_23888
+25	DOID-HP	DOID_9588	HP_0002829
+25	DOID-HP	DOID_9588	HP_0003326
+25	DOID-HP	DOID_9588	HP_0012378
+25	DOID-HP	DOID_9588	HP_0001945
+25	DOID-DOID	DOID_9588	DOID_0050486
+25	DOID-HP	DOID_9588	HP_0000988
+25	DOID-HP	DOID_9588	HP_0030645
+25	DOID-HP	DOID_9588	HP_0003674
+25	DOID-GO	DOID_9588	GO_0042033
+25	DOID-GO	DOID_9588	GO_0009058
+25	HP-DOID	HP_0002383	DOID_4
+25	HP-HP	HP_0002383	HP_0012824
+25	HP-DOID	HP_0002383	DOID_934
+25	HP-GO	HP_0002383	GO_0016032
+25	HP-CHEBI	HP_0002383	CHEBI_35472
+25	HP-CHEBI	HP_0002383	CHEBI_23888
+25	HP-HP	HP_0002383	HP_0002829
+25	HP-HP	HP_0002383	HP_0003326
+25	HP-HP	HP_0002383	HP_0012378
+25	HP-HP	HP_0002383	HP_0001945
+25	HP-DOID	HP_0002383	DOID_0050486
+25	HP-HP	HP_0002383	HP_0000988
+25	HP-HP	HP_0002383	HP_0030645
+25	HP-HP	HP_0002383	HP_0003674
+25	HP-GO	HP_0002383	GO_0042033
+25	HP-GO	HP_0002383	GO_0009058
+25	DOID-HP	DOID_4	HP_0012824
+25	DOID-DOID	DOID_4	DOID_934
+25	DOID-GO	DOID_4	GO_0016032
+25	DOID-CHEBI	DOID_4	CHEBI_35472
+25	DOID-CHEBI	DOID_4	CHEBI_23888
+25	DOID-HP	DOID_4	HP_0002829
+25	DOID-HP	DOID_4	HP_0003326
+25	DOID-HP	DOID_4	HP_0012378
+25	DOID-HP	DOID_4	HP_0001945
+25	DOID-DOID	DOID_4	DOID_0050486
+25	DOID-HP	DOID_4	HP_0000988
+25	DOID-HP	DOID_4	HP_0030645
+25	DOID-HP	DOID_4	HP_0003674
+25	DOID-GO	DOID_4	GO_0042033
+25	DOID-GO	DOID_4	GO_0009058
+25	HP-DOID	HP_0012824	DOID_934
+25	HP-GO	HP_0012824	GO_0016032
+25	HP-CHEBI	HP_0012824	CHEBI_35472
+25	HP-CHEBI	HP_0012824	CHEBI_23888
+25	HP-HP	HP_0012824	HP_0002829
+25	HP-HP	HP_0012824	HP_0003326
+25	HP-HP	HP_0012824	HP_0012378
+25	HP-HP	HP_0012824	HP_0001945
+25	HP-DOID	HP_0012824	DOID_0050486
+25	HP-HP	HP_0012824	HP_0000988
+25	HP-HP	HP_0012824	HP_0030645
+25	HP-HP	HP_0012824	HP_0003674
+25	HP-GO	HP_0012824	GO_0042033
+25	HP-GO	HP_0012824	GO_0009058
+25	DOID-GO	DOID_934	GO_0016032
+25	DOID-CHEBI	DOID_934	CHEBI_35472
+25	DOID-CHEBI	DOID_934	CHEBI_23888
+25	DOID-HP	DOID_934	HP_0002829
+25	DOID-HP	DOID_934	HP_0003326
+25	DOID-HP	DOID_934	HP_0012378
+25	DOID-HP	DOID_934	HP_0001945
+25	DOID-DOID	DOID_934	DOID_0050486
+25	DOID-HP	DOID_934	HP_0000988
+25	DOID-HP	DOID_934	HP_0030645
+25	DOID-HP	DOID_934	HP_0003674
+25	DOID-GO	DOID_934	GO_0042033
+25	DOID-GO	DOID_934	GO_0009058
+25	GO-CHEBI	GO_0016032	CHEBI_35472
+25	GO-CHEBI	GO_0016032	CHEBI_23888
+25	GO-HP	GO_0016032	HP_0002829
+25	GO-HP	GO_0016032	HP_0003326
+25	GO-HP	GO_0016032	HP_0012378
+25	GO-HP	GO_0016032	HP_0001945
+25	GO-DOID	GO_0016032	DOID_0050486
+25	GO-HP	GO_0016032	HP_0000988
+25	GO-HP	GO_0016032	HP_0030645
+25	GO-HP	GO_0016032	HP_0003674
+25	GO-GO	GO_0016032	GO_0042033
+25	GO-GO	GO_0016032	GO_0009058
+25	CHEBI-CHEBI	CHEBI_35472	CHEBI_23888
+25	CHEBI-HP	CHEBI_35472	HP_0002829
+25	CHEBI-HP	CHEBI_35472	HP_0003326
+25	CHEBI-HP	CHEBI_35472	HP_0012378
+25	CHEBI-HP	CHEBI_35472	HP_0001945
+25	CHEBI-DOID	CHEBI_35472	DOID_0050486
+25	CHEBI-HP	CHEBI_35472	HP_0000988
+25	CHEBI-HP	CHEBI_35472	HP_0030645
+25	CHEBI-HP	CHEBI_35472	HP_0003674
+25	CHEBI-GO	CHEBI_35472	GO_0042033
+25	CHEBI-GO	CHEBI_35472	GO_0009058
+25	CHEBI-HP	CHEBI_23888	HP_0002829
+25	CHEBI-HP	CHEBI_23888	HP_0003326
+25	CHEBI-HP	CHEBI_23888	HP_0012378
+25	CHEBI-HP	CHEBI_23888	HP_0001945
+25	CHEBI-DOID	CHEBI_23888	DOID_0050486
+25	CHEBI-HP	CHEBI_23888	HP_0000988
+25	CHEBI-HP	CHEBI_23888	HP_0030645
+25	CHEBI-HP	CHEBI_23888	HP_0003674
+25	CHEBI-GO	CHEBI_23888	GO_0042033
+25	CHEBI-GO	CHEBI_23888	GO_0009058
+25	HP-HP	HP_0002829	HP_0003326
+25	HP-HP	HP_0002829	HP_0012378
+25	HP-HP	HP_0002829	HP_0001945
+25	HP-DOID	HP_0002829	DOID_0050486
+25	HP-HP	HP_0002829	HP_0000988
+25	HP-HP	HP_0002829	HP_0030645
+25	HP-HP	HP_0002829	HP_0003674
+25	HP-GO	HP_0002829	GO_0042033
+25	HP-GO	HP_0002829	GO_0009058
+25	HP-HP	HP_0003326	HP_0012378
+25	HP-HP	HP_0003326	HP_0001945
+25	HP-DOID	HP_0003326	DOID_0050486
+25	HP-HP	HP_0003326	HP_0000988
+25	HP-HP	HP_0003326	HP_0030645
+25	HP-HP	HP_0003326	HP_0003674
+25	HP-GO	HP_0003326	GO_0042033
+25	HP-GO	HP_0003326	GO_0009058
+25	HP-HP	HP_0012378	HP_0001945
+25	HP-DOID	HP_0012378	DOID_0050486
+25	HP-HP	HP_0012378	HP_0000988
+25	HP-HP	HP_0012378	HP_0030645
+25	HP-HP	HP_0012378	HP_0003674
+25	HP-GO	HP_0012378	GO_0042033
+25	HP-GO	HP_0012378	GO_0009058
+25	HP-DOID	HP_0001945	DOID_0050486
+25	HP-HP	HP_0001945	HP_0000988
+25	HP-HP	HP_0001945	HP_0030645
+25	HP-HP	HP_0001945	HP_0003674
+25	HP-GO	HP_0001945	GO_0042033
+25	HP-GO	HP_0001945	GO_0009058
+25	DOID-HP	DOID_0050486	HP_0000988
+25	DOID-HP	DOID_0050486	HP_0030645
+25	DOID-HP	DOID_0050486	HP_0003674
+25	DOID-GO	DOID_0050486	GO_0042033
+25	DOID-GO	DOID_0050486	GO_0009058
+25	HP-HP	HP_0000988	HP_0030645
+25	HP-HP	HP_0000988	HP_0003674
+25	HP-GO	HP_0000988	GO_0042033
+25	HP-GO	HP_0000988	GO_0009058
+25	HP-HP	HP_0030645	HP_0003674
+25	HP-GO	HP_0030645	GO_0042033
+25	HP-GO	HP_0030645	GO_0009058
+25	HP-GO	HP_0003674	GO_0042033
+25	HP-GO	HP_0003674	GO_0009058
+25	GO-GO	GO_0042033	GO_0009058
+
+26|chunk|Accumulating evidence demonstrates that despite being a suboptimal replication system, monocytes/macrophages cannot escape viral attack. Pathogens attack a variety of cells and utilize diverse bypass mechanisms to enter, change cell machinery and impact the fate of cellular decisions in favour of their replication and propagation.
+
+27|chunk|Several questions remain unclear and have potential for future investigations. What is the longevity of infected macrophages in tissues? How big are the size of macrophage reservoirs in tissues upon different infections and what impacts on disease progression and therapy could this have? The role of the microbiome in infection and its changes upon viral infection has attracted increasing scientific attention. Although this field is unexplored for the majority of viruses, pilot data has obtained, for example, for HIV-1 and HCV infections [128] [129] [130] [131] [132] . Several publications have described a decrease of gut microbial alpha-diversity, that inversely correlates with monocyte activation upon microbial translocation in HIV-1-infected patients compared to healthy controls [128, 131] ; gut dysbiosis, accompanied by systemic inflammation and endotoxemia in HCV-infected individuals [129] . But how do infected macrophages interact with the microbiota to influence disease onset and progression? This information could guide further development of effective therapies, with the aim to reduce microbial translocation and misbalance, diminish subsequent immune activation and reduce morbidity and mortality in virus-driven diseases. These small populations of infected monocytes/macrophages have the potential to be milestones in the understanding of virus-induced diseases and their complications, playing a crucial role in inflammation and possibly in systemic pathology.
+27	240	247 disease	Disease	DOID_4
+27	293	297 role	Chemical	CHEBI_50906
+27	350	365 viral infection	Disease	DOID_934
+27	350	365 viral infection	Gene_function	GO_0016032
+27	687	706 monocyte activation	Gene_function	GO_0042117
+27	775	782 healthy	Phenotype	HP_0032322
+27	983	990 disease	Disease	DOID_4
+27	991	996 onset	Phenotype	HP_0003674
+27	1433	1437 role	Chemical	CHEBI_50906
+27	DOID-CHEBI	DOID_4	CHEBI_50906
+27	DOID-DOID	DOID_4	DOID_934
+27	DOID-GO	DOID_4	GO_0016032
+27	DOID-GO	DOID_4	GO_0042117
+27	DOID-HP	DOID_4	HP_0032322
+27	DOID-HP	DOID_4	HP_0003674
+27	CHEBI-DOID	CHEBI_50906	DOID_934
+27	CHEBI-GO	CHEBI_50906	GO_0016032
+27	CHEBI-GO	CHEBI_50906	GO_0042117
+27	CHEBI-HP	CHEBI_50906	HP_0032322
+27	CHEBI-HP	CHEBI_50906	HP_0003674
+27	DOID-GO	DOID_934	GO_0016032
+27	DOID-GO	DOID_934	GO_0042117
+27	DOID-HP	DOID_934	HP_0032322
+27	DOID-HP	DOID_934	HP_0003674
+27	GO-GO	GO_0016032	GO_0042117
+27	GO-HP	GO_0016032	HP_0032322
+27	GO-HP	GO_0016032	HP_0003674
+27	GO-HP	GO_0042117	HP_0032322
+27	GO-HP	GO_0042117	HP_0003674
+27	HP-HP	HP_0032322	HP_0003674
+
+28|chunk|Author Contributions: E.N. and J.K. were involved in the conception, literature review and drafting the manuscript; J.K., I.L., and E.C. critically revised the manuscript for important intellectual content; E.N., J.K., and E.C. conceptualized the review, supervised all aspects of the study, and critically reviewed and revised the manuscript. All authors approved the final manuscript as submitted. All authors read and approved the final manuscript. 
+

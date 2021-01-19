@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<document id="a4e2f812c3232e60ac1af78fed10d292e28906d1">
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c0" text="Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy"/>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1" text="Background: Timely information about disease severity can be central to the detection and management of outbreaks of acute respiratory infections (ARI), including influenza. We asked if two resources: 1) free text, and 2) structured data from an electronic medical record (EMR) could complement each other to identify patients with pneumonia, an ARI severity landmark.">
+    <entity charOffset="37-44" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="346-349" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e1" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e1" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.p0" relation="true"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2" text="Methods: A manual EMR review of 2747 outpatient ARI visits with associated chest imaging identified x-ray reports that could support the diagnosis of pneumonia (kappa score = 0.88 (95% CI 0.82:0.93)), along with attendant cases with Possible Pneumonia (adds either cough, sputum, fever/chills/night sweats, dyspnea or pleuritic chest pain) or with Pneumonia-in-Plan (adds pneumonia stated as a likely diagnosis by the provider). The x-ray reports served as a reference to develop a text classifier using machine-learning software that did not require custom coding. To identify pneumonia cases, the classifier was combined with EMR-based structured data and with text analyses aimed at ARI symptoms in clinical notes.">
+    <entity charOffset="48-51" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <entity charOffset="150-159" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e1" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="242-251" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e2" ontology_id="DOID_552" text="Pneumonia" type="disease"/>
+    <entity charOffset="372-381" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e3" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="578-587" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e4" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="686-689" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e1" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p0" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e2" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p1" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e3" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p2" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e4" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p3" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e1" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p4" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e2" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p5" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e3" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p6" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e4" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.p7" relation="true"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3" text="Results: 370 reference cases with Possible Pneumonia and 250 with Pneumonia-in-Plan were identified. The x-ray report text classifier increased the positive predictive value of otherwise identical EMR-based case-detection algorithms by 20-70%, while retaining sensitivities of 58-75%. These performance gains were independent of the case definitions and of whether patients were admitted to the hospital or sent home. Text analyses seeking ARI symptoms in clinical notes did not add further value.">
+    <entity charOffset="43-52" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e0" ontology_id="DOID_552" text="Pneumonia" type="disease"/>
+    <entity charOffset="440-443" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e1" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <entity charOffset="479-482" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e2" ontology_id="CHEBI_40799" text="add" type="chemical"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e1" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.p0" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e2" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.p1" relation="true"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4" text="Conclusion: Specialized software development is not required for automated text analyses to help identify pneumonia patients. These results begin to map an efficient, replicable strategy through which EMR data can be used to stratify ARI severity. Citation: DeLisle S, Kim B, Deepak J, Siddiqui T, Gundlapalli A, et al. (2013) Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy. PLoS ONE 8(8): e70944.">
+    <entity charOffset="106-115" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e0" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="234-237" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e1" ontology_id="CHEBI_35640" text="ARI" type="chemical"/>
+    <entity charOffset="394-403" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e2" ontology_id="DOID_552" text="Pneumonia" type="disease"/>
+    <entity charOffset="450-453" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e3" ontology_id="CHEBI_58972" text="ONE" type="chemical"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e1" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.p0" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e0" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e3" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.p1" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e1" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e2" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.p2" relation="true"/>
+    <pair e1="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e2" e2="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e3" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.p3" relation="true"/>
+  </chunk>
+</document>

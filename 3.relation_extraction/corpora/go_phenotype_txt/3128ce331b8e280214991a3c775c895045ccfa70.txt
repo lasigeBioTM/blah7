@@ -1,0 +1,26 @@
+0|chunk|Anti-inflammatory effects of Lactococcus lactis NCDO 2118 during the remission period of chemically induced colitis
+0	108	115 colitis	Phenotype	HP_0002583
+
+1|chunk|Background: Many probiotic bacteria have been described as promising tools for the treatment and prevention of inflammatory bowel diseases (IBDs). Most of these bacteria are lactic acid bacteria, which are part of the healthy human microbiota. However, little is known about the effects of transient bacteria present in normal diets, including Lactococcus lactis.
+1	218	225 healthy	Phenotype	HP_0032322
+1	290	299 transient	Phenotype	HP_0025153
+
+2|chunk|Methods: In the present study, we analysed the immunomodulatory effects of three L. lactis strains in vitro using intestinal epithelial cells. L. lactis NCDO 2118 was administered for 4 days to C57BL/6 mice during the remission period of colitis induced by dextran sodium sulphate (DSS).
+2	238	245 colitis	Phenotype	HP_0002583
+
+3|chunk|Results: Only one strain, L. lactis NCDO 2118, was able to reduce IL-1-induced IL-8 secretion in Caco-2 cells, suggesting a potential anti-inflammatory effect. Oral treatment using L. lactis NCDO 2118 resulted in a milder form of recurrent colitis than that observed in control diseased mice. This protective effect was not attributable to changes in secretory IgA (sIgA); however, NCDO 2118 administration was associated with an early increase in IL-6 production and sustained IL-10 production in colonic tissue. Mice fed L. lactis NCDO 2118 had an increased number of regulatory CD4 + T cells (Tregs) bearing surface TGF- in its latent form (Latency-associated peptide-LAP) in the mesenteric lymph nodes and spleen. Conclusions: Here, we identified a new probiotic strain with a potential role in the treatment of IBD, and we elucidated some of the mechanisms underlying its anti-inflammatory effect.
+3	80	94 IL-8 secretion	Gene_function	GO_0072606
+3	85	94 secretion	Gene_function	GO_0046903
+3	231	240 recurrent	Phenotype	HP_0031796
+3	241	248 colitis	Phenotype	HP_0002583
+3	449	464 IL-6 production	Gene_function	GO_0032635
+3	479	495 IL-10 production	Gene_function	GO_0032613
+3	GO-HP	GO_0072606	HP_0031796
+3	GO-HP	GO_0072606	HP_0002583
+3	GO-HP	GO_0046903	HP_0031796
+3	GO-HP	GO_0046903	HP_0002583
+3	HP-GO	HP_0031796	GO_0032635
+3	HP-GO	HP_0031796	GO_0032613
+3	HP-GO	HP_0002583	GO_0032635
+3	HP-GO	HP_0002583	GO_0032613
+

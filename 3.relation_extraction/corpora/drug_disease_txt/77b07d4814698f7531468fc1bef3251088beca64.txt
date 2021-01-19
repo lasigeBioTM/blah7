@@ -1,0 +1,56 @@
+0|chunk|An Alanine-to-Valine Substitution in the Residue 175 of Zika Virus NS2A Protein Affects Viral RNA Synthesis and Attenuates the Virus In Vivo
+0	72	79 Protein	Chemical	CHEBI_16541
+0	94	97 RNA	Chemical	CHEBI_33697
+
+1|chunk|The recent outbreaks of Zika virus (ZIKV), its association with Guillain-Barr syndrome and fetal abnormalities, and the lack of approved vaccines and antivirals, highlight the importance of developing countermeasures to combat ZIKV disease. In this respect, infectious clones constitute excellent tools to accomplish these goals. However, flavivirus infectious clones are often difficult to work with due to the toxicity of some flavivirus sequences in bacteria. To bypass this problem, several alternative approaches have been applied for the generation of ZIKV clones including, among others, in vitro ligation, insertions of introns and using infectious subgenomic amplicons. Here, we report a simple and novel DNA-launched approach based on the use of a bacterial artificial chromosome (BAC) to generate a cDNA clone of Rio Grande do Norte Natal ZIKV strain. The sequence was identified from the brain tissue of an aborted fetus with microcephaly. The BAC clone was fully stable in bacteria and the infectious virus was efficiently recovered in Vero cells through direct delivery of the cDNA clone. The rescued virus yielded high titers in Vero cells and was pathogenic in a validated mouse model (A129 mice) of ZIKV infection. Furthermore, using this infectious clone we have generated a mutant ZIKV containing a single amino acid substitution (A175V) in the NS2A protein that presented reduced viral RNA synthesis in cell cultures, was highly attenuated in vivo and induced fully protection against a lethal challenge with ZIKV wild-type. This BAC approach provides a stable and reliable reverse genetic system for ZIKV that will help to identify viral determinants of virulence and facilitate the development of vaccine and therapeutic strategies.
+1	79	87 syndrome	Disease	DOID_225
+1	1326	1331 amino	Chemical	CHEBI_46882
+1	1326	1336 amino acid	Chemical	CHEBI_33704
+1	1332	1336 acid	Chemical	CHEBI_37527
+1	1370	1377 protein	Chemical	CHEBI_16541
+1	1407	1410 RNA	Chemical	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_46882
+1	DOID-CHEBI	DOID_225	CHEBI_33704
+1	DOID-CHEBI	DOID_225	CHEBI_37527
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+
+2|chunk|Viruses 2018, 10, 547 2 of 21 with icosahedral symmetry on the surface [3] . The viral genome consists in a positive single-stranded RNA molecule of about 10.8 kb that, similarly to cellular mRNAs, contains a cap structure at the 5' end and a single open reading frame (ORF) flanked by 5' and 3' untranslated regions (UTRs). The ORF encodes a large polyprotein of approximately 3423 amino acids, which is co-and post-translationally processed by viral and cellular proteases into three structural proteins (C, pre-membrane (prM) and E) and seven non-structural (NS) proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B and NS5). The structural proteins are essential components of the virion and are involved in viral entry, fusion, and assembly. The NS proteins are required for viral RNA synthesis, virion assembly and evasion of the host antiviral responses [4, 5] .
+2	133	136 RNA	Chemical	CHEBI_33697
+2	137	145 molecule	Chemical	CHEBI_25367
+2	270	273 ORF	Disease	DOID_8771
+2	329	332 ORF	Disease	DOID_8771
+2	383	388 amino	Chemical	CHEBI_46882
+2	497	505 proteins	Chemical	CHEBI_36080
+2	566	574 proteins	Chemical	CHEBI_36080
+2	634	642 proteins	Chemical	CHEBI_36080
+2	744	752 proteins	Chemical	CHEBI_36080
+2	776	779 RNA	Chemical	CHEBI_33697
+2	831	840 antiviral	Chemical	CHEBI_22587
+2	CHEBI-DOID	CHEBI_33697	DOID_8771
+2	CHEBI-DOID	CHEBI_25367	DOID_8771
+2	DOID-CHEBI	DOID_8771	CHEBI_46882
+2	DOID-CHEBI	DOID_8771	CHEBI_36080
+2	DOID-CHEBI	DOID_8771	CHEBI_22587
+
+3|chunk|Human illness caused by ZIKV infection was first recognized in Nigeria in 1953 [6] and only a few cases of ZIKV infections across Africa and Asia were reported over 50 years. Historically, ZIKV was considered as a modest public health concern, causing a mild febrile illness with similar symptoms to those of dengue (DENV) and chikungunya (CHIKV) viruses, hampering differential diagnosis [7]. In general, over 80% of ZIKV cases are asymptomatic, while the remaining cases typically exhibit mild fever, maculopapular rash, and joint pain for a period of several days to a week [8] . However, the recent large outbreaks in the Island of Yap in 2007 [9], French Polynesia in 2013 [10], and the massive epidemic that emerge from Brazil in 2015 to rapidly spread throughout South and Central America, the Caribbean, and more recently the United States [1,11-13], have changed the historic perspective of ZIKV infection due its association with Guillain-Barr syndrome (a debilitating neuronal disease in adults) and severe congenital abnormalities such us stillbirth, hydrocephaly and microcephaly, which are collectively known as congenital ZIKV syndrome (CZVS) [14] [15] [16] [17] [18] [19] . Human health concerns posed by ZIKV are further aggravated due to the non-vector-borne transmission of ZIKV. The virus is spread to people primarily through the bite of infected mosquitoes of the genus Aedes [20, 21] , however, at difference to most other flaviviruses, ZIKV can also be transmitted from mother to child during pregnancy or spread through sexual contact, breastfeeding, blood transfusion, and non-human primate bites [1, 22, 23] . Due to the recent emergence of ZIKV as an important human pathogen, there are not currently approved vaccines or antivirals available to combat ZIKV infection. The only available disease prevention measures consist in protection from mosquito bites, excluding pregnant females from travelling to ZIKV-endemic areas, and practicing safe sex.
+3	327	338 chikungunya	Disease	DOID_0050012
+3	955	963 syndrome	Disease	DOID_225
+3	989	996 disease	Disease	DOID_4
+3	1143	1151 syndrome	Disease	DOID_225
+3	1751	1761 antivirals	Chemical	CHEBI_22587
+3	1817	1824 disease	Disease	DOID_4
+3	DOID-CHEBI	DOID_0050012	CHEBI_22587
+3	DOID-CHEBI	DOID_225	CHEBI_22587
+3	DOID-CHEBI	DOID_4	CHEBI_22587
+
+4|chunk|The significance of ZIKV in human health, together with the lack of prophylactic and therapeutic interventions to combat ZIKV infection, highlight the importance of developing safe and effective countermeasures to control or prevent ZIKV disease in humans. In this sense, the development of ZIKV reverse genetic systems constitute an essential tool for basic research and development of vaccine and antiviral strategies. Likewise other flaviviruses, construction of ZIKV infectious clones has been hampered due to the toxicity of some flavivirus sequences during its propagation in bacteria using standard high copy number plasmids, which can be attributed to the leaky expression of toxic viral proteins from cryptic bacterial promoters (CBPs) encoded in the viral genome [24] [25] [26] . Recently, this toxicity problem was overcome using non-traditional approaches based on in vitro ligation of cDNA fragments [27, 28] , low-copy plasmids [29, 30] , intron insertion in the toxic region [31] [32] [33] , Gibson assembly method [34], infectious subgenomic amplicons (ISA) [35, 36] , in silico prediction and mutational silencing of CBPs present in the viral genome [37] , and the use of circular polymerase extension reaction (CPER) [38] . All these systems are valuable tools to study viral pathogenesis, vector transmission and for the development of attenuated forms of ZIKV for their implementation as safe vaccines or for the identification of therapeutics.
+4	238	245 disease	Disease	DOID_4
+4	399	408 antiviral	Chemical	CHEBI_22587
+4	696	704 proteins	Chemical	CHEBI_36080
+4	DOID-CHEBI	DOID_4	CHEBI_22587
+4	DOID-CHEBI	DOID_4	CHEBI_36080
+
+5|chunk|In the present study, we report a different and efficient ZIKV reverse genetic approach, based on the use of a bacterial artificial chromosome (BAC), that overcomes the toxicity problems and allows the generation of ZIKV cDNA clones on single bacterial plasmid. Following a similar strategy to that used for DENV [39] , the full-length cDNA copy of the viral genome of ZIKV Rio Grande do Norte Natal (RGN) was assembled in a BAC under the control of the cytomegalovirus (CMV) immediate-early promoter. This DNA-launched system couples expression of the viral RNA in the
+5	559	562 RNA	Chemical	CHEBI_33697
+

@@ -1,0 +1,107 @@
+{
+    "text": "This paper focuses on our research and intervention in health promotion with patients and communities affected by various infectious diseases, in the project Knowledge-Sharing Platform. This project is developed at the National Institute of Infectious Diseases Evandro Chagas in the Oswaldo Cruz Foundation, Rio de Janeiro, Brazil, and promotes the continuing involvement of health researchers and professionals in the collaborative production of knowledge on health with patients and community groups and in their training as community health promoters. The new epidemic scenario created the demand for a space of dialogue and knowledge-sharing on the prevention of COVID-19 transmission. Due to the interruption of regular activities in the Knowledge-Sharing Platform, a strategy was launched to serve as a link between science and society and help overcome the social isolation imposed by the COVID-19 pandemic. The WhatsApp group allowed project members to participate by addressing questions (audio) on COVID-19 through mediation by community group leaders. The main questions by participants related to risk factors, transmission, immunity to the novel coronavirus, care related to prevention, symptoms, and treatment; and COVID-19 and influenza vaccine. The educational material Caring in the Age of COVID-19 was produced and shared with community leaders and distributed to the respective groups and was eventually shared in their communities as a response to a demand for knowledge that responds to the concerns of people already exposed to structural vulnerability.",
+    "denotations": [
+        {
+            "id": "HP_0032320",
+            "span": {
+                "begin": 102,
+                "end": 110
+            },
+            "obj": "affected"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 667,
+                "end": 675
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 896,
+                "end": 904
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 1008,
+                "end": 1016
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 1229,
+                "end": 1237
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_8469",
+            "span": {
+                "begin": 1242,
+                "end": 1251
+            },
+            "obj": "influenza"
+        },
+        {
+            "id": "CHEBI_84123",
+            "span": {
+                "begin": 1300,
+                "end": 1303
+            },
+            "obj": "Age"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 1307,
+                "end": 1315
+            },
+            "obj": "COVID-19"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_84123"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_84123"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_84123"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_84123"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_84123"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_84123"
+        }
+    ]
+}

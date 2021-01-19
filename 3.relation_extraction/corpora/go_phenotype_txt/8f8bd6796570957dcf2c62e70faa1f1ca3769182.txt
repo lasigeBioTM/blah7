@@ -1,0 +1,51 @@
+0|chunk|Analysis of Resistance of Ebola Virus Glycoprotein-Driven Entry Against MDL28170, An Inhibitor of Cysteine Cathepsins
+
+1|chunk|Ebola virus (EBOV) infection can cause severe and frequently fatal disease in human patients. The EBOV glycoprotein (GP) mediates viral entry into host cells. For this, GP depends on priming by the pH-dependent endolysosomal cysteine proteases cathepsin B (CatB) and, to a lesser degree, cathepsin L (CatL), at least in most cell culture systems. However, there is limited information on whether and how EBOV-GP can acquire resistance to CatB/L inhibitors. Here, we addressed this question using replication-competent vesicular stomatitis virus bearing EBOV-GP. Five passages of this virus in the presence of the CatB/CatL inhibitor MDL28170 were sufficient to select resistant viral variants and sequencing revealed that all GP sequences contained a V37A mutation, which, in the context of native GP, is located in the base of the GP surface unit. In addition, some GP sequences harbored mutation S195R in the receptor-binding domain. Finally, mutational analysis demonstrated that V37A but not S195R conferred resistance against MDL28170 and other CatB/CatL inhibitors. Collectively, a single amino acid substitution in GP is sufficient to confer resistance against CatB/CatL inhibitors, suggesting that usage of CatB/CatL inhibitors for antiviral therapy may rapidly select for resistant viral variants. envelope with the limiting membrane of endolysosomes [12] , allowing delivery of the viral genome into the host cell cytoplasm. Binding and membrane fusion are carried out by different subunits of GP. The N-terminal surface unit, GP1, binds to host cell receptors via a receptor-binding domain (RBD), while the C-terminal transmembrane unit, GP2, harbors the functional elements required for membrane fusion, including a fusion peptide and heptad repeats [10] . Although GP1 can bind to attachment factors on the cell surface [13, 14] , only the interaction with the intracellular receptor Niemann-Pick C1 (NPC1) within host cell endolysosomes is essential for EBOV entry [13] [14] [15] [16] . This interaction critically depends on previous processing of EBOV-GP by the endolysosomal, pH-dependent cysteine proteases cathepsin B (CatB) and cathepsin L (CatL) [15] [16] [17] [18] . Processing removes a glycan cap and a mucin-like domain (MLD) from GP1 and results in a primed form of GP. Primed GP still contains the RBD linked to GP2 via a disulfide bond [19, 20] and can fuse the viral membrane with an endolysosomal membrane upon receipt of a trigger. However, the nature of this trigger remains to be identified [21] [22] [23] [24] .
+1	39	45 severe	Phenotype	HP_0012828
+1	528	538 stomatitis	Phenotype	HP_0010280
+1	1307	1315 envelope	Gene_function	GO_0031975
+1	1334	1342 membrane	Gene_function	GO_0016020
+1	1414	1423 host cell	Gene_function	GO_0043657
+1	1414	1433 host cell cytoplasm	Gene_function	GO_0030430
+1	1435	1442 Binding	Gene_function	GO_0005488
+1	1447	1455 membrane	Gene_function	GO_0016020
+1	1447	1462 membrane fusion	Gene_function	GO_0061025
+1	1551	1560 host cell	Gene_function	GO_0043657
+1	1629	1642 transmembrane	Gene_function	GO_0016021
+1	1699	1707 membrane	Gene_function	GO_0016020
+1	1699	1714 membrane fusion	Gene_function	GO_0061025
+1	1820	1832 cell surface	Gene_function	GO_0009986
+1	1874	1887 intracellular	Gene_function	GO_0005622
+1	1927	1936 host cell	Gene_function	GO_0043657
+1	2390	2404 viral membrane	Gene_function	GO_0036338
+1	2396	2404 membrane	Gene_function	GO_0016020
+1	2413	2435 endolysosomal membrane	Gene_function	GO_0036020
+1	2427	2435 membrane	Gene_function	GO_0016020
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0043657
+1	HP-GO	HP_0012828	GO_0030430
+1	HP-GO	HP_0012828	GO_0005488
+1	HP-GO	HP_0012828	GO_0061025
+1	HP-GO	HP_0012828	GO_0016021
+1	HP-GO	HP_0012828	GO_0009986
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0012828	GO_0036338
+1	HP-GO	HP_0012828	GO_0036020
+1	HP-GO	HP_0010280	GO_0031975
+1	HP-GO	HP_0010280	GO_0016020
+1	HP-GO	HP_0010280	GO_0043657
+1	HP-GO	HP_0010280	GO_0030430
+1	HP-GO	HP_0010280	GO_0005488
+1	HP-GO	HP_0010280	GO_0061025
+1	HP-GO	HP_0010280	GO_0016021
+1	HP-GO	HP_0010280	GO_0009986
+1	HP-GO	HP_0010280	GO_0005622
+1	HP-GO	HP_0010280	GO_0036338
+1	HP-GO	HP_0010280	GO_0036020
+
+2|chunk|In the light of the important role of CatB/CatL in EBOV-GP-driven entry, inhibitors targeting these enzymes might hold therapeutic potential, although it should be stated that CatB/CatL dependence varies between filoviruses [25, 26] and target cell types [27] and was not observed in experimentally infected mice [28] . A previous study employed a replication-competent VSV chimera bearing EBOV-GP without MLD (VSV-EBOV) to examine resistance development against the CatB inhibitor CA074 [29] . Resistance development was observed after two passages and was due to acquisition of single amino acid substitutions at the GP1-GP2 interface which increased susceptibility of the mutant GP to processing by host cell proteases [29] . In contrast, resistance development in the context of full-length EBOV-GP and other CatB/CatL inhibitors has not been examined.
+2	702	711 host cell	Gene_function	GO_0043657
+
+3|chunk|Here, we show that passaging of VSV-EBOV in the presence of the CatB/CatL inhibitor MDL28170 results in rapid acquisition of a single amino acid exchange, V37A, in GP1, which confers resistance against MDL28170 and other CatB/CatL inhibitors. Author Contributions: Conceptualization, M.H. and S.P.; Formal analysis, M.H.; Investigation, M.H., S.V.K., C.F., W.M. and A.-S.M.; Methodology, M.H.; Supervision, M.H. and S.P.; Writing-original draft, M.H. and S.P.; Writing-review & editing, M.H. and S.P.
+

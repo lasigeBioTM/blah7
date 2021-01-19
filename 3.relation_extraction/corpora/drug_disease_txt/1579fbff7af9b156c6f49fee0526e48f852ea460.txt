@@ -1,0 +1,68 @@
+0|chunk|A Recombinant Newcastle Disease Virus (NDV) Expressing S Protein of Infectious Bronchitis Virus (IBV) Protects Chickens against IBV and NDV OPEN
+0	14	31 Newcastle Disease	Disease	DOID_2929
+0	24	31 Disease	Disease	DOID_4
+0	57	64 Protein	Chemical	CHEBI_16541
+0	79	89 Bronchitis	Disease	DOID_6132
+0	DOID-CHEBI	DOID_2929	CHEBI_16541
+0	DOID-CHEBI	DOID_4	CHEBI_16541
+0	CHEBI-DOID	CHEBI_16541	DOID_6132
+
+1|chunk|Currently, live-attenuated IBV vaccines are used to control the disease. However, safety, attenuation and immunization outcomes of current vaccines are not guaranteed. Several studies indicate that attenuated IBV vaccine strains contribute to the emergence of variant viruses in the field due to mutations and recombination. Therefore, there is a need to develop a stable and safe IBV vaccine that will not create variant viruses. In this study, we generated recombinant Newcastle disease viruses (rNDVs) expressing the S1, S2 and S proteins of IBV using reverse genetics technology. Our results showed that the rNDV expressing the S protein of IBV provided better protection than the rNDV expressing S1 or S2 protein of IBV, indicating that the S protein is the best protective antigen of IBV. Immunization of 4-week-old SPF chickens with the rNDV expressing S protein elicited IBV-specific neutralizing antibodies and provided complete protection against virulent IBV and virulent NDV challenges. These results suggest that the rNDV expressing the S protein of IBV is a safe and effective bivalent vaccine candidate for both IBV and NDV.
+1	64	71 disease	Disease	DOID_4
+1	471	488 Newcastle disease	Disease	DOID_2929
+1	481	488 disease	Disease	DOID_4
+1	533	541 proteins	Chemical	CHEBI_36080
+1	634	641 protein	Chemical	CHEBI_16541
+1	710	717 protein	Chemical	CHEBI_16541
+1	748	755 protein	Chemical	CHEBI_16541
+1	779	786 antigen	Chemical	CHEBI_59132
+1	822	825 SPF	Chemical	CHEBI_88542
+1	862	869 protein	Chemical	CHEBI_16541
+1	1052	1059 protein	Chemical	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_59132
+1	DOID-CHEBI	DOID_4	CHEBI_88542
+1	DOID-CHEBI	DOID_2929	CHEBI_36080
+1	DOID-CHEBI	DOID_2929	CHEBI_16541
+1	DOID-CHEBI	DOID_2929	CHEBI_59132
+1	DOID-CHEBI	DOID_2929	CHEBI_88542
+
+2|chunk|Infectious Bronchitis (IB) is an acute and highly contagious viral respiratory disease of chickens 1,2 . IB causes major economic losses in commercial chickens throughout the world 1,3 . It is one of the most prevalent diseases in the poultry industry. The disease is usually characterized by respiratory signs including ocular and nasal discharges, gasping, coughing and sneezing. However, the virus can also infect urogenital and reproductive tracts causing renal dysfunction and decreased egg production 3,4 .
+2	11	21 Bronchitis	Disease	DOID_6132
+2	79	86 disease	Disease	DOID_4
+2	257	264 disease	Disease	DOID_4
+
+3|chunk|IB is caused by infectious bronchitis virus (IBV), a member of the family Coronaviridae. The genome of IBV is a single stranded, positive-sense RNA of approximately 27.6 kb in length. It encodes five major structural proteins: spike (S), small envelope (E), membrane (M), nucleocapsid (N) and fifteen non-structural proteins. The S glycoprotein is the major antigen against which neutralizing and protective antibodies are produced. The S protein is partially or completely cleaved into the amino-terminal S1 and to the carboxy-terminal S2 subunits post translationally by a furine-like protease of host 4,5 . The S1 subunit is highly variable among different isolates of IBV. It is responsible for viral attachment to host cell and contains major neutralizing epitopes. The S2 subunit is highly conserved among IBV strains and contributes to viral fusion activity and elicits some minor but broadly reactive neutralizing antibodies 5-10 .
+3	27	37 bronchitis	Disease	DOID_6132
+3	144	147 RNA	Chemical	CHEBI_33697
+3	332	344 glycoprotein	Chemical	CHEBI_17089
+3	358	365 antigen	Chemical	CHEBI_59132
+3	439	446 protein	Chemical	CHEBI_16541
+3	DOID-CHEBI	DOID_6132	CHEBI_33697
+3	DOID-CHEBI	DOID_6132	CHEBI_17089
+3	DOID-CHEBI	DOID_6132	CHEBI_59132
+3	DOID-CHEBI	DOID_6132	CHEBI_16541
+
+4|chunk|Currently IB in commercial chickens is controlled by the use of live-attenuated and inactivated IBV vaccines. However, safety, attenuation and immunization outcomes of current live-attenuated vaccines which, were developed by serial passaging of field isolates of IBV in chicken embryonated eggs, are not guaranteed, particularly with regards to the age at immunization, vaccine dose, type of bird and route of vaccination 11 . Live vaccines have been found as one of the sources of IB outbreaks 12 . Live-attenuated vaccine strains also are not genetically stable and have a tendency to revert back to virulence 13,14 . Furthermore, circulation of live-attenuated viruses in the environment provides a setting in which the viral population may undergo mutations and recombination leading to creation of variant viruses 15,16 . Moreover, live IBV vaccines may cause pathological lesions or secondary bacterial infections in young vaccinated chicks 17, 18 . Inactivated IBV vaccines, which usually are administered by injection to layers and breeders are not an alternative for live-attenuated IBV vaccines. Inactivated vaccines of IBV do not elicit strong immune responses in chickens against circulating virulent IBV strains 19, 20 . The production and administration of inactivated vaccines are also time consuming and costly 13, 14 . Therefore, there is a great need to develop an alternative IBV vaccine.
+
+5|chunk|Development of viral vectored vaccines to control IB is an alternative approach. One of the important advantages of vectored IBV vaccines is that it will not create variant viruses, which is a major drawback of the current live-attenuated IBV vaccines. Several viruses, such as, fowl pox virus, adenovirus and Newcastle disease virus (NDV) have been evaluated as vaccine vectors for IBV 21-25 . Among these viral vectors NDV holds great promise, because it induces effective local and systemic immune responses, it is a safe vaccine vector, and it will serve as a bivalent vaccine against IBV and NDV.
+5	310	327 Newcastle disease	Disease	DOID_2929
+5	320	327 disease	Disease	DOID_4
+
+6|chunk|NDV belongs to the genus Avulavirus in the family Paramyxoviridae. Virulent NDV strains cause a fatal neurological disease in chickens. NDV strain LaSota has been used as a safe and effective live vaccine for more than 60 years 26, 27 . Recombinant NDV strain LaSota has been evaluated as a vaccine vector against several avian pathogens including IBV 28-32 . In one study, rNDV expressing S2 protein of IBV was found to induce partial protection against a virulent IBV challenge 23 . In another study, it was shown that rNDV expressing S1 protein of IBV resulted in inducing protective immunity against virulent IBV challenge 24 . However, the protective efficacy of the whole S protein of IBV expressed by rNDV vector has not been evaluated and it is also not known among S1, S2 and S proteins of IBV, which is the best protective antigen for the development of viral vectored IBV vaccines. In this study, we have used reverse genetics to generate rNDVs expressing S1, S2 and S proteins of IBV strain Mass-41. The protective efficacies of rNDVs expressing S1, S2 or S protein of IBV were compared in chickens against a virulent IBV strain Mass-41 challenge. Our results showed that the whole S protein is the best protective antigen of IBV. We also showed that rNDV strain LaSota expressing the S protein of IBV strain Mass-41 protects chickens against both virulent IBV and virulent NDV challenges.
+6	115	122 disease	Disease	DOID_4
+6	393	400 protein	Chemical	CHEBI_16541
+6	540	547 protein	Chemical	CHEBI_16541
+6	680	687 protein	Chemical	CHEBI_16541
+6	787	795 proteins	Chemical	CHEBI_36080
+6	833	840 antigen	Chemical	CHEBI_59132
+6	980	988 proteins	Chemical	CHEBI_36080
+6	1070	1077 protein	Chemical	CHEBI_16541
+6	1196	1203 protein	Chemical	CHEBI_16541
+6	1227	1234 antigen	Chemical	CHEBI_59132
+6	1299	1306 protein	Chemical	CHEBI_16541
+6	DOID-CHEBI	DOID_4	CHEBI_16541
+6	DOID-CHEBI	DOID_4	CHEBI_36080
+6	DOID-CHEBI	DOID_4	CHEBI_59132
+

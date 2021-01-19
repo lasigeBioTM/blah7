@@ -1,0 +1,66 @@
+0|chunk|viruses Antiviral RNAi in Insects and Mammals: Parallels and Differences
+0	8	17 Antiviral	Chemical	CHEBI_22587
+
+1|chunk|The RNA interference (RNAi) pathway is a potent antiviral defense mechanism in plants and invertebrates, in response to which viruses evolved suppressors of RNAi. In mammals, the first line of defense is mediated by the type I interferon system (IFN); however, the degree to which RNAi contributes to antiviral defense is still not completely understood. Recent work suggests that antiviral RNAi is active in undifferentiated stem cells and that antiviral RNAi can be uncovered in differentiated cells in which the IFN system is inactive or in infections with viruses lacking putative viral suppressors of RNAi. In this review, we describe the mechanism of RNAi and its antiviral functions in insects and mammals. We draw parallels and highlight differences between (antiviral) RNAi in these classes of animals and discuss open questions for future research. Figure 1. The small interfering RNA (siRNA) pathway in Drosophila melanogaster. Double-stranded 93 RNA precursors of different sources are processed by Dicer-2 into short interfering RNAs of ~21 nt in 94 size. The siRNA duplex is loaded into an Argonaute2 containing RISC complex, where one strand 95 (passenger) is degraded, and the guide strand is retained. The guide strand mediates target RNA 96 recognition through Watson-Crick base pairing, followed by target cleavage (slicing) by Argonaute.
+1	4	7 RNA	Chemical	CHEBI_33697
+1	28	35 pathway	Chemical	CHEBI_34922
+1	48	57 antiviral	Chemical	CHEBI_22587
+1	227	237 interferon	Chemical	CHEBI_52999
+1	301	310 antiviral	Chemical	CHEBI_22587
+1	381	390 antiviral	Chemical	CHEBI_22587
+1	446	455 antiviral	Chemical	CHEBI_22587
+1	670	679 antiviral	Chemical	CHEBI_22587
+1	767	776 antiviral	Chemical	CHEBI_22587
+1	891	894 RNA	Chemical	CHEBI_33697
+1	903	910 pathway	Chemical	CHEBI_34922
+1	958	961 RNA	Chemical	CHEBI_33697
+1	1252	1255 RNA	Chemical	CHEBI_33697
+
+2|chunk|97 Loqs-PD is required for endo-siRNA biogenesis, but dispensable for viral siRNA (vsiRNA) 98 biogenesis.
+
+3|chunk|99 Viruses 2019, 11, x FOR PEER REVIEW 4 of 32 100 Figure 2. Dicer proteins process double-stranded RNA (dsRNA) into small interfering RNA (siRNA).
+3	67	75 proteins	Chemical	CHEBI_36080
+3	84	103 double-stranded RNA	Chemical	CHEBI_67208
+3	100	103 RNA	Chemical	CHEBI_33697
+3	105	110 dsRNA	Chemical	CHEBI_67208
+3	135	138 RNA	Chemical	CHEBI_33697
+
+4|chunk|101 (A) Schematic representation of the domain organization of human Dicer protein [40]. RIIIa, RNase-102 IIIa; RIIIb, RNase-IIIb (B) Cryo-EM structure of human Dicer. Protein domains are colored in 103 accordance to the scheme in A. The structure was determined by Liu et al. [41], and the published 104 PDB file (5ZAM) was edited in Yasara View [42]. Drosophila Dicer-2 has a similar domain structure 105 and L-shaped Cryo-EM structure as human Dicer [40]. (C) Schematic representation of the recognition 106 and cleavage of dsRNA with a 3' overhang and dsRNA with blunt termini by Drosophila Dicer-2, 107 proposed by Sinha and colleagues [40]. Substrates with a 3' overhang were proposed to bind the PAZ-108 Platform domains (referred to as PAZ in panel A) via the 3' terminal overhang. Blunt-ended termini 109 bind to the helicase domain and the dsRNA threads through this domain, after which cleavage occurs 110 by the two RNaseIII domains. The latter mode results in processive, ATP-dependent cleavage of 111 dsRNA and may contribute to efficient production of vsiRNAs for antiviral defense.
+4	75	82 protein	Chemical	CHEBI_16541
+4	168	175 Protein	Chemical	CHEBI_16541
+4	527	532 dsRNA	Chemical	CHEBI_67208
+4	556	561 dsRNA	Chemical	CHEBI_67208
+4	850	855 dsRNA	Chemical	CHEBI_67208
+4	1015	1020 dsRNA	Chemical	CHEBI_67208
+4	1079	1088 antiviral	Chemical	CHEBI_22587
+
+5|chunk|112 Figure 2. Dicer proteins process double-stranded RNA (dsRNA) into small interfering RNA (siRNA). (A) Schematic representation of the domain organization of human Dicer protein [40]. RIIIa, RNase-IIIa; RIIIb, RNase-IIIb (B) Cryo-EM structure of human Dicer. Protein domains are colored in accordance to the scheme in A. The structure was determined by Liu et al. [41], and the published PDB file (5ZAM) was edited in Yasara View [42]. Drosophila Dicer-2 has a similar domain structure and L-shaped Cryo-EM structure as human Dicer [40]. (C) Schematic representation of the recognition and cleavage of dsRNA with a 3' overhang and dsRNA with blunt termini by Drosophila Dicer-2, proposed by Sinha and colleagues [40]. Substrates with a 3' overhang were proposed to bind the PAZ-Platform domains (referred to as PAZ in panel A) via the 3' terminal overhang. Blunt-ended termini bind to the helicase domain and the dsRNA threads through this domain, after which cleavage occurs by the two RNaseIII domains. The latter mode results in processive, ATP-dependent cleavage of dsRNA and may contribute to efficient production of vsiRNAs for antiviral defense. Viruses 2019, 11, x FOR PEER REVIEW 7 of 32 189 Figure 4. The RNA interference (RNAi) pathway in mammals. A single Dicer protein processes long 190 dsRNA into siRNAs and pre-miRNAs into miRNA duplexes. These small RNAs are loaded into an 191 Argonaute containing RISC complex, from which one of the strands is eliminated and degraded. The 192 other strand, referred to as guide strand (for siRNAs) or the mature miRNA (for miRNAs), is retained 193 and used to guide Argonaute onto target RNAs, resulting in cleavage (siRNA) or translational 194 inhibition or target RNA destabilization (miRNA). The scheme shows the cytoplasmic stage of the 195 miRNA pathway; the nuclear stage (pri-miRNA transcription, processing, and pre-miRNA nuclear 196 export) is not shown. 197 The miRISC complex is guided by the miRNA to target sites typically located in the 3' UTRs of 198 mRNAs [77]. Target recognition is initiated by a short nucleotide stretch at the 5' end of the miRNA 199 (position 2-8), the so-called seed sequence, accompanied with various degree of base pairing at the 200 3' end [77,95-97]. Mechanisms for miRNA-mediated gene silencing include translational repression, 201 de-adenylation, and enhancement of mRNA decay [77,98,99]. The majority of mRNAs is estimated 202 to be regulated by miRNAs [100], and post-transcriptional regulation by miRNAs is thus implicated 203 in almost all cell biological processes.
+5	20	28 proteins	Chemical	CHEBI_36080
+5	37	56 double-stranded RNA	Chemical	CHEBI_67208
+5	53	56 RNA	Chemical	CHEBI_33697
+5	58	63 dsRNA	Chemical	CHEBI_67208
+5	88	91 RNA	Chemical	CHEBI_33697
+5	172	179 protein	Chemical	CHEBI_16541
+5	261	268 Protein	Chemical	CHEBI_16541
+5	604	609 dsRNA	Chemical	CHEBI_67208
+5	633	638 dsRNA	Chemical	CHEBI_67208
+5	915	920 dsRNA	Chemical	CHEBI_67208
+5	1072	1077 dsRNA	Chemical	CHEBI_67208
+5	1136	1145 antiviral	Chemical	CHEBI_22587
+5	1217	1220 RNA	Chemical	CHEBI_33697
+5	1241	1248 pathway	Chemical	CHEBI_34922
+5	1276	1283 protein	Chemical	CHEBI_16541
+5	1303	1308 dsRNA	Chemical	CHEBI_67208
+5	1721	1724 RNA	Chemical	CHEBI_33697
+5	1806	1813 pathway	Chemical	CHEBI_34922
+5	2076	2086 nucleotide	Chemical	CHEBI_36976
+5	2367	2371 mRNA	Chemical	CHEBI_33699
+
+6|chunk|Although miRNA-mediated gene regulation seems to be the dominant function of mammalian 205 RNAi, early evidence has already indicated that the siRNA pathway is functional in mammals.
+6	149	156 pathway	Chemical	CHEBI_34922
+
+7|chunk|Transfection of synthetic siRNAs or expression of short-hairpin RNAs (shRNAs) with 207 complementarity to a gene of interest was found to induce robust and sequence-specific RNAi, 208 without activation of the interferon response as siRNAs are too short to be detected by dsRNA 209 sensors (discussed in Section 3.1) [25, 101] . Moreover, long dsRNA was reported to be functional in
+7	210	220 interferon	Chemical	CHEBI_52999
+7	272	277 dsRNA	Chemical	CHEBI_67208
+7	344	349 dsRNA	Chemical	CHEBI_67208
+

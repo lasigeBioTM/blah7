@@ -1,0 +1,29 @@
+0|chunk|BMC Infectious Diseases Let the sun shine in: effects of ultraviolet radiation on invasive pneumococcal disease risk in Philadelphia, Pennsylvania
+0	0	3 BMC	Chemical	CHEBI_3392
+0	104	111 disease	Disease	DOID_4
+0	CHEBI-DOID	CHEBI_3392	DOID_4
+
+1|chunk|Background: Streptococcus pneumoniae is a common cause of community acquired pneumonia and bacteremia. Excess wintertime mortality related to pneumonia has been noted for over a century, but the seasonality of invasive pneumococcal disease (IPD) has been described relatively recently and is poorly understood. Improved understanding of environmental influence on disease seasonality has taken on new urgency due to global climate change.
+1	77	86 pneumonia	Disease	DOID_552
+1	142	151 pneumonia	Disease	DOID_552
+1	232	239 disease	Disease	DOID_4
+1	364	371 disease	Disease	DOID_4
+
+2|chunk|We evaluated 602 cases of IPD reported in Philadelphia County, Pennsylvania, from 2002 to 2007. Poisson regression models incorporating seasonal smoothers were used to identify associations between weekly weather patterns and case counts. Associations between acute (dayto-day) environmental fluctuations and IPD occurrence were evaluated using a case-crossover approach. Effect modification across age and sex strata was explored, and meta-regression models were created using stratum-specific estimates for effect.
+
+3|chunk|: IPD incidence was greatest in the wintertime, and spectral decomposition revealed a peak at 51.0 weeks, consistent with annual periodicity. After adjustment for seasonality, yearly increases in reporting, and temperature, weekly incidence was found to be associated with clear-sky UV index (IRR per unit increase in index: 0.70 [95% CI 0.54-0.91]). The effect of UV index was highest among young strata and decreased with age. At shorter time scales, only an association with increases in ambient sulphur oxides was linked to disease risk (OR for highest tertile of exposure 0.75, 95% CI 0.60 to 0.93).
+3	499	506 sulphur	Chemical	CHEBI_17909
+3	499	506 sulphur	Chemical	CHEBI_26833
+3	507	513 oxides	Chemical	CHEBI_25741
+3	528	535 disease	Disease	DOID_4
+3	CHEBI-DOID	CHEBI_17909	DOID_4
+3	CHEBI-DOID	CHEBI_26833	DOID_4
+3	CHEBI-DOID	CHEBI_25741	DOID_4
+
+4|chunk|We confirmed the wintertime predominance of IPD in a major urban center. The major predictor of IPD in Philadelphia is extended periods of low UV radiation, which may explain observed wintertime seasonality. The mechanism of action of diminished light exposure on disease occurrence may be due to direct effects on pathogen survival or host immune function via altered 1,25-(OH) 2 -vitamin-D metabolism. These findings may suggest less diminution in future IPD risk with climate change than would be expected if wintertime seasonality was driven by temperature.
+4	225	231 action	Chemical	CHEBI_5133
+4	246	251 light	Chemical	CHEBI_30212
+4	264	271 disease	Disease	DOID_4
+4	CHEBI-DOID	CHEBI_5133	DOID_4
+4	CHEBI-DOID	CHEBI_30212	DOID_4
+

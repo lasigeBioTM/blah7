@@ -1,0 +1,18 @@
+0|chunk|Fast type I interferon response protects astrocytes from flavivirus infection and virus-induced cytopathic effects
+0	0	4 Fast	Gene_function	GO_0033867
+
+1|chunk|Background: Neurotropic flaviviruses such as tick-borne encephalitis virus (TBEV), Japanese encephalitis virus (JEV), West Nile virus (WNV), and Zika virus (ZIKV) are causative agents of severe brain-related diseases including meningitis, encephalitis, and microcephaly. We have previously shown that local type I interferon response within the central nervous system (CNS) is involved in the protection of mice against tick-borne flavivirus infection. However, the cells responsible for mounting this protective response are not defined. Methods: Primary astrocytes were isolated from wild-type (WT) and interferon alpha receptor knock out (IFNAR / ) mice and infected with neurotropic flaviviruses. Viral replication and spread, IFN induction and response, and cellular viability were analyzed. Transcriptional levels in primary astrocytes treated with interferon or supernatant from virus-infected cells were analyzed by RNA sequencing and evaluated by different bioinformatics tools.
+1	56	68 encephalitis	Phenotype	HP_0002383
+1	92	104 encephalitis	Phenotype	HP_0002383
+1	187	193 severe	Phenotype	HP_0012828
+1	239	251 encephalitis	Phenotype	HP_0002383
+1	345	352 central	Phenotype	HP_0030645
+
+2|chunk|Results: Here, we show that astrocytes control viral replication of different TBEV strains, JEV, WNV, and ZIKV. In contrast to fibroblast, astrocytes mount a rapid interferon response and restrict viral spread. Furthermore, basal expression levels of key interferon-stimulated genes are high in astrocytes compared to mouse embryonic fibroblasts. Bioinformatic analysis of RNA-sequencing data reveals that astrocytes have established a basal antiviral state which contributes to the rapid viral recognition and upregulation of interferons. The most highly upregulated pathways in neighboring cells were linked to type I interferon response and innate immunity. The restriction in viral growth was dependent on interferon signaling, since loss of the interferon receptor, or its blockade in wild-type cells, resulted in high viral replication and virus-induced cytopathic effects. Astrocyte supernatant from TBEV-infected cells can restrict TBEV growth in astrocytes already 6 h post infection, the effect on neurons is highly reinforced, and astrocyte supernatant from 3 h post infection is already protective.
+2	686	692 growth	Gene_function	GO_0040007
+2	945	951 growth	Gene_function	GO_0040007
+
+3|chunk|Conclusions: These findings suggest that the combination of an intrinsic constitutive antiviral response and the fast induction of type I IFN production by astrocytes play an important role in self-protection of astrocytes and suppression of flavivirus replication in the CNS.
+3	86	104 antiviral response	Gene_function	GO_0051607
+3	113	117 fast	Gene_function	GO_0033867
+

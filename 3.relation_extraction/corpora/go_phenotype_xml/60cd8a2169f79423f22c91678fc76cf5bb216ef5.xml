@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<document id="60cd8a2169f79423f22c91678fc76cf5bb216ef5">
+  <chunk id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c0" text="T cell-selective deletion of Oct1 protects animals from autoimmune neuroinflammation while maintaining neurotropic pathogen response"/>
+  <chunk id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1" text="Background: Treatments for autoimmune diseases aim to dampen autoreactivity while preserving normal immune function. In CD4 + T cells, the transcription factor Oct1/Pou2f1 is a dispensable transcription factor for T cell development and response to primary infection, but promotes expression of target genes, including Il2 and Ifng, under conditions of antigen reencounter. As a result, they are more strongly expressed upon secondary stimulation. Such repeated antigen encounters occur in memory recall responses, in autoimmunity where self-antigen can be recognized multiple times, and in chronic infection where foreign antigen is persistent. Based on these previous findings, we hypothesized that Oct1 loss would protect animals from autoimmunity but maintain normal responses to pathogens in the CNS. Objective: We used a conditional mouse Oct1 (Pou2f1) allele and a CD4-Cre driver to determine the effect of T cellspecific Oct1 loss on autoimmune-and viral-induced neuroinflammation using an autoantigen-driven EAE model of autoimmunity and a JHMV model of viral infection. Results: Oct1 conditional deletion mitigated clinical scores and reduced infiltrating T cells and cytokine production in the EAE model. Consistently, Oct1-deficient CD4 + T cells stimulated in vitro showed increased expression of markers associated with T cell anergy, particularly in the absence of co-stimulatory signals. In contrast, anti-viral T cell effector functions are intact in the absence of Oct1, with no changes in neuroinflammation, infiltrating T cells or cytokine production. Conclusion: Our findings uncover a significant difference between the effect of Oct1 loss on autoimmune and antipathogen responses, which potentially could be exploited for therapeutic benefit.">
+    <entity charOffset="214-232" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" ontology_id="GO_0030217" text="T cell development" type="gene_function"/>
+    <entity charOffset="216-232" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" ontology_id="GO_0048468" text="cell development" type="gene_function"/>
+    <entity charOffset="490-496" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" ontology_id="GO_0007613" text="memory" type="gene_function"/>
+    <entity charOffset="518-530" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" ontology_id="HP_0002960" text="autoimmunity" type="phenotype"/>
+    <entity charOffset="591-598" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" ontology_id="HP_0011010" text="chronic" type="phenotype"/>
+    <entity charOffset="591-608" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" ontology_id="HP_0031035" text="chronic infection" type="phenotype"/>
+    <entity charOffset="738-750" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" ontology_id="HP_0002960" text="autoimmunity" type="phenotype"/>
+    <entity charOffset="1030-1042" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" ontology_id="HP_0002960" text="autoimmunity" type="phenotype"/>
+    <entity charOffset="1178-1197" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" ontology_id="GO_0001816" text="cytokine production" type="gene_function"/>
+    <entity charOffset="1334-1347" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" ontology_id="GO_0002870" text="T cell anergy" type="gene_function"/>
+    <entity charOffset="1551-1570" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" ontology_id="GO_0001816" text="cytokine production" type="gene_function"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p0" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p1" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p2" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p3" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e0" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p4" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p5" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p6" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p7" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p8" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e1" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p9" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p10" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p11" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p12" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p13" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e2" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p14" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p15" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p16" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e3" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p17" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p18" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p19" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e4" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p20" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p21" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p22" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e5" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p23" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p24" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p25" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e6" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p26" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e8" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p27" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e9" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p28" relation="true"/>
+    <pair e1="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e7" e2="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.e10" id="60cd8a2169f79423f22c91678fc76cf5bb216ef5.c1.p29" relation="true"/>
+  </chunk>
+</document>

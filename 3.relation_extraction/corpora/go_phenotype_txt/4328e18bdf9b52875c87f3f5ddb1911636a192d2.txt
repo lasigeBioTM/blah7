@@ -1,0 +1,24 @@
+0|chunk|interferon-induced Transmembrane Protein 3 inhibits hantaan Virus infection, and its single nucleotide Polymorphism rs12252 influences the severity of hemorrhagic Fever with renal syndrome
+0	19	32 Transmembrane	Gene_function	GO_0016021
+0	139	147 severity	Phenotype	HP_0012824
+0	163	168 Fever	Phenotype	HP_0001945
+0	GO-HP	GO_0016021	HP_0012824
+0	GO-HP	GO_0016021	HP_0001945
+
+1|chunk|Hantaan virus (HTNV) causes hemorrhagic fever with renal syndrome (HFRS). Previous studies have identified interferon-induced transmembrane proteins (IFITMs) as an interferon-stimulated gene family. However, the role of IFITMs in HTNV infection is unclear. In this study, we observed that IFITM3 single nucleotide polymorphisms (SNP) rs12252 C allele and CC genotype associated with the disease severity and HTNV load in the plasma of HFRS patients. In vitro experiments showed that the truncated protein produced by the rs12252 C allele exhibited an impaired anti-HTNV activity. We also proved that IFITM3 was able to inhibit HTNV infection in both HUVEC and A549 cells by overexpression and RNAi assays, likely via a mechanism of inhibiting virus entry demonstrated by binding and entry assay. Localization of IFITM3 in late endosomes was also observed. In addition, we demonstrated that the transcription of IFITM3 is negatively regulated by an lncRNA negative regulator of interferon response (NRIR). Taken together, we conclude that IFITM3, negatively regulated by NRIR, inhibits HTNV infection, and its SNP rs12252 correlates with the plasma HTNV load and the disease severity of patients with HFRS.
+1	40	45 fever	Phenotype	HP_0001945
+1	126	139 transmembrane	Gene_function	GO_0016021
+1	395	403 severity	Phenotype	HP_0012824
+1	693	697 RNAi	Gene_function	GO_0016246
+1	771	778 binding	Gene_function	GO_0005488
+1	796	808 Localization	Gene_function	GO_0051179
+1	1174	1182 severity	Phenotype	HP_0012824
+1	HP-GO	HP_0001945	GO_0016021
+1	HP-GO	HP_0001945	GO_0016246
+1	HP-GO	HP_0001945	GO_0005488
+1	HP-GO	HP_0001945	GO_0051179
+1	GO-HP	GO_0016021	HP_0012824
+1	HP-GO	HP_0012824	GO_0016246
+1	HP-GO	HP_0012824	GO_0005488
+1	HP-GO	HP_0012824	GO_0051179
+

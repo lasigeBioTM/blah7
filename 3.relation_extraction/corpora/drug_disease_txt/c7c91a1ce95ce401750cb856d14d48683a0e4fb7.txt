@@ -1,0 +1,7 @@
+0|chunk|Hierarchical Clustering Using the Arithmetic-Harmonic Cut: Complexity and Experiments
+
+1|chunk|Clustering, particularly hierarchical clustering, is an important method for understanding and analysing data across a wide variety of knowledge domains with notable utility in systems where the data can be classified in an evolutionary context. This paper introduces a new hierarchical clustering problem defined by a novel objective function we call the arithmeticharmonic cut. We show that the problem of finding such a cut is NP-hard and APX -hard but is fixed-parameter tractable, which indicates that although the problem is unlikely to have a polynomial time algorithm (even for approximation), exact parameterized and local search based techniques may produce workable algorithms. To this end, we implement a memetic algorithm for the problem and demonstrate the effectiveness of the arithmetic-harmonic cut on a number of datasets including a cancer type dataset and a corona virus dataset. We show favorable performance compared to currently used hierarchical clustering techniques such as k-MEANS, Graclus and NORMALIZED-CUT. The arithmetic-harmonic cut metric overcoming difficulties other hierarchal methods have in representing both intercluster differences and intracluster similarities.
+1	852	858 cancer	Disease	DOID_162
+1	878	884 corona	Chemical	CHEBI_37409
+1	DOID-CHEBI	DOID_162	CHEBI_37409
+

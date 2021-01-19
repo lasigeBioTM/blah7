@@ -1,0 +1,32 @@
+0|chunk|Membrane-Active Sequences within gp41 Membrane Proximal External Region (MPER) Modulate MPER-Containing Peptidyl Fusion Inhibitor Activity and the Biosynthesis of HIV-1 Structural Proteins
+0	38	46 Membrane	Gene_function	GO_0016020
+0	47	55 Proximal	Phenotype	HP_0012840
+0	147	159 Biosynthesis	Gene_function	GO_0009058
+0	GO-HP	GO_0016020	HP_0012840
+0	HP-GO	HP_0012840	GO_0009058
+
+1|chunk|The membrane proximal external region (MPER) is a highly conserved membrane-active region located at the juxtamembrane positions within class I viral fusion glycoproteins and essential for membrane fusion events during viral entry. The MPER in the human immunodeficiency virus type I (HIV-1) envelope protein (Env) interacts with the lipid bilayers through a cluster of tryptophan (Trp) residues and a C-terminal cholesterol-interacting motif. The inclusion of the MPER N-terminal sequence contributes to the membrane reactivity and anti-viral efficacy of the first two anti-HIV peptidyl fusion inhibitors T20 and T1249. As a type I transmembrane protein, Env also interacts with the cellular membranes during its biosynthesis and trafficking. Here we investigated the roles of MPER membrane-active sequences during both viral entry and assembly, specifically, their roles in the design of peptidyl fusion inhibitors and the biosynthesis of viral structural proteins. We found that elimination of the membrane-active elements in MPER peptides, namely, penta Trp!alanine (Ala) substitutions and the disruption of the C-terminal cholesterol-interacting motif through deletion inhibited the anti-viral effect against the pseudotyped HIV-1. Furthermore, as compared to C-terminal dimerization, N-terminal dimerization of MPER peptides and N-terminal extension with five helix-forming residues enhanced their anti-viral efficacy substantially. The secondary structure study revealed that the penta-Trp!Ala substitutions also increased the helical content in the MPER sequence, which prompted us to study the biological relevance of such mutations in pre-fusion Env. We observed that Ala mutations of Trp664, Trp668 and Trp670 in MPER moderately lowered the intracellular and intraviral contents of Env while significantly elevating the content of another viral structural protein, p55/Gag and its derivative p24/capsid. The data suggest a role of the gp41 MPER in the membrane-reactive events during both viral entry and budding, and provide insights into the future development of anti-viral therapeutics.
+1	4	12 membrane	Gene_function	GO_0016020
+1	13	21 proximal	Phenotype	HP_0012840
+1	189	197 membrane	Gene_function	GO_0016020
+1	189	204 membrane fusion	Gene_function	GO_0061025
+1	254	270 immunodeficiency	Phenotype	HP_0002721
+1	292	300 envelope	Gene_function	GO_0031975
+1	509	517 membrane	Gene_function	GO_0016020
+1	633	646 transmembrane	Gene_function	GO_0016021
+1	714	726 biosynthesis	Gene_function	GO_0009058
+1	925	937 biosynthesis	Gene_function	GO_0009058
+1	1752	1765 intracellular	Gene_function	GO_0005622
+1	GO-HP	GO_0016020	HP_0012840
+1	GO-HP	GO_0016020	HP_0002721
+1	HP-GO	HP_0012840	GO_0061025
+1	HP-GO	HP_0012840	GO_0031975
+1	HP-GO	HP_0012840	GO_0016021
+1	HP-GO	HP_0012840	GO_0009058
+1	HP-GO	HP_0012840	GO_0005622
+1	GO-HP	GO_0061025	HP_0002721
+1	HP-GO	HP_0002721	GO_0031975
+1	HP-GO	HP_0002721	GO_0016021
+1	HP-GO	HP_0002721	GO_0009058
+1	HP-GO	HP_0002721	GO_0005622
+

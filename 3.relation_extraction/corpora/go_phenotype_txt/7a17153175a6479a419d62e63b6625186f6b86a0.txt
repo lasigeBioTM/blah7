@@ -1,0 +1,42 @@
+0|chunk|VSIG4 inhibits proinflammatory macrophage activation by reprogramming mitochondrial pyruvate metabolism
+0	31	52 macrophage activation	Gene_function	GO_0042116
+0	70	83 mitochondrial	Phenotype	HP_0001427
+0	84	103 pyruvate metabolism	Gene_function	GO_0006090
+0	93	103 metabolism	Gene_function	GO_0008152
+0	GO-HP	GO_0042116	HP_0001427
+0	HP-GO	HP_0001427	GO_0006090
+0	HP-GO	HP_0001427	GO_0008152
+
+1|chunk|Exacerbation of macrophage-mediated inflammation contributes to pathogenesis of various inflammatory diseases, but the immunometabolic programs underlying regulation of macrophage activation are unclear. Here we show that V-set immunoglobulin-domain-containing 4 (VSIG4), a B7 family-related protein that is expressed by resting macrophages, inhibits macrophage activation in response to lipopolysaccharide. Vsig4 / mice are susceptible to high-fat diet-caused obesity and murine hepatitis virus strain-3 (MHV-3)-induced fulminant hepatitis due to excessive macrophage-dependent inflammation. VSIG4 activates the PI3K/ Akt-STAT3 pathway, leading to pyruvate dehydrogenase kinase-2 (PDK2) upregulation and subsequent phosphorylation of pyruvate dehydrogenase, which results in reduction in pyruvate/acetyl-CoA conversion, mitochondrial reactive oxygen species secretion, and macrophage inhibition. Conversely, interruption of Vsig4 or Pdk2 promotes inflammation. Forced expression of Vsig4 in mice ameliorates MHV-3-induced viral fulminant hepatitis. These data show that VSIG4 negatively regulates macrophage activation by reprogramming mitochondrial pyruvate metabolism.
+1	64	76 pathogenesis	Gene_function	GO_0009405
+1	169	190 macrophage activation	Gene_function	GO_0042116
+1	351	372 macrophage activation	Gene_function	GO_0042116
+1	463	470 obesity	Phenotype	HP_0001513
+1	482	491 hepatitis	Phenotype	HP_0012115
+1	523	542 fulminant hepatitis	Phenotype	HP_0004787
+1	533	542 hepatitis	Phenotype	HP_0012115
+1	684	688 PDK2	Gene_function	GO_0004740
+1	718	733 phosphorylation	Gene_function	GO_0016310
+1	823	836 mitochondrial	Phenotype	HP_0001427
+1	936	940 Pdk2	Gene_function	GO_0004740
+1	1031	1050 fulminant hepatitis	Phenotype	HP_0004787
+1	1041	1050 hepatitis	Phenotype	HP_0012115
+1	1100	1121 macrophage activation	Gene_function	GO_0042116
+1	1139	1152 mitochondrial	Phenotype	HP_0001427
+1	GO-HP	GO_0009405	HP_0001513
+1	GO-HP	GO_0009405	HP_0012115
+1	GO-HP	GO_0009405	HP_0004787
+1	GO-HP	GO_0009405	HP_0001427
+1	GO-HP	GO_0042116	HP_0001513
+1	GO-HP	GO_0042116	HP_0012115
+1	GO-HP	GO_0042116	HP_0004787
+1	GO-HP	GO_0042116	HP_0001427
+1	HP-GO	HP_0001513	GO_0004740
+1	HP-GO	HP_0001513	GO_0016310
+1	HP-GO	HP_0012115	GO_0004740
+1	HP-GO	HP_0012115	GO_0016310
+1	HP-GO	HP_0004787	GO_0004740
+1	HP-GO	HP_0004787	GO_0016310
+1	GO-HP	GO_0004740	HP_0001427
+1	GO-HP	GO_0016310	HP_0001427
+

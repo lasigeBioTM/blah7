@@ -1,0 +1,103 @@
+{
+    "text": "to describe the trend and the spatial distribution of leprosy in the state of Bahia, Brazil, 2001-2015.this was a mixed ecological study of epidemiological indicators of leprosy; Jointpoint regression was used for the temporal analysis, while spatial scan statistics were used to identify clusters of the disease; the trend was classified as stationary, increasing or decreasing; we calculated the annual percent change (APC) and average annual percent change (AAPC).there was a reduction in prevalence (AAPC = -5.6; p<0,001), treatment dropout (AAPC = -13.7; p<0.001), and females with leprosy (AAPC = -0.6; p<0.001); the new grade II case coefficient (AAPC = 2.7; p<0.001) and the proportion of multibacillary cases (AAPC = 2,2; p<0.001) showed a growing trend; spatial distribution was heterogeneous and concentrated in three regions in particular (north, west and south of the state), with variation between the indicators.persisting leprosy transmission in the state, late diagnosis and high hidden prevalence is suggested.",
+    "denotations": [
+        {
+            "id": "DOID_1024",
+            "span": {
+                "begin": 54,
+                "end": 61
+            },
+            "obj": "leprosy"
+        },
+        {
+            "id": "DOID_1024",
+            "span": {
+                "begin": 170,
+                "end": 177
+            },
+            "obj": "leprosy"
+        },
+        {
+            "id": "CHEBI_33731",
+            "span": {
+                "begin": 289,
+                "end": 297
+            },
+            "obj": "clusters"
+        },
+        {
+            "id": "CHEBI_80551",
+            "span": {
+                "begin": 421,
+                "end": 424
+            },
+            "obj": "APC"
+        },
+        {
+            "id": "DOID_1024",
+            "span": {
+                "begin": 587,
+                "end": 594
+            },
+            "obj": "leprosy"
+        },
+        {
+            "id": "DOID_1024",
+            "span": {
+                "begin": 938,
+                "end": 945
+            },
+            "obj": "leprosy"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_80551"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_80551"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_1024",
+            "pred": "no_relation",
+            "obj": "CHEBI_80551"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_1024",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_1024",
+            "pred": "no_relation",
+            "obj": "CHEBI_80551"
+        }
+    ]
+}

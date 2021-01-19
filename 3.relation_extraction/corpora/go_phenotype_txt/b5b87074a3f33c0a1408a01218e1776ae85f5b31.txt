@@ -1,0 +1,79 @@
+0|chunk|The Mechanism of Action of Ursolic Acid as a Potential Anti-Toxoplasmosis Agent, and Its Immunomodulatory Effects
+
+1|chunk|This study was performed to investigate the mechanism of action of ursolic acid in terms of anti-Toxoplasma gondii effects, including immunomodulatory effects. We evaluated the anti-T. gondii effects of ursolic acid, and analyzed the production of nitric oxide (NO), reactive oxygen species (ROS), and cytokines through co-cultured immune cells, as well as the expression of intracellular organelles of T. gondii. The subcellular organelles and granules of T. gondii, particularly rhoptry protein 18, microneme protein 8, and inner membrane complex sub-compartment protein 3, were markedly decreased when T. gondii was treated with ursolic acid, and their expressions were effectively inhibited. Furthermore, ursolic acid effectively increased the production of NO, ROS, interleukin (IL)-10, IL-12, granulocyte macrophage colony stimulating factor (GM-CSF), and interferon-, while reducing the expression of IL-1, IL-6, tumor necrosis factor alpha (TNF-), and transforming growth factor beta 1 (TGF-1) in T. gondii-infected immune cells. These results demonstrate that ursolic acid not only causes anti-T. gondii activity/action by effectively inhibiting the survival of T. gondii and the subcellular organelles of T. gondii, but also induces specific immunomodulatory effects in T. gondii-infected immune cells. Therefore, this study indicates that ursolic acid can be effectively utilized as a potential candidate agent for developing novel anti-toxoplasmosis drugs, and has immunomodulatory activity. different sub-proteins such as IMC sub-compartment proteins 1, 2, and 3 [2] [3] [4] . The protein kinases of T. gondii have been known to play key roles for modulating the motility, invasion, replication, egress, and survival within the host [5] . It was reported that T. gondii is divided through a unique form of cell division such as endodyogeny, and its chromosomal passenger complex is essential for the organization of a functional mitotic spindle [6] . Furthermore, T. gondii not only forms a parasitophorous vacuole membrane (PVM) after invasion into host cells, but also proliferates and grows into a PVM [7-9]. For decades, several compounds through many researchers and groups were developed as drugs for treating toxoplasmosis, and are usefully used in clinics. However, existing drugs are widely vulnerable to drug-resistance in clinics globally. To overcome pharmacological barriers to these challenges, the efforts for treating infectious diseases have been attempted in various fields, and it has been reported that various extracts/compounds derived from medicinal plants and new synthetic compounds have anti-T. gondii effects in the in vitro and pre-clinic stages [10] [11] [12] [13] [14] [15] . Until recently, various compounds derived from plants have showed a leading role and ability as a source of specialized metabolites with medical effects as well as pharmacological activities. In addition, it was reported that various extracts/compounds derived from plants and synthetic compounds could be used in the medical field as useful resources for treating acute or chronic infectious diseases caused by schistosomiasis, leishmania, malaria, or tuberculosis, as well as viral diseases including middle east respiratory syndrome (MERS) or Zika fever and avian influenza [16] [17] [18] [19] [20] [21] [22] [23] .
+1	375	388 intracellular	Gene_function	GO_0005622
+1	481	488 rhoptry	Gene_function	GO_0020008
+1	501	510 microneme	Gene_function	GO_0020009
+1	532	540 membrane	Gene_function	GO_0016020
+1	922	927 tumor	Phenotype	HP_0002664
+1	928	936 necrosis	Gene_function	GO_0001906
+1	976	982 growth	Gene_function	GO_0040007
+1	1823	1836 cell division	Gene_function	GO_0051301
+1	1866	1895 chromosomal passenger complex	Gene_function	GO_0032133
+1	1946	1961 mitotic spindle	Gene_function	GO_0072686
+1	1954	1961 spindle	Gene_function	GO_0005819
+1	2008	2031 parasitophorous vacuole	Gene_function	GO_0020003
+1	2024	2031 vacuole	Gene_function	GO_0005773
+1	2032	2040 membrane	Gene_function	GO_0016020
+1	3088	3093 acute	Phenotype	HP_0011009
+1	3097	3104 chronic	Phenotype	HP_0011010
+1	3274	3279 fever	Phenotype	HP_0001945
+1	GO-HP	GO_0005622	HP_0002664
+1	GO-HP	GO_0005622	HP_0011009
+1	GO-HP	GO_0005622	HP_0011010
+1	GO-HP	GO_0005622	HP_0001945
+1	GO-HP	GO_0020008	HP_0002664
+1	GO-HP	GO_0020008	HP_0011009
+1	GO-HP	GO_0020008	HP_0011010
+1	GO-HP	GO_0020008	HP_0001945
+1	GO-HP	GO_0020009	HP_0002664
+1	GO-HP	GO_0020009	HP_0011009
+1	GO-HP	GO_0020009	HP_0011010
+1	GO-HP	GO_0020009	HP_0001945
+1	GO-HP	GO_0016020	HP_0002664
+1	GO-HP	GO_0016020	HP_0011009
+1	GO-HP	GO_0016020	HP_0011010
+1	GO-HP	GO_0016020	HP_0001945
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0040007
+1	HP-GO	HP_0002664	GO_0051301
+1	HP-GO	HP_0002664	GO_0032133
+1	HP-GO	HP_0002664	GO_0072686
+1	HP-GO	HP_0002664	GO_0005819
+1	HP-GO	HP_0002664	GO_0020003
+1	HP-GO	HP_0002664	GO_0005773
+1	GO-HP	GO_0001906	HP_0011009
+1	GO-HP	GO_0001906	HP_0011010
+1	GO-HP	GO_0001906	HP_0001945
+1	GO-HP	GO_0040007	HP_0011009
+1	GO-HP	GO_0040007	HP_0011010
+1	GO-HP	GO_0040007	HP_0001945
+1	GO-HP	GO_0051301	HP_0011009
+1	GO-HP	GO_0051301	HP_0011010
+1	GO-HP	GO_0051301	HP_0001945
+1	GO-HP	GO_0032133	HP_0011009
+1	GO-HP	GO_0032133	HP_0011010
+1	GO-HP	GO_0032133	HP_0001945
+1	GO-HP	GO_0072686	HP_0011009
+1	GO-HP	GO_0072686	HP_0011010
+1	GO-HP	GO_0072686	HP_0001945
+1	GO-HP	GO_0005819	HP_0011009
+1	GO-HP	GO_0005819	HP_0011010
+1	GO-HP	GO_0005819	HP_0001945
+1	GO-HP	GO_0020003	HP_0011009
+1	GO-HP	GO_0020003	HP_0011010
+1	GO-HP	GO_0020003	HP_0001945
+1	GO-HP	GO_0005773	HP_0011009
+1	GO-HP	GO_0005773	HP_0011010
+1	GO-HP	GO_0005773	HP_0001945
+
+2|chunk|However, effective next-generation drugs for treating toxoplasmosis have not yet been developed, and the difficulty of drug development against zoonosis is still causing a public health crisis globally. In this context, various studies on the development or discovery of effective drugs and novel candidates against parasitic zoonosis are urgently required. In this regard, ursolic acid is a bioactive compound derived from medicinal plants, and is also known to have selective bioactive properties such as anti-inflammatory [24-27] and anticancer effects [28] [29] [30] [31] . It also effectively induces various activities, including antimicrobial [32-34] and anti-parasitic effects [35, 36] . Until recently, although studies and compounds regarding anti-T. gondii activity have been reported globally [37] [38] [39] [40] [41] [42] [43] , the mechanism of action of ursolic acid on the inhibitory effect of T. gondii and the immunomodulatory activity was not reported yet. From this perspective, this study was performed to evaluate the mechanism of action and the immunomodulatory activity of ursolic acid in terms of anti-T. gondii effects and activity, and to confirm the potential as a potent candidate drug for developing novel anti-toxoplasmosis agents.
+
+3|chunk|Results
+
+4|chunk|T. gondii has a specific network structure and systems, including various intracellular organelles such as the mitochondrion, apicoplast, dense granule, and rhoptry (Figure 1) , which induces serious zoonotic diseases such as toxoplasmosis, particularly in humans, while causing infection in various vertebrates. Before evaluating the mechanism of action of ursolic acid against T. gondii, we measured the inhibitory effect of ursolic acid (UA) against the survival of T. gondii and normal lung cells infected with T. gondii through an MTT assay as described previously [9] , which showed significant results and reproducibility. When T. gondii was treated with UA (12.5-400 g/mL) for 24 h, the viability was effectively inhibited, and the parasitic survival rate was measured as less than 30% at 200 g/mL. UA strongly decreased the viability of T. gondii compared with sulfadiazine (SF), which demonstrates that UA caused anti-T. gondii effect or activity against T. gondi (data not shown). In particular, the lung cells infected with T. gondii were markedly inhibited in a dose-dependent manner after treatment with ursolic acid (12.5-200 g/mL) when compared with the untreated infection cells and the T. gondii-infected cells treated with SF ( Figure 2) . Furthermore, it was clearly shown that there were significant differences between the untreated T. gondii-group and the experimental groups. In these aspects, it was demonstrated that UA effectively induced the selective anti-parasitic effect/action compared to the SF-treated group and the untreated group through a direct inhibitory effect on the Pathogens 2019, 8, 61 3 of 18
+4	74	87 intracellular	Gene_function	GO_0005622
+4	157	164 rhoptry	Gene_function	GO_0020008
+
+5|chunk|viability of T. gondii. This shows that UA has the potential to be utilized as an anti-T. gondii candidate agent and/or a synergic compound with the existing drugs for developing novel anti-toxoplasmosis agents. Therefore, these results indicate that UA strongly inhibits or blocks the survival of T. gondii by effectively inducing anti-T. gondii activity through the selective inhibitory activity and/or action against the viability of T. gondii.
+

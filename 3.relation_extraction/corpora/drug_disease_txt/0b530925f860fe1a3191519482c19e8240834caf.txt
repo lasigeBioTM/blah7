@@ -1,0 +1,76 @@
+0|chunk|miRNA-200c-3p is crucial in acute respiratory distress syndrome
+0	55	63 syndrome	Disease	DOID_225
+
+1|chunk|Influenza infection and pneumonia are known to cause much of their mortality by inducing acute respiratory distress syndrome (ARDS), which is the most severe form of acute lung injury (ALI). Angiotensin-converting enzyme 2 (ACE2), which is a negative regulator of angiotensin II in the renin-angiotensin system, has been reported to have a crucial role in ALI. Downregulation of ACE2 is always associated with the ALI or ARDS induced by avian influenza virus, severe acute respiratory syndrome-coronavirus, respiratory syncytial virus and sepsis. However, the molecular mechanism of the decreased expression of ACE2 in ALI is unclear. Here we show that avian influenza virus H5N1 induced the upregulation of miR-200c-3p, which was then demonstrated to target the 3-untranslated region of ACE2. Then, we found that nonstructural protein 1 and viral RNA of H5N1 contributed to the induction of miR-200c-3p during viral infection. Additionally, the synthetic analog of viral double-stranded RNA (poly (I:C)), bacterial lipopolysaccharide and lipoteichoic acid can all markedly increase the expression of miR-200c-3p in a nuclear factor-B-dependent manner. Furthermore, markedly elevated plasma levels of miR-200c-3p were observed in severe pneumonia patients. The inhibition of miR-200c-3p ameliorated the ALI induced by H5N1 virus infection in vivo, indicating a potential therapeutic target. Therefore, we identify a shared mechanism of viral and bacterial lung infection-induced ALI/ARDS via nuclear factor-B-dependent upregulation of miR-200c-3p to reduce ACE2 levels, which leads increased angiotensin II levels and subsequently causes lung injury.
+1	0	9 Influenza	Disease	DOID_8469
+1	24	33 pneumonia	Disease	DOID_552
+1	116	124 syndrome	Disease	DOID_225
+1	264	275 angiotensin	Chemical	CHEBI_2719
+1	264	278 angiotensin II	Chemical	CHEBI_2719
+1	348	352 role	Chemical	CHEBI_50906
+1	421	425 ARDS	Disease	DOID_11394
+1	437	452 avian influenza	Disease	DOID_4492
+1	443	452 influenza	Disease	DOID_8469
+1	653	668 avian influenza	Disease	DOID_4492
+1	659	668 influenza	Disease	DOID_8469
+1	829	836 protein	Chemical	CHEBI_16541
+1	849	852 RNA	Chemical	CHEBI_33697
+1	973	992 double-stranded RNA	Chemical	CHEBI_67208
+1	989	992 RNA	Chemical	CHEBI_33697
+1	1017	1035 lipopolysaccharide	Chemical	CHEBI_16412
+1	1040	1057 lipoteichoic acid	Chemical	CHEBI_28640
+1	1053	1057 acid	Chemical	CHEBI_37527
+1	1239	1248 pneumonia	Disease	DOID_552
+1	1325	1340 virus infection	Disease	DOID_934
+1	1485	1489 ARDS	Disease	DOID_11394
+1	1595	1606 angiotensin	Chemical	CHEBI_2719
+1	1595	1609 angiotensin II	Chemical	CHEBI_2719
+1	DOID-CHEBI	DOID_8469	CHEBI_2719
+1	DOID-CHEBI	DOID_8469	CHEBI_50906
+1	DOID-CHEBI	DOID_8469	CHEBI_16541
+1	DOID-CHEBI	DOID_8469	CHEBI_33697
+1	DOID-CHEBI	DOID_8469	CHEBI_67208
+1	DOID-CHEBI	DOID_8469	CHEBI_16412
+1	DOID-CHEBI	DOID_8469	CHEBI_28640
+1	DOID-CHEBI	DOID_8469	CHEBI_37527
+1	DOID-CHEBI	DOID_552	CHEBI_2719
+1	DOID-CHEBI	DOID_552	CHEBI_50906
+1	DOID-CHEBI	DOID_552	CHEBI_16541
+1	DOID-CHEBI	DOID_552	CHEBI_33697
+1	DOID-CHEBI	DOID_552	CHEBI_67208
+1	DOID-CHEBI	DOID_552	CHEBI_16412
+1	DOID-CHEBI	DOID_552	CHEBI_28640
+1	DOID-CHEBI	DOID_552	CHEBI_37527
+1	DOID-CHEBI	DOID_225	CHEBI_2719
+1	DOID-CHEBI	DOID_225	CHEBI_50906
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_67208
+1	DOID-CHEBI	DOID_225	CHEBI_16412
+1	DOID-CHEBI	DOID_225	CHEBI_28640
+1	DOID-CHEBI	DOID_225	CHEBI_37527
+1	CHEBI-DOID	CHEBI_2719	DOID_11394
+1	CHEBI-DOID	CHEBI_2719	DOID_4492
+1	CHEBI-DOID	CHEBI_2719	DOID_934
+1	CHEBI-DOID	CHEBI_50906	DOID_11394
+1	CHEBI-DOID	CHEBI_50906	DOID_4492
+1	CHEBI-DOID	CHEBI_50906	DOID_934
+1	DOID-CHEBI	DOID_11394	CHEBI_16541
+1	DOID-CHEBI	DOID_11394	CHEBI_33697
+1	DOID-CHEBI	DOID_11394	CHEBI_67208
+1	DOID-CHEBI	DOID_11394	CHEBI_16412
+1	DOID-CHEBI	DOID_11394	CHEBI_28640
+1	DOID-CHEBI	DOID_11394	CHEBI_37527
+1	DOID-CHEBI	DOID_4492	CHEBI_16541
+1	DOID-CHEBI	DOID_4492	CHEBI_33697
+1	DOID-CHEBI	DOID_4492	CHEBI_67208
+1	DOID-CHEBI	DOID_4492	CHEBI_16412
+1	DOID-CHEBI	DOID_4492	CHEBI_28640
+1	DOID-CHEBI	DOID_4492	CHEBI_37527
+1	CHEBI-DOID	CHEBI_16541	DOID_934
+1	CHEBI-DOID	CHEBI_33697	DOID_934
+1	CHEBI-DOID	CHEBI_67208	DOID_934
+1	CHEBI-DOID	CHEBI_16412	DOID_934
+1	CHEBI-DOID	CHEBI_28640	DOID_934
+1	CHEBI-DOID	CHEBI_37527	DOID_934
+

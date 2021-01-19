@@ -1,0 +1,14 @@
+0|chunk|VIRsiRNApred: a web server for predicting inhibition efficacy of siRNAs targeting human viruses
+
+1|chunk|Background: Selection of effective viral siRNA is an indispensable step in the development of siRNA based antiviral therapeutics. Despite immense potential, a viral siRNA efficacy prediction algorithm is still not available. Moreover, performances of the existing general mammalian siRNA efficacy predictors are not satisfactory for viral siRNAs. Therefore, we have developed "VIRsiRNApred" a support vector machine (SVM) based method for predicting the efficacy of viral siRNA. Methods: In the present study, we have employed a new dataset of 1725 viral siRNAs with experimentally verified quantitative efficacies tested under heterogeneous experimental conditions and targeting as many as 37 important human viruses including HIV, Influenza, HCV, HBV, SARS etc. These siRNAs were divided into training (T 1380 ) and validation (V 345 ) datasets. Important siRNA sequence features including mono to penta nucleotide frequencies, binary pattern, thermodynamic properties and secondary structure were employed for model development.
+1	106	115 antiviral	Chemical	CHEBI_22587
+1	754	758 SARS	Disease	DOID_2945
+1	906	916 nucleotide	Chemical	CHEBI_36976
+1	CHEBI-DOID	CHEBI_22587	DOID_2945
+1	DOID-CHEBI	DOID_2945	CHEBI_36976
+
+2|chunk|Results: During 10-fold cross validation on T 1380 using hybrid approach, we achieved a maximum Pearson Correlation Coefficient (PCC) of 0.55 between predicted and actual efficacy of viral siRNAs. On V 345 independent dataset, our best model achieved a maximum correlation of 0.50 while existing general siRNA prediction methods showed PCC from 0.05 to 0.18. However, using leave one out cross validation PCC was improved to 0.58 and 0.55 on training and validation datasets respectively. SVM performed better than other machine learning techniques used like ANN, KNN and REP Tree.
+
+3|chunk|Conclusion: VIRsiRNApred is the first algorithm for predicting inhibition efficacy of viral siRNAs which is developed using experimentally verified viral siRNAs. We hope this algorithm would be useful in predicting highly potent viral siRNA to aid siRNA based antiviral therapeutics development. The web server is freely available at http://crdd.osdd. net/servers/virsirnapred/.
+3	260	269 antiviral	Chemical	CHEBI_22587
+

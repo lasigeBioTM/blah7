@@ -1,0 +1,18 @@
+0|chunk|The ability to suppress macrophage-mediated inflammation in orbital fat stem cells is controlled by miR-671-5p
+
+1|chunk|Introduction: Our previous works demonstrated that systemic orbital fat-derived stem cell (OFSC) transplantation was effective in ameliorating lipopolysaccharide (LPS)-induced extensive acute lung injury (ALI) in vivo mainly through paracrine regulation of macrophage-mediated cytokine-storm. In this study, we explore the molecular mechanism(s) of OFSCs regulating macrophage activity in a cytokine-inducible fashion.
+1	186	191 acute	Phenotype	HP_0011009
+
+2|chunk|Methods: LPS (100 ng/ml)-activated macrophages were treated by conditioned medium from OFSCs (OFSCs-CM) or non-contact cultured with OFSCs for 6 hours. The potency of OFSCs on macrophage proliferation and pro-inflammation ability were determined. Expression levels of pro-inflammatory cytokines in macrophages, inducible immuno-modulatory factors in OFSCs, were investigated. Deep sequencing analysis as well as interaction between microRNA (miRNA) and genes of immuno-modulators in OFSCs induced by activated macrophages was predicted by miRTar. Transfection of miRNA inhibitor into OFSCs was performed. Real-time RT-PCR and transplantation of OFSCs into mice with LPS-induced ALI confirmed the in vitro and in vivo mechanism. Results: The paracrine effect of OFSCs on inhibition of macrophage pro-inflammatory cytokine release was more potent than induction of macrophage G0/G1 cell cycle arrest. OFSCs-CM suppressed LPS-induced inducible nitric oxide synthetase and the pro-inflammatory cytokines such as tumor necrosis factor-alpha (TNF-), interleukin (IL)-1 alpha, and IL-1 beta expression in macrophages. Under non-contact culture, LPS-activated macrophages effectively triggered the expression of soluble immuno-modulating factors in OFSCs, i.e., IL-10, IL-1 receptor antagonist (IL-1 RA), indoleamine 2,3-dioxygenase, and soluble TNF receptor type II (sTNF RII). Under miRTar prediction, miR-671-5p was identified as a critical microRNA in regulation of multiple immune-modulating factors in OFSCs response to macrophages. The baseline level of miR-671-5p was high in OFSCs, and down-regulation of miR-671-5p upon co-culture with activated macrophages was observed. MiR-671-5p inhibitor transfection into OFSCs selectively enhanced the IL-1 RA and sTNF RII expressions. In addition, inhibition of miR-671-5p in OFSCs enhanced the anti-inflammatory ability against LPS-induced ALI.
+2	176	200 macrophage proliferation	Gene_function	GO_0061517
+2	880	890 cell cycle	Gene_function	GO_0007049
+2	880	897 cell cycle arrest	Gene_function	GO_0007050
+2	1008	1013 tumor	Phenotype	HP_0002664
+2	1014	1022 necrosis	Gene_function	GO_0001906
+2	GO-HP	GO_0061517	HP_0002664
+2	GO-HP	GO_0007049	HP_0002664
+2	GO-HP	GO_0007050	HP_0002664
+2	HP-GO	HP_0002664	GO_0001906
+
+3|chunk|The paracrine effect of OFSCs inhibits the pro-inflammatory ability and proliferation of macrophages. The immune-modulation capacity of OFSCs can be triggered by activated macrophages, and down-regulation of miR-671-5p enhances OFSC immuno-modulation ability by up-regulating IL-1 RA and sTNF RII expression.
+

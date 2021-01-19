@@ -1,0 +1,32 @@
+0|chunk|BMC Medicine RNA viruses in community-acquired childhood pneumonia in semi-urban Nepal; a cross-sectional study
+0	0	3 BMC	Chemical	CHEBI_3392
+0	4	12 Medicine	Chemical	CHEBI_23888
+0	13	16 RNA	Chemical	CHEBI_33697
+0	57	66 pneumonia	Disease	DOID_552
+0	CHEBI-DOID	CHEBI_3392	DOID_552
+0	CHEBI-DOID	CHEBI_23888	DOID_552
+0	CHEBI-DOID	CHEBI_33697	DOID_552
+
+1|chunk|Background: Pneumonia is among the main causes of illness and death in children <5 years of age. There is a need to better describe the epidemiology of viral community-acquired pneumonia (CAP) in developing countries.
+1	12	21 Pneumonia	Disease	DOID_552
+1	177	186 pneumonia	Disease	DOID_552
+
+2|chunk|Methods: From July 2004 to June 2007, we examined nasopharyngeal aspirates (NPA) from 2,230 cases of pneumonia (World Health Organization criteria) in children 2 to 35 months old recruited in a randomized trial of zinc supplementation at a field clinic in Bhaktapur, Nepal. The specimens were examined for respiratory syncytial virus (RSV), influenza virus type A (InfA) and B (InfB), parainfluenza virus types 1, 2 and 3 (PIV1, PIV2, and PIV3), and human metapneumovirus (hMPV) using a multiplex reverse transcriptase polymerase chain reaction (PCR) assay.
+2	76	79 NPA	Chemical	CHEBI_60833
+2	101	110 pneumonia	Disease	DOID_552
+2	214	218 zinc	Chemical	CHEBI_27363
+2	341	350 influenza	Disease	DOID_8469
+2	CHEBI-DOID	CHEBI_60833	DOID_552
+2	CHEBI-DOID	CHEBI_60833	DOID_8469
+2	DOID-CHEBI	DOID_552	CHEBI_27363
+2	CHEBI-DOID	CHEBI_27363	DOID_8469
+
+3|chunk|We identified 919 virus isolates in 887 (40.0%) of the 2,219 NPA specimens with a valid PCR result, of which 334 (15.1%) yielded RSV, 164 (7.4%) InfA, 129 (5.8%) PIV3, 98 (4.4%) PIV1, 93 (4.2%) hMPV, 84 (3.8%) InfB, and 17 (0.8%) PIV2. CAP occurred in an epidemic pattern with substantial temporal variation during the three years of study. The largest peaks of pneumonia occurrence coincided with peaks of RSV infection, which occurred in epidemics during the rainy season and in winter. The monthly number of RSV infections was positively correlated with relative humidity (r s = 0.40, P = 0.01), but not with temperature or rainfall. An hMPV epidemic occurred during one of the three winter seasons and the monthly number of hMPV cases was also associated with relative humidity (r s = 0.55, P = 0.0005).
+3	61	64 NPA	Chemical	CHEBI_60833
+3	362	371 pneumonia	Disease	DOID_552
+3	CHEBI-DOID	CHEBI_60833	DOID_552
+
+4|chunk|Conclusion: Respiratory RNA viruses were detected from NPA in 40% of CAP cases in our study. The most commonly isolated viruses were RSV, InfA, and PIV3. RSV infections contributed substantially to the observed CAP epidemics. The occurrence of viral CAP in this community seemed to reflect more or less overlapping micro-epidemics with several respiratory viruses, highlighting the challenges of developing and implementing effective public health control measures.
+4	24	27 RNA	Chemical	CHEBI_33697
+4	55	58 NPA	Chemical	CHEBI_60833
+

@@ -1,0 +1,40 @@
+0|chunk|Basal Autophagy Is Required for Herpes simplex Virus-2 Infection OPEN
+0	6	15 Autophagy	Gene_function	GO_0006914
+
+1|chunk|Here, we found that HSV-2 does not allow induction of an autophagic response to infection, but maintains basal autophagy levels mostly unchanged during productive infection. Thus, we investigated the importance of basal autophagy for HSV-2 infection, using pharmacological autophagy suppression or cells genetically deficient in an autophagy-essential gene (ATG5). Interference with basal autophagy flux in cells significantly reduced viral replication and diminished the infection. These results indicate that basal autophagy plays an indispensable role required for a productive infection. Importantly, this study draws a sharp distinction between induced and basal autophagy, where the former acts as a viral clearance mechanism abrogating infection, while the latter supports infection.
+1	111	120 autophagy	Gene_function	GO_0006914
+1	220	229 autophagy	Gene_function	GO_0006914
+1	273	282 autophagy	Gene_function	GO_0006914
+1	389	398 autophagy	Gene_function	GO_0006914
+1	517	526 autophagy	Gene_function	GO_0006914
+1	624	629 sharp	Phenotype	HP_0025281
+1	668	677 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0025281
+
+2|chunk|Human herpesvirus-2, also known as Herpes simplex virus-2 (HSV-2), is a double-stranded DNA virus that affects over 16% of the global population aged 15-49 years, causing an immense epidemic 1,2 . HSV-2 primarily causes severe genital diseases associated with physical disorders (e.g. genital ulcers and inflammation) and psychosocial problems 3,4 . HSV-2 genital disease represents a top-alert condition due to the fact that the virus may be transmitted from mothers to neonates causing a neonatal infection with high mortality rate 5,6 and the fact that HSV-2 infection is a serious risk factor for HIV infection, enhancing HIV acquisition rate by 3-4 fold 7,8 . Moreover, HSV-2 was also found to contribute to corneal infections and other ocular pathologies 9,10 , or may cause meningitis 3,4,11 .
+2	220	226 severe	Phenotype	HP_0012828
+2	285	299 genital ulcers	Phenotype	HP_0003249
+2	781	791 meningitis	Phenotype	HP_0001287
+
+3|chunk|Autophagy is a cellular catabolic pathway which degrades various cytoplasmic constituents such as misfolded proteins and protein aggregates, intracellular organelles or microbial pathogens 12,13 . During autophagy, the cargo to be degraded is recruited through autophagy receptors to the autophagic vesicles (autophagosomes) which eventually fuse with lysosomes, releasing their cargo that is then lysosomally degraded 12-14 . During conditions of nutrient deficiency, autophagy is induced to maintain energy pools in the cell, and prevent translational arrests, cell cycle delays or cell death [15] [16] [17] [18] [19] . At the basal levels, autophagy plays other important homeostatic functions such as clearance of protein aggregates, and damaged organelles 12-14 . Disruption of autophagy sometimes results in the failure to adapt to stress conditions or starvation and may cause death of the cell or organism under such conditions 15,19 .
+3	0	9 Autophagy	Gene_function	GO_0006914
+3	141	154 intracellular	Gene_function	GO_0005622
+3	204	213 autophagy	Gene_function	GO_0006914
+3	219	224 cargo	Gene_function	GO_0140355
+3	261	270 autophagy	Gene_function	GO_0006914
+3	379	384 cargo	Gene_function	GO_0140355
+3	469	478 autophagy	Gene_function	GO_0006914
+3	563	573 cell cycle	Gene_function	GO_0007049
+3	584	594 cell death	Gene_function	GO_0008219
+3	643	652 autophagy	Gene_function	GO_0006914
+3	783	792 autophagy	Gene_function	GO_0006914
+
+4|chunk|HSV-1 and HSV-2 are closely related herpesviruses that rely on ICP34.5 protein as a major neurovirulence and neurotropism factor 20,21 . HSV-1 virus was shown to establish virulence via preventing launch of an autophagic response to infection, as HSV-1 ICP34.5 binds to and inhibits the autophagy mediator beclin1 22-25 . HSV-2 ICP34.5 shares some common features with HSV-1 ICP34.5 and also shows differences 26-28 . For example, HSV-2 ICP34.5 gene, contrary to HSV-1 ICP34.5, contains an intron and undergoes alternative splicing, yielding various structurally unique splice-variants 27 and protein products 28 . However, whether HSV-2 ICP34.5 inhibits autophagy responses in cells, similarly to HSV-1 ICP34.5, remains to be established. Very little is known about the role of autophagy in HSV-2 infection. Therefore, we investigated the role of autophagy in regulating HSV-2 infection. Our results demonstrate that basal autophagy, which is maintained at stable levels during productive HSV-2 infection, is required for successful HSV-2 infection, as its disruption prevented infection to a great extent.
+4	287	296 autophagy	Gene_function	GO_0006914
+4	655	664 autophagy	Gene_function	GO_0006914
+4	779	788 autophagy	Gene_function	GO_0006914
+4	848	857 autophagy	Gene_function	GO_0006914
+4	924	933 autophagy	Gene_function	GO_0006914
+4	958	964 stable	Phenotype	HP_0031915
+4	GO-HP	GO_0006914	HP_0031915
+

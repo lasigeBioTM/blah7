@@ -1,0 +1,79 @@
+0|chunk|Efficient and unbiased metagenomic recovery of RNA virus genomes from human plasma samples OPEN
+0	47	50 RNA	Chemical	CHEBI_33697
+
+1|chunk|RNA viruses cause significant human pathology and are responsible for the majority of emerging zoonoses. Mainstream diagnostic assays are challenged by their intrinsic diversity, leading to false negatives and incomplete characterisation. New sequencing techniques are expanding our ability to agnostically interrogate nucleic acids within diverse sample types, but in the clinical setting are limited by overwhelming host material and ultra-low target frequency. Through selective host RNA depletion and compensatory protocol adjustments for ultra-low RNA inputs, we are able to detect three major blood-borne RNA viruses -HIV, HCV and HEV. We recovered complete genomes and up to 43% of the genome from samples with viral loads of 10 4 and 10 3 IU/ml respectively. Additionally, we demonstrated the utility of this method in detecting and characterising members of diverse RNA virus families within a human plasma background, some present at very low levels. By applying this method to a patient sample series, we have simultaneously determined the full genome of both a novel subtype of HCV genotype 6, and a co-infecting human pegivirus. This method builds upon earlier RNA metagenomic techniques and can play an important role in the surveillance and diagnostics of blood-borne viruses.
+1	0	3 RNA	Chemical	CHEBI_33697
+1	319	332 nucleic acids	Chemical	CHEBI_33696
+1	327	332 acids	Chemical	CHEBI_37527
+1	487	490 RNA	Chemical	CHEBI_33697
+1	553	556 RNA	Chemical	CHEBI_33697
+1	611	614 RNA	Chemical	CHEBI_33697
+1	875	878 RNA	Chemical	CHEBI_33697
+1	1174	1177 RNA	Chemical	CHEBI_33697
+1	1227	1231 role	Chemical	CHEBI_50906
+
+2|chunk|Single-stranded RNA viruses exhibit exceptional genetic diversity due to low fidelity replication mechanisms 1, 2 . As a group, they constitute the major source of emerging infections in humans such as Ebola, chikungunya, Zika, West Nile virus and Middle East respiratory syndrome-related coronavirus 3-7 . With new human RNA viruses being discovered each year 8 , the serological and nucleic acid amplification techniques that have dominated virus diagnostics for many years are becoming increasingly unable to respond to the ever-expanding range of pathogens.
+2	16	19 RNA	Chemical	CHEBI_33697
+2	322	325 RNA	Chemical	CHEBI_33697
+2	385	397 nucleic acid	Chemical	CHEBI_33696
+2	393	397 acid	Chemical	CHEBI_37527
+
+3|chunk|In parallel, there is a substantial global burden of long-established blood-borne RNA viruses of which the most prevalent are human immunodeficiency virus (HIV) and hepatitis C virus (HCV), infecting over 38 million and at least 100 million people worldwide, respectively 9, 10 . In developed countries, blood and transplant products are routinely screened for these and other viruses. However, even within these two relatively well-characterised virus species, new genotypic divisions and recombinant variants are being discovered 11-13 , and questions have been raised regarding the reliability of commercial assays in detecting new strains 14-16 .
+3	82	85 RNA	Chemical	CHEBI_33697
+3	165	174 hepatitis	Disease	DOID_2237
+3	165	176 hepatitis C	Disease	DOID_1883
+3	CHEBI-DOID	CHEBI_33697	DOID_2237
+3	CHEBI-DOID	CHEBI_33697	DOID_1883
+
+4|chunk|Isolated from humans and several animal hosts, including pigs, Hepatitis E virus (HEV) has, over the course of the last decade, become the leading cause worldwide of acute viral hepatitis. With an estimated 56,600 deaths annually, it is a prime example of an emerging zoonosis with significant blood safety implications, for which conventional serological screening methods seem poorly developed 17, 18 .
+4	63	72 Hepatitis	Disease	DOID_2237
+4	63	74 Hepatitis E	Disease	DOID_4411
+4	178	187 hepatitis	Disease	DOID_2237
+
+5|chunk|New avenues in diagnostic assay development have been opened up by the advent of Next Generation Sequencing (NGS) technologies. Metagenomics -the direct genetic analysis of genomes contained within a sample -represents one such possibility; instead of targeting specific genomic regions of predetermined targets, short DNA sequences ('reads') are generated that derive from the full range of genomic material present in the sample 19 . A number of groups have attempted to detect and characterise RNA viruses of clinical relevance directly from sample material, but the low relative abundance of viral genomic material within clinical samples when compared Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 4173 |
+5	319	322 DNA	Chemical	CHEBI_16991
+5	497	500 RNA	Chemical	CHEBI_33697
+
+6|chunk|to host-derived nucleic acid species limits their potential utility in diagnostic virology. In the absence of significant host depletion, genome coverage and depths are often low even at high viral copy numbers 20-23 .
+6	16	28 nucleic acid	Chemical	CHEBI_33696
+6	24	28 acid	Chemical	CHEBI_37527
+
+7|chunk|Several reports detail methods for partitioning viral and host material through physicochemical purification of virus particles using various combinations of filtration, differential centrifugation, precipitation and extra-virion nuclease digestion prior to extraction, but these also suffer from low virus read frequency and consequent low depth of coverage of partial genomes 24-27 .
+
+8|chunk|The most frequent alternative method is to selectively eliminate host nucleic acids, specifically ribosomal RNA species (rRNA), as they constitute approximately 80% of total cellular RNA. 'VIDISCA' is one such approach, where viral nucleic acids are preferentially amplified through the use of non-random hexamers that do not complement human rRNA sequences. In combination with NGS, partial genomes of novel viruses have been detected by this method 28, 29 . As with non-depleting methods, extensive further work is needed to fully characterise detected viruses, and when applied to diagnostic virology, the read depths and genome coverages remain low even at high viral loads 30-33 . Most groups selectively deplete rRNA by hybridising rRNA-specific DNA 'scissor probes' to the extracted nucleic acids, and digesting the rRNA/DNA duplexes with RNAse H 34, 35 . This approach has been exploited to good effect with Lassa and Ebola viruses 36 .
+8	70	83 nucleic acids	Chemical	CHEBI_33696
+8	78	83 acids	Chemical	CHEBI_37527
+8	98	111 ribosomal RNA	Chemical	CHEBI_18111
+8	108	111 RNA	Chemical	CHEBI_33697
+8	183	186 RNA	Chemical	CHEBI_33697
+8	232	245 nucleic acids	Chemical	CHEBI_33696
+8	240	245 acids	Chemical	CHEBI_37527
+8	343	347 rRNA	Chemical	CHEBI_18111
+8	718	722 rRNA	Chemical	CHEBI_18111
+8	752	755 DNA	Chemical	CHEBI_16991
+8	790	803 nucleic acids	Chemical	CHEBI_33696
+8	798	803 acids	Chemical	CHEBI_37527
+8	823	827 rRNA	Chemical	CHEBI_18111
+8	828	831 DNA	Chemical	CHEBI_16991
+
+9|chunk|The extremely low amounts of RNA surviving host depletion (often in the picogram range) present a significant challenge to RNA library preparation methods, which typically require at least 100 ng of starting material 37 . A 29-based Multiple Displacement Amplification (MDA) system has been successful in generating whole genomes of HIV from low copy number samples. However, these were prepared by diluting high titre clinical HIV samples in PBS, such that the impact of high host background was mitigated 38 , and in general, MDA displays target amplification biases that limits its potential in metagenomics to detection and identification rather than whole genome reconstruction [39] [40] [41] .
+9	29	32 RNA	Chemical	CHEBI_33697
+9	123	126 RNA	Chemical	CHEBI_33697
+9	271	274 MDA	Chemical	CHEBI_566274
+9	529	532 MDA	Chemical	CHEBI_566274
+
+10|chunk|In this study, we have established a sequence-independent RNA library preparation method suitable for the detection and characterization of blood-borne RNA viruses. The method is focused on increasing the relative abundance of viral RNA within the sample, during and after the RNA extraction process, with a specialised library preparation step able to process ultra-low RNA inputs. The RNA enrichment steps enable recovery of a higher proportion of reads of viral origin, constituting a major advance in making virus genome assembly less challenging, leading to notable improvements in sequencing coverages and depths.
+10	58	61 RNA	Chemical	CHEBI_33697
+10	152	155 RNA	Chemical	CHEBI_33697
+10	233	236 RNA	Chemical	CHEBI_33697
+10	277	280 RNA	Chemical	CHEBI_33697
+10	371	374 RNA	Chemical	CHEBI_33697
+10	387	390 RNA	Chemical	CHEBI_33697
+
+11|chunk|The protocol was tested in complex host-enriched samples containing HCV, HIV and HEV, and complete genomes were recovered from the equivalent of 2,000 IU/ml. A mixed virus panel comprising 18 different human RNA viruses, diverse in terms of genomic and structural characteristics, was analysed in order to evaluate the capability of the protocol to detect potential new or emerging viruses present in a plasma sample. By applying the method to a series of samples taken from an HCV-infected patient, we have demonstrated the utility of this technique in fully characterising the strain of HCV together with the complete genome of a previously undetected human pegivirus virus. Further investigation demonstrated that this patient's HCV virus constituted a new subtype within genotype 6. A second manuscript detailing this clinical case is in preparation.
+11	208	211 RNA	Chemical	CHEBI_33697
+
+12|chunk|Methods
+
+13|chunk|Research in Public Health England' (Version 3, October 2015; Document code RD001A). This study only involved the use of archived, residual samples that were sent to the National Reference Laboratory for routine diagnosis and sequence characterization with consent for leftover sample to be used in other assays. The samples were anonymized by removal of any patient identifiable information and assignment of a non-specific project number prior to genetic characterization.
+

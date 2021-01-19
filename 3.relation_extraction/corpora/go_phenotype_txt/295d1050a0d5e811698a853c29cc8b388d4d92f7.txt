@@ -1,0 +1,50 @@
+0|chunk|The impact of the interferon/TNF- Related Apoptosis-inducing Ligand Signaling Axis on Disease Progression in Respiratory viral infection and Beyond
+0	68	77 Signaling	Gene_function	GO_0023052
+0	121	136 viral infection	Gene_function	GO_0016032
+
+1|chunk|Keywords: interferon, interferon-stimulated genes, tumor necrosis factor-related apoptosis-inducing ligand, acute lung injury, innate immunity, influenza, respiratory syncytial virus, coronavirus FiGURe 1 | PRRs and their downstream signaling pathways in virus-induced iFN induction. In viral infection, type I IFNs are induced by TLR, RLR, CLR, and cytosolic nucleic acid sensors. Cell membrane-located TLRs ligate to viral envelope proteins (e.g., TLR2/herpes simplex virus), upon which they recruit MyD88. MyD88 interacts with IRAK kinase (IRAK-1, -2, or -4) that either directly activate IRF1 or interact with TRAF6, which induces IRF7 or assembles with TAK1. TAK1 forms a complex with TAB-1/-2 and -3 and subsequently either activates the MAPK kinases p38 and JNK, leading to AP-1 phosphorylation and nuclear translocation, or induces ubiquitination of NEMO followed by IB degradation and NFB activation. Endosomal TLRs recognizing viral nucleic acid and signal via the adaptor protein MyD88 (for TLR7/8/9) or interact with TRIF (for TLR3) followed by TRAF3, TANK, and TBK1 activation. TBK1 and IKK then phosphorylate and activate IRF3 and IRF7. Additionally, TRIF can interact with TRAF6 to initiate TAK1 signaling. Both RLRs, RIG-I and MDA-5, recognize nucleic acid contents in the cytoplasm and stimulate the mitochondrial anchored IPS-1 for dimerization followed by TRADD recruitment that acts via TRAF3 on IRF3 and IRF7. Additionally, IPS-1 can interact with FADD and RIP1 to activate NFB via IKK activated by caspase-8 and -10. Also PKR signaling results in NFB activation and nuclear translocation. The dsDNA sensor cGAS produces cGAMP that activates ER-located STING that via TBK1 induces IRF3 translocation and type I IFN production. CLRs play a minor role in viral recognition; however, DC-SIGN activates the small GTPase Ras and Raf protein kinase, followed by NFB activation. Type III IFN are induced by TLR3, TLR9, and via RIG-I and peroxisomal-resident IPS-1. Especially IRF1, but also NFB, IRF3, and IRF7 are implicated in IFN- production, with the latter being stabilized by Med23.
+1	51	56 tumor	Phenotype	HP_0002664
+1	57	65 necrosis	Gene_function	GO_0001906
+1	108	113 acute	Phenotype	HP_0011009
+1	233	242 signaling	Gene_function	GO_0023052
+1	419	433 viral envelope	Gene_function	GO_0019031
+1	425	433 envelope	Gene_function	GO_0031975
+1	744	748 MAPK	Gene_function	GO_0004707
+1	786	801 phosphorylation	Gene_function	GO_0016310
+1	879	890 degradation	Gene_function	GO_0009056
+1	1076	1080 TBK1	Gene_function	GO_0008384
+1	1093	1097 TBK1	Gene_function	GO_0008384
+1	1214	1223 signaling	Gene_function	GO_0023052
+1	1292	1301 cytoplasm	Gene_function	GO_0005737
+1	1320	1333 mitochondrial	Phenotype	HP_0001427
+1	1507	1510 IKK	Gene_function	GO_0008384
+1	1552	1561 signaling	Gene_function	GO_0023052
+1	1694	1698 TBK1	Gene_function	GO_0008384
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0019031
+1	HP-GO	HP_0002664	GO_0031975
+1	HP-GO	HP_0002664	GO_0004707
+1	HP-GO	HP_0002664	GO_0016310
+1	HP-GO	HP_0002664	GO_0009056
+1	HP-GO	HP_0002664	GO_0008384
+1	HP-GO	HP_0002664	GO_0005737
+1	GO-HP	GO_0001906	HP_0011009
+1	GO-HP	GO_0001906	HP_0001427
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0019031
+1	HP-GO	HP_0011009	GO_0031975
+1	HP-GO	HP_0011009	GO_0004707
+1	HP-GO	HP_0011009	GO_0016310
+1	HP-GO	HP_0011009	GO_0009056
+1	HP-GO	HP_0011009	GO_0008384
+1	HP-GO	HP_0011009	GO_0005737
+1	GO-HP	GO_0023052	HP_0001427
+1	GO-HP	GO_0019031	HP_0001427
+1	GO-HP	GO_0031975	HP_0001427
+1	GO-HP	GO_0004707	HP_0001427
+1	GO-HP	GO_0016310	HP_0001427
+1	GO-HP	GO_0009056	HP_0001427
+1	GO-HP	GO_0008384	HP_0001427
+1	GO-HP	GO_0005737	HP_0001427
+

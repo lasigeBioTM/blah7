@@ -1,0 +1,8 @@
+0|chunk|BMC Infectious Diseases The influenza pandemic preparedness planning tool InfluSim
+
+1|chunk|Background: Planning public health responses against pandemic influenza relies on predictive models by which the impact of different intervention strategies can be evaluated. Research has to date rather focused on producing predictions for certain localities or under specific conditions, than on designing a publicly available planning tool which can be applied by public health administrations. Here, we provide such a tool which is reproducible by an explicitly formulated structure and designed to operate with an optimal combination of the competing requirements of precision, realism and generality.
+
+2|chunk|InfluSim is a deterministic compartment model based on a system of over 1,000 differential equations which extend the classic SEIR model by clinical and demographic parameters relevant for pandemic preparedness planning. It allows for producing time courses and cumulative numbers of influenza cases, outpatient visits, applied antiviral treatment doses, hospitalizations, deaths and work days lost due to sickness, all of which may be associated with economic aspects. The software is programmed in Java, operates platform independent and can be executed on regular desktop computers.
+
+3|chunk|InfluSim is an online available software http://www.influsim.info which efficiently assists public health planners in designing optimal interventions against pandemic influenza. It can reproduce the infection dynamics of pandemic influenza like complex computer simulations while offering at the same time reproducibility, higher computational performance and better operability.
+

@@ -1,0 +1,35 @@
+0|chunk|Remission of Invasive, Cancer Stem-Like Glioblastoma Xenografts Using Lentiviral Vector-Mediated Suicide Gene Therapy
+0	23	29 Cancer	Phenotype	HP_0002664
+0	40	52 Glioblastoma	Phenotype	HP_0012174
+
+1|chunk|Background: Glioblastoma is the most frequent and most malignant primary brain tumor with a poor prognosis. The translation of therapeutic strategies for glioblastoma from the experimental phase into the clinic has been limited by insufficient animal models, which lack important features of human tumors. Lentiviral gene therapy is an attractive therapeutic option for human glioblastoma, which we validated in a clinically relevant animal model.
+1	12	24 Glioblastoma	Phenotype	HP_0012174
+1	37	45 frequent	Phenotype	HP_0040282
+1	73	84 brain tumor	Phenotype	HP_0030692
+1	79	84 tumor	Phenotype	HP_0002664
+1	112	123 translation	Gene_function	GO_0006412
+1	154	166 glioblastoma	Phenotype	HP_0012174
+1	376	388 glioblastoma	Phenotype	HP_0012174
+1	HP-GO	HP_0012174	GO_0006412
+1	HP-GO	HP_0040282	GO_0006412
+1	HP-GO	HP_0030692	GO_0006412
+1	HP-GO	HP_0002664	GO_0006412
+
+2|chunk|We used a rodent xenograft model that recapitulates the invasive and angiogenic features of human glioblastoma to analyze the transduction pattern and therapeutic efficacy of lentiviral pseudotyped vectors. Both, lymphocytic choriomeningitis virus glycoprotein (LCMV-GP) and vesicular stomatitis virus glycoprotein (VSV-G) pseudotyped lentiviral vectors very efficiently transduced human glioblastoma cells in vitro and in vivo. In contrast, pseudotyped gammaretroviral vectors, similar to those evaluated for clinical therapy of glioblastoma, showed inefficient gene transfer in vitro and in vivo. Both pseudotyped lentiviral vectors transduced cancer stem-like cells characterized by their CD133-, nestin-and SOX2-expression, the ability to form spheroids in neural stem cell medium and to express astrocytic and neuronal differentiation markers under serum conditions. In a therapeutic approach using the suicide gene herpes simplex virus thymidine kinase (HSV-1-tk) fused to eGFP, both lentiviral vectors mediated a complete remission of solid tumors as seen on MRI resulting in a highly significant survival benefit (p,0.001) compared to control groups. In all recurrent tumors, surviving eGFP-positive tumor cells were found, advocating prodrug application for several cycles to even enhance and prolong the therapeutic effect.
+2	98	110 glioblastoma	Phenotype	HP_0012174
+2	126	138 transduction	Gene_function	GO_0009293
+2	285	295 stomatitis	Phenotype	HP_0010280
+2	388	400 glioblastoma	Phenotype	HP_0012174
+2	530	542 glioblastoma	Phenotype	HP_0012174
+2	646	652 cancer	Phenotype	HP_0002664
+2	1166	1175 recurrent	Phenotype	HP_0031796
+2	1208	1213 tumor	Phenotype	HP_0002664
+2	HP-GO	HP_0012174	GO_0009293
+2	GO-HP	GO_0009293	HP_0010280
+2	GO-HP	GO_0009293	HP_0002664
+2	GO-HP	GO_0009293	HP_0031796
+
+3|chunk|Conclusions/Significance: In conclusion, lentiviral pseudotyped vectors are promising candidates for gene therapy of glioma in patients. The inefficient gene delivery by gammaretroviral vectors is in line with the results obtained in clinical therapy for GBM and thus confirms the high reproducibility of the invasive glioma animal model for translational research.
+3	117	123 glioma	Phenotype	HP_0009733
+3	318	324 glioma	Phenotype	HP_0009733
+

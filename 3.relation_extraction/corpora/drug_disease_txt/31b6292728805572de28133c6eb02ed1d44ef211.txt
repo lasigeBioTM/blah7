@@ -1,0 +1,24 @@
+0|chunk|Bioinformatics and Biology Insights o r I g I n A L r e s e A r C h Automated Detection of conformational epitopes Using phage Display peptide sequences
+0	135	142 peptide	Chemical	CHEBI_16670
+
+1|chunk|Background: Precise determination of conformational epitopes of neutralizing antibodies represents a key step in the rational design of novel vaccines. A powerful experimental method to gain insights on the physical chemical nature of conformational epitopes is the selection of linear peptides that bind with high affinities to a monoclonal antibody of interest by phage display technology. However, the structural characterization of conformational epitopes from these mimotopes is not straightforward, and in the past the interpretation of peptide sequences from phage display experiments focused on linear sequence analysis to find a consensus sequence or common sequence motifs.
+1	286	294 peptides	Chemical	CHEBI_16670
+1	543	550 peptide	Chemical	CHEBI_16670
+
+2|chunk|We present a fully automated search method, EpiSearch that predicts the possible location of conformational epitopes on the surface of an antigen. The algorithm uses peptide sequences from phage display experiments as input, and ranks all surface exposed patches according to the frequency distribution of similar residues in the peptides and in the patch. We have tested the performance of the EpiSearch algorithm for six experimental data sets of phage display experiments, the human epidermal growth factor receptor-2 (HER-2/neu), the antibody mAb Bo2C11 targeting the C 2 domain of FVIII, antibodies mAb 17b and mAb b12 of the HIV envelope protein gp120, mAb 13b5 targeting HIV-1 capsid protein and 80R of the SARS coronavirus spike protein. In all these examples the conformational epitopes as determined by the X-ray crystal structures of the antibody-antigen complexes, were found within the highest scoring patches of EpiSearch, covering in most cases more than 50% residues of experimental observed conformational epitopes. Input options of the program include mapping of a single peptide or a set of peptides on the antigen structure, and the results of the calculation can be visualized on our interactive web server.
+2	138	145 antigen	Chemical	CHEBI_59132
+2	166	173 peptide	Chemical	CHEBI_16670
+2	330	338 peptides	Chemical	CHEBI_16670
+2	644	651 protein	Chemical	CHEBI_16541
+2	691	698 protein	Chemical	CHEBI_16541
+2	714	718 SARS	Disease	DOID_2945
+2	737	744 protein	Chemical	CHEBI_16541
+2	1090	1097 peptide	Chemical	CHEBI_16670
+2	1110	1118 peptides	Chemical	CHEBI_16670
+2	1126	1133 antigen	Chemical	CHEBI_59132
+2	CHEBI-DOID	CHEBI_59132	DOID_2945
+2	CHEBI-DOID	CHEBI_16670	DOID_2945
+2	CHEBI-DOID	CHEBI_16541	DOID_2945
+
+3|chunk|Availability: Users can access the EpiSearch from our web server
+

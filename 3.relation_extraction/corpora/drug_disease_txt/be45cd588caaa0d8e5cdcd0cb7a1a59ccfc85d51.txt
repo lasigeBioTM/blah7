@@ -1,0 +1,23 @@
+0|chunk|Enhancement of accuracy and efficiency for RNA secondary structure prediction by sequence segmentation and MapReduce
+0	43	46 RNA	Chemical	CHEBI_33697
+
+1|chunk|Background: Ribonucleic acid (RNA) molecules play important roles in many biological processes including gene expression and regulation. Their secondary structures are crucial for the RNA functionality, and the prediction of the secondary structures is widely studied. Our previous research shows that cutting long sequences into shorter chunks, predicting secondary structures of the chunks independently using thermodynamic methods, and reconstructing the entire secondary structure from the predicted chunk structures can yield better accuracy than predicting the secondary structure using the RNA sequence as a whole. The chunking, prediction, and reconstruction processes can use different methods and parameters, some of which produce more accurate predictions than others. In this paper, we study the prediction accuracy and efficiency of three different chunking methods using seven popular secondary structure prediction programs that apply to two datasets of RNA with known secondary structures, which include both pseudoknotted and non-pseudoknotted sequences, as well as a family of viral genome RNAs whose structures have not been predicted before. Our modularized MapReduce framework based on Hadoop allows us to study the problem in a parallel and robust environment.
+1	12	28 Ribonucleic acid	Chemical	CHEBI_33697
+1	24	28 acid	Chemical	CHEBI_37527
+1	30	33 RNA	Chemical	CHEBI_33697
+1	35	44 molecules	Chemical	CHEBI_25367
+1	184	187 RNA	Chemical	CHEBI_33697
+1	597	600 RNA	Chemical	CHEBI_33697
+1	969	972 RNA	Chemical	CHEBI_33697
+
+2|chunk|Results: On average, the maximum accuracy retention values are larger than one for our chunking methods and the seven prediction programs over 50 non-pseudoknotted sequences, meaning that the secondary structure predicted using chunking is more similar to the real structure than the secondary structure predicted by using the whole sequence. We observe similar results for the 23 pseudoknotted sequences, except for the NUPACK program using the centered chunking method. The performance analysis for 14 long RNA sequences from the Nodaviridae virus family outlines how the coarse-grained mapping of chunking and predictions in the MapReduce framework exhibits shorter turnaround times for short RNA sequences. However, as the lengths of the RNA sequences increase, the fine-grained mapping can surpass the coarse-grained mapping in performance.
+2	509	512 RNA	Chemical	CHEBI_33697
+2	696	699 RNA	Chemical	CHEBI_33697
+2	742	745 RNA	Chemical	CHEBI_33697
+
+3|chunk|Conclusions: By using our MapReduce framework together with statistical analysis on the accuracy retention results, we observe how the inversion-based chunking methods can outperform predictions using the whole sequence. Our chunk-based approach also enables us to predict secondary structures for very long RNA sequences, which is not feasible with traditional methods alone. Figure 1 Basic elements in RNA secondary structures. The stem loop (a) and pseudoknot (b). Zhang et al. BMC Structural Biology 2013, 13(Suppl 1):S3
+3	308	311 RNA	Chemical	CHEBI_33697
+3	392	400 elements	Chemical	CHEBI_33250
+3	404	407 RNA	Chemical	CHEBI_33697
+3	481	484 BMC	Chemical	CHEBI_3392
+

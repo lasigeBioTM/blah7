@@ -1,0 +1,12 @@
+0|chunk|Biosynthesis of Other Secondary Metabolites
+0	22	43 Secondary Metabolites	Chemical	CHEBI_25212
+0	32	43 Metabolites	Chemical	CHEBI_25212
+
+1|chunk|Given a compound, how can we effectively predict its biological function? It is a fundamentally important problem because the information thus obtained may benefit the understanding of many basic biological processes and provide useful clues for drug design. In this study, based on the information of chemical-chemical interactions, a novel method was developed that can be used to identify which of the following eleven metabolic pathway classes a query compound may be involved with: (Xenobiotics Biodegradation and Metabolism. It was observed that the overall success rate obtained by the method via the 5-fold crossvalidation test on a benchmark dataset consisting of 3,137 compounds was 77.97%, which is much higher than 10.45%, the corresponding success rate obtained by the random guesses. Besides, to deal with the situation that some compounds may be involved with more than one metabolic pathway class, the method presented here is featured by the capacity able to provide a series of potential metabolic pathway classes ranked according to the descending order of their likelihood for each of the query compounds concerned. Furthermore, our method was also applied to predict 5,549 compounds whose metabolic pathway classes are unknown. Interestingly, the results thus obtained are quite consistent with the deductions from the reports by other investigators. It is anticipated that, with the continuous increase of the chemical-chemical interaction data, the current method will be further enhanced in its power and accuracy, so as to become a useful complementary vehicle in annotating uncharacterized compounds for their biological functions.
+1	246	250 drug	Chemical	CHEBI_23888
+1	432	439 pathway	Chemical	CHEBI_34922
+1	488	499 Xenobiotics	Chemical	CHEBI_35703
+1	899	906 pathway	Chemical	CHEBI_34922
+1	1016	1023 pathway	Chemical	CHEBI_34922
+1	1220	1227 pathway	Chemical	CHEBI_34922
+

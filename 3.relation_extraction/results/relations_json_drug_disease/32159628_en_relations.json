@@ -1,0 +1,121 @@
+{
+    "text": "Malaria is an infectious disease of high transmission in the Amazon region, but its dynamics and spatial distribution may vary depending on the interaction of environmental, socio-cultural, economic, political and health services factors.To verify the existence of malaria case patterns in consonance with the fluviometric regimes in Amazon basin.Methods of descriptive and inferential statistics were used in malaria and water level data for 35 municipalities in the Amazonas State, in the period from 2003 to 2014.The existence of a tendency to modulate the seasonality of malaria cases due to distinct periods of rivers flooding has been demonstrated. Differences were observed in the annual hydrological variability accompanied by different patterns of malaria cases, showing a trend of remodeling of the epidemiological profile as a function of the flood pulse.The study suggests the implementation of regional and local strategies considering the hydrological regimes of the Amazon basin, enabling municipal actions to attenuate the malaria in the Amazonas State.",
+    "denotations": [
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 0,
+                "end": 7
+            },
+            "obj": "Malaria"
+        },
+        {
+            "id": "DOID_0050117",
+            "span": {
+                "begin": 14,
+                "end": 32
+            },
+            "obj": "infectious disease"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 25,
+                "end": 32
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 265,
+                "end": 272
+            },
+            "obj": "malaria"
+        },
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 410,
+                "end": 417
+            },
+            "obj": "malaria"
+        },
+        {
+            "id": "CHEBI_15377",
+            "span": {
+                "begin": 422,
+                "end": 427
+            },
+            "obj": "water"
+        },
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 575,
+                "end": 582
+            },
+            "obj": "malaria"
+        },
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 757,
+                "end": 764
+            },
+            "obj": "malaria"
+        },
+        {
+            "id": "DOID_12365",
+            "span": {
+                "begin": 1039,
+                "end": 1046
+            },
+            "obj": "malaria"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_12365",
+            "pred": "effect",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0050117",
+            "pred": "effect",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_12365",
+            "pred": "effect",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_12365",
+            "pred": "effect",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_12365",
+            "pred": "no_relation",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_12365",
+            "pred": "no_relation",
+            "obj": "CHEBI_15377"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_12365",
+            "pred": "no_relation",
+            "obj": "CHEBI_15377"
+        }
+    ]
+}

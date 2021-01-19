@@ -1,0 +1,9 @@
+0|chunk|Robustness of the reproductive number estimates in vector-borne disease systems Supplementary material Individual Based Model
+0	64	71 disease	Disease	DOID_4
+
+1|chunk|We employed a spatially-explicit IBM motivated by the one previously proposed by Loureno and Recker (2013) 
+
+2|chunk|Initially, a disease-free stochastic individual based model for the hosts and vectors of the virus was constructed with no spatial component, and time t discretized into days. Daily, individual humans and vectors were aged, and terminated if their age exceeded their life expectancy. Only the adult stage of a vector's life cycle was considered, since only adult vectors generally acquire and transmit the vector-borne disease. We assumed age-dependent mortalities for both the hosts and the vectors. For both the host and vector, this is governed a Weibull distribution.
+
+3|chunk|where c i and d i are the scale and shape parameters, with i  {H, V } denoting the parameters for host and vectors. The host and vector population were assumed to be constant, with M denoting the ratio if vectors to hosts, so a new individual immediately replaces an individual that has been the terminated.
+

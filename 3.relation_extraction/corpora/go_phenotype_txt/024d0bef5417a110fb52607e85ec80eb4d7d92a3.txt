@@ -1,0 +1,19 @@
+0|chunk|Nucleocapsid protein-dependent assembly of the RNA packaging signal of Middle East respiratory syndrome coronavirus
+0	0	12 Nucleocapsid	Gene_function	GO_0019013
+
+1|chunk|Background: Middle East respiratory syndrome coronavirus (MERS-CoV) consists of a positive-sense, single-stranded RNA genome and four structural proteins: the spike, envelope, membrane, and nucleocapsid protein. The assembly of the viral genome into virus particles involves viral structural proteins and is believed to be mediated through recognition of specific sequences and RNA structures of the viral genome.
+1	190	202 nucleocapsid	Gene_function	GO_0019013
+
+2|chunk|Methods and Results: A culture system for the production of MERS coronavirus-like particles (MERS VLPs) was determined and established by electron microscopy and the detection of coexpressed viral structural proteins. Using the VLP system, a 258-nucleotide RNA fragment, which spans nucleotides 19,712 to 19,969 of the MERS-CoV genome (designated PS258(19712-19969) ME ), was identified to function as a packaging signal. Assembly of the RNA packaging signal into MERS VLPs is dependent on the viral nucleocapsid protein. In addition, a 45-nucleotide stable stem-loop substructure of the PS258(19712-19969) ME interacted with both the N-terminal domain and the Cterminal domain of the viral nucleocapsid protein. Furthermore, a functional SARS-CoV RNA packaging signal failed to assemble into the MERS VLPs, which indicated virus-specific assembly of the RNA genome.
+2	228	231 VLP	Gene_function	GO_0000943
+2	494	512 viral nucleocapsid	Gene_function	GO_0019013
+2	500	512 nucleocapsid	Gene_function	GO_0019013
+2	551	557 stable	Phenotype	HP_0031915
+2	685	703 viral nucleocapsid	Gene_function	GO_0019013
+2	691	703 nucleocapsid	Gene_function	GO_0019013
+2	GO-HP	GO_0000943	HP_0031915
+2	GO-HP	GO_0019013	HP_0031915
+
+3|chunk|Conclusions: A MERS-oV RNA packaging signal was identified by the detection of GFP expression following an incubation of MERS VLPs carrying the heterologous mRNA GFP-PS258(19712-19969) ME with virus permissive Huh7 cells. The MERS VLP system could help us in understanding virus infection and morphogenesis.
+3	231	234 VLP	Gene_function	GO_0000943
+

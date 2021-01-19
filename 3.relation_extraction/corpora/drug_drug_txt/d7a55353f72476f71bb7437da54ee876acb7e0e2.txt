@@ -1,0 +1,27 @@
+0|chunk|A new prokaryotic expression vector for the expression of antimicrobial peptide abaecin using SUMO fusion tag
+0	58	71 antimicrobial	Chemical	CHEBI_33281
+0	72	79 peptide	Chemical	CHEBI_16670
+0	CHEBI-CHEBI	CHEBI_33281	CHEBI_16670
+
+1|chunk|Background: Despite the growing demand for antimicrobial peptides (AMPs) for clinical use as an alternative approach against antibiotic-resistant bacteria, the manufacture of AMPs relies on expensive, small-scale chemical methods. The small ubiquitin-related modifier (SUMO) tag is industrially practical for increasing the yield of recombinant proteins by increasing solubility and preventing degradation in expression systems.
+1	43	56 antimicrobial	Chemical	CHEBI_33281
+1	57	65 peptides	Chemical	CHEBI_16670
+1	345	353 proteins	Chemical	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+
+2|chunk|Results: A new vector system, pKSEC1, was designed to produce AMPs, which can work in prokaryotic systems such as Escherichia coli and plant chloroplasts. 6xHis was tagged to SUMO for purification of SUMO-fused AMPs. Abaecin, a 34-aa-long antimicrobial peptide from honeybees, was expressed in a fusion form to 6xHis-SUMO in a new vector system to evaluate the prokaryotic expression platform of the antimicrobial peptides. The fusion sequences were codon-optimized in three different combinations and expressed in E. coli. The combination of the native SUMO sequence with codon-optimized abaecin showed the highest expression level among the three combinations, and most of the expressed fusion proteins were detected in soluble fractions. Cleavage of the SUMO tag by sumoase produced a 29-aa-long abaecin derivative with a C-terminal deletion. However, this abaecin derivative still retained the binding sequence for its target protein, DnaK. Antibacterial activity of the 29-aa long abaecin was tested against Bacillus subtilis alone or in combination with cecropin B. The combined treatment of the abaecin derivative and cecropin B showed bacteriolytic activity 2 to 3 times greater than that of abaecin alone.
+2	239	252 antimicrobial	Chemical	CHEBI_33281
+2	253	260 peptide	Chemical	CHEBI_16670
+2	400	413 antimicrobial	Chemical	CHEBI_33281
+2	696	704 proteins	Chemical	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33281	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_33281	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+
+3|chunk|Conclusions: Using a SUMO-tag with an appropriate codon-optimization strategy could be an approach for the production of antimicrobial peptides in E.coli without affecting the viability of the host cell.
+3	121	134 antimicrobial	Chemical	CHEBI_33281
+3	135	143 peptides	Chemical	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_33281	CHEBI_16670
+

@@ -1,0 +1,16 @@
+0|chunk|Supporting Information S1. The EBCM approach
+
+1|chunk|Table S1: Definitions Variable/Parameter Definition  Infection rate or infection probability.  Recovery rate. t r Recovery time.
+
+2|chunk|T Transmissibility.
+
+3|chunk| t Probability that a neighbor of a root node has not transmitted yet the disease to the root node at time t.
+
+4|chunk| S (t) Probability that a neighbor of a root node is susceptible at time t.
+
+5|chunk| I (t) Probability that an infected neighbor of a root node has not transmitted the disease to the root node at time t.
+
+6|chunk| R (t) Probability that a neighbor is recovered at time t without having transmitted the disease to the root node.
+
+7|chunk|In the EBCM approach,  t is the probability that a root node has not being infected by a neighbor at time t. This is possible if the neighbor is susceptible, recovered, or infected but has not transmitted the disease yet to the root, which happens with probabilities  S (t),  R (t) and  I (t), respectively. Then,  t =  S (t) +  I (t) +  R (t). The probability that a root node of connectivity k is susceptible is  k and the fraction of susceptible nodes is S(t) = k P (k) k t = G 0 ( t ). On the other hand, a neighbor is susceptible with 1
+

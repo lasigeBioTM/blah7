@@ -1,0 +1,26 @@
+0|chunk|a section of the journal Frontiers in Microbiology Transmissible Gastroenteritis Virus Infection Up-Regulates FcRn Expression via Nucleocapsid Protein and Secretion of TGF- in Porcine Intestinal Epithelial Cells
+0	130	142 Nucleocapsid	Gene_function	GO_0019013
+0	155	164 Secretion	Gene_function	GO_0046903
+
+1|chunk|Transmissible gastroenteritis virus (TGEV) is a porcine intestinal coronavirus that causes fatal severe watery diarrhea in piglets. The neonatal Fc receptor (FcRn) is the only IgG transport receptor, its expression on mucosal surfaces is triggered upon viral stimulation, which significantly enhances mucosal immunity. We utilized TGEV as a model pathogen to explore the role of FcRn in resisting viral invasion in overall intestinal mucosal immunity. TGEV induced FcRn expression by activating NF-B signaling in porcine small intestinal epithelial (IPEC-J2) cells, however, the underlying mechanisms are unclear. First, using small interfering RNAs, we found that TGEV up-regulated FcRn expression via TLR3, TLR9 and RIG-I. Moreover, TGEV induced IL-1, IL-6, IL-8, TGF-, and TNF- production. TGF--stimulated IPEC-J2 cells highly up-regulated FcRn expression, while treatment with a JNK-specific inhibitor down-regulated the expression. TGEV nucleocapsid (N) protein also enhanced FcRn promoter activity via the NF-B signaling pathway and its central region (aa 128-252) was essential for FcRn activation. Additionally, N protein-mediated FcRn up-regulation promotes IgG transcytosis. Thus, TGEV N protein and TGF- up-regulated FcRn expression, further clarifying the molecular mechanism of up-regulation of FcRn expression by TGEV.
+1	97	103 severe	Phenotype	HP_0012828
+1	111	119 diarrhea	Phenotype	HP_0002014
+1	180	189 transport	Gene_function	GO_0006810
+1	501	510 signaling	Gene_function	GO_0023052
+1	947	959 nucleocapsid	Gene_function	GO_0019013
+1	1023	1032 signaling	Gene_function	GO_0023052
+1	1023	1040 signaling pathway	Gene_function	GO_0007165
+1	1049	1056 central	Phenotype	HP_0030645
+1	HP-GO	HP_0012828	GO_0006810
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0019013
+1	HP-GO	HP_0012828	GO_0007165
+1	HP-GO	HP_0002014	GO_0006810
+1	HP-GO	HP_0002014	GO_0023052
+1	HP-GO	HP_0002014	GO_0019013
+1	HP-GO	HP_0002014	GO_0007165
+1	GO-HP	GO_0006810	HP_0030645
+1	GO-HP	GO_0023052	HP_0030645
+1	GO-HP	GO_0019013	HP_0030645
+1	GO-HP	GO_0007165	HP_0030645
+

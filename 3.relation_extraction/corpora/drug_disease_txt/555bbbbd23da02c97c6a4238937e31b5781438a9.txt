@@ -1,0 +1,29 @@
+0|chunk|BMC Infectious Diseases Influenza pandemic intervention planning using InfluSim: pharmaceutical and non-pharmaceutical interventions
+0	0	3 BMC	Chemical	CHEBI_3392
+0	24	33 Influenza	Disease	DOID_8469
+0	81	95 pharmaceutical	Chemical	CHEBI_52217
+0	CHEBI-DOID	CHEBI_3392	DOID_8469
+0	DOID-CHEBI	DOID_8469	CHEBI_52217
+
+1|chunk|Background: Influenza pandemic preparedness plans are currently developed and refined on national and international levels. Much attention has been given to the administration of antiviral drugs, but contact reduction can also be an effective part of mitigation strategies and has the advantage to be not limited per se. The effectiveness of these interventions depends on various factors which must be explored by sensitivity analyses, based on mathematical models.
+1	12	21 Influenza	Disease	DOID_8469
+1	179	188 antiviral	Chemical	CHEBI_22587
+1	DOID-CHEBI	DOID_8469	CHEBI_22587
+
+2|chunk|We use the freely available planning tool InfluSim to investigate how pharmaceutical and non-pharmaceutical interventions can mitigate an influenza pandemic. In particular, we examine how intervention schedules, restricted stockpiles and contact reduction (social distancing measures and isolation of cases) determine the course of a pandemic wave and the success of interventions.
+2	70	84 pharmaceutical	Chemical	CHEBI_52217
+2	138	147 influenza	Disease	DOID_8469
+2	CHEBI-DOID	CHEBI_52217	DOID_8469
+
+3|chunk|Results: A timely application of antiviral drugs combined with a quick implementation of contact reduction measures is required to substantially protract the peak of the epidemic and reduce its height. Delays in the initiation of antiviral treatment (e.g. because of parsimonious use of a limited stockpile) result in much more pessimistic outcomes and can even lead to the paradoxical effect that the stockpile is depleted earlier compared to early distribution of antiviral drugs.
+3	33	42 antiviral	Chemical	CHEBI_22587
+3	33	48 antiviral drugs	Chemical	CHEBI_36044
+3	43	48 drugs	Chemical	CHEBI_23888
+3	230	239 antiviral	Chemical	CHEBI_22587
+3	466	475 antiviral	Chemical	CHEBI_22587
+3	466	481 antiviral drugs	Chemical	CHEBI_36044
+3	476	481 drugs	Chemical	CHEBI_23888
+
+4|chunk|Pharmaceutical and non-pharmaceutical measures should not be used exclusively. The protraction of the pandemic wave is essential to win time while waiting for vaccine development and production. However, it is the height of the peak of an epidemic which can easily overtax general practitioners, hospitals or even whole public health systems, causing bottlenecks in basic and emergency medical care.
+4	0	14 Pharmaceutical	Chemical	CHEBI_52217
+

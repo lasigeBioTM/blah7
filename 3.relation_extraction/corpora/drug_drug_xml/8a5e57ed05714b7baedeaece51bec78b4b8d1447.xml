@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="8a5e57ed05714b7baedeaece51bec78b4b8d1447">
+  <chunk id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c0" text="NNAlign: A Web-Based Prediction Method Allowing Non-Expert End-User Discovery of Sequence Motifs in Quantitative Peptide Data">
+    <entity charOffset="113-120" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c0.e0" ontology_id="CHEBI_16670" text="Peptide" type="chemical"/>
+  </chunk>
+  <chunk id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1" text="Recent advances in high-throughput technologies have made it possible to generate both gene and protein sequence data at an unprecedented rate and scale thereby enabling entirely new ''omics''-based approaches towards the analysis of complex biological processes. However, the amount and complexity of data that even a single experiment can produce seriously challenges researchers with limited bioinformatics expertise, who need to handle, analyze and interpret the data before it can be understood in a biological context. Thus, there is an unmet need for tools allowing non-bioinformatics users to interpret large data sets. We have recently developed a method, NNAlign, which is generally applicable to any biological problem where quantitative peptide data is available. This method efficiently identifies underlying sequence patterns by simultaneously aligning peptide sequences and identifying motifs associated with quantitative readouts. Here, we provide a web-based implementation of NNAlign allowing non-expert end-users to submit their data (optionally adjusting method parameters), and in return receive a trained method (including a visual representation of the identified motif) that subsequently can be used as prediction method and applied to unknown proteins/peptides. We have successfully applied this method to several different data sets including peptide microarray-derived sets containing more than 100,000 data points. NNAlign is available online at http://www.cbs.dtu.dk/services/NNAlign.">
+    <entity charOffset="96-103" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="749-756" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e1" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="867-874" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e2" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="1369-1376" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e3" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <pair e1="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e0" e2="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e1" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.p0" relation="true"/>
+    <pair e1="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e0" e2="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e2" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.p1" relation="true"/>
+    <pair e1="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e0" e2="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.e3" id="8a5e57ed05714b7baedeaece51bec78b4b8d1447.c1.p2" relation="true"/>
+  </chunk>
+</document>

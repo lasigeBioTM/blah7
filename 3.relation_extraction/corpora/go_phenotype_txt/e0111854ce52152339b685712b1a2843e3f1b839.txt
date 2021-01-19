@@ -1,0 +1,51 @@
+0|chunk|Nucleolin interacts with influenza A nucleoprotein and contributes to viral ribonucleoprotein complexes nuclear trafficking and efficient influenza viral replication OPEN
+
+1|chunk|IAV and the host Crm1-dependent nuclear export machinery requires further exploration. Recently, Chase and collaborators showed that the interaction between vRNPs and the nuclear export machinery takes place in dense chromatin domains that allow IAV to "snatch" Crm1-RanGTP nuclear export complexes to the detriment of cellular substrates 13 . These results, together with other observations, highlight the involvement of host nuclear compartmentalization and chromatin territories in regulating nuclear traffic of IAV vRNPs [14] [15] [16] [17] .
+1	32	46 nuclear export	Gene_function	GO_0051168
+1	171	185 nuclear export	Gene_function	GO_0051168
+1	217	226 chromatin	Gene_function	GO_0000785
+1	274	288 nuclear export	Gene_function	GO_0051168
+1	460	469 chromatin	Gene_function	GO_0000785
+
+2|chunk|Several investigations, including ours, have revealed that IAV induce a strong remodeling of nuclear architecture with marked modifications of the nucleoli ultrastructure and compartments 3,17-20 . The nucleolus, known as the site of ribosome biogenesis, is also a sensor of cellular stresses and is involved in several cellular pathways, such as cell-cycle regulation or apoptosis 21-23 . Several DNA and RNA viruses, including cytoplasmic viruses are known to induce nucleolar alterations that contribute towards optimal infection 24-26 .
+2	234	242 ribosome	Gene_function	GO_0005840
+
+3|chunk|In the context of IAV, their interplay with nucleolus and selective interactions with several nucleolar components appears to be decisive in the outcome of infection 17, 20 . Ozawa and colleagues demonstrated that dynamic nucleolar localization of NP is functionally significant by contributing to efficient viral replication and transcription 27 . Moreover, different studies have demonstrated a subtype dependent interaction between viral non-structural protein (NS1) and cellular nucleolin, suggesting a role of the nucleolar targeting functions of NS1 in IAV pathogenesis 28, 29 . Proteomics-based approaches have revealed changes in the nucleolar proteome of IAV infected cells 5,30 and identified several nucleolar components, such as nucleolin, nucleophosmin (B23) and ribosomal proteins, as putative interactants of reconstituted IAV vRNPs 7 . In addition, high-throughput RNAi approaches have highlighted the functional requirement of several of these nucleolar components in viral replication 31-33 .
+3	44	53 nucleolus	Gene_function	GO_0005730
+3	232	244 localization	Gene_function	GO_0051179
+3	563	575 pathogenesis	Gene_function	GO_0009405
+3	881	885 RNAi	Gene_function	GO_0016246
+
+4|chunk|Nucleolin is a multifunctional protein that contributes extensively to DNA and RNA regulatory mechanisms, including ribosome biogenesis, chromatin remodeling, mRNA stability and translation, nuclear export of RNA and protein complexes, and microRNA processing 34, 35 . In this way, nucleolin takes part in several cellular functions, such as gene silencing, senescence, cell proliferation and growth 23,35-37 , and continuously shuttles between nucleolar/nuclear compartments and the cytoplasm up to the cell surface 38,39 . Moreover, through its ability to associate with diverse target RNAs, nucleolin is implicated in various pathological processes, particularly cancer and viral infection 40 .
+4	116	124 ribosome	Gene_function	GO_0005840
+4	137	146 chromatin	Gene_function	GO_0000785
+4	191	205 nuclear export	Gene_function	GO_0051168
+4	370	388 cell proliferation	Gene_function	GO_0008283
+4	393	399 growth	Gene_function	GO_0040007
+4	484	493 cytoplasm	Gene_function	GO_0005737
+4	504	516 cell surface	Gene_function	GO_0009986
+4	666	672 cancer	Phenotype	HP_0002664
+4	677	692 viral infection	Gene_function	GO_0016032
+4	GO-HP	GO_0005840	HP_0002664
+4	GO-HP	GO_0000785	HP_0002664
+4	GO-HP	GO_0051168	HP_0002664
+4	GO-HP	GO_0008283	HP_0002664
+4	GO-HP	GO_0040007	HP_0002664
+4	GO-HP	GO_0005737	HP_0002664
+4	GO-HP	GO_0009986	HP_0002664
+4	HP-GO	HP_0002664	GO_0016032
+
+5|chunk|In this context, different functional interactions with nucleolin have been described for several DNA viruses, such as poliovirus 41 , adenovirus 42 , HSV 43, 44 or CMV 45, 46 , and several RNA viruses, such as hepatitis C and delta viruses 47,48 , coronavirus 49 , hPIV-3 50 , papillomavirus HPV9 51 , Crimean-Congo hemorrhagic fever virus 52 , HIV1 53 , noroviruses 54 and notably the infectious salmon anemia virus (ISAV) which belongs to the family Orthomyxoviridae, as IAV 55 . Altogether, these studies highlight nucleolin as a key interacting factor that is crucial, in some cases, for viral replication and involved in nucleo-cytoplasmic export of viral genome or viral egress 44 .
+5	211	220 hepatitis	Phenotype	HP_0012115
+5	329	334 fever	Phenotype	HP_0001945
+5	405	411 anemia	Phenotype	HP_0001903
+5	672	684 viral egress	Gene_function	GO_0075733
+5	HP-GO	HP_0012115	GO_0075733
+5	HP-GO	HP_0001945	GO_0075733
+5	HP-GO	HP_0001903	GO_0075733
+
+6|chunk|At first, we observed the dynamic redistribution of nucleolin from a nucleolar to a very specific nuclear polarized pattern during infection. The aim of this study was therefore to investigate the functional relationship between IAV and nucleolin with regards to the nuclear traffic of vRNPs and their targeting to the dense chromatin compartment 13 and in the context of the viral remodeling of the host nuclear architectures 17,20 . We first characterized NP, the main component of IAV vRNP, as co-localizing and interacting with endogenous nucleolin during infection. Moreover, using cell fractionation and RNAi approaches, we suggest that nucleolin contributes to efficient vRNP trafficking and viral replication. Based on our results, we propose nucleolin as an essential host factor for the chromatin targeting of the nucleocytoplasmic export complex of vRNPs during infection.
+6	325	334 chromatin	Gene_function	GO_0000785
+6	610	614 RNAi	Gene_function	GO_0016246
+6	797	806 chromatin	Gene_function	GO_0000785
+

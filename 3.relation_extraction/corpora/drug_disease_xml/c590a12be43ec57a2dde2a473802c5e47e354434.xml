@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="c590a12be43ec57a2dde2a473802c5e47e354434">
+  <chunk id="c590a12be43ec57a2dde2a473802c5e47e354434.c0" text="a recurrent Mutation in anaplastic lymphoma Kinase with Distinct neoepitope conformations">
+    <entity charOffset="35-43" id="c590a12be43ec57a2dde2a473802c5e47e354434.c0.e0" ontology_id="DOID_0060058" text="lymphoma" type="disease"/>
+  </chunk>
+  <chunk id="c590a12be43ec57a2dde2a473802c5e47e354434.c1" text="The identification of recurrent human leukocyte antigen (HLA) neoepitopes driving T cell responses against tumors poses a significant bottleneck in the development of approaches for precision cancer therapeutics. Here, we employ a bioinformatics method, Prediction of T Cell Epitopes for Cancer Therapy, to analyze sequencing data from neuroblastoma patients and identify a recurrent anaplastic lymphoma kinase mutation (ALK R1275Q) that leads to two high affinity neoepitopes when expressed in complex with common HLA alleles. Analysis of the X-ray structures of the two peptides bound to HLA-B*15:01 reveals drastically different conformations with measurable changes in the stability of the protein complexes, while the self-epitope is excluded from binding due to steric hindrance in the MHC groove. To evaluate the range of HLA alleles that could display the ALK neoepitopes, we used structure-based Rosetta comparative modeling calculations, which accurately predict several additional high affinity interactions and compare our results with commonly used prediction tools. Subsequent determination of the X-ray structure of an HLA-A*01:01 bound neoepitope validates atomic features seen in our Rosetta models with respect to key residues relevant for MHC stability and T cell receptor recognition. Finally, MHC tetramer staining of peripheral blood mononuclear cells from HLA-matched donors shows that the two neoepitopes are recognized by CD8+ T cells. This work provides a rational approach toward high-throughput identification and further optimization of putative neoantigen/HLA targets with desired recognition features for cancer immunotherapy.">
+    <entity charOffset="48-55" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="192-198" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e1" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="288-294" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e2" ontology_id="DOID_162" text="Cancer" type="disease"/>
+    <entity charOffset="336-349" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e3" ontology_id="DOID_769" text="neuroblastoma" type="disease"/>
+    <entity charOffset="395-403" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e4" ontology_id="DOID_0060058" text="lymphoma" type="disease"/>
+    <entity charOffset="572-580" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="694-701" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1636-1642" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e7" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e1" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p0" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e2" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p1" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e3" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p2" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e4" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p3" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e0" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e7" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p4" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e1" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p5" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e1" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p6" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e2" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p7" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e2" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p8" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e3" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p9" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e3" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p10" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e4" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p11" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e4" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p12" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e5" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e7" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p13" relation="true"/>
+    <pair e1="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e6" e2="c590a12be43ec57a2dde2a473802c5e47e354434.c1.e7" id="c590a12be43ec57a2dde2a473802c5e47e354434.c1.p14" relation="true"/>
+  </chunk>
+</document>

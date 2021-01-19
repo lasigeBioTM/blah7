@@ -1,0 +1,12 @@
+0|chunk|A Sensitive Assay for Virus Discovery in Respiratory Clinical Samples
+
+1|chunk|In 5-40% of respiratory infections in children, the diagnostics remain negative, suggesting that the patients might be infected with a yet unknown pathogen. Virus discovery cDNA-AFLP (VIDISCA) is a virus discovery method based on recognition of restriction enzyme cleavage sites, ligation of adaptors and subsequent amplification by PCR. However, direct discovery of unknown pathogens in nasopharyngeal swabs is difficult due to the high concentration of ribosomal RNA (rRNA) that acts as competitor. In the current study we optimized VIDISCA by adjusting the reverse transcription enzymes and decreasing rRNA amplification in the reverse transcription, using hexamer oligonucleotides that do not anneal to rRNA. Residual cDNA synthesis on rRNA templates was further reduced with oligonucleotides that anneal to rRNA but can not be extended due to 39-dideoxy-C6-modification. With these modifications .90% reduction of rRNA amplification was established. Further improvement of the VIDISCA sensitivity was obtained by high throughput sequencing (VIDISCA-454). Eighteen nasopharyngeal swabs were analysed, all containing known respiratory viruses. We could identify the proper virus in the majority of samples tested (11/18). The median load in the VIDISCA-454 positive samples was 7.2 E5 viral genome copies/ml (ranging from 1.4 E3-7.7 E6). Our results show that optimization of VIDISCA and subsequent high-throughputsequencing enhances sensitivity drastically and provides the opportunity to perform virus discovery directly in patient material.
+1	12	34 respiratory infections	Phenotype	HP_0011947
+1	455	468 ribosomal RNA	Gene_function	GO_0005840
+1	560	581 reverse transcription	Gene_function	GO_0001171
+1	631	652 reverse transcription	Gene_function	GO_0001171
+1	727	736 synthesis	Gene_function	GO_0009058
+1	HP-GO	HP_0011947	GO_0005840
+1	HP-GO	HP_0011947	GO_0001171
+1	HP-GO	HP_0011947	GO_0009058
+

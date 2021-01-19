@@ -1,0 +1,16 @@
+0|chunk|Modeling [ 18 F]-FDG lymphoid tissue kinetics to characterize nonhuman primate immune response to Middle East respiratory syndrome-coronavirus aerosol challenge
+0	79	94 immune response	Gene_function	GO_0006955
+
+1|chunk|Background: The pathogenesis and immune response to Middle East respiratory syndrome (MERS) caused by a recently discovered coronavirus, MERS-CoV, have not been fully characterized because a suitable animal model is currently not available. 18 F-Fluorodeoxyglucose ([ 18 F]-FDG)-positron emission tomography/computed tomography (PET/CT) as a longitudinal noninvasive approach can be beneficial in providing biomarkers for host immune response.
+1	16	28 pathogenesis	Gene_function	GO_0009405
+1	33	48 immune response	Gene_function	GO_0006955
+1	427	442 immune response	Gene_function	GO_0006955
+
+2|chunk|[ 18 F]-FDG uptake is increased in activated immune cells in response to virus entry and can be localized by PET imaging. We used [ 18 F]-FDG-PET/CT to investigate the host response developing in nonhuman primates after MERS-CoV exposure and applied kinetic modeling to monitor the influx rate constant (K i ) in responsive lymphoid tissue. Methods: Multiple [ 18 F]-FDG-PET and CT images were acquired on a PET/CT clinical scanner modified to operate in a biosafety level 4 environment prior to and up to 29 days after MERS-CoV aerosol exposure. Time activity curves of various lymphoid tissues were reconstructed to follow the [ 18 F]-FDG uptake for approximately 60 min (3,600 s). Image-derived input function was used to calculate K i for lymphoid tissues by Patlak plot. Results: Two-way repeated measures analysis of variance revealed alterations in K i that was associated with the time point (p < 0.001) after virus exposure and the location of lymphoid tissue (p = 0.0004). As revealed by a statistically significant interaction (p < 0.0001) between these two factors, the pattern of K i changes over time differed between three locations but not between subjects. A distinguished pattern of statistically significant elevation in K i was observed in mediastinal lymph nodes (LNs) that correlated to K i changes in axillary LNs. Changes in LNs K i were concurrent with elevations of monocytes in peripheral blood. Conclusions: [ 18 F]-FDG-PET is able to detect subtle changes in host immune response to contain a subclinical virus infection. Full quantitative analysis is the preferred approach rather than semiquantitative analysis using standardized uptake value for detection of the immune response to the virus.
+2	96	105 localized	Phenotype	HP_0012838
+2	1405	1415 peripheral	Phenotype	HP_0030646
+2	1493	1508 immune response	Gene_function	GO_0006955
+2	1695	1710 immune response	Gene_function	GO_0006955
+2	HP-GO	HP_0012838	GO_0006955
+2	HP-GO	HP_0030646	GO_0006955
+

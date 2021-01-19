@@ -1,0 +1,16 @@
+0|chunk|Multifunctional viral protein 34.5 manipulates nucleolar protein NOP53 for optimal viral replication of HSV-1
+
+1|chunk|To ensure efficient virus replication, herpes simplex virus type 1 (HSV-1) encodes several viral proteins to counter host defense response upon infection. Among these proteins, the multifunctional viral protein 34.5 crucially interferes with or disrupts several antiviral pathways at multiple levels. The current study shows that 34.5 utilizes nucleolar protein NOP53 to facilitate the dephosphorylation of eukaryotic initiation factor eIF2 for efficient viral translation. Our study shows that: (1) ectopic expression of NOP53 greatly increases the intracellular and extracellular viral yields of HSV-1 (wild strain F) in type I interferon-deficient Vero cells, and more subtly promotes viral replication of 34.5 deletion mutant virus HSV-1/34.5. (2) NOP53 is migrated from nuclei in HSV-1/F infected cells, but is redistributed incompletely after infection by either HSV-1/34.5 or ICP4 deletion mutant virus HSV-1/d120 (replication inadequate). Ectopic expression of 34.5, consequently, induces cytoplasmic translocation of NOP53 in response to HSV-1/34.5 infection.
+1	122	138 defense response	Gene_function	GO_0006952
+1	388	405 dephosphorylation	Gene_function	GO_0016311
+1	553	566 intracellular	Gene_function	GO_0005622
+1	571	584 extracellular	Gene_function	GO_0005576
+
+2|chunk|(3) Increase of NOP53, in two forms of transient transfection and in vitro expression, attenuates the phosphorylation level of eIF2 in HSV-1/F infected cells, but fails to affect eIF2 phosphorylation induced by HSV-1/ 34.5 infection. (4) Knockdown of NOP53, which impairs the specific interaction between 34.5 and protein phosphatase PP1, disrupts the ability of 34.5 to maintain HSV-1 virulence. (5) NOP53 knockdown also significantly reduces tissue damage and decreases viral yield in livers of HSV-1 infected mice. Our findings expand the understanding of the underlying mechanism by which viral protein 34.5 induces NOP53 redistribution; cytoplasmic NOP53 facilitates 34.5 recruitment of PP1 to dephosphorylate eIF2, for optimal viral replication. This paper also demonstrates that blocking the specific interaction between 34.5 and PP1 would be a useful approach for the development of antiviral agents.
+2	39	48 transient	Phenotype	HP_0025153
+2	102	117 phosphorylation	Gene_function	GO_0016310
+2	186	201 phosphorylation	Gene_function	GO_0016310
+2	327	338 phosphatase	Gene_function	GO_0016791
+2	HP-GO	HP_0025153	GO_0016310
+2	HP-GO	HP_0025153	GO_0016791
+

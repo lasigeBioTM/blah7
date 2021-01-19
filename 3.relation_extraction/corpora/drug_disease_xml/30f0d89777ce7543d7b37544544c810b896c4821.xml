@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<document id="30f0d89777ce7543d7b37544544c810b896c4821">
+  <chunk id="30f0d89777ce7543d7b37544544c810b896c4821.c0" text="Peptide-Protein Interaction Studies of Antimicrobial Peptides Targeting Middle East Respiratory Syndrome Coronavirus Spike Protein: An In Silico Approach">
+    <entity charOffset="39-52" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.e0" ontology_id="CHEBI_33281" text="Antimicrobial" type="chemical"/>
+    <entity charOffset="53-61" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.e1" ontology_id="CHEBI_16670" text="Peptides" type="chemical"/>
+    <entity charOffset="72-104" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.e2" ontology_id="DOID_0080642" text="Middle East Respiratory Syndrome" type="disease"/>
+    <entity charOffset="96-104" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.e3" ontology_id="DOID_225" text="Syndrome" type="disease"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c0.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c0.e2" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.p0" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c0.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c0.e3" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.p1" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c0.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c0.e2" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.p2" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c0.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c0.e3" id="30f0d89777ce7543d7b37544544c810b896c4821.c0.p3" relation="true"/>
+  </chunk>
+  <chunk id="30f0d89777ce7543d7b37544544c810b896c4821.c1" text="There is no effective therapeutic or vaccine for Middle East Respiratory Syndrome and this study attempts to find therapy using peptide by establishing a basis for the peptide-protein interactions through in silico docking studies for the spike protein of MERS-CoV. The antimicrobial peptides (AMPs) were retrieved from the antimicrobial peptide database (APD3) and shortlisted based on certain important physicochemical properties. The binding mode of the shortlisted peptides was measured based on the number of clusters which forms in a protein-peptide docking using Piper. As a result, we identified a list of putative AMPs which binds to the spike protein of MERS-CoV, which may be crucial in providing the inhibitory action. It is observed that seven putative peptides have good binding score based on cluster size cutoff of 208. We conclude that seven peptides, namely, AP00225, AP00180, AP00549, AP00744, AP00729, AP00764, and AP00223, could possibly have binding with the active site of the MERS-CoV spike protein. These seven AMPs could serve as a therapeutic option for MERS and enhance its treatment outcome.">
+    <entity charOffset="49-81" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" ontology_id="DOID_0080642" text="Middle East Respiratory Syndrome" type="disease"/>
+    <entity charOffset="73-81" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" ontology_id="DOID_225" text="Syndrome" type="disease"/>
+    <entity charOffset="128-135" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e2" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="245-252" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="270-283" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e4" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="284-292" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e5" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="324-337" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e6" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="338-345" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e7" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="469-477" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e8" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="514-522" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e9" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="653-660" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="766-774" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e11" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="808-815" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e12" ontology_id="CHEBI_33731" text="cluster" type="chemical"/>
+    <entity charOffset="859-867" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e13" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="1015-1022" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.e14" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e2" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p0" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e3" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p1" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e4" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p2" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e5" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p3" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e6" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p4" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e7" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p5" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e8" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p6" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e9" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p7" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e10" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p8" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e11" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p9" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e12" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p10" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e13" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p11" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e0" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e14" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p12" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e2" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p13" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e3" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p14" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e4" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p15" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e5" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p16" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e6" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p17" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e7" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p18" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e8" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p19" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e9" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p20" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e10" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p21" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e11" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p22" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e12" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p23" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e13" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p24" relation="true"/>
+    <pair e1="30f0d89777ce7543d7b37544544c810b896c4821.c1.e1" e2="30f0d89777ce7543d7b37544544c810b896c4821.c1.e14" id="30f0d89777ce7543d7b37544544c810b896c4821.c1.p25" relation="true"/>
+  </chunk>
+</document>

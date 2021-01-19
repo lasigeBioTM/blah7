@@ -1,0 +1,49 @@
+0|chunk|Targeting interferon response genes sensitizes aromatase inhibitor resistant breast cancer cells to estrogen-induced cell death
+0	77	90 breast cancer	Phenotype	HP_0003002
+0	84	90 cancer	Phenotype	HP_0002664
+0	117	127 cell death	Gene_function	GO_0008219
+0	HP-GO	HP_0003002	GO_0008219
+0	HP-GO	HP_0002664	GO_0008219
+
+1|chunk|Introduction: Estrogen deprivation using aromatase inhibitors (AIs) is currently the standard of care for postmenopausal women with hormone receptor-positive breast cancer. Unfortunately, the majority of patients treated with AIs eventually develop resistance, inevitably resulting in patient relapse and, ultimately, death. The mechanism by which resistance occurs is still not completely known, however, recent studies suggest that impaired/defective interferon signaling might play a role. In the present study, we assessed the functional role of IFITM1 and PLSCR1; two well-known interferon response genes in AI resistance. Methods: Real-time PCR and Western blot analyses were used to assess mRNA and protein levels of IFITM1, PLSCR1, STAT1, STAT2, and IRF-7 in AI-resistant MCF-7:5C breast cancer cells and AI-sensitive MCF-7 and T47D cells. Immunohistochemistry (IHC) staining was performed on tissue microarrays consisting of normal breast tissues, primary breast tumors, and AI-resistant recurrence tumors. Enzyme-linked immunosorbent assay was used to quantitate intracellular IFN level. Neutralizing antibody was used to block type 1 interferon receptor IFNAR1 signaling. Small interference RNA (siRNA) was used to knockdown IFITM1, PLSCR1, STAT1, STAT2, IRF-7, and IFN expression.
+1	158	171 breast cancer	Phenotype	HP_0003002
+1	165	171 cancer	Phenotype	HP_0002664
+1	464	473 signaling	Gene_function	GO_0023052
+1	789	802 breast cancer	Phenotype	HP_0003002
+1	796	802 cancer	Phenotype	HP_0002664
+1	1073	1086 intracellular	Gene_function	GO_0005622
+1	1112	1120 antibody	Gene_function	GO_0003823
+1	1112	1120 antibody	Gene_function	GO_0042571
+1	1173	1182 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0003002	GO_0023052
+1	HP-GO	HP_0003002	GO_0005622
+1	HP-GO	HP_0003002	GO_0003823
+1	HP-GO	HP_0003002	GO_0042571
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0005622
+1	HP-GO	HP_0002664	GO_0003823
+1	HP-GO	HP_0002664	GO_0042571
+
+2|chunk|Results: We found that IFITM1 and PLSCR1 were constitutively overexpressed in AI-resistant MCF-7:5C breast cancer cells and AI-resistant tumors and that siRNA knockdown of IFITM1 significantly inhibited the ability of the resistant cells to proliferate, migrate, and invade. Interestingly, suppression of IFITM1 significantly enhanced estradiol-induced cell death in AI-resistant MCF-7:5C cells and markedly increased expression of p21, Bax, and Noxa in these cells. Significantly elevated level of IFN was detected in AI-resistant MCF-7:5C cells compared to parental MCF-7 cells and suppression of IFN dramatically reduced IFITM1, PLSCR1, p-STAT1, and p-STAT2 expression in the resistant cells. Lastly, neutralizing antibody against IFNAR1/2 and knockdown of STAT1/STAT2 completely suppressed IFITM1, PLSCR1, p-STAT1, and p-STAT2 expression in the resistant cells, thus confirming the involvement of the canonical IFN signaling pathway in driving the overexpression of IFITM1 and other interferon-stimulated genes (ISGs) in the resistant cells.
+2	100	113 breast cancer	Phenotype	HP_0003002
+2	107	113 cancer	Phenotype	HP_0002664
+2	353	363 cell death	Gene_function	GO_0008219
+2	719	727 antibody	Gene_function	GO_0003823
+2	719	727 antibody	Gene_function	GO_0042571
+2	922	931 signaling	Gene_function	GO_0023052
+2	922	939 signaling pathway	Gene_function	GO_0007165
+2	HP-GO	HP_0003002	GO_0008219
+2	HP-GO	HP_0003002	GO_0003823
+2	HP-GO	HP_0003002	GO_0042571
+2	HP-GO	HP_0003002	GO_0023052
+2	HP-GO	HP_0003002	GO_0007165
+2	HP-GO	HP_0002664	GO_0008219
+2	HP-GO	HP_0002664	GO_0003823
+2	HP-GO	HP_0002664	GO_0042571
+2	HP-GO	HP_0002664	GO_0023052
+2	HP-GO	HP_0002664	GO_0007165
+
+3|chunk|Conclusion: Overall, these results demonstrate that constitutive overexpression of ISGs enhances the progression of AI-resistant breast cancer and that suppression of IFITM1 and other ISGs sensitizes AI-resistant cells to estrogen-induced cell death.
+3	129	142 breast cancer	Phenotype	HP_0003002
+3	136	142 cancer	Phenotype	HP_0002664
+

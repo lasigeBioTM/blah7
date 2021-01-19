@@ -1,0 +1,62 @@
+0|chunk|The Interplay between Dengue Virus and the Human Innate Immune System: A Game of Hide and Seek
+
+1|chunk|With 40% of the world population at risk, infections with dengue virus (DENV) constitute a serious threat to public health. While there is no antiviral therapy available against this potentially lethal disease, the efficacy of the only approved vaccine is not optimal and its safety has been recently questioned. In order to develop better vaccines based on attenuated and/or chimeric viruses, one must consider how the human immune system is engaged during DENV infection. The activation of the innate immunity through the detection of viruses by cellular sensors is the first line of defence against those pathogens. This triggers a cascade of events which establishes an antiviral state at the cell level and leads to a global immunological response. However, DENV has evolved to interfere with the innate immune signalling at multiple levels, hence dampening antiviral responses and favouring viral replication and dissemination. This review elaborates on the interplay between DENV and the innate immune system. A special focus is given on the viral countermeasure mechanisms reported over the last decade which should be taken into consideration during vaccine development.
+1	142	151 antiviral	Chemical	CHEBI_22587
+1	674	683 antiviral	Chemical	CHEBI_22587
+1	863	872 antiviral	Chemical	CHEBI_22587
+
+2|chunk|Vaccines 2019, 7, 145 2 of 21 serotypes (1-4) in one given restricted geographic area [4, 5] . While there is an unmet medical need regarding strategies against dengue, the incidence of this disease is expected to geographically expand in the future considering that the arthropod vector is colonizing northern European and American territories with temperate climates.
+2	191	198 disease	Disease	DOID_4
+
+3|chunk|DENV infection is characterized by a mixed clinical presentation that ranges from an asymptomatic disease to a mild febrile prodrome all the way to a severe hemorrhagic fever and shock syndrome. All infected individuals, asymptomatic or not, can transmit DENV to Aedes mosquitoes during a blood meal, making it difficult to precisely estimate the actual size of the reservoir at any given time. DENV infection severity is classified according to the World Health Organization (WHO) 1997 and 2009 guidelines [6] . Dengue "without warning signs" (or dengue fever) regroups at-risk individuals with fever and at least two of the following signs and symptoms: nausea/vomiting, rash, headaches, eye pain, muscle aches, joint pain, leukopenia, or positivity at the tourniquet test. Dengue "with warning signs of severe infection" (or dengue hemorrhagic fever) includes in addition to the previous signs and symptoms abdominal pain, persistent vomiting, ascites, pleural effusion, mucosal bleeding, lethargy or restlessness, hepatomegaly, and an increase in hematocrit paired with rapid decrease in platelet count. Lastly, severe dengue (or dengue shock) occurs when the infection leads to severe plasma leakage, massive bleeding, and multiple organ failures. As of now, the therapeutic arsenal against DENV infection is fairly limited and only consists of supportive care and intravenous fluid therapy.
+3	98	105 disease	Disease	DOID_4
+3	548	560 dengue fever	Disease	DOID_12205
+3	828	852 dengue hemorrhagic fever	Disease	DOID_12206
+
+4|chunk|From a host-pathogen interaction point of view, it is interesting to note that, in the majority of DENV-infected individuals, viremia is controlled by the innate and adaptive immune systems within three to seven days, independently of the clinical manifestation [7] . However, in some cases, the infection is not properly handled and symptoms aggravate. A higher peak in viral titres seems to be predictive of disease severity [8, 9] . While the pathophysiology behind severe dengue is not fully understood, it is accepted that dengue hemorrhagic fever and severe dengue result from a cytokine-mediated pathology (cytokine storm) that occurs because of the unbalanced production of various soluble and short-lived immune factors, such as TNF-, VEGF-A, IL-6, IL-8, IL-10, CCL2, and CXCL10, that are produced by immune cells [10].
+4	410	417 disease	Disease	DOID_4
+4	528	552 dengue hemorrhagic fever	Disease	DOID_12206
+
+5|chunk|DENV is an enveloped, positive-stranded RNA virus and belongs to the Flavivirus genus within the Flaviviridae family. Flaviviruses also include genetically related and/or medically relevant arthropod-borne pathogens such as yellow fever virus (YFV), Zika virus (ZIKV), West Nile virus (WNV), and Japanese encephalitis virus (JEV). The enveloped virion is constituted of prM/M (precursor membrane/membrane) and E (envelope) structural proteins at the surface while C nucleocapsid protein surrounds the 11 kilobase-long non-segmented viral RNA genome (vRNA). Following virus entry into the target cell, vRNA is translated into one polyprotein, which is subsequently processed by host and viral proteases to generate the structural proteins C, prM, and E and the seven nonstructural (NS) proteins NS1, NS2A, NS2B, NS3, NS4A, NS4B, and NS5. NS proteins are responsible for vRNA replication that occurs exclusively in the cytoplasm of infected cells. This involves the specific enzymatic activity of several NS proteins. The NS5 RNA-dependent RNA polymerase is responsible for vRNA synthesis and possesses a methyltransferase activity which is absolutely required for vRNA 5 capping and 2 -O-methylation. The processing of the DENV polyprotein involves the serine protease activity of the NS2B/NS3 complex (or NS2B3). NS3 is also essential for vRNA synthesis and capping through its helicase, NTPase, and triphosphatase activities. Assembled virions bud into the endoplasmic reticulum (ER) and are taken in charge by the cellular secretion machinery. In the Golgi apparatus, they undergo a final round of furin-mediated maturation and acquire infectivity before their release via exocytosis [11] [12] [13] . In order to create a cytoplasmic environment that can sustain an optimal life cycle, DENV, much like other flaviviruses, induces within the infected cell the biogenesis of specific Vaccines 2019, 7, 145 3 of 21 membranous replication organelles or replication factories (RF) with unique morphologies [14, 15] . These RFs are formed by altering the curvature and composition of cellular endomembranes. They have been characterized as ER-derived ultrastructures that include (1) vesicle packets (VP) which result from membrane invaginations and contain the vRNA replication components; (2) convoluted membranes (CM) which are enriched in NS3, NS4A, and NS4B and of which the exact role(s) remain poorly defined; and (3) virus bags which contain immature virions organized in regular arrays [16] [17] [18] . In addition, DENV also manipulates the architecture of other organelles (such as mitochondria or peroxisomes) to modulate specific cellular functions, including innate immunity, in favour of replication (see below). While DENV is genetically simple with only 10 viral protein expressed, its life cycle relies on highly coordinated machineries that offer various points of intervention and research interests.
+5	40	43 RNA	Chemical	CHEBI_33697
+5	224	236 yellow fever	Disease	DOID_9682
+5	296	317 Japanese encephalitis	Disease	DOID_10844
+5	305	317 encephalitis	Disease	DOID_9588
+5	434	442 proteins	Chemical	CHEBI_36080
+5	479	486 protein	Chemical	CHEBI_16541
+5	538	541 RNA	Chemical	CHEBI_33697
+5	729	737 proteins	Chemical	CHEBI_36080
+5	785	793 proteins	Chemical	CHEBI_36080
+5	840	848 proteins	Chemical	CHEBI_36080
+5	1006	1014 proteins	Chemical	CHEBI_36080
+5	1038	1041 RNA	Chemical	CHEBI_33697
+5	1252	1258 serine	Chemical	CHEBI_17115
+5	2382	2386 role	Chemical	CHEBI_50906
+5	2776	2783 protein	Chemical	CHEBI_16541
+5	CHEBI-DOID	CHEBI_33697	DOID_9682
+5	CHEBI-DOID	CHEBI_33697	DOID_10844
+5	CHEBI-DOID	CHEBI_33697	DOID_9588
+5	DOID-CHEBI	DOID_9682	CHEBI_36080
+5	DOID-CHEBI	DOID_9682	CHEBI_16541
+5	DOID-CHEBI	DOID_9682	CHEBI_17115
+5	DOID-CHEBI	DOID_9682	CHEBI_50906
+5	DOID-CHEBI	DOID_10844	CHEBI_36080
+5	DOID-CHEBI	DOID_10844	CHEBI_16541
+5	DOID-CHEBI	DOID_10844	CHEBI_17115
+5	DOID-CHEBI	DOID_10844	CHEBI_50906
+5	DOID-CHEBI	DOID_9588	CHEBI_36080
+5	DOID-CHEBI	DOID_9588	CHEBI_16541
+5	DOID-CHEBI	DOID_9588	CHEBI_17115
+5	DOID-CHEBI	DOID_9588	CHEBI_50906
+
+6|chunk|Following the entry of the virus inside the cell, it is rapidly sensed as a foreign "intruder" by the cell surveillance machinery, which triggers innate immunity. Strikingly, in response to these defence mechanisms, DENV has evolved to efficiently hide and mask its foreign molecular signatures, hence, avoiding the establishment of an antiviral environment that is detrimental for replication. In addition to these "cloak-and-dagger" operations, many viral proteins are able to directly hit the host antiviral machinery to shutdown innate immune signalling. Thus, antiviral immunity and DENV life cycle are dynamically interconnected events which balance each other; on one hand, the virus is trying to hijack the functions of the cellular machinery to its own benefit, while, on the other hand, the host factors are trying to control the viral infection while minimizing damages to cell homeostasis.
+6	336	345 antiviral	Chemical	CHEBI_22587
+6	458	466 proteins	Chemical	CHEBI_36080
+6	501	510 antiviral	Chemical	CHEBI_22587
+6	565	574 antiviral	Chemical	CHEBI_22587
+6	840	855 viral infection	Disease	DOID_934
+6	CHEBI-DOID	CHEBI_22587	DOID_934
+6	CHEBI-DOID	CHEBI_36080	DOID_934
+
+7|chunk|In this review, we elaborate on the interplay between DENV and innate immunity. More precisely, it brings into focus how DENV is detected inside an infected cell as well as how it can hide to avoid detection. A better understanding of how DENV circumvents and/or attenuates innate immunity can provide critical information for rational vaccine development.
+

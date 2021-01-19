@@ -1,0 +1,19 @@
+0|chunk|CSF1R antagonism limits local restimulation of antiviral CD8 + T cells during viral encephalitis
+0	84	96 encephalitis	Phenotype	HP_0002383
+
+1|chunk|Background: Microglia are resident macrophages of the central nervous system (CNS) locally maintained through colony-stimulating factor 1 receptor (CSF1R) signaling. Microglial depletion via CSF1R inactivation improves cognition in mouse models of neuroinflammation, but limits virologic control in the CNS of mouse models of neurotropic infections by unknown mechanisms. We hypothesize that CSF1R plays a critical role in myeloid cell responses that restrict viral replication and locally restimulate recruited antiviral T cells within the CNS. Methods: The impact of CSF1R signaling during West Nile virus infection was assessed in vivo using a mouse model of neurotropic infection. Pharmacological inactivation of CSF1R was achieved using PLX5622 prior to infection with virulent or attenuated strains of West Nile virus (WNV), an emerging neuropathogen. The subsequent effect of CSF1R antagonism on virologic control was assessed by measuring mortality and viral titers in the CNS and peripheral organs. Immune responses were assessed by flow cytometric-based phenotypic analyses of both peripheral and CNS immune cells. Results: Mice treated with CSF1R antagonist prior to infection exhibited higher susceptibility to lethal WNV infection and lack of virologic control in both the CNS and periphery. CSFR1 antagonism reduced B7 co-stimulatory signals on peripheral and CNS antigen-presenting cells (APCs) by depleting CNS cellular sources, which limited local reactivation of CNS-infiltrating virus-specific T cells and reduced viral clearance.
+1	54	61 central	Phenotype	HP_0030645
+1	155	164 signaling	Gene_function	GO_0023052
+1	219	228 cognition	Gene_function	GO_0050890
+1	575	584 signaling	Gene_function	GO_0023052
+1	989	999 peripheral	Phenotype	HP_0030646
+1	1092	1102 peripheral	Phenotype	HP_0030646
+1	1359	1369 peripheral	Phenotype	HP_0030646
+1	HP-GO	HP_0030645	GO_0023052
+1	HP-GO	HP_0030645	GO_0050890
+1	GO-HP	GO_0023052	HP_0030646
+1	GO-HP	GO_0050890	HP_0030646
+
+2|chunk|Conclusions: Our results demonstrate the impact of CSF1R antagonism on APC activation in the CNS and periphery and the importance of microglia in orchestrating the CNS immune response following neurotropic viral infection. These data will be an important consideration when assessing the benefit of CSF1R antagonism, which has been investigated as a therapeutic for neurodegenerative conditions, in which neuroinflammation is a contributing factor.
+2	168	183 immune response	Gene_function	GO_0006955
+

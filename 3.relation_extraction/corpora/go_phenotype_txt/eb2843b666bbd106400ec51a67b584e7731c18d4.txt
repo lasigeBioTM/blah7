@@ -1,0 +1,31 @@
+0|chunk|Identification of Novel MAGE-G1- Interacting Partners in Retinoic Acid-Induced P19 Neuronal Differentiation Using SILAC-Based Proteomics OPEN
+
+1|chunk|MAGE-G1 is a protein plays role in the early process of neurogenesis. However, the fundamental roles MAGE-G1 played in neurogenesis have not yet been completely understood. Finding the partners MAGE-G1 interacting with will surely contribute to the function study of MAGE-G1. In this study, using Stable Isotope Labeling by Amino acids in Cell culture-immunoprecipitation quantitative proteomics, we screened the interacting proteins of MAGE-G1 during retinoic acid -induced neuronal differentiation of P19 cells and firstly found that FSCN1 and VIME were potential novel MAGE-G1-interacting proteins. Then, the interaction between overexpressed MAGE-G1 and FSCN1 or VIME was validated by GSTpull down assay in bacteria and by co-immunoprecipitation assay in COS7 cells. Endogenous coimmunoprecipitation assay further confirmed that MAGE-G1 interacted with FSCN1 or VIME in P19 cells after a 6-day retinoic acid-induced neuronal differentiation. Those results provide a functional linkage between MAGE-G1 and FSCN1 or VIME and may facilitate a better understanding of the fundamental aspects of MAGE-G1 during neurogenesis.
+1	56	68 neurogenesis	Gene_function	GO_0022008
+1	119	131 neurogenesis	Gene_function	GO_0022008
+1	297	303 Stable	Phenotype	HP_0031915
+1	1110	1122 neurogenesis	Gene_function	GO_0022008
+1	GO-HP	GO_0022008	HP_0031915
+
+2|chunk|The melanoma antigen (MAGE) family comprises 30 proteins, and is divided into two classes based on their expression patterns, the type I cancer-testis antigen and the type II ubiquitous MAGEs 1,2 . Both type I and type II MAGE proteins share a conserved domain known as the MAGE homology domain (MHD). Based on similarities in the MHD sequences and molecular sizes, the type II MAGE proteins can be divided further into two subgroups, Necdin subgroup and MAGE-D subgroup. Necdin subgroup consists of relatively short proteins (< 350 amino acid residues) whose MHD sequences are more homologous to that of Necdin. This subgroup includes Necdin, MAGE-F1, MAGE-G1, and MAGE-H1 in mammals. MAGE-D subgroup consists of larger proteins (> 650 amino acid residues), including MAGE-D1/NRAGE/Dlxin-1, MAGE-D2, MAGE-D3/Trophinin/ Magphinin, MAGE-E1/MAGE-D4, and MAGE-L2 2,3 .
+2	4	12 melanoma	Phenotype	HP_0002861
+
+3|chunk|As one of Necdin homologous genes, Mage-g1 gene (also designated Necdin-like 2) has been mapped to proximal chromosome 15q 4 . The proximal region of human chromosomal 15q is subject to genomic imprinting and implicated in various human neurological and mental disorders including Prader Willi Syndrome, Angelman syndrome, autism, epilepsy, and schizophrenia 5 . It is demonstrated that MAGE-G1 has some characteristics similar to those of Necdin, such as growth suppression and interactions with E2F transcription factor 1 (E2F1) and p75 neurotrophin receptor (p75NTR) 6 . MAGE-G1 is a member of type II MAGE proteins of which some member are key elements in neurogenesis, such as MAGE-D1, MAGE-L2 2,7 . Our previous studies found that the expression of MAGE-G1 protein was increased with the differentiation of P19 8 . Those findings suggest that the MAGE-G1 may be involved in brain development, and its abnormalities may cause some neurodevelopmental diseases. However, the biochemical and functional features of MAGE-G1in brain development and neurogenesis remain unknown.
+3	99	107 proximal	Phenotype	HP_0012840
+3	108	118 chromosome	Gene_function	GO_0005694
+3	131	139 proximal	Phenotype	HP_0012840
+3	345	358 schizophrenia	Phenotype	HP_0100753
+3	456	462 growth	Gene_function	GO_0040007
+3	660	672 neurogenesis	Gene_function	GO_0022008
+3	880	897 brain development	Gene_function	GO_0007420
+3	1027	1044 brain development	Gene_function	GO_0007420
+3	1049	1061 neurogenesis	Gene_function	GO_0022008
+3	HP-GO	HP_0012840	GO_0005694
+3	HP-GO	HP_0012840	GO_0040007
+3	HP-GO	HP_0012840	GO_0022008
+3	HP-GO	HP_0012840	GO_0007420
+3	GO-HP	GO_0005694	HP_0100753
+3	HP-GO	HP_0100753	GO_0040007
+3	HP-GO	HP_0100753	GO_0022008
+3	HP-GO	HP_0100753	GO_0007420
+

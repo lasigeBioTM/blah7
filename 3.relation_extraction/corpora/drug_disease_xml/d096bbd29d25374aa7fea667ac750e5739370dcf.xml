@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="d096bbd29d25374aa7fea667ac750e5739370dcf">
+  <chunk id="d096bbd29d25374aa7fea667ac750e5739370dcf.c0" text="A systematic view on influenza induced host shutoff">
+    <entity charOffset="21-30" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c0.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+  </chunk>
+  <chunk id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1" text="Host shutoff is a common strategy used by viruses to repress cellular mRNA translation and concomitantly allow the efficient translation of viral mRNAs. Here we use RNAsequencing and ribosome profiling to explore the mechanisms that are being utilized by the Influenza A virus (IAV) to induce host shutoff. We show that viral transcripts are not preferentially translated and instead the decline in cellular protein synthesis is mediated by viral takeover on the mRNA pool. Our measurements also uncover strong variability in the levels of cellular transcripts reduction, revealing that short transcripts are less affected by IAV. Interestingly, these mRNAs that are refractory to IAV infection are enriched in cell maintenance processes such as oxidative phosphorylation. Furthermore, we show that the continuous oxidative phosphorylation activity is important for viral propagation. Our results advance our understanding of IAV-induced shutoff, and suggest a mechanism that facilitates the translation of genes with important housekeeping functions.">
+    <entity charOffset="70-74" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e0" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="259-268" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="408-415" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="463-467" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e3" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e0" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p0" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e2" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p1" relation="true"/>
+    <pair e1="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e1" e2="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.e3" id="d096bbd29d25374aa7fea667ac750e5739370dcf.c1.p2" relation="true"/>
+  </chunk>
+</document>

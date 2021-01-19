@@ -1,0 +1,36 @@
+0|chunk|molecules Human Lectins and Their Roles in Viral Infections
+
+1|chunk|Innate recognition of virus proteins is an important component of the immune response to viral pathogens. A component of this immune recognition is the family of lectins; pattern recognition receptors (PRRs) that recognise viral pathogen-associated molecular patterns (PAMPs) including viral glycoproteins. In this review we discuss the contribution of soluble and membrane-associated PRRs to immunity against virus pathogens, and the potential role of these molecules in facilitating virus replication. These processes are illustrated with examples of viruses including human immunodeficiency virus (HIV), hepatitis C virus (HCV) and Ebola virus (EBOV). We focus on the structure, function and genetics of the well-characterised C-type lectin mannose-binding lectin, the ficolins, and the membrane-bound CD209 proteins expressed on dendritic cells. The potential for lectin-based antiviral therapies is also discussed. 2230 the primitive immune system depended on lectin-protease-mediated opsonophagocytosis [2] . Lectins differ in tissue expression, ligand affinities, structure and function, and are classified by the phylogeny and primary and tertiary amino acid structures of their carbohydrate-recognition domains (CRD). However there are several inconsistencies in this classification system (reviewed in [3] ).
+1	70	85 immune response	Gene_function	GO_0006955
+1	577	593 immunodeficiency	Phenotype	HP_0002721
+1	607	616 hepatitis	Phenotype	HP_0012115
+1	GO-HP	GO_0006955	HP_0002721
+1	GO-HP	GO_0006955	HP_0012115
+
+2|chunk|Glycosylation is a form of post-translational modification in which glycans-monosaccharides or oligosaccharides-are glycosidically bonded to an organic molecule (reviewed in [4] ). This modification plays an essential role in the expression and function of many proteins in eukaryotes and prokaryote cells, with roles in, for example, inter-compound interaction and pathogenic immune evasion. Eukaryotic and viral glycosylation occurs in the host cell endoplasmic reticulum (ER) and Golgi apparatus. Lectin-glycan interactions are generally achieved by hydrogen bonding and Van der Waals forces, and often depend on cations and multivalent interactions between multiple CRDs and multiple, clustered target glycans in order to achieve sufficient affinities for lectin activity [3] .
+2	0	13 Glycosylation	Gene_function	GO_0070085
+2	27	58 post-translational modification	Gene_function	GO_0043687
+2	414	427 glycosylation	Gene_function	GO_0070085
+2	442	451 host cell	Gene_function	GO_0043657
+2	442	473 host cell endoplasmic reticulum	Gene_function	GO_0044165
+2	452	473 endoplasmic reticulum	Gene_function	GO_0005783
+
+3|chunk|The roles of human lectins include protein modulation, cell growth and homeostasis [4] . As glycoproteins are found on the surfaces of several pathogens to a diverse and widespread degree, some lectins act as pattern-recognition receptors (PRRs), recognising pathogen-associated molecular patterns (PAMPs)-including glycans and nucleic acid-related to invading microorganisms and malignant, apoptotic or dead host cells. This can lead to the induction of an immune response against the invading pathogen. However, the relationship between lectins and viruses is complex. In addition to immune evasion, glycosylation is essential for protein expression, assembly and entry steps in virus replication cycles [5] , and many viruses have evolved mechanisms to exploit lectins to enhance infection.
+3	55	66 cell growth	Gene_function	GO_0016049
+3	60	66 growth	Gene_function	GO_0040007
+3	71	82 homeostasis	Gene_function	GO_0042592
+3	458	473 immune response	Gene_function	GO_0006955
+3	602	615 glycosylation	Gene_function	GO_0070085
+
+4|chunk|This review focuses on human lectins and their roles during viral infections, concentrating on the well-described lectins mannose-binding lectin (MBL), ficolins and dendritic cell-specific ICAM-3 grabbing non-integrin (DC-SIGN). It highlights the different effects of lectins on viral infections and the consequences of genetic variation in lectin genes on susceptibility to virus infections.
+
+5|chunk|Complement contributes towards the initial defence against viral infections through a sequential protein activation cascade (reviewed in [6] ). There are three known complement activation pathways. Each pathway converges at the formation of C3 convertase, which activates downstream complement factors to constitute the membrane attack complex (MAC). The MAC subsequently forms pores in the lipid membranes of pathogens and infected cells, causing osmotic lysis. Parallel to the cascade, some complement cleavage products mediate inflammation and opsonise pathogens, attracting phagocytes, encouraging antigen aggregation and preventing viral entry. To avoid potentially damaging, excessive complement activity, stringent regulation mechanisms have evolved, including complement factor cleavage and endocytotic shedding of MACs.
+5	97	123 protein activation cascade	Gene_function	GO_0072376
+5	166	187 complement activation	Gene_function	GO_0006956
+5	320	328 membrane	Gene_function	GO_0016020
+5	320	343 membrane attack complex	Gene_function	GO_0005579
+5	355	358 MAC	Gene_function	GO_0005579
+
+6|chunk|The alternate and classical complement pathways are triggered by foreign surface molecules and antigen:antibody complexes, respectively. The lectin pathway involves the binding of microbial surface carbohydrate moieties to serum lectins, which activates lectin-bound MBL-associated serine proteases (MASPs) and proteins (MAPs) (Figure 1 ).
+6	169	176 binding	Gene_function	GO_0005488
+

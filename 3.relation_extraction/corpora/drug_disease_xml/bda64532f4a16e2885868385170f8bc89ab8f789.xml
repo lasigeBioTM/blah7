@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<document id="bda64532f4a16e2885868385170f8bc89ab8f789">
+  <chunk id="bda64532f4a16e2885868385170f8bc89ab8f789.c0" text="Eukaryotic Initiation Factor 2α -a Downstream Effector of Mammalian Target of Rapamycin -Modulates DNA Repair and Cancer Response to Treatment">
+    <entity charOffset="46-54" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e0" ontology_id="CHEBI_35224" text="Effector" type="chemical"/>
+    <entity charOffset="78-87" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e1" ontology_id="CHEBI_9168" text="Rapamycin" type="chemical"/>
+    <entity charOffset="99-102" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e2" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="114-120" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e3" ontology_id="DOID_162" text="Cancer" type="disease"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e0" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.p0" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e1" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.p1" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e2" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c0.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="bda64532f4a16e2885868385170f8bc89ab8f789.c1" text="In an effort to circumvent resistance to rapamycin -an mTOR inhibitor -we searched for novel rapamycindownstream-targets that may be key players in the response of cancer cells to therapy. We found that rapamycin, at nM concentrations, increased phosphorylation of eukaryotic initiation factor (eIF) 2α in rapamycin-sensitive and estrogen-dependent MCF-7 cells, but had only a minimal effect on eIF2α phosphorylation in the rapamycininsensitive triple-negative MDA-MB-231 cells. Addition of salubrinal -an inhibitor of eIF2α dephosphorylationdecreased expression of a surface marker associated with capacity for self renewal, increased senescence and induced clonogenic cell death, suggesting that excessive phosphorylation of eIF2α is detrimental to the cells' survival. Treating cells with salubrinal enhanced radiation-induced increase in eIF2α phosphorylation and clonogenic death and showed that irradiated cells are more sensitive to increased eIF2α phosphorylation than non-irradiated ones. Similar to salubrinal -the phosphomimetic eIF2α variant -S51D -increased sensitivity to radiation, and both abrogated radiation-induced increase in breast cancer type 1 susceptibility gene, thus implicating enhanced phosphorylation of eIF2α in modulation of DNA repair. Indeed, salubrinal inhibited non-homologous end joining as well as homologous recombination repair of double strand breaks that were induced by I-SceI in green fluorescent protein reporter plasmids. In addition to its effect on radiation, salubrinal enhanced eIF2α phosphorylation and clonogenic death in response to the histone deacetylase inhibitor -vorinostat. Finally, the catalytic competitive inhibitor of mTOR -Ku-0063794 -increased phosphorylation of eIF2α demonstrating further the involvement of mTOR activity in modulating eIF2α phosphorylation. These experiments suggest that excessive phosphorylation of eIF2α decreases survival of cancer cells; making eIF2α a worthy target for drug development, with the potential to enhance the cytotoxic effects of established anti-neoplastic therapies and circumvent resistance to rapalogues and possibly to other drugs that inhibit upstream components of the mTOR pathway.">
+    <entity charOffset="41-50" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e0" ontology_id="CHEBI_9168" text="rapamycin" type="chemical"/>
+    <entity charOffset="55-69" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e1" ontology_id="CHEBI_68481" text="mTOR inhibitor" type="chemical"/>
+    <entity charOffset="60-69" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e2" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="164-170" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="203-212" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e4" ontology_id="CHEBI_9168" text="rapamycin" type="chemical"/>
+    <entity charOffset="295-298" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e5" ontology_id="CHEBI_73497" text="eIF" type="chemical"/>
+    <entity charOffset="491-501" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e6" ontology_id="CHEBI_131923" text="salubrinal" type="chemical"/>
+    <entity charOffset="506-515" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e7" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="792-802" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e8" ontology_id="CHEBI_131923" text="salubrinal" type="chemical"/>
+    <entity charOffset="1009-1019" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e9" ontology_id="CHEBI_131923" text="salubrinal" type="chemical"/>
+    <entity charOffset="1146-1159" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" ontology_id="DOID_1612" text="breast cancer" type="disease"/>
+    <entity charOffset="1153-1159" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="1256-1259" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e12" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="1276-1286" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e13" ontology_id="CHEBI_131923" text="salubrinal" type="chemical"/>
+    <entity charOffset="1440-1447" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e14" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1507-1517" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e15" ontology_id="CHEBI_131923" text="salubrinal" type="chemical"/>
+    <entity charOffset="1589-1596" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e16" ontology_id="CHEBI_15358" text="histone" type="chemical"/>
+    <entity charOffset="1589-1618" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e17" ontology_id="CHEBI_61115" text="histone deacetylase inhibitor" type="chemical"/>
+    <entity charOffset="1609-1618" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e18" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="1667-1676" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e19" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="1913-1919" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="1960-1964" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e21" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="2133-2138" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e22" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e0" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p0" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e0" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p1" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e0" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p2" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e0" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p3" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e1" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p4" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e1" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p5" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e1" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p6" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e1" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p7" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e2" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p8" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e2" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p9" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e2" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p10" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e2" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p11" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e4" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p12" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e5" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p13" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e6" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p14" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e7" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p15" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e8" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p16" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e9" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p17" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e12" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p18" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e13" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p19" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e14" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p20" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e15" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p21" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e16" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p22" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e17" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p23" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e18" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p24" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e19" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p25" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e21" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p26" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e3" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e22" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p27" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e4" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p28" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e4" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p29" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e4" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p30" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e5" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p31" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e5" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p32" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e5" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p33" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e6" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p34" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e6" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p35" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e6" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p36" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e7" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p37" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e7" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p38" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e7" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p39" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e8" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p40" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e8" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p41" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e8" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p42" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e9" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p43" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e9" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p44" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e9" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p45" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e12" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p46" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e13" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p47" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e14" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p48" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e15" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p49" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e16" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p50" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e17" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p51" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e18" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p52" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e19" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p53" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e21" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p54" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e10" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e22" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p55" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e12" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p56" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e13" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p57" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e14" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p58" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e15" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p59" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e16" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p60" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e17" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p61" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e18" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p62" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e19" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p63" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e21" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p64" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e11" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e22" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p65" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e12" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p66" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e13" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p67" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e14" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p68" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e15" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p69" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e16" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p70" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e17" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p71" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e18" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p72" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e19" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p73" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e21" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p74" relation="true"/>
+    <pair e1="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e20" e2="bda64532f4a16e2885868385170f8bc89ab8f789.c1.e22" id="bda64532f4a16e2885868385170f8bc89ab8f789.c1.p75" relation="true"/>
+  </chunk>
+</document>

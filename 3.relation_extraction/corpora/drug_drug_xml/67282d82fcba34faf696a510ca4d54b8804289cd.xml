@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<document id="67282d82fcba34faf696a510ca4d54b8804289cd">
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c0" text="Development of a phage Display panning strategy Utilizing Crude Antigens: Isolation of MeRs-CoV Nucleoprotein human antibodies"/>
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c1" text="Antibody phage display has been pivotal in the quest to generate human monoclonal antibodies for biomedical and research applications. target antigen preparation is a main bottleneck associated with the panning process. This includes production complexity, downstream purification, quality and yield. In many instances, purified antigens are preferred for panning but this may not be possible for certain difficult target antigens. Here, we describe an improved procedure of affinity selection against crude or non-purified antigen by saturation of non-binders with blocking agents to promote positive binder enrichment termed as Yin-Yang panning. A naïve human scFv library with kappa light chain repertoire with a library size of 10 9 was developed. the improved Yin-Yang biopanning process was able to enrich monoclonal antibodies specific to the MERS-CoV nucleoprotein. Three unique monoclonal antibodies were isolated in the process. the Yin-Yang biopanning method highlights the possibility of utilizing crude antigens for the isolation of monoclonal antibodies by phage display.">
+    <entity charOffset="142-149" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="329-337" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e1" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="422-430" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e2" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="524-531" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="686-691" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" ontology_id="CHEBI_30212" text="light" type="chemical"/>
+    <entity charOffset="1016-1024" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e5" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e1" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p0" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p1" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p2" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p3" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p4" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p5" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p6" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p7" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p8" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p9" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c1.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c1.p10" relation="true"/>
+  </chunk>
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c2" text="Phage display technology is regarded as an important tool used for the discovery of novel ligands against various targets of interest 1 . It has since been widely employed for the in vitro development of monoclonal antibodies, trading places with the conventional hybridoma technology which was still mainly animal host dependent 2,3 . A detailed review on antibody phage display is provided by Ponsel, et al. 4 , Tohidkia, et al. 5 and Zhao, et al. 6 . To identify a target specific antibody, an in vitro selection process underlined by the affinity enrichment concept known as biopanning is commonly used 2 . The affinity enrichment process involves several steps: immobilization of target antigen, binding of phage to target antigen, elimination of unbound phage and elution of phage 7 . The target antigens used for biopanning includes recombinant proteins, peptides, tissues and whole cells 8, 9 . The main assurance is that these proteins are mainly prepared with good purity and yield. This is evident with the reports of antibody development for dengue virus 10 , herpes simplex virus 11 , cytomegalovirus 11 , Zika virus 12 , Ebola virus 7,13 , Plasmodium species 14 , Mycobacterium tuberculosis 15 , and nematodes responsible for filariasis 16 .">
+    <entity charOffset="90-97" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e0" ontology_id="CHEBI_52214" text="ligands" type="chemical"/>
+    <entity charOffset="802-810" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e1" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="852-860" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="936-944" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e1" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.p0" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.p1" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.p2" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.p3" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c2.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c2.p4" relation="true"/>
+  </chunk>
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c3" text="Nevertheless, several complications can be anticipated during antigen expression that hinders the availability of a target antigen for biopanning. Initially, solubility of the antigen is governed by the secretion of antigen into the cytoplasm (soluble form), periplasm (soluble form) and as inclusion body (insoluble form due to protein aggregation). Soluble proteins are desirable for protein purification whilst insoluble proteins must be solubilized, purified and re-folded. To overcome this issue, one has to go through a vigorous optimization process which includes cultivation temperature and conditions, expression using different E. coli expression hosts, co-expression with molecular chaperones, folding modulators and fusion partner proteins. A detailed explanation of recombinant protein expression has been reviewed by Gupta and Shukla 17 and Rosano and Ceccarelli 18 . On top of that, another obstacle in the quest for recombinant protein production is the purification process. Protein purification from crude extracts using chromatography approaches caters to different properties of the protein. A common approach to capture the desired protein independent of unwanted proteins is by using affinity tags like His6x and glutathione-S-transferase to facilitate the purification process 19-21 . Even so, the purification scheme also requires tedious optimization in order to acquire a product of highest purity. All in all, the recombinant antigen has to be pure and abundant before it can be used for biopanning. Hence, this presents a major limitation when attempting to develop antibodies against challenging target antigens.">
+    <entity charOffset="62-69" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="123-130" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="176-183" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="216-223" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="329-336" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="359-367" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="386-393" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="424-432" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="743-751" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="791-798" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="944-951" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="992-999" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="1103-1110" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1153-1160" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1185-1193" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1453-1460" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p0" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p1" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p2" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p3" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p4" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p5" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p6" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p7" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p8" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p9" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p10" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p11" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p12" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p13" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p14" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p15" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p16" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p17" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p18" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p19" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p20" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p21" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p22" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p23" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p24" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p25" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p26" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p27" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p28" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p29" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p30" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p31" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p32" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p33" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p34" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p35" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p36" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p37" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p38" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p39" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p40" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p41" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p42" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p43" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p44" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p45" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p46" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p47" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p48" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p49" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p50" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p51" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p52" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p53" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p54" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p55" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p56" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p57" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p58" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p59" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p60" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p61" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p62" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p63" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p64" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p65" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p66" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p67" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p68" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p69" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p70" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p71" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p72" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e8" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p73" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p74" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p75" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e9" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p76" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p77" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p78" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e10" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p79" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p80" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p81" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p82" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e11" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p83" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p84" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e12" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p85" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p86" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e13" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p87" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e14" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c3.e15" id="67282d82fcba34faf696a510ca4d54b8804289cd.c3.p88" relation="true"/>
+  </chunk>
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c4" text="In light of this, the establishment of a viable procedure for the selection of a desired antigen in crude preparation is of major interest. Herein, we propose a proof of concept panning process coined 'Yin-Yang' panning using antigen preparations devoid of purification for biopanning. We applied the process to isolate monoclonal scFv against the Middle East respiratory syndrome coronavirus (MERS-CoV) nucleoprotein (MERS-NP). The 'Yin-Yang' concept takes its name from the Taoist concept of duality in striking a balance to form a whole. Here, the crude extract consisting of the antigen of interest in its native form alongside the endogenous E. coli proteins are used to achieve a balance between positive and negative selection. Due to the complex microenvironment during target enrichment, reducing non-specific binding interaction to E. coli proteins and blocking agents is paramount to allow effective antigen-antibody interaction to take place. A capture and elimination step was introduced prior to biopanning to remove the influence of binders against the non-target proteins. The complete workflow is outlined in the following schematic diagram (Fig. 1 ). The proposed approach was able to isolate monoclonal scFv clones against the MERS-NP utilizing a crude preparation. The antibodies were verified and identified for specificity against MERS-NP. This approach highlights the possibility of carrying out antibody phage display biopanning using crude antigens to identify antigen specific monoclonal antibodies.">
+    <entity charOffset="3-8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" ontology_id="CHEBI_30212" text="light" type="chemical"/>
+    <entity charOffset="89-96" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="226-233" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="583-590" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="655-663" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="850-858" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1079-1087" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1465-1473" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="1486-1493" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p0" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p1" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p2" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p3" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p4" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p5" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p6" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p7" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p8" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p9" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p10" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p11" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p12" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p13" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p14" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p15" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p16" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p17" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p18" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p19" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p20" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p21" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p22" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e5" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p23" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p24" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e6" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p25" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e7" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c4.e8" id="67282d82fcba34faf696a510ca4d54b8804289cd.c4.p26" relation="true"/>
+  </chunk>
+  <chunk id="67282d82fcba34faf696a510ca4d54b8804289cd.c5" text="Antigen preparation. The recombinant ubiquitin (rUbi) protein and its complementary E. coli lysate were prepared for the biopanning simulations while the rMERS-NP and its complementary E. coli lysate were produced for 'Yin-Yang' biopanning. The rUbi and rMERS-NP as well as their complementary E. coli lysates were successfully expressed utilizing similar host strains. The rUbi and rMERS-NP preparations were extracted and analysed with 12% SDS-PAGE. The crude extracts showed the presence of the other non-target proteins with a similar profile to the antigen preparations (Fig. 2a) . The overexpression of rUbi and rMERS-NP were also visible in their respective crude preparations as a thicker band. Purification of the rUbi was carried out and the presence of the antigens were confirmed via Western Blotting using the His 6 -tagged secondary antibodies (Fig. 2b) . The rUbi showed a specific band at the expected size of ~17 kDa with good yield and purity. The expected band size for rMERS-NP protein was ~46 kDa.">
+    <entity charOffset="0-7" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" ontology_id="CHEBI_59132" text="Antigen" type="chemical"/>
+    <entity charOffset="54-61" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="515-523" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="554-561" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="768-776" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="998-1005" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e1" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p0" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p1" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p2" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p3" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e0" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p4" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p5" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p6" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e1" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p7" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p8" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p9" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e2" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p10" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p11" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e3" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p12" relation="true"/>
+    <pair e1="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e4" e2="67282d82fcba34faf696a510ca4d54b8804289cd.c5.e5" id="67282d82fcba34faf696a510ca4d54b8804289cd.c5.p13" relation="true"/>
+  </chunk>
+</document>

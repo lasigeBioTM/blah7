@@ -1,0 +1,107 @@
+0|chunk|octa-repeat domain of the mammalian prion protein mRNA forms stable A-helical hairpin structure rather than G-quadruplexes opeN
+0	42	49 protein	Chemical	CHEBI_16541
+0	50	54 mRNA	Chemical	CHEBI_33699
+
+1|chunk|Jakob disease (CJD) and scrapie. Besides the consensus that spontaneous conversion of normal cellular prp C into misfolded and aggregating prp sc is the central event in prion disease, an alternative hypothesis suggests the generation of pathological prp sc by rare translational frameshifting events in the octa-repeat domain of the prp mRNA. Ribosomal frameshifting most commonly relies on a slippery site and an adjacent stable RNA structure to stall translating ribosome. Hence, it is crucial to unravel the secondary structure of the octa-repeat domain of PrP mRNA. Each of the five octa-repeats contains a motif (GGCGGUGGUGGCUGGG) which alone in vitro forms a G-quadruplex. since the propensity of mRNA to form secondary structure depends on the sequence context, we set to determine the structure of the complete octa-repeat region. We assessed the structure of full-length octa-repeat domain of prp mRNA using dynamic light scattering (DLs), small angle X-ray scattering (sAXs), circular dichroism (CD) spectroscopy and selective 2-hydroxyl acylation analysis by primer extension (sHApe). our data show that the prp octa-repeat mRNA forms stable A-helical hairpins with no evidence of G-quadruplex structure even in the presence of G-quadruplex stabilizing agents.
+1	6	13 disease	Disease	DOID_4
+1	15	18 CJD	Disease	DOID_11949
+1	102	105 prp	Chemical	CHEBI_144903
+1	139	142 prp	Chemical	CHEBI_144903
+1	176	183 disease	Disease	DOID_4
+1	251	254 prp	Chemical	CHEBI_144903
+1	334	337 prp	Chemical	CHEBI_144903
+1	338	342 mRNA	Chemical	CHEBI_33699
+1	431	434 RNA	Chemical	CHEBI_33697
+1	561	564 PrP	Chemical	CHEBI_144903
+1	565	569 mRNA	Chemical	CHEBI_33699
+1	704	708 mRNA	Chemical	CHEBI_33699
+1	903	906 prp	Chemical	CHEBI_144903
+1	907	911 mRNA	Chemical	CHEBI_33699
+1	926	931 light	Chemical	CHEBI_30212
+1	1121	1124 prp	Chemical	CHEBI_144903
+1	1137	1141 mRNA	Chemical	CHEBI_33699
+1	DOID-CHEBI	DOID_4	CHEBI_144903
+1	DOID-CHEBI	DOID_4	CHEBI_33699
+1	DOID-CHEBI	DOID_4	CHEBI_33697
+1	DOID-CHEBI	DOID_4	CHEBI_30212
+1	DOID-CHEBI	DOID_11949	CHEBI_144903
+1	DOID-CHEBI	DOID_11949	CHEBI_33699
+1	DOID-CHEBI	DOID_11949	CHEBI_33697
+1	DOID-CHEBI	DOID_11949	CHEBI_30212
+
+2|chunk|Alternatively folded form of mammalian prion protein (PrP), broadly termed PrP Sc (Sc = scrapie), is the molecular culprit of transmissible spongiform encephalopathies (TSE), fatal neurodegenerative diseases of infectious, hereditary, or spontaneous origin in susceptible hosts 1,2 . At the molecular level, misfolding and aggregation of PrP are associated with disease and its propagation. Consequently, seeding-induced aggregation serves as a sensitive assay of potential infectivity 3,4 . However, there is still debate about what initially triggers chain-reaction conformational changes in the PrP that dominates most infectious preparations 5 . Many studies convincingly suggest structural transition from -helical to -sheet structures in the C-terminal region of PrP 6 . Alternatively, other studies indicate the obligatory involvement of the N-terminal region 7-9 , e.g., amino acid residues 23-100 in human PrP, which is intrinsically disordered in aqueous solution 10 . The N-terminal region is capable of binding metal ions and polyanions, and following structural transitions it interacts with other cellular proteins, such as the neuronal cell adhesion molecule fibronectin domain 11 . In particular, the octa-repeat region (amino acid residues 51-91) within the N-terminal domain of PrP appears crucial for aggregation 12 . Interestingly, this region contains a variable number of octa-repeats both within individuals of any mammalian species and between the predominant phenotypes from any species. Most commonly, unaffected individual humans have four or five repeats but up to 13 repeats are associated with inherited disease, with an apparent dose-dependent effect in the penetrance and severity of hereditary TSE with increasing repeat number expansion 13,14 .
+2	45	52 protein	Chemical	CHEBI_16541
+2	75	78 PrP	Chemical	CHEBI_144903
+2	338	341 PrP	Chemical	CHEBI_144903
+2	362	369 disease	Disease	DOID_4
+2	598	601 PrP	Chemical	CHEBI_144903
+2	771	774 PrP	Chemical	CHEBI_144903
+2	881	886 amino	Chemical	CHEBI_46882
+2	881	891 amino acid	Chemical	CHEBI_33704
+2	887	891 acid	Chemical	CHEBI_37527
+2	917	920 PrP	Chemical	CHEBI_144903
+2	967	975 solution	Chemical	CHEBI_75958
+2	1031	1035 ions	Chemical	CHEBI_24870
+2	1167	1175 molecule	Chemical	CHEBI_25367
+2	1176	1187 fibronectin	Chemical	CHEBI_5058
+2	1239	1244 amino	Chemical	CHEBI_46882
+2	1239	1249 amino acid	Chemical	CHEBI_33704
+2	1245	1249 acid	Chemical	CHEBI_37527
+2	1298	1301 PrP	Chemical	CHEBI_144903
+2	1636	1643 disease	Disease	DOID_4
+2	CHEBI-DOID	CHEBI_16541	DOID_4
+2	CHEBI-DOID	CHEBI_144903	DOID_4
+2	DOID-CHEBI	DOID_4	CHEBI_46882
+2	DOID-CHEBI	DOID_4	CHEBI_33704
+2	DOID-CHEBI	DOID_4	CHEBI_37527
+2	DOID-CHEBI	DOID_4	CHEBI_75958
+2	DOID-CHEBI	DOID_4	CHEBI_24870
+2	DOID-CHEBI	DOID_4	CHEBI_25367
+2	DOID-CHEBI	DOID_4	CHEBI_5058
+
+3|chunk|The discovery of a short -1 trans-frame product of the PrP gene termed "alternative PrP" (Alt-PrP) and spanning the octa-repeat region 15 , suggests the potential involvement of ribosomal frameshifting in the molecular processes whereby the infectious form of PrP is produced in cells 16 . Alt-PrP is formed when translation is initiated at an alternative AUG codon in the -1 reading frame at 90-92 bp in the human ORF and terminated at the first stop codon encountered in that frame (TAA at 309-311 bp). A slightly longer version of Alt-PrP could be produced as a result of translation initiation at the canonical start codon followed by ribosomal frameshifting at a suitable site in the octa-repeat region of the PrP ORF. Programmed -1 ribosomal frameshifting primarily described in viruses 17 has also been reported in bacteria 18,19 , yeast 20 , as well as mice and humans 21, 22 . Two elements embedded in the mRNA stimulate frameshifting: first, a slippery sequence, usually with the pattern X XXY YYZ, which is shifted to XXX YYY -both decoded by the same tRNAs through XX(Y/X) and YY(Z/Y) codon wobbling 23 ; second, downstream of the slippery site, a stable RNA secondary structure, e.g., stem-loop 24,25 , pseudoknot 25,26 or G-quadruplex 27,28 . Intriguingly, the octa-repeat region of PrP mRNA is known to have a rich potential to form stem-loop 29 , pseudoknot 30 or G-quadruplex 31 structures, all of which are associated with programmed frameshift events in other contexts 17 , but there is a dearth of experimental evidence which would verify any role for these structures 32 . Our interest was raised by the most recent study on PrP mRNA structure which suggested G-quadruplexes 31 , since it has been shown that G-quadruplexes in combination with an adjacent appropriate slippery site stimulate frameshifting 27,28 . Each of the five nearly identical 24-nt motifs in the human mRNA bears a potential unusual slippery site (C UGG GGG). Upon 1 frameshifting the A-site codon GGG could re-pair to the same tRNA, whereas the P-site codon would not re-pair. The 1 trans-frame product would be rich in hydrophobic amino acids, especially tryptophanes, potentially increasing the misfolding and aggregation propensity of such a PrP variant. In this study, we set out to determine the solution structure of the mRNA encoding the PrP octa-repeat region (94-288 nt of human ORF). Olsthoorn found that the PrP octa-repeat region has a propensity to form G-quadruplexes, but fairly short (24 nt) sequences, which form a G-quadruplex in the presence of KCl were used 31 . However, these structures compete with stem-loop formation in the presence of MgCl 2 31 . Thus, we analyzed the whole 195 nt-long octa-repeat region. We hypothesized two alternative outcomes: 1) the accumulation of five G-quadruplexes within the octa-repeat domain would have a stacking effect 33,34 leading to potential stabilization of the G-quadruplexes; or 2) the flanking sequences would outcompete the G-quadruplex formation, resulting in the complete octa-repeat domain taking up an alternative structure.
+3	55	58 PrP	Chemical	CHEBI_144903
+3	84	87 PrP	Chemical	CHEBI_144903
+3	260	263 PrP	Chemical	CHEBI_144903
+3	415	418 ORF	Disease	DOID_8771
+3	485	488 TAA	Chemical	CHEBI_32497
+3	715	718 PrP	Chemical	CHEBI_144903
+3	719	722 ORF	Disease	DOID_8771
+3	890	898 elements	Chemical	CHEBI_33250
+3	915	919 mRNA	Chemical	CHEBI_33699
+3	1167	1170 RNA	Chemical	CHEBI_33697
+3	1297	1300 PrP	Chemical	CHEBI_144903
+3	1301	1305 mRNA	Chemical	CHEBI_33699
+3	1563	1567 role	Chemical	CHEBI_50906
+3	1646	1649 PrP	Chemical	CHEBI_144903
+3	1650	1654 mRNA	Chemical	CHEBI_33699
+3	1895	1899 mRNA	Chemical	CHEBI_33699
+3	1992	1995 GGG	Chemical	CHEBI_63961
+3	2128	2133 amino	Chemical	CHEBI_46882
+3	2241	2244 PrP	Chemical	CHEBI_144903
+3	2297	2305 solution	Chemical	CHEBI_75958
+3	2323	2327 mRNA	Chemical	CHEBI_33699
+3	2341	2344 PrP	Chemical	CHEBI_144903
+3	2415	2418 PrP	Chemical	CHEBI_144903
+3	2560	2563 KCl	Chemical	CHEBI_32588
+3	CHEBI-DOID	CHEBI_144903	DOID_8771
+3	DOID-CHEBI	DOID_8771	CHEBI_32497
+3	DOID-CHEBI	DOID_8771	CHEBI_33250
+3	DOID-CHEBI	DOID_8771	CHEBI_33699
+3	DOID-CHEBI	DOID_8771	CHEBI_33697
+3	DOID-CHEBI	DOID_8771	CHEBI_50906
+3	DOID-CHEBI	DOID_8771	CHEBI_63961
+3	DOID-CHEBI	DOID_8771	CHEBI_46882
+3	DOID-CHEBI	DOID_8771	CHEBI_75958
+3	DOID-CHEBI	DOID_8771	CHEBI_32588
+
+4|chunk|the full-length prp octa-repeat domain does not form G-quadruplexes. Since short stretches of the PrP octa-repeat mRNA form G-quadruplexes 31 , we first addressed whether the complete octa-repeat mRNA can form such structures. A negative control incapable of forming G-quadruplexes (G4, Fig. 1a ) was generated in which cytosine residues were strategically substituted for guanine residues. The chosen mutations would also impair pseudoknot formation in the octa-repeat RNA, which had been proposed earlier 30 . Both wildtype (wt) and G4 PrP octa-repeat stretches were transcribed in vitro and analyzed by native agarose gel electrophoresis.
+4	16	19 prp	Chemical	CHEBI_144903
+4	98	101 PrP	Chemical	CHEBI_144903
+4	114	118 mRNA	Chemical	CHEBI_33699
+4	196	200 mRNA	Chemical	CHEBI_33699
+4	321	329 cytosine	Chemical	CHEBI_16040
+4	374	381 guanine	Chemical	CHEBI_16235
+4	540	543 PrP	Chemical	CHEBI_144903
+4	615	622 agarose	Chemical	CHEBI_2511
+

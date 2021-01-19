@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<document id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a">
+  <chunk id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c0" text="The effect of inhibition of PP1 and TNFα signaling on pathogenesis of SARS coronavirus">
+    <entity charOffset="41-50" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c0.e0" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="54-66" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c0.e1" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+  </chunk>
+  <chunk id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1" text="Background: The complex interplay between viral replication and host immune response during infection remains poorly understood. While many viruses are known to employ anti-immune strategies to facilitate their replication, highly pathogenic virus infections can also cause an excessive immune response that exacerbates, rather than reduces pathogenicity. To investigate this dichotomy in severe acute respiratory syndrome coronavirus (SARS-CoV), we developed a transcriptional network model of SARS-CoV infection in mice and used the model to prioritize candidate regulatory targets for further investigation.">
+    <entity charOffset="69-84" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e0" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+    <entity charOffset="287-302" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e1" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+    <entity charOffset="389-395" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e2" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="396-401" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e3" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e0" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e2" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.p0" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e0" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e3" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.p1" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e1" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e2" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.p2" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e1" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.e3" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c1.p3" relation="true"/>
+  </chunk>
+  <chunk id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2" text="Results: We validated our predictions in 18 different knockout (KO) mouse strains, showing that network topology provides significant predictive power to identify genes that are important for viral infection. We identified a novel player in the immune response to virus infection, Kepi, an inhibitory subunit of the protein phosphatase 1 (PP1) complex, which protects against SARS-CoV pathogenesis. We also found that receptors for the proinflammatory cytokine tumor necrosis factor alpha (TNFα) promote pathogenesis, presumably through excessive inflammation. Conclusions: The current study provides validation of network modeling approaches for identifying important players in virus infection pathogenesis, and a step forward in understanding the host response to an important infectious disease. The results presented here suggest the role of Kepi in the host response to SARS-CoV, as well as inflammatory activity driving pathogenesis through TNFα signaling in SARS-CoV infections. Though we have reported the utility of this approach in bacterial and cell culture studies previously, this is the first comprehensive study to confirm that network topology can be used to predict phenotypes in mice with experimental validation.">
+    <entity charOffset="245-260" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e0" ontology_id="GO_0006955" text="immune response" type="gene_function"/>
+    <entity charOffset="324-335" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e1" ontology_id="GO_0016791" text="phosphatase" type="gene_function"/>
+    <entity charOffset="385-397" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e2" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="461-466" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="467-475" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e4" ontology_id="GO_0001906" text="necrosis" type="gene_function"/>
+    <entity charOffset="504-516" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e5" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="696-708" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e6" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="927-939" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e7" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="953-962" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e8" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e0" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p0" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e1" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p1" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e2" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p2" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e4" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p3" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e5" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p4" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e6" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p5" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e7" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p6" relation="true"/>
+    <pair e1="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e3" e2="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.e8" id="a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a.c2.p7" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,73 @@
+0|chunk|The Lymphocytic Choriomeningitis Virus Matrix Protein PPXY Late Domain Drives the Production of Defective Interfering Particles
+0	4	32 Lymphocytic Choriomeningitis	Disease	DOID_12155
+0	46	53 Protein	Chemical	CHEBI_16541
+0	DOID-CHEBI	DOID_12155	CHEBI_16541
+
+1|chunk|Arenaviruses cause severe diseases in humans but establish asymptomatic, lifelong infections in rodent reservoirs. Persistently-infected rodents harbor high levels of defective interfering (DI) particles, which are thought to be important for establishing persistence and mitigating virus-induced cytopathic effect. Little is known about what drives the production of DI particles. We show that neither the PPXY late domain encoded within the lymphocytic choriomeningitis virus (LCMV) matrix protein nor a functional endosomal sorting complex transport (ESCRT) pathway is absolutely required for the generation of standard infectious virus particles. In contrast, DI particle release critically requires the PPXY late domain and is ESCRT-dependent. Additionally, the terminal tyrosine in the PPXY motif is reversibly phosphorylated and our findings indicate that this posttranslational modification may regulate DI particle formation. Thus we have uncovered a new role for the PPXY late domain and a possible mechanism for its regulation.
+1	443	471 lymphocytic choriomeningitis	Disease	DOID_12155
+1	492	499 protein	Chemical	CHEBI_16541
+1	561	568 pathway	Chemical	CHEBI_34922
+1	776	784 tyrosine	Chemical	CHEBI_17895
+1	776	784 tyrosine	Chemical	CHEBI_18186
+1	964	968 role	Chemical	CHEBI_50906
+1	DOID-CHEBI	DOID_12155	CHEBI_16541
+1	DOID-CHEBI	DOID_12155	CHEBI_34922
+1	DOID-CHEBI	DOID_12155	CHEBI_17895
+1	DOID-CHEBI	DOID_12155	CHEBI_18186
+1	DOID-CHEBI	DOID_12155	CHEBI_50906
+
+2|chunk|Arenaviruses cause severe and often fatal diseases in humans yet typically establish lifelong, asymptomatic infections in their rodent reservoirs. Several families of enveloped RNA viruses, including the arenaviruses, encode short amino acid motifs, called late domains, to hijack host proteins in the endosomal sorting complex required for transport (ESCRT) to drive the release of virus particles from the host cell's outer membrane. Many late domain-containing viruses produce defective interfering (DI) particles in addition to standard, infectious virus. DI particles cannot self-replicate but interfere with the production of infectious virus and mitigate virus-induced cytopathic effect. Arenaviruses such as PLOS Pathogens | lymphocytic choriomeningitis virus (LCMV) generate high levels of DI particles, yet, the mechanism that drives their formation is not known. We show that LCMV's only encoded late domain, PPXY, and a functional ESCRT pathway are critical for DI particle production, but in contrast, are not absolutely required for infectious virus production. We also demonstrate that the LCMV PPXY late domain is phosphorylated and that this modification may regulate DI particle production. In summary, we have discovered a new and unexpected role for a viral late domain in selectively driving the production of DI particles independently of standard infectious virus particles.
+2	177	180 RNA	Chemical	CHEBI_33697
+2	231	236 amino	Chemical	CHEBI_46882
+2	231	241 amino acid	Chemical	CHEBI_33704
+2	237	241 acid	Chemical	CHEBI_37527
+2	286	294 proteins	Chemical	CHEBI_36080
+2	733	761 lymphocytic choriomeningitis	Disease	DOID_12155
+2	949	956 pathway	Chemical	CHEBI_34922
+2	1261	1265 role	Chemical	CHEBI_50906
+2	CHEBI-DOID	CHEBI_33697	DOID_12155
+2	CHEBI-DOID	CHEBI_46882	DOID_12155
+2	CHEBI-DOID	CHEBI_33704	DOID_12155
+2	CHEBI-DOID	CHEBI_37527	DOID_12155
+2	CHEBI-DOID	CHEBI_36080	DOID_12155
+2	DOID-CHEBI	DOID_12155	CHEBI_34922
+2	DOID-CHEBI	DOID_12155	CHEBI_50906
+
+3|chunk|Arenaviruses are a family of rodent-borne viruses with a worldwide distribution. These viruses typically establish persistent, asymptomatic infections in rodent reservoir species [1]. In contrast, arenaviruses cause severe and often fatal diseases in humans. Several arenaviruses, including Lassa virus and Junn virus, cause hemorrhagic fever syndromes whereas infection with the prototypic arenavirus, lymphocytic choriomeningitis virus (LCMV), can lead to aseptic meningitis in immunocompetent individuals, high lethality in immunocompromised individuals, or severe birth defects in the developing fetus [2,3]. U.S. Food and Drug Administration-approved vaccines do not exist for the prevention of arenavirus infection and effective antiviral therapies have been limited to the use of ribavirin for Lassa virus [4] or immune plasma for Junn virus [5] .
+3	404	432 lymphocytic choriomeningitis	Disease	DOID_12155
+3	459	477 aseptic meningitis	Disease	DOID_12157
+3	467	477 meningitis	Disease	DOID_9471
+3	619	623 Food	Chemical	CHEBI_33290
+3	628	632 Drug	Chemical	CHEBI_23888
+3	736	745 antiviral	Chemical	CHEBI_22587
+3	788	797 ribavirin	Chemical	CHEBI_63580
+3	DOID-CHEBI	DOID_12155	CHEBI_33290
+3	DOID-CHEBI	DOID_12155	CHEBI_23888
+3	DOID-CHEBI	DOID_12155	CHEBI_22587
+3	DOID-CHEBI	DOID_12155	CHEBI_63580
+3	DOID-CHEBI	DOID_12157	CHEBI_33290
+3	DOID-CHEBI	DOID_12157	CHEBI_23888
+3	DOID-CHEBI	DOID_12157	CHEBI_22587
+3	DOID-CHEBI	DOID_12157	CHEBI_63580
+3	DOID-CHEBI	DOID_9471	CHEBI_33290
+3	DOID-CHEBI	DOID_9471	CHEBI_23888
+3	DOID-CHEBI	DOID_9471	CHEBI_22587
+3	DOID-CHEBI	DOID_9471	CHEBI_63580
+
+4|chunk|Arenaviruses are enveloped viruses with a single-stranded, bi-segmented RNA genome that encodes four proteins in an ambisense manner. The small (S) segment encodes the nucleoprotein (NP) and glycoprotein (GP) while the large (L) segment encodes the RNAdependent RNA polymerase (L) and the matrix protein (Z) [6] . Arenaviruses enter cells via receptor-mediated endocytosis [7], undergo genomic replication and transcription in the cytoplasm [6], and assemble and bud new particles at the plasma membrane [8] . The Z protein, which lines the luminal side of the viral membrane, is responsible for a number of critical functions in the virus life cycle, including driving the process of viral particle assembly and budding [9] . Accordingly, Z can form virus-like particles (VLPs) in the absence of other viral proteins and is thought to be both necessary and sufficient for driving the budding process [10, 11] .
+4	72	75 RNA	Chemical	CHEBI_33697
+4	101	109 proteins	Chemical	CHEBI_36080
+4	191	203 glycoprotein	Chemical	CHEBI_17089
+4	262	265 RNA	Chemical	CHEBI_33697
+4	296	303 protein	Chemical	CHEBI_16541
+4	516	523 protein	Chemical	CHEBI_16541
+4	541	548 luminal	Chemical	CHEBI_8069
+4	809	817 proteins	Chemical	CHEBI_36080
+
+5|chunk|Several VLP-based studies indicate that Z drives viral particle release by virtue of one or more encoded viral late domain(s) (P(S/T)AP, YXXL, and/or PPXY), which can recruit proteins from the cellular endosomal sorting complex required for transport (ESCRT) pathway [10] [11] [12] . ESCRT machinery is required for most cellular membrane scission events that result in separation away from the cytosol including multivesicular body formation and cellular abscission [13] [14] [15] . Many enveloped viruses are known to hijack cellular ESCRT machinery via their late domains to complete the final membrane scission step required for virions to bud from host membranes (for review see [16] ).
+5	175	183 proteins	Chemical	CHEBI_36080
+5	259	266 pathway	Chemical	CHEBI_34922
+
+6|chunk|Viruses from diverse families, including arenaviruses, produce defective interfering (DI) particles in addition to standard, infectious virus during the normal course of infection [17] . DI particles are largely similar to standard virus particles in their appearance and viral protein content but cannot self-replicate, and interfere with the production of homologous standard virus [17] . In many cases, the primary difference between DI particles and standard virus is thought to be the presence of deletions in the viral genome [18] . With regard to LCMV, small deletions in the terminal untranslated regions of genomic and antigenomic RNAs have been PPXY Late Domain Drives the Release of LCMV DI Particles PLOS Pathogens |
+6	278	285 protein	Chemical	CHEBI_16541
+

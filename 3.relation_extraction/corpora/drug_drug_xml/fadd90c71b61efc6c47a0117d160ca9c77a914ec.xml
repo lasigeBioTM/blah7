@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<document id="fadd90c71b61efc6c47a0117d160ca9c77a914ec">
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c0" text="Molecular Sciences A Single Cell but Many Different Transcripts: A Journey into the World of Long Non-Coding RNAs"/>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1" text="In late 2012 it was evidenced that most of the human genome is transcribed but only a small percentage of the transcripts are translated. This observation supported the importance of non-coding RNAs and it was confirmed in several organisms. The most abundant non-translated transcripts are long non-coding RNAs (lncRNAs). In contrast to protein-coding RNAs, they show a more cell-specific expression. To understand the function of lncRNAs, it is fundamental to investigate in which cells they are preferentially expressed and to detect their subcellular localization. Recent improvements of techniques that localize single RNA molecules in tissues like single-cell RNA sequencing and fluorescence amplification methods have given a considerable boost in the knowledge of the lncRNA functions. In recent years, single-cell transcription variability was associated with non-coding RNA expression, revealing this class of RNAs as important transcripts in the cell lineage specification. The purpose of this review is to collect updated information about lncRNA classification and new findings on their function derived from single-cell analysis. We also retained useful for all researchers to describe the methods available for single-cell analysis and the databases collecting single-cell and lncRNA data. Tables are included to schematize, describe, and compare exposed concepts.">
+    <entity charOffset="624-627" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="628-637" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e1" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="666-669" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="880-883" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e1" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.p0" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e2" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.p1" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.e3" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c2" text="Int. J. Mol. Sci. 2020, 21, 302 2 of 32 not achieved by transcription factors (TFs) alone because of their low number (approximately 1500 in mammals [4]) compared to genes to regulate (90% of the genome is transcribed in human [5]). A single TF is estimated to regulate only ten thousand genes according to Chromatin immunoprecipitation and DNA sequencing experiments (ChIp-seq) [6] . Moreover, the involvement of non-coding RNAs in gene expression regulation was evident [7, 8] . The evidence that the non-protein coding component of the human genome is actively transcribed and carries out crucial functions limits the importance of coding genes in genome regulation. Non-coding transcripts become one of the stars of modern biology, especially because of their involvement in a wide range of regulatory processes and changed the association of non-coding regions to junk DNA [3] .">
+    <entity charOffset="341-344" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c2.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="874-877" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c2.e1" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+  </chunk>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3" text="The genome of multicellular eukaryotes is mostly comprised of non-coding DNA (less than 2% of the human genome codes for proteins [9] while 90% of the human genome is transcribed). Non-coding DNA is transcribed into different classes of non-coding RNAs (ncRNAs) that include structural RNAs (rRNAs and tRNAs) and regulatory RNAs [10] . rRNAs and tRNAs are involved in mRNA translation and can be long or short in size. Regulatory RNAs are further divided into three classes: Small, medium, and long non-coding RNAs. Small non-coding RNAs are between 20 and 50 nucleotides long and include microRNAs (miRNAs) that participate in post-transcriptional regulation [11] , small interfering RNAs (siRNAs) that are double-stranded RNAs involved in gene silencing through RNA interfering pathway [12], piwi interacting RNAs (piRNAs) that represent the largest class of small non-coding RNAs in animal cells and regulate genetic elements in germ cell lines such as transposons [13], cis-regulatory RNAs (cisRNAs) [10], centromere repeat-associated short interacting RNAs (crasiRNAs) that are proposed to be essential for cellular stability and chromosome segregation [14] , telomere specific small RNAs (telsRNAs) that are heterochromatin associated pi-like small RNAs [15] . Medium non-coding RNAs are between 50 and 200 nucleotides long and include small cytoplasmic RNAs (scRNAs) [16], small nuclear RNAs (snRNAs) [17] that are in splicing speckles and Cajal bodies of the cell nucleus in eukaryotic cells and are involved in pre mRNA processing, small nucleolar RNAs (snoRNAs) [18] that guide rRNA modifications, transcription initiation RNAs (tiRNAs) that modulate local epigenetic structure to regulate transcription factors localization [19] , and promoter-upstream transcripts (prompts) transcribed from genomic regions located approximately 0.5 to 2.5 kilobases upstream of active transcription start sites [20] . The remaining non-coding transcripts, longer than 200 nucleotides, are defined as long non-coding RNAs (lncRNAs) (Figure 1) .">
+    <entity charOffset="73-76" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="121-129" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="192-195" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="368-372" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="560-571" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="764-767" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="780-787" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="920-928" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" ontology_id="CHEBI_33250" text="elements" type="chemical"/>
+    <entity charOffset="1313-1324" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="1380-1398" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" ontology_id="CHEBI_74035" text="small nuclear RNAs" type="chemical"/>
+    <entity charOffset="1400-1406" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" ontology_id="CHEBI_74035" text="snRNAs" type="chemical"/>
+    <entity charOffset="1472-1479" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <entity charOffset="1524-1528" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="1541-1561" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" ontology_id="CHEBI_133334" text="small nucleolar RNAs" type="chemical"/>
+    <entity charOffset="1563-1570" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" ontology_id="CHEBI_133334" text="snoRNAs" type="chemical"/>
+    <entity charOffset="1588-1592" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" ontology_id="CHEBI_18111" text="rRNA" type="chemical"/>
+    <entity charOffset="1968-1979" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p0" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p1" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p2" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p3" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p4" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p5" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p6" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p7" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p8" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p9" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p10" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p11" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p12" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p13" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p14" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p15" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p16" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p17" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p18" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p19" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p20" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p21" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p22" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p23" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p24" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p25" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p26" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p27" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p28" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e1" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p29" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p30" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p31" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p32" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p33" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p34" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p35" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p36" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p37" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p38" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p39" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p40" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p41" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p42" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e2" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p43" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p44" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p45" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p46" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p47" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p48" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p49" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p50" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p51" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p52" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p53" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p54" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e3" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p55" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p56" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p57" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p58" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p59" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p60" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p61" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p62" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p63" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p64" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e4" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p65" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p66" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p67" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p68" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p69" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p70" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p71" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p72" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p73" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p74" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p75" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e5" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p76" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p77" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p78" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p79" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p80" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p81" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p82" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p83" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p84" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p85" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e6" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p86" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p87" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p88" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p89" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p90" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p91" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p92" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p93" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p94" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e7" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p95" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p96" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p97" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p98" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p99" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p100" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p101" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e8" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p102" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p103" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p104" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p105" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p106" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p107" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p108" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e9" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p109" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p110" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p111" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p112" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p113" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p114" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e10" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p115" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p116" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p117" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p118" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p119" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e11" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p120" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p121" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p122" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p123" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e12" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p124" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p125" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p126" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e13" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p127" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p128" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e14" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p129" relation="true"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e15" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.e16" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c3.p130" relation="true"/>
+  </chunk>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4" text="The number of genes transcribed into ncRNAs varies between species and, interestingly, the complexity of organisms seems to be associated with their abundance implying the potential importance of ncRNAs [1, 7] . Life may depend on the transcription of ncDNA because of the role of ncRNAs in genetic regulation. In fact, ncRNAs provide a faster and more flexible regulation in comparison with proteins [7] .">
+    <entity charOffset="273-277" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4.e0" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="392-400" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4.e1" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c4.p0" relation="true"/>
+  </chunk>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c5" text="However, the precise molecular mechanisms, the biological functions, and the overall role of this huge amount of RNAs in cells remain largely unknown. This is particularly true for lncRNAs that have cell-type specific functions that also depend on the subcellular localization.">
+    <entity charOffset="85-89" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c5.e0" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+  </chunk>
+  <chunk id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6" text="Tissues are composed of different kinds of cells and this represents a problem when studying the expression of both genes and proteins by using a standard bulk approach. In fact, the measured expression of a specific gene is the weighted mean of its expression in all the different cells that compose the tissue. The single-cell analysis could overcome this problem by opening new opportunities in the fields of developmental biology [21] [22] [23] , cancer biology [24] [25] [26] , immunology [27] [28] [29] , and neurology [23] . Because of the cell specificity of non-coding RNAs, single-cell approaches may allow a better comprehension of their function and of their involvement in complex processes associated with cell-cell communication. Moreover, single-cell analyses may allow understanding if ncRNAs can determine the generation of cell subtypes as evidenced by single-cell RNA sequencing (scRNA-seq) [30] [31] [32] .">
+    <entity charOffset="126-134" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="884-887" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6.e0" e2="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6.e1" id="fadd90c71b61efc6c47a0117d160ca9c77a914ec.c6.p0" relation="true"/>
+  </chunk>
+</document>

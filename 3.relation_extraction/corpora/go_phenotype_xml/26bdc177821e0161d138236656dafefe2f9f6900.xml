@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="26bdc177821e0161d138236656dafefe2f9f6900">
+  <chunk id="26bdc177821e0161d138236656dafefe2f9f6900.c0" text="Address: 1 Research Medicine, Veterans Affairs Tennessee Valley Healthcare System"/>
+  <chunk id="26bdc177821e0161d138236656dafefe2f9f6900.c1" text="Background: Viruses are obligate intracellular parasites and rely upon the host cell for different steps in their life cycles. The characterization of cellular genes required for virus infection and/or cell killing will be essential for understanding viral life cycles, and may provide cellular targets for new antiviral therapies.">
+    <entity charOffset="24-32" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.e0" ontology_id="HP_0040280" text="obligate" type="phenotype"/>
+    <entity charOffset="33-46" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.e1" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="75-84" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.e2" ontology_id="GO_0043657" text="host cell" type="gene_function"/>
+    <entity charOffset="202-214" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.e3" ontology_id="GO_0001906" text="cell killing" type="gene_function"/>
+    <pair e1="26bdc177821e0161d138236656dafefe2f9f6900.c1.e0" e2="26bdc177821e0161d138236656dafefe2f9f6900.c1.e1" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.p0" relation="true"/>
+    <pair e1="26bdc177821e0161d138236656dafefe2f9f6900.c1.e0" e2="26bdc177821e0161d138236656dafefe2f9f6900.c1.e2" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.p1" relation="true"/>
+    <pair e1="26bdc177821e0161d138236656dafefe2f9f6900.c1.e0" e2="26bdc177821e0161d138236656dafefe2f9f6900.c1.e3" id="26bdc177821e0161d138236656dafefe2f9f6900.c1.p2" relation="true"/>
+  </chunk>
+  <chunk id="26bdc177821e0161d138236656dafefe2f9f6900.c2" text="Results: A gene entrapment approach was used to identify candidate cellular genes that affect reovirus infection or virus induced cell lysis. Four of the 111 genes disrupted in clones selected for resistance to infection by reovirus type 1 involved the insulin growth factor-2 (IGF-II) pathway, including: the mannose-6-phosphate/IGF2 receptor (Igf2r), a protease associated with insulin growth factor binding protein 5 (Prss11), and the CTCF transcriptional regulator (Ctcf). The disruption of Ctcf, which encodes a repressor of Igf2, was associated with enhanced Igf2 gene expression. Plasmids expressing either the IGF-II pro-hormone or IGF-II without the carboxy terminal extension (E)-peptide sequence independently conferred high levels of cellular resistance to reovirus infection. Forced IGF-II expression results in a block in virus disassembly. In addition, Ctcf disruption and forced Igf2 expression both enabled cells to proliferate in soft agar, a phenotype associated with malignant growth in vivo.">
+    <entity charOffset="261-267" id="26bdc177821e0161d138236656dafefe2f9f6900.c2.e0" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="388-394" id="26bdc177821e0161d138236656dafefe2f9f6900.c2.e1" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="388-409" id="26bdc177821e0161d138236656dafefe2f9f6900.c2.e2" ontology_id="GO_0019838" text="growth factor binding" type="gene_function"/>
+    <entity charOffset="402-409" id="26bdc177821e0161d138236656dafefe2f9f6900.c2.e3" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="997-1003" id="26bdc177821e0161d138236656dafefe2f9f6900.c2.e4" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+  </chunk>
+  <chunk id="26bdc177821e0161d138236656dafefe2f9f6900.c3" text="These results indicate that IGF-II, and by inference other components of the IGF-II signalling pathway, can confer resistance to lytic reovirus infection. This report represents the first use of gene entrapment to identify host factors affecting virus infection. Concomitant transformation observed in some virus resistant cells illustrates a potential mechanism of carcinogenesis associated with chronic virus infection.">
+    <entity charOffset="84-94" id="26bdc177821e0161d138236656dafefe2f9f6900.c3.e0" ontology_id="GO_0023052" text="signalling" type="gene_function"/>
+    <entity charOffset="397-404" id="26bdc177821e0161d138236656dafefe2f9f6900.c3.e1" ontology_id="HP_0011010" text="chronic" type="phenotype"/>
+    <pair e1="26bdc177821e0161d138236656dafefe2f9f6900.c3.e0" e2="26bdc177821e0161d138236656dafefe2f9f6900.c3.e1" id="26bdc177821e0161d138236656dafefe2f9f6900.c3.p0" relation="true"/>
+  </chunk>
+</document>

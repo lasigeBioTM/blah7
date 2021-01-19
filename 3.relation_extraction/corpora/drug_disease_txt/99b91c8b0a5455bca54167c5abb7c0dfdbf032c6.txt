@@ -1,0 +1,56 @@
+0|chunk|
+
+1|chunk|Reviewer #1 (Remarks to the Author):
+
+2|chunk|The authors presented an antigenicity characterization method based on structural information. They claimed this is the first algorithm generalized for all protein antigens.
+2	156	163 protein	Chemical	CHEBI_16541
+
+3|chunk|1. The structural information will be useful in epitope comparison. Probably structural information alone will not be sufficient to define antigenic distances due to the challenges in structural modeling. It is well known the results from structural modeling for single mutation are no more than 70% (e.g. Modeller). Without the details, it will be difficult to believe such structural information alone will be useful for influenza antigenicity measurement, for which a single mutation can lead to antigenic drift. In addition, within a single antigenic drift event, it is not uncommon that the mutations occur in one or more epitope. The current methods seem to only target a single epitope, and this does not seem to be realistic in influenza study. 2. It will be useful and critical for the authors to illustrate the changes of epitope "fingerprints" in the past four decades. Can these results match those antigenic drift events, which have been well characterized? 3. The authors claimed they collected the HI data from various sources for H3N2 data from 1969 to 2013. There is a long list of sources in the Supplementary Note. It is not clear how many HI tables are actually included? How these data are integrated into their analyses? As we know, the HI data from those listed sources were performed at different time, different lab, and different protocols, especially with different red blood cells. Thus, it is difficult to believe validation results using these datasets will be meaningful. The datasets shall be provided to be available to the users. 4. Even the authors claimed that ConH3 is broadly protective, the experimental results suggest that ConH3 only had high cross activities with one testing strain but not others. Because the authors did not enclose the sequences of ConH3, I can not know the details but it seems that ConH3 sequence could be designed from that particular strain. In addition, it is not common to use mice to characterize influenza antigenicity. 5. There are many publications related to epitope comparison using 3D structures. I would suggest the authors review those literatures and discuss the limitations of current studies and how this can be improved. 6. I would suggest the authors focus on influenza viruses. Many statements in this manuscript were either overstated or confusing. For example, the first statement in the summary statement was confusing.
+3	48	55 epitope	Chemical	CHEBI_53000
+3	423	432 influenza	Disease	DOID_8469
+3	627	634 epitope	Chemical	CHEBI_53000
+3	685	692 epitope	Chemical	CHEBI_53000
+3	736	745 influenza	Disease	DOID_8469
+3	832	839 epitope	Chemical	CHEBI_53000
+3	1966	1975 influenza	Disease	DOID_8469
+3	2032	2039 epitope	Chemical	CHEBI_53000
+3	2242	2251 influenza	Disease	DOID_8469
+3	CHEBI-DOID	CHEBI_53000	DOID_8469
+
+4|chunk|Reviewer #2 (Remarks to the Author):
+
+5|chunk|In the manuscript, Qiu et al. developed a novel computational method, CE-BLAST, to evaluate the antigenic similarity of mutated antigens based on local structure and physicochemical features of conformational epitopes. Their method presented good performances in two independent testing datasets. What impressed me is that they designed a relatively broad-spectrum vaccine strain for influenza A/H3N2 with this method, and found the predictions agree well with the experimental results. However, more details and evidences are needed to support their methods and conclusions.
+5	128	136 antigens	Chemical	CHEBI_59132
+5	384	393 influenza	Disease	DOID_8469
+5	CHEBI-DOID	CHEBI_59132	DOID_8469
+
+6|chunk|1. The authors claimed that CE-BLAST could compare the antigenic similarity of any protein antigens and generalize for all protein antigens. But, It looks like the method is more suitable for mutated antigens with one dominant conformation epitope, while not for general protein antigens pair. One protein antigen may have more than one epitopes. If the method is used to evaluate the antigenic similarity of two proteins, all potential epitope pairs need to be compared and summarized. Thus, the authors could point out the usage conditions and boundaries of their method clearly. 2. For the scarcity of immune cross-reactivity data, the sequence similarity of the variable (V) regions of antibodies were used a measurement of antigenicity similarity. However, the authors did not present more evidence for the reasonability of using V-regions. Could the authors show if there is a high correlation between the sequence similarity of the variable (V) regions of antibodies and the antigenic variation of antigens, such as, influenza HA proteins. 3. There are several parameters in the CE-BLAST algorithm, such as, the ,  and  in the formula (1). I'm curious how these parameters are determined if there is no training dataset? 4. According to the description, two classes of features were used in the algorithm, including local structural and physicochemical fingerprints. The performance of the final model was tested and shown in the manuscript, while the contributions of each feature was not shown. To be more solid, it could be better to test the contribution of each feature and to show its necesity in the method. 5. The key idea of the CE-BLAST algorithm is to predict the antigenic similarity or variation based on the conformational structure and physicochemical fingerprints. As far as I know, there is method EADpred, published in a paper named "Correlation of Influenza Virus Excess Mortality with Antigenic Variation: Application to Rapid Estimation of Influenza Mortality Burden", had the similar idea. It's better to discuss the similarity and difference between your algorithm and that method. 6. Please provide more details for your designed HA sequence "Con H3". Such as, the sequence of the antigenic sites in "Con H3", and the comparisons between the "Con H3" and the seven reference strains. Also, you'd better to analyze or discuss the molecular mechanism of crossreactivity of "Con H3" against FJ02, WI05 and BR07 strains.
+6	83	90 protein	Chemical	CHEBI_16541
+6	91	99 antigens	Chemical	CHEBI_59132
+6	123	130 protein	Chemical	CHEBI_16541
+6	131	139 antigens	Chemical	CHEBI_59132
+6	200	208 antigens	Chemical	CHEBI_59132
+6	240	247 epitope	Chemical	CHEBI_53000
+6	271	278 protein	Chemical	CHEBI_16541
+6	279	287 antigens	Chemical	CHEBI_59132
+6	298	305 protein	Chemical	CHEBI_16541
+6	306	313 antigen	Chemical	CHEBI_59132
+6	437	444 epitope	Chemical	CHEBI_53000
+6	1005	1013 antigens	Chemical	CHEBI_59132
+6	1024	1033 influenza	Disease	DOID_8469
+6	1877	1886 Influenza	Disease	DOID_8469
+6	1936	1947 Application	Chemical	CHEBI_33232
+6	1971	1980 Influenza	Disease	DOID_8469
+6	CHEBI-DOID	CHEBI_16541	DOID_8469
+6	CHEBI-DOID	CHEBI_59132	DOID_8469
+6	CHEBI-DOID	CHEBI_53000	DOID_8469
+6	DOID-CHEBI	DOID_8469	CHEBI_33232
+
+7|chunk|Reviewer #3 (Remarks to the Author):
+
+8|chunk|This paper presents a method called CE-BLAST for comparing the antigenic similarity between protein antigens, The method is both interesting and novel (it involves spin-image and shell structure models). The paper is generally well written.
+8	92	99 protein	Chemical	CHEBI_16541
+
+9|chunk|A key issue is the evaluation of CE-BLAST's performance. One evaluation was conducted using "sequence similarity of the variable (V) regions of the corresponding antibodies as a measurement of antigenicity similarity between epitopes". In other words, there are known epitopes, but no assays. It is not self-evident that sequence similarity of variable regions is well correlated with the antigenic similarity of their respective epitopes. This really needs to be established -indeed, there must be many contrary examples (e.g. single mutations leading to antigenic escape; non-contact residues in the variable region that have a negligible impact on antigenicity when substituted; different antibodies binding to more-or-less the same epitope using different binding modes). These potential complications need to be addressed as well as their implications for the robustness of the validation.
+9	736	743 epitope	Chemical	CHEBI_53000
+

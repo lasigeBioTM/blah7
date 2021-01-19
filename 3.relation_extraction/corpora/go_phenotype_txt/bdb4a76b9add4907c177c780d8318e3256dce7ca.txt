@@ -1,0 +1,53 @@
+0|chunk|Analysis of VSV pseudotype virus infection mediated by rubella virus envelope proteins OPEN
+0	69	77 envelope	Gene_function	GO_0031975
+
+1|chunk|To assess the susceptibility of individual cell lines, we generated a pseudotype vesicular stomatitis virus bearing RV envelope proteins (VSV-RV/CE2E1). VSV-RV/CE2E1 entered cells in an RV envelope proteindependent manner, and thus the infection was neutralized completely by an RV-specific antibody. The infection was Ca 2+ -dependent and inhibited by endosomal acidification inhibitors, further confirming the dependency on RV envelope proteins for the VSV-RV/CE2E1 infection. Human non-immune cell lines were mostly susceptible to VSV-RV/CE2E1, while immune cell lines were much less susceptible than non-immune cell lines. However, susceptibility of immune cells to VSV-RV/CE2E1 was increased upon stimulation of these cells. Our data therefore suggest that immune cells are generally less susceptible to RV infection than non-immune cells, but the susceptibility of immune cells is enhanced upon stimulation.
+1	91	101 stomatitis	Phenotype	HP_0010280
+1	119	127 envelope	Gene_function	GO_0031975
+1	189	197 envelope	Gene_function	GO_0031975
+1	363	376 acidification	Gene_function	GO_0045851
+1	429	437 envelope	Gene_function	GO_0031975
+1	HP-GO	HP_0010280	GO_0031975
+1	HP-GO	HP_0010280	GO_0045851
+
+2|chunk|Rubella is an acute infectious viral disease characterized by low-grade fever, a short-lived morbilliform rash, and lymphadenopathy 1 . Additionally, arthritis often develops in rubella patients, particularly in adolescents and adult female patients, and encephalitis, while rare, is a severe complication of this disease. Most importantly, neonates born from mothers who suffered from rubella during the first trimester of pregnancy may develop congenital rubella syndrome (CRS) and multiple organ malformations. Congenital cataracts, sensorineural hearing loss, and cardiovascular defects are most common in CRS.
+2	14	19 acute	Phenotype	HP_0011009
+2	93	105 morbilliform	Phenotype	HP_0025296
+2	116	131 lymphadenopathy	Phenotype	HP_0002716
+2	150	159 arthritis	Phenotype	HP_0001369
+2	286	292 severe	Phenotype	HP_0012828
+2	536	562 sensorineural hearing loss	Phenotype	HP_0000407
+2	550	557 hearing	Gene_function	GO_0007605
+2	HP-GO	HP_0011009	GO_0007605
+2	HP-GO	HP_0025296	GO_0007605
+2	HP-GO	HP_0002716	GO_0007605
+2	HP-GO	HP_0001369	GO_0007605
+2	HP-GO	HP_0012828	GO_0007605
+2	HP-GO	HP_0000407	GO_0007605
+
+3|chunk|Rubella virus (RV), the etiologic agent of rubella and CRS, belongs to the genus Rubivirus in the Togaviridae family. Despite the great importance of RV to public health, the molecular mechanisms underlying RV pathogenicity remain poorly understood. Only humans are the natural hosts for RV, but cell lines from monkeys, hamsters and rabbits such as Vero, BHK, and RK-13, respectively, are commonly used for isolation or propagation of RV, because RV replicates most efficiently in these cell lines 2-4 . Understanding the cell types targeted by RV and the molecular basis for determining viral tropism is an important step for understanding the pathophysiology of rubella and CRS. Myelin oligodendrocyte glycoprotein (MOG) has been recently identified as a receptor for RV 5 . However, MOG is expressed mainly in cells of central nervous system, and its expression is very low or undetectable in the cells from other organs or tissues. Since RV generally causes a systemic infection, the pathology of rubella and CRS cannot be simply explained by the distribution pattern of MOG. Previous studies have indicated that membrane phospholipids and glycolipids, rather than cellular surface proteins, support RV infection, suggesting a functional role for membrane lipids in RV infections 6, 7 .
+3	595	602 tropism	Gene_function	GO_0009606
+3	823	830 central	Phenotype	HP_0030645
+3	1118	1126 membrane	Gene_function	GO_0016020
+3	1252	1260 membrane	Gene_function	GO_0016020
+3	GO-HP	GO_0009606	HP_0030645
+3	HP-GO	HP_0030645	GO_0016020
+
+4|chunk|Vesicular stomatitis virus (VSV) belongs to the genus Vesiculovirus in the Rhabdoviridae family, and the genome is a non-segmented negative-sense RNA. A reverse genetics system for VSV has been previously Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific REPORTS | 7: 11607 | Envelope proteins of different virus species can be incorporated into VSV particles, even when they are provided in trans, generating pseudotype VSVs. Pseudotype VSVs enter cells through receptor binding and membrane fusion mediated by incorporated envelope proteins of different viruses, and the entry can be traced with reporter gene expression in the recombinant VSV genome 15-17 . In the present study, various human cell lines were tested for their susceptibility (defined as the capacity for viral entry) to RV using a recombinant VSV pseudotyped with RV proteins.
+4	10	20 stomatitis	Phenotype	HP_0010280
+4	300	308 Envelope	Gene_function	GO_0031975
+4	496	503 binding	Gene_function	GO_0005488
+4	508	516 membrane	Gene_function	GO_0016020
+4	508	523 membrane fusion	Gene_function	GO_0061025
+4	549	557 envelope	Gene_function	GO_0031975
+4	631	646 gene expression	Gene_function	GO_0010467
+4	HP-GO	HP_0010280	GO_0031975
+4	HP-GO	HP_0010280	GO_0005488
+4	HP-GO	HP_0010280	GO_0016020
+4	HP-GO	HP_0010280	GO_0061025
+4	HP-GO	HP_0010280	GO_0010467
+
+5|chunk|Results
+
+6|chunk|Measuring the infectivity titer of a virus is fundamental in virus research. However, infectivity titers are not absolute values and are dependent on the host cells used to determine such titers. The host cells must be both susceptible and permissible for virus infection establishment. Therefore, even when the viral titer of a particular sample is measured in different cell lines, it may differ greatly. In this experiment, we have determined the 50% cell culture infectious dose (CCID 50 ) by using a limiting dilution method, in which multiple rounds of infection is allowed. However, the CCID 50 in this method is basically expected to show the first cell numbers infected with RV. Indeed, even when the second round of infection was blocked by NH 4 Cl, similar results were obtained (Supplementary Figure 1) . The infectivity titer of a stock of the recombinant RV rHS strain was determined using various human cell lines and a monkey kidney-derived cell line, Vero. Vero cells are most commonly used to determine the infectivity titer of RV. The infectivity titer of the rHS stock was 5.17  10 6 CCID 50 /cell when Vero cells were used. The titer was set to 100% to simplify comparison (Fig. 1A, B) . When NJG, JAR and JEG3 cells were used, the infectivity titers of the same stock of rHS were 56.1%, 56.7%, and 146%, respectively (Fig. 1A) . Therefore, the three trophoblast-derived cell lines were susceptible and permissible to RV infection similarly to Vero cells. In contrast, the titers were reduced to only ~4 and 18%, respectively, when HSQ89 and A549 cells were used (Fig. 1A) . The titers were very low (~0.01 to 0.1%), when the other ten non-immune cell lines (SH-SY5Y, SK-N-MC, 293T, HUEhT-1, Caco-2, HeLa, FLC-4, Huh7, FaDu, and Detroit562) were used (Fig. 1A) . Therefore, these cell lines are almost non-susceptible or non-permissible, or both, to RV infection. The titers of the viral stock were also determined using immune cell lines. The titer was ~12% when MT2 cells were used, whereas the titers were very low (~0.01 to 0.1%)
+

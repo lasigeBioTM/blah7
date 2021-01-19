@@ -1,0 +1,43 @@
+0|chunk|The Acute Environment, Rather than T Cell Subset Pre- Commitment, Regulates Expression of the Human T Cell Cytokine Amphiregulin
+0	4	9 Acute	Phenotype	HP_0011009
+
+1|chunk|Cytokine expression patterns of T cells can be regulated by pre-commitment to stable effector phenotypes, further modification of moderately stable phenotypes, and quantitative changes in cytokine production in response to acute signals. We showed previously that the epidermal growth factor family member Amphiregulin is expressed by T cell receptor-activated mouse CD4 T cells, particularly Th2 cells, and helps eliminate helminth infection. Here we report a detailed analysis of the regulation of Amphiregulin expression by human T cell subsets. Signaling through the T cell receptor induced Amphiregulin expression by most or all T cell subsets in human peripheral blood, including naive and memory CD4 and CD8 T cells, Th1 and Th2 in vitro T cell lines, and subsets of memory CD4 T cells expressing several different chemokine receptors and cytokines. In these different T cell types, Amphiregulin synthesis was inhibited by an antagonist of protein kinase A, a downstream component of the cAMP signaling pathway, and enhanced by ligands that increased cAMP or directly activated protein kinase A. Prostaglandin E2 and adenosine, natural ligands that stimulate adenylyl cyclase activity, also enhanced Amphiregulin synthesis while reducing synthesis of most other cytokines. Thus, in contrast to mouse T cells, Amphiregulin synthesis by human T cells is regulated more by acute signals than precommitment of T cells to a particular cytokine pattern. This may be appropriate for a cytokine more involved in repair than attack functions during most inflammatory responses.
+1	78	84 stable	Phenotype	HP_0031915
+1	141	147 stable	Phenotype	HP_0031915
+1	188	207 cytokine production	Gene_function	GO_0001816
+1	223	228 acute	Phenotype	HP_0011009
+1	278	284 growth	Gene_function	GO_0040007
+1	549	558 Signaling	Gene_function	GO_0023052
+1	658	668 peripheral	Phenotype	HP_0030646
+1	696	702 memory	Gene_function	GO_0007613
+1	774	780 memory	Gene_function	GO_0007613
+1	903	912 synthesis	Gene_function	GO_0009058
+1	995	1009 cAMP signaling	Gene_function	GO_0019933
+1	1000	1009 signaling	Gene_function	GO_0023052
+1	1166	1191 adenylyl cyclase activity	Gene_function	GO_0004016
+1	1220	1229 synthesis	Gene_function	GO_0009058
+1	1245	1254 synthesis	Gene_function	GO_0009058
+1	1329	1338 synthesis	Gene_function	GO_0009058
+1	1377	1382 acute	Phenotype	HP_0011009
+1	HP-GO	HP_0031915	GO_0001816
+1	HP-GO	HP_0031915	GO_0040007
+1	HP-GO	HP_0031915	GO_0023052
+1	HP-GO	HP_0031915	GO_0007613
+1	HP-GO	HP_0031915	GO_0009058
+1	HP-GO	HP_0031915	GO_0019933
+1	HP-GO	HP_0031915	GO_0004016
+1	GO-HP	GO_0001816	HP_0011009
+1	GO-HP	GO_0001816	HP_0030646
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0007613
+1	HP-GO	HP_0011009	GO_0009058
+1	HP-GO	HP_0011009	GO_0019933
+1	HP-GO	HP_0011009	GO_0004016
+1	GO-HP	GO_0040007	HP_0030646
+1	GO-HP	GO_0023052	HP_0030646
+1	HP-GO	HP_0030646	GO_0007613
+1	HP-GO	HP_0030646	GO_0009058
+1	HP-GO	HP_0030646	GO_0019933
+1	HP-GO	HP_0030646	GO_0004016
+

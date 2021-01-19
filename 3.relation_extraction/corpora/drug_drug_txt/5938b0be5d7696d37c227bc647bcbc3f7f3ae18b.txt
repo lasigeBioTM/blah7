@@ -1,0 +1,36 @@
+0|chunk|Development of a cell-based assay to identify hepatitis B virus entry inhibitors targeting the sodium taurocholate cotransporting polypeptide
+0	70	80 inhibitors	Chemical	CHEBI_35222
+0	95	101 sodium	Chemical	CHEBI_26708
+0	95	114 sodium taurocholate	Chemical	CHEBI_36276
+0	102	114 taurocholate	Chemical	CHEBI_28865
+0	130	141 polypeptide	Chemical	CHEBI_15841
+0	CHEBI-CHEBI	CHEBI_35222	CHEBI_26708
+0	CHEBI-CHEBI	CHEBI_35222	CHEBI_36276
+0	CHEBI-CHEBI	CHEBI_35222	CHEBI_28865
+0	CHEBI-CHEBI	CHEBI_35222	CHEBI_15841
+0	CHEBI-CHEBI	CHEBI_26708	CHEBI_36276
+0	CHEBI-CHEBI	CHEBI_26708	CHEBI_28865
+0	CHEBI-CHEBI	CHEBI_26708	CHEBI_15841
+0	CHEBI-CHEBI	CHEBI_36276	CHEBI_28865
+0	CHEBI-CHEBI	CHEBI_36276	CHEBI_15841
+0	CHEBI-CHEBI	CHEBI_28865	CHEBI_15841
+
+1|chunk|We developed a cell-mediated drug screening method to monitor NTCP expression on the cell surface by generating a HepG2 cell line with tetracycline-inducible expression of NTCP and a monoclonal antibody that specifically detects cell-surface NTCP. Using this system, we screened a small molecule library for compounds that protected against HBV infection by targeting NTCP. We found that glabridin, a licorice-derived isoflavane, could suppress viral infection by inducing caveolar endocytosis of cell-surface NTCP with an IC 50 of ~40 M. We also found that glabridin could attenuate the inhibitory effect of taurocholate on type I interferon signaling by depleting the level of cell-surface NTCP. These results demonstrate that our screening system could be a powerful tool for discovering drugs targeting HBV entry.
+1	29	33 drug	Chemical	CHEBI_23888
+1	287	295 molecule	Chemical	CHEBI_25367
+1	388	397 glabridin	Chemical	CHEBI_5369
+1	559	568 glabridin	Chemical	CHEBI_5369
+1	610	622 taurocholate	Chemical	CHEBI_28865
+1	633	643 interferon	Chemical	CHEBI_52999
+1	792	797 drugs	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_5369
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_28865
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_5369
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_28865
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_5369	CHEBI_28865
+1	CHEBI-CHEBI	CHEBI_5369	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_28865	CHEBI_52999
+

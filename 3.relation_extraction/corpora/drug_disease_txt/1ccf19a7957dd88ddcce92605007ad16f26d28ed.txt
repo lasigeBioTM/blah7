@@ -1,0 +1,42 @@
+0|chunk|Induction of Cell-Cell Fusion by Ebola Virus Glycoprotein: Low pH Is Not a Trigger
+
+1|chunk|Ebola virus (EBOV) is a highly pathogenic filovirus that causes hemorrhagic fever in humans and animals. Currently, how EBOV fuses its envelope membrane within an endosomal membrane to cause infection is poorly understood. We successfully measure cellcell fusion mediated by the EBOV fusion protein, GP, assayed by the transfer of both cytoplasmic and membrane dyes. A small molecule fusion inhibitor, a neutralizing antibody, as well as mutations in EBOV GP known to reduce viral infection, all greatly reduce fusion. By monitoring redistribution of small aqueous dyes between cells and by electrical capacitance measurements, we discovered that EBOV GP-mediated fusion pores do not readily enlarge -a marked difference from the behavior of other viral fusion proteins. EBOV GP must be cleaved by late endosome-resident cathepsins B or L in order to become fusion-competent. Cleavage of cell surface-expressed GP appears to occur in endosomes, as evidenced by the fusion block imposed by cathepsin inhibitors, agents that raise endosomal pH, or an inhibitor of anterograde trafficking. Treating effector cells with a recombinant soluble cathepsin B or thermolysin, which cleaves GP into an active form, increases the extent of fusion, suggesting that a fraction of surface-expressed GP is not cleaved. Whereas the rate of fusion is increased by a brief exposure to acidic pH, fusion does occur at neutral pH. Importantly, the extent of fusion is independent of external pH in experiments in which cathepsin activity is blocked and EBOV GP is cleaved by thermolysin. These results imply that low pH promotes fusion through the well-known pH-dependent activity of cathepsins; fusion induced by cleaved EBOV GP is a process that is fundamentally independent of pH. The cell-cell fusion system has revealed some previously unappreciated features of EBOV entry, which could not be readily elucidated in the context of endosomal entry.
+1	361	365 dyes	Chemical	CHEBI_37958
+1	375	383 molecule	Chemical	CHEBI_25367
+1	391	400 inhibitor	Chemical	CHEBI_35222
+1	565	569 dyes	Chemical	CHEBI_37958
+1	761	769 proteins	Chemical	CHEBI_36080
+1	999	1009 inhibitors	Chemical	CHEBI_35222
+1	1049	1058 inhibitor	Chemical	CHEBI_35222
+1	1096	1104 effector	Chemical	CHEBI_35224
+
+2|chunk|The devastation and transmissibility of Ebola virus (EBOV) are well known. However, the manner in which EBOV enters host cells through endosomal membrane remains elusive. Here, we have developed a convenient experimental system to mimic EBOV fusion in endosomes: cells expressing the fusion protein of EBOV, GP, on their surface are fused to target cells. This system exhibits the known key properties of EBOV fusion. We show that the pH-dependence of EBOV fusion is caused by the pH-dependence of cathepsins, proteases known to cleave EBOV GP into a fusion-competent form. We demonstrate that the fusion activity of this cleaved form is independent of pH. We further show that the enlargement of the fusion pore created by EBOV GP is unusually slow in reaching sizes necessary to pass EBOV's genome-this is atypical of virally created fusion pores. This cell-cell fusion system should provide a useful platform for developing drugs against EBOV infection.
+2	291	298 protein	Chemical	CHEBI_16541
+2	927	932 drugs	Chemical	CHEBI_23888
+
+3|chunk|We utilize fluorescent dye spread assays to monitor cell-cell fusion. Effector COS7 cells transfected to express EBOV GP were loaded with calcein-AM (CaAM, green) and pretreated with thermolysin (Th) and. It has been shown that thermolysin treatment cleaves GP1 on the viral membrane into a fusion-competent 18-19 kDa subunit [9, 23, 24] . Within the laboratory, thermolysin is therefore often used in lieu of membrane-bound cathepsins to cleave the GP1 subunit into a fusion-competent form. The COS7 cells were bound to 293T target cells that were either unlabeled or, for purposes of microscopic identification, loaded with the aqueous dye CMAC (blue). We lowered the external pH for 10 min at room temperature, reneutralized, raised temperature to 37C, and monitored dye spread at various times. We tracked the transfer of calcein between cells to quantify the extents of fusion; CMAC was used solely to identify the target cells. The fraction of cells that were stained by both calcein and CMAC, 2 hr after a 10-min low pH pulse, was comparable for cell-cell fusion mediated by EBOV GP, by Jaagsiekte sheep retrovirus (JSRV) Env, and influenza A virus (IAV) hemagglutinin (HA)-all requiring low pH for fusion to proceed (Fig 1) . Fusion did not occur for effector cells that were mock transfected, establishing that CaAM transferred only due to fusion (top row).
+3	11	26 fluorescent dye	Chemical	CHEBI_51121
+3	23	26 dye	Chemical	CHEBI_37958
+3	70	78 Effector	Chemical	CHEBI_35224
+3	638	641 dye	Chemical	CHEBI_37958
+3	771	774 dye	Chemical	CHEBI_37958
+3	827	834 calcein	Chemical	CHEBI_51903
+3	983	990 calcein	Chemical	CHEBI_51903
+3	1139	1148 influenza	Disease	DOID_8469
+3	1260	1268 effector	Chemical	CHEBI_35224
+3	CHEBI-DOID	CHEBI_51121	DOID_8469
+3	CHEBI-DOID	CHEBI_37958	DOID_8469
+3	CHEBI-DOID	CHEBI_35224	DOID_8469
+3	CHEBI-DOID	CHEBI_51903	DOID_8469
+
+4|chunk|It is often thought that EBOV fusion requires acidic pH [7, 25, 27] . But we found that thermolysin-treated effector cells expressing EBOV GP also fused to target cells at neutral pH (7.2) (Fig 2A, bar 2) , albeit to a smaller extent than occurred 2 hrs after a 10 min exposure to an acidic pH of 5.7 at room temperature (bar 1). Representative images for dye transfer are shown to the right of the bar graphs (Fig 2A) . In its natural cellular setting, EBOV GP is cleaved not by thermolysin but by endosomal cathepsins B and L. In measuring fusion without prior thermolysin treatment of effector cells, we found that fusion still occurred, albeit to smaller extents (Fig 2A, bars 3 and 4) . Again, a 10-min acidification (Fig 2A, bar 3) led to greater amounts of fusion than occurred at neutral pH when measured after a 2-h reneutralization (Fig 2A, bar 4) . Mock transfected effector cells, with or without thermolysin treatment, did not support any dye transfer at neutral or low pH, verifying that fusion required EBOV GP (e.g., see Fig 1) .
+4	108	116 effector	Chemical	CHEBI_35224
+4	356	359 dye	Chemical	CHEBI_37958
+4	588	596 effector	Chemical	CHEBI_35224
+4	877	885 effector	Chemical	CHEBI_35224
+4	952	955 dye	Chemical	CHEBI_37958
+
+5|chunk|The observed differences in extents of fusion between cells that were treated with thermolysin and those not were eliminated by long times of incubation after reneutralization (Fig 2B) . When EBOV GP was not cleaved by thermolysin, there was a 30 min latency between the fusion trigger (acidification and raising temperature from 10C to 37C, Fig 2B, dark yellow circles) and the occurrence of fusion. There was no latency when thermolysin cleaved the protein (dark red squares, same fusion trigger as for dark yellow circles), suggesting that the 30 min latency when thermolysin was not used was due to the time it takes for a sufficient number of copies of cleaved GP to accumulate at a potential fusion site. The extent of fusion for nontreated effector cells (dark yellow circles) 2 hrs after reneutralization was almost equal to that observed after a 1 hr reneutralization for thermolysin-treated cells. But 4 hrs after a pH 5.7 pulse, the extent of fusion was independent of whether EBOV GP was cleaved by thermolysin. The kinetic difference is, to a large extent, likely due to the~30 min latency until fusion occurs. The slopes of the linear portion for rates of fusion are comparable, suggesting that, after the latency, the kinetics of fusion are the same at low and neutral pH. The latency for EBOV GP-EBOV GP Induction of Cell-Cell Fusion PLOS Pathogens |
+5	453	460 protein	Chemical	CHEBI_16541
+5	749	757 effector	Chemical	CHEBI_35224
+

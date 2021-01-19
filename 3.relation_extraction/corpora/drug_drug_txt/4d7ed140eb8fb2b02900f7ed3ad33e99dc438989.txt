@@ -1,0 +1,12 @@
+0|chunk|BMC Medical Genomics Identification and validation of suitable endogenous reference genes for gene expression studies in human peripheral blood
+0	0	3 BMC	Chemical	CHEBI_3392
+
+1|chunk|Background: Gene expression studies require appropriate normalization methods. One such method uses stably expressed reference genes. Since suitable reference genes appear to be unique for each tissue, we have identified an optimal set of the most stably expressed genes in human blood that can be used for normalization.
+
+2|chunk|Methods: Whole-genome Affymetrix Human 2.0 Plus arrays were examined from 526 samples of males and females ages 2 to 78, including control subjects and patients with Tourette syndrome, stroke, migraine, muscular dystrophy, and autism. The top 100 most stably expressed genes with a broad range of expression levels were identified. To validate the best candidate genes, we performed quantitative RT-PCR on a subset of 10 genes (TRAP1, DECR1, FPGS, FARP1, MAPRE2, PEX16, GINS2, CRY2, CSNK1G2 and A4GALT), 4 commonly employed reference genes (GAPDH, ACTB, B2M and HMBS) and PPIB, previously reported to be stably expressed in blood. Expression stability and ranking analysis were performed using GeNorm and NormFinder algorithms.
+
+3|chunk|Reference genes were ranked based on their expression stability and the minimum number of genes needed for nomalization as calculated using GeNorm showed that the fewest, most stably expressed genes needed for acurate normalization in RNA expression studies of human whole blood is a combination of TRAP1, FPGS, DECR1 and PPIB. We confirmed the ranking of the best candidate control genes by using an alternative algorithm (NormFinder).
+3	235	238 RNA	Chemical	CHEBI_33697
+
+4|chunk|The reference genes identified in this study are stably expressed in whole blood of humans of both genders with multiple disease conditions and ages 2 to 78. Importantly, they also have different functions within cells and thus should be expressed independently of each other. These genes should be useful as normalization genes for microarray and RT-PCR whole blood studies of human physiology, metabolism and disease.
+

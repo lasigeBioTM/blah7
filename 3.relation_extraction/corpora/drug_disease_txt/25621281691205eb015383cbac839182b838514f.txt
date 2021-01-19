@@ -1,0 +1,67 @@
+0|chunk|SMARCA2-regulated host cell factors are required for MxA restriction of influenza A viruses OPEN
+0	72	81 influenza	Disease	DOID_8469
+
+1|chunk|The human interferon (IFN)-induced MxA protein is a key antiviral host restriction factor exhibiting broad antiviral activity against many RNA viruses, including highly pathogenic avian influenza A viruses (IAV) of the H5N1 and H7N7 subtype. To date the mechanism for how MxA exerts its antiviral activity is unclear, however, additional cellular factors are believed to be essential for this activity. To identify MxA cofactors we performed a genome-wide siRNA-based screen in human airway epithelial cells (A549) constitutively expressing MxA using an H5N1 reporter virus. These data were complemented with a proteomic screen to identify MxA-interacting proteins. The combined data identified SMARCA2, the ATPase subunit of the BAF chromatin remodeling complex, as a crucial factor required for the antiviral activity of MxA against IAV. Intriguingly, our data demonstrate that although SMARCA2 is essential for expression of some IFN-stimulated genes (ISGs), and the establishment of an antiviral state, it is not required for expression of MxA, suggesting an indirect effect on MxA activity. Transcriptome analysis of SMARCA2-depleted A549-MxA cells identified a small set of SMARCA2-regulated factors required for activity of MxA, in particular IFITM2 and IGFBP3. These findings reveal that several virus-inducible factors work in concert to enable MxA restriction of IAV. NP) has been made and imported into the nucleus, the viral polymerase switches to synthesis of complementary RNA which is encapsidated into complementary RNPs (cRNPs) during this process. These cRNPs in turn serve as intermediates for synthesis of new vRNPs which are finally exported from the nucleus to be packaged into new viral particles at the plasma membrane 4 .
+1	10	20 interferon	Chemical	CHEBI_52999
+1	39	46 protein	Chemical	CHEBI_16541
+1	56	65 antiviral	Chemical	CHEBI_22587
+1	107	116 antiviral	Chemical	CHEBI_22587
+1	139	142 RNA	Chemical	CHEBI_33697
+1	180	195 avian influenza	Disease	DOID_4492
+1	186	195 influenza	Disease	DOID_8469
+1	287	296 antiviral	Chemical	CHEBI_22587
+1	419	428 cofactors	Chemical	CHEBI_23357
+1	801	810 antiviral	Chemical	CHEBI_22587
+1	990	999 antiviral	Chemical	CHEBI_22587
+1	1418	1425 nucleus	Chemical	CHEBI_33252
+1	1487	1490 RNA	Chemical	CHEBI_33697
+1	1672	1679 nucleus	Chemical	CHEBI_33252
+1	CHEBI-DOID	CHEBI_52999	DOID_4492
+1	CHEBI-DOID	CHEBI_52999	DOID_8469
+1	CHEBI-DOID	CHEBI_16541	DOID_4492
+1	CHEBI-DOID	CHEBI_16541	DOID_8469
+1	CHEBI-DOID	CHEBI_22587	DOID_4492
+1	CHEBI-DOID	CHEBI_22587	DOID_8469
+1	CHEBI-DOID	CHEBI_33697	DOID_4492
+1	CHEBI-DOID	CHEBI_33697	DOID_8469
+1	DOID-CHEBI	DOID_4492	CHEBI_23357
+1	DOID-CHEBI	DOID_4492	CHEBI_33252
+1	DOID-CHEBI	DOID_8469	CHEBI_23357
+1	DOID-CHEBI	DOID_8469	CHEBI_33252
+
+2|chunk|An intact innate immune response is critical for restriction of viral replication and survival, as exemplified not only in animal experiments but also by more severe disease progression seen in young children with mutations in crucial innate immune genes 6,7 . After recognition of pathogen-associated molecular patterns, such as viral RNA, the cell responds by secreting type I and III interferons. These interferons bind to their respective receptors leading to JAK-STAT signaling and eventually to induction of several hundred interferon-stimulated genes (ISGs), of which some have direct effector activity against particular viruses 7 . The speed of the antiviral response is critical to prevent further virus spread. Therefore, most ISG promoters, which would otherwise be covered by nucleosomes and not be available for immediate access, are "primed" for rapid transcriptional activation through the bound SWI/SNF chromatin remodeling complex (BAF complex) 8 . The promotor-bound BAF complex not only facilitates rapid induction but also basal level expression and, upon stimulation, induction of ISGs to a higher extent.
+2	166	173 disease	Disease	DOID_4
+2	592	600 effector	Chemical	CHEBI_35224
+2	658	667 antiviral	Chemical	CHEBI_22587
+2	DOID-CHEBI	DOID_4	CHEBI_35224
+2	DOID-CHEBI	DOID_4	CHEBI_22587
+
+3|chunk|Among many other ISGs, human MxA has been shown to be particularly potent in inhibiting IAV replication in vitro as well as in vivo 9-11 . Its importance is further emphasized by the fact that all human-adapted IAVs, including all pandemic viruses, have evolved partial resistance towards MxA antiviral activity through mutations in their NP 9 . MxA belongs to the family of large dynamin-like GTPases and localizes to the cytoplasm, in contrast to IAV replication which occurs in the nucleus. To date, the mechanism by which MxA inhibits IAV replication is still unclear and somewhat controversial 12,13 . However, there is general agreement that a very early step of the IAV replication cycle is affected [14] [15] [16] .
+3	293	302 antiviral	Chemical	CHEBI_22587
+
+4|chunk|Avian influenza viruses, including the subtypes H5N1 and H7N7, are highly sensitive to MxA, but the finding that human-adapted IAV are able to partially escape the antiviral effect of MxA through mutations in NP suggested that restriction might be mediated through direct physical binding of IAV NP to MxA 9-11,17,18 . However, while NP of the closely related Thogoto virus (THOV) can be co-precipitated with MxA, similar approaches with IAV NP have failed to show a convincing interaction 19 . Therefore, it is hypothesized that the IAV NP-MxA interaction is of low affinity and may require the presence of additional host cell factors 13, 19, 20 .
+4	0	15 Avian influenza	Disease	DOID_4492
+4	6	15 influenza	Disease	DOID_8469
+4	164	173 antiviral	Chemical	CHEBI_22587
+4	DOID-CHEBI	DOID_4492	CHEBI_22587
+4	DOID-CHEBI	DOID_8469	CHEBI_22587
+
+5|chunk|THOV replication was shown to be inhibited by MxA through a block in nuclear translocation of incoming vRNPs 21 and Xiao and colleagues recently demonstrated that a similar mode of action might apply to IAV vRNPs 16 . However, their experimental setup required IFN pretreatment in addition to MxA overexpression, suggesting that additional ISGs are required for MxA restriction of influenza A viruses. In line with that, the related human paralog of MxA, MxB, similarly depends on host cell factors for its anti-HIV-1 activity, as it loses its ability to prevent viral DNA from entering the nucleus and integrating into the genome in the absence of cyclophilin A 22 .
+5	181	187 action	Chemical	CHEBI_5133
+5	381	390 influenza	Disease	DOID_8469
+5	569	572 DNA	Chemical	CHEBI_16991
+5	591	598 nucleus	Chemical	CHEBI_33252
+5	CHEBI-DOID	CHEBI_5133	DOID_8469
+5	DOID-CHEBI	DOID_8469	CHEBI_16991
+5	DOID-CHEBI	DOID_8469	CHEBI_33252
+
+6|chunk|Here, we conducted a genome-wide siRNA screen and a proteomic screen to identify potential MxA cofactors required for the antiviral activity of human MxA, and we identified SMARCA2 as essential for the antiviral effect of MxA against H5N1 and H7N7 viruses. SMARCA2 is the ATPase subunit of the SWI/SNF chromatin remodeling complex (BAF complex), the complex known to reside on promoters of many ISGs thereby facilitating their induction. Our data show that SMARCA2 is required for the induction of an antiviral state in IFN-treated cells but that induction of MxA per se is not affected by the absence of SMARCA2. A transcriptome analysis of SMARCA2-depleted A549-MxA cells identified a large number of SMARCA2-regulated genes, of which many are ISGs. Several of these factors, in particular IFITM2 and IGFBP3, were required for efficient inhibition of viral replication in A549-MxA cells. Therefore, our data demonstrate that several SMARCA2-dependent ISGs act in concert to facilitate the antiviral activity of MxA against influenza A viruses.
+6	95	104 cofactors	Chemical	CHEBI_23357
+6	122	131 antiviral	Chemical	CHEBI_22587
+6	202	211 antiviral	Chemical	CHEBI_22587
+6	501	510 antiviral	Chemical	CHEBI_22587
+6	991	1000 antiviral	Chemical	CHEBI_22587
+6	1025	1034 influenza	Disease	DOID_8469
+6	CHEBI-DOID	CHEBI_23357	DOID_8469
+6	CHEBI-DOID	CHEBI_22587	DOID_8469
+

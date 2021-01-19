@@ -1,0 +1,52 @@
+0|chunk|High-Resolution Analysis of Coronavirus Gene Expression by RNA Sequencing and Ribosome Profiling
+0	40	55 Gene Expression	Gene_function	GO_0010467
+0	78	86 Ribosome	Gene_function	GO_0005840
+
+1|chunk|Members of the family Coronaviridae have the largest genomes of all RNA viruses, typically in the region of 30 kilobases. Several coronaviruses, such as Severe acute respiratory syndrome-related coronavirus (SARS-CoV) and Middle East respiratory syndrome-related coronavirus (MERS-CoV), are of medical importance, with high mortality rates and, in the case of SARS-CoV, significant pandemic potential. Other coronaviruses, such as Porcine epidemic diarrhea virus and Avian coronavirus, are important livestock pathogens. Ribosome profiling is a technique which exploits the capacity of the translating ribosome to protect around 30 nucleotides of mRNA from ribonuclease digestion. Ribosome-protected mRNA fragments are purified, subjected to deep sequencing and mapped back to the transcriptome to give a global "snap-shot" of translation. Parallel RNA sequencing allows normalization by transcript abundance. Here we apply ribosome profiling to cells infected with Murine coronavirus, mouse hepatitis virus, strain A59 (MHV-A59), a model coronavirus in the same genus as SARS-CoV and MERS-CoV. The data obtained allowed us to study the kinetics of virus transcription and translation with exquisite precision. We studied the timecourse of positive and negative-sense genomic and subgenomic viral RNA production and the relative translation efficiencies of the different virus ORFs. Virus mRNAs were not found to be translated more efficiently than host mRNAs; rather, virus translation dominates host translation at later time points due to high levels of virus transcripts. Triplet phasing of the profiling data allowed precise determination of translated reading frames and revealed several translated short open reading frames upstream of, or embedded within, known virus protein-coding regions. Ribosome pause sites were identified in the virus replicase polyprotein pp1a ORF and investigated experimentally. Contrary to expectations, ribosomes were not found to pause at the ribosomal frameshift site. To our knowledge this is the first application of ribosome profiling to an RNA virus.
+1	153	159 Severe	Phenotype	HP_0012828
+1	160	165 acute	Phenotype	HP_0011009
+1	448	456 diarrhea	Phenotype	HP_0002014
+1	521	529 Ribosome	Gene_function	GO_0005840
+1	602	610 ribosome	Gene_function	GO_0005840
+1	827	838 translation	Gene_function	GO_0006412
+1	924	932 ribosome	Gene_function	GO_0005840
+1	992	1001 hepatitis	Phenotype	HP_0012115
+1	1173	1184 translation	Gene_function	GO_0006412
+1	1329	1340 translation	Gene_function	GO_0006412
+1	1475	1486 translation	Gene_function	GO_0006412
+1	1502	1513 translation	Gene_function	GO_0006412
+1	1800	1808 Ribosome	Gene_function	GO_0005840
+1	2058	2066 ribosome	Gene_function	GO_0005840
+1	HP-GO	HP_0012828	GO_0005840
+1	HP-GO	HP_0012828	GO_0006412
+1	HP-GO	HP_0011009	GO_0005840
+1	HP-GO	HP_0011009	GO_0006412
+1	HP-GO	HP_0002014	GO_0005840
+1	HP-GO	HP_0002014	GO_0006412
+1	GO-HP	GO_0005840	HP_0012115
+1	GO-HP	GO_0006412	HP_0012115
+
+2|chunk|Ribosome profiling is emerging as a powerful technique to monitor translation in living cells at sub-codon resolution. It has particular applicability to virology, with the capacity to identify viral mRNAs that are being translated during infection and to provide new insights into virus gene expression, regulation and host-virus interactions. In this work, we carried out the first ribosome profiling analysis of an RNA virus, using as a model system the murine coronavirus strain MHV-A59, a betacoronavirus in the same genus as the medically important SARS-CoV and MERS-CoV. Parallel ribosome profiling and RNA sequencing of infected-cell time points was performed during the course of MHV replication in mouse tissue culture cells and used to determine virus gene expression kinetics and the relative translational efficiencies of virus and host mRNAs. The sensitivity and precision of the approach permitted us to uncover several unanticipated features of coronavirus translation, giving insights into ribosomal frameshifting, ribosome pausing, and the utilisation of short, potentially regulatory, upstream open reading frames. We also identified some challenges associated with the technique that are of general relevance to the ribosome profiling technique and developed bioinformatic strategies to address these. complement) during synthesis of subgenomic negative-sense templates that then give rise to the positive-sense mRNAs. The process of discontinuous transcription during negative-strand RNA synthesis takes place via polymerase "jumping" at specific "transcription regulatory sequences" (TRSs) on the gRNA template. In MHV, mRNAs 2 to 7 encode, respectively, proteins 2 and haemagglutinin-esterase (HE), spike (S), protein 4, protein 5 and envelope (E), membrane (M), nucleocapsid (N) and internal protein (I), with mRNAs 5 and 7 being functionally bicistronic (Fig 1A) [6]. In the laboratory-adapted strain (MHV-A59) employed in the present study, however, expression of HE and protein 4 is defective. Fig 1. MHV RNA synthesis and translation. (A) Transcript map of the 31335-nt MHV-A59 genome.
+2	0	8 Ribosome	Gene_function	GO_0005840
+2	66	77 translation	Gene_function	GO_0006412
+2	288	303 gene expression	Gene_function	GO_0010467
+2	384	392 ribosome	Gene_function	GO_0005840
+2	587	595 ribosome	Gene_function	GO_0005840
+2	763	778 gene expression	Gene_function	GO_0010467
+2	973	984 translation	Gene_function	GO_0006412
+2	1032	1040 ribosome	Gene_function	GO_0005840
+2	1236	1244 ribosome	Gene_function	GO_0005840
+2	1341	1350 synthesis	Gene_function	GO_0009058
+2	1505	1518 RNA synthesis	Gene_function	GO_0032774
+2	1509	1518 synthesis	Gene_function	GO_0009058
+2	1758	1766 envelope	Gene_function	GO_0031975
+2	1772	1780 membrane	Gene_function	GO_0016020
+2	1786	1798 nucleocapsid	Gene_function	GO_0019013
+2	2032	2045 RNA synthesis	Gene_function	GO_0032774
+2	2036	2045 synthesis	Gene_function	GO_0009058
+2	2050	2061 translation	Gene_function	GO_0006412
+
+3|chunk|Polyproteins pp1a and pp1b are translated from the genomic RNA, with pp1b being expressed as a transframe fusion with pp1a (i.e. pp1ab) via 1 programmed ribosomal frameshifting (1 PRF). The 3 0 ORFs are expressed from a series of subgenomic RNAs produced during infection. Each subgenomic RNA contains a 5 0 leader sequence that is identical to the 5 0 leader of the genome, appended via polymerase "jumping" between body transcription regulatory sequences (TRSs) (green diamonds) and the leader TRS (orange diamond) during negative-strand synthesis. Due to mutations present in this laboratory-adapted strain, the hemagglutinin-esterase and ORF4 gene fragments (HE and 4; grey boxes) are not expected to be translated. (B) RiboSeq CHX (red) and RNASeq (green) densities at 5 h p.i. (repeat 1) in reads per million mapped reads (RPM). Read densities are plotted on a log(1+x) scale to cover the wide range in expression across the genome. Histograms show the positions of the 5 0 ends of reads with a +12 nt offset to map (for RPFs) approximate P-site positions. Negative-sense reads are shown in dark blue below the horizontal axis. (C) The positive-sense RiboSeq/RNASeq ratio, after first applying a 15-nt running mean (RM) filter to each individual distribution.
+3	154	177 ribosomal frameshifting	Gene_function	GO_0075523
+3	498	501 TRS	Gene_function	GO_0004829
+

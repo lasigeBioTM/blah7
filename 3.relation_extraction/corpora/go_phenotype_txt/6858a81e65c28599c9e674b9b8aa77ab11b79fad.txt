@@ -1,0 +1,24 @@
+0|chunk|3D Structure Prediction of Human 1- Adrenergic Receptor via Threading-Based Homology Modeling for Implications in Structure-Based Drug Designing
+
+1|chunk|Dilated cardiomyopathy is a disease of left ventricular dysfunction accompanied by impairment of the  1 -adrenergic receptor ( 1 -AR) signal cascade. The disturbed  1 -AR function may be based on an elevated sympathetic tone observed in patients with heart failure. Prolonged adrenergic stimulation may induce metabolic and electrophysiological disturbances in the myocardium, resulting in tachyarrhythmia that leads to the development of heart failure in human and sudden death. Hence,  1 -AR is considered as a promising drug target but attempts to develop effective and specific drug against this tempting pharmaceutical target is slowed down due to the lack of 3D structure of Homo sapiens  1 -AR (hsADR1). This study encompasses elucidation of 3D structural and physicochemical properties of hsADR1 via threading-based homology modeling. Furthermore, the docking performance of several docking programs including Surflex-Dock, FRED, and GOLD were validated by re-docking and cross-docking experiments. GOLD and Surflex-Dock performed best in re-docking and cross docking experiments, respectively. Consequently, Surflex-Dock was used to predict the binding modes of four hsADR1 agonists. This study provides clear understanding of hsADR1 structure and its binding mechanism, thus help in providing the remedial solutions of cardiovascular, effective treatment of asthma and other diseases caused by malfunctioning of the target protein.
+1	0	22 Dilated cardiomyopathy	Phenotype	HP_0001644
+1	8	22 cardiomyopathy	Phenotype	HP_0001638
+1	39	43 left	Phenotype	HP_0012835
+1	39	67 left ventricular dysfunction	Phenotype	HP_0005162
+1	254	267 heart failure	Phenotype	HP_0001635
+1	269	278 Prolonged	Phenotype	HP_0025297
+1	442	455 heart failure	Phenotype	HP_0001635
+1	1161	1168 binding	Gene_function	GO_0005488
+1	1270	1277 binding	Gene_function	GO_0005488
+1	1377	1383 asthma	Phenotype	HP_0002099
+1	HP-GO	HP_0001644	GO_0005488
+1	HP-GO	HP_0001638	GO_0005488
+1	HP-GO	HP_0012835	GO_0005488
+1	HP-GO	HP_0005162	GO_0005488
+1	HP-GO	HP_0001635	GO_0005488
+1	HP-GO	HP_0025297	GO_0005488
+1	GO-HP	GO_0005488	HP_0002099
+
+2|chunk|The sequence of hsADR1 (AC No: P08588) was retrieved from UniProt KB [30]. This target sequence comprises of 477 amino acid residues was submitted to NCBI-Protein BLAST [31] to Fig 1. Schematics of strategy implemented towards successful homology modeling of hsADR1 and its docking studies. *Y00 = Dobutamine, P32 = Cyanopindolol, P0G = Nanobody (Nb35), CAU = Carazolol, ERC = FAUC50. RET = Retinal, P32 = Cyanopindolol, CAU = Carazolol, Y00 = Dobutamine, WHJ = Carmoterol, 5FW = Isoprenaline, 68H = Salbutamol, TIM = Timolol, JRZ = ICI 118,551.
+2	373	376 ERC	Gene_function	GO_0055037
+

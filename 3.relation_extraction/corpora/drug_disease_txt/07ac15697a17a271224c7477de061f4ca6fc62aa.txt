@@ -1,0 +1,35 @@
+0|chunk|Topological Small-World Organization of the Fibroblastic Reticular Cell Network Determines Lymph Node Functionality
+
+1|chunk|Fibroblastic reticular cells (FRCs) form the cellular scaffold of lymph nodes (LNs) and establish distinct microenvironmental niches to provide key molecules that drive innate and adaptive immune responses and control immune regulatory processes. Here, we have used a graph theory-based systems biology approach to determine topological properties and robustness of the LN FRC network in mice. We found that the FRC network exhibits an imprinted small-world topology that is fully regenerated within 4 wk after complete FRC ablation. Moreover, in silico perturbation analysis and in vivo validation revealed that LNs can tolerate a loss of approximately 50% of their FRCs without substantial impairment of immune cell recruitment, intranodal T cell migration, and dendritic cell-mediated activation of antiviral CD8 + T cells. Overall, our study reveals the high topological robustness of the FRC network and the critical role of the network integrity for the activation of adaptive immune responses. confirmed that lymph nodes are able to tolerate FRC loss of approximately 50%. In vivo experiments corroborated these findings by demonstrating substantial impairment of immune cell recruitment, migration, and dendritic cell-mediated activation of antiviral CD8 + T cells, after critical loss of FRCs. In conclusion, the present study reveals the extraordinary topological robustness of the FRC network, crucial for establishing effective immunity.
+1	79	82 LNs	Chemical	CHEBI_137262
+1	148	157 molecules	Chemical	CHEBI_25367
+1	613	616 LNs	Chemical	CHEBI_137262
+1	802	811 antiviral	Chemical	CHEBI_22587
+1	922	926 role	Chemical	CHEBI_50906
+1	1249	1258 antiviral	Chemical	CHEBI_22587
+
+2|chunk|Robust Small-World Organization of the FRC Network PLOS Biology | Abbreviations: 7AAD, 7-amino-actinomycin D; CCL19, C-C motif chemokine 19; CLEC2, C-type lectin-like receptor 2; CXCL12, C-X-C motif chemokine 12; DAPI, 4 0 ,6-diamidin-2-phenylindol; DC, dendritic cell; DT, diphtheria toxin; DTR, diphtheria toxin receptor; EYFP, enhanced yellow fluorescent protein; FRC, fibroblastic reticular cell; IL-7, interleukin 7; IP, intraperitoneal(ly); IQR, interquartile range; IV, intravenous(ly); LN, lymph node; PBS, phosphate-buffered saline; PDPN, podoplanin; SD, standard deviation; SEM, standard error of the mean; SLO, secondary lymphoid organ.
+2	274	284 diphtheria	Disease	DOID_11405
+2	285	290 toxin	Chemical	CHEBI_27026
+2	292	295 DTR	Chemical	CHEBI_16296
+2	297	307 diphtheria	Disease	DOID_11405
+2	308	313 toxin	Chemical	CHEBI_27026
+2	DOID-CHEBI	DOID_11405	CHEBI_27026
+2	DOID-CHEBI	DOID_11405	CHEBI_16296
+
+3|chunk|is therefore important to assess the topological robustness of the FRC network and to define those parameters that determine network resilience. To address these questions, we have utilized the Ccl19 idtr mouse model [7] , which enables diphtheria toxin (DT)-mediated ablation of FRCs expressing C-C motif chemokine 19 (CCL19). Graph theory-based analysis showed that the LN FRC network forms a lattice-like small-world network that exhibits complex network topology, substantial connectivity, and high capacity for clustering. Moreover, in silico analysis and thorough in vivo validation revealed substantial topological robustness of the FRC network.
+3	237	247 diphtheria	Disease	DOID_11405
+3	248	253 toxin	Chemical	CHEBI_27026
+3	DOID-CHEBI	DOID_11405	CHEBI_27026
+
+4|chunk|Results
+
+5|chunk|The different microenvironments of the LN, e.g., T or B cell zones or the subcapsular region, are built by distinct FRC subpopulations [10] . Importantly, all LN FRCs can be specifically targeted in vivo using the Ccl19-cre mouse model (Fig 1A) , whilst transgene expression is absent in hematopoietic cells [5] including CD11c + MHCII high DCs (not shown). For the structural network analysis, we have focused on the classical podoplanin (PDPN)-expressing T cell zone FRCs that orchestrate the interaction of DCs and T cells [31] and provide important survival factors for T cells, such as interleukin 7 (IL-7) [6,32]. Three-dimensional reconstruction of high-resolution confocal microscopy Z-stacks covering a volume of 304 x 304 x 32 m was applied to analyze the FRC network structure (Fig 1B) by defining nodes as the enhanced yellow fluorescent protein (EYFP)-positive FRC centers of mass and edges as physical connections between adjacent FRCs (Fig 1C and S1 Video) .
+5	341	344 DCs	Chemical	CHEBI_40009
+5	510	513 DCs	Chemical	CHEBI_40009
+5	851	858 protein	Chemical	CHEBI_16541
+
+6|chunk|Small-world networks exhibit the intrinsic property that most nodes can be reached from every other node by a small number of steps, even though most nodes are not direct neighbors. This enables small-world networks with fast and efficient information transfer, which is characterized by small shortest path lengths (node-to-node distances). These networks also exhibit high capacity for clustering (i.e., connectivity between neighboring nodes), which is strikingly different from random networks in which all nodes have the same probability of containing an edge. Thus, a specific network can be classified as a small-world network by comparing network-level statistics to equivalent random and lattice networks. Moreover, small-worldness can be described by the  and  parameters (see S1 Table) , which classify a network as small world if  > 1 and  % 0 (range 0.5 to +0.5) [33] [34] [35] . Accordingly, random networks will show  % 1 and positive 0 <  < 1, while lattice networks will have  > 1 like small-world networks but negative 1 <  < 0. As shown in Fig 1D (left panel) , a representative FRC network sample contained 176 nodes (N) and 685 edges (E) with  and  values of +6.7 and 0.27, respectively. Note that network connectivity is color coded with highly connected nodes (E ! 12) depicted in red. The equivalent random network with the same number of nodes and edges as the FRC network has both  = 1 and  = 0.93 positive (Fig 1D, middle) . A regular ring lattice network with the same number of nodes and eight edges per node connecting to nearest neighbors fulfills the condition for small-worldness with  = 3.53, while the negative  = 0.76 identifies the lattice structure, as expected (Fig 1D, right) . This initial network analysis with  = 6.128  0.659 and  = 0.308  0.069 (n = 6 mice) indicates that FRCs of the T cell zone form a small-world network with lattice-like properties.
+
+7|chunk|Since the functional properties of a network are determined by its structure [36], we assessed first whether the FRC network structure is hardwired and will be reestablished after removal of Robust Small-World Organization of the FRC Network PLOS Biology |
+

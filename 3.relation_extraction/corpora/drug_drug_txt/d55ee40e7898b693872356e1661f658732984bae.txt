@@ -1,0 +1,70 @@
+0|chunk|A novel quantitative PCR mediated by high-fidelity DNA polymerase OPEN
+0	51	54 DNA	Chemical	CHEBI_16991
+
+1|chunk|The biggest challenge for accurate diagnosis of viral infectious disease is the high genetic variability of involved viruses, which affects amplification efficiency and results in low sensitivity and narrow spectrum. Here, we developed a new simple qPCR mediated by high-fidelity (HF) DNA polymerase. The new method utilizes an HFman probe and one primer. Fluorescent signal was generated from the 3-5 hydrolysis of HFman probe by HF DNA polymerase before elongation initiation. Mismatches between probe/primer and template have less influence on the amplification efficiency of the new method. The new qPCR exhibited higher sensitivity and better adaptability to sequence variable templates than the conventional TaqMan probe based-qPCR in quantification of HIV-1 viral load. Further comparison with COBAS TaqMan HIV-1 Test (v2.0) showed a good correlation coefficient (R 2 = 0.79) between both methods in quantification of HIV-1 viral load among 21 clinical samples. The characteristics of tolerance to variable templates and one probe-one primer system imply that the probe/primer design for the new method will be easier and more flexible than the conventional method for highly heterogeneous viruses. Therefore, the HF DNA polymerase-mediated qPCR method is a simple, sensitive and promising approach for the development of diagnostics for viral infectious diseases.
+1	285	288 DNA	Chemical	CHEBI_16991
+1	334	339 probe	Chemical	CHEBI_50406
+1	424	429 probe	Chemical	CHEBI_50406
+1	436	439 DNA	Chemical	CHEBI_16991
+1	500	505 probe	Chemical	CHEBI_50406
+1	723	728 probe	Chemical	CHEBI_50406
+1	1073	1078 probe	Chemical	CHEBI_50406
+1	1226	1229 DNA	Chemical	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_50406
+
+2|chunk|Real-time quantitative PCR (qPCR) was developed in early 1990s for the detection and quantification of nucleic acids 1 , which is widely used in almost all fields of biomedical research, agriculture, food and environment sciences 2-5 . Although some new methods such as isothermal amplification methods, loop mediated isothermal amplification (LAMP) 6, 7 , rolling circle amplification (RCA) 8, 9 , recombinase polymerase amplification (RPA) 10 and specific high-sensitivity enzymatic reporter unlocking (SHERLOCK) 11 had been developed in recent years, qPCR is still considered to be the most robust technology in clinical diagnostic assays, especially for infectious diseases 12-14 . RT-qPCR is usually accomplished by using either double-stranded DNA-binding dyes (e.g. SYBR green I 15 and SYTO9 16, 17 or fluorescence-based probes 18 . The dsDNA-binding dyes are cheaper than reagents used in the probe-based methods; however, their non-specific binding to dsDNA may result in false positive results, and inaccurate quantification 19 , and thus limits their use in qPCR for qualification of gene expression and molecular diagnosis. There are three main types of fluorescence-based probes in qPCR, including hydrolysis probes (often called as TaqMan probes) 20 , hybridization probes 21, 22 , and molecular beacons 23 . Some other types of probes, such as scorpion primers 24 , light upon extension (LUX) primers 25 and Amplifluor primers 26 were also developed for qPCR. Among these new probe types, the TaqMan probes were the most widely used for the detection and quantification of nucleic acids, and often developed into commercial kits for clinical diagnosis. Molecular beacons were more often used in the detection of single nucleotide polymorphisms (SNP) 27, 28 .
+2	103	116 nucleic acids	Chemical	CHEBI_33696
+2	111	116 acids	Chemical	CHEBI_37527
+2	200	204 food	Chemical	CHEBI_33290
+2	762	766 dyes	Chemical	CHEBI_37958
+2	773	785 SYBR green I	Chemical	CHEBI_51461
+2	858	862 dyes	Chemical	CHEBI_37958
+2	880	888 reagents	Chemical	CHEBI_33893
+2	1381	1386 light	Chemical	CHEBI_30212
+2	1491	1496 probe	Chemical	CHEBI_50406
+2	1588	1601 nucleic acids	Chemical	CHEBI_33696
+2	1596	1601 acids	Chemical	CHEBI_37527
+2	1734	1744 nucleotide	Chemical	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_33290
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_37958
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_51461
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_33696	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_33290
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_37958
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_51461
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_37958
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_51461
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_33290	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_37958	CHEBI_51461
+2	CHEBI-CHEBI	CHEBI_37958	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_37958	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_37958	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_37958	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_51461	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_51461	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_51461	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_51461	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_33893	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_33893	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_33893	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_36976
+
+3|chunk|The detection and quantification of pathogens requires high sensitivity, specificity and reproducibility 29 . For qPCR, high sensitivity and specificity depend on the well-designed primers and probe that all bind to the highly conserved genomic regions of target pathogens. If the primers or probe bind to non-conserved genomic (e.i. highly variable) regions, amplification efficiency will be greatly reduced, which is a major reason for low detection sensitivity and specificity for some viruses 29, 30 . Currently, emerging and reemerging infectious diseases are a serious threat to global public health. More than 70% of emerging and reemerging infectious diseases are caused by viruses, and vast majority of human viruses (especially RNA viruses) have higher mutation rates than bacteria, fungi and other pathogens (e.g. mycoplasma and chlamydia). Because of high genetic variability, some viruses
+3	193	198 probe	Chemical	CHEBI_50406
+3	292	297 probe	Chemical	CHEBI_50406
+3	738	741 RNA	Chemical	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_50406	CHEBI_33697
+

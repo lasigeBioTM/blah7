@@ -1,0 +1,73 @@
+0|chunk|Osteopontin Fragments with Intact Thrombin-Sensitive Site Circulate in Cervical Cancer Patients
+0	80	86 Cancer	Phenotype	HP_0002664
+
+1|chunk|We investigated whether circulating osteopontin (OPN) could be used as a biomarker for cervical cancer. We employed a monoclonal antibody (mAb 659) specific for the unique and intact thrombin-sensitive site in OPN using an inhibition ELISA. We found significantly higher levels of OPN in 33 cervical cancer patients in both the plasma (mean +/-SD, 612 +/-106 ng/ mL) and serum (424 +/-121 ng/mL) compared to healthy subjects [409 +/-56 ng/mL, from 31 plasma samples (P < 0.0001), and 314 +/-98 ng/mL, from 32 serum samples (P = 0.0002), respectively]. Similar results were obtained when the plasma from a bigger group (147 individuals) of cervical cancer patients (560 +/-211 ng/mL) were compared with the same plasma samples of the healthy individuals (P = 0.0014). More significantly, the OPN level was highest in stage III-IV disease (614 +/-210 ng/mL, from 52 individuals; P = 0.0001) and least and nondiscriminatory in stage I (473 +/-110 ng/mL, from 40 individuals; P = 0.5318). No such discrimination was found when a mAb of a different specificity (mAb 446) was used in a similar inhibition ELISA to compare the two groups in the first study; a commercial capture ELISA also failed. The possibility that the target epitope recognized by the antibody probe in these assays was absent from the circulating OPN due to protein truncation was supported by gel fractionation of the OPN found in patients' plasma: 60-64 kDa fragments were found instead of the presumably full-length OPN (68 kDa) seen in healthy people. How these fragments are generated and what possible role they play in cancer biology remain interesting questions.
+1	96	102 cancer	Phenotype	HP_0002664
+1	129	137 antibody	Gene_function	GO_0003823
+1	129	137 antibody	Gene_function	GO_0042571
+1	300	306 cancer	Phenotype	HP_0002664
+1	408	415 healthy	Phenotype	HP_0032322
+1	648	654 cancer	Phenotype	HP_0002664
+1	733	740 healthy	Phenotype	HP_0032322
+1	1249	1257 antibody	Gene_function	GO_0003823
+1	1249	1257 antibody	Gene_function	GO_0042571
+1	1505	1512 healthy	Phenotype	HP_0032322
+1	1591	1597 cancer	Phenotype	HP_0002664
+1	HP-GO	HP_0002664	GO_0003823
+1	HP-GO	HP_0002664	GO_0042571
+1	GO-HP	GO_0003823	HP_0032322
+1	GO-HP	GO_0042571	HP_0032322
+
+2|chunk|. As a member of the family of small integrin-binding ligand, N-linked glycophosphoproteins (SIBLINGs), OPN is highly conserved among mammals [3] .
+
+3|chunk|Human OPN has 314 amino acids, including a unique and conserved thrombin-sensitive site. Cleavage of this site by thrombin, which normally occurs in the circulation, fragments the protein roughly into two equal halves, each with different biological activities. The amino-terminal half of the protein binds to a variety of cell surface integrins, such as v1, v3, v5, v6, and 81, through the arginine-glycine-aspartate ( 159 RGD 161 ) motif in the protein, and also with 41 and 91 integrins, through the thrombin-generated site ( 162 SVVYGLR 168 ). The carboxy-terminal half interacts with the CD44 cell surface splice variants, CD44v6 and CD44v3 [4, 5] . Through these various extracellular interactions, thrombin-activated OPN plays pivotal roles in diverse physiological processes, such as bone remodeling, inflammation, and wound healing [6], as well as in various pathologies, including autoimmunity [7-9] and tumor metastasis [10] or progression [11, 12] . Thrombin-activated OPN has also been reported to inhibit the apoptosis in, or promote the survival and proliferation of, cancer cells [3] .
+3	323	335 cell surface	Gene_function	GO_0009986
+3	612	624 cell surface	Gene_function	GO_0009986
+3	691	704 extracellular	Gene_function	GO_0005576
+3	841	854 wound healing	Gene_function	GO_0042060
+3	905	917 autoimmunity	Phenotype	HP_0002960
+3	928	933 tumor	Phenotype	HP_0002664
+3	1097	1103 cancer	Phenotype	HP_0002664
+3	GO-HP	GO_0009986	HP_0002960
+3	GO-HP	GO_0009986	HP_0002664
+3	GO-HP	GO_0005576	HP_0002960
+3	GO-HP	GO_0005576	HP_0002664
+3	GO-HP	GO_0042060	HP_0002960
+3	GO-HP	GO_0042060	HP_0002664
+
+4|chunk|More recently, OPN was shown to exert an intracellular function which can affect diverse cellular processes such as tumor progression [13] and interferon- production in dendritic cells [14] . Here, too, these functions require the OPN protein to be appropriately cleaved, not by thrombin, but by various caspases [15] or produced as appropriate truncates from RNA splice variants [16] [17] [18] . Extracellularly, various metalloproteinases (MMPs) also cleave OPN into various types of fragments which have various tumorigenic or biological activities [19, 20] .
+4	41	54 intracellular	Gene_function	GO_0005622
+4	116	121 tumor	Phenotype	HP_0002664
+4	GO-HP	GO_0005622	HP_0002664
+
+5|chunk|Overexpression of OPN in the form of mRNA transcripts or intracellular proteins was observed in tumor tissues derived from breast or lung cancer [21, 22] , ovarian cancer [23] , and cervical cancer [24] [25] [26] [27] . Significantly increased levels of circulating OPN were also reported for several types of cancer including cervical cancer [26] , prostate cancer [28] , and colorectal cancer [29] . However, there were conflicting reports regarding head and neck squamous cell carcinoma [30, 31] . In addition, different diagnostic kits were found to yield quite different results from one another for the same patient samples [32] . We were interested to use this non-invasive method to examine our cervical cancer patients. This type of cancer is very common in Hong Kong [24]; it is highly invasive and lethal since the disease can progress rapidly and asymptomatically from preclinical-lesion to overt cancer. We were disappointed with the results obtained initially using a commercial OPN detection kit, and consequently decided to devise our own detection assays. We herein describe the development of such an assay based on the use of a unique monoclonal antibody and an assay format that is used infrequently-inhibition ELISA.
+5	57	70 intracellular	Gene_function	GO_0005622
+5	96	101 tumor	Phenotype	HP_0002664
+5	138	144 cancer	Phenotype	HP_0002664
+5	164	170 cancer	Phenotype	HP_0002664
+5	191	197 cancer	Phenotype	HP_0002664
+5	310	316 cancer	Phenotype	HP_0002664
+5	336	342 cancer	Phenotype	HP_0002664
+5	350	365 prostate cancer	Phenotype	HP_0012125
+5	359	365 cancer	Phenotype	HP_0002664
+5	388	394 cancer	Phenotype	HP_0002664
+5	466	489 squamous cell carcinoma	Phenotype	HP_0002860
+5	480	489 carcinoma	Phenotype	HP_0030731
+5	712	718 cancer	Phenotype	HP_0002664
+5	742	748 cancer	Phenotype	HP_0002664
+5	909	915 cancer	Phenotype	HP_0002664
+5	1165	1173 antibody	Gene_function	GO_0003823
+5	1165	1173 antibody	Gene_function	GO_0042571
+5	GO-HP	GO_0005622	HP_0002664
+5	GO-HP	GO_0005622	HP_0012125
+5	GO-HP	GO_0005622	HP_0002860
+5	GO-HP	GO_0005622	HP_0030731
+5	HP-GO	HP_0002664	GO_0003823
+5	HP-GO	HP_0002664	GO_0042571
+5	HP-GO	HP_0012125	GO_0003823
+5	HP-GO	HP_0012125	GO_0042571
+5	HP-GO	HP_0002860	GO_0003823
+5	HP-GO	HP_0002860	GO_0042571
+5	HP-GO	HP_0030731	GO_0003823
+5	HP-GO	HP_0030731	GO_0042571
+

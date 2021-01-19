@@ -1,0 +1,91 @@
+0|chunk|DUSP1 regulates apoptosis and cell migration, but not the JIP1- protected cytokine response, during Respiratory Syncytial Virus and Sendai Virus infection OPEN
+
+1|chunk|The host antiviral response involves the induction of interferons and proinflammatory cytokines, but also the activation of cell death pathways, including apoptosis, to limit viral replication and spreading. This host defense is strictly regulated to eliminate the infection while limiting tissue damage that is associated with virus pathogenesis. Post-translational modifications, most notably phosphorylation, are key regulators of the antiviral defense implying an important role of protein phosphatases. Here, we investigated the role of the dual-specificity phosphatase 1 (DUSP1) in the host defense against human respiratory syncytial virus (RSV), a pathogenic virus of the Pneumoviridae family, and Sendai virus (SeV), a model virus being developed as a vector for anti-RSV vaccine. We found that DUSP1 is upregulated before being subjected to proteasomal degradation. DUSP1 does not inhibit the antiviral response, but negatively regulates virus-induced JNK/p38 MAPK phosphorylation. Interaction with the JNK-interacting protein 1 scaffold protein prevents dephosphorylation of JNK by DUSP1, likely explaining that AP-1 activation and downstream cytokine production are protected from DUSP1 inhibition. Importantly, DUSP1 promotes SeV-induced apoptosis and suppresses cell migration in RSVinfected cells. Collectively, our data unveils a previously unrecognized selective role of DUSP1 in the regulation of tissue damage and repair during infections by RSV and SeV.
+1	9	27 antiviral response	Gene_function	GO_0051607
+1	124	134 cell death	Gene_function	GO_0008219
+1	563	574 phosphatase	Gene_function	GO_0016791
+1	903	921 antiviral response	Gene_function	GO_0051607
+1	962	965 JNK	Gene_function	GO_0004705
+1	970	974 MAPK	Gene_function	GO_0004707
+1	1065	1082 dephosphorylation	Gene_function	GO_0016311
+1	1086	1089 JNK	Gene_function	GO_0004705
+1	1154	1173 cytokine production	Gene_function	GO_0001816
+1	1276	1290 cell migration	Gene_function	GO_0016477
+
+2|chunk|Respiratory syncytial virus (RSV) belongs to the Pneumoviridae family of large enveloped negative-sense ssRNA viruses that includes important human pathogens 1,2 . RSV is a leading cause of acute lower respiratory tract infections associated with morbidity and mortality in infants, children and elderly, but also adults of all-age with a compromised immune system, cardiopulmonary diseases or following transplantation 3,4 . The capacity of the host to mount an appropriate antiviral defense aimed at limiting virus replication and spreading is critical to determine the outcome of the infection. As a consequence, the inability of the host to sustain an antiviral response leads to failure in eradicating the infection. Conversely, uncontrolled duration or intensity of the response is harmful to the host and is associated with the development of virus-associated pathogenesis, chronic inflammatory diseases and various autoimmune diseases 5,6 . Therefore, these responses need to reach the ideal intensity and duration for efficient fighting of the infection while limiting tissue damage and promote tissue repair 7 . To this aim, the various components of the host antiviral defense, including the transcriptional induction of interferons (IFNs) and proinflammatory cytokines and chemokines, but also the activation of cell death pathways, such as apoptosis, are subjected to stringent regulation by both positive and negative mechanisms 8,9 .
+2	190	195 acute	Phenotype	HP_0011009
+2	196	230 lower respiratory tract infections	Phenotype	HP_0002783
+2	656	674 antiviral response	Gene_function	GO_0051607
+2	759	768 intensity	Phenotype	HP_0012824
+2	881	888 chronic	Phenotype	HP_0011010
+2	1000	1009 intensity	Phenotype	HP_0012824
+2	1324	1334 cell death	Gene_function	GO_0008219
+2	HP-GO	HP_0011009	GO_0051607
+2	HP-GO	HP_0011009	GO_0008219
+2	HP-GO	HP_0002783	GO_0051607
+2	HP-GO	HP_0002783	GO_0008219
+2	GO-HP	GO_0051607	HP_0012824
+2	GO-HP	GO_0051607	HP_0011010
+2	HP-GO	HP_0012824	GO_0008219
+2	HP-GO	HP_0011010	GO_0008219
+
+3|chunk|Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 17388 | Upon virus entry and sensing by the cytosolic pathogen recognition receptors (PRRs) retinoic acid-inducible gene I (RIG-I) and melanoma differentiation-associated protein 5 (MDA-5), the mitochondrial membrane-associated adaptor (MAVS) coordinates multiple signalling pathways ultimately leading to the activation of the transcription factors IFN regulatory factors (IRF) 3/7, Nuclear Factor B (NF-B) and Activator Protein 1 (AP-1) 10-12 . Activation of IRF3 relies on a complex set of phosphorylations mainly mediated by the TANK-binding kinase 1 (TBK1)/ IB kinase epsilon (IKK) kinases 13-17 . NF-B, mainly p65/p50, activation during SeV and RSV infections occurs through IB kinase (IKK)-dependent phosphorylation of the NF-B inhibitor protein IB and of the p65 subunit 18, 19 . The signaling cascade leading to AP-1 activation is more elusive, but ultimately results in the phosphorylation of the nuclear Activating Transcription Factor 2 (ATF-2) and c-Jun subunits by JNK and p38 Mitogen-Activated Protein Kinases (MAPKs) 10,20,21 . The activation of these transcription factors promotes the transcription of early antiviral genes, type I/III IFNs and proinflammatory cytokines and chemokines 12, 22, 23 . In response to IFNs, hundreds of interferon-stimulated genes (ISGs) are induced to limit virus replication through enhancement of virus detection and innate immune signaling, cytoskeleton remodelling, inhibition of protein translation, induction of apoptosis, amongst other antiviral functions 24-26 . These same PRRs have also been shown to activate IFN-independent cell death pathways, including apoptosis 8 .
+3	222	230 melanoma	Phenotype	HP_0002861
+3	281	294 mitochondrial	Phenotype	HP_0001427
+3	351	361 signalling	Gene_function	GO_0023052
+3	800	815 phosphorylation	Gene_function	GO_0016310
+3	888	897 signaling	Gene_function	GO_0023052
+3	980	995 phosphorylation	Gene_function	GO_0016310
+3	1075	1078 JNK	Gene_function	GO_0004705
+3	1477	1486 signaling	Gene_function	GO_0023052
+3	1488	1500 cytoskeleton	Gene_function	GO_0005856
+3	1680	1690 cell death	Gene_function	GO_0008219
+3	HP-GO	HP_0002861	GO_0023052
+3	HP-GO	HP_0002861	GO_0016310
+3	HP-GO	HP_0002861	GO_0004705
+3	HP-GO	HP_0002861	GO_0005856
+3	HP-GO	HP_0002861	GO_0008219
+3	HP-GO	HP_0001427	GO_0023052
+3	HP-GO	HP_0001427	GO_0016310
+3	HP-GO	HP_0001427	GO_0004705
+3	HP-GO	HP_0001427	GO_0005856
+3	HP-GO	HP_0001427	GO_0008219
+
+4|chunk|Post-translational modifications (PTMs), including phosphorylation, ubiquitylation and acetylation, of signal transduction proteins involved in the pathways engaged downstream of virus sensing are crucial to reach a fine-tuned regulation of the innate immune response 27 . In light of the very well documented importance of phosphorylation PTMs in the regulation of the antiviral response, the protein phosphatases negatively regulating the signaling events have started to be identified. The exact role of the Ser/Thr protein phosphatase 1 (PP1) in the antiviral response remains elusive as PP1 and PP1 were found to dephosphorylate MDA-5 and RIG-I leading to their activation 28 , while they were also described to be responsible for the dephosphorylation of key C-terminal phosphoresidues of IRF3 leading to its inhibition 29 . Most likely reflecting the complexity of IRF3 regulation through phosphorylation at multiple C-terminal phosphoacceptor sites, two other phosphatases, the Ser/Thr protein phosphatase 2 (PP2A) and MAPK phosphatase (MKP) 5, dephosphorylate IRF3 to terminate its activation 30-32 . The Ser/Thr protein phosphatase, Mg 2+ /Mn 2+ -dependent (PPM) 1B acts as a TBK1 phosphatase to inhibit IRF3 activation, while PPM1A targets both TBK1/IKK and MAVS for dephosphorylation to negatively regulate the antiviral response 33,34 .
+4	51	66 phosphorylation	Gene_function	GO_0016310
+4	103	122 signal transduction	Gene_function	GO_0007165
+4	110	122 transduction	Gene_function	GO_0009293
+4	245	267 innate immune response	Gene_function	GO_0045087
+4	252	267 immune response	Gene_function	GO_0006955
+4	324	339 phosphorylation	Gene_function	GO_0016310
+4	370	388 antiviral response	Gene_function	GO_0051607
+4	441	450 signaling	Gene_function	GO_0023052
+4	527	538 phosphatase	Gene_function	GO_0016791
+4	554	572 antiviral response	Gene_function	GO_0051607
+4	742	759 dephosphorylation	Gene_function	GO_0016311
+4	898	913 phosphorylation	Gene_function	GO_0016310
+4	1004	1015 phosphatase	Gene_function	GO_0016791
+4	1029	1033 MAPK	Gene_function	GO_0004707
+4	1034	1045 phosphatase	Gene_function	GO_0016791
+4	1132	1143 phosphatase	Gene_function	GO_0016791
+4	1188	1192 TBK1	Gene_function	GO_0008384
+4	1193	1204 phosphatase	Gene_function	GO_0016791
+4	1258	1262 TBK1	Gene_function	GO_0008384
+4	1281	1298 dephosphorylation	Gene_function	GO_0016311
+4	1326	1344 antiviral response	Gene_function	GO_0051607
+
+5|chunk|In the present study, we sought to address the role of the MKP-1/DUSP1 dual phosphatase (referred to thereafter as DUSP1) in the regulation of the host-defense against RSV and Sendai virus (SeV), a model paramyxovirus that is currently evaluated as a replication-competent backbone for the development of an RSV vaccine 3 . We demonstrate that DUSP1 is a negative regulator of RSV-and SeV-induced JNK/p38 MAPK phosphorylation. However, this function is neither linked to the inhibition of the antiviral response nor to the induction of a cytokine and chemokine response elicited during virus infection. Interestingly, we found that interaction of JNK by the JNK interacting protein (JIP) 1 scaffold protein, previously shown to be critical for AP-1 and downstream cytokine production specifically, protects JNK from dephosphorylation by DUSP1. Although we confirmed that a JNK/p38 signalling module is involved in the induction of virus-induced apoptosis, our data suggests that DUSP1 has a pro-apoptotic function independently of JNK and p38 during SeV infection. Finally, we found that DUSP1 dampens cell migration during RSV infection. Altogether, these findings point to a previously unrecognized role of DUSP1 in functions that have an impact on virus-associated tissue damage and repair.
+5	76	87 phosphatase	Gene_function	GO_0016791
+5	397	400 JNK	Gene_function	GO_0004705
+5	405	409 MAPK	Gene_function	GO_0004707
+5	493	511 antiviral response	Gene_function	GO_0051607
+5	647	650 JNK	Gene_function	GO_0004705
+5	658	661 JNK	Gene_function	GO_0004705
+5	764	783 cytokine production	Gene_function	GO_0001816
+5	807	810 JNK	Gene_function	GO_0004705
+5	816	833 dephosphorylation	Gene_function	GO_0016311
+5	873	876 JNK	Gene_function	GO_0004705
+5	881	891 signalling	Gene_function	GO_0023052
+5	1031	1034 JNK	Gene_function	GO_0004705
+5	1102	1116 cell migration	Gene_function	GO_0016477
+

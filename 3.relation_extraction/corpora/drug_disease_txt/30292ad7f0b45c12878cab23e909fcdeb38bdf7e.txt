@@ -1,0 +1,67 @@
+0|chunk|molecules Inhibition of Porcine Aminopeptidase M (pAMP) by the Pentapeptide Microginins
+0	0	9 molecules	Chemical	CHEBI_25367
+0	63	75 Pentapeptide	Chemical	CHEBI_48545
+
+1|chunk|Aminopeptidase M (AMP) inhibition is of interest for several diseases, such as highly vascularized cancer types. AMP can be inhibited by linear pentapeptides isolated from Microcystis aeruginosa LTPNA08 (MG7XX). Porcine AMP inhibition-a model for human AMP-activity was spectrophotometrically measured by the formation of p-nitroanilide from L-leucine-p-nitroanilide substrate by AMP. AMP inhibition by MG770 exhibited comparable inhibition levels to amastatin (IC 50 values: 1.20  0.1 M and 0.98  0.1 M, respectively), while MG756 was slightly less potent (with IC 50 values of 3.26  0.5 M). Molecular modelling suggests a potential binding mode, based on the interaction with the Zn 2+ cofactor, where MG770 s extra methyl group contributes to the disturbance of the Zn 2+ cofactor complex and highlights the importance of hydrophobicity for the site. Molecules 2019, 24, 4369 2 of 14
+1	18	21 AMP	Chemical	CHEBI_16027
+1	99	105 cancer	Disease	DOID_162
+1	113	116 AMP	Chemical	CHEBI_16027
+1	144	157 pentapeptides	Chemical	CHEBI_48545
+1	220	223 AMP	Chemical	CHEBI_16027
+1	380	383 AMP	Chemical	CHEBI_16027
+1	385	388 AMP	Chemical	CHEBI_16027
+1	451	460 amastatin	Chemical	CHEBI_2624
+1	694	702 cofactor	Chemical	CHEBI_23357
+1	724	730 methyl	Chemical	CHEBI_29309
+1	724	736 methyl group	Chemical	CHEBI_32875
+1	781	789 cofactor	Chemical	CHEBI_23357
+1	860	869 Molecules	Chemical	CHEBI_25367
+1	CHEBI-DOID	CHEBI_16027	DOID_162
+1	DOID-CHEBI	DOID_162	CHEBI_48545
+1	DOID-CHEBI	DOID_162	CHEBI_2624
+1	DOID-CHEBI	DOID_162	CHEBI_23357
+1	DOID-CHEBI	DOID_162	CHEBI_29309
+1	DOID-CHEBI	DOID_162	CHEBI_32875
+1	DOID-CHEBI	DOID_162	CHEBI_25367
+
+2|chunk|in two steps (illustrated in Figure 1 and based on the literature [6, 7] ). The first step involves proton abstraction from the water molecule, coordinated with the catalytic Zn 2+ and stabilized Glu350 (not depicted in Figure 1 ), by the Glu384, which then allows the substrate entrance. The carbonyl oxygen of the substrate's peptide bond is activated by zinc and Tyr472, while the alpha-nitrogen is stabilized by the Ala348 main-chain oxygen, in an intermediate state. As a last step, the peptide bond is hydrolyzed, by the catalytic water attack on the carbonyl carbon of the peptide bond, while the Glu384 shuttles a proton from the catalytic water to the leaving nitrogen group (Figure 1) . Such a coordinated mechanism heavily relies in protonation state of individual residues, as shown by the work of Chen et al., 2014, where the porcine AMP loses activity in high pH solutions (likely due to the deprotonation of Tyr472) and in very low pH (due to the protonation of Glu384) [6, 7] . Molecules 2019, 24, x FOR PEER REVIEW 2 of 15
+2	100	106 proton	Chemical	CHEBI_24636
+2	128	133 water	Chemical	CHEBI_15377
+2	293	301 carbonyl	Chemical	CHEBI_23019
+2	302	308 oxygen	Chemical	CHEBI_15379
+2	328	335 peptide	Chemical	CHEBI_16670
+2	357	361 zinc	Chemical	CHEBI_27363
+2	438	444 oxygen	Chemical	CHEBI_15379
+2	492	499 peptide	Chemical	CHEBI_16670
+2	537	542 water	Chemical	CHEBI_15377
+2	557	565 carbonyl	Chemical	CHEBI_23019
+2	566	572 carbon	Chemical	CHEBI_27594
+2	580	587 peptide	Chemical	CHEBI_16670
+2	622	628 proton	Chemical	CHEBI_24636
+2	648	653 water	Chemical	CHEBI_15377
+2	669	677 nitrogen	Chemical	CHEBI_17997
+2	669	677 nitrogen	Chemical	CHEBI_25555
+2	669	683 nitrogen group	Chemical	CHEBI_51144
+2	847	850 AMP	Chemical	CHEBI_16027
+2	994	1003 Molecules	Chemical	CHEBI_25367
+
+3|chunk|The first step involves proton abstraction from the water molecule, coordinated with the catalytic Zn 2+ and stabilized Glu350 (not depicted in Figure 1 ), by the Glu384, which then allows the substrate entrance. The carbonyl oxygen of the substrate's peptide bond is activated by zinc and Tyr472, while the alpha-nitrogen is stabilized by the Ala348 main-chain oxygen, in an intermediate state. As a last step, the peptide bond is hydrolyzed, by the catalytic water attack on the carbonyl carbon of the peptide bond, while the Glu384 shuttles a proton from the catalytic water to the leaving nitrogen group (Figure 1) . Such a coordinated mechanism heavily relies in protonation state of individual residues, as shown by the work of Chen et al., 2014, where the porcine AMP loses activity in high pH solutions (likely due to the deprotonation of Tyr472) and in very low pH (due to the protonation of Glu384) [6, 7] .
+3	24	30 proton	Chemical	CHEBI_24636
+3	52	57 water	Chemical	CHEBI_15377
+3	217	225 carbonyl	Chemical	CHEBI_23019
+3	226	232 oxygen	Chemical	CHEBI_15379
+3	252	259 peptide	Chemical	CHEBI_16670
+3	281	285 zinc	Chemical	CHEBI_27363
+3	362	368 oxygen	Chemical	CHEBI_15379
+3	416	423 peptide	Chemical	CHEBI_16670
+3	461	466 water	Chemical	CHEBI_15377
+3	481	489 carbonyl	Chemical	CHEBI_23019
+3	490	496 carbon	Chemical	CHEBI_27594
+3	504	511 peptide	Chemical	CHEBI_16670
+3	546	552 proton	Chemical	CHEBI_24636
+3	572	577 water	Chemical	CHEBI_15377
+3	593	601 nitrogen	Chemical	CHEBI_17997
+3	593	601 nitrogen	Chemical	CHEBI_25555
+3	593	607 nitrogen group	Chemical	CHEBI_51144
+3	771	774 AMP	Chemical	CHEBI_16027
+

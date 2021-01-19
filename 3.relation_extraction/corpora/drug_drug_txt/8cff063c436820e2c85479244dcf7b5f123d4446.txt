@@ -1,0 +1,14 @@
+0|chunk|A Novel Approach to Clustering Genome Sequences Using Inter-nucleotide Covariance
+
+1|chunk|Classification of DNA sequences is an important issue in the bioinformatics study, yet most existing methods for phylogenetic analysis including Multiple Sequence Alignment (MSA) are time-consuming and computationally expensive. The alignment-free methods are popular nowadays, whereas the manual intervention in those methods usually decreases the accuracy. Also, the interactions among nucleotides are neglected in most methods. Here we propose a new Accumulated Natural Vector (ANV) method which represents each DNA sequence by a point in R 18 . By calculating the Accumulated Indicator Functions of nucleotides, we can further find an Accumulated Natural Vector for each sequence. This new Accumulated Natural Vector not only can capture the distribution of each nucleotide, but also provide the covariance among nucleotides. Thus global comparison of DNA sequences or genomes can be done easily in R 18 . The tests of ANV of datasets of different sizes and types have proved the accuracy and time-efficiency of the new proposed ANV method.
+1	18	21 DNA	Chemical	CHEBI_16991
+1	388	399 nucleotides	Chemical	CHEBI_36976
+1	515	518 DNA	Chemical	CHEBI_16991
+1	580	589 Indicator	Chemical	CHEBI_47867
+1	603	614 nucleotides	Chemical	CHEBI_36976
+1	817	828 nucleotides	Chemical	CHEBI_36976
+1	856	859 DNA	Chemical	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_47867
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_47867
+

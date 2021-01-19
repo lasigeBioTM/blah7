@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="e20aef0065c509346a868a73020a7ba5862e1cd5">
+  <chunk id="e20aef0065c509346a868a73020a7ba5862e1cd5.c0" text="Influenza A Virus Assembly Intermediates Fuse in the Cytoplasm">
+    <entity charOffset="0-9" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c0.e0" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+  </chunk>
+  <chunk id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1" text="Reassortment of influenza viral RNA (vRNA) segments in co-infected cells can lead to the emergence of viruses with pandemic potential. Replication of influenza vRNA occurs in the nucleus of infected cells, while progeny virions bud from the plasma membrane. However, the intracellular mechanics of vRNA assembly into progeny virions is not well understood.">
+    <entity charOffset="16-25" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="32-35" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="150-159" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="179-186" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e3" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e0" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e1" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.p0" relation="true"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e0" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e3" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.p1" relation="true"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e1" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e2" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.p2" relation="true"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e2" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.e3" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c1.p3" relation="true"/>
+  </chunk>
+  <chunk id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2" text="Here we used recent advances in microscopy to explore vRNA assembly and transport during a productive infection. We visualized four distinct vRNA segments within a single cell using fluorescent in situ hybridization (FISH) and observed that foci containing more than one vRNA segment were found at the external nuclear periphery, suggesting that vRNA segments are not exported to the cytoplasm individually. Although many cytoplasmic foci contain multiple vRNA segments, not all vRNA species are present in every focus, indicating that assembly of all eight vRNA segments does not occur prior to export from the nucleus. To extend the observations made in fixed cells, we used a virus that encodes GFP fused to the viral polymerase acidic (PA) protein (WSN PA-GFP) to explore the dynamics of vRNA assembly in live cells during a productive infection. Since WSN PA-GFP colocalizes with viral nucleoprotein and influenza vRNA segments, we used it as a surrogate for visualizing vRNA transport in 3D and at high speed by inverted selective-plane illumination microscopy. We observed cytoplasmic PA-GFP foci colocalizing and traveling together en route to the plasma membrane. Our data strongly support a model in which vRNA segments are exported from the nucleus as complexes that assemble en route to the plasma membrane through dynamic colocalization events in the cytoplasm.">
+    <entity charOffset="612-619" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e0" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <entity charOffset="744-751" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="909-918" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1252-1259" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e3" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e0" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e2" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.p0" relation="true"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e1" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e2" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.p1" relation="true"/>
+    <pair e1="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e2" e2="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.e3" id="e20aef0065c509346a868a73020a7ba5862e1cd5.c2.p2" relation="true"/>
+  </chunk>
+</document>

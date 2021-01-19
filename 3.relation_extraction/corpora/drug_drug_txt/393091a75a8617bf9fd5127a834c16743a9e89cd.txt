@@ -1,0 +1,113 @@
+0|chunk|Assessing the Potential Interactions between Cellular miRNA and Arboviral Genomic RNA in the Yellow Fever Mosquito, Aedes aegypti
+0	82	85 RNA	Chemical	CHEBI_33697
+
+1|chunk|Although the role of exogenous small interfering RNA (siRNA) and P-element induced wimpy testis (PIWI)-interacting RNA (piRNA) pathways in mosquito antiviral immunity is increasingly better understood, there is still little knowledge regarding the role of mosquito cellular microRNA (miRNA). Identifying direct interactions between the mosquito miRNAs and the RNA genome of arboviruses and choosing the relevant miRNA candidates to explore resulting antiviral mechanisms are critical. Here, we carried out genomic analyses to identify Aedes aegypti miRNAs that potentially interact with various lineages and genotypes of chikungunya, dengue, and Zika viruses. By using prediction tools with distinct algorithms, several miRNA binding sites were commonly found within different genotypes/and or lineages of each arbovirus. We further analyzed those miRNAs that could target more than one arbovirus, required a low energy threshold to form miRNA-viralRNA (vRNA) complexes, and predicted potential RNA structures using RNAhybrid software. We predicted miRNA candidates that might participate in regulating arboviral replication in Ae. aegypti. Even without any experimental validation, which should be done as a next step, this study can shed further light on the role of miRNA in mosquito innate immunity and targets for future studies.
+1	13	17 role	Chemical	CHEBI_50906
+1	49	52 RNA	Chemical	CHEBI_33697
+1	115	118 RNA	Chemical	CHEBI_33697
+1	148	157 antiviral	Chemical	CHEBI_22587
+1	248	252 role	Chemical	CHEBI_50906
+1	360	363 RNA	Chemical	CHEBI_33697
+1	450	459 antiviral	Chemical	CHEBI_22587
+1	995	998 RNA	Chemical	CHEBI_33697
+1	1248	1253 light	Chemical	CHEBI_30212
+1	1261	1265 role	Chemical	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_30212
+
+2|chunk|Viruses 2019, 11, 540 2 of 16 mosquito cellular miRNAs and the viral RNA of different genotypes/lineages of arboviruses, providing a list of mosquito cellular miRNAs candidates for experimental validations in future studies.
+2	69	72 RNA	Chemical	CHEBI_33697
+
+3|chunk|Emerging and reemerging arthropod-borne viruses (arboviruses) are spreading globally in recent decades [1] . Arboviruses usually have RNA genomes, including positive-strand RNA alphaviruses (genus Alphavirus, family Togaviridae) and flaviviruses (genus Flavivirus, family Flaviviridae) [2]. The evolution of mosquito-borne RNA viruses and the complex interplay between the vector, the host, and the virus can shape arboviral emergence and re-emergence [3, 4] . Infection of the arthropod midgut epithelial cells occurs following ingestion of a viremic blood meal; the ingested virus must disseminate through internal tissues and organs before reaching the salivary glands to be transmitted. Thus the virus has to overcome a series of tissue barriers before being secreted in mosquito saliva when it takes its next blood meal [5] . Each barrier has different tissue-specific immune properties, which, once triggered by viral infection, may affect the mosquito's overall vector competence [6] . Immune responses to arboviruses involve different pathways, but key roles are played by small RNA/RNA interference (RNAi) pathways [7-10], which have been shown to be a major innate antiviral immune response in mosquitoes against arboviruses of all families [11, 12] .
+3	134	137 RNA	Chemical	CHEBI_33697
+3	173	176 RNA	Chemical	CHEBI_33697
+3	323	326 RNA	Chemical	CHEBI_33697
+3	1087	1090 RNA	Chemical	CHEBI_33697
+3	1091	1094 RNA	Chemical	CHEBI_33697
+3	1175	1184 antiviral	Chemical	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+
+4|chunk|Mosquitoes have three major types of small RNA pathways and associated molecules: the siRNA, piRNA, and miRNA pathways [9, [11] [12] [13] . The siRNA antiviral immunity of mosquitoes was triggered by exogenous long double-stranded RNA (dsRNA) molecules, which are produced during viral replication. These dsRNAs are recognized by several siRNA biogenesis components and processed into predominantly 21 nucleotides (nt) mature viral siRNAs (vsiRNA). These vsiRNAs are loaded into the multi-protein RNA-Induced Silencing Complex (RISC), which contains the endonuclease Argonaute-2 (Ago-2). The viral RNA genome (or mRNA) containing complementary sequence could be targeted by Ago-2, trigger the cleavage of the target RNA and consequently, reduce the virus replication. These results have stressed the role of exogenous RNAi pathway in controlling viral replication [14] [15] [16] [17] [18] .
+4	43	46 RNA	Chemical	CHEBI_33697
+4	150	159 antiviral	Chemical	CHEBI_22587
+4	215	234 double-stranded RNA	Chemical	CHEBI_67208
+4	231	234 RNA	Chemical	CHEBI_33697
+4	236	241 dsRNA	Chemical	CHEBI_67208
+4	402	413 nucleotides	Chemical	CHEBI_36976
+4	598	601 RNA	Chemical	CHEBI_33697
+4	613	617 mRNA	Chemical	CHEBI_33699
+4	716	719 RNA	Chemical	CHEBI_33697
+4	800	804 role	Chemical	CHEBI_50906
+4	823	830 pathway	Chemical	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_67208
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_36976
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_67208
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_36976
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_36976
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_36976	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_34922
+
+5|chunk|Accumulating data suggest that the piRNA pathway is also involved in mosquito RNAi antiviral immunity [12, [19] [20] [21] [22] [23] , although the effector and effector mechanism are unclear. piRNAs are 24-30 nt in size and produced in a Dicer-independent manner. piRNA molecules interact with Argonaute-3 (Ago-3) and Piwi proteins in a so-called "ping-pong" mechanism which amplifies these small RNAs [24] . Several studies have identified and characterized viral piRNA (vpiRNA) or piRNA-like small RNAs in mosquitoes or mosquito cells [12, [20] [21] [22] [23] . Nonetheless, it remains unclear if vpiRNAs exert an antiviral activity.
+5	41	48 pathway	Chemical	CHEBI_34922
+5	83	92 antiviral	Chemical	CHEBI_22587
+5	147	155 effector	Chemical	CHEBI_35224
+5	160	168 effector	Chemical	CHEBI_35224
+5	270	279 molecules	Chemical	CHEBI_25367
+5	323	331 proteins	Chemical	CHEBI_36080
+5	616	625 antiviral	Chemical	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_34922	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_34922	CHEBI_35224
+5	CHEBI-CHEBI	CHEBI_34922	CHEBI_25367
+5	CHEBI-CHEBI	CHEBI_34922	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_22587	CHEBI_35224
+5	CHEBI-CHEBI	CHEBI_22587	CHEBI_25367
+5	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_35224	CHEBI_25367
+5	CHEBI-CHEBI	CHEBI_35224	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_25367	CHEBI_36080
+
+6|chunk|Both siRNA and piRNA antiviral immunity could be triggered by the direct binding of small RNA on the viral RNA genome. Some studies indicated that the miRNA pathway could presumably participate in antiviral responses [25] [26] [27] [28] [29] [30] [31] . The miRNA pathway shares some similarities with the siRNA pathway, but their differences are more significant [9, 11, 32] ; both have nuclear and cytoplasmic phases as the precursor RNAs are produced in the nucleus. The miRNA precursors (pri-miRNAs) originate from independent miRNA genes or mirtrons which are encoded as introns within RNA transcripts. The hairpin-structured pri-miRNAs are processed by the RNase III-type endonuclease Drosha int 70 bp hairpins, which are then cleaved into~20 bp miRNA duplexes by Dicer-1 after being exported from the nucleus into the cytoplasm by Exportin5 [33] [34] [35] . The miRNA duplexes in the cytoplasm are loaded into Ago-1 or Ago-2 proteins in miRNA-induced silencing complexes (miRISCs) according to their different structures [36] [37] [38] . Mainly using residues 2-8 at the 5 end of mature miRNA (seed region), the miRISC uses the guide strand to find complementary RNA sequences, which leads to RNA degradation (carried out by Ago-2), translational inhibition, or both (mediated by other Ago proteins other than Ago-2) [39, 40] . Commonly, animal miRNA binding sites are mainly in the 3 UTR [41], however miRNA binding sites in the 5 UTR or coding regions were also reported and are involved in post-transcriptional gene regulation [42] [43] [44] . The miRNA antiviral immunity in mosquitoes was shown to facilitate the replication of dengue virus (DENV) or West Nile virus (WNV) in mosquitoes or Drosophila cell lines that are deficient in the biogenesis of some miRNA components [45, 46] . In addition,
+6	21	30 antiviral	Chemical	CHEBI_22587
+6	90	93 RNA	Chemical	CHEBI_33697
+6	107	110 RNA	Chemical	CHEBI_33697
+6	157	164 pathway	Chemical	CHEBI_34922
+6	197	206 antiviral	Chemical	CHEBI_22587
+6	264	271 pathway	Chemical	CHEBI_34922
+6	312	319 pathway	Chemical	CHEBI_34922
+6	461	468 nucleus	Chemical	CHEBI_33252
+6	591	594 RNA	Chemical	CHEBI_33697
+6	809	816 nucleus	Chemical	CHEBI_33252
+6	933	941 proteins	Chemical	CHEBI_36080
+6	1171	1174 RNA	Chemical	CHEBI_33697
+6	1201	1204 RNA	Chemical	CHEBI_33697
+6	1298	1306 proteins	Chemical	CHEBI_36080
+6	1565	1574 antiviral	Chemical	CHEBI_22587
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_33697
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_34922
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_33252
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_34922
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_33252
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+6	CHEBI-CHEBI	CHEBI_34922	CHEBI_33252
+6	CHEBI-CHEBI	CHEBI_34922	CHEBI_36080
+6	CHEBI-CHEBI	CHEBI_33252	CHEBI_36080
+

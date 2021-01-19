@@ -1,0 +1,52 @@
+0|chunk|Biochemical Characterization of Middle East Respiratory Syndrome Coronavirus Helicase
+0	32	64 Middle East Respiratory Syndrome	Disease	DOID_0080642
+0	56	64 Syndrome	Disease	DOID_225
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) helicase is a superfamily 1 helicase containing seven conserved motifs. We have cloned, expressed, and purified a Strep-fused recombinant MERS-CoV nonstructural protein 13 (M-nsp13) helicase. Characterization of its biochemical properties showed that it unwound DNA and RNA similarly to severe acute respiratory syndrome CoV nsp13 (S-nsp13) helicase. We showed that M-nsp13 unwound in a 5=-to-3= direction and efficiently unwound the partially duplex RNA substrates with a long loading strand relative to those of the RNA substrates with a short or no loading strand. Moreover, the K m of ATP for M-nsp13 is inversely proportional to the length of the 5= loading strand of the partially duplex RNA substrates. Finally, we also showed that the rate of unwinding (ku) of M-nsp13 is directly proportional to the length of the 5= loading strand of the partially duplex RNA substrate. These results provide insights that enhance our understanding of the biochemical properties of M-nsp13.
+1	0	32 Middle East respiratory syndrome	Disease	DOID_0080642
+1	24	32 syndrome	Disease	DOID_225
+1	217	224 protein	Chemical	CHEBI_16541
+1	318	321 DNA	Chemical	CHEBI_16991
+1	326	329 RNA	Chemical	CHEBI_33697
+1	343	376 severe acute respiratory syndrome	Disease	DOID_2945
+1	368	376 syndrome	Disease	DOID_225
+1	507	510 RNA	Chemical	CHEBI_33697
+1	574	577 RNA	Chemical	CHEBI_33697
+1	645	648 ATP	Chemical	CHEBI_15422
+1	750	753 RNA	Chemical	CHEBI_33697
+1	921	924 RNA	Chemical	CHEBI_33697
+1	DOID-CHEBI	DOID_0080642	CHEBI_16541
+1	DOID-CHEBI	DOID_0080642	CHEBI_16991
+1	DOID-CHEBI	DOID_0080642	CHEBI_33697
+1	DOID-CHEBI	DOID_0080642	CHEBI_15422
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_16991
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_15422
+1	CHEBI-DOID	CHEBI_16541	DOID_2945
+1	CHEBI-DOID	CHEBI_16991	DOID_2945
+1	CHEBI-DOID	CHEBI_33697	DOID_2945
+1	DOID-CHEBI	DOID_2945	CHEBI_15422
+
+2|chunk|Coronaviruses are known to cause a wide range of diseases in humans and animals. Middle East respiratory syndrome coronavirus (MERS-CoV) is a novel coronavirus discovered in 2012 and is responsible for acute respiratory syndrome in humans in the Middle East, Europe, North Africa, and the United States of America. Helicases are motor proteins that catalyze the processive separation of double-stranded nucleic acids into two single-stranded nucleic acids by utilizing the energy derived from ATP hydrolysis. MERS-CoV helicase is one of the most important viral replication enzymes of this coronavirus. Herein, we report the first bacterial expression, enzyme purification, and biochemical characterization of MERS-CoV helicase. The knowledge obtained from this study might be used to identify an inhibitor of MERS-CoV replication, and the helicase might be used as a therapeutic target.
+2	81	113 Middle East respiratory syndrome	Disease	DOID_0080642
+2	105	113 syndrome	Disease	DOID_225
+2	220	228 syndrome	Disease	DOID_225
+2	335	343 proteins	Chemical	CHEBI_36080
+2	403	416 nucleic acids	Chemical	CHEBI_33696
+2	411	416 acids	Chemical	CHEBI_37527
+2	442	455 nucleic acids	Chemical	CHEBI_33696
+2	450	455 acids	Chemical	CHEBI_37527
+2	493	496 ATP	Chemical	CHEBI_15422
+2	797	806 inhibitor	Chemical	CHEBI_35222
+2	DOID-CHEBI	DOID_0080642	CHEBI_36080
+2	DOID-CHEBI	DOID_0080642	CHEBI_33696
+2	DOID-CHEBI	DOID_0080642	CHEBI_37527
+2	DOID-CHEBI	DOID_0080642	CHEBI_15422
+2	DOID-CHEBI	DOID_0080642	CHEBI_35222
+2	DOID-CHEBI	DOID_225	CHEBI_36080
+2	DOID-CHEBI	DOID_225	CHEBI_33696
+2	DOID-CHEBI	DOID_225	CHEBI_37527
+2	DOID-CHEBI	DOID_225	CHEBI_15422
+2	DOID-CHEBI	DOID_225	CHEBI_35222
+

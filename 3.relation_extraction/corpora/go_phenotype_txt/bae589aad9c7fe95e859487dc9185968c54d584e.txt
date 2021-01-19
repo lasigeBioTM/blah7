@@ -1,0 +1,22 @@
+0|chunk|Interleukin-2 signalling is modulated by a labile disulfide bond in the CD132 chain of its receptor
+0	14	24 signalling	Gene_function	GO_0023052
+
+1|chunk|Certain disulfide bonds present in leucocyte membrane proteins are labile and can be reduced in inflammation. This can cause structural changes that result in downstream functional effects, for example, in integrin activation. Recent studies have shown that a wide range of membrane proteins have labile disulfide bonds including CD132, the common gamma chain of the receptors for several cytokines including interleukin-2 and interleukin-4 (IL-2 and IL-4). The Cys 183 -Cys 232 disulfide bond in mouse CD132 is susceptible to reduction by enzymes such as thioredoxin (TRX), gamma interferon-inducible lysosomal thiolreductase and protein disulfide isomerase, which are commonly secreted during immune activation. The Cys 183 -Cys 232 disulfide bond is also reduced in an in vivo lipopolysaccharide (LPS)-induced acute model of inflammation. Conditions that lead to the reduction of the Cys 183 -Cys 232 disulfide bond in CD132 inhibit proliferation of an IL-2-dependent T cell clone and concomitant inhibition of the STAT-5 signalling pathway. The same reducing conditions had no effect on the proliferation of an IL-2-independent T cell clone, nor did they reduce disulfide bonds in IL-2 itself. We postulate that reduction of the Cys 183 -Cys 232 disulfide in CD132 inhibits IL-2 binding to the receptor complex. Published data show that the Cys 183 -Cys 232 disulfide bond is exposed at the surface of CD132 and in close contact with IL-2 and IL-4 in their respective receptor complexes. In addition, mutants in these Cys residues in human CD132 lead to immunodeficiency and loss of IL-2 binding. These results have wider implications for the regulation of cytokine receptors in general, as their activity can be modulated by a 'redox regulator' mechanism caused by the changes in the redox environment that occur during inflammation and activation of the immune system.
+1	45	53 membrane	Gene_function	GO_0016020
+1	274	282 membrane	Gene_function	GO_0016020
+1	813	818 acute	Phenotype	HP_0011009
+1	1025	1035 signalling	Gene_function	GO_0023052
+1	1278	1290 IL-2 binding	Gene_function	GO_0019976
+1	1283	1290 binding	Gene_function	GO_0005488
+1	1558	1574 immunodeficiency	Phenotype	HP_0002721
+1	1587	1599 IL-2 binding	Gene_function	GO_0019976
+1	1592	1599 binding	Gene_function	GO_0005488
+1	GO-HP	GO_0016020	HP_0011009
+1	GO-HP	GO_0016020	HP_0002721
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0019976
+1	HP-GO	HP_0011009	GO_0005488
+1	GO-HP	GO_0023052	HP_0002721
+1	GO-HP	GO_0019976	HP_0002721
+1	GO-HP	GO_0005488	HP_0002721
+

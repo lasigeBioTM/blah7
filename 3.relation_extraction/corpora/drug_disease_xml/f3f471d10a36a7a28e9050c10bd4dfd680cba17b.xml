@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b">
+  <chunk id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0" text="BMC Infectious Diseases The influenza pandemic preparedness planning tool InfluSim">
+    <entity charOffset="0-3" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0.e0" ontology_id="CHEBI_3392" text="BMC" type="chemical"/>
+    <entity charOffset="28-37" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0.e0" e2="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0.e1" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c1" text="Background: Planning public health responses against pandemic influenza relies on predictive models by which the impact of different intervention strategies can be evaluated. Research has to date rather focused on producing predictions for certain localities or under specific conditions, than on designing a publicly available planning tool which can be applied by public health administrations. Here, we provide such a tool which is reproducible by an explicitly formulated structure and designed to operate with an optimal combination of the competing requirements of precision, realism and generality.">
+    <entity charOffset="62-71" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c1.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+  </chunk>
+  <chunk id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2" text="InfluSim is a deterministic compartment model based on a system of over 1,000 differential equations which extend the classic SEIR model by clinical and demographic parameters relevant for pandemic preparedness planning. It allows for producing time courses and cumulative numbers of influenza cases, outpatient visits, applied antiviral treatment doses, hospitalizations, deaths and work days lost due to sickness, all of which may be associated with economic aspects. The software is programmed in Java, operates platform independent and can be executed on regular desktop computers.">
+    <entity charOffset="284-293" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="328-337" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e1" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="394-398" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e2" ontology_id="CHEBI_25434" text="lost" type="chemical"/>
+    <pair e1="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e0" e2="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e1" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.p0" relation="true"/>
+    <pair e1="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e0" e2="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.e2" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c2.p1" relation="true"/>
+  </chunk>
+  <chunk id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c3" text="InfluSim is an online available software http://www.influsim.info which efficiently assists public health planners in designing optimal interventions against pandemic influenza. It can reproduce the infection dynamics of pandemic influenza like complex computer simulations while offering at the same time reproducibility, higher computational performance and better operability.">
+    <entity charOffset="167-176" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c3.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="230-239" id="f3f471d10a36a7a28e9050c10bd4dfd680cba17b.c3.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+  </chunk>
+</document>

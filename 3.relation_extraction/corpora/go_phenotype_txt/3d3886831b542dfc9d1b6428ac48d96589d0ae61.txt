@@ -1,0 +1,11 @@
+0|chunk|The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks
+0	38	50 reproduction	Gene_function	GO_0000003
+
+1|chunk|Background: Several generic methods have been proposed to estimate transmission parameters during an outbreak, especially the reproduction number. However, as of today, no dedicated software exists that implements these methods and allow comparisons.
+1	126	138 reproduction	Gene_function	GO_0000003
+
+2|chunk|Results: A review of generic methods used to estimate transmissibility parameters during outbreaks was carried out. Most methods used the epidemic curve and the generation time distribution. Two categories of methods were available: those estimating the initial reproduction number, and those estimating a time dependent reproduction number. We implemented five methods as an R library, developed sensitivity analysis tools for each method and provided numerical illustrations of their use. A comparison of the performance of the different methods on simulated datasets is reported. Conclusions: This software package allows a standardized and extensible approach to the estimation of the reproduction number and generation interval distribution from epidemic curves.
+2	262	274 reproduction	Gene_function	GO_0000003
+2	321	333 reproduction	Gene_function	GO_0000003
+2	689	701 reproduction	Gene_function	GO_0000003
+

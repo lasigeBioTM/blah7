@@ -1,0 +1,44 @@
+0|chunk|Mutagenesis of the fusion peptide-like domain of hepatitis C virus E1 glycoprotein: involvement in cell fusion and virus entry
+0	49	58 hepatitis	Phenotype	HP_0012115
+0	99	110 cell fusion	Gene_function	GO_0000747
+0	HP-GO	HP_0012115	GO_0000747
+
+1|chunk|Background: Envelope (E) glycoprotein E2 of the hepatitis C virus (HCV) mediates binding of the virus to target cell receptors. Nevertheless, the precise role of E1 in viral entry remains elusive.
+1	12	20 Envelope	Gene_function	GO_0031975
+1	48	57 hepatitis	Phenotype	HP_0012115
+1	81	88 binding	Gene_function	GO_0005488
+1	GO-HP	GO_0031975	HP_0012115
+1	HP-GO	HP_0012115	GO_0005488
+
+2|chunk|To understand the involvement of the fusion peptide-like domain positioned at residues 264 to 290 within envelope glycoprotein E1 in HCV infection, mutants with Ala and Asn substitutions for residues conserved between HCV and E proteins of flaviviruses or the fusion proteins of paramyxoviruses were constructed by site-directed mutagenesis and their effects on membrane fusion and viral infectivity were examined.
+2	105	113 envelope	Gene_function	GO_0031975
+2	362	370 membrane	Gene_function	GO_0016020
+2	362	377 membrane fusion	Gene_function	GO_0061025
+
+3|chunk|Results: None of these mutations affected the synthesis or cell surface expression of envelope proteins, nor did they alter the formation of a non-covalent E1-E2 heterodimer or E2 binding to the large extracellular loop of CD81. The Cys residues located at positions 272 and 281 were unlikely involved in intra-or intermolecular disulfide bond formation. With the exception of the G267A mutant, which showed increased cell fusion, other mutants displayed reduced or marginally inhibited cell fusion capacities compared to the wild-type (WT) E1E2. The G267A mutant was also an exception in human immunodeficiency virus type 1 (HIV-1)/HCV E1E2 pseudotyping analyses, in that it showed higher one-cycle infectivity; all other mutants exhibited greatly or partially reduced viral entry versus the WT pseudotype. All but the G278A and D279N mutants showed a WT-like profile of E1E2 incorporation into HIV-1 particles. Since C272A, C281A, G282A, and G288A pseudotypes bound to Huh7 cells as effectively as did the WT pseudotype, the reduced infectivity of these pseudotypes was due to their ability to inhibit cell fusion.
+3	33	41 affected	Phenotype	HP_0032320
+3	46	55 synthesis	Gene_function	GO_0009058
+3	59	71 cell surface	Gene_function	GO_0009986
+3	86	94 envelope	Gene_function	GO_0031975
+3	180	187 binding	Gene_function	GO_0005488
+3	201	214 extracellular	Gene_function	GO_0005576
+3	418	429 cell fusion	Gene_function	GO_0000747
+3	487	498 cell fusion	Gene_function	GO_0000747
+3	595	611 immunodeficiency	Phenotype	HP_0002721
+3	1104	1115 cell fusion	Gene_function	GO_0000747
+3	HP-GO	HP_0032320	GO_0009058
+3	HP-GO	HP_0032320	GO_0009986
+3	HP-GO	HP_0032320	GO_0031975
+3	HP-GO	HP_0032320	GO_0005488
+3	HP-GO	HP_0032320	GO_0005576
+3	HP-GO	HP_0032320	GO_0000747
+3	GO-HP	GO_0009058	HP_0002721
+3	GO-HP	GO_0009986	HP_0002721
+3	GO-HP	GO_0031975	HP_0002721
+3	GO-HP	GO_0005488	HP_0002721
+3	GO-HP	GO_0005576	HP_0002721
+3	GO-HP	GO_0000747	HP_0002721
+
+4|chunk|Our results indicate that specific residues, but not the structure, of this fusion peptide-like domain are required for mediating cell fusion and viral entry.
+4	130	141 cell fusion	Gene_function	GO_0000747
+

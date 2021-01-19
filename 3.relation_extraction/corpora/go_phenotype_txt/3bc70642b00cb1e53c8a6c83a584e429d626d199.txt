@@ -1,0 +1,12 @@
+0|chunk|Differentially expressed non-coding RNAs induced by transmissible gastroenteritis virus potentially regulate inflammation and NF-B pathway in porcine intestinal epithelial cell line
+
+1|chunk|Background: Transmissible gastroenteritis virus (TGEV) infection can activate NF-B pathway in porcine intestinal epithelial cells and result in severe inflammation. Non-coding RNAs (ncRNAs) are not translated into proteins and play an important role in many biological and pathological processes such as inflammation, viral infection, and mitochondrial damage. However, whether ncRNAs participate in TGEV-induced inflammation in porcine intestinal epithelial cells is largely unknown.
+1	145	151 severe	Phenotype	HP_0012828
+1	340	353 mitochondrial	Phenotype	HP_0001427
+
+2|chunk|Results: In this study, the next-generation sequencing (NGS) technology was used to analyze the profiles of mRNAs, miRNAs, and circRNAs in Mock-and TGEV-infected intestinal porcine epithelial cell-jejunum 2 (IPEC-J2) cell line. A total of 523 mRNAs, 65 microRNAs (miRNAs), and 123 circular RNAs (circRNAs) were differentially expressed. Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis showed differentially expressed mRNAs were linked to inflammation-related pathways, including NF-B, Toll-like receptor, NOD-like receptor, Jak-STAT, TNF, and RIG-I-like receptor pathways. The interactions among mRNA, miRNA, and circRNA were analyzed. The data showed that ssc_circ_009380 and miR-22 might have interaction relationship. Dual-luciferase reporter assay confirmed that miR-22 directly bound to ssc_circ_009380. We also observed that overexpression of miR-22 led to a reduction of p-IB- and accumulation of p65 in nucleus in TGEVinfected IPEC-J2 cells. In contrast, inhibition of miR-22 had the opposite effects. Moreover, silencing of ssc_circ_009380 inhibited accumulation of p65 in nucleus and phosphorylation of IB-. Conclusions: The data revealed that differentially expressed mRNAs and ncRNAs were primarily enriched in inflammation-related pathways and ssc_circ_009380 promoted activation of NF-B pathway by binding miR-22 during TGEV-induced inflammation.
+2	922	929 nucleus	Gene_function	GO_0005634
+2	1093	1100 nucleus	Gene_function	GO_0005634
+2	1105	1120 phosphorylation	Gene_function	GO_0016310
+2	1326	1333 binding	Gene_function	GO_0005488
+

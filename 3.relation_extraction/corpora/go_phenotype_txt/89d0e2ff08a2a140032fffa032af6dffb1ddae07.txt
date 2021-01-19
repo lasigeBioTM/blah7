@@ -1,0 +1,8 @@
+0|chunk|Predicting Drug-Target Interaction Networks Based on Functional Groups and Biological Features
+
+1|chunk|Background: Study of drug-target interaction networks is an important topic for drug development. It is both timeconsuming and costly to determine compound-protein interactions or potential drug-target interactions by experiments alone. As a complement, the in silico prediction methods can provide us with very useful information in a timely manner.
+
+2|chunk|Methods/Principal Findings: To realize this, drug compounds are encoded with functional groups and proteins encoded by biological features including biochemical and physicochemical properties. The optimal feature selection procedures are adopted by means of the mRMR (Maximum Relevance Minimum Redundancy) method. Instead of classifying the proteins as a whole family, target proteins are divided into four groups: enzymes, ion channels, G-protein-coupled receptors and nuclear receptors. Thus, four independent predictors are established using the Nearest Neighbor algorithm as their operation engine, with each to predict the interactions between drugs and one of the four protein groups. As a result, the overall success rates by the jackknife cross-validation tests achieved with the four predictors are 85.48%, 80.78%, 78.49%, and 85.66%, respectively.
+
+3|chunk|Conclusion/Significance: Our results indicate that the network prediction system thus established is quite promising and encouraging.
+

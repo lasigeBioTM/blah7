@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<document id="54ebc03fe88092d143f0758472adf54252d6c224">
+  <chunk id="54ebc03fe88092d143f0758472adf54252d6c224.c0" text="Free fatty acids induce ER stress and block antiviral activity of interferon alpha against hepatitis C virus in cell culture">
+    <entity charOffset="5-16" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e0" ontology_id="CHEBI_35366" text="fatty acids" type="chemical"/>
+    <entity charOffset="11-16" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e1" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="44-53" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e2" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="66-76" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e3" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="77-82" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e4" ontology_id="CHEBI_30216" text="alpha" type="chemical"/>
+    <entity charOffset="91-100" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="91-102" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" ontology_id="DOID_1883" text="hepatitis C" type="disease"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e0" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p0" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e0" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p1" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e1" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p2" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e1" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p3" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p4" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p5" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e3" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p6" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e3" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p7" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e4" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p8" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c0.e4" e2="54ebc03fe88092d143f0758472adf54252d6c224.c0.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c0.p9" relation="true"/>
+  </chunk>
+  <chunk id="54ebc03fe88092d143f0758472adf54252d6c224.c1" text="Background: Hepatic steatosis is recognized as a major risk factor for liver disease progression and impaired response to interferon based therapy in chronic hepatitis C (CHC) patients. The mechanism of response to interferon-alpha (IFN-α) therapy under the condition of hepatic steatosis is unexplored. We investigated the effect of hepatocellular steatosis on hepatitis C virus (HCV) replication and IFN-α antiviral response in a cell culture model.">
+    <entity charOffset="71-84" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e0" ontology_id="DOID_409" text="liver disease" type="disease"/>
+    <entity charOffset="77-84" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="122-132" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="150-167" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e3" ontology_id="DOID_2237" text="chronic hepatitis" type="disease"/>
+    <entity charOffset="150-169" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e4" ontology_id="DOID_1883" text="chronic hepatitis C" type="disease"/>
+    <entity charOffset="158-167" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e5" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="362-371" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e6" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="362-373" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e7" ontology_id="DOID_1883" text="hepatitis C" type="disease"/>
+    <entity charOffset="408-417" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e0" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p0" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e0" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p1" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e1" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p2" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e1" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p3" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e3" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p4" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e4" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p5" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e5" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p6" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e6" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p7" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e2" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e7" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p8" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e3" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p9" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e4" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p10" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e5" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p11" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e6" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p12" relation="true"/>
+    <pair e1="54ebc03fe88092d143f0758472adf54252d6c224.c1.e7" e2="54ebc03fe88092d143f0758472adf54252d6c224.c1.e8" id="54ebc03fe88092d143f0758472adf54252d6c224.c1.p13" relation="true"/>
+  </chunk>
+  <chunk id="54ebc03fe88092d143f0758472adf54252d6c224.c2" text="Methods: Sub-genomic replicon (S3-GFP) and HCV infected Huh-7.5 cells were cultured with a mixture of saturated (palmitate) and unsaturated (oleate) long-chain free fatty acids (FFA). Intracytoplasmic fat accumulation in these cells was visualized by Nile red staining and electron microscopy then quantified by microfluorometry. The effect of FFA treatment on HCV replication and IFN-α antiviral response was measured by flow cytometric analysis, Renilla luciferase activity, and real-time RT-PCR.">
+    <entity charOffset="91-98" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e0" ontology_id="CHEBI_60004" text="mixture" type="chemical"/>
+    <entity charOffset="113-122" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e1" ontology_id="CHEBI_15756" text="palmitate" type="chemical"/>
+    <entity charOffset="141-147" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e2" ontology_id="CHEBI_16196" text="oleate" type="chemical"/>
+    <entity charOffset="165-176" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e3" ontology_id="CHEBI_35366" text="fatty acids" type="chemical"/>
+    <entity charOffset="171-176" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e4" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="251-259" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e5" ontology_id="CHEBI_52169" text="Nile red" type="chemical"/>
+    <entity charOffset="273-281" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e6" ontology_id="CHEBI_10545" text="electron" type="chemical"/>
+    <entity charOffset="344-347" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e7" ontology_id="CHEBI_42638" text="FFA" type="chemical"/>
+    <entity charOffset="387-396" id="54ebc03fe88092d143f0758472adf54252d6c224.c2.e8" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+  <chunk id="54ebc03fe88092d143f0758472adf54252d6c224.c3" text="Results: FFA treatment induced dose dependent hepatocellular steatosis and lipid droplet accumulation in the HCV replicon cells was confirmed by Nile red staining, microfluorometry, and by electron microscopy. Intracellular fat accumulation supports replication more in the persistently HCV infected culture than in the sub-genomic replicon (S3-GFP) cell line. FFA treatment also partially blocked IFN-α response and viral clearance by reducing the phosphorylation of Stat1 and Stat2 dependent IFN-β promoter activation. We show that FFA treatment induces endoplasmic reticulum (ER) stress response and down regulates the IFNAR1 chain of the type I IFN receptor leading to defective Jak-Stat signaling and impaired antiviral response.">
+    <entity charOffset="9-12" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e0" ontology_id="CHEBI_42638" text="FFA" type="chemical"/>
+    <entity charOffset="75-80" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e1" ontology_id="CHEBI_18059" text="lipid" type="chemical"/>
+    <entity charOffset="145-153" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e2" ontology_id="CHEBI_52169" text="Nile red" type="chemical"/>
+    <entity charOffset="189-197" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e3" ontology_id="CHEBI_10545" text="electron" type="chemical"/>
+    <entity charOffset="361-364" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e4" ontology_id="CHEBI_42638" text="FFA" type="chemical"/>
+    <entity charOffset="534-537" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e5" ontology_id="CHEBI_42638" text="FFA" type="chemical"/>
+    <entity charOffset="715-724" id="54ebc03fe88092d143f0758472adf54252d6c224.c3.e6" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+  <chunk id="54ebc03fe88092d143f0758472adf54252d6c224.c4" text="Conclusion: These results suggest that intracellular fat accumulation in HCV cell culture induces ER stress, defective Jak-Stat signaling, and attenuates the antiviral response, thus providing an explanation to the clinical observation regarding how hepatocellular steatosis influences IFN-α response in CHC.">
+    <entity charOffset="158-167" id="54ebc03fe88092d143f0758472adf54252d6c224.c4.e0" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+</document>

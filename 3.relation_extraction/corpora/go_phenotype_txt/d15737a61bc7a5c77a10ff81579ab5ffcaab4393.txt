@@ -1,0 +1,31 @@
+0|chunk|Selective gene silencing by viral delivery of short hairpin RNA
+0	10	24 gene silencing	Gene_function	GO_0016458
+
+1|chunk|RNA interference (RNAi) technology has not only become a powerful tool for functional genomics, but also allows rapid drug target discovery and in vitro validation of these targets in cell culture. Furthermore, RNAi represents a promising novel therapeutic option for treating human diseases, in particular cancer. Selective gene silencing by RNAi can be achieved essentially by two nucleic acid based methods: i) cytoplasmic delivery of short doublestranded (ds) interfering RNA oligonucleotides (siRNA), where the gene silencing effect is only transient in nature, and possibly not suitable for all applications; or ii) nuclear delivery of gene expression cassettes that express short hairpin RNA (shRNA), which are processed like endogenous interfering RNA and lead to stable gene downregulation. Both processes involve the use of nucleic acid based drugs, which are highly charged and do not cross cell membranes by free diffusion. Therefore, in vivo delivery of RNAi therapeutics must use technology that enables the RNAi therapeutic to traverse biological membrane barriers in vivo. Viruses and the vectors derived from them carry out precisely this task and have become a major delivery system for shRNA. Here, we summarize and compare different currently used viral delivery systems, give examples of in vivo applications, and indicate trends for new developments, such as replicating viruses for shRNA delivery to cancer cells.
+1	0	16 RNA interference	Gene_function	GO_0016246
+1	18	22 RNAi	Gene_function	GO_0016246
+1	211	215 RNAi	Gene_function	GO_0016246
+1	307	313 cancer	Phenotype	HP_0002664
+1	325	339 gene silencing	Gene_function	GO_0016458
+1	343	347 RNAi	Gene_function	GO_0016246
+1	516	530 gene silencing	Gene_function	GO_0016458
+1	546	555 transient	Phenotype	HP_0025153
+1	642	657 gene expression	Gene_function	GO_0010467
+1	772	778 stable	Phenotype	HP_0031915
+1	967	971 RNAi	Gene_function	GO_0016246
+1	1022	1026 RNAi	Gene_function	GO_0016246
+1	1062	1070 membrane	Gene_function	GO_0016020
+1	1423	1429 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0016246	HP_0002664
+1	GO-HP	GO_0016246	HP_0025153
+1	GO-HP	GO_0016246	HP_0031915
+1	HP-GO	HP_0002664	GO_0016458
+1	HP-GO	HP_0002664	GO_0010467
+1	HP-GO	HP_0002664	GO_0016020
+1	GO-HP	GO_0016458	HP_0025153
+1	GO-HP	GO_0016458	HP_0031915
+1	HP-GO	HP_0025153	GO_0010467
+1	HP-GO	HP_0025153	GO_0016020
+1	GO-HP	GO_0010467	HP_0031915
+1	HP-GO	HP_0031915	GO_0016020
+

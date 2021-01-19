@@ -1,0 +1,10 @@
+0|chunk|GenomeLandscaper: Landscape analysis of genome-fingerprints maps assessing chromosome architecture OPEN
+0	75	85 chromosome	Gene_function	GO_0005694
+
+1|chunk|Assessing correctness of an assembled chromosome architecture is a central challenge. We create a geometric analysis method (called GenomeLandscaper) to conduct landscape analysis of genomefingerprints maps (GFM), trace large-scale repetitive regions, and assess their impacts on the global architectures of assembled chromosomes. We develop an alignment-free method for phylogenetics analysis. The human Y chromosomes (GRCh.chrY, HuRef.chrY and YH.chrY) are analysed as a proofof-concept study. We construct a galaxy of genome-fingerprints maps (GGFM) for them, and a landscape compatibility among relatives is observed. But a long sharp straight line on the GGFM breaks such a landscape compatibility, distinguishing GRCh38p1.chrY (and throughout GRCh38p7. chrY) from GRCh37p13.chrY, HuRef.chrY and YH.chrY. We delete a 1.30-Mbp target segment to rescue the landscape compatibility, matching the antecedent GRCh37p13.chrY. We re-locate it into the modelled centromeric and pericentromeric region of GRCh38p10.chrY, matching a gap placeholder of GRCh37p13.chrY. We decompose it into sub-constituents (such as BACs, interspersed repeats, and tandem repeats) and trace their homologues by phylogenetics analysis. We elucidate that most examined tandem repeats are of reasonable quality, but the BAC-sized repeats, 173U1020C (176.46 Kbp) and 5U41068C (205.34 Kbp), are likely over-repeated. These results offer unique insights into the centromeric and pericentromeric regions of the human Y chromosomes.
+1	38	48 chromosome	Gene_function	GO_0005694
+1	67	74 central	Phenotype	HP_0030645
+1	633	638 sharp	Phenotype	HP_0025281
+1	GO-HP	GO_0005694	HP_0030645
+1	GO-HP	GO_0005694	HP_0025281
+

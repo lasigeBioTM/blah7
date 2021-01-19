@@ -1,0 +1,31 @@
+0|chunk|Serum Diamine Oxidase as a Hemorrhagic Shock Biomarker in a Rabbit Model
+0	39	44 Shock	Phenotype	HP_0031273
+
+1|chunk|Background: In prolonged hemorrhagic shock, reductions in intestinal mucosal blood perfusion lead to mucosal barrier damage and systemic inflammation. Gastrointestinal failure in critically ill patients has a poor prognosis, so early assessment of mucosal barrier injury in shock patients is clinically relevant. Unfortunately, there is no serum marker that can accurately assess intestinal ischemia-reperfusion injury.
+1	15	24 prolonged	Phenotype	HP_0025297
+1	37	42 shock	Phenotype	HP_0031273
+1	274	279 shock	Phenotype	HP_0031273
+
+2|chunk|Objective: The aim of this study was to assess if serum diamine oxidase levels can reflect intestinal mucosal injury subsequent to prolonged hemorrhagic shock.
+2	131	140 prolonged	Phenotype	HP_0025297
+
+3|chunk|Methods: Thirty New Zealand white rabbits were divided into three groups: a control group, a medium blood pressure (BP) group (exsanguinated to a shock BP of 50 to 41 mm Hg), and a low BP group (exsanguinated to a shock blood pressure of 40 to 31 mm Hg), in which the shock BP was sustained for 180 min prior to fluid resuscitation.
+3	146	151 shock	Phenotype	HP_0031273
+3	214	219 shock	Phenotype	HP_0031273
+3	268	273 shock	Phenotype	HP_0031273
+
+4|chunk|The severity of hemorrhagic shock in the low BP group was significantly greater than that of the medium BP group according to the post-resuscitation BP, serum tumor necrosis factor (TNF)-a, and arterial lactate. Intestinal damage was significantly more severe in the low BP group according to Chiu's scoring, claudin-1, intercellular adhesion molecule (ICAM)-1, and myeloperoxidase expression. Serum diamine oxidase was significantly increased in the low BP group compared to the medium BP and control groups and was negatively correlated with shock BP.
+4	4	12 severity	Phenotype	HP_0012824
+4	28	33 shock	Phenotype	HP_0031273
+4	159	164 tumor	Phenotype	HP_0002664
+4	165	173 necrosis	Gene_function	GO_0001906
+4	253	259 severe	Phenotype	HP_0012828
+4	544	549 shock	Phenotype	HP_0031273
+4	HP-GO	HP_0012824	GO_0001906
+4	HP-GO	HP_0031273	GO_0001906
+4	HP-GO	HP_0002664	GO_0001906
+4	GO-HP	GO_0001906	HP_0012828
+
+5|chunk|Conclusion: Serum diamine oxidase can be used as a serological marker in evaluating intestinal injury and shows promise as an indicator of hemorrhagic shock severity.
+5	151	156 shock	Phenotype	HP_0031273
+

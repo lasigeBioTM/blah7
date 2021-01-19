@@ -1,0 +1,33 @@
+0|chunk|The C/EBP Homologous Protein (CHOP) Transcription Factor Functions in Endoplasmic Reticulum Stress-Induced Apoptosis and Microbial Infection
+0	70	91 Endoplasmic Reticulum	Gene_function	GO_0005783
+0	70	116 Endoplasmic Reticulum Stress-Induced Apoptosis	Gene_function	GO_0070059
+
+1|chunk|Apoptosis is a form of cell death by which the body maintains the homeostasis of the internal environment. Apoptosis is an initiative cell death process that is controlled by genes and is mainly divided into endogenous pathways (mitochondrial pathway), exogenous pathways (death receptor pathway), and apoptotic pathways induced by endoplasmic reticulum (ER) stress. The homeostasis imbalance in ER results in ER stress. Under specific conditions, ER stress can be beneficial to the body; however, if ER protein homeostasis is not restored, the prolonged activation of the unfolded protein response may initiate apoptotic cell death via the up-regulation of the C/EBP homologous protein (CHOP). CHOP plays an important role in ER stress-induced apoptosis and this review focuses on its multifunctional roles in that process, as well as its role in apoptosis during microbial infection. We summarize the upstream and downstream pathways of CHOP in ER stress induced apoptosis. We also focus on the newest discoveries in the functions of CHOP-induced apoptosis during microbial infection, including DNA and RNA viruses and some species of bacteria. Understanding how CHOP functions during microbial infection will assist with the development of antimicrobial therapies.
+1	23	33 cell death	Gene_function	GO_0008219
+1	66	77 homeostasis	Gene_function	GO_0042592
+1	134	144 cell death	Gene_function	GO_0008219
+1	229	242 mitochondrial	Phenotype	HP_0001427
+1	332	353 endoplasmic reticulum	Gene_function	GO_0005783
+1	371	382 homeostasis	Gene_function	GO_0042592
+1	383	392 imbalance	Phenotype	HP_0002172
+1	512	523 homeostasis	Gene_function	GO_0042592
+1	545	554 prolonged	Phenotype	HP_0025297
+1	612	632 apoptotic cell death	Gene_function	GO_0006915
+1	622	632 cell death	Gene_function	GO_0008219
+1	727	754 ER stress-induced apoptosis	Gene_function	GO_0070059
+1	GO-HP	GO_0008219	HP_0001427
+1	GO-HP	GO_0008219	HP_0002172
+1	GO-HP	GO_0008219	HP_0025297
+1	GO-HP	GO_0042592	HP_0001427
+1	GO-HP	GO_0042592	HP_0002172
+1	GO-HP	GO_0042592	HP_0025297
+1	HP-GO	HP_0001427	GO_0005783
+1	HP-GO	HP_0001427	GO_0006915
+1	HP-GO	HP_0001427	GO_0070059
+1	GO-HP	GO_0005783	HP_0002172
+1	GO-HP	GO_0005783	HP_0025297
+1	HP-GO	HP_0002172	GO_0006915
+1	HP-GO	HP_0002172	GO_0070059
+1	HP-GO	HP_0025297	GO_0006915
+1	HP-GO	HP_0025297	GO_0070059
+

@@ -1,0 +1,58 @@
+0|chunk|Proteomic Profiling of the TRAF3 Interactome Network Reveals a New Role for the ER-to-Golgi Transport Compartments in Innate Immunity
+0	92	101 Transport	Gene_function	GO_0006810
+0	118	133 Innate Immunity	Gene_function	GO_0045087
+
+1|chunk|Tumor Necrosis Factor receptor-associated factor-3 (TRAF3) is a central mediator important for inducing type I interferon (IFN) production in response to intracellular double-stranded RNA (dsRNA). Here, we report the identification of Sec16A and p115, two proteins of the ER-to-Golgi vesicular transport system, as novel components of the TRAF3 interactome network. Notably, in non-infected cells, TRAF3 was found associated with markers of the ER-Exit-Sites (ERES), ER-to-Golgi intermediate compartment (ERGIC) and the cis-Golgi apparatus. Upon dsRNA and dsDNA sensing however, the Golgi apparatus fragmented into cytoplasmic punctated structures containing TRAF3 allowing its colocalization and interaction with Mitochondrial AntiViral Signaling (MAVS), the essential mitochondria-bound RIG-I-like Helicase (RLH) adaptor. In contrast, retention of TRAF3 at the ER-to-Golgi vesicular transport system blunted the ability of TRAF3 to interact with MAVS upon viral infection and consequently decreased type I IFN response. Moreover, depletion of Sec16A and p115 led to a drastic disorganization of the Golgi paralleled by the relocalization of TRAF3, which under these conditions was unable to associate with MAVS. Consequently, upon dsRNA and dsDNA sensing, ablation of Sec16A and p115 was found to inhibit IRF3 activation and anti-viral gene expression. Reciprocally, mild overexpression of Sec16A or p115 in Hec1B cells increased the activation of IFNb, ISG56 and NF-kB -dependent promoters following viral infection and ectopic expression of MAVS and Tank-binding kinase-1 (TBK1). In line with these results, TRAF3 was found enriched in immunocomplexes composed of p115, Sec16A and TBK1 upon infection. Hence, we propose a model where dsDNA and dsRNA sensing induces the formation of membrane-bound compartments originating from the Golgi, which mediate the dynamic association of TRAF3 with MAVS leading to an optimal induction of innate immune responses.
+1	0	5 Tumor	Phenotype	HP_0002664
+1	6	14 Necrosis	Gene_function	GO_0001906
+1	64	71 central	Phenotype	HP_0030645
+1	154	167 intracellular	Gene_function	GO_0005622
+1	284	303 vesicular transport	Gene_function	GO_0016192
+1	294	303 transport	Gene_function	GO_0006810
+1	505	510 ERGIC	Gene_function	GO_0005793
+1	583	598 Golgi apparatus	Gene_function	GO_0005794
+1	714	727 Mitochondrial	Phenotype	HP_0001427
+1	738	747 Signaling	Gene_function	GO_0023052
+1	875	894 vesicular transport	Gene_function	GO_0016192
+1	885	894 transport	Gene_function	GO_0006810
+1	958	973 viral infection	Gene_function	GO_0016032
+1	1369	1373 mild	Phenotype	HP_0012825
+1	1503	1518 viral infection	Gene_function	GO_0016032
+1	1685	1689 TBK1	Gene_function	GO_0008384
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0005622
+1	HP-GO	HP_0002664	GO_0016192
+1	HP-GO	HP_0002664	GO_0006810
+1	HP-GO	HP_0002664	GO_0005793
+1	HP-GO	HP_0002664	GO_0005794
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0016032
+1	HP-GO	HP_0002664	GO_0008384
+1	GO-HP	GO_0001906	HP_0030645
+1	GO-HP	GO_0001906	HP_0001427
+1	GO-HP	GO_0001906	HP_0012825
+1	HP-GO	HP_0030645	GO_0005622
+1	HP-GO	HP_0030645	GO_0016192
+1	HP-GO	HP_0030645	GO_0006810
+1	HP-GO	HP_0030645	GO_0005793
+1	HP-GO	HP_0030645	GO_0005794
+1	HP-GO	HP_0030645	GO_0023052
+1	HP-GO	HP_0030645	GO_0016032
+1	HP-GO	HP_0030645	GO_0008384
+1	GO-HP	GO_0005622	HP_0001427
+1	GO-HP	GO_0005622	HP_0012825
+1	GO-HP	GO_0016192	HP_0001427
+1	GO-HP	GO_0016192	HP_0012825
+1	GO-HP	GO_0006810	HP_0001427
+1	GO-HP	GO_0006810	HP_0012825
+1	GO-HP	GO_0005793	HP_0001427
+1	GO-HP	GO_0005793	HP_0012825
+1	GO-HP	GO_0005794	HP_0001427
+1	GO-HP	GO_0005794	HP_0012825
+1	HP-GO	HP_0001427	GO_0023052
+1	HP-GO	HP_0001427	GO_0016032
+1	HP-GO	HP_0001427	GO_0008384
+1	GO-HP	GO_0023052	HP_0012825
+1	GO-HP	GO_0016032	HP_0012825
+1	HP-GO	HP_0012825	GO_0008384
+

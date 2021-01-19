@@ -1,0 +1,22 @@
+0|chunk|Quantitative Subcellular Proteome and Secretome Profiling of Influenza A Virus-Infected Human Primary Macrophages
+
+1|chunk|Influenza A viruses are important pathogens that cause acute respiratory diseases and annual epidemics in humans. Macrophages recognize influenza A virus infection with their pattern recognition receptors, and are involved in the activation of proper innate immune response. Here, we have used high-throughput subcellular proteomics combined with bioinformatics to provide a global view of host cellular events that are activated in response to influenza A virus infection in human primary macrophages. We show that viral infection regulates the expression and/or subcellular localization of more than one thousand host proteins at early phases of infection. Our data reveals that there are dramatic changes in mitochondrial and nuclear proteomes in response to infection. We show that a rapid cytoplasmic leakage of lysosomal proteins, including cathepsins, followed by their secretion, contributes to inflammasome activation and apoptosis seen in the infected macrophages. Also, our results demonstrate that P2X 7 receptor and src tyrosine kinase activity are essential for inflammasome activation during influenza A virus infection. Finally, we show that influenza A virus infection is associated with robust secretion of different danger-associated molecular patterns (DAMPs) suggesting an important role for DAMPs in host response to influenza A virus infection. In conclusion, our high-throughput quantitative proteomics study provides important new insight into host-response against influenza A virus infection in human primary macrophages.
+1	55	60 acute	Phenotype	HP_0011009
+1	251	273 innate immune response	Gene_function	GO_0045087
+1	516	531 viral infection	Gene_function	GO_0016032
+1	576	588 localization	Gene_function	GO_0051179
+1	711	724 mitochondrial	Phenotype	HP_0001427
+1	877	886 secretion	Gene_function	GO_0046903
+1	1042	1057 kinase activity	Gene_function	GO_0016301
+1	1212	1221 secretion	Gene_function	GO_0046903
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0011009	GO_0016032
+1	HP-GO	HP_0011009	GO_0051179
+1	HP-GO	HP_0011009	GO_0046903
+1	HP-GO	HP_0011009	GO_0016301
+1	GO-HP	GO_0045087	HP_0001427
+1	GO-HP	GO_0016032	HP_0001427
+1	GO-HP	GO_0051179	HP_0001427
+1	HP-GO	HP_0001427	GO_0046903
+1	HP-GO	HP_0001427	GO_0016301
+

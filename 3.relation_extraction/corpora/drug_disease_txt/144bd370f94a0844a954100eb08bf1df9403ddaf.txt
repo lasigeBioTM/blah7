@@ -1,0 +1,29 @@
+0|chunk|Bacterial ribonuclease binase exerts an intra-cellular anti-viral mode of action targeting viral RNAs in influenza a virus- infected MDCK-II cells
+0	74	80 action	Chemical	CHEBI_5133
+0	105	114 influenza	Disease	DOID_8469
+0	CHEBI-DOID	CHEBI_5133	DOID_8469
+
+1|chunk|Background: Influenza is a severe contagious disease especially in children, elderly and immunocompromised patients. Beside vaccination, the discovery of new anti-viral agents represents an important strategy to encounter seasonal and pandemic influenza A virus (IAV) strains. The bacterial extra-cellular ribonuclease binase is a well-studied RNase from Bacillus pumilus. Treatment with binase was shown to improve survival of laboratory animals infected with different RNA viruses. Although binase reduced IAV titer in vitro and in vivo, the mode of action (MOA) of binase against IAV at the molecular level has yet not been studied in depth and remains elusive.
+1	12	21 Influenza	Disease	DOID_8469
+1	45	52 disease	Disease	DOID_4
+1	158	175 anti-viral agents	Chemical	CHEBI_22587
+1	244	253 influenza	Disease	DOID_8469
+1	471	474 RNA	Chemical	CHEBI_33697
+1	552	558 action	Chemical	CHEBI_5133
+1	DOID-CHEBI	DOID_8469	CHEBI_22587
+1	DOID-CHEBI	DOID_8469	CHEBI_33697
+1	DOID-CHEBI	DOID_8469	CHEBI_5133
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_33697
+1	DOID-CHEBI	DOID_4	CHEBI_5133
+
+2|chunk|Methods: To analyze whether binase impairs virus replication by direct interaction with the viral particle we applied a hemagglutination inhibition assay and monitored the integrity of the viral RNA within the virus particle by RT-PCR. Furthermore, we used Western blot and confocal microscopy analysis to study whether binase can internalize into MDCK-II cells. By primer extension we examined the effect of binase on the integrity of viral RNAs within the cells and using a mini-genome system we explored the effect of binase on the viral expression.
+2	195	198 RNA	Chemical	CHEBI_33697
+
+3|chunk|Results: We show that (i) binase does not to attack IAV particle-protected viral RNA, (ii) internalized binase could be detected within the cytosol of MDCK-II cells and that (iii) binase impairs IAV replication by specifically degrading viral RNA species within the infected MDCK-II cells without obvious effect on cellular mRNAs.
+3	81	84 RNA	Chemical	CHEBI_33697
+3	243	246 RNA	Chemical	CHEBI_33697
+
+4|chunk|Conclusion: Our data provide novel evidence suggesting that binase is a potential anti-viral agent with specific intra-cellular MOA.
+4	82	98 anti-viral agent	Chemical	CHEBI_22587
+

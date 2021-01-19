@@ -1,0 +1,109 @@
+0|chunk|cells The Redox Role of G6PD in Cell Growth, Cell Death, and Cancer
+0	61	67 Cancer	Phenotype	HP_0002664
+
+1|chunk|The generation of reducing equivalent NADPH via glucose-6-phosphate dehydrogenase (G6PD) is critical for the maintenance of redox homeostasis and reductive biosynthesis in cells. NADPH also plays key roles in cellular processes mediated by redox signaling. Insufficient G6PD activity predisposes cells to growth retardation and demise. Severely lacking G6PD impairs embryonic development and delays organismal growth. Altered G6PD activity is associated with pathophysiology, such as autophagy, insulin resistance, infection, inflammation, as well as diabetes and hypertension. Aberrant activation of G6PD leads to enhanced cell proliferation and adaptation in many types of cancers. The present review aims to update the existing knowledge concerning G6PD and emphasizes how G6PD modulates redox signaling and affects cell survival and demise, particularly in diseases such as cancer. Exploiting G6PD as a potential drug target against cancer is also discussed.
+1	130	141 homeostasis	Gene_function	GO_0042592
+1	156	168 biosynthesis	Gene_function	GO_0009058
+1	246	255 signaling	Gene_function	GO_0023052
+1	270	283 G6PD activity	Gene_function	GO_0004345
+1	305	311 growth	Gene_function	GO_0040007
+1	305	323 growth retardation	Phenotype	HP_0001510
+1	410	416 growth	Gene_function	GO_0040007
+1	426	439 G6PD activity	Gene_function	GO_0004345
+1	624	642 cell proliferation	Gene_function	GO_0008283
+1	797	806 signaling	Gene_function	GO_0023052
+1	878	884 cancer	Phenotype	HP_0002664
+1	937	943 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0042592	HP_0001510
+1	GO-HP	GO_0042592	HP_0002664
+1	GO-HP	GO_0009058	HP_0001510
+1	GO-HP	GO_0009058	HP_0002664
+1	GO-HP	GO_0023052	HP_0001510
+1	GO-HP	GO_0023052	HP_0002664
+1	GO-HP	GO_0004345	HP_0001510
+1	GO-HP	GO_0004345	HP_0002664
+1	GO-HP	GO_0040007	HP_0001510
+1	GO-HP	GO_0040007	HP_0002664
+1	HP-GO	HP_0001510	GO_0008283
+1	GO-HP	GO_0008283	HP_0002664
+
+2|chunk|Human G6PD-deficient granulocytes exhibit impairment of hydrogen peroxide and superoxide production [72] . Similar to the finding in cells, lower superoxide release, and reduced atherosclerotic lesions have been observed in G6PD-deficient mice crossbred with ApoE null hemizygous mice [73] . G6PD-derived NADPH is responsible for superoxide production as found in a pacing-induced heart failure canine model [74] . The ventricular tissue homogenates show an increase in NADPH, superoxide, and G6PD activity. Treatment with a NOX inhibitor gp91(ds-tat) or a G6PD inhibitor, 6-aminonicotinamide (6-AN), significantly reduces superoxide generation in the failing heart homogenates. The upregulation of myocardial G6PD provides sufficient NADPH and fuels the superoxide-producing enzymes, suggesting a redox role for G6PD in the pathogenesis of heart disease [74] . G6PD regulates nuclear superoxide production by cooperating with NOX4 in the hepatocytes, where G6PD and NOX4 are co-localized in the nucleus [75] . The close relationship between G6PD and NOX4 maintains ROS homeostasis and promotes downstream redox signaling, including STAT3, c-SRC and SHP2, in melanoma cells [16] . Overexpression of G6PD in bovine aortic endothelial cells (BAECs) diminishes ROS accumulation following exposure to hydrogen peroxide, TNF- or xanthine oxidase. Upregulation of G6PD in BAECs maintains the reduced form of glutathione [76] .
+2	381	394 heart failure	Phenotype	HP_0001635
+2	825	837 pathogenesis	Gene_function	GO_0009405
+2	996	1003 nucleus	Gene_function	GO_0005634
+2	1070	1081 homeostasis	Gene_function	GO_0042592
+2	1159	1167 melanoma	Phenotype	HP_0002861
+2	HP-GO	HP_0001635	GO_0009405
+2	HP-GO	HP_0001635	GO_0005634
+2	HP-GO	HP_0001635	GO_0042592
+2	GO-HP	GO_0009405	HP_0002861
+2	GO-HP	GO_0005634	HP_0002861
+2	GO-HP	GO_0042592	HP_0002861
+
+3|chunk|NO generation can be stimulated by cytokines and NO donors [77, 78] . NO affects cell survival, the immune response, insulin signaling, and stress disorders and provides vascular and neural protection [72, 76, [79] [80] [81] [82] [83] [84] . NO production is dependent on G6PD status [10] . Increased levels of NO and G6PD have been found in the saliva of refugees suffering from stress and anxiety [80] . Upon lipopolysaccharide (LPS) or 12-myristate 13-acetate (PMA) stimulation, human granulocytes produce nitrite (derived from NO). Human granulocytes lacking G6PD fail to generate NO in the presence of LPS or PMA [72] . The cytokine IL-1 enhances inducible nitric oxide synthase (iNOS) expression and NO production in pancreatic islet cells causing cell death and disruption of insulin secretion. IL-1 upregulates G6PD activity and reduces cyclic adenosine monophosphate (cAMP) levels. 8-bromo-cAMP, an activator of cAMP-dependent protein kinase, increases G6PD activity, while a protein kinase A (PKA) inhibitor decreases G6PD activity [79] .
+3	391	398 anxiety	Phenotype	HP_0000739
+3	755	765 cell death	Gene_function	GO_0008219
+3	821	834 G6PD activity	Gene_function	GO_0004345
+3	964	977 G6PD activity	Gene_function	GO_0004345
+3	1005	1008 PKA	Gene_function	GO_0004691
+3	1030	1043 G6PD activity	Gene_function	GO_0004345
+3	HP-GO	HP_0000739	GO_0008219
+3	HP-GO	HP_0000739	GO_0004345
+3	HP-GO	HP_0000739	GO_0004691
+
+4|chunk|G6PD status is positively correlated with NO production. Suppression of G6PD by the biochemical inhibitor dehydroepiandrosterone (DHEA) or an antisense oligonucleotide reduces the IL-1-induced NO level, indicating that cAMP-dependent PKA enhances G6PD status stimulated by IL-1-derived NO. Sodium nitroprusside, an NO donor, stimulates cell growth in G6PD-normal fibroblasts but induces apoptosis in G6PD-deficient fibroblasts [81] . Treatment with Trolox, an antioxidant, or ectopic expression of G6PD reverses NO-induced apoptosis in G6PD-deficient fibroblasts, suggesting a pro-survival role for G6PD. Reduced G6PD activity in endothelial cells is associated with elevated ROS and decreased NO bioavailability [82] . Overexpression of G6PD in BAECs treated with bradykinin also enhances cGMP and NOS activity. This results in an increase in bioavailable NO [76] .
+4	235	238 PKA	Gene_function	GO_0004691
+4	338	349 cell growth	Gene_function	GO_0016049
+4	343	349 growth	Gene_function	GO_0040007
+4	579	591 pro-survival	Gene_function	GO_0043066
+4	615	628 G6PD activity	Gene_function	GO_0004345
+
+5|chunk|NO availability is essential for the regulation of leukocyte adhesion in the endothelium [85]. G6PD-deficient endothelial cells display lower level of endothelial nitric oxide synthase (eNOS), NO, and glutathione (GSH). Treatment of G6PD-deficient endothelial cells with high concentrations of glucose as a pro-atherosclerotic stimulus upregulates ICAM-1 and VCAM-1, as well as the oxidant markers, ROS, NOX4, and iNOS. By contrast, l-cysteine (a GSH precursor) attenuates these oxidative markers, suggesting that G6PD and GSH play a role in endothelial cell protection associated with NO availability [85] . LPS increases the mRNA expression of G6PD and glucose utilization of the PPP independent of iNOS in cultured rat astrocytes, while inhibition of NF-B blocks the expression of G6PD and iNOS [83] . Inhibition of G6PD in rat astrocytes by DHEA prevents PPP activity and lowers Cells 2019, 8, 1055 4 of 29
+5	51	69 leukocyte adhesion	Gene_function	GO_0007159
+
+6|chunk|NADPH and the GSH/ glutathione disulfide (GSSG) ratio. The alteration of the GSH/GSSG ratio due to DHEA can be reversed by an iNOS inhibitor (AMT). These observations indicate that G6PD protects astrocytes from NO-mediated cell damage.
+
+7|chunk|Peroxynitrite is an NO-derived neurotoxin [86, 87] . It rapidly increases the activity of the PPP in neurons and astrocytes in primary culture, which leads to an increase in NADPH [84] . NO causes glutathione oxidation, NADPH consumption, and apoptosis in neurons but not astrocytes. Peroxynitrite treatment can counteract the effect caused by NO in neurons. Both endogenous and exogenous peroxynitrite induces G6PD activity in PC12 cells. Overexpression of G6PD confers resistance to NO-mediated apoptosis, while G6PD knockdown exacerbates cellular injury. Taken together, the cross-talk between G6PD and NO is crucial for cell protection.
+7	411	424 G6PD activity	Gene_function	GO_0004345
+
+8|chunk|H 2 S, an endogenous gasotransmitter, is involved in many biological functions, including neuronal regulation [88] , smooth muscle relaxation [89], vascular relaxation and blood pressure regulation [90], inflammation [91, 92] , cell death signaling [93], and metabolism [71,94,95]. Overstimulation of the -adrenergic receptor (-AR) by isoproterenol in hypertrophic cardiomyocytes rapidly reduces the endogenous H 2 S level. Treatment with the H 2 S agonist (NaHS or norepinephrine) to augment H 2 S production suppresses the hypertrophy stimulated by the -AR in cardiomyocytes [96] . Rats with transverse aortic constriction have approximately half the H 2 S level compared to normal rats [96] . Treatment of NaHS enhances G6PD activity, while the G6PD inhibitor (6-AN or DHEA) decreases hypertrophic responses in cardiomyocytes. -AR upregulates G6PD expression and activity in rats [96] . -AR reduces cardiac p53, which negatively regulates G6PD by preventing G6PD dimerization [48] . G6PD inhibitors (either 6-AN or DHEA) reverse the -AR-induced effect in rats with cardiac hypertrophy. Enhancing G6PD activity directly or inhibiting G6PD activity by p53 indicates that G6PD plays a critical role in mediating cardiac function regulated by H 2 S. Global transcriptome analysis reveals that H 2 S modulates an integrated metabolic network regulating cellular redox homeostasis. Consistent with these findings, several common biological processes emerging from the transcriptome data show that G6PD is a critical node modulating the effects among metabolic processes downstream of H 2 S [96] .
+8	117	141 smooth muscle relaxation	Gene_function	GO_0044557
+8	117	141 smooth muscle relaxation	Gene_function	GO_0045986
+8	172	197 blood pressure regulation	Gene_function	GO_0008217
+8	228	238 cell death	Gene_function	GO_0008219
+8	239	248 signaling	Gene_function	GO_0023052
+8	259	269 metabolism	Gene_function	GO_0008152
+8	726	739 G6PD activity	Gene_function	GO_0004345
+8	1105	1118 G6PD activity	Gene_function	GO_0004345
+8	1142	1155 G6PD activity	Gene_function	GO_0004345
+
+9|chunk|Carbon monoxide (CO) is also a gaseous signaling molecule produced in humans. The major roles of CO are the modulation of the cardiovascular system, inhibition of platelet aggregation and adhesion, and neuronal development [97] . Like NO and H 2 S, CO is antiapoptotic, anti-inflammatory, and vasodilatory. It also promotes vascular growth [98] [99] [100] . The abnormal metabolism of CO has been associated with diseases, including heart failure, hypertension, inflammation, and neurodegeneration [101, 102] . Since CO is produced from hemoglobin by heme oxygenase 1 and 2, it can be used as an index of heme catabolism [103] . Endogenous CO is increased in G6PD-deficient neonates with hyperbilirubinemia. CO may have a role in promoting neuronal differentiation, as the CO-releasing molecule (CORM-A1) enhances neuronal differentiation in neuroblastomas [104] . The PPP pathway in neuroblastomas is upregulated by CO, including 6-phosphogluconate dehydrogenase (PGDH) from the oxidative branch of the PPP and transketolase (TKT) from the non-oxidative branch of the PPP. The concentration and activity of G6PD are also increased. Knockdown of G6PD reverses the effect of neuronal differentiation induced by CO [104]. This finding is indicative of a protective role of G6PD in the modulation of CO-induced neuronal development.
+9	39	48 signaling	Gene_function	GO_0023052
+9	39	57 signaling molecule	Gene_function	GO_0048018
+9	163	183 platelet aggregation	Gene_function	GO_0070527
+9	333	339 growth	Gene_function	GO_0040007
+9	362	381 abnormal metabolism	Phenotype	HP_0032245
+9	371	381 metabolism	Gene_function	GO_0008152
+9	480	497 neurodegeneration	Phenotype	HP_0002180
+9	605	620 heme catabolism	Gene_function	GO_0042167
+9	610	620 catabolism	Gene_function	GO_0009056
+9	GO-HP	GO_0023052	HP_0032245
+9	GO-HP	GO_0023052	HP_0002180
+9	GO-HP	GO_0048018	HP_0032245
+9	GO-HP	GO_0048018	HP_0002180
+9	GO-HP	GO_0070527	HP_0032245
+9	GO-HP	GO_0070527	HP_0002180
+9	GO-HP	GO_0040007	HP_0032245
+9	GO-HP	GO_0040007	HP_0002180
+9	HP-GO	HP_0032245	GO_0008152
+9	HP-GO	HP_0032245	GO_0042167
+9	HP-GO	HP_0032245	GO_0009056
+9	GO-HP	GO_0008152	HP_0002180
+9	HP-GO	HP_0002180	GO_0042167
+9	HP-GO	HP_0002180	GO_0009056
+
+10|chunk|Altered G6PD status is implicated in many cellular pathophysiological processes and diseases, including hypoxia, inflammation, microbial infection, sepsis, pulmonary vessel dilation, diabetes, hypertension, kidney disease, and brain injuries [24,30,. The PPP and glutathione-associated metabolic pathways are major antioxidant defense systems in cells. The regulation of these enzymes profoundly affects the development and clinical outcome of diseases.
+
+11|chunk|One of the pro-inflammatory conditions leading to vascular injuries is hyperglycemia. The pro-inflammatory cytokine IL-1 primes high glucose-induced vascular inflammation. In human aortic smooth muscle cells (HASMC), surplus glucose uptake can be activated by .
+11	226	240 glucose uptake	Gene_function	GO_0046323
+

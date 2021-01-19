@@ -1,0 +1,24 @@
+0|chunk|Inhibition of hepatitis B virus (HBV) gene expression and replication by HBx gene silencing in a hydrodynamic injection mouse model with a new clone of HBV genotype B
+0	14	23 hepatitis	Phenotype	HP_0012115
+0	38	53 gene expression	Gene_function	GO_0010467
+0	77	91 gene silencing	Gene_function	GO_0016458
+0	HP-GO	HP_0012115	GO_0010467
+0	HP-GO	HP_0012115	GO_0016458
+
+1|chunk|Background: It has been suggested that different hepatitis B virus (HBV) genotypes may have distinct virological characteristics that correlate with clinical outcomes during antiviral therapy and the natural course of infection. Hydrodynamic injection (HI) of HBV in the mouse model is a useful tool for study of HBV replication in vivo. However, only HBV genotype A has been used for studies with HI. Methods: We constructed 3 replication-competent clones containing 1.1, 1.2 and 1.3 fold overlength of a HBV genotype B genome and tested them both in vitro and in vivo. Moreover, A HBV genotype B clone based on the pAAV-MCS vector was constructed with the 1.3 fold HBV genome, resulting in the plasmid pAAV-HBV1.3 B and tested by HI in C57BL/6 mice. Application of siRNA against HBx gene was tested in HBV genotype B HI mouse model.
+1	49	58 hepatitis	Phenotype	HP_0012115
+
+2|chunk|Results: The 1.3 fold HBV clone showed higher replication and gene expression than the 1.1 and 1.2 fold HBV clones. Compared with pAAV-HBV1.2 (genotype A), the mice HI with pAAV-HBV1.3 B showed higher HBsAg and HBeAg expression as well as HBV DNA replication level but a higher clearance rate. Application of two plasmids pSB-HBxi285 and pSR-HBxi285 expressing a small/short interfering RNA (siRNA) to the HBx gene in HBV genotype B HI mouse model, leading to an inhibition of HBV gene expression and replication. However, HBV gene expression may resume in some mice despite an initial delay, suggesting that transient suppression of HBV replication by siRNA may be insufficient to prevent viral spread, particularly if the gene silencing is not highly effective.
+2	62	77 gene expression	Gene_function	GO_0010467
+2	243	258 DNA replication	Gene_function	GO_0006260
+2	481	496 gene expression	Gene_function	GO_0010467
+2	527	542 gene expression	Gene_function	GO_0010467
+2	609	618 transient	Phenotype	HP_0025153
+2	724	738 gene silencing	Gene_function	GO_0016458
+2	GO-HP	GO_0010467	HP_0025153
+2	GO-HP	GO_0006260	HP_0025153
+2	HP-GO	HP_0025153	GO_0016458
+
+3|chunk|Conclusions: Taken together, the HI mouse model with a HBV genotype B genome was successfully established and showed different characteristics in vivo compared with the genotype A genome. The effectiveness of gene silencing against HBx gene determines whether HBV replication may be sustainably inhibited by siRNA in vivo.
+3	209	223 gene silencing	Gene_function	GO_0016458
+

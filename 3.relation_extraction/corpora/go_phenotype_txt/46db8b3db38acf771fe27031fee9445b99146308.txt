@@ -1,0 +1,17 @@
+0|chunk|Epigenetic Effect of Environmental Factors on Autism Spectrum Disorders
+0	46	52 Autism	Phenotype	HP_0000717
+0	46	71 Autism Spectrum Disorders	Phenotype	HP_0000729
+
+1|chunk|Both environmental factors and genetic factors are involved in the pathogenesis of autism spectrum disorders (ASDs). Epigenetics, an essential mechanism for gene regulation based on chemical modifications of DNA and histone proteins, is also involved in congenital ASDs. It was recently demonstrated that environmental factors, such as endocrine disrupting chemicals and mental stress in early life, can change epigenetic status and gene expression, and can cause ASDs. Moreover, environmentally induced epigenetic changes are not erased during gametogenesis and are transmitted to subsequent generations, leading to changes in behavior phenotypes. However, epigenetics has a reversible nature since it is based on the addition or removal of chemical residues, and thus the original epigenetic status may be restored. Indeed, several antidepressants and anticonvulsants used for mental disorders including ASDs restore the epigenetic state and gene expression. Therefore, further epigenetic understanding of ASDs is important for the development of new drugs that take advantages of epigenetic reversibility.
+1	67	79 pathogenesis	Gene_function	GO_0009405
+1	83	89 autism	Phenotype	HP_0000717
+1	83	108 autism spectrum disorders	Phenotype	HP_0000729
+1	545	558 gametogenesis	Gene_function	GO_0007276
+1	628	636 behavior	Gene_function	GO_0007610
+1	GO-HP	GO_0009405	HP_0000717
+1	GO-HP	GO_0009405	HP_0000729
+1	HP-GO	HP_0000717	GO_0007276
+1	HP-GO	HP_0000717	GO_0007610
+1	HP-GO	HP_0000729	GO_0007276
+1	HP-GO	HP_0000729	GO_0007610
+

@@ -1,0 +1,14 @@
+0|chunk|A Systematic Analysis of Host Factors Reveals a Med23-Interferon-l Regulatory Axis against Herpes Simplex Virus Type 1 Replication
+
+1|chunk|Herpes simplex virus type 1 (HSV-1) is a neurotropic virus causing vesicular oral or genital skin lesions, meningitis and other diseases particularly harmful in immunocompromised individuals. To comprehensively investigate the complex interaction between HSV-1 and its host we combined two genome-scale screens for host factors (HFs) involved in virus replication. A yeast two-hybrid screen for protein interactions and a RNA interference (RNAi) screen with a druggable genome small interfering RNA (siRNA) library confirmed existing and identified novel HFs which functionally influence HSV-1 infection. Bioinformatic analyses found the 358 HFs were enriched for several pathways and multi-protein complexes. Of particular interest was the identification of Med23 as a strongly anti-viral component of the largely pro-viral Mediator complex, which links specific transcription factors to RNA polymerase II. The anti-viral effect of Med23 on HSV-1 replication was confirmed in gain-of-function gene overexpression experiments, and this inhibitory effect was specific to HSV-1, as a range of other viruses including Vaccinia virus and Semliki Forest virus were unaffected by Med23 depletion. We found Med23 significantly upregulated expression of the type III interferon family (IFN-l) at the mRNA and protein level by directly interacting with the transcription factor IRF7. The synergistic effect of Med23 and IRF7 on IFN-l induction suggests this is the major transcription factor for IFN-l expression. Genotypic analysis of patients suffering recurrent orofacial HSV-1 outbreaks, previously shown to be deficient in IFN-l secretion, found a significant correlation with a single nucleotide polymorphism in the IFN-l3 (IL28b) promoter strongly linked to Hepatitis C disease and treatment outcome. This paper describes a link between Med23 and IFN-l, provides evidence for the crucial role of IFN-l in HSV-1 immune control, and highlights the power of integrative genome-scale approaches to identify HFs critical for disease progression and outcome.
+1	107	117 meningitis	Phenotype	HP_0001287
+1	422	438 RNA interference	Gene_function	GO_0016246
+1	440	444 RNAi	Gene_function	GO_0016246
+1	1160	1170 unaffected	Phenotype	HP_0032321
+1	1546	1555 recurrent	Phenotype	HP_0031796
+1	1756	1765 Hepatitis	Phenotype	HP_0012115
+1	HP-GO	HP_0001287	GO_0016246
+1	GO-HP	GO_0016246	HP_0032321
+1	GO-HP	GO_0016246	HP_0031796
+1	GO-HP	GO_0016246	HP_0012115
+

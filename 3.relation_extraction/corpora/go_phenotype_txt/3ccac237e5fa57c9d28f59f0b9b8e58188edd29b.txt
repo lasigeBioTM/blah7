@@ -1,0 +1,25 @@
+0|chunk|Influenza A Virus Polymerase Recruits the RNA Helicase DDX19 to Promote the Nuclear Export of Viral mRNAs OPEN
+0	76	90 Nuclear Export	Gene_function	GO_0051168
+
+1|chunk|is essential to address questions related to pathogenicity and to identify targets for antiviral drug development. Here we focused on the interplay between IAV and DExD-box RNA helicases (DDX), which play a key role in cellular RNA metabolism by remodeling RNA-RNA or RNA-protein complexes. We performed a targeted RNAi screen on 35 human DDX proteins to identify those involved in IAV life cycle. DDX19 was a major hit. In DDX19-depleted cells the accumulation of viral RNAs and proteins was delayed, and the production of infectious IAV particles was strongly reduced. We show that DDX19 associates with intronless, unspliced and spliced IAV mRNAs and promotes their nuclear export. In addition, we demonstrate an RNA-independent association between DDX19 and the viral polymerase, that is modulated by the ATPase activity of DDX19. Our results provide a model in which DDX19 is recruited to viral mRNAs in the nucleus of infected cells to enhance their nuclear export. Information gained from this virus-host interaction improves the understanding of both the IAV replication cycle and the cellular function of DDX19.
+1	228	242 RNA metabolism	Gene_function	GO_0016070
+1	232	242 metabolism	Gene_function	GO_0008152
+1	315	319 RNAi	Gene_function	GO_0016246
+1	809	824 ATPase activity	Gene_function	GO_0016887
+1	913	920 nucleus	Gene_function	GO_0005634
+
+2|chunk|The DExD-box RNA (DDX) helicases form the largest family within the helicases superfamily 2 (SF2) 1 . They share the ability to remodel RNA-RNA or RNA-protein complexes in an ATP dependent manner and they play major roles in all aspects of the cellular RNA metabolism 2 . Most DDX helicases contain 9 canonical sequence motifs that are involved in ATP hydrolysis, ATP binding and RNA binding. Structurally, they share a common core composed of 2 RecA-like domains forming a cleft lined by the conserved sequence motifs 3 .
+2	253	267 RNA metabolism	Gene_function	GO_0016070
+2	257	267 metabolism	Gene_function	GO_0008152
+2	364	375 ATP binding	Gene_function	GO_0005524
+2	368	375 binding	Gene_function	GO_0005488
+2	384	391 binding	Gene_function	GO_0005488
+
+3|chunk|RNA viruses have relatively small genomes that encode a limited number of proteins, and have evolved so that they hijack cellular components and cellular pathways to facilitate their replication. In particular, a growing list of RNA viruses were found to co-opt DDX proteins to support various steps of their life cycle. For instance, the HIV-1 Rev protein associates with DDX3, which together with DDX1 promotes the Rev-dependent nuclear export of unspliced and singly-spliced viral mRNAs 4 . Although the HCV genome encodes a viral RNA helicase, DDX3, DDX1 and DDX6 are required for efficient HCV genomic RNA replication 5 . The DDX1 protein was shown to interact with the Nsp14 exonuclease of coronaviruses and to facilitate their replication 6 . The DDX proteins may also be involved at later stages of viral infection, as exemplified by the role of DDX24 in the packaging of HIV-1 RNA during virus assembly 7 or the role of DDX56 in the assembly of West Nile virus particles 8 . In addition several DDX helicases have been involved in anti-viral innate immunity, mostly as sensors. This is notably the case for DDX58, also named RIG-I, but also for DDX3, DDX41, DDX1, DDX21 and DDX60 9 .
+3	431	445 nuclear export	Gene_function	GO_0051168
+3	607	622 RNA replication	Gene_function	GO_0039703
+3	897	911 virus assembly	Gene_function	GO_0019068
+
+4|chunk|The genome of influenza A viruses (IAV) does not encode any recognized RNA helicase. It consists of eight single-stranded RNA segments of negative polarity (vRNAs), each segment being encapsidated with the nucleoprotein (NP) and associated with the viral RNA-dependent RNA polymerase to form viral ribonucleoproteins (vRNPs). Upon viral entry by endocytosis, the incoming vRNPs are released in the cytoplasm and imported in
+4	398	407 cytoplasm	Gene_function	GO_0005737
+

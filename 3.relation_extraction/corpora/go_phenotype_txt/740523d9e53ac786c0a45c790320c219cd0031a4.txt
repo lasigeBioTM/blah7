@@ -1,0 +1,30 @@
+0|chunk|MAVS-MKK7-JNK2 Defines a Novel Apoptotic Signaling Pathway during Viral Infection
+0	31	58 Apoptotic Signaling Pathway	Gene_function	GO_0097190
+0	41	50 Signaling	Gene_function	GO_0023052
+0	41	58 Signaling Pathway	Gene_function	GO_0007165
+0	66	81 Viral Infection	Gene_function	GO_0016032
+
+1|chunk|Viral infection induces innate immunity and apoptosis. Apoptosis is an effective means to sacrifice virus-infected host cells and therefore restrict the spread of pathogens. However, the underlying mechanisms of this process are still poorly understood. Here, we show that the mitochondrial antiviral signaling protein (MAVS/VISA/Cardif/IPS-1) is critical for SeV (Sendai virus)-induced apoptosis. MAVS specifically activates c-Jun N-terminal kinase 2 (JNK2) but not other MAP kinases. Jnk22/2 cells, but not Jnk12/2 cells, are unable to initiate virus-induced apoptosis and SeV further fails to trigger apoptosis in MAPK kinase 7 (MKK7) knockout (Mkk72/2) cells. Mechanistically, MAVS recruits MKK7 onto mitochondria via its 3D domain, which subsequently phosphorylates JNK2 and thus activates the apoptosis pathway. Consistently, Jnk22/2 mice, but not Jnk12/2 mice, display marked inflammatory injury in lung and liver after viral challenge. Collectively, we have identified a novel signaling pathway, involving MAVS-MKK7-JNK2, which mediates virus-induced apoptosis and highlights the indispensable role of mitochondrial outer membrane in host defenses.
+1	0	15 Viral infection	Gene_function	GO_0016032
+1	24	39 innate immunity	Gene_function	GO_0045087
+1	277	290 mitochondrial	Phenotype	HP_0001427
+1	301	310 signaling	Gene_function	GO_0023052
+1	617	621 MAPK	Gene_function	GO_0004707
+1	632	636 MKK7	Gene_function	GO_0004708
+1	695	699 MKK7	Gene_function	GO_0004708
+1	705	717 mitochondria	Gene_function	GO_0005739
+1	985	994 signaling	Gene_function	GO_0023052
+1	1110	1123 mitochondrial	Phenotype	HP_0001427
+1	1110	1138 mitochondrial outer membrane	Gene_function	GO_0005741
+1	1124	1138 outer membrane	Gene_function	GO_0019867
+1	1130	1138 membrane	Gene_function	GO_0016020
+1	GO-HP	GO_0016032	HP_0001427
+1	GO-HP	GO_0045087	HP_0001427
+1	HP-GO	HP_0001427	GO_0023052
+1	HP-GO	HP_0001427	GO_0004707
+1	HP-GO	HP_0001427	GO_0004708
+1	HP-GO	HP_0001427	GO_0005739
+1	HP-GO	HP_0001427	GO_0005741
+1	HP-GO	HP_0001427	GO_0019867
+1	HP-GO	HP_0001427	GO_0016020
+

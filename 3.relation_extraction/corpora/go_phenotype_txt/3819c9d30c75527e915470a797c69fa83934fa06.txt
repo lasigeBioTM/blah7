@@ -1,0 +1,21 @@
+0|chunk|P200 family protein IFI204 negatively regulates type I interferon responses by targeting IRF7 in nucleus
+0	97	104 nucleus	Gene_function	GO_0005634
+
+1|chunk|Interferon-inducible p200 family protein IFI204 was reported to be involved in DNA sensing, and subsequently induces the production of type I interferons and proinflammatory mediators. However, its function in the regulation of antiviral innate immune signaling pathway remains unclear. Here we reported a novel role of IFI204 that specifically inhibits the IRF7mediated type I interferons response during viral infection. IFI204 and other p200 family proteins are highly expressed in mouse hepatitis coronavirus-infected bone marrow-derived dendritic cells. The abundant IFI204 could significantly interact with IRF7 in nucleus by its HIN domain and prevent the binding of IRF7 with its corresponding promoter. Moreover, other p200 family proteins that possess HIN domain could also inhibit the IRF7-mediated type I interferons. These results reveal that, besides the positive regulation function in type I interferon response at the early stage of DNA virus infection, the interferon-inducible p200 family proteins such as IFI204 could also negatively regulate the IRF7-mediated type I interferon response after RNA virus infection to avoid unnecessary host damage from hyperinflammatory responses.
+1	252	261 signaling	Gene_function	GO_0023052
+1	252	269 signaling pathway	Gene_function	GO_0007165
+1	491	500 hepatitis	Phenotype	HP_0012115
+1	621	628 nucleus	Gene_function	GO_0005634
+1	663	670 binding	Gene_function	GO_0005488
+1	GO-HP	GO_0023052	HP_0012115
+1	GO-HP	GO_0007165	HP_0012115
+1	HP-GO	HP_0012115	GO_0005634
+1	HP-GO	HP_0012115	GO_0005488
+
+2|chunk|The regulation of type I interferon signaling pathway is dynamic sequential processes and must be tightly regulated to keep balance between antiviral immune and hyper-inflammatory responses. The precise regulation mechanisms of the innate immune signaling pathway are still worth studying. Here, we found a novel role of the interferon-inducible p200 family protein IFI204 that specifically inhibits the IRF7-mediated type I interferon production by negative control of the transcriptional activity of IRF7 in the nucleus at the late stage of RNA virus infection. Previous studies showed that IFI204 is involved in DNA sensing during DNA virus infection to initiate antiviral immune responses. We demonstrate that IFI204 can inhibit IRF7-mediated activation of type I IFN responses induced by RNA virus infection, which is in contrast with its role in IRF3 activation in cGAS-PLOS Pathogens | https://doi.org/10.
+2	36	45 signaling	Gene_function	GO_0023052
+2	36	53 signaling pathway	Gene_function	GO_0007165
+2	246	255 signaling	Gene_function	GO_0023052
+2	246	263 signaling pathway	Gene_function	GO_0007165
+2	514	521 nucleus	Gene_function	GO_0005634
+

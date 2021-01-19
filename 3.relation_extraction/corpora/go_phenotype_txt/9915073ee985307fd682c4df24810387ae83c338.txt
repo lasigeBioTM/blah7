@@ -1,0 +1,27 @@
+0|chunk|RNA disruption is associated with response to multiple classes of chemotherapy drugs in tumor cell lines
+0	88	93 tumor	Phenotype	HP_0002664
+
+1|chunk|Background: Cellular stressors and apoptosis-inducing agents have been shown to induce ribosomal RNA (rRNA) degradation in eukaryotic cells. Recently, RNA degradation in vivo was observed in patients with locally advanced breast cancer, where mid-treatment tumor RNA degradation was associated with complete tumor destruction and enhanced patient survival. However, it is not clear how widespread chemotherapy induced "RNA disruption" is, the extent to which it is associated with drug response or what the underlying mechanisms are. Methods: Ovarian (A2780, CaOV3) and breast (MDA-MB-231, MCF-7, BT474, SKBR3) cancer cell lines were treated with several cytotoxic chemotherapy drugs and total RNA was isolated. RNA was also prepared from docetaxel resistant A2780DXL and carboplatin resistant A2780CBN cells following drug exposure. Disruption of RNA was analyzed by capillary electrophoresis. Northern blotting was performed using probes complementary to the 28S and 18S rRNA to determine the origins of degradation bands. Apoptosis activation was assessed by flow cytometric monitoring of annexin-V and propidium iodide (PI) binding to cells and by measuring caspase-3 activation. The link between apoptosis and RNA degradation (disruption) was investigated using a caspase-3 inhibitor.
+1	87	100 ribosomal RNA	Gene_function	GO_0005840
+1	108	119 degradation	Gene_function	GO_0009056
+1	151	166 RNA degradation	Gene_function	GO_0006401
+1	155	166 degradation	Gene_function	GO_0009056
+1	229	235 cancer	Phenotype	HP_0002664
+1	257	262 tumor	Phenotype	HP_0002664
+1	263	278 RNA degradation	Gene_function	GO_0006401
+1	267	278 degradation	Gene_function	GO_0009056
+1	308	313 tumor	Phenotype	HP_0002664
+1	611	617 cancer	Phenotype	HP_0002664
+1	1006	1017 degradation	Gene_function	GO_0009056
+1	1128	1135 binding	Gene_function	GO_0005488
+1	1215	1230 RNA degradation	Gene_function	GO_0006401
+1	1219	1230 degradation	Gene_function	GO_0009056
+1	GO-HP	GO_0005840	HP_0002664
+1	GO-HP	GO_0009056	HP_0002664
+1	GO-HP	GO_0006401	HP_0002664
+1	HP-GO	HP_0002664	GO_0005488
+
+2|chunk|Results: All chemotherapy drugs tested were capable of inducing similar RNA disruption patterns. Docetaxel treatment of the resistant A2780DXL cells and carboplatin treatment of the A2780CBN cells did not result in RNA disruption. Northern blotting indicated that two RNA disruption bands were derived from the 3'-end of the 28S rRNA. Annexin-V and PI staining of docetaxel treated cells, along with assessment of caspase-3 activation, showed concurrent initiation of apoptosis and RNA disruption, while inhibition of caspase-3 activity significantly reduced RNA disruption.
+
+3|chunk|Conclusions: Supporting the in vivo evidence, our results demonstrate that RNA disruption is induced by multiple chemotherapy agents in cell lines from different tissues and is associated with drug response. Although present, the link between apoptosis and RNA disruption is not completely understood. Evaluation of RNA disruption is thus proposed as a novel and effective biomarker to assess response to chemotherapy drugs in vitro and in vivo.
+

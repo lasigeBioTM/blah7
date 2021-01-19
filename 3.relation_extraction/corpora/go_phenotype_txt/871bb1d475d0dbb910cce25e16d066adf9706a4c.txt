@@ -1,0 +1,16 @@
+0|chunk|Functional Limitations of Plasmacytoid Dendritic Cells Limit Type I Interferon, T Cell Responses and Virus Control in Early Life
+
+1|chunk|Infant mortality from viral infection remains a major global health concern: viruses causing acute infections in immunologically mature hosts often follow a more severe course in early life, with prolonged or persistent viral replication. Similarly, the WE strain of lymphocytic choriomeningitis virus (LCMV-WE) causes acute self-limiting infection in adult mice but follows a protracted course in infant animals, in which LCMV-specific CD8 + T cells fail to expand and control infection. By disrupting type I IFNs signaling in adult mice or providing IFN- supplementation to infant mice, we show here that the impaired early life T cell responses and viral control result from limited early type I IFN responses. We postulated that plasmacytoid dendritic cells (pDC), which have been identified as one major source of immediate-early IFN-I, may not exert adult-like function in vivo in the early life microenvironment. We tested this hypothesis by studying pDC functions in vivo during LCMV infection and identified a coordinated downregulation of infant pDC maturation, activation and function: despite an adult-like in vitro activation capacity of infant pDCs, the expression of the E2-2 pDC master regulator (and of critical downstream antiviral genes such as MyD88, TLR7/ TLR9, NF-B, IRF7 and IRF8) is downregulated in vivo at baseline and during LCMV infection. A similar pattern was observed in response to ssRNA polyU, a model ligand of the TLR7 viral sensor. This suggests that the limited T cellmediated defense against early life viral infections is largely attributable to / regulated by infant pDC responses and provides incentives for novel strategies to supplement or stimulate immediate-early IFN- responses.
+1	22	37 viral infection	Gene_function	GO_0016032
+1	93	98 acute	Phenotype	HP_0011009
+1	162	168 severe	Phenotype	HP_0012828
+1	196	205 prolonged	Phenotype	HP_0025297
+1	319	324 acute	Phenotype	HP_0011009
+1	515	524 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0016032	HP_0011009
+1	GO-HP	GO_0016032	HP_0012828
+1	GO-HP	GO_0016032	HP_0025297
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0025297	GO_0023052
+

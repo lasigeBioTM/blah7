@@ -1,0 +1,37 @@
+0|chunk|Loperamide, pimozide, and STF-62247 trigger autophagy-dependent cell death in glioblastoma cells
+0	64	74 cell death	Gene_function	GO_0008219
+0	78	90 glioblastoma	Phenotype	HP_0012174
+0	GO-HP	GO_0008219	HP_0012174
+
+1|chunk|Autophagy is a well-described degradation mechanism that promotes cell survival upon nutrient starvation and other forms of cellular stresses. In addition, there is growing evidence showing that autophagy can exert a lethal function via autophagic cell death (ACD). As ACD has been implicated in apoptosis-resistant glioblastoma (GBM), there is a high medical need for identifying novel ACD-inducing drugs. Therefore, we screened a library containing 70 autophagyinducing compounds to induce ATG5-dependent cell death in human MZ-54 GBM cells. Here, we identified three compounds, i.e. loperamide, pimozide, and STF-62247 that significantly induce cell death in several GBM cell lines compared to CRISPR/Cas9-generated ATG5-or ATG7-deficient cells, pointing to a death-promoting role of autophagy. Further cell death analyses conducted using pharmacological inhibitors revealed that apoptosis, ferroptosis, and necroptosis only play minor roles in loperamide-, pimozide-or STF-62247-induced cell death. Intriguingly, these three compounds induce massive lipidation of the autophagy marker protein LC3B as well as the formation of LC3B puncta, which are characteristic of autophagy. Furthermore, loperamide, pimozide, and STF-62247 enhance the autophagic flux in parental MZ-54 cells, but not in ATG5 or ATG7 knockout (KO) MZ-54 cells. In addition, loperamide-and pimozidetreated cells display a massive formation of autophagosomes and autolysosomes at the ultrastructural level. Finally, stimulation of autophagy by all three compounds is accompanied by dephosphorylation of mammalian target of rapamycin complex 1 (mTORC1), a well-known negative regulator of autophagy. In summary, our results indicate that loperamide, pimozide, and STF-62247 induce ATG5-and ATG7-dependent cell death in GBM cells, which is preceded by a massive induction of autophagy. These findings emphasize the lethal function and potential clinical relevance of hyperactivated autophagy in GBM.
+1	0	9 Autophagy	Gene_function	GO_0006914
+1	30	41 degradation	Gene_function	GO_0009056
+1	195	204 autophagy	Gene_function	GO_0006914
+1	237	258 autophagic cell death	Gene_function	GO_0048102
+1	248	258 cell death	Gene_function	GO_0008219
+1	316	328 glioblastoma	Phenotype	HP_0012174
+1	507	517 cell death	Gene_function	GO_0008219
+1	648	658 cell death	Gene_function	GO_0008219
+1	787	796 autophagy	Gene_function	GO_0006914
+1	806	816 cell death	Gene_function	GO_0008219
+1	991	1001 cell death	Gene_function	GO_0008219
+1	1072	1081 autophagy	Gene_function	GO_0006914
+1	1171	1180 autophagy	Gene_function	GO_0006914
+1	1503	1512 autophagy	Gene_function	GO_0006914
+1	1554	1571 dephosphorylation	Gene_function	GO_0016311
+1	1660	1669 autophagy	Gene_function	GO_0006914
+1	1776	1786 cell death	Gene_function	GO_0008219
+1	1845	1854 autophagy	Gene_function	GO_0006914
+1	1915	1933 clinical relevance	Phenotype	HP_0045088
+1	1952	1961 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0012174
+1	GO-HP	GO_0006914	HP_0045088
+1	GO-HP	GO_0009056	HP_0012174
+1	GO-HP	GO_0009056	HP_0045088
+1	GO-HP	GO_0048102	HP_0012174
+1	GO-HP	GO_0048102	HP_0045088
+1	GO-HP	GO_0008219	HP_0012174
+1	GO-HP	GO_0008219	HP_0045088
+1	HP-GO	HP_0012174	GO_0016311
+1	GO-HP	GO_0016311	HP_0045088
+

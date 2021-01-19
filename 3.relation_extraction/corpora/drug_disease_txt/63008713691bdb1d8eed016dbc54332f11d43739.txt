@@ -1,0 +1,25 @@
+0|chunk|Host Gene Expression Profiling of Dengue Virus Infection in Cell Lines and Patients
+0	41	56 Virus Infection	Disease	DOID_934
+
+1|chunk|Background: Despite the seriousness of dengue-related disease, with an estimated 50-100 million cases of dengue fever and 250,000-500,000 cases of dengue hemorrhagic fever/dengue shock syndrome each year, a clear understanding of dengue pathogenesis remains elusive. Because of the lack of a disease model in animals and the complex immune interaction in dengue infection, the study of host response and immunopathogenesis is difficult. The development of genomics technology, microarray and high throughput quantitative PCR have allowed researchers to study gene expression changes on a much broader scale. We therefore used this approach to investigate the host response in dengue virusinfected cell lines and in patients developing dengue fever.
+1	54	61 disease	Disease	DOID_4
+1	105	117 dengue fever	Disease	DOID_12205
+1	147	171 dengue hemorrhagic fever	Disease	DOID_12206
+1	185	193 syndrome	Disease	DOID_225
+1	292	299 disease	Disease	DOID_4
+1	735	747 dengue fever	Disease	DOID_12205
+
+2|chunk|Methodology/Principal Findings: Using microarray and high throughput quantitative PCR method to monitor the host response to dengue viral replication in cell line infection models and in dengue patient blood samples, we identified differentially expressed genes along three major pathways; NF-kB initiated immune responses, type I interferon (IFN) and the ubiquitin proteasome pathway. Among the most highly upregulated genes were the chemokines IP-10 and I-TAC, both ligands of the CXCR3 receptor. Increased expression of IP-10 and I-TAC in the peripheral blood of ten patients at the early onset of fever was confirmed by ELISA. A highly upregulated gene in the IFN pathway, viperin, was overexpressed in A549 cells resulting in a significant reduction in viral replication. The upregulation of genes in the ubiquitin-proteasome pathway prompted the testing of proteasome inhibitors MG-132 and ALLN, both of which reduced viral replication.
+2	331	341 interferon	Chemical	CHEBI_52999
+2	377	384 pathway	Chemical	CHEBI_34922
+2	468	475 ligands	Chemical	CHEBI_52214
+2	668	675 pathway	Chemical	CHEBI_34922
+2	831	838 pathway	Chemical	CHEBI_34922
+2	863	884 proteasome inhibitors	Chemical	CHEBI_52726
+2	874	884 inhibitors	Chemical	CHEBI_35222
+
+3|chunk|Conclusion/Significance: Unbiased gene expression analysis has identified new host genes associated with dengue infection, which we have validated in functional studies. We showed that some parts of the host response can be used as potential biomarkers for the disease while others can be used to control dengue viral replication, thus representing viable targets for drug therapy.
+3	261	268 disease	Disease	DOID_4
+3	368	372 drug	Chemical	CHEBI_23888
+3	DOID-CHEBI	DOID_4	CHEBI_23888
+

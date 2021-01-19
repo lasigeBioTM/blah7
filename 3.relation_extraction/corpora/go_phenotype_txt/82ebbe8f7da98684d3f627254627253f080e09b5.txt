@@ -1,0 +1,30 @@
+0|chunk|Allele-Specific Expression of CD4 + T Cells in Response to Marek's Disease Virus Infection
+
+1|chunk|Marek's disease (MD) is a T cell lymphoma disease induced by Marek's disease virus (MDV), a highly oncogenic  herpesvirus primarily affecting chickens. MD is a chronic infectious disease that threatens the poultry industry. However, the mechanisms of genetic resistance for MD are complex and not completely understood. In this study, to identify high-confidence candidate genes of MD genetic resistance, high throughput sequencing (RNA-seq) was used to obtain transcriptomic data of CD4 + T cells isolated from MDV-infected and non-infected groups of two reciprocal crosses of individuals mating by two highly inbred chicken lines (6 3 MD-resistant and 7 2 MD-susceptible). After RNA-seq analysis with two biological replicates in each group, we identified 61 and 123 single nucleotide polymorphisms (SNPs) (false discovery rate (FDR) < 0.05) annotated in 39 and 132 genes in intercrosses 6 3  7 2 and 7 2  6 3 , respectively, which exhibited allele-specific expression (ASE) in response to MDV infection. Similarly, we identified 62 and 79 SNPs annotated in 66 and 96 genes in infected and non-infected groups, respectively. We identified 534 and 1543 differentially expressed genes (DEGs) (FDR < 0.05) related to MDV infection in intercrosses 6 3  7 2 and 7 2  6 3 , respectively. We also identified 328 and 20 DEGs in infected and non-infected groups, respectively. The qRT-PCR using seven DEGs further verified our results of RNA-seq analysis. The qRT-PCR of 11 important ASE genes was performed for gene functional validation in CD4 + T cells and tumors. Combining the analyses, six genes (MCL1, SLC43A2, PDE3B, ADAM33, BLB1, and DMB2), especially MCL1, were highlighted as the candidate genes with the potential to be involved in MDV infection. Gene-set enrichment analysis revealed that many ASE genes are linked to T cell activation, T cell receptor (TCR), B cell receptor (BCR), ERK/MAPK, and PI3K/AKT-mTOR signaling pathways, which play potentially important roles in MDV infection. Our approach underlines the importance of comprehensive functional studies for gaining valuable biological insight into the genetic factors behind MD and other complex traits, and our findings provide additional insights into the mechanisms of MD and disease resistance breeding in poultry.
+1	26	41 T cell lymphoma	Phenotype	HP_0012190
+1	33	41 lymphoma	Phenotype	HP_0002665
+1	161	168 chronic	Phenotype	HP_0011010
+1	591	597 mating	Gene_function	GO_0000747
+1	591	597 mating	Gene_function	GO_0007618
+1	995	998 MDV	Gene_function	GO_0099073
+1	1219	1222 MDV	Gene_function	GO_0099073
+1	1742	1745 MDV	Gene_function	GO_0099073
+1	1829	1846 T cell activation	Gene_function	GO_0042110
+1	1922	1931 signaling	Gene_function	GO_0023052
+1	1984	1987 MDV	Gene_function	GO_0099073
+1	HP-GO	HP_0012190	GO_0000747
+1	HP-GO	HP_0012190	GO_0007618
+1	HP-GO	HP_0012190	GO_0099073
+1	HP-GO	HP_0012190	GO_0042110
+1	HP-GO	HP_0012190	GO_0023052
+1	HP-GO	HP_0002665	GO_0000747
+1	HP-GO	HP_0002665	GO_0007618
+1	HP-GO	HP_0002665	GO_0099073
+1	HP-GO	HP_0002665	GO_0042110
+1	HP-GO	HP_0002665	GO_0023052
+1	HP-GO	HP_0011010	GO_0000747
+1	HP-GO	HP_0011010	GO_0007618
+1	HP-GO	HP_0011010	GO_0099073
+1	HP-GO	HP_0011010	GO_0042110
+1	HP-GO	HP_0011010	GO_0023052
+

@@ -1,0 +1,36 @@
+0|chunk|Porcine Epidemic Diarrhea Virus Induces Autophagy to Benefit Its Replication
+0	17	25 Diarrhea	Disease	DOID_13250
+
+1|chunk|The new porcine epidemic diarrhea (PED) has caused devastating economic losses to the swine industry worldwide. Despite extensive research on the relationship between autophagy and virus infection, the concrete role of autophagy in porcine epidemic diarrhea virus (PEDV) infection has not been reported. In this study, autophagy was demonstrated to be triggered by the effective replication of PEDV through transmission electron microscopy, confocal microscopy, and Western blot analysis. Moreover, autophagy was confirmed to benefit PEDV replication by using autophagy regulators and RNA interference. Furthermore, autophagy might be associated with the expression of inflammatory cytokines and have a positive feedback loop with the NF-B signaling pathway during PEDV infection. This work is the first attempt to explore the complex interplay between autophagy and PEDV infection. Our findings might accelerate our understanding of the pathogenesis of PEDV infection and provide new insights into the development of effective therapeutic strategies.
+1	25	33 diarrhea	Disease	DOID_13250
+1	211	215 role	Chemical	CHEBI_50906
+1	249	257 diarrhea	Disease	DOID_13250
+1	420	428 electron	Chemical	CHEBI_10545
+1	585	588 RNA	Chemical	CHEBI_33697
+1	751	758 pathway	Chemical	CHEBI_34922
+1	DOID-CHEBI	DOID_13250	CHEBI_50906
+1	DOID-CHEBI	DOID_13250	CHEBI_10545
+1	DOID-CHEBI	DOID_13250	CHEBI_33697
+1	DOID-CHEBI	DOID_13250	CHEBI_34922
+
+2|chunk|Viruses 2017, 9, 53 2 of 16 damaged organelles are delivered to lysosomes for degradation and recycling [8, 9] . Autophagy can be induced by diverse intracellular and extracellular stimuli, such as nutrient starvation, endoplasmic reticulum (ER) stress, pathogen-associated molecular patterns (PAMPs), and virus infection [10] . Increasing evidence indicates that autophagy plays both anti-viral and pro-viral roles in the life cycles and pathogenesis of a broad range of viruses [11] . Specifically, autophagy is an intrinsic host defense mechanism that inhibits viral replication or eliminates viruses by delivering them to the lysosomal compartment for degradation. Meanwhile, viruses develop many mechanisms to block autophagy or even hijack it for their own benefit, such as human cytomegalovirus (HCMV) and herpes simplex virus type 1 (HSV-1) [9, [12] [13] [14] . However, autophagy is also believed to serve as a platform for viral replication, especially for RNA viruses, such as classical swine fever virus (CSFV), porcine reproductive and respiratory syndrome virus (PRRSV), and rotavirus (RV), utilizing the membranes of the autophagosome-like vesicles for their replication [15] [16] [17] . These polar characteristics reveal the complicated relationship between autophagy and viral infection.
+2	198	206 nutrient	Chemical	CHEBI_33284
+2	306	321 virus infection	Disease	DOID_934
+2	813	827 herpes simplex	Disease	DOID_8566
+2	967	970 RNA	Chemical	CHEBI_33697
+2	1061	1069 syndrome	Disease	DOID_225
+2	CHEBI-DOID	CHEBI_33284	DOID_934
+2	CHEBI-DOID	CHEBI_33284	DOID_8566
+2	CHEBI-DOID	CHEBI_33284	DOID_225
+2	DOID-CHEBI	DOID_934	CHEBI_33697
+2	DOID-CHEBI	DOID_8566	CHEBI_33697
+2	CHEBI-DOID	CHEBI_33697	DOID_225
+
+3|chunk|A previous proteomic study indicated that more differentially expressed proteins were mapped to the autophagy pathway, and the microtubule-associated protein 1B, a useful biomarker protein for autophagy was up-regulated in PEDV-infected Vero cells [18] . In addition, our previous study demonstrated that mTOR (the mammalian target of rapamycin) pathway, which was closely associated with cellular autophagy, was down-regulated, and that the autophagy associated protein ATG5 was up-regulated during PEDV infection [19] . These studies indicated that autophagy might participate in PEDV infection, but the specific function of autophagy in the process of PEDV infection has not been elucidated. In the present study, we demonstrated for the first time that autophagy was triggered in Vero cells during PEDV infection to promote its replication. Moreover, autophagy might mediate the inflammatory responses induced by PEDV infection and have a positive correlation with the NF-B signaling pathway. Program of China (2016YFD0500702) and the China Agricultural Research System (CARS-36). We thank prof. Xiang Mao from the Shanghai Veterinary Research Institute, for providing the GFP-mRFP-LC3 tandem reporter construct.
+3	72	80 proteins	Chemical	CHEBI_36080
+3	150	157 protein	Chemical	CHEBI_16541
+3	171	180 biomarker	Chemical	CHEBI_59163
+3	181	188 protein	Chemical	CHEBI_16541
+3	335	344 rapamycin	Chemical	CHEBI_9168
+3	463	470 protein	Chemical	CHEBI_16541
+

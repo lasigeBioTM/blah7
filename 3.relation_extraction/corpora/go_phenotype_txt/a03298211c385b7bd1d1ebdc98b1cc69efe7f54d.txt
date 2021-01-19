@@ -1,0 +1,37 @@
+0|chunk|Systematic Identification of Novel, Essential Host Genes Affecting Bromovirus RNA Replication
+0	78	93 RNA Replication	Gene_function	GO_0039703
+
+1|chunk|Positive-strand RNA virus replication involves viral proteins and cellular proteins at nearly every replication step. Brome mosaic virus (BMV) is a well-established model for dissecting virus-host interactions and is one of very few viruses whose RNA replication, gene expression and encapsidation have been reproduced in the yeast Saccharomyces cerevisiae. Previously, our laboratory identified ,100 non-essential host genes whose loss inhibited or enhanced BMV replication at least 3-fold. However, our isolation of additional BMV-modulating host genes by classical genetics and other results underscore that genes essential for cell growth also contribute to BMV RNA replication at a frequency that may be greater than that of non-essential genes. To systematically identify novel, essential host genes affecting BMV RNA replication, we tested a collection of ,900 yeast strains, each with a single essential gene promoter replaced by a doxycycline-repressible promoter, allowing repression of gene expression by adding doxycycline to the growth medium. Using this strain array of ,81% of essential yeast genes, we identified 24 essential host genes whose depleted expression reproducibly inhibited or enhanced BMV RNA replication. Relevant host genes are involved in ribosome biosynthesis, cell cycle regulation and protein homeostasis, among other cellular processes. BMV 2a Pol levels were significantly increased in strains depleted for a heat shock protein (HSF1) or proteasome components (PRE1 and RPT6), suggesting these genes may affect BMV RNA replication by directly or indirectly modulating 2a Pol localization, post-translational modification or interacting partners. Investigating the diverse functions of these newly identified essential host genes should advance our understanding of BMV-host interactions and normal cellular pathways, and suggest new modes of virus control.
+1	247	262 RNA replication	Gene_function	GO_0039703
+1	264	279 gene expression	Gene_function	GO_0010467
+1	631	642 cell growth	Gene_function	GO_0016049
+1	636	642 growth	Gene_function	GO_0040007
+1	666	681 RNA replication	Gene_function	GO_0039703
+1	687	696 frequency	Phenotype	HP_0040279
+1	820	835 RNA replication	Gene_function	GO_0039703
+1	997	1012 gene expression	Gene_function	GO_0010467
+1	1042	1048 growth	Gene_function	GO_0040007
+1	1218	1233 RNA replication	Gene_function	GO_0039703
+1	1271	1279 ribosome	Gene_function	GO_0005840
+1	1294	1304 cell cycle	Gene_function	GO_0007049
+1	1294	1315 cell cycle regulation	Gene_function	GO_0051726
+1	1451	1456 shock	Phenotype	HP_0031273
+1	1552	1567 RNA replication	Gene_function	GO_0039703
+1	1626	1657 post-translational modification	Gene_function	GO_0043687
+1	GO-HP	GO_0039703	HP_0040279
+1	GO-HP	GO_0039703	HP_0031273
+1	GO-HP	GO_0010467	HP_0040279
+1	GO-HP	GO_0010467	HP_0031273
+1	GO-HP	GO_0016049	HP_0040279
+1	GO-HP	GO_0016049	HP_0031273
+1	GO-HP	GO_0040007	HP_0040279
+1	GO-HP	GO_0040007	HP_0031273
+1	HP-GO	HP_0040279	GO_0005840
+1	HP-GO	HP_0040279	GO_0007049
+1	HP-GO	HP_0040279	GO_0051726
+1	HP-GO	HP_0040279	GO_0043687
+1	GO-HP	GO_0005840	HP_0031273
+1	GO-HP	GO_0007049	HP_0031273
+1	GO-HP	GO_0051726	HP_0031273
+1	HP-GO	HP_0031273	GO_0043687
+

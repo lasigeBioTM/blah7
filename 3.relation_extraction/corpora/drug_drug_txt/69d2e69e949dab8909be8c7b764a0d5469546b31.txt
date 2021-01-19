@@ -1,0 +1,18 @@
+0|chunk|Evaluation of reference genes for real-time quantitative PCR studies in Candida glabrata following azole treatment
+0	99	104 azole	Chemical	CHEBI_68452
+
+1|chunk|Background: The selection of stable and suitable reference genes for real-time quantitative PCR (RT-qPCR) is a crucial prerequisite for reliable gene expression analysis under different experimental conditions. The present study aimed to identify reference genes as internal controls for gene expression studies by RT-qPCR in azole-stimulated Candida glabrata.
+
+2|chunk|The expression stability of 16 reference genes under fluconazole stress was evaluated using fold change and standard deviation computations with the hkgFinder tool. Our data revealed that the mRNA expression levels of three ribosomal RNAs (RDN5.8, RDN18, and RDN25) remained stable in response to fluconazole, while PGK1, UBC7, and UBC13 mRNAs showed only approximately 2.9-, 3.0-, and 2.5-fold induction by azole, respectively. By contrast, mRNA levels of the other 10 reference genes (ACT1, EF1, GAPDH, PPIA, RPL2A, RPL10, RPL13A, SDHA, TUB1, and UBC4) were dramatically increased in C. glabrata following antifungal treatment, exhibiting changes ranging from 4.5-to 32.7-fold. We also assessed the expression stability of these reference genes using the 2 -CT method and three other software packages. The stability rankings of the reference genes by geNorm and the 2 -CT method were identical to those by hkgFinder, whereas the stability rankings by BestKeeper and NormFinder were notably different. We then validated the suitability of six candidate reference genes (ACT1, PGK1, RDN5.8, RDN18, UBC7, and UBC13) as internal controls for ten target genes in this system using the comparative C T method. Our validation experiments passed for all six reference genes analyzed except RDN18, where the amplification efficiency of RDN18 was different from that of the ten target genes. Finally, we demonstrated that the relative quantification of target gene expression varied according to the endogenous control used, highlighting the importance of the choice of internal controls in such experiments.
+2	53	64 fluconazole	Chemical	CHEBI_46081
+2	192	196 mRNA	Chemical	CHEBI_33699
+2	297	308 fluconazole	Chemical	CHEBI_46081
+2	442	446 mRNA	Chemical	CHEBI_33699
+2	609	619 antifungal	Chemical	CHEBI_35718
+2	CHEBI-CHEBI	CHEBI_46081	CHEBI_33699
+2	CHEBI-CHEBI	CHEBI_46081	CHEBI_35718
+2	CHEBI-CHEBI	CHEBI_33699	CHEBI_35718
+
+3|chunk|We recommend the use of RDN5.8, UBC13, and PGK1 alone or the combination of RDN5.8 plus UBC13 or PGK1 as reference genes for RT-qPCR analysis of gene expression in C. glabrata following azole treatment. In contrast, we show that ACT1 and other commonly used reference genes (GAPDH, PPIA, RPL13A, TUB1, etc.) were not validated as good internal controls in the current model.
+3	186	191 azole	Chemical	CHEBI_68452
+

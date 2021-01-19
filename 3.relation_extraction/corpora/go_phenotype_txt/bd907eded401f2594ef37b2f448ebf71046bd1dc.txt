@@ -1,0 +1,28 @@
+0|chunk|Case Report Anorectal Cancer with Bone Marrow and Leptomeningeal Metastases
+0	22	28 Cancer	Phenotype	HP_0002664
+
+1|chunk|This is an interesting case of anorectal signet ring carcinoma with first presentation of an early stage disease, showing the aggressive disease and the undetectable behavior of this type of histology which can mislead diagnosis. Brain/CNS metastasis from colorectal cancer (CRC) is rare occurring in 3% of cases, and leptomeningeal carcinomatosis (LMC) is extremely rare in CRC (<0.02%). Symptoms and signs of LMC are pleomorphic and may be localized to three compartments: cerebral hemispheres, cranial nerves, and spinal cords and roots. Treatment of metastatic rectal cancer has been improving over the last few years with a lot of changes toward longer survival and improvement in quality of life and to change the disease into a chronic condition. However, in our case, the overall survival from the onset of LMC was 3 weeks only. Revising the evidence in the treatment of signet ring histology of rectal cancer, there is no specific treatment recommendation that is for this histology and for such very aggressive behavior which could be considered as a separate entity to the classic adenocarcinoma histology.
+1	53	62 carcinoma	Phenotype	HP_0030731
+1	166	174 behavior	Gene_function	GO_0007610
+1	267	273 cancer	Phenotype	HP_0002664
+1	442	451 localized	Phenotype	HP_0012838
+1	572	578 cancer	Phenotype	HP_0002664
+1	735	742 chronic	Phenotype	HP_0011010
+1	806	811 onset	Phenotype	HP_0003674
+1	911	917 cancer	Phenotype	HP_0002664
+1	1010	1029 aggressive behavior	Gene_function	GO_0002118
+1	1010	1029 aggressive behavior	Phenotype	HP_0000718
+1	1021	1029 behavior	Gene_function	GO_0007610
+1	HP-GO	HP_0030731	GO_0007610
+1	HP-GO	HP_0030731	GO_0002118
+1	GO-HP	GO_0007610	HP_0002664
+1	GO-HP	GO_0007610	HP_0012838
+1	GO-HP	GO_0007610	HP_0011010
+1	GO-HP	GO_0007610	HP_0003674
+1	GO-HP	GO_0007610	HP_0000718
+1	HP-GO	HP_0002664	GO_0002118
+1	HP-GO	HP_0012838	GO_0002118
+1	HP-GO	HP_0011010	GO_0002118
+1	HP-GO	HP_0003674	GO_0002118
+1	GO-HP	GO_0002118	HP_0000718
+

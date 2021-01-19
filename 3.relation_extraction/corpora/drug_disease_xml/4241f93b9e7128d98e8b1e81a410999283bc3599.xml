@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="4241f93b9e7128d98e8b1e81a410999283bc3599">
+  <chunk id="4241f93b9e7128d98e8b1e81a410999283bc3599.c0" text="Model Selection in Time Series Studies of Influenza- Associated Mortality"/>
+  <chunk id="4241f93b9e7128d98e8b1e81a410999283bc3599.c1" text="Background: Poisson regression modeling has been widely used to estimate influenza-associated disease burden, as it has the advantage of adjusting for multiple seasonal confounders. However, few studies have discussed how to judge the adequacy of confounding adjustment. This study aims to compare the performance of commonly adopted model selection criteria in terms of providing a reliable and valid estimate for the health impact of influenza.">
+    <entity charOffset="94-101" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+  <chunk id="4241f93b9e7128d98e8b1e81a410999283bc3599.c2" text="Methods: We assessed four model selection criteria: quasi Akaike information criterion (QAIC), quasi Bayesian information criterion (QBIC), partial autocorrelation functions of residuals (PACF), and generalized cross-validation (GCV), by separately applying them to select the Poisson model best fitted to the mortality datasets that were simulated under the different assumptions of seasonal confounding. The performance of these criteria was evaluated by the bias and root-mean-square error (RMSE) of estimates from the pre-determined coefficients of influenza proxy variable. These four criteria were subsequently applied to an empirical hospitalization dataset to confirm the findings of simulation study.">
+    <entity charOffset="553-562" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c2.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+  </chunk>
+  <chunk id="4241f93b9e7128d98e8b1e81a410999283bc3599.c3" text="Results: GCV consistently provided smaller biases and RMSEs for the influenza coefficient estimates than QAIC, QBIC and PACF, under the different simulation scenarios. Sensitivity analysis of different pre-determined influenza coefficients, study periods and lag weeks showed that GCV consistently outperformed the other criteria. Similar results were found in applying these selection criteria to estimate influenza-associated hospitalization.">
+    <entity charOffset="68-77" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c3.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="217-226" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c3.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+  </chunk>
+  <chunk id="4241f93b9e7128d98e8b1e81a410999283bc3599.c4" text="Conclusions: GCV criterion is recommended for selection of Poisson models to estimate influenza-associated mortality and morbidity burden with proper adjustment for confounding. These findings shall help standardize the Poisson modeling approach for influenza disease burden studies.">
+    <entity charOffset="250-259" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c4.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="260-267" id="4241f93b9e7128d98e8b1e81a410999283bc3599.c4.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+</document>

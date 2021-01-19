@@ -1,0 +1,28 @@
+0|chunk|Feline Foamy Virus Infection: Characterization of Experimental Infection and Prevalence of Natural Infection in Domestic Cats with and without Chronic Kidney Disease
+0	143	150 Chronic	Phenotype	HP_0011010
+0	143	165 Chronic Kidney Disease	Phenotype	HP_0012622
+
+1|chunk|Foamy viruses (FVs) are globally prevalent retroviruses that establish apparently apathogenic lifelong infections. Feline FV (FFV) has been isolated from domestic cats with concurrent diseases, including urinary syndromes. We experimentally infected five cats with FFV to study viral kinetics and tropism, peripheral blood mononuclear cell (PBMC) phenotype, urinary parameters, and histopathology. A persistent infection of primarily lymphoid tropism was detected with no evidence of immunological or hematologic perturbations. One cat with a significant negative correlation between lymphocytes and PBMC proviral load displayed an expanded FFV tissue tropism. Significantly increased blood urea nitrogen and ultrastructural kidney changes were noted in all experimentally infected cats, though chemistry parameters were not outside of normal ranges. Histopathological changes were observed in the brain, large intestine, and other tissues. In order to determine if there is an association of FFV with Chronic Kidney Disease, we additionally screened 125 Australian pet cats with and without CKD for FFV infection and found that FFV is highly prevalent in older cats, particularly in males with CKD, though this difference was not statistically significant compared to controls. Acute FFV infection was clinically silent, and while some measures indicated mild changes, there was no overt association of FFV infection with renal disease.
+1	297	304 tropism	Gene_function	GO_0009606
+1	306	316 peripheral	Phenotype	HP_0030646
+1	443	450 tropism	Gene_function	GO_0009606
+1	532	535 cat	Gene_function	GO_0004096
+1	652	659 tropism	Gene_function	GO_0009606
+1	675	704 increased blood urea nitrogen	Phenotype	HP_0003138
+1	1002	1009 Chronic	Phenotype	HP_0011010
+1	1002	1024 Chronic Kidney Disease	Phenotype	HP_0012622
+1	1279	1284 Acute	Phenotype	HP_0011009
+1	1356	1360 mild	Phenotype	HP_0012825
+1	GO-HP	GO_0009606	HP_0030646
+1	GO-HP	GO_0009606	HP_0003138
+1	GO-HP	GO_0009606	HP_0011010
+1	GO-HP	GO_0009606	HP_0012622
+1	GO-HP	GO_0009606	HP_0011009
+1	GO-HP	GO_0009606	HP_0012825
+1	HP-GO	HP_0030646	GO_0004096
+1	GO-HP	GO_0004096	HP_0003138
+1	GO-HP	GO_0004096	HP_0011010
+1	GO-HP	GO_0004096	HP_0012622
+1	GO-HP	GO_0004096	HP_0011009
+1	GO-HP	GO_0004096	HP_0012825
+

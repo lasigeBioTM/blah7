@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<document id="4099867282145ec32ec26620f381a9251f160f3b">
+  <chunk id="4099867282145ec32ec26620f381a9251f160f3b.c0" text="Predicting Interactions between Virus and Host Proteins Using Repeat Patterns and Composition of Amino Acids">
+    <entity charOffset="47-55" id="4099867282145ec32ec26620f381a9251f160f3b.c0.e0" ontology_id="CHEBI_36080" text="Proteins" type="chemical"/>
+    <entity charOffset="97-102" id="4099867282145ec32ec26620f381a9251f160f3b.c0.e1" ontology_id="CHEBI_46882" text="Amino" type="chemical"/>
+    <entity charOffset="97-108" id="4099867282145ec32ec26620f381a9251f160f3b.c0.e2" ontology_id="CHEBI_33704" text="Amino Acids" type="chemical"/>
+    <entity charOffset="103-108" id="4099867282145ec32ec26620f381a9251f160f3b.c0.e3" ontology_id="CHEBI_37527" text="Acids" type="chemical"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e1" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p0" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e2" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p1" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p2" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e2" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p3" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p4" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c0.e2" e2="4099867282145ec32ec26620f381a9251f160f3b.c0.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c0.p5" relation="true"/>
+  </chunk>
+  <chunk id="4099867282145ec32ec26620f381a9251f160f3b.c1" text="Previous methods for predicting protein-protein interactions (PPIs) were mainly focused on PPIs within a single species, but PPIs across different species have recently emerged as an important issue in some areas such as viral infection. e primary focus of this study is to predict PPIs between virus and its targeted host, which are involved in viral infection. We developed a general method that predicts interactions between virus and host proteins using the repeat patterns and composition of amino acids. In independent testing of the method with PPIs of new viruses and hosts, it showed a high performance comparable to the best performance of other methods for single virus-host PPIs. In comparison of our method with others using same datasets, our method outperformed the others. e repeat patterns and composition of amino acids are simple, yet powerful features for predicting virus-host PPIs. e method developed in this study will help in finding new virus-host PPIs for which little information is available.">
+    <entity charOffset="443-451" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="497-502" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="497-508" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="503-508" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="826-831" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="826-837" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="832-837" id="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p0" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p1" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p2" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p3" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p4" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e0" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p5" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p6" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p7" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p8" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e1" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p9" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p10" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p11" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e2" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p12" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p13" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e3" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p14" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p15" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e4" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p16" relation="true"/>
+    <pair e1="4099867282145ec32ec26620f381a9251f160f3b.c1.e5" e2="4099867282145ec32ec26620f381a9251f160f3b.c1.e6" id="4099867282145ec32ec26620f381a9251f160f3b.c1.p17" relation="true"/>
+  </chunk>
+</document>

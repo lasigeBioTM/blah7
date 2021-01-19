@@ -1,0 +1,11 @@
+0|chunk|RPI-Pred: predicting ncRNA-protein interaction using sequence and structural information
+
+1|chunk|RNA-protein complexes are essential in mediating important fundamental cellular processes, such as transport and localization. In particular, ncRNAprotein interactions play an important role in posttranscriptional gene regulation like mRNA localization, mRNA stabilization, poly-adenylation, splicing and translation. The experimental methods to solve RNA-protein interaction prediction problem remain expensive and time-consuming. Here, we present the RPI-Pred (RNA-protein interaction predictor), a new support-vector machine-based method, to predict protein-RNA interaction pairs, based on both the sequences and structures. The results show that RPI-Pred can correctly predict RNA-protein interaction pairs with 94% prediction accuracy when using sequence and experimentally determined protein and RNA structures, and with 83% when using sequences and predicted protein and RNA structures. Further, our proposed method RPI-Pred was superior to other existing ones by predicting more experimentally validated ncRNA-protein interaction pairs from different organisms. Motivated by the improved performance of RPI-Pred, we further applied our method for reliable construction of ncRNA-protein interaction networks. The RPI-Pred is publicly available at: http://ctsb.is.wfubmc.edu/projects/rpi-pred.
+1	186	190 role	Chemical	CHEBI_50906
+1	235	239 mRNA	Chemical	CHEBI_33699
+1	254	258 mRNA	Chemical	CHEBI_33699
+1	791	798 protein	Chemical	CHEBI_16541
+1	803	806 RNA	Chemical	CHEBI_33697
+1	868	875 protein	Chemical	CHEBI_16541
+1	880	883 RNA	Chemical	CHEBI_33697
+

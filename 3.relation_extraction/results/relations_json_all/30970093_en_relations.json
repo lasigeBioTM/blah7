@@ -1,0 +1,117 @@
+{
+    "text": "To compare the clinical characteristics and outcomes of patients with community-acquired and hospital-acquired sepsis.This is a retrospective cohort study that included all patients with a diagnosis of sepsis detected between January 2010 and December 2015 at a private hospital in southern Brazil. Outcomes (mortality, intensive care unit and hospital lengths of stay) were measured by analyzing electronic records.There were 543 hospitalized patients with a diagnosis of sepsis, with a frequency of 90.5 (85 to 105) cases/year. Of these, 319 (58%) cases were classified as hospital-acquired sepsis. This group exhibited more severe disease and had a larger number of organ dysfunctions, with higher hospital [8 (8 - 10) versus 23 (20 - 27) days; p < 0.001] and intensive care unit [5 (4 - 7) versus 8.5 (7 - 10); p < 0.001] lengths of stay and higher in-hospital mortality (30.7% versus 15.6%; p < 0.001) than those with community-acquired sepsis. After adjusting for age, APACHE II scores, and hemodynamic and respiratory dysfunction, hospital-acquired sepsis remained associated with increased mortality (OR 1.96; 95%CI 1.15 - 3.32, p = 0.013).The present results contribute to the definition of the epidemiological profile of sepsis in the sample studied, in which hospital-acquired sepsis was more severe and was associated with higher mortality.",
+    "denotations": [
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 111,
+                "end": 117
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "CHEBI_34935",
+            "span": {
+                "begin": 142,
+                "end": 148
+            },
+            "obj": "cohort"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 202,
+                "end": 208
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 473,
+                "end": 479
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0040279",
+            "span": {
+                "begin": 488,
+                "end": 497
+            },
+            "obj": "frequency"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 593,
+                "end": 599
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 627,
+                "end": 633
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 634,
+                "end": 641
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 942,
+                "end": 948
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 1056,
+                "end": 1062
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 1231,
+                "end": 1237
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0100806",
+            "span": {
+                "begin": 1288,
+                "end": 1294
+            },
+            "obj": "sepsis"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 1304,
+                "end": 1310
+            },
+            "obj": "severe"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        }
+    ]
+}

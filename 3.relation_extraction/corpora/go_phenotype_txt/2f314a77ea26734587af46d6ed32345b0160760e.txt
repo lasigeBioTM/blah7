@@ -1,0 +1,29 @@
+0|chunk|Dudleya brittonii extract promotes survival rate and M2-like metabolic change in porcine 3D4/31 alveolar macrophages
+
+1|chunk|Objective: Although alveolar macrophages play a key role in the respiratory immunity of livestock, studies on the mechanism of differentiation and survival of alveolar macrophages are lacking. Therefore, we undertook to investigate changes in the lipid metabolism and survival rate, using 3D4/31 macrophages and Dudleya brittonii which has been used as a traditional asthma treatment. Methods: 3D4/31 macrophages were used as the in vitro porcine alveolar macrophages model. The cells were activated by exposure to phorbol 12-myristate 13-acetate (PMA). Dudleya brittonii extraction was performed with distilled water. For evaluating the cell survival rate, we performed the water-soluble tetrazolium salt cell viability assay and growth curve analysis. To confirm cell death, cell cycle and intracellular reactive oxygen species (ROS) levels were measured using flow cytometric analysis by applying fluorescence dye dichlorofluorescein diacetate and propidium iodide. Furthermore, we also evaluated cellular lipid accumulation with oil red O staining, and fatty acid synthesis related genes expression levels using quantitative polymerase chain reaction (qPCR) with SYBR green dye. Glycolysis, fatty acid oxidation, and tricarboxylic acid (TCA) cycle related gene expression levels were measured using qPCR after exposure to Dudleya brittonii extract (DB) for 12 h.
+1	247	263 lipid metabolism	Gene_function	GO_0006629
+1	253	263 metabolism	Gene_function	GO_0008152
+1	367	373 asthma	Phenotype	HP_0002099
+1	731	737 growth	Gene_function	GO_0040007
+1	777	787 cell cycle	Gene_function	GO_0007049
+1	792	805 intracellular	Gene_function	GO_0005622
+1	1057	1077 fatty acid synthesis	Gene_function	GO_0006633
+1	1068	1077 synthesis	Gene_function	GO_0009058
+1	1195	1215 fatty acid oxidation	Gene_function	GO_0019395
+1	1260	1275 gene expression	Gene_function	GO_0010467
+1	GO-HP	GO_0006629	HP_0002099
+1	GO-HP	GO_0008152	HP_0002099
+1	HP-GO	HP_0002099	GO_0040007
+1	HP-GO	HP_0002099	GO_0007049
+1	HP-GO	HP_0002099	GO_0005622
+1	HP-GO	HP_0002099	GO_0006633
+1	HP-GO	HP_0002099	GO_0009058
+1	HP-GO	HP_0002099	GO_0019395
+1	HP-GO	HP_0002099	GO_0010467
+
+2|chunk|The ROS production and cell death were induced by PMA treatment, and exposure to DB reduced the PMA induced downregulation of cell survival. The PMA and DB treatments upregulated the lipid accumulation, with corresponding increase in the acetyl-CoA carboxylase alpha, fatty acid synthase mRNA expressions. DB-PMA co-treatment reduced the glycolysis genes expression, but increased the expressions of fatty acid oxidation and TCA cycle genes. Conclusion: This study provides new insights and directions for further research relating to the immunity of porcine respiratory system, by employing a model based on alveolar macrophages and natural materials.
+2	23	33 cell death	Gene_function	GO_0008219
+2	338	348 glycolysis	Gene_function	GO_0006096
+2	400	420 fatty acid oxidation	Gene_function	GO_0019395
+2	425	434 TCA cycle	Gene_function	GO_0006099
+

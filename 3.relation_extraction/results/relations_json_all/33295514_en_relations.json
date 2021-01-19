@@ -1,0 +1,63 @@
+{
+    "text": "One of the concerns linked to the COVID-19 pandemic is the capacity of health systems to respond to the demand for care for people with the disease. The objective of this study was to create a COVID-19 response Healthcare Infrastructure Index (HII), calculate the index for each state in Brazil, and determine its spatial distribution within and across regions. The HII was constructed using principal component factor analysis. The adequacy of the statistical model was tested using the Kaiser-Meyer-Olkin test and Bartlett's test of sphericity. The spatial distribution of the HII was analyzed using exploratory spatial data analysis. The data were obtained from DATASUS, the Federal Nursing Council, Ministry of Health, Government Procurement Portal, and the Transparency Portal. The nine states in the country's North and Northeast regions showed the lowest indices, while the five states from the Southeast and South regions showed the highest indices. Low-low clusters were observed in Amazonas and Par\u00e1 and high-high clusters were found in Minas Gerais, Rio de Janeiro, S\u00e3o Paulo, and Paran\u00e1.",
+    "denotations": [
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 34,
+                "end": 42
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 193,
+                "end": 201
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "CHEBI_33731",
+            "span": {
+                "begin": 966,
+                "end": 974
+            },
+            "obj": "clusters"
+        },
+        {
+            "id": "CHEBI_33731",
+            "span": {
+                "begin": 1024,
+                "end": 1032
+            },
+            "obj": "clusters"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_33731"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_33731"
+        }
+    ]
+}

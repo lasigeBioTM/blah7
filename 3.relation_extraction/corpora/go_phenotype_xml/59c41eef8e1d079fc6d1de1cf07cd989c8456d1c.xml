@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c">
+  <chunk id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0" text="S1 Appendix for &quot;Role of extracellular matrix and microenvironment in regulation of tumor growth and LAR-mediated invasion in glioblastoma&quot; The core control system (miR-451-AMPK-mTOR)">
+    <entity charOffset="25-38" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e0" ontology_id="GO_0005576" text="extracellular" type="gene_function"/>
+    <entity charOffset="25-45" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e1" ontology_id="GO_0031012" text="extracellular matrix" type="gene_function"/>
+    <entity charOffset="84-89" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e2" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="90-96" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e3" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <pair e1="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e0" e2="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e2" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.p0" relation="true"/>
+    <pair e1="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e1" e2="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e2" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.p1" relation="true"/>
+    <pair e1="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e2" e2="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.e3" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c1" text="Using a mathematical model abstracted from the complex network (Fig 1) , we illustrate the mechanisms and conditions under which these miR-451 properties operate. A mathematical model based on a system of ordinary differential equations is used. In order to incorporate the signaling network we simplified the network as shown in Fig 1A as follows: We merged all the AMPK regulatory network between CAB39/LKB1/STRAD and AMPK/MARK into one component (AMPK complex; middle box with solid line in Fig 1A) while we kept miR-451 and mTOR (dotted boxes in Fig 1A) in separate modules. The mathematical model network is shown in Fig 1B. We refer to the interactions represented by edges in Fig 1B as the core miR-451-AMPK-mTOR control system. By convention, the kinetic interpretation of arrows and hammerheads in the network represents induction (arrow) and inhibition (hammerhead).">
+    <entity charOffset="274-283" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c1.e0" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="367-371" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c1.e1" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="420-424" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c1.e2" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="450-454" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c1.e3" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+  </chunk>
+  <chunk id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2" text="Let the variables m, a and r be activities of miR-451, AMPK complex, and mTOR, respectively. The scheme includes autocatalytic activities of miR-451 (m), AMPK complex (a), and mTOR (r) as reported in [1], microRNA/protein degradation of those key molecules, mutual inhibition between miR-451 and AMPK complex and inhibition of mTOR activity by AMPK complex. Based on biological observations, we write the phenomenological equations for the rate change of those key modules (m, a, r) as follows:">
+    <entity charOffset="55-59" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e0" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="55-67" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e1" ontology_id="GO_0031588" text="AMPK complex" type="gene_function"/>
+    <entity charOffset="154-158" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e2" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="154-166" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e3" ontology_id="GO_0031588" text="AMPK complex" type="gene_function"/>
+    <entity charOffset="222-233" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e4" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+    <entity charOffset="296-300" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e5" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="296-308" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e6" ontology_id="GO_0031588" text="AMPK complex" type="gene_function"/>
+    <entity charOffset="344-348" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e7" ontology_id="GO_0004691" text="AMPK" type="gene_function"/>
+    <entity charOffset="344-356" id="59c41eef8e1d079fc6d1de1cf07cd989c8456d1c.c2.e8" ontology_id="GO_0031588" text="AMPK complex" type="gene_function"/>
+  </chunk>
+</document>

@@ -1,0 +1,20 @@
+0|chunk|The clinical and virological features of the first imported case causing MERS-CoV outbreak in South Korea, 2015
+
+1|chunk|Background: In 2015, the largest outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) infection outside the Middle East occurred in South Korea. We summarized the epidemiological, clinical, and laboratory findings of the first Korean case of MERS-CoV and analyzed whole-genome sequences of MERS-CoV derived from the patient.
+1	45	77 Middle East respiratory syndrome	Disease	DOID_0080642
+1	69	77 syndrome	Disease	DOID_225
+
+2|chunk|Case presentation: A 68-year-old man developed fever and myalgia 7 days after returning to Korea, following a 10-day trip to the Middle East. Before diagnosis, he visited 4 hospitals, potentially resulting in secondary transmission to 28 patients. On admission to the National Medical Center (day 9, post-onset of clinical illness), he presented with drowsiness, hypoxia, and multiple patchy infiltrations on the chest radiograph. He was intubated (day 12) because of progressive acute respiratory distress syndrome (ARDS) and INF-2a and ribavirin treatment was commenced. The treatment course was prolonged by superimposed ventilator associated pneumonia. MERS-CoV PCR results converted to negative from day 47 and the patient was discharged (day 137), following rehabilitation therapy. The complete genome sequence obtained from a sputum sample (taken on day 11) showed the highest sequence similarity (99.59%) with the virus from an outbreak in Riyadh, Saudi Arabia, in February 2015.
+2	33	36 man	Chemical	CHEBI_37684
+2	507	515 syndrome	Disease	DOID_225
+2	517	521 ARDS	Disease	DOID_11394
+2	539	548 ribavirin	Chemical	CHEBI_63580
+2	CHEBI-DOID	CHEBI_37684	DOID_225
+2	CHEBI-DOID	CHEBI_37684	DOID_11394
+2	DOID-CHEBI	DOID_225	CHEBI_63580
+2	DOID-CHEBI	DOID_11394	CHEBI_63580
+
+3|chunk|Conclusions: The first case of MERS-CoV infection had high transmissibility and was associated with a severe clinical course. The patient made a successful recovery after early treatment with antiviral agents and adequate supportive care. This first case in South Korea became a super-spreader because of improper infection control measures, rather than variations of the virus.
+3	192	201 antiviral	Chemical	CHEBI_22587
+3	192	208 antiviral agents	Chemical	CHEBI_22587
+

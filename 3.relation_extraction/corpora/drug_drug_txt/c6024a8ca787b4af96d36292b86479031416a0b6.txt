@@ -1,0 +1,21 @@
+0|chunk|A fast and robust iterative algorithm for prediction of RNA pseudoknotted secondary structures
+0	56	59 RNA	Chemical	CHEBI_33697
+
+1|chunk|Background: Improving accuracy and efficiency of computational methods that predict pseudoknotted RNA secondary structures is an ongoing challenge. Existing methods based on free energy minimization tend to be very slow and are limited in the types of pseudoknots that they can predict. Incorporating known structural information can improve prediction accuracy; however, there are not many methods for prediction of pseudoknotted structures that can incorporate structural information as input. There is even less understanding of the relative robustness of these methods with respect to partial information.
+1	98	101 RNA	Chemical	CHEBI_33697
+
+2|chunk|We present a new method, Iterative HFold, for pseudoknotted RNA secondary structure prediction. Iterative HFold takes as input a pseudoknot-free structure, and produces a possibly pseudoknotted structure whose energy is at least as low as that of any (density-2) pseudoknotted structure containing the input structure. Iterative HFold leverages strengths of earlier methods, namely the fast running time of HFold, a method that is based on the hierarchical folding hypothesis, and the energy parameters of HotKnots V2.0. Our experimental evaluation on a large data set shows that Iterative HFold is robust with respect to partial information, with average accuracy on pseudoknotted structures steadily increasing from roughly 54% to 79% as the user provides up to 40% of the input structure. Iterative HFold is much faster than HotKnots V2.0, while having comparable accuracy. Iterative HFold also has significantly better accuracy than IPknot on our HK-PK and IP-pk168 data sets.
+2	60	63 RNA	Chemical	CHEBI_33697
+
+3|chunk|Iterative HFold is a robust method for prediction of pseudoknotted RNA secondary structures, whose accuracy with more than 5% information about true pseudoknot-free structures is better than that of IPknot, and with about 35% information about true pseudoknot-free structures compares well with that of HotKnots V2.0 while being significantly faster. Iterative HFold and all data used in this work are freely available at computational methods for prediction of RNA structure are valuable.
+3	67	70 RNA	Chemical	CHEBI_33697
+3	462	465 RNA	Chemical	CHEBI_33697
+
+4|chunk|Currently computational RNA structure prediction methods mainly focus on predicting RNA secondary structure-the set of base pairs that form when RNA molecules fold. When multiple homologous (evolutionarily related) RNA sequences are available, the secondary structure of the sequences can be predicted using multiple sequence alignment and comparative sequence analysis [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] . Alternative approaches, which can be used to predict secondary structure of a single sequence, are
+4	24	27 RNA	Chemical	CHEBI_33697
+4	84	87 RNA	Chemical	CHEBI_33697
+4	145	148 RNA	Chemical	CHEBI_33697
+4	149	158 molecules	Chemical	CHEBI_25367
+4	215	218 RNA	Chemical	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_25367
+

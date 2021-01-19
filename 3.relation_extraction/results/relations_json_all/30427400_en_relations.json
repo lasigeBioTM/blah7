@@ -1,0 +1,125 @@
+{
+    "text": "to describe the results of hearing screening performed in children with Congenital Zika Virus Syndrome (CZS) in Fortaleza, Cear\u00e1, Brazil.this was a descriptive cross-sectional study involving children with CZS receiving health care in Fortaleza, 2016; the hearing screening tests performed were immittance audiometry, transient otoacoustic emissions (TOAE), acoustic reflexes, and cochleopalpebral reflex (CPR).The study included 45 children with an average age of 10 months. 44 of them underwent tympanometric screening, with 16 of these having the right ear within the normal range and 22 having the left ear within the normal range. Among the 43 children evaluated by TOAE, 30 \"passed\" in both ears, nine \"refered\" in both ears and four \"refered\" just in ear; 13/43 \"refered\" and needed to repeat screening. 43 children evaluated by CPR, 37 showed responses.most of the children evaluated had completed cochlear function and middle ear results refer in compatible with their age range.",
+    "denotations": [
+        {
+            "id": "GO_0007605",
+            "span": {
+                "begin": 27,
+                "end": 34
+            },
+            "obj": "hearing"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 94,
+                "end": 102
+            },
+            "obj": "Syndrome"
+        },
+        {
+            "id": "GO_0007605",
+            "span": {
+                "begin": 256,
+                "end": 263
+            },
+            "obj": "hearing"
+        },
+        {
+            "id": "HP_0025153",
+            "span": {
+                "begin": 318,
+                "end": 327
+            },
+            "obj": "transient"
+        },
+        {
+            "id": "GO_0060004",
+            "span": {
+                "begin": 398,
+                "end": 404
+            },
+            "obj": "reflex"
+        },
+        {
+            "id": "CHEBI_138164",
+            "span": {
+                "begin": 398,
+                "end": 404
+            },
+            "obj": "reflex"
+        },
+        {
+            "id": "HP_0012834",
+            "span": {
+                "begin": 550,
+                "end": 555
+            },
+            "obj": "right"
+        },
+        {
+            "id": "HP_0012835",
+            "span": {
+                "begin": 602,
+                "end": 606
+            },
+            "obj": "left"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0025153"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0012834"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0012835"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0025153"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0012834"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0007605",
+            "pred": "no_relation",
+            "obj": "HP_0012835"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0060004",
+            "pred": "no_relation",
+            "obj": "HP_0025153"
+        },
+        {
+            "id": "R7",
+            "subj": "GO_0060004",
+            "pred": "no_relation",
+            "obj": "HP_0012834"
+        },
+        {
+            "id": "R8",
+            "subj": "GO_0060004",
+            "pred": "no_relation",
+            "obj": "HP_0012835"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+0|chunk|Actin-and clathrin-dependent mechanisms regulate interferon gamma release after stimulation of human immune cells with respiratory syncytial virus
+
+1|chunk|Background: Respiratory syncytial virus (RSV) can cause recurrent and severe respiratory tract infections. Cytoskeletal proteins are often involved during viral infections, either for cell entry or the initiation of the immune response. The importance of actin and clathrin dynamics for cell entry and the initiation of the cellular immune response against RSV in human immune cells is not known yet. The aim of this study was to investigate the role of actin and clathrin on cell entry of RSV and the subsequent effect on T cell activation and interferon gamma release in human immune cells. Methods: Peripheral blood mononuclear cells and purified monocytes were isolated from healthy adults and stimulated in vitro with RSV. Actin and clathrin dynamics were inhibited with respectively cytochalasin D and chlorpromazine. T cell receptor signaling was inhibited with cyclosporin A. Flow cytometry was used to determine the role of actin and clathrin on cell entry and T cell activation by RSV. Enzyme-linked immunosorbent assays were used to investigate the contribution of actin and clathrin on the release of interferon gamma. Results: Cell entry, virus gene transcription and interferon gamma release are actin-dependent. Post-endocytic processes like the increased expression of major histocompatibility complex II on monocytes , T cell activation and the release of interferon gamma are clathrin-dependent. Finally, T cell receptor signaling affects T cell activation, whereas soluble interleukin 18 is dispensable.
+1	56	65 recurrent	Phenotype	HP_0031796
+1	70	76 severe	Phenotype	HP_0012828
+1	220	235 immune response	Gene_function	GO_0006955
+1	324	348 cellular immune response	Gene_function	GO_0002443
+1	333	348 immune response	Gene_function	GO_0006955
+1	523	540 T cell activation	Gene_function	GO_0042110
+1	525	540 cell activation	Gene_function	GO_0001775
+1	602	612 Peripheral	Phenotype	HP_0030646
+1	679	686 healthy	Phenotype	HP_0032322
+1	840	849 signaling	Gene_function	GO_0023052
+1	970	987 T cell activation	Gene_function	GO_0042110
+1	972	987 cell activation	Gene_function	GO_0001775
+1	1285	1317 major histocompatibility complex	Gene_function	GO_0046776
+1	1310	1320 complex II	Gene_function	GO_0008177
+1	1336	1353 T cell activation	Gene_function	GO_0042110
+1	1338	1353 cell activation	Gene_function	GO_0001775
+1	1439	1448 signaling	Gene_function	GO_0023052
+1	1457	1474 T cell activation	Gene_function	GO_0042110
+1	1459	1474 cell activation	Gene_function	GO_0001775
+1	HP-GO	HP_0031796	GO_0006955
+1	HP-GO	HP_0031796	GO_0002443
+1	HP-GO	HP_0031796	GO_0042110
+1	HP-GO	HP_0031796	GO_0001775
+1	HP-GO	HP_0031796	GO_0023052
+1	HP-GO	HP_0031796	GO_0046776
+1	HP-GO	HP_0031796	GO_0008177
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0002443
+1	HP-GO	HP_0012828	GO_0042110
+1	HP-GO	HP_0012828	GO_0001775
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0046776
+1	HP-GO	HP_0012828	GO_0008177
+1	GO-HP	GO_0006955	HP_0030646
+1	GO-HP	GO_0006955	HP_0032322
+1	GO-HP	GO_0002443	HP_0030646
+1	GO-HP	GO_0002443	HP_0032322
+1	GO-HP	GO_0042110	HP_0030646
+1	GO-HP	GO_0042110	HP_0032322
+1	GO-HP	GO_0001775	HP_0030646
+1	GO-HP	GO_0001775	HP_0032322
+1	HP-GO	HP_0030646	GO_0023052
+1	HP-GO	HP_0030646	GO_0046776
+1	HP-GO	HP_0030646	GO_0008177
+1	HP-GO	HP_0032322	GO_0023052
+1	HP-GO	HP_0032322	GO_0046776
+1	HP-GO	HP_0032322	GO_0008177
+
+2|chunk|Conclusion: Analysis of cell entry and interferon gamma release after infection with RSV reveals the importance of actin-and clathrin-dependent signaling in human immune cells. Insights into the cellular biology of the human immune response against respiratory syncytial virus will provide a better understanding of disease pathogenesis and may prove useful in the development of preventive strategies.
+2	144	153 signaling	Gene_function	GO_0023052
+2	225	240 immune response	Gene_function	GO_0006955
+2	324	336 pathogenesis	Gene_function	GO_0009405
+

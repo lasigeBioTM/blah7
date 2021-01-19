@@ -1,0 +1,104 @@
+0|chunk|molecules A Review of Small Molecule Inhibitors and Functional Probes of Human Cathepsin L
+
+1|chunk|Human cathepsin L belongs to the cathepsin family of proteolytic enzymes with primarily an endopeptidase activity. Although its primary functions were originally thought to be only of a housekeeping enzyme that degraded intracellular and endocytosed proteins in lysosome, numerous recent studies suggest that it plays many critical and specific roles in diverse cellular settings. Not surprisingly, the dysregulated function of cathepsin L has manifested itself in several human diseases, making it an attractive target for drug development. Unfortunately, several redundant and isoform-specific functions have recently emerged, adding complexities to the drug discovery process. To address this, a series of chemical biology tools have been developed that helped define cathepsin L biology with exquisite precision in specific cellular contexts. This review elaborates on the recently developed small molecule inhibitors and probes of human cathepsin L, outlining their mechanisms of action, and describing their potential utilities in dissecting unknown function.
+1	220	233 intracellular	Gene_function	GO_0005622
+
+2|chunk|Molecules 2020, 25, 698 2 of 41 also now well established and has been a subject of elegant reviews elsewhere [25] [26] [27] . Unfortunately, several overlapping and redundant functions of cathepsin L have also emerged [5, [28] [29] [30] . It is therefore critically important that its functional biology in both normal and disease-specific cell types be clearly annotated before significant resources are directed in drug discovery endeavors. In this review, we will briefly outline the biogenesis of cathepsin L, describe its post-translational processing and trafficking, and highlight key structural features required for formation of an active and mature cathepsin L. A brief summary of cathepsin L biology and its role in human diseases is provided next. Finally, a detailed and up-to-date report on existing cathepsin L-targeting small molecule inhibitors and functional probes with their mechanistic details is described.
+
+3|chunk|Human cathepsin L gene, CTHL (Uniprot primary accession number: P07711), located at the 9q21-q22 position of chromosome 9, encodes for a total of 333 amino acid peptide sequence (M.W. = 37,564 kDa) [31] . The coding space includes the regions of a N-terminal signal peptide, two pro-peptides, and two mature peptides comprising of a heavy (H) chain and a light (L) chain ( Figure 1 ). After transcription, the signal peptide is co-translationally removed in polysome and the resulting 41 kDa pro-cathepsin L is translocated to endoplasmic reticulum where it undergoes N-linked glycosylation with mannose rich sugars. The mannose sugars on the pro-cathepsin L are then phosphorylated in cis Golgi by UDP-N-acetylglucosamine:N-acetylglucosaminephosphotransferase enzyme [32] . The mannose-6-phosphate (M6P) receptors located on the surface of the trans Golgi network recognize the M6P-pro-cathepsin peptide and deliver the pro-cathepsin L peptide to the lysosome via the endolysosomal pathway. The weakly acidic environment of endosome/lysosome releases M6P receptors and the phosphate group from mannose sugars is removed by a lysosomal acid phosphatase [33, 34] . Activation to mature cathepsin L form then occurs by removal of propeptides either by autocatalysis [35] or by aspartyl cathepsin D in the acidic environment of lysosome [36] . This leads to the double chain form of mature and active cathepsin L, comprising of H and L domains, connected by disulfide bridges, (Figure 2 ). It is to be noted here that several isoforms of cathepsin L have also been observed in specific cell types due to alternative splicing of mRNA transcripts and alternative translation [4, [37] [38] [39] [40] [41] .
+3	97	105 position	Phenotype	HP_0012830
+3	109	119 chromosome	Gene_function	GO_0005694
+3	458	466 polysome	Gene_function	GO_0005844
+3	527	548 endoplasmic reticulum	Gene_function	GO_0005783
+3	577	590 glycosylation	Gene_function	GO_0070085
+3	845	864 trans Golgi network	Gene_function	GO_0005802
+3	952	960 lysosome	Gene_function	GO_0005764
+3	1034	1042 lysosome	Gene_function	GO_0005764
+3	1141	1152 phosphatase	Gene_function	GO_0016791
+3	1325	1333 lysosome	Gene_function	GO_0005764
+3	1658	1669 translation	Gene_function	GO_0006412
+3	HP-GO	HP_0012830	GO_0005694
+3	HP-GO	HP_0012830	GO_0005844
+3	HP-GO	HP_0012830	GO_0005783
+3	HP-GO	HP_0012830	GO_0070085
+3	HP-GO	HP_0012830	GO_0005802
+3	HP-GO	HP_0012830	GO_0005764
+3	HP-GO	HP_0012830	GO_0016791
+3	HP-GO	HP_0012830	GO_0006412
+
+4|chunk|Molecules 2020, 25, 698 2 of 40 variety of highly invasive forms of cancer is also now well established and has been a subject of elegant reviews elsewhere [25] [26] [27] . Unfortunately, several overlapping and redundant functions of cathepsin L have also emerged [5, [28] [29] [30] . It is therefore critically important that its functional biology in both normal and disease-specific cell types be clearly annotated before significant resources are directed in drug discovery endeavors. In this review, we will briefly outline the biogenesis of cathepsin L, describe its post-translational processing and trafficking, and highlight key structural features required for formation of an active and mature cathepsin L. A brief summary of cathepsin L biology and its role in human diseases is provided next. Finally, a detailed and up-to-date report on existing cathepsin L-targeting small molecule inhibitors and functional probes with their mechanistic details is described. Human cathepsin L gene, CTHL (Uniprot primary accession number: P07711), located at the 9q21-q22 position of chromosome 9, encodes for a total of 333 amino acid peptide sequence (M.W. = 37,564 kDa) [31] . The coding space includes the regions of a N-terminal signal peptide, two propeptides, and two mature peptides comprising of a heavy (H) chain and a light (L) chain ( Figure 1 ). After transcription, the signal peptide is co-translationally removed in polysome and the resulting 41 kDa pro-cathepsin L is translocated to endoplasmic reticulum where it undergoes N-linked glycosylation with mannose rich sugars. The mannose sugars on the pro-cathepsin L are then phosphorylated in cis Golgi by UDP-N-acetylglucosamine:N-acetylglucosaminephosphotransferase enzyme [32] . The mannose-6-phosphate (M6P) receptors located on the surface of the trans Golgi network recognize the M6P-pro-cathepsin peptide and deliver the pro-cathepsin L peptide to the lysosome via the endolysosomal pathway. The weakly acidic environment of endosome/lysosome releases M6P receptors and the phosphate group from mannose sugars is removed by a lysosomal acid phosphatase [33, 34] . Activation to mature cathepsin L form then occurs by removal of propeptides either by autocatalysis [35] or by aspartyl cathepsin D in the acidic environment of lysosome [36] . This leads to the double chain form of mature and active cathepsin L, comprising of H and L domains, connected by disulfide bridges, (Figure 2 ). It is to be noted here that several isoforms of cathepsin L have also been observed in specific cell types due to alternative splicing of mRNA transcripts and alternative translation [4, [37] [38] [39] [40] [41] . Recombinant Cathepsin L Propeptide 0.088 nM [47] (pH = 5.5) Cystatin A 1.3 nM [48,49] Cystatin B 0.23 nM [48,49] Cystatin C <0.005 nM [50] Cystatin D 18 nM [51] P41 of MHC Class II Molecule 2 pM [52] L-Kinenogen 1.7 pM [53,54] Cystatin F 0.31 nM [55] Sialostatin L 95 pM [45] Antimicrobial Peptide LL-37 150 nM [56] Molecules 2020, 25, 698 4 of 41
+4	68	74 cancer	Phenotype	HP_0002664
+4	1073	1081 position	Phenotype	HP_0012830
+4	1085	1095 chromosome	Gene_function	GO_0005694
+4	1433	1441 polysome	Gene_function	GO_0005844
+4	1502	1523 endoplasmic reticulum	Gene_function	GO_0005783
+4	1552	1565 glycosylation	Gene_function	GO_0070085
+4	1820	1839 trans Golgi network	Gene_function	GO_0005802
+4	1927	1935 lysosome	Gene_function	GO_0005764
+4	2009	2017 lysosome	Gene_function	GO_0005764
+4	2116	2127 phosphatase	Gene_function	GO_0016791
+4	2300	2308 lysosome	Gene_function	GO_0005764
+4	2633	2644 translation	Gene_function	GO_0006412
+4	HP-GO	HP_0002664	GO_0005694
+4	HP-GO	HP_0002664	GO_0005844
+4	HP-GO	HP_0002664	GO_0005783
+4	HP-GO	HP_0002664	GO_0070085
+4	HP-GO	HP_0002664	GO_0005802
+4	HP-GO	HP_0002664	GO_0005764
+4	HP-GO	HP_0002664	GO_0016791
+4	HP-GO	HP_0002664	GO_0006412
+4	HP-GO	HP_0012830	GO_0005694
+4	HP-GO	HP_0012830	GO_0005844
+4	HP-GO	HP_0012830	GO_0005783
+4	HP-GO	HP_0012830	GO_0070085
+4	HP-GO	HP_0012830	GO_0005802
+4	HP-GO	HP_0012830	GO_0005764
+4	HP-GO	HP_0012830	GO_0016791
+4	HP-GO	HP_0012830	GO_0006412
+
+5|chunk|Different forms of cathepsin L enzyme have been isolated in distinct cell types and their intracellular and extracellular environment [4] . At specific cellular locations, they seem to play pivotal roles in a wide range of functional activities. In addition to the degradation of cellular proteins by the endolysosomal pathway, cathepsin L also participates in the autophagic degradation pathway; it specifically degrades two autophagosomal markers, LC3-II and GABARAP-II [57] . The specialized podocyte cells in the kidney play a critical role in the retention of various proteins required to be maintained in blood plasma [58] . It was shown that the cytoplasmic variant of active cathepsin L can degrade two key proteins, GTPase dynamin and synaptopodin, required for podocyte's proper glomerular filtration function [23, 59, 60] . Consistently, a higher podocyte cathepsin L expression was found in a variety of proteinuric kidney diseases, and its functional inhibition (e.g., by creating cathepsin L resistant dynamin) led to reversing of the symptoms [23, 61] . Interestingly, a nuclear isoform of cathepsin L is associated with another unique function in kidney cells; it is involved in the proteolytic processing of Cux1, a cell cycle regulatory transcription factor that promotes cell proliferation and polycystic kidney disease (PKD) [62, 63] . Indeed, in mouse model of PKD, a lower level of nuclear cathepsin L was corelated with an increased level of Cux1 protein in cysts [62] .
+5	90	103 intracellular	Gene_function	GO_0005622
+5	108	121 extracellular	Gene_function	GO_0005576
+5	265	276 degradation	Gene_function	GO_0009056
+5	376	387 degradation	Gene_function	GO_0009056
+5	789	810 glomerular filtration	Gene_function	GO_0003094
+5	1233	1243 cell cycle	Gene_function	GO_0007049
+5	1290	1308 cell proliferation	Gene_function	GO_0008283
+5	1313	1338 polycystic kidney disease	Phenotype	HP_0000113
+5	GO-HP	GO_0005622	HP_0000113
+5	GO-HP	GO_0005576	HP_0000113
+5	GO-HP	GO_0009056	HP_0000113
+5	GO-HP	GO_0003094	HP_0000113
+5	GO-HP	GO_0007049	HP_0000113
+5	GO-HP	GO_0008283	HP_0000113
+
+6|chunk|Another type of cells where cathepsin L seems to play a major role in maintaining homeostasis is cardiomyocytes [17, [64] [65] [66] [67] . Early investigation by Stypmann et al. on a year old Ctsl/ mice showed that they developed many key traits of dilated cardiomyopathy, such as interstitial myocardial fibrosis, cardiac chamber dilation, and impaired contraction. In addition, the newborn Ctsl/ mice acquired increased number of acidic organelles, although with altered morphology and function. These studies indicate that the inhibition of cathepsin L activity in these cells is detrimental to the proper functioning of cardiac cells. This was further corroborated by an overexpression study of cathepsin L in mice cardiomyocytes that exhibited cardioprotective effect by inhibiting the Akt signaling pathway [68] . The function of secreted extracellular cathepsin L in cardiac remodeling and repair has also been studied extensively since it is known that many proteins of extracellular matrix (ECM) are also the physiological substrate of cathepsin L; these include laminin, collagen type I, IV and XVIII,. Ischemic heart disease is major risk factor for diabetic patients, unable to maintain their sugar levels efficiently. During cardiac repair, endothelial progenitor cells containing elevated levels of cathepsin L home on ischemic cells, and initiate the process of neovascularization [72] [73] [74] . In uncontrolled diabetic condition however, cathepsin L function in ECM space during neovascularization is significantly impaired; this hampers the ischemic repair process [15, 75] .
+6	82	93 homeostasis	Gene_function	GO_0042592
+6	795	808 Akt signaling	Gene_function	GO_0043491
+6	799	808 signaling	Gene_function	GO_0023052
+6	799	816 signaling pathway	Gene_function	GO_0007165
+6	849	862 extracellular	Gene_function	GO_0005576
+6	982	995 extracellular	Gene_function	GO_0005576
+6	982	1002 extracellular matrix	Gene_function	GO_0031012
+
+7|chunk|Controlled release of trypsinogen from pancreatic acinar cells and its subsequent activation in duodenum is a critically important event and must be tightly regulated. Dysregulated release of activated trypsin results in an acute pancreatitis condition. While cathepsin B efficiently cleaves trypsinogen to produce enhanced levels of active trypsin promoting pancreatitis, cathepsin L acts a regulatory brake, and keeps the activation process under control. And it does so by cleaving trypsinogen at a distinct site, 3 amino acids C terminal to cathepsin B, thereby inactivating trypsinogen itself [76] . Consistently, Ctsl/ mice showed increased trypsin activity in pancreas and surprisingly reduced pancreatitis due to diminished inflammation; this effect was attributed due to enhanced apoptosis of acinar cells (vs necrosis).
+7	224	229 acute	Phenotype	HP_0011009
+7	224	242 acute pancreatitis	Phenotype	HP_0001735
+7	230	242 pancreatitis	Phenotype	HP_0001733
+7	359	371 pancreatitis	Phenotype	HP_0001733
+7	703	715 pancreatitis	Phenotype	HP_0001733
+
+8|chunk|In neuro-and immuno-biology, cathepsin L has important documented roles as well [77] [78] [79] [80] . For example, regulated secretory vesicles of the neuroendocrine system, such as chromaffin granules, house many mature function-ready enkephalin opioid peptides. Upon appropriate signaling stimuli, the activated enkephalin neuropeptides are secreted and released imparting their analgesic and immune-cell specific functions. Studies by Yasothornsrikul et al. revealed that cathepsin L is the proteolytic processing enzyme that renders active metenkephalin from proenkephalin [81] . In another studies, the severity of symptoms due to antigen-induced arthritis (AAI) was significantly reduced in Ctsl/ mice due to a weakened T helper cell population in thymus [82] . Molecules 2020, 25, 698 5 of 41
+8	281	290 signaling	Gene_function	GO_0023052
+8	608	616 severity	Phenotype	HP_0012824
+8	652	661 arthritis	Phenotype	HP_0001369
+8	GO-HP	GO_0023052	HP_0012824
+8	GO-HP	GO_0023052	HP_0001369
+
+9|chunk|The expression of cathepsin L is highly dysregulated in several human diseases, including diabetes, AAI, abdominal aortic aneurysm, liver fibrosis, and cancers [13, [82] [83] [84] [85] . Its involvement in numerous forms of highly invasive cancers is particularly noteworthy and is covered in great detail in recent reviews [25, 26, [86] [87] [88] . Early studies by Gottesman revealed that extracellular cathepsin L levels can increase up to 200-fold in transformed cells [89] . In the ECM environment, they can rapidly degrade several structural components and significantly increase the migratory/invasive potential of these cells, promoting metastasis [86, 87] . Not surprisingly, cathepsin L inhibition by small molecule is considered a viable strategy for the development of novel anti-cancer agents.
+9	105	130 abdominal aortic aneurysm	Phenotype	HP_0005112
+9	391	404 extracellular	Gene_function	GO_0005576
+9	HP-GO	HP_0005112	GO_0005576
+
+10|chunk|Small Molecule Inhibitors
+

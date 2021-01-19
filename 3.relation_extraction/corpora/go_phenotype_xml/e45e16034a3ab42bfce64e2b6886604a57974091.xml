@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="e45e16034a3ab42bfce64e2b6886604a57974091">
+  <chunk id="e45e16034a3ab42bfce64e2b6886604a57974091.c0" text="Quantitative Phosphoproteomics of Proteasome Inhibition in Multiple Myeloma Cells">
+    <entity charOffset="59-75" id="e45e16034a3ab42bfce64e2b6886604a57974091.c0.e0" ontology_id="HP_0006775" text="Multiple Myeloma" type="phenotype"/>
+  </chunk>
+  <chunk id="e45e16034a3ab42bfce64e2b6886604a57974091.c1" text="Background: The proteasome inhibitor bortezomib represents an important advance in the treatment of multiple myeloma (MM). Bortezomib inhibits the activity of the 26S proteasome and induces cell death in a variety of tumor cells; however, the mechanism of cytotoxicity is not well understood.">
+    <entity charOffset="100-116" id="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e0" ontology_id="HP_0006775" text="multiple myeloma" type="phenotype"/>
+    <entity charOffset="190-200" id="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e1" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="217-222" id="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e2" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e1" id="e45e16034a3ab42bfce64e2b6886604a57974091.c1.p0" relation="true"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e1" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c1.e2" id="e45e16034a3ab42bfce64e2b6886604a57974091.c1.p1" relation="true"/>
+  </chunk>
+  <chunk id="e45e16034a3ab42bfce64e2b6886604a57974091.c2" text="Methodology/Principal Findings: We investigated the differential phosphoproteome upon proteasome inhibition by using stable isotope labeling by amino acids in cell culture (SILAC) in combination with phosphoprotein enrichment and LC-MS/ MS analysis. In total 233 phosphoproteins were identified and 72 phosphoproteins showed a 1.5-fold or greater change upon bortezomib treatment. The phosphoproteins with expression alterations encompass all major protein classes, including a large number of nucleic acid binding proteins. Site-specific phosphopeptide quantitation revealed that Ser38 phosphorylation on stathmin increased upon bortezomib treatment, suggesting new mechanisms associated to bortezomib-induced apoptosis in MM cells. Further studies demonstrated that stathmin phosphorylation profile was modified in response to bortezomib treatment and the regulation of stathmin by phosphorylation at specific Ser/Thr residues participated in the cellular response induced by bortezomib.">
+    <entity charOffset="117-123" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="494-514" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e1" ontology_id="GO_0003676" text="nucleic acid binding" type="gene_function"/>
+    <entity charOffset="507-514" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e2" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="587-602" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e3" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="777-792" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e4" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="884-899" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e5" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e1" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.p0" relation="true"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e2" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.p1" relation="true"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e3" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.p2" relation="true"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e4" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.p3" relation="true"/>
+    <pair e1="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e0" e2="e45e16034a3ab42bfce64e2b6886604a57974091.c2.e5" id="e45e16034a3ab42bfce64e2b6886604a57974091.c2.p4" relation="true"/>
+  </chunk>
+  <chunk id="e45e16034a3ab42bfce64e2b6886604a57974091.c3" text="Conclusions/Significance: Our systematic profiling of phosphorylation changes in response to bortezomib treatment not only advanced the global mechanistic understanding of the action of bortezomib on myeloma cells but also identified previously uncharacterized signaling proteins in myeloma cells.">
+    <entity charOffset="54-69" id="e45e16034a3ab42bfce64e2b6886604a57974091.c3.e0" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="261-270" id="e45e16034a3ab42bfce64e2b6886604a57974091.c3.e1" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+  </chunk>
+</document>

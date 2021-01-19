@@ -1,0 +1,27 @@
+0|chunk|Viruses Utilize Cellular Cues in Distinct Combination to Undergo Systematic Priming and Uncoating
+
+1|chunk|Viral genomes are protected within a proteinaceous shell called "capsid" and, for enveloped viruses, an additional lipid coat. The capsids are generally constructed from a few capsid proteins into helical or icosahedral structures that are, in turn, stabilized by numerous covalent and noncovalent interactions [1] . However, during infection, viruses must uncoat in order to release their genomes into the host. This process is highly dependent on host elements called "cues" [2], which have been previously broadly categorized as (1) receptor-and/or enzymebased cues, (2) chemical cues, or (3) mechanical cues [3] . In this brief article, we systematically analyze the available information on how 30 different enveloped and nonenveloped viruses exploit these host cues during infection and tabulate the observations in Table 1 . By categorizing these cues, a general pattern can be deduced. Specifically, we find that these viruses use a distinct order and combination of the host cues during entry. To illustrate this principle, the mechanism by which four viruses hijack these cues will be highlighted (in Fig 1) . We envision such analysis will provide an opportunity for investigators to evaluate whether viruses within the same family-for which the uncoating mechanism is unknown-employ a similar uncoating strategy.
+
+2|chunk|One virus whose entry mechanism has been intensely studied is HIV-1, a Retroviridae enveloped RNA virus that causes the devastating acquired immune deficiency syndrome (AIDS). Viral entry commences when the viral envelope glycoprotein GP120 binds to the host surface glycoprotein receptor CD4 and coreceptor CCR5/CXCR4. This causes GP120 to undergo structural alterations that promote membrane fusion (Fig 1A, step i) [4]. After fusion, the HIV-1 capsid core is released into the cytosol, where reverse transcription of its RNA genome is initiated. This is followed by a two-stage viral disassembly process: a loss of core integrity followed by viral genome release. In the first stage, the cytosolic peptidyl-prolyl isomerase (cyclophilin A) catalyzes isomerization of peptide bonds between the capsid proteins, inducing a conformational change that causes capsid disintegration (step ii) [5] . Mechanical disruption by motor proteins (dynein and kinesin) near the nuclear pore ensues [6], thereby liberating the newly reverse-transcribed DNA into the nucleus (step iii). Thus, HIV-1 multistep uncoating requires the coordinated use of host receptor, enzyme, and mechanical cues leading to genome release.
+2	141	158 immune deficiency	Phenotype	HP_0002721
+2	207	221 viral envelope	Gene_function	GO_0019031
+2	213	221 envelope	Gene_function	GO_0031975
+2	385	393 membrane	Gene_function	GO_0016020
+2	385	400 membrane fusion	Gene_function	GO_0061025
+2	495	516 reverse transcription	Gene_function	GO_0001171
+2	966	978 nuclear pore	Gene_function	GO_0005643
+2	974	978 pore	Gene_function	GO_0046930
+2	1053	1060 nucleus	Gene_function	GO_0005634
+2	HP-GO	HP_0002721	GO_0019031
+2	HP-GO	HP_0002721	GO_0031975
+2	HP-GO	HP_0002721	GO_0016020
+2	HP-GO	HP_0002721	GO_0061025
+2	HP-GO	HP_0002721	GO_0001171
+2	HP-GO	HP_0002721	GO_0005643
+2	HP-GO	HP_0002721	GO_0046930
+2	HP-GO	HP_0002721	GO_0005634
+
+3|chunk|Another well-characterized viral entry strategy is seen in the Herpes simplex virus-1 (HSV-1), a member of the Herpesviridae enveloped DNA virus family that can cause either lytic or latent infections. While HSV-1 entry shares similarities to HIV-1, there is also a clear difference. Upon interaction with the TNF superfamily receptor, HSV-1 envelope glycoprotein gD undergoes conformational changes to promote endocytosis (Fig 1B, step i) [7]. The low PLOS Pathogens |
+3	342	350 envelope	Gene_function	GO_0031975
+3	411	422 endocytosis	Gene_function	GO_0006897
+

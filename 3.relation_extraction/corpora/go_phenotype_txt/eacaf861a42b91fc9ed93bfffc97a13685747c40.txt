@@ -1,0 +1,52 @@
+0|chunk|Glycosylation of Zika Virus is Important in Host-Virus Interaction and Pathogenic Potential
+0	0	13 Glycosylation	Gene_function	GO_0070085
+0	44	66 Host-Virus Interaction	Gene_function	GO_0019048
+
+1|chunk|Zika virus (ZIKV) is a global public health issue due to its association with severe developmental disorders in infants and neurological disorders in adults. ZIKV uses glycosylation of its envelope (E) protein to interact with host cell receptors to facilitate entry; these interactions could also be important for designing therapeutics and vaccines. Due to a lack of proper information about Asn-linked (N-glycans) on ZIKV E, we analyzed ZIKV E of various strains derived from different cells. We found ZIKV E proteins being extensively modified with oligomannose, hybrid and complex N-glycans of a highly heterogeneous nature. Host cell surface glycans correlated strongly with the glycomic features of ZIKV E. Mechanistically, we observed that ZIKV N-glycans might play a role in viral pathogenesis, as mannose-specific C-type lectins DC-SIGN and L-SIGN mediate host cell entry of ZIKV. Our findings represent the first detailed mapping of N-glycans on ZIKV E of various strains and their functional significance.
+1	78	84 severe	Phenotype	HP_0012828
+1	168	181 glycosylation	Gene_function	GO_0070085
+1	189	197 envelope	Gene_function	GO_0031975
+1	227	236 host cell	Gene_function	GO_0043657
+1	608	621 heterogeneous	Phenotype	HP_0001425
+1	630	639 Host cell	Gene_function	GO_0043657
+1	630	647 Host cell surface	Gene_function	GO_0044228
+1	866	875 host cell	Gene_function	GO_0043657
+1	HP-GO	HP_0012828	GO_0070085
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0043657
+1	HP-GO	HP_0012828	GO_0044228
+1	GO-HP	GO_0070085	HP_0001425
+1	GO-HP	GO_0031975	HP_0001425
+1	GO-HP	GO_0043657	HP_0001425
+1	HP-GO	HP_0001425	GO_0044228
+
+2|chunk|well as a significant increase in severe fetal abnormalities, including spontaneous abortion, stillbirth, hydrocephaly, microcephaly, hydranencephaly/hydrops fetalis, and placental insufficiency [10] [11] [12] [13] [14] . ZIKV is a small, enveloped positive-strand RNA virus [15] . The genomic RNA of this mosquito-borne flavivirus contains a single open reading frame (ORF) that encodes a polyprotein [16, 17] . This polyprotein undergoes co-and post-translational processing to produce three structural proteins, which are capsid (C), pre-membrane (prM), and envelope (E), in addition to seven non-structural proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, and NS5) [17, 18] . Of the three structural proteins, E is the major surface glycoprotein, containing three domains (I, II, III) and two transmembrane helices [17] [18] [19] . The majority of flavivirus E proteins upon post-translational modification are modified by N-glycans at amino acid 153/154 within a highly conserved glycosylation motif of N-X-T/S at positions 154-156 (where X is any amino acid except proline) [16] . This is a primary target of neutralizing antibodies and is required for virus entry [20] .
+2	34	40 severe	Phenotype	HP_0012828
+2	561	569 envelope	Gene_function	GO_0031975
+2	792	805 transmembrane	Gene_function	GO_0016021
+2	874	905 post-translational modification	Gene_function	GO_0043687
+2	980	993 glycosylation	Gene_function	GO_0070085
+2	HP-GO	HP_0012828	GO_0031975
+2	HP-GO	HP_0012828	GO_0016021
+2	HP-GO	HP_0012828	GO_0043687
+2	HP-GO	HP_0012828	GO_0070085
+
+3|chunk|Previously, it was demonstrated that the N-linked glycosylation sites on the E protein of flaviviruses are highly conserved, playing a vital role in both infectivity and assembly [16, [21] [22] [23] . Loss of N-glycosylation motif on domain I of E protein (N154) results in impaired expression and secretion of E ectodomain from mammalian cells [24, 25] . Furthermore, studies in mice have shown that ZIKVs lacking the N-glycans of the ZIKV E were severely compromised for their ability to cause mortality and neuroinvasion, suggesting a vital role for these glycans of the E protein in ZIKV pathogenesis [22, 26] . In this study, we utilized mass spectrometry (MS) and a lectin microarray to analyze the structures and composition of glycans on ZIKV E protein from different strains and on the surface of the virus-producing cells, as well as to explore mosquito-human mode of ZIKV transmission and its association to neurological disorders. Importantly, our functional studies show that these N-glycans of the ZIKV envelope glycoprotein are important in viral infection of cells. Our findings might have implications in understanding the roles for these glycan patterns on ZIKV E in virus-host interaction and pathogenic potential.
+3	50	63 glycosylation	Gene_function	GO_0070085
+3	298	307 secretion	Gene_function	GO_0046903
+3	592	604 pathogenesis	Gene_function	GO_0009405
+3	1017	1025 envelope	Gene_function	GO_0031975
+3	1056	1071 viral infection	Gene_function	GO_0016032
+
+4|chunk|Results
+
+5|chunk|In order to understand ZIKV E protein-associated N-glycans, we initially looked for the characteristic features of the envelope protein(s). After generating alignments of the available ZIKV strains of Asian and African origin on the sequences retrieved from GenBank, the sequences were checked by phylogenetic tree (neighbour-joining tree without distance corrections), followed by NetNglyc analysis. This analysis was performed to better understand the variations in sequences and number of N-Glycosylation sites (Asn-Xaa-Ser/Thr, where X is any amino acid except proline) between Asian strains (PRVABC59 and FLR isolates), African strains (MR766 and IbH isolates), and a Brazilian isolate from 2016 (SJRP) (Figure 1 ). Taken together, these analyses indicate that the number and conservation of glycosylation sites vary across different strains. Asian strains (PRVABC59 and FLR isolates) and the Brazilian isolate (BR_SJRP1840) contain five potential N-linked glycosylation sites, whereas the African strain MR766 isolate contains four and IbH isolate contains three potential N-linked glycosylation sites. However, phylogenetic tree analysis clearly indicates that the Brazilian isolate (BR_SJRP1840) clusters distinctly from Asian and African strains, denoting differences in the envelope proteins sequences.
+5	119	127 envelope	Gene_function	GO_0031975
+5	797	810 glycosylation	Gene_function	GO_0070085
+5	962	975 glycosylation	Gene_function	GO_0070085
+5	1088	1101 glycosylation	Gene_function	GO_0070085
+5	1284	1292 envelope	Gene_function	GO_0031975
+
+6|chunk|(B) A phylogenetic tree (neighbour-joining tree without distance corrections) constructed based on the multiple sequence alignments of glycoprotein E from different ZIKV strains. Consensus sequences for N-linked glycosylation are highlighted in the square box. (C) The NetNglyc server was used to examine the sequence context of N-glycosylation sites (Asn-Xaa-Ser/Thr) in E proteins, and we depict the N-glycosylation sites at the individual ZIKV E protein sequence sites. +++ N-glycosylation sites very likely to be glycosylated.
+6	212	225 glycosylation	Gene_function	GO_0070085
+

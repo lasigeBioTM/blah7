@@ -1,0 +1,20 @@
+0|chunk|Review Article Potential Sources and Roles of Adaptive Immunity in Age-Related Macular Degeneration: Shall We Rename AMD into Autoimmune Macular Disease?
+
+1|chunk|Age-related macular degeneration (AMD) is the leading cause of vision loss in the elderly throughout the industrialized world. Its most prominent pathologic features are lesions involving the retinal pigment epithelium (RPE) the Bruch's membrane, the degeneration of photoreceptors, and, in the most aggressive cases, choroidal neovascularization. Genetic associations between the risk of developing AMD and polymorphism within components of the complement system, as well as chemokine receptors expressed on microglial cells and macrophages, have linked retinal degeneration and choroidal neovascularization to innate immunity (inflammation). In addition to inflammation, players of the adaptive immunity including cytokines, chemokines, antibodies, and T cells have been detected in animal models of AMD and in patients suffering from this pathology. These observations suggest that adaptive immunity might play a role in different processes associated with AMD such as RPE atrophy, neovascularization, and retinal degeneration. To this date however, the exact roles (if any) of autoantibodies and T cells in AMD remain unknown. In this review we discuss the potential effects of adaptive immune responses in AMD pathogenesis.
+1	12	32 macular degeneration	Phenotype	HP_0000608
+1	63	69 vision	Gene_function	GO_0007601
+1	63	74 vision loss	Phenotype	HP_0000572
+1	318	346 choroidal neovascularization	Phenotype	HP_0011506
+1	555	575 retinal degeneration	Phenotype	HP_0000546
+1	580	608 choroidal neovascularization	Phenotype	HP_0011506
+1	612	627 innate immunity	Gene_function	GO_0045087
+1	1009	1029 retinal degeneration	Phenotype	HP_0000546
+1	HP-GO	HP_0000608	GO_0007601
+1	HP-GO	HP_0000608	GO_0045087
+1	GO-HP	GO_0007601	HP_0000572
+1	GO-HP	GO_0007601	HP_0011506
+1	GO-HP	GO_0007601	HP_0000546
+1	HP-GO	HP_0000572	GO_0045087
+1	HP-GO	HP_0011506	GO_0045087
+1	HP-GO	HP_0000546	GO_0045087
+

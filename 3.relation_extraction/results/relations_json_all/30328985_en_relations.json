@@ -1,0 +1,413 @@
+{
+    "text": "This study aimed to study the incidence of stress hyperglycemia in critically ill children and to investigate the etiological basis of the hyperglycemia based on homeostasis model assessment.This was a prospective cohort study in one of the pediatric intensive care units of Cairo University, including 60 critically ill children and 21 healthy controls. Serum blood glucose, insulin, and C-peptide levels were measured within 24 hours of admission. Homeostasis model assessment was used to assess \u03b2-cell function and insulin sensitivity.Hyperglycemia was estimated in 70% of patients. Blood glucose values \u2265 180mg/dL were associated with a poor outcome. Blood glucose levels were positively correlated with Pediatric Risk for Mortality (PRISM III) score and number of organ dysfunctions (p = 0.019 and p = 0.022, respectively), while insulin levels were negatively correlated with number of organ dysfunctions (r = -0.33, p = 0.01). Homeostasis model assessment revealed that 26 (43.3%) of the critically ill patients had low \u03b2-cell function, and 18 (30%) had low insulin sensitivity. Combined pathology was detected in 2 (3.3%) patients only. Low \u03b2-cell function was significantly associated with the presence of multi-organ dysfunction; respiratory, cardiovascular, and hematological dysfunctions; and the presence of sepsis.\u03b2-Cell dysfunction appeared to be prevalent in our cohort and was associated with multi-organ dysfunction.",
+    "denotations": [
+        {
+            "id": "HP_0003074",
+            "span": {
+                "begin": 50,
+                "end": 63
+            },
+            "obj": "hyperglycemia"
+        },
+        {
+            "id": "DOID_4195",
+            "span": {
+                "begin": 50,
+                "end": 63
+            },
+            "obj": "hyperglycemia"
+        },
+        {
+            "id": "HP_0003074",
+            "span": {
+                "begin": 139,
+                "end": 152
+            },
+            "obj": "hyperglycemia"
+        },
+        {
+            "id": "DOID_4195",
+            "span": {
+                "begin": 139,
+                "end": 152
+            },
+            "obj": "hyperglycemia"
+        },
+        {
+            "id": "GO_0042592",
+            "span": {
+                "begin": 162,
+                "end": 173
+            },
+            "obj": "homeostasis"
+        },
+        {
+            "id": "CHEBI_34935",
+            "span": {
+                "begin": 214,
+                "end": 220
+            },
+            "obj": "cohort"
+        },
+        {
+            "id": "HP_0032322",
+            "span": {
+                "begin": 337,
+                "end": 344
+            },
+            "obj": "healthy"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 367,
+                "end": 374
+            },
+            "obj": "glucose"
+        },
+        {
+            "id": "CHEBI_145810",
+            "span": {
+                "begin": 376,
+                "end": 383
+            },
+            "obj": "insulin"
+        },
+        {
+            "id": "CHEBI_80332",
+            "span": {
+                "begin": 389,
+                "end": 398
+            },
+            "obj": "C-peptide"
+        },
+        {
+            "id": "GO_0042592",
+            "span": {
+                "begin": 450,
+                "end": 461
+            },
+            "obj": "Homeostasis"
+        },
+        {
+            "id": "CHEBI_145810",
+            "span": {
+                "begin": 518,
+                "end": 525
+            },
+            "obj": "insulin"
+        },
+        {
+            "id": "HP_0003074",
+            "span": {
+                "begin": 538,
+                "end": 551
+            },
+            "obj": "Hyperglycemia"
+        },
+        {
+            "id": "DOID_4195",
+            "span": {
+                "begin": 538,
+                "end": 551
+            },
+            "obj": "Hyperglycemia"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 592,
+                "end": 599
+            },
+            "obj": "glucose"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 661,
+                "end": 668
+            },
+            "obj": "glucose"
+        },
+        {
+            "id": "CHEBI_145810",
+            "span": {
+                "begin": 835,
+                "end": 842
+            },
+            "obj": "insulin"
+        },
+        {
+            "id": "GO_0042592",
+            "span": {
+                "begin": 934,
+                "end": 945
+            },
+            "obj": "Homeostasis"
+        },
+        {
+            "id": "CHEBI_145810",
+            "span": {
+                "begin": 1065,
+                "end": 1072
+            },
+            "obj": "insulin"
+        },
+        {
+            "id": "CHEBI_34935",
+            "span": {
+                "begin": 1379,
+                "end": 1385
+            },
+            "obj": "cohort"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0032322"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R7",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R8",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R9",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0032322"
+        },
+        {
+            "id": "R10",
+            "subj": "GO_0042592",
+            "pred": "no_relation",
+            "obj": "HP_0003074"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R14",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_80332"
+        },
+        {
+            "id": "R15",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R16",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R17",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R18",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R19",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R20",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R21",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R22",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R23",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R24",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_80332"
+        },
+        {
+            "id": "R25",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R26",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R27",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R28",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R29",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R30",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R31",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R32",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R33",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R34",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_80332"
+        },
+        {
+            "id": "R35",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R36",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R37",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R38",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R39",
+            "subj": "DOID_4195",
+            "pred": "no_relation",
+            "obj": "CHEBI_145810"
+        },
+        {
+            "id": "R40",
+            "subj": "DOID_4195",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+0|chunk|Characterization of Chinese Porcine Epidemic Diarrhea Virus with Novel Insertions and Deletions in Genome OPEN
+0	45	53 Diarrhea	Phenotype	HP_0002014
+
+1|chunk|To better understand the molecular epidemiology and genetic diversity of PEDV field isolates, in this study, we characterised the complete genome sequence of a novel PEDV variant JSCZ1601 from a outbreak in China in 2016. The PEDV isolate was 28,033 nucleotides (nt) in length without the polyadenylated sequences. Phylogenetic analysis based on the full-length genome sequence of JSCZ1601 grouped it with the pandemic variants determined post-2010 into group 2 (G2). However, the S gene of JSCZ1601 formed a new subgroup separated from the subgroups containing the other G2 strains. Comparative analysis of the amino acids encoded by the S genes revealed the N-terminal of the deduced JSCZ1601 S protein had a novel two-amino-acid deletion (N58 and S59) compared with all identified genogroups. Further, compared with the reference strains, a 'G' insertion was detected in the 5 terminal of the 5UTR of the JSCZ1601. The animal experiment revealed that this strain was high pathogenic to neonatal pigs. Taken together, a PEDV strain with the new molecular characterizations and phylogenies was found in mainland China. It is necessary to strengthen the monitoring of PEDV variations.
+
+2|chunk|Porcine epidemic diarrhoea (PED) is characterised by severe watery diarrhoea, leading to dehydration and high mortality among piglets. The disease is caused by the PED virus (PEDV), which belongs to family Coronaviridae, genus Alphacoronavirus, and has an envelope surrounding a single-stranded positive-sense RNA genome 1,2 . The PEDV genome is approximately 28 kb nucleotides (nt) long and contains a 5 untranslated region (5 UTR), a 3 UTR with a polyadenylated tail, and at least seven open reading frames (ORFs) arranged in the following order: ORF1a, ORF1b, spike (S) glycoprotein gene, ORF3 hypothetical protein gene, envelope (E) gene, membrane (M) gene and nucleocapsid (N) gene 3,4 . The 5 UTR is about 291-296 nt long and the 3 UTR is about 334 nt long. Two long ORFs, ORF1a and ORF1b, occupy two-thirds of the genome and encode two nonstructural polyproteins (pp1a and pp1b) that direct genome replication and transcription 5 . PED was first reported in feeding and fattening pigs in England in 1971 2 . In China, PED was identified as a sporadic viral enteric disease in pig herds before 2010 6-8 . However, outbreaks of PED with increased severity of diarrhoea, vomiting, and dehydration have occurred in China since 2010. The disease approached a mobility rate as high as 100% and a mortality rate of 80-100% in piglets less than 10 days old, and has been recognised as a devastating illness causing death in neonatal piglets 9,10 . New outbreaks associated with a novel PEDV strain that is genetically distant from the prototype PEDV strain, CV777, have been reported in China 8,11,12 . Since then, PED outbreaks have increased markedly and have spread rapidly across countries. In late April 2013, PED was first confirmed in the United States and subsequently spread quickly across the country 13-15 .
+2	17	26 diarrhoea	Phenotype	HP_0002014
+2	53	59 severe	Phenotype	HP_0012828
+2	67	76 diarrhoea	Phenotype	HP_0002014
+2	89	100 dehydration	Phenotype	HP_0001944
+2	256	264 envelope	Gene_function	GO_0031975
+2	627	635 envelope	Gene_function	GO_0031975
+2	646	654 membrane	Gene_function	GO_0016020
+2	668	680 nucleocapsid	Gene_function	GO_0019013
+2	1054	1062 sporadic	Phenotype	HP_0003745
+2	1157	1165 severity	Phenotype	HP_0012824
+2	1169	1178 diarrhoea	Phenotype	HP_0002014
+2	1194	1205 dehydration	Phenotype	HP_0001944
+2	HP-GO	HP_0002014	GO_0031975
+2	HP-GO	HP_0002014	GO_0016020
+2	HP-GO	HP_0002014	GO_0019013
+2	HP-GO	HP_0012828	GO_0031975
+2	HP-GO	HP_0012828	GO_0016020
+2	HP-GO	HP_0012828	GO_0019013
+2	HP-GO	HP_0001944	GO_0031975
+2	HP-GO	HP_0001944	GO_0016020
+2	HP-GO	HP_0001944	GO_0019013
+2	GO-HP	GO_0031975	HP_0003745
+2	GO-HP	GO_0031975	HP_0012824
+2	GO-HP	GO_0016020	HP_0003745
+2	GO-HP	GO_0016020	HP_0012824
+2	GO-HP	GO_0019013	HP_0003745
+2	GO-HP	GO_0019013	HP_0012824
+

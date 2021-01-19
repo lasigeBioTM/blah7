@@ -1,0 +1,83 @@
+0|chunk|
+
+1|chunk|Persistence, more recently termed the chlamydial stress response, is a viable but noninfectious state constituting a divergence from the characteristic chlamydial biphasic developmental cycle. Damage/danger associated molecular patterns (DAMPs) are normal intracellular components or metabolites that, when released from cells, signal cellular damage/ lysis. Purine metabolite DAMPs, including extracellular ATP and adenosine, inhibit chlamydial development in a species-specific manner. Viral co-infection has been shown to reversibly abrogate Chlamydia inclusion development, suggesting persistence/chlamydial stress. Because viral infection can cause host cell DAMP release, we hypothesized DAMPs may influence chlamydial development. Therefore, we examined the effect of extracellular ATP, adenosine, and cyclic AMP exposure, at 0 and 14 hours post infection, on C. pecorum and C. trachomatis serovar E development. In the absence of de novo host protein synthesis, exposure to DAMPs immediately post or at 14 hours post infection reduced inclusion size; however, the effect was less robust upon 14 hours post infection exposure. Additionally, upon exposure to DAMPs immediately post infection, bacteria per inclusion and subsequent infectivity were reduced in both Chlamydia species. These effects were reversible, and C. pecorum exhibited more pronounced recovery from DAMP exposure. Aberrant bodies, typical in virus-induced chlamydial persistence, were absent upon DAMP exposure. In the presence of de novo host protein synthesis, exposure to DAMPs immediately post infection reduced inclusion size, but only variably modulated chlamydial infectivity. Because chlamydial infection and other infections may increase local DAMP concentrations, DAMPs may influence Chlamydia infection in vivo, particularly in the context of poly-microbial infections.
+1	284	295 metabolites	Chemical	CHEBI_25212
+1	359	365 Purine	Chemical	CHEBI_17258
+1	366	376 metabolite	Chemical	CHEBI_25212
+1	408	411 ATP	Chemical	CHEBI_15422
+1	545	554 Chlamydia	Disease	DOID_11263
+1	628	643 viral infection	Disease	DOID_934
+1	664	668 DAMP	Chemical	CHEBI_17713
+1	789	792 ATP	Chemical	CHEBI_15422
+1	809	819 cyclic AMP	Chemical	CHEBI_17489
+1	816	819 AMP	Chemical	CHEBI_16027
+1	951	958 protein	Chemical	CHEBI_16541
+1	1270	1279 Chlamydia	Disease	DOID_11263
+1	1375	1379 DAMP	Chemical	CHEBI_17713
+1	1473	1477 DAMP	Chemical	CHEBI_17713
+1	1520	1527 protein	Chemical	CHEBI_16541
+1	1668	1688 chlamydial infection	Disease	DOID_11263
+1	1729	1733 DAMP	Chemical	CHEBI_17713
+1	1770	1779 Chlamydia	Disease	DOID_11263
+1	CHEBI-DOID	CHEBI_25212	DOID_11263
+1	CHEBI-DOID	CHEBI_25212	DOID_934
+1	CHEBI-DOID	CHEBI_17258	DOID_11263
+1	CHEBI-DOID	CHEBI_17258	DOID_934
+1	CHEBI-DOID	CHEBI_15422	DOID_11263
+1	CHEBI-DOID	CHEBI_15422	DOID_934
+1	DOID-CHEBI	DOID_11263	CHEBI_17713
+1	DOID-CHEBI	DOID_11263	CHEBI_17489
+1	DOID-CHEBI	DOID_11263	CHEBI_16027
+1	DOID-CHEBI	DOID_11263	CHEBI_16541
+1	DOID-CHEBI	DOID_934	CHEBI_17713
+1	DOID-CHEBI	DOID_934	CHEBI_17489
+1	DOID-CHEBI	DOID_934	CHEBI_16027
+1	DOID-CHEBI	DOID_934	CHEBI_16541
+
+2|chunk|The Chlamydiaceae are a genus of Gram-negative, obligate intracellular bacterial pathogens that cause a spectrum of diseases in both humans and agriculturally important animals. C. pecorum infection, for example, causes clinical manifestations in swine ranging from conjunctivitis to abortion [1]. C. trachomatis infection in humans can cause medically important conditions, such as trachoma, pelvic inflammatory disease, and infertility. Though chlamydial infections can cause acute diseases, they are most associated with chronic inflammation resulting in significant host tissue damage [2] . The chlamydiae also share a complex developmental cycle. The infectious form (the elementary body or EB), binds to and enters the host cell. After host cell entry, the EB transitions into the more metabolically active, replicative developmental form (the reticulate body or RB). The RB then grow and divide within a cytoplasmic, membrane-bound inclusion. After several rounds of division, RB convert back into infectious EB, which are released from the host cell [3] . A third stage, historically termed persistence or more recently the chlamydial stress response, is defined as a developmental stage in which the organisms are viable but non-infectious. Persistent/stressed RB are enlarged, irregularly shaped and non-dividing; these altered developmental forms are sometimes called aberrant bodies (AB). The persistence/stress response is reversible-when the stressor is removed, the chlamydiae resume normal, productive development. A variety of stressors induce chlamydial persistence/ stress in culture: these include IFN- exposure; glucose, iron and amino acid deprivation; and host cell co-infection with herpes simplex virus type 2 [4], Human Herpes Virus 6 [5], and the coronavirus porcine epidemic diarrhea virus (PEDV) [6, 7] .
+2	266	280 conjunctivitis	Disease	DOID_6195
+2	393	420 pelvic inflammatory disease	Disease	DOID_1003
+2	1643	1647 iron	Chemical	CHEBI_18248
+2	1652	1657 amino	Chemical	CHEBI_46882
+2	1652	1662 amino acid	Chemical	CHEBI_33704
+2	1658	1662 acid	Chemical	CHEBI_37527
+2	1708	1722 herpes simplex	Disease	DOID_8566
+2	1804	1812 diarrhea	Disease	DOID_13250
+2	DOID-CHEBI	DOID_6195	CHEBI_18248
+2	DOID-CHEBI	DOID_6195	CHEBI_46882
+2	DOID-CHEBI	DOID_6195	CHEBI_33704
+2	DOID-CHEBI	DOID_6195	CHEBI_37527
+2	DOID-CHEBI	DOID_1003	CHEBI_18248
+2	DOID-CHEBI	DOID_1003	CHEBI_46882
+2	DOID-CHEBI	DOID_1003	CHEBI_33704
+2	DOID-CHEBI	DOID_1003	CHEBI_37527
+2	CHEBI-DOID	CHEBI_18248	DOID_8566
+2	CHEBI-DOID	CHEBI_18248	DOID_13250
+2	CHEBI-DOID	CHEBI_46882	DOID_8566
+2	CHEBI-DOID	CHEBI_46882	DOID_13250
+2	CHEBI-DOID	CHEBI_33704	DOID_8566
+2	CHEBI-DOID	CHEBI_33704	DOID_13250
+2	CHEBI-DOID	CHEBI_37527	DOID_8566
+2	CHEBI-DOID	CHEBI_37527	DOID_13250
+
+3|chunk|Both pathogen infection and sterile trauma can promote release of damage/danger associated molecular patterns (DAMPs) from mammalian cells/tissues. Typically, DAMPs are normal intracellular components or metabolites, the release of which into the extracellular milieu indicates cellular damage or lysis. Once in the extracellular environment, DAMPs bind signaling receptors on mammalian cells and initiate specific responses that promote local inflammation and wound healing. Known DAMPs include heat shock proteins, high mobility group box 1 protein (HMGB1), uric acid, and purine metabolites (reviewed in [8]) [9] . Extracellular ATP (ATP e ) and adenosine (ADO) are two well studied DAMPs, the binding of which to purinergic receptors initiates components of the mammalian defense against intracellular pathogens (reviewed in [10]). Purinergic receptor activation is known to limit chlamydial development in a host cell-and chlamydial species-specific manner. For example, exposure of C. caviae-infected mouse J774 macrophages to ATP e reduces infectious titer by >50% [11] . ATP e -exposure also restricts C. muridarum development in J774 cells by promoting inclusionlysosomal fusion. However, ATP e -exposure does not kill chlamydiae in peritoneal macrophages elicited from P2X 7 receptor knock-out mice, demonstrating a requirement for this receptor. ATP e reduces production of C. muridarum EB in J774 cells [12] and a similar reduction is observed in HeLa cells [13] . Furthermore, C. muridarum infectious burden in P2X 7 receptor-deficient mice is 10 times higher than that of their wild-type counterparts [13] . These data suggest that ATP e may play a significant anti-chlamydial role in vivo, as well as in vitro. Extracellular ADO-exposure also reduces infectious EB production by both C. trachomatis L2 and serovar D in HeLa cells, primarily by signaling through the A2b receptor. Though recovery of serovar D was not tested, L2 recovered infectivity post-termination of ADO-exposure. Thus, the authors concluded that ADO-exposure induces the C. trachomatis L2 persistence/stress response [14] .
+3	204	215 metabolites	Chemical	CHEBI_25212
+3	543	550 protein	Chemical	CHEBI_16541
+3	575	581 purine	Chemical	CHEBI_17258
+3	582	593 metabolites	Chemical	CHEBI_25212
+3	632	635 ATP	Chemical	CHEBI_15422
+3	637	640 ATP	Chemical	CHEBI_15422
+3	649	658 adenosine	Chemical	CHEBI_16335
+3	660	663 ADO	Chemical	CHEBI_16335
+3	1033	1036 ATP	Chemical	CHEBI_15422
+3	1079	1082 ATP	Chemical	CHEBI_15422
+3	1198	1201 ATP	Chemical	CHEBI_15422
+3	1357	1360 ATP	Chemical	CHEBI_15422
+3	1646	1649 ATP	Chemical	CHEBI_15422
+3	1691	1695 role	Chemical	CHEBI_50906
+
+4|chunk|As stated previously, host cell co-infection with PEDV abrogates productive development of both C. pecorum and C. abortus [6] . Furthermore, this effect is reversible and results in AB formation, suggesting that PEDV co-infection induces the chlamydial persistence/stress response. DAMPs Modulate Chlamydia Inclusion Development PLOS ONE |
+4	297	306 Chlamydia	Disease	DOID_11263
+4	334	337 ONE	Chemical	CHEBI_58972
+4	DOID-CHEBI	DOID_11263	CHEBI_58972
+

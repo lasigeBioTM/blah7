@@ -1,0 +1,18 @@
+0|chunk|Inference of transmission network structure from HIV phylogenetic trees Supplementary information Approximate Bayesian Computation for model choice
+
+1|chunk|Within the ABC-SMC approach [1], particles are first generated from the prior distribution. Particles are then resampled from the obtained sample, and slightly perturbed. From these resampled particles, a new sample is formed, from which again particles are resampled, etc.
+
+2|chunk|The threshold value for the summary statistic -below which new particles are accepted -is lowered with every newly obtained sample. As a result, the acceptance rate decreases and the acceptance threshold approaches zero with an increase in the number of iterations (resamplings).
+
+3|chunk|Initial -values were estimated as follows. We generated 100 trees and we calculated the summary statistics (indices) and used the standard deviation of this distribution as the initial values. The -values were decreased in an exponential fashion as the sequential ABC scheme progresses.
+
+4|chunk| Set the population indicator t = 1
+
+5|chunk| Set the particle indicator i = 1
+
+6|chunk| If t = 1, sample (m ,  ) from the prior (m, ) = (m)(|m)
+
+7|chunk| If t > 1 sample m with probability  t1 (m ) and perturb m  Km t (m|m ) Sample  from the previous population {(m ) t1 } with weights w t1 . Perturb the particle,   KP t,m (| ) where KP t,m is the particle perturbation kernel. If (m ,  ) = 0, repeat this step. Simulate a candidate dataset x  f (x|m ,  ) If (x , y) > repeat this step.
+
+8|chunk|1/3
+

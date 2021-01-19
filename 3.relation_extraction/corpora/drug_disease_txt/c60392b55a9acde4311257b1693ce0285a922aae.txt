@@ -1,0 +1,77 @@
+0|chunk|Zika and Flavivirus Shell Disorder: Virulence and Fetal Morbidity
+
+1|chunk|Zika virus (ZIKV) was first discovered in 1947 in Africa. Since then, sporadic ZIKV infections of humans have been reported in Africa and Asia. For a long time, this virus was mostly unnoticed due to its mild symptoms and low fatality rates. However, during the 2015-2016 epidemic in Central and South America, when millions of people were infected, it was discovered that ZIKV causes microcephaly in the babies of mothers infected during pregnancy. An examination of the M and C proteins of the ZIKV shell using the disorder predictor PONDR VLXT revealed that the M protein contains relatively high disorder levels comparable only to those of the yellow fever virus (YFV). On the other hand, the disorder levels in the C protein are relatively low, which can account for the low case fatality rate (CFR) of this virus in contrast to the more virulent YFV, which is characterized by high disorder in its C protein. A larger variation was found in the percentage of intrinsic disorder (PID) in the C protein of various ZIKV strains. Strains of African lineage are characterized by higher PIDs. Using both in vivo and in vitro experiments, laboratories have also previously shown that strains of African origin have a greater potential to inflict higher fetal morbidity than do strains of Asian lineage, with dengue-2 virus (DENV-2) having the least potential. Strong correlations were found between the potential to inflict fetal morbidity and shell disorder in ZIKV (r 2 = 0.9) and DENV-2 (DENV-2 + ZIKV, r 2 = 0.8). A strong correlation between CFR and PID was also observed when ZIKV was included in an analysis of sets of shell proteins from a variety of flaviviruses (r 2 = 0.8). These observations have potential implications for antiviral vaccine development and for the design of cancer therapeutics in terms of developing therapeutic viruses that penetrate hard-to-reach organs.
+1	385	397 microcephaly	Disease	DOID_10907
+1	480	488 proteins	Chemical	CHEBI_36080
+1	567	574 protein	Chemical	CHEBI_16541
+1	648	660 yellow fever	Disease	DOID_9682
+1	722	729 protein	Chemical	CHEBI_16541
+1	906	913 protein	Chemical	CHEBI_16541
+1	985	988 PID	Chemical	CHEBI_8066
+1	985	988 PID	Disease	DOID_1003
+1	999	1006 protein	Chemical	CHEBI_16541
+1	1554	1557 PID	Chemical	CHEBI_8066
+1	1554	1557 PID	Disease	DOID_1003
+1	1631	1639 proteins	Chemical	CHEBI_36080
+1	1735	1744 antiviral	Chemical	CHEBI_22587
+1	1787	1793 cancer	Disease	DOID_162
+1	DOID-CHEBI	DOID_10907	CHEBI_36080
+1	DOID-CHEBI	DOID_10907	CHEBI_16541
+1	DOID-CHEBI	DOID_10907	CHEBI_8066
+1	DOID-CHEBI	DOID_10907	CHEBI_22587
+1	CHEBI-DOID	CHEBI_36080	DOID_9682
+1	CHEBI-DOID	CHEBI_36080	DOID_1003
+1	CHEBI-DOID	CHEBI_36080	DOID_162
+1	CHEBI-DOID	CHEBI_16541	DOID_9682
+1	CHEBI-DOID	CHEBI_16541	DOID_1003
+1	CHEBI-DOID	CHEBI_16541	DOID_162
+1	DOID-CHEBI	DOID_9682	CHEBI_8066
+1	DOID-CHEBI	DOID_9682	CHEBI_22587
+1	CHEBI-DOID	CHEBI_8066	DOID_1003
+1	CHEBI-DOID	CHEBI_8066	DOID_162
+1	DOID-CHEBI	DOID_1003	CHEBI_22587
+1	CHEBI-DOID	CHEBI_22587	DOID_162
+
+2|chunk|rare. In 2014, the first sign of an oncoming ZIKV epidemic appeared in French Polynesia with around 35,000 known cases of infection. This was followed by a full-blown epidemic in Latin and Central America in 2015/2016, with approximately 1.5 million estimated cases in Brazil alone [3, 4] . With such a large number of infections, physicians were able to notice exceptionally large numbers of microcephaly cases among the babies of women who were infected by ZIKV during their pregnancies [1, 3, 5, 6] . Microcephaly refers to a condition in which a baby is born with a smaller than usual brain and head. Further studies of ZIKV in laboratories using animal models confirmed the ability of ZIKV to penetrate both the placenta and the brain [7] [8] [9] [10] [11] [12] [13] .
+2	393	405 microcephaly	Disease	DOID_10907
+2	504	516 Microcephaly	Disease	DOID_10907
+
+3|chunk|ZIKV is a member of the genus Flavivirus, which encompasses a large variety of arthropod-borne enveloped RNA viruses, including dengue virus (DENV), West Nile virus (WNV), and the notoriously pathogenic yellow fever virus (YFV). Similarly to YFV and DENV, ZIKV is also spread by the mosquito, Aedes aegypti [2,6,14]. A flavivirus genome encodes a polyprotein that includes 10 proteins, three structural proteins (capsid (C), precursor membrane (PrM), and envelope (E) proteins), and seven nonstructural (NS) proteins (NS1, NS2a, NS2b, NS3, NS4a, NS4b, and NS5) [14, 15] . The immature virion contains an abundance of PrM protein, which is cleaved during maturation, and only M remains in a mature virion [16, 17] . In a mature virion, the outermost shell contains E protein, which is followed by a shell containing M and C proteins. In an immature virion, however, both E and PrM are contained in the outer shell [16, 17] .
+3	105	108 RNA	Chemical	CHEBI_33697
+3	203	215 yellow fever	Disease	DOID_9682
+3	376	384 proteins	Chemical	CHEBI_36080
+3	403	411 proteins	Chemical	CHEBI_36080
+3	421	424 Caa	Chemical	CHEBI_27869
+3	508	516 proteins	Chemical	CHEBI_36080
+3	823	831 proteins	Chemical	CHEBI_36080
+3	CHEBI-DOID	CHEBI_33697	DOID_9682
+3	DOID-CHEBI	DOID_9682	CHEBI_36080
+3	DOID-CHEBI	DOID_9682	CHEBI_27869
+
+4|chunk|The results presented in this study pertain to the concept of protein intrinsic disorder, which is related to proteins or protein segments that have no ordered structure, but this lack of structure can be related to the function of these proteins [18] [19] [20] [21] . Such proteins are often known by other names, such as "natively unfolded" and "intrinsically unstructured" proteins [20, 22] . The penetrance of disorder in the proteins from flaviviruses and ZIKV has already been analyzed [23] [24] [25] . The abundance and specific functionality of intrinsically disordered proteins in viral proteomes in general have been considered in several large-scale computational studies [26, 27] and have been specifically analyzed for human papillomaviruses [28, 29] , different strains of the influenza virus [30], human immunodeficiency virus type -1 (HIV-1) [31], human hepatitis C virus [32,33], Dengue virus [34], respiratory syncytial virus [35], Chikungunya virus [36], and Alkhurma virus [37]
+4	62	69 protein	Chemical	CHEBI_16541
+4	110	118 proteins	Chemical	CHEBI_36080
+4	122	129 protein	Chemical	CHEBI_16541
+4	238	246 proteins	Chemical	CHEBI_36080
+4	274	282 proteins	Chemical	CHEBI_36080
+4	376	384 proteins	Chemical	CHEBI_36080
+4	430	438 proteins	Chemical	CHEBI_36080
+4	578	586 proteins	Chemical	CHEBI_36080
+4	791	800 influenza	Disease	DOID_8469
+4	870	879 hepatitis	Disease	DOID_2237
+4	870	881 hepatitis C	Disease	DOID_1883
+4	950	961 Chikungunya	Disease	DOID_0050012
+4	CHEBI-DOID	CHEBI_16541	DOID_8469
+4	CHEBI-DOID	CHEBI_16541	DOID_2237
+4	CHEBI-DOID	CHEBI_16541	DOID_1883
+4	CHEBI-DOID	CHEBI_16541	DOID_0050012
+4	CHEBI-DOID	CHEBI_36080	DOID_8469
+4	CHEBI-DOID	CHEBI_36080	DOID_2237
+4	CHEBI-DOID	CHEBI_36080	DOID_1883
+4	CHEBI-DOID	CHEBI_36080	DOID_0050012
+
+5|chunk|. Furthermore, previous studies have found correlations between virulence and the shell disorder of DENV and flaviviruses, although the sets used in those studies did not include ZIKV proteins [2, 14] . The shell proteins examined were M and C proteins, and the highly pathogenic YFV was found to contain the highest levels of shell disorder among the fairly large variety of flaviviruses looked at. Although ZIKV shell disorder has also been inspected in other studies, a comparative analysis between flaviviruses and ZIKV strains with respect to shell disorder and virulence has not been conducted as of yet. Intriguingly, while ZIKV is not known for its virulence [5] , there are distinct disparities in the levels of potential to cause fetal morbidity between various ZIKV strains of different lineages [38, 39] . However, no attempt has been made to correlate fetal morbidity and shell disorder until now. The research conducted in this paper demonstrates not only that ZIKV fits well within the previously observed correlations between flavivirus virulence and shell disorder, but that the uniqueness of the ZIKV shell disorder pattern is consistent with the varying levels of fetal morbidity caused by strains of different lineages.
+5	184	192 proteins	Chemical	CHEBI_36080
+5	213	221 proteins	Chemical	CHEBI_36080
+5	244	252 proteins	Chemical	CHEBI_36080
+

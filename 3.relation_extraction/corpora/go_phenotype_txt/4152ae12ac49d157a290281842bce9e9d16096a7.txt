@@ -1,0 +1,14 @@
+0|chunk|Residue analysis of a CTL epitope of SARS-CoV spike protein by IFN-gamma production and bioinformatics prediction
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS) is an emerging infectious disease caused by the novel coronavirus SARS-CoV. The T cell epitopes of the SARS CoV spike protein are well known, but no systematic evaluation of the functional and structural roles of each residue has been reported for these antigenic epitopes. Analysis of the functional importance of side-chains by mutational study may exaggerate the effect by imposing a structural disturbance or an unusual steric, electrostatic or hydrophobic interaction. Results: We demonstrated that N50 could induce significant IFN-gamma response from SARS-CoV S DNA immunized mice splenocytes by the means of ELISA, ELISPOT and FACS. Moreover, S366-374 was predicted to be an optimal epitope by bioinformatics tools: ANN, SMM, ARB and BIMAS, and confirmed by IFN-gamma response induced by a series of S358-374-derived peptides. Furthermore, each of S366-374 was replaced by alanine (A), lysine (K) or aspartic acid (D), respectively. ANN was used to estimate the binding affinity of single S366-374 mutants to H-2 Kd. Y367 and L374 were predicated to possess the most important role in peptide binding. Additionally, these one residue mutated peptides were synthesized, and IFN-gamma production induced by G368, V369, A371, T372 and K373 mutated S366-374 were decreased obviously.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 acute	Phenotype	HP_0011009
+1	1022	1029 binding	Gene_function	GO_0005488
+1	1153	1160 binding	Gene_function	GO_0005488
+1	HP-GO	HP_0012828	GO_0005488
+1	HP-GO	HP_0011009	GO_0005488
+
+2|chunk|We demonstrated that S366-374 is an optimal H-2 Kd CTL epitope in the SARS CoV S protein. Moreover, Y367, S370, and L374 are anchors in the epitope, while C366, G368, V369, A371, T372, and K373 may directly interact with TCR on the surface of CD8-T cells.
+2	221	224 TCR	Gene_function	GO_0006283
+2	221	224 TCR	Gene_function	GO_0042101
+

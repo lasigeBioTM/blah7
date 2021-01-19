@@ -1,0 +1,23 @@
+0|chunk|Changes in mRNA abundance drive shuttling of RNA binding proteins, linking cytoplasmic RNA degradation to transcription
+0	45	56 RNA binding	Gene_function	GO_0003723
+0	49	56 binding	Gene_function	GO_0005488
+0	87	102 RNA degradation	Gene_function	GO_0006401
+0	91	102 degradation	Gene_function	GO_0009056
+
+1|chunk|Alterations in global mRNA decay broadly impact multiple stages of gene expression, although signals that connect these processes are incompletely defined. Here, we used tandem mass tag labeling coupled with mass spectrometry to reveal that changing the mRNA decay landscape, as frequently occurs during viral infection, results in subcellular redistribution of RNA binding proteins (RBPs) in human cells. Accelerating Xrn1-dependent mRNA decay through expression of a gammaherpesviral endonuclease drove nuclear translocation of many RBPs, including poly(A) tail-associated proteins. Conversely, cells lacking Xrn1 exhibited changes in the localization or abundance of numerous factors linked to mRNA turnover. Using these data, we uncovered a new role for relocalized cytoplasmic poly(A) binding protein in repressing recruitment of TATA binding protein and RNA polymerase II to promoters. Collectively, our results show that changes in cytoplasmic mRNA decay can directly impact protein localization, providing a mechanism to connect seemingly distal stages of gene expression.
+1	22	32 mRNA decay	Gene_function	GO_0006402
+1	254	264 mRNA decay	Gene_function	GO_0006402
+1	362	373 RNA binding	Gene_function	GO_0003723
+1	366	373 binding	Gene_function	GO_0005488
+1	434	444 mRNA decay	Gene_function	GO_0006402
+1	641	653 localization	Gene_function	GO_0051179
+1	790	797 binding	Gene_function	GO_0005488
+1	840	847 binding	Gene_function	GO_0005488
+1	951	961 mRNA decay	Gene_function	GO_0006402
+1	990	1002 localization	Gene_function	GO_0051179
+1	1047	1053 distal	Phenotype	HP_0012839
+1	GO-HP	GO_0006402	HP_0012839
+1	GO-HP	GO_0003723	HP_0012839
+1	GO-HP	GO_0005488	HP_0012839
+1	GO-HP	GO_0051179	HP_0012839
+

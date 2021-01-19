@@ -1,0 +1,10 @@
+0|chunk|Supplementary Text: The spatial resolution of epidemic peaks
+
+1|chunk|Under certain circumstances, we can find a simple expression for R 0 from the next generation matrix. The derivation is similar to the simplification of R 0 for the multi-city epidemic model described in Ref. [1] . For this we need the following theorems:
+
+2|chunk|Theorem S1.1 Let B be a n by n matrix with transpose C = B T . Then B and C have the same eigenvalues. (Standard result).
+
+3|chunk|Theorem S1.2 Let B be a n by n matrix with entries b ij and spectral radius (B). Then:
+
+4|chunk|i.e. (B) is bounded by the limits of the row sums of B, (standard result, see for example [2] ). Corollary S1.3 Using Theorems 0.1 and 0.2, it is therefore true that for a matrix B with entries b ij and spectral radius (B), (B) is bounded by the column sums of B:
+

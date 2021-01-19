@@ -1,0 +1,31 @@
+0|chunk|Analysis of long non-coding RNAs in neonatal piglets at different stages of porcine deltacoronavirus infection
+
+1|chunk|Background: PDCoV (Porcine Deltacoronavirus) is a novel porcine coronavirus that causes intestinal necrosis of piglets, thinning of the intestinal wall and severe villus atrophy in the small intestine. PDCoV is a highly contagious infectious disease characterized by diarrhea, dehydration and vomiting. It has been reported that lncRNA has a significant effect on viral replication and increased or decreased virulence. At present, there is almost no research on lncRNA related to PDCoV infection. With the development of the research, a large number of lncRNAs related to PDCoV infection have been discovered. Identifying the role of these lncRNAs in the infection process facilitates the screening of diagnostically significant biomarkers.
+1	627	631 role	Chemical	CHEBI_50906
+
+2|chunk|Results: Using high throughput sequencing to screen differentially expressed long non-coding RNA (lncRNA) during PDCoV infection, we identified 99, 41 and 33 differentially expressed lncRNAs in the early, middle and late stages of infection, respectively. These lncRNAs were involved in glycolysis / gluconeogenesis, histidine metabolism and pentose and Chloroalkane and chloroalkene degradation pathway. We obtained expression data of miRNAs, lncRNAs and mRNAs during PDCoV infection and constructed and investigated an interaction network. The qRT-PCR validation results of 6 differentially expressed lncRNAs were consistent with RNA-Seq results.
+2	93	96 RNA	Chemical	CHEBI_33697
+2	317	326 histidine	Chemical	CHEBI_15971
+2	317	326 histidine	Chemical	CHEBI_27570
+2	342	349 pentose	Chemical	CHEBI_25901
+2	354	366 Chloroalkane	Chemical	CHEBI_23128
+2	371	383 chloroalkene	Chemical	CHEBI_36387
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_15971
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_27570
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_25901
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_23128
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36387
+2	CHEBI-CHEBI	CHEBI_15971	CHEBI_27570
+2	CHEBI-CHEBI	CHEBI_15971	CHEBI_25901
+2	CHEBI-CHEBI	CHEBI_15971	CHEBI_23128
+2	CHEBI-CHEBI	CHEBI_15971	CHEBI_36387
+2	CHEBI-CHEBI	CHEBI_27570	CHEBI_25901
+2	CHEBI-CHEBI	CHEBI_27570	CHEBI_23128
+2	CHEBI-CHEBI	CHEBI_27570	CHEBI_36387
+2	CHEBI-CHEBI	CHEBI_25901	CHEBI_23128
+2	CHEBI-CHEBI	CHEBI_25901	CHEBI_36387
+2	CHEBI-CHEBI	CHEBI_23128	CHEBI_36387
+
+3|chunk|Conclusions: This study is the first to examine differentially expressed lncRNAs after PDCoV infection of piglets. These results can provide new insights into PDCoV infection and antiviral strategies.
+3	179	188 antiviral	Chemical	CHEBI_22587
+

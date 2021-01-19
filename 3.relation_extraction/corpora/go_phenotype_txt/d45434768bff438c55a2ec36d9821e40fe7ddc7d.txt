@@ -1,0 +1,29 @@
+0|chunk|Discovery of antitumor lectins from rainforest tree root transcriptomes
+
+1|chunk|Glycans are multi-branched sugars that are displayed from lipids and proteins. Through their diverse polysaccharide structures they can potentiate a myriad of cellular signaling pathways involved in development, growth, immuno-communication and survival. Not surprisingly, disruption of glycan synthesis is fundamental to various human diseases; including cancer, where aberrant glycosylation drives malignancy. Here, we report the discovery of a novel mannose-binding lectin, ML6, which selectively recognizes and binds to these irregular tumor-specific glycans to elicit potent and rapid cancer cell death. This lectin was engineered from gene models identified in a tropical rainforest tree root transcriptome and is unusual in its six canonical mannose binding domains (QxDxNxVxY), each with a unique amino acid sequence. Remarkably, ML6 displays antitumor activity that is >10 5 times more potent than standard chemotherapeutics, while being almost completely inactive towards non-transformed, healthy cells. This activity, in combination with results from glycan binding studies, suggests ML6 differentiates healthy and malignant cells by exploiting divergent glycosylation pathways that yield nave and incomplete cell surface glycans in tumors. Thus, ML6 and other high-valence lectins may serve as novel biochemical tools to elucidate the glycomic signature of different human tumors and aid in the rational design of carbohydratedirected therapies. Further, understanding how nature evolves proteins, like ML6, to combat the changing defenses of competing microorganisms may allow for fundamental advances in the way we approach combinatorial therapies to fight therapeutic resistance in cancer. OPEN ACCESS Citation: Lawanprasert A, Guinan CA, Langford EA, Hawkins CE, Sloand JN, Fescemyer HW, et al. (2020) Discovery of antitumor lectins from rainforest tree root transcriptomes. PLoS ONE 15 (2): e0229467. https://doi.org/10.
+1	168	177 signaling	Gene_function	GO_0023052
+1	294	303 synthesis	Gene_function	GO_0009058
+1	356	362 cancer	Phenotype	HP_0002664
+1	379	392 glycosylation	Gene_function	GO_0070085
+1	590	596 cancer	Phenotype	HP_0002664
+1	749	764 mannose binding	Gene_function	GO_0005537
+1	757	764 binding	Gene_function	GO_0005488
+1	999	1006 healthy	Phenotype	HP_0032322
+1	1069	1076 binding	Gene_function	GO_0005488
+1	1114	1121 healthy	Phenotype	HP_0032322
+1	1166	1179 glycosylation	Gene_function	GO_0070085
+1	1221	1233 cell surface	Gene_function	GO_0009986
+1	1698	1704 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0023052	HP_0002664
+1	GO-HP	GO_0023052	HP_0032322
+1	GO-HP	GO_0009058	HP_0002664
+1	GO-HP	GO_0009058	HP_0032322
+1	HP-GO	HP_0002664	GO_0070085
+1	HP-GO	HP_0002664	GO_0005537
+1	HP-GO	HP_0002664	GO_0005488
+1	HP-GO	HP_0002664	GO_0009986
+1	GO-HP	GO_0070085	HP_0032322
+1	GO-HP	GO_0005537	HP_0032322
+1	GO-HP	GO_0005488	HP_0032322
+1	HP-GO	HP_0032322	GO_0009986
+

@@ -1,0 +1,22 @@
+0|chunk|Middle East respiratory syndrome coronavirus ORF4b protein inhibits type I interferon production through both cytoplasmic and nuclear targets OPEN
+
+1|chunk|ORF4b antagonizes the early antiviral alpha/beta interferon (IFN-/) response, which may significantly contribute to MERS-CoV pathogenesis; however, the underlying mechanism is poorly understood. Here, we found that ORF4b in the cytoplasm could specifically bind to TANK binding kinase 1 (TBK1) and IB kinase epsilon (IKK), suppress the molecular interaction between mitochondrial antiviral signaling protein (MAVS) and IKK, and inhibit IFN regulatory factor 3 (IRF3) phosphorylation and subsequent IFN- production. Further analysis showed that ORF4b could also inhibit IRF3 and IRF7-induced production of IFN-, whereas deletion of the nuclear localization signal of ORF4b abrogated its ability to inhibit IRF3 and IRF7-induced production of IFN-, but not IFN- production induced by RIG-I,
+1	230	239 cytoplasm	Gene_function	GO_0005737
+1	272	279 binding	Gene_function	GO_0005488
+1	290	294 TBK1	Gene_function	GO_0008384
+1	370	383 mitochondrial	Phenotype	HP_0001427
+1	394	403 signaling	Gene_function	GO_0023052
+1	472	487 phosphorylation	Gene_function	GO_0016310
+1	650	662 localization	Gene_function	GO_0051179
+1	GO-HP	GO_0005737	HP_0001427
+1	GO-HP	GO_0005488	HP_0001427
+1	GO-HP	GO_0008384	HP_0001427
+1	HP-GO	HP_0001427	GO_0023052
+1	HP-GO	HP_0001427	GO_0016310
+1	HP-GO	HP_0001427	GO_0051179
+
+2|chunk|HCoVs have yet to be identified. MERS-CoV ORF4b antagonizes the early antiviral response, which may contribute to MERS-CoV pathogenesis. Here, we report the identification of the interferon (IFN) antagonism mechanism of MERS-CoV ORF4b. MERS-CoV ORF4b inhibits the production of type I IFN through a direct interaction with IKK /TBK1 in the cytoplasm, and also in the nucleus with unknown mechanism. These findings provide a rationale for the novel pathogenesis of MERS-CoV as well as a basis for developing a candidate therapeutic against this virus.
+2	123	135 pathogenesis	Gene_function	GO_0009405
+2	368	375 nucleus	Gene_function	GO_0005634
+2	449	461 pathogenesis	Gene_function	GO_0009405
+

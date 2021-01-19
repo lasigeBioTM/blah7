@@ -1,0 +1,21 @@
+0|chunk|Overexpression of human virus surface glycoprotein precursors induces cytosolic unfolded protein response in Saccharomyces cerevisiae
+
+1|chunk|Background: The expression of human virus surface proteins, as well as other mammalian glycoproteins, is much more efficient in cells of higher eukaryotes rather than yeasts. The limitations to high-level expression of active viral surface glycoproteins in yeast are not well understood. To identify possible bottlenecks we performed a detailed study on overexpression of recombinant mumps hemagglutinin-neuraminidase (MuHN) and measles hemagglutinin (MeH) in yeast Saccharomyces cerevisiae, combining the analysis of recombinant proteins with a proteomic approach. Results: Overexpressed recombinant MuHN and MeH proteins were present in large aggregates, were inactive and totally insoluble under native conditions. Moreover, the majority of recombinant protein was found in immature form of non-glycosylated precursors. Fractionation of yeast lysates revealed that the core of viral surface protein aggregates consists of MuHN or MeH disulfide-linked multimers involving eukaryotic translation elongation factor 1A (eEF1A) and is closely associated with small heat shock proteins (sHsps) that can be removed only under denaturing conditions. Complexes of large Hsps seem to be bound to aggregate core peripherally as they can be easily removed at high salt concentrations. Proteomic analysis revealed that the accumulation of unglycosylated viral protein precursors results in specific cytosolic unfolded protein response (UPR-Cyto) in yeast cells, characterized by different action and regulation of small Hsps versus large chaperones of Hsp70, Hsp90 and Hsp110 families. In contrast to most environmental stresses, in the response to synthesis of recombinant MuHN and MeH, only the large Hsps were upregulated whereas sHsps were not. Interestingly, the amount of eEF1A was also increased during this stress response.
+1	452	455 MeH	Gene_function	GO_0033961
+1	610	613 MeH	Gene_function	GO_0033961
+1	933	936 MeH	Gene_function	GO_0033961
+1	985	996 translation	Gene_function	GO_0006412
+1	985	1007 translation elongation	Gene_function	GO_0006414
+1	1068	1073 shock	Phenotype	HP_0031273
+1	1639	1648 synthesis	Gene_function	GO_0009058
+1	1673	1676 MeH	Gene_function	GO_0033961
+1	GO-HP	GO_0033961	HP_0031273
+1	GO-HP	GO_0006412	HP_0031273
+1	GO-HP	GO_0006414	HP_0031273
+1	HP-GO	HP_0031273	GO_0009058
+
+2|chunk|Conclusions: Inefficient translocation of MuHN and MeH precursors through ER membrane is a bottleneck for high-level expression in yeast. Overexpression of these recombinant proteins induces the UPR's cytosolic counterpart, the UPR-Cyto, which represent a subset of proteins involved in the heat-shock response. The involvement of eEF1A may explain the mechanism by which only large chaperones, but not small Hsps are upregulated during this stress response. Our study highlights important differences between viral surface protein expression in yeast and mammalian cells at the first stage of secretory pathway.
+2	51	54 MeH	Gene_function	GO_0033961
+2	74	85 ER membrane	Gene_function	GO_0005789
+2	77	85 membrane	Gene_function	GO_0016020
+

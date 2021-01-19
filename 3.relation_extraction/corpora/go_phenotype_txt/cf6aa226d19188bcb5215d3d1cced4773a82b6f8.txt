@@ -1,0 +1,37 @@
+0|chunk|Identification of hepadnavirus in the sera of cats OPEN
+0	38	42 sera	Gene_function	GO_0004617
+
+1|chunk|Hepadnaviruses infect several animal species. The prototype species, human hepatitis B virus (HBV), increases the risk of liver diseases and may cause cirrhosis and hepatocellular carcinoma. Recently a novel hepadnavirus, similar to HBV, has been identified through transcriptomics studies in a domestic cat with large cell lymphoma in Australia. Herewith, a collection of 390 feline serum samples was screened for hepadnavirus. Overall, the virus was identified in 10.8% of the sera with a significantly higher prevalence (17.8%) in the sera of animals with a clinical suspect of infectious disease. Upon genome sequencing, the virus was closely related (97.0% nt identity) to the prototype Australian feline virus Sydney 2016. The mean and median values of hepadnavirus in the feline sera were 1.3  10 6 and 2.1  10 4 genome copies per mL (range 3.3  10 0 -2.5  10 7 genome copies per mL). For a subset of hepadnavirus-positive samples, information on the hemato-chemical parameters was available and in 10/20 animals a profile suggestive of liver damage was present. Also, in 7/10 animals with suspected hepatic disease, virus load was >10 4 genome copies per mL, i.e. above the threshold considered at risk of active hepatitis and liver damage for HBV.
+1	75	84 hepatitis	Phenotype	HP_0012115
+1	151	160 cirrhosis	Phenotype	HP_0001394
+1	304	307 cat	Gene_function	GO_0004096
+1	324	332 lymphoma	Phenotype	HP_0002665
+1	479	483 sera	Gene_function	GO_0004617
+1	538	542 sera	Gene_function	GO_0004617
+1	786	790 sera	Gene_function	GO_0004617
+1	1225	1234 hepatitis	Phenotype	HP_0012115
+1	HP-GO	HP_0012115	GO_0004096
+1	HP-GO	HP_0012115	GO_0004617
+1	HP-GO	HP_0001394	GO_0004096
+1	HP-GO	HP_0001394	GO_0004617
+1	GO-HP	GO_0004096	HP_0002665
+1	HP-GO	HP_0002665	GO_0004617
+
+2|chunk|Viruses of the genus Orthohepadnavirus, family Hepadnaviridae, are partially double-stranded DNA viruses that infect a variety of mammals. Chronic infections in humans of the prototype species, hepatitis B virus (HBV), increase the risk of liver diseases including cirrhosis and hepatocellular carcinoma 1 .
+2	139	146 Chronic	Phenotype	HP_0011010
+2	194	203 hepatitis	Phenotype	HP_0012115
+2	265	274 cirrhosis	Phenotype	HP_0001394
+2	279	303 hepatocellular carcinoma	Phenotype	HP_0001402
+2	294	303 carcinoma	Phenotype	HP_0030731
+
+3|chunk|Hepadnaviruses have been identified in several animal species including primates, bats, rodents, birds and fish 2 . Recently a novel member of the family Hepadnaviridae, similar to HBV, has been identified through transcriptomics studies in a domestic cat with large cell lymphoma 3 . Preliminary epidemiological data collected by Australian researchers suggest that the hepadnavirus of domestic cat (DCH) is common in cats infected with feline immunodeficiency virus (FIV) 3 . In order to gather additional information on DCH, we analyzed sera collected from household cats with different age (0-15 years) and clinical histories, obtained from veterinary diagnostic laboratories.
+3	252	255 cat	Gene_function	GO_0004096
+3	272	280 lymphoma	Phenotype	HP_0002665
+3	396	399 cat	Gene_function	GO_0004096
+3	445	461 immunodeficiency	Phenotype	HP_0002721
+3	540	544 sera	Gene_function	GO_0004617
+3	GO-HP	GO_0004096	HP_0002665
+3	GO-HP	GO_0004096	HP_0002721
+3	HP-GO	HP_0002665	GO_0004617
+3	HP-GO	HP_0002721	GO_0004617
+

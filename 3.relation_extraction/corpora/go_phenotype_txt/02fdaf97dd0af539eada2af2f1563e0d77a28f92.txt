@@ -1,0 +1,50 @@
+0|chunk|Discovery of an antibody for pan- ebolavirus therapy OPEN
+0	16	24 antibody	Gene_function	GO_0003823
+0	16	24 antibody	Gene_function	GO_0042571
+
+1|chunk|During the latest outbreak of Ebola virus disease in West Africa, monoclonal antibody therapy (e.g., ZMapp) was utilized to treat patients. However, due to the antigenic differences among the five ebolavirus species, the current therapeutic monoclonal antibodies are only effective against viruses of the species Zaire ebolavirus. Although this particular species has indeed caused the majority of human infections in Central and, recently, West Africa, other ebolavirus species (e.g., Sudan ebolavirus and Bundibugyo ebolavirus) have also repeatedly caused outbreaks in Central Africa and thus should not be neglected in the development of countermeasures against ebolaviruses. Here we report the generation of an ebolavirus glycoprotein-specific monoclonal antibody that effectively inhibits cellular entry of representative isolates of all known ebolavirus species in vitro and show its protective efficacy in mouse models of ebolavirus infections. This novel neutralizing monoclonal antibody targets a highly conserved internal fusion loop in the glycoprotein molecule and prevents membrane fusion of the viral envelope with cellular membranes. The discovery of this highly cross-neutralizing antibody provides a promising option for broad-acting ebolavirus antibody therapy and will accelerate the design of improved vaccines that can selectively elicit cross-neutralizing antibodies against multiple species of ebolaviruses.
+1	77	85 antibody	Gene_function	GO_0003823
+1	77	85 antibody	Gene_function	GO_0042571
+1	418	425 Central	Phenotype	HP_0030645
+1	571	578 Central	Phenotype	HP_0030645
+1	759	767 antibody	Gene_function	GO_0003823
+1	759	767 antibody	Gene_function	GO_0042571
+1	987	995 antibody	Gene_function	GO_0003823
+1	987	995 antibody	Gene_function	GO_0042571
+1	1086	1094 membrane	Gene_function	GO_0016020
+1	1086	1101 membrane fusion	Gene_function	GO_0061025
+1	1109	1123 viral envelope	Gene_function	GO_0019031
+1	1115	1123 envelope	Gene_function	GO_0031975
+1	1197	1205 antibody	Gene_function	GO_0003823
+1	1197	1205 antibody	Gene_function	GO_0042571
+1	1262	1270 antibody	Gene_function	GO_0003823
+1	1262	1270 antibody	Gene_function	GO_0042571
+1	GO-HP	GO_0003823	HP_0030645
+1	GO-HP	GO_0042571	HP_0030645
+1	HP-GO	HP_0030645	GO_0016020
+1	HP-GO	HP_0030645	GO_0061025
+1	HP-GO	HP_0030645	GO_0019031
+1	HP-GO	HP_0030645	GO_0031975
+
+2|chunk|Ebolaviruses, members of the family Filoviridae, cause severe hemorrhagic fever in humans and nonhuman primates, with human case fatality rates of up to 90% 1,2 . As proven by the latest epidemic of Ebola virus disease (EVD) in West Africa, ebolaviruses pose a significant public health concern. However, no effective prophylaxis or treatment for EVD is as yet commercially available. Five distinct species are known in the genus Ebolavirus, Zaire ebolavirus, Sudan ebolavirus, Ta forest ebolavirus, Bundibugyo ebolavirus, and Reston ebolavirus, represented by Ebola virus (EBOV), Sudan virus (SUDV), Ta forest virus (TAFV), Bundibugyo virus (BDBV), and Reston virus (RESTV), respectively 3 . Of these, EBOV, SUDV, and BDBV have caused EVD outbreaks with increased frequency in Central and West Africa in the last decade 1,2,4 .
+2	55	61 severe	Phenotype	HP_0012828
+2	74	79 fever	Phenotype	HP_0001945
+2	767	776 frequency	Phenotype	HP_0040279
+2	780	787 Central	Phenotype	HP_0030645
+
+3|chunk|Ebolaviruses express a single transmembrane glycoprotein (GP) that is responsible for both receptor binding and membrane fusion, and thus the only known target of neutralizing antibodies. GP undergoes proteolytic cleavage by host proteases such as furin, resulting in the two subunits, GP1 and GP2, which are linked by a disulfide bond 5,6 . The GP1 subunit (amino acids 33-501) contains the core of the glycoprotein, receptor binding domain (RBD), a glycan cap, and a large mucin-like domain which extends around the RBD 7 . The GP2 (amino acids 502-676) subunit contains the internal fusion loop (IFL), heptad repeats 1 and 2 (HR1 and HR2), the transmembrane region (TM), and the cytoplasmic tail (CT) 8 . During the transport of ebolavirus particles to late endosomes, low pH leads to proteolytic processing of GPs by host cysteine proteases such as cathepsins 9 , and the exposed receptor binding site of the proteolytically digested GP is thought to interact with a host receptor, Niemann Pick C1, followed by membrane fusion 8, 10, 11 .
+3	30	43 transmembrane	Gene_function	GO_0016021
+3	100	107 binding	Gene_function	GO_0005488
+3	112	120 membrane	Gene_function	GO_0016020
+3	112	127 membrane fusion	Gene_function	GO_0061025
+3	427	434 binding	Gene_function	GO_0005488
+3	647	660 transmembrane	Gene_function	GO_0016021
+3	719	728 transport	Gene_function	GO_0006810
+3	893	900 binding	Gene_function	GO_0005488
+3	1015	1023 membrane	Gene_function	GO_0016020
+3	1015	1030 membrane fusion	Gene_function	GO_0061025
+
+4|chunk|Several studies have demonstrated that administration of EBOV GP-specific antibodies protects nonhuman primates from lethal EBOV infection and may constitute a leading treatment option for EVD in humans [12] [13] [14] [15] [16] . During the West African EVD outbreak, EBOV GP-specific monoclonal antibody (MAb) cocktails (e.g., ZMapp) 12 , were used to treat several patients 17-20 . However, most of characterized therapeutic MAbs to date are EBOV GP-specific and cross-neutralizing activity against any other ebolavirus species (e.g., SUDV and
+4	296	304 antibody	Gene_function	GO_0003823
+4	296	304 antibody	Gene_function	GO_0042571
+

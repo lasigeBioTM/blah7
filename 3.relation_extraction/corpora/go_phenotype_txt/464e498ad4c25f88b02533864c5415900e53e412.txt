@@ -1,0 +1,19 @@
+0|chunk|Full-length Ebola glycoprotein accumulates in the endoplasmic reticulum
+0	50	71 endoplasmic reticulum	Gene_function	GO_0005783
+
+1|chunk|The Filoviridae family comprises of Ebola and Marburg viruses, which are known to cause lethal hemorrhagic fever. However, there is no effective anti-viral therapy or licensed vaccines currently available for these human pathogens. The envelope glycoprotein (GP) of Ebola virus, which mediates entry into target cells, is cytotoxic and this effect maps to a highly glycosylated mucin-like region in the surface subunit of GP (GP1). However, the mechanism underlying this cytotoxic property of GP is unknown. To gain insight into the basis of this GP-induced cytotoxicity, HEK293T cells were transiently transfected with full-length and mucin-deleted (mucin) Ebola GP plasmids and GP localization was examined relative to the nucleus, endoplasmic reticulum (ER), Golgi, early and late endosomes using deconvolution fluorescent microscopy. Full-length Ebola GP was observed to accumulate in the ER. In contrast, GPmucin was uniformly expressed throughout the cell and did not localize in the ER. The Ebola major matrix protein VP40 was also co-expressed with GP to investigate its influence on GP localization. GP and VP40 coexpression did not alter GP localization to the ER. Also, when VP40 was co-expressed with the nucleoprotein (NP), it localized to the plasma membrane while NP accumulated in distinct cytoplasmic structures lined with vimentin. These latter structures are consistent with aggresomes and may serve as assembly sites for filoviral nucleocapsids. Collectively, these data suggest that full-length GP, but not GPmucin, accumulates in the ER in close proximity to the nuclear membrane, which may underscore its cytotoxic property.
+1	236	244 envelope	Gene_function	GO_0031975
+1	684	696 localization	Gene_function	GO_0051179
+1	735	756 endoplasmic reticulum	Gene_function	GO_0005783
+1	1097	1109 localization	Gene_function	GO_0051179
+1	1153	1165 localization	Gene_function	GO_0051179
+1	1242	1251 localized	Phenotype	HP_0012838
+1	1259	1274 plasma membrane	Gene_function	GO_0005886
+1	1266	1274 membrane	Gene_function	GO_0016020
+1	1596	1604 membrane	Gene_function	GO_0016020
+1	GO-HP	GO_0031975	HP_0012838
+1	GO-HP	GO_0051179	HP_0012838
+1	GO-HP	GO_0005783	HP_0012838
+1	HP-GO	HP_0012838	GO_0005886
+1	HP-GO	HP_0012838	GO_0016020
+

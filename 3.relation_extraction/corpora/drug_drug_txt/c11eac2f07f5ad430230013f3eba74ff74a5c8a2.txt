@@ -1,0 +1,285 @@
+0|chunk|molecules A Review of Small Molecule Inhibitors and Functional Probes of Human Cathepsin L
+0	0	9 molecules	Chemical	CHEBI_25367
+0	28	36 Molecule	Chemical	CHEBI_25367
+0	37	47 Inhibitors	Chemical	CHEBI_35222
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_35222
+
+1|chunk|Human cathepsin L belongs to the cathepsin family of proteolytic enzymes with primarily an endopeptidase activity. Although its primary functions were originally thought to be only of a housekeeping enzyme that degraded intracellular and endocytosed proteins in lysosome, numerous recent studies suggest that it plays many critical and specific roles in diverse cellular settings. Not surprisingly, the dysregulated function of cathepsin L has manifested itself in several human diseases, making it an attractive target for drug development. Unfortunately, several redundant and isoform-specific functions have recently emerged, adding complexities to the drug discovery process. To address this, a series of chemical biology tools have been developed that helped define cathepsin L biology with exquisite precision in specific cellular contexts. This review elaborates on the recently developed small molecule inhibitors and probes of human cathepsin L, outlining their mechanisms of action, and describing their potential utilities in dissecting unknown function.
+1	250	258 proteins	Chemical	CHEBI_36080
+1	524	528 drug	Chemical	CHEBI_23888
+1	656	660 drug	Chemical	CHEBI_23888
+1	902	910 molecule	Chemical	CHEBI_25367
+1	911	921 inhibitors	Chemical	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_35222
+
+2|chunk|Molecules 2020, 25, 698 2 of 41 also now well established and has been a subject of elegant reviews elsewhere [25] [26] [27] . Unfortunately, several overlapping and redundant functions of cathepsin L have also emerged [5, [28] [29] [30] . It is therefore critically important that its functional biology in both normal and disease-specific cell types be clearly annotated before significant resources are directed in drug discovery endeavors. In this review, we will briefly outline the biogenesis of cathepsin L, describe its post-translational processing and trafficking, and highlight key structural features required for formation of an active and mature cathepsin L. A brief summary of cathepsin L biology and its role in human diseases is provided next. Finally, a detailed and up-to-date report on existing cathepsin L-targeting small molecule inhibitors and functional probes with their mechanistic details is described.
+2	0	9 Molecules	Chemical	CHEBI_25367
+2	418	422 drug	Chemical	CHEBI_23888
+2	720	724 role	Chemical	CHEBI_50906
+2	843	851 molecule	Chemical	CHEBI_25367
+2	852	862 inhibitors	Chemical	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+
+3|chunk|Human cathepsin L gene, CTHL (Uniprot primary accession number: P07711), located at the 9q21-q22 position of chromosome 9, encodes for a total of 333 amino acid peptide sequence (M.W. = 37,564 kDa) [31] . The coding space includes the regions of a N-terminal signal peptide, two pro-peptides, and two mature peptides comprising of a heavy (H) chain and a light (L) chain ( Figure 1 ). After transcription, the signal peptide is co-translationally removed in polysome and the resulting 41 kDa pro-cathepsin L is translocated to endoplasmic reticulum where it undergoes N-linked glycosylation with mannose rich sugars. The mannose sugars on the pro-cathepsin L are then phosphorylated in cis Golgi by UDP-N-acetylglucosamine:N-acetylglucosaminephosphotransferase enzyme [32] . The mannose-6-phosphate (M6P) receptors located on the surface of the trans Golgi network recognize the M6P-pro-cathepsin peptide and deliver the pro-cathepsin L peptide to the lysosome via the endolysosomal pathway. The weakly acidic environment of endosome/lysosome releases M6P receptors and the phosphate group from mannose sugars is removed by a lysosomal acid phosphatase [33, 34] . Activation to mature cathepsin L form then occurs by removal of propeptides either by autocatalysis [35] or by aspartyl cathepsin D in the acidic environment of lysosome [36] . This leads to the double chain form of mature and active cathepsin L, comprising of H and L domains, connected by disulfide bridges, (Figure 2 ). It is to be noted here that several isoforms of cathepsin L have also been observed in specific cell types due to alternative splicing of mRNA transcripts and alternative translation [4, [37] [38] [39] [40] [41] .
+3	150	155 amino	Chemical	CHEBI_46882
+3	150	160 amino acid	Chemical	CHEBI_33704
+3	156	160 acid	Chemical	CHEBI_37527
+3	161	168 peptide	Chemical	CHEBI_16670
+3	266	273 peptide	Chemical	CHEBI_16670
+3	308	316 peptides	Chemical	CHEBI_16670
+3	355	360 light	Chemical	CHEBI_30212
+3	417	424 peptide	Chemical	CHEBI_16670
+3	596	603 mannose	Chemical	CHEBI_37684
+3	621	628 mannose	Chemical	CHEBI_37684
+3	897	904 peptide	Chemical	CHEBI_16670
+3	937	944 peptide	Chemical	CHEBI_16670
+3	1074	1083 phosphate	Chemical	CHEBI_18367
+3	1074	1089 phosphate group	Chemical	CHEBI_32958
+3	1095	1102 mannose	Chemical	CHEBI_37684
+3	1136	1140 acid	Chemical	CHEBI_37527
+3	1455	1464 disulfide	Chemical	CHEBI_48343
+3	1625	1629 mRNA	Chemical	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_30212
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37684
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_30212
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37684
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_30212
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_37684
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_30212
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_37684
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_30212	CHEBI_37684
+3	CHEBI-CHEBI	CHEBI_30212	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_30212	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_30212	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_30212	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_37684	CHEBI_18367
+3	CHEBI-CHEBI	CHEBI_37684	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_37684	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_37684	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_18367	CHEBI_32958
+3	CHEBI-CHEBI	CHEBI_18367	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_18367	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_32958	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_32958	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_48343	CHEBI_33699
+
+4|chunk|Molecules 2020, 25, 698 2 of 40 variety of highly invasive forms of cancer is also now well established and has been a subject of elegant reviews elsewhere [25] [26] [27] . Unfortunately, several overlapping and redundant functions of cathepsin L have also emerged [5, [28] [29] [30] . It is therefore critically important that its functional biology in both normal and disease-specific cell types be clearly annotated before significant resources are directed in drug discovery endeavors. In this review, we will briefly outline the biogenesis of cathepsin L, describe its post-translational processing and trafficking, and highlight key structural features required for formation of an active and mature cathepsin L. A brief summary of cathepsin L biology and its role in human diseases is provided next. Finally, a detailed and up-to-date report on existing cathepsin L-targeting small molecule inhibitors and functional probes with their mechanistic details is described. Human cathepsin L gene, CTHL (Uniprot primary accession number: P07711), located at the 9q21-q22 position of chromosome 9, encodes for a total of 333 amino acid peptide sequence (M.W. = 37,564 kDa) [31] . The coding space includes the regions of a N-terminal signal peptide, two propeptides, and two mature peptides comprising of a heavy (H) chain and a light (L) chain ( Figure 1 ). After transcription, the signal peptide is co-translationally removed in polysome and the resulting 41 kDa pro-cathepsin L is translocated to endoplasmic reticulum where it undergoes N-linked glycosylation with mannose rich sugars. The mannose sugars on the pro-cathepsin L are then phosphorylated in cis Golgi by UDP-N-acetylglucosamine:N-acetylglucosaminephosphotransferase enzyme [32] . The mannose-6-phosphate (M6P) receptors located on the surface of the trans Golgi network recognize the M6P-pro-cathepsin peptide and deliver the pro-cathepsin L peptide to the lysosome via the endolysosomal pathway. The weakly acidic environment of endosome/lysosome releases M6P receptors and the phosphate group from mannose sugars is removed by a lysosomal acid phosphatase [33, 34] . Activation to mature cathepsin L form then occurs by removal of propeptides either by autocatalysis [35] or by aspartyl cathepsin D in the acidic environment of lysosome [36] . This leads to the double chain form of mature and active cathepsin L, comprising of H and L domains, connected by disulfide bridges, (Figure 2 ). It is to be noted here that several isoforms of cathepsin L have also been observed in specific cell types due to alternative splicing of mRNA transcripts and alternative translation [4, [37] [38] [39] [40] [41] . Recombinant Cathepsin L Propeptide 0.088 nM [47] (pH = 5.5) Cystatin A 1.3 nM [48,49] Cystatin B 0.23 nM [48,49] Cystatin C <0.005 nM [50] Cystatin D 18 nM [51] P41 of MHC Class II Molecule 2 pM [52] L-Kinenogen 1.7 pM [53,54] Cystatin F 0.31 nM [55] Sialostatin L 95 pM [45] Antimicrobial Peptide LL-37 150 nM [56] Molecules 2020, 25, 698 4 of 41
+4	0	9 Molecules	Chemical	CHEBI_25367
+4	464	468 drug	Chemical	CHEBI_23888
+4	766	770 role	Chemical	CHEBI_50906
+4	889	897 molecule	Chemical	CHEBI_25367
+4	898	908 inhibitors	Chemical	CHEBI_35222
+4	1126	1131 amino	Chemical	CHEBI_46882
+4	1126	1136 amino acid	Chemical	CHEBI_33704
+4	1132	1136 acid	Chemical	CHEBI_37527
+4	1137	1144 peptide	Chemical	CHEBI_16670
+4	1242	1249 peptide	Chemical	CHEBI_16670
+4	1283	1291 peptides	Chemical	CHEBI_16670
+4	1330	1335 light	Chemical	CHEBI_30212
+4	1392	1399 peptide	Chemical	CHEBI_16670
+4	1571	1578 mannose	Chemical	CHEBI_37684
+4	1596	1603 mannose	Chemical	CHEBI_37684
+4	1872	1879 peptide	Chemical	CHEBI_16670
+4	1912	1919 peptide	Chemical	CHEBI_16670
+4	2049	2058 phosphate	Chemical	CHEBI_18367
+4	2049	2064 phosphate group	Chemical	CHEBI_32958
+4	2070	2077 mannose	Chemical	CHEBI_37684
+4	2111	2115 acid	Chemical	CHEBI_37527
+4	2430	2439 disulfide	Chemical	CHEBI_48343
+4	2600	2604 mRNA	Chemical	CHEBI_33699
+4	2857	2865 Molecule	Chemical	CHEBI_25367
+4	2952	2965 Antimicrobial	Chemical	CHEBI_33281
+4	2966	2973 Peptide	Chemical	CHEBI_16670
+4	2992	3001 Molecules	Chemical	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_25367	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_30212
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_37684
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_37684	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_37684	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_37684	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_37684	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_37684	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_18367	CHEBI_32958
+4	CHEBI-CHEBI	CHEBI_18367	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_18367	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_18367	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_32958	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_32958	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_32958	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_48343	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_48343	CHEBI_33281
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_33281
+
+5|chunk|Different forms of cathepsin L enzyme have been isolated in distinct cell types and their intracellular and extracellular environment [4] . At specific cellular locations, they seem to play pivotal roles in a wide range of functional activities. In addition to the degradation of cellular proteins by the endolysosomal pathway, cathepsin L also participates in the autophagic degradation pathway; it specifically degrades two autophagosomal markers, LC3-II and GABARAP-II [57] . The specialized podocyte cells in the kidney play a critical role in the retention of various proteins required to be maintained in blood plasma [58] . It was shown that the cytoplasmic variant of active cathepsin L can degrade two key proteins, GTPase dynamin and synaptopodin, required for podocyte's proper glomerular filtration function [23, 59, 60] . Consistently, a higher podocyte cathepsin L expression was found in a variety of proteinuric kidney diseases, and its functional inhibition (e.g., by creating cathepsin L resistant dynamin) led to reversing of the symptoms [23, 61] . Interestingly, a nuclear isoform of cathepsin L is associated with another unique function in kidney cells; it is involved in the proteolytic processing of Cux1, a cell cycle regulatory transcription factor that promotes cell proliferation and polycystic kidney disease (PKD) [62, 63] . Indeed, in mouse model of PKD, a lower level of nuclear cathepsin L was corelated with an increased level of Cux1 protein in cysts [62] .
+5	289	297 proteins	Chemical	CHEBI_36080
+5	540	544 role	Chemical	CHEBI_50906
+5	573	581 proteins	Chemical	CHEBI_36080
+5	715	723 proteins	Chemical	CHEBI_36080
+5	1470	1477 protein	Chemical	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+
+6|chunk|Another type of cells where cathepsin L seems to play a major role in maintaining homeostasis is cardiomyocytes [17, [64] [65] [66] [67] . Early investigation by Stypmann et al. on a year old Ctsl/ mice showed that they developed many key traits of dilated cardiomyopathy, such as interstitial myocardial fibrosis, cardiac chamber dilation, and impaired contraction. In addition, the newborn Ctsl/ mice acquired increased number of acidic organelles, although with altered morphology and function. These studies indicate that the inhibition of cathepsin L activity in these cells is detrimental to the proper functioning of cardiac cells. This was further corroborated by an overexpression study of cathepsin L in mice cardiomyocytes that exhibited cardioprotective effect by inhibiting the Akt signaling pathway [68] . The function of secreted extracellular cathepsin L in cardiac remodeling and repair has also been studied extensively since it is known that many proteins of extracellular matrix (ECM) are also the physiological substrate of cathepsin L; these include laminin, collagen type I, IV and XVIII,. Ischemic heart disease is major risk factor for diabetic patients, unable to maintain their sugar levels efficiently. During cardiac repair, endothelial progenitor cells containing elevated levels of cathepsin L home on ischemic cells, and initiate the process of neovascularization [72] [73] [74] . In uncontrolled diabetic condition however, cathepsin L function in ECM space during neovascularization is significantly impaired; this hampers the ischemic repair process [15, 75] .
+6	62	66 role	Chemical	CHEBI_50906
+6	809	816 pathway	Chemical	CHEBI_34922
+6	970	978 proteins	Chemical	CHEBI_36080
+6	1085	1093 collagen	Chemical	CHEBI_3815
+6	1329	1333 home	Chemical	CHEBI_75830
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_34922
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_36080
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_3815
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_75830
+6	CHEBI-CHEBI	CHEBI_34922	CHEBI_36080
+6	CHEBI-CHEBI	CHEBI_34922	CHEBI_3815
+6	CHEBI-CHEBI	CHEBI_34922	CHEBI_75830
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_3815
+6	CHEBI-CHEBI	CHEBI_36080	CHEBI_75830
+6	CHEBI-CHEBI	CHEBI_3815	CHEBI_75830
+
+7|chunk|Controlled release of trypsinogen from pancreatic acinar cells and its subsequent activation in duodenum is a critically important event and must be tightly regulated. Dysregulated release of activated trypsin results in an acute pancreatitis condition. While cathepsin B efficiently cleaves trypsinogen to produce enhanced levels of active trypsin promoting pancreatitis, cathepsin L acts a regulatory brake, and keeps the activation process under control. And it does so by cleaving trypsinogen at a distinct site, 3 amino acids C terminal to cathepsin B, thereby inactivating trypsinogen itself [76] . Consistently, Ctsl/ mice showed increased trypsin activity in pancreas and surprisingly reduced pancreatitis due to diminished inflammation; this effect was attributed due to enhanced apoptosis of acinar cells (vs necrosis).
+7	202	209 trypsin	Chemical	CHEBI_9765
+7	341	348 trypsin	Chemical	CHEBI_9765
+7	519	524 amino	Chemical	CHEBI_46882
+7	519	530 amino acids	Chemical	CHEBI_33704
+7	525	530 acids	Chemical	CHEBI_37527
+7	649	656 trypsin	Chemical	CHEBI_9765
+7	CHEBI-CHEBI	CHEBI_9765	CHEBI_46882
+7	CHEBI-CHEBI	CHEBI_9765	CHEBI_33704
+7	CHEBI-CHEBI	CHEBI_9765	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+7	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+8|chunk|In neuro-and immuno-biology, cathepsin L has important documented roles as well [77] [78] [79] [80] . For example, regulated secretory vesicles of the neuroendocrine system, such as chromaffin granules, house many mature function-ready enkephalin opioid peptides. Upon appropriate signaling stimuli, the activated enkephalin neuropeptides are secreted and released imparting their analgesic and immune-cell specific functions. Studies by Yasothornsrikul et al. revealed that cathepsin L is the proteolytic processing enzyme that renders active metenkephalin from proenkephalin [81] . In another studies, the severity of symptoms due to antigen-induced arthritis (AAI) was significantly reduced in Ctsl/ mice due to a weakened T helper cell population in thymus [82] . Molecules 2020, 25, 698 5 of 41
+8	381	390 analgesic	Chemical	CHEBI_35480
+8	770	779 Molecules	Chemical	CHEBI_25367
+8	CHEBI-CHEBI	CHEBI_35480	CHEBI_25367
+
+9|chunk|The expression of cathepsin L is highly dysregulated in several human diseases, including diabetes, AAI, abdominal aortic aneurysm, liver fibrosis, and cancers [13, [82] [83] [84] [85] . Its involvement in numerous forms of highly invasive cancers is particularly noteworthy and is covered in great detail in recent reviews [25, 26, [86] [87] [88] . Early studies by Gottesman revealed that extracellular cathepsin L levels can increase up to 200-fold in transformed cells [89] . In the ECM environment, they can rapidly degrade several structural components and significantly increase the migratory/invasive potential of these cells, promoting metastasis [86, 87] . Not surprisingly, cathepsin L inhibition by small molecule is considered a viable strategy for the development of novel anti-cancer agents.
+9	717	725 molecule	Chemical	CHEBI_25367
+
+10|chunk|Small Molecule Inhibitors
+10	6	14 Molecule	Chemical	CHEBI_25367
+10	15	25 Inhibitors	Chemical	CHEBI_35222
+10	CHEBI-CHEBI	CHEBI_25367	CHEBI_35222
+

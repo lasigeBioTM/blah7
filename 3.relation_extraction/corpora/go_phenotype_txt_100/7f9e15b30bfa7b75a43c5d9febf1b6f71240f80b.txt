@@ -1,0 +1,13 @@
+0|chunk|
+
+1|chunk|Background: Children with respiratory tract infections are the single most frequent patient group to make use of primary care health care resources. The use of antibiotics remains highly prevalent in young children, but can lead to antimicrobial resistance as well as reinforcing the idea that parents should re-consult for similar symptoms. One of the main drivers of indiscriminate antimicrobial use is the lack of evidence for, and therefore uncertainty regarding, which children are at risk of poor outcome. This paper describes the protocol for the TARGET cohort study, which aims to derive and validate a clinical prediction rule to identify children presenting to primary care with respiratory tract infections who are at risk of hospitalisation.
+1	75	83 frequent	Phenotype	HP_0040282
+
+2|chunk|Methods/design: The TARGET cohort study is a large, multicentre prospective observational study aiming to recruit 8,300 children aged 3 months and <16 years presenting to primary care with a cough and respiratory tract infection symptoms from 4 study centres (Bristol, London, Oxford and Southampton). Following informed consent, symptoms, signs and demographics will be measured. In around a quarter of children from the Bristol centre, a single sweep, dual bacterial-viral throat swab will be taken and parents asked to complete a symptom diary until the child is completely well or for 28 days, whichever is sooner. A review of medical notes including clinical history, re-consultation and hospitalisations will be undertaken. Multivariable logistic regression will be used to identify the independent clinical predictors of hospitalisation as well as the prognostic significance of upper respiratory tract microbes. The clinical prediction rule will be internally validated using various methods including bootstrapping.
+2	192	197 cough	Phenotype	HP_0012735
+2	202	229 respiratory tract infection	Phenotype	HP_0011947
+
+3|chunk|The clinical prediction rule for hospitalisation has the potential to help identify a small group of children for hospitalisation and a much larger group where hospitalisation is very unlikely and antibiotic prescribing would be less warranted. This study will also be the largest natural history study to date of children presenting to primary care with acute cough and respiratory tract infections, and will provide important information on symptom duration, re-consultations and the microbiology of the upper respiratory tract.
+3	355	360 acute	Phenotype	HP_0011009
+3	361	366 cough	Phenotype	HP_0012735
+

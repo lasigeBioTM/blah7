@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1">
+  <chunk id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c0" text="Identification of Known and Novel Recurrent Viral Sequences in Data from Multiple Patients and Multiple Cancers"/>
+  <chunk id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1" text="Virus discovery from high throughput sequencing data often follows a bottom-up approach where taxonomic annotation takes place prior to association to disease. Albeit effective in some cases, the approach fails to detect novel pathogens and remote variants not present in reference databases. We have developed a species independent pipeline that utilises sequence clustering for the identification of nucleotide sequences that co-occur across multiple sequencing data instances. We applied the workflow to 686 sequencing libraries from 252 cancer samples of different cancer and tissue types, 32 non-template controls, and 24 test samples. Recurrent sequences were statistically associated to biological, methodological or technical features with the aim to identify novel pathogens or plausible contaminants that may associate to a particular kit or method. We provide examples of identified inhabitants of the healthy tissue flora as well as experimental contaminants. Unmapped sequences that co-occur with high statistical significance potentially represent the unknown sequence space where novel pathogens can be identified.">
+    <entity charOffset="402-412" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e0" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="541-547" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e1" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="569-575" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e2" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="797-809" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e3" ontology_id="CHEBI_143130" text="contaminants" type="chemical"/>
+    <entity charOffset="958-970" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e4" ontology_id="CHEBI_143130" text="contaminants" type="chemical"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e0" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e1" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p0" relation="true"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e0" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e2" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p1" relation="true"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e1" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e3" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p2" relation="true"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e1" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e4" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p3" relation="true"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e2" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e3" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p4" relation="true"/>
+    <pair e1="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e2" e2="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.e4" id="9c8a4fff809abaa0b5ede6a28db62da5edd082e1.c1.p5" relation="true"/>
+  </chunk>
+</document>

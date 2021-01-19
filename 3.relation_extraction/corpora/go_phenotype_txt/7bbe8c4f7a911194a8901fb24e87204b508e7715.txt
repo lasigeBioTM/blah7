@@ -1,0 +1,39 @@
+0|chunk|microorganisms V2 T-Cells Kill ZIKV-Infected Cells by NKG2D-Mediated Cytotoxicity
+
+1|chunk|An expansion of effector/activated V2 T-cells was recently described in acute Zika virus (ZIKV)-infected patients, but their role in the protective immune response was not clarified. The aim of this study was to define the antiviral activity of V2 T-cells against ZIKV-infected cells. The V2 T-cells expansion and their cytotoxic activity against ZIKV-infected cells were tested in vitro and analyzed by RT-PCR and flow cytometry. We found that ZIKV infection was able to induce V2 T-cells expansion and sensitized A549 cells to V2-mediated killing. Indeed, expanded V2 T-cells killed ZIKV-infected cells through degranulation and perforin release. Moreover, ZIKV infection was able to increase the expression on A549 cells of NKG2D ligands (NKG2DLs), namely MICA, MICB, and ULBP2, at both the mRNA and protein levels, suggesting the possible involvement of these molecules in the recognition by NKG2D-expressing V2 T-cells. Indeed, the killing of ZIKV-infected cells by expanded V2 T-cells was mediated by NKG2D/NKG2DL interaction as NKG2D neutralization abrogated V2 cytotoxicity. Our data showed a strong antiviral activity of V2 T-cells against ZIKV-infected cells, suggesting their involvement in the protective immune response. Other studies are necessary to investigate whether the lack of V2 T-cells expansion in vivo may be associated with disease complications.
+1	73	78 acute	Phenotype	HP_0011009
+1	149	164 immune response	Gene_function	GO_0006955
+1	1227	1242 immune response	Gene_function	GO_0006955
+1	HP-GO	HP_0011009	GO_0006955
+
+2|chunk|Microorganisms 2019, 7, 350 2 of 13 as a global health problem; in fact, ZIKV generated an explosive epidemic causing Guillain-Barr syndrome in adults [5] [6] [7] and congenital diseases during pregnancy [8, 9] . Given the range of clinical symptoms, there is a pressing need to elucidate the protective immunological profile and to identify the immune signature associated with complication. Effective control of ZIKV involves both humoral and cell-mediated immune responses. Neutralizing antibodies are produced after ZIKV infection, control viral replication [10], and correlate with protection against secondary infection [11] [12] [13] .
+
+3|chunk|At present, various studies aimed to understand T-cell responses against ZIKV have been reported. In mice, polyfunctional cytotoxic CD8+ T-cells are activated [14] and reduce ZIKV burden, whereas their depletion resulted in greater ZIKV infection and mortality [15] . Adoptive transfer of ZIKV-specific CD8+ T-cells can protect against ZIKV infection [16] , confirming the role of CD8+ T-cells against ZIKV. Nevertheless, CD8+ T-cells could also have pathological consequences in the brain [17] resulting in ZIKV-associated paralysis [18] . The role of CD4+ T-cells in the protection/pathogenesis of ZIKV infection is not fully elucidated. CD4+ T-cells proliferated and produced Th1 cytokines in mice [19] , and their depletion reduced humoral response [20] . In ZIKV-infected humans, CD4+ T-cells differentiated into effectors cells but showed an impaired IFN- production [21] .
+3	524	533 paralysis	Phenotype	HP_0003470
+
+4|chunk|Among cells of the innate immunity, V2 T-cells are known to contribute to the antimicrobial immune response [22] . They are activated both in vitro and in vivo by using phosphoantigens (PhAgs) [23] without any MHC restriction and are able to produce pro-inflammatory cytokines [24] .
+4	93	108 immune response	Gene_function	GO_0006955
+
+5|chunk|V2 T-cells can also display a potent MHC unrestricted cytotoxic activity against tumors and infected cells through the engagement of their NK receptor group 2 member D (NKG2D) receptor [25, 26] 
+
+6|chunk|infection is not clearly depicted. We demonstrated that V2 T-cells are able to perform a cytolitic activity against WNV (West Nile Virus) by releasing perforin. Indeed, they can also produce cytokines with antiviral activity [28] . In acute Dengue (DENV) infection, V2 T-cells are able to exert a potent antiviral activity by expressing CD107a and by producing IFN- against DENV-infected cells [29] . During acute ZIKV infection in humans, an expansion of V2 T-cells was observed. These expanded V2 T-cells showed an effector profile, were enriched of Granzyme B and were able to produce IFN- when stimulated with a specific antigen [21] . Nevertheless, their involvement in the anti-ZIKV immune response has not been demonstrated. The aim of this work was to investigate the antiviral capability of V2 T-cells against ZIKV infection.
+6	236	241 acute	Phenotype	HP_0011009
+6	411	416 acute	Phenotype	HP_0011009
+6	695	710 immune response	Gene_function	GO_0006955
+6	HP-GO	HP_0011009	GO_0006955
+
+7|chunk|Materials and Methods
+
+8|chunk|A549 cells were grown in Dulbecco's modified eagle medium (DMEM) supplemented with Fetal Bovin Serum 10%, 2 mmol/L L-Glutamine, 50 IU/mL Penicillin and 50 g/mL Streptomycin (EuroClone, Siziano, Italy) in a humidified incubator at 37  C with 5% of CO 2 . Passaging of the cells was carried out twice a week, reaching a maximum density of 80-90%.
+
+9|chunk|A549 cells were infected with the ZIKV strain MR766 (UVE/ZIKV/1947/UG/MR766 available on http://www.european-virus-archive.com/as EVAg no. 001v-EVA143).
+
+10|chunk|A549 cells, plated in complete DMEM medium (70.000 cells/250 L/well) in a 48-well plate the day before, were infected with ZIKV at MOI 1 (multiplicity of infection) for 2 h in serum-free medium at 37  C and 5% of CO 2 . After 48 h, cells were washed with PBS 1X, and co-cultured with Peripheral Microorganisms 2019, 7, 350 3 of 13 Blood Mononuclear Cells (PBMC) or expanded V2 T-cells. Non-infected A549 cells (mock) were used as control in all the experiments.
+10	286	296 Peripheral	Phenotype	HP_0030646
+
+11|chunk|PBMC were obtained from healthy donors (HD) by gradient centrifugation (Lympholyte, cat. #CL5020, Cederlane, Ontario, Canada), counted by Trypan blue exclusion, and suspended (1 10 6 cells/mL) in culture medium (RPMI-1640 supplemented with 10% Fetal Bovine Serum, 2 mM L-glutamine, 50 IU/mL Penicillin and 50 g/mL Streptomycin, EuroClone, Siziano, Italy).
+11	24	31 healthy	Phenotype	HP_0032322
+
+12|chunk|Expanded V2 T-cells were obtained by culturing PBMC of HD with a Phosphoantigen (IPH1101, 3 M; Innate Pharma, Marseille, France) plus IL-2 (100 IU/mL) at 37  C and 5% of CO 2 . Culture medium plus IL-2 (100 IU/mL) was added at day 7. After 12 days, cells were isolated by magnetic separation (Miltenyi Biotec, Bologna, Italy) obtaining a purity of >95%. V2 T-cells frequency were analyzed by flow cytometry before and after culture and were used for the experiments of this study.
+12	369	378 frequency	Phenotype	HP_0040279
+

@@ -1,0 +1,21 @@
+0|chunk|Dengue Virus Serotype 2 Blocks Extracellular Signal- Regulated Kinase and Nuclear Factor-kB Activation to Downregulate Cytokine Production
+0	31	44 Extracellular	Gene_function	GO_0005576
+0	119	138 Cytokine Production	Gene_function	GO_0001816
+
+1|chunk|Background: Dengue virus (DENV) infection is the most common mosquito-borne viral disease threatening human health around the world. Type I interferon (IFN) and cytokine production are crucial in the innate immune system. We previously reported that DENV serotype 2 (DENV-2) induced low levels of interferon regulatory factor 3 and NF-kB activation, thus leading to reduced production of IFN-b in the early phase of infection. Here, we determined whether DENV infection not only hampers type I IFN activation but also cytokine production triggered by Toll-like receptor (TLR) signaling.
+1	161	180 cytokine production	Gene_function	GO_0001816
+1	518	537 cytokine production	Gene_function	GO_0001816
+
+2|chunk|Methodology/Principal Findings: We used quantitative RT-PCR and found that only low levels of IFN-b and inflammatory cytokines such as interleukin 10 (IL-10), IL-12 and tumor necrosis factor a (TNFa) mRNA were detected in DENV-2-infected bone-marrow-derived dendritic cells. Furthermore, DENV-2 infection repressed cytokine production triggered by TLR signaling. To elucidate the molecular mechanisms underlying this suppression event, we measured NF-kB activation by p65 nuclear translocation and luciferase reporter assay and found that NF-kB activation triggered by TLR ligands was blocked by DENV-2 infection. As well, extracellular signal-regulated kinase (ERK) activity was suppressed by DENV-2 infection.
+2	169	174 tumor	Phenotype	HP_0002664
+2	175	183 necrosis	Gene_function	GO_0001906
+2	315	334 cytokine production	Gene_function	GO_0001816
+2	623	636 extracellular	Gene_function	GO_0005576
+2	662	665 ERK	Gene_function	GO_0004707
+2	HP-GO	HP_0002664	GO_0001906
+2	HP-GO	HP_0002664	GO_0001816
+2	HP-GO	HP_0002664	GO_0005576
+2	HP-GO	HP_0002664	GO_0004707
+
+3|chunk|Conclusions/Significance: To downregulate the host innate immunity, DENV-2 by itself is a weak inducer of type I IFN and cytokines, furthermore DENV-2 can also block the TLR-triggered ERK-NF-kB activation and cytokine production.
+

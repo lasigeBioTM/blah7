@@ -1,0 +1,75 @@
+0|chunk|Angiotensin-converting enzyme 2 inhibits lung injury induced by respiratory syncytial virus OPEN
+
+1|chunk|and young children, but the underlying mechanisms responsible for viral pathogenesis have not been fully elucidated. To date, no drugs or vaccines have been employed to improve clinical outcomes for RSV-infected patients. In this paper, we report that angiotensin-converting enzyme-2 (ACE2) protected against severe lung injury induced by RSV infection in an experimental mouse model and in pediatric patients. Moreover, ACE2 deficiency aggravated RSV-associated disease pathogenesis, mainly by its action on the angiotensin II type 1 receptor (AT1R). Furthermore, administration of a recombinant ACE2 protein alleviated the severity of RSV-induced lung injury. These findings demonstrate that ACE2 plays a critical role in preventing RSV-induced lung injury, and suggest that ACE2 is a promising potential therapeutic target in the management of RSV-induced lung disease.
+1	129	134 drugs	Chemical	CHEBI_23888
+1	463	470 disease	Disease	DOID_4
+1	499	505 action	Chemical	CHEBI_5133
+1	513	524 angiotensin	Chemical	CHEBI_2719
+1	513	527 angiotensin II	Chemical	CHEBI_2719
+1	602	609 protein	Chemical	CHEBI_16541
+1	716	720 role	Chemical	CHEBI_50906
+1	864	871 disease	Disease	DOID_4
+1	CHEBI-DOID	CHEBI_23888	DOID_4
+1	DOID-CHEBI	DOID_4	CHEBI_5133
+1	DOID-CHEBI	DOID_4	CHEBI_2719
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+
+2|chunk|Human respiratory syncytial virus (RSV) is a non-segmented, negative-sense, single-stranded RNA virus belonging to the Paramyxoviridae family. RSV is the most common virus responsible for acute and severe lower airway diseases in infants and young children, with nearly all children experiencing at least one RSV infection by the age of 2 years 1 . According to the World Health Organization (WHO), approximately 34 million new pediatric cases of RSV-associated lower airway disease occur annually worldwide; most cases occur in developing countries, with a mortality rate of nearly 200,000 annually 2,3 .
+2	92	95 RNA	Chemical	CHEBI_33697
+2	475	482 disease	Disease	DOID_4
+2	CHEBI-DOID	CHEBI_33697	DOID_4
+
+3|chunk|Despite the significant impact of RSV infection on infant morbidity and mortality, treatment options remain largely limited to supportive care 4 . Currently, Ribavirin is the only antiviral drug that has been approved for treatment of RSV-infected airway diseases, although issues with its efficacy and side effects restrict its application in immunocompromised patients 5 . The high incidence of RSV infection and its potential to cause severe respiratory tract disease in vulnerable young children, combined with the limited availability of therapeutic options, highlight an urgent unmet global human health need.
+3	158	167 Ribavirin	Chemical	CHEBI_63580
+3	180	189 antiviral	Chemical	CHEBI_22587
+3	180	194 antiviral drug	Chemical	CHEBI_36044
+3	190	194 drug	Chemical	CHEBI_23888
+3	463	470 disease	Disease	DOID_4
+3	CHEBI-DOID	CHEBI_63580	DOID_4
+3	CHEBI-DOID	CHEBI_22587	DOID_4
+3	CHEBI-DOID	CHEBI_36044	DOID_4
+3	CHEBI-DOID	CHEBI_23888	DOID_4
+
+4|chunk|The renin-angiotensin system (RAS) plays a major role in maintaining blood pressure, and electrolyte and fluid homeostasis 6-8 . In 2000, ACE2, a homolog of the angiotensin-converting enzyme (ACE) gene was reported to negatively regulate RAS by converting angiotensin (Ang)-II to Ang-1-7 9 . Previous studies, from our group and others, have demonstrated that ACE2 protects against severe acute lung injury (ALI) that can be triggered by sepsis, acid aspiration, severe acute respiratory syndrome (SARS), and the lethal avian influenza A H5N1 virus 10-12 . Moreover, ACE2 has been identified as the receptor of the SARS coronavirus 11 , and has also been found to modulate innate immunity and influence the composition of gut microbiota 13 . More importantly, a recombinant ACE2 protein has proven to be effective in improving lung pathologies associated with ALI and acute respiratory distress syndrome (ARDS) induced by viruses including SARS and influenza 12, 14, 15 . Currently, a soluble version of recombinant ACE2 is being tested in phase II clinical trials for patients with ALI 14 .
+4	30	33 RAS	Chemical	CHEBI_63620
+4	49	53 role	Chemical	CHEBI_50906
+4	238	241 RAS	Chemical	CHEBI_63620
+4	256	267 angiotensin	Chemical	CHEBI_2719
+4	446	450 acid	Chemical	CHEBI_37527
+4	463	496 severe acute respiratory syndrome	Disease	DOID_2945
+4	488	496 syndrome	Disease	DOID_225
+4	520	535 avian influenza	Disease	DOID_4492
+4	526	535 influenza	Disease	DOID_8469
+4	615	619 SARS	Disease	DOID_2945
+4	779	786 protein	Chemical	CHEBI_16541
+4	895	903 syndrome	Disease	DOID_225
+4	905	909 ARDS	Disease	DOID_11394
+4	940	944 SARS	Disease	DOID_2945
+4	949	958 influenza	Disease	DOID_8469
+4	CHEBI-DOID	CHEBI_63620	DOID_2945
+4	CHEBI-DOID	CHEBI_63620	DOID_225
+4	CHEBI-DOID	CHEBI_63620	DOID_4492
+4	CHEBI-DOID	CHEBI_63620	DOID_8469
+4	CHEBI-DOID	CHEBI_63620	DOID_11394
+4	CHEBI-DOID	CHEBI_50906	DOID_2945
+4	CHEBI-DOID	CHEBI_50906	DOID_225
+4	CHEBI-DOID	CHEBI_50906	DOID_4492
+4	CHEBI-DOID	CHEBI_50906	DOID_8469
+4	CHEBI-DOID	CHEBI_50906	DOID_11394
+4	CHEBI-DOID	CHEBI_2719	DOID_2945
+4	CHEBI-DOID	CHEBI_2719	DOID_225
+4	CHEBI-DOID	CHEBI_2719	DOID_4492
+4	CHEBI-DOID	CHEBI_2719	DOID_8469
+4	CHEBI-DOID	CHEBI_2719	DOID_11394
+4	CHEBI-DOID	CHEBI_37527	DOID_2945
+4	CHEBI-DOID	CHEBI_37527	DOID_225
+4	CHEBI-DOID	CHEBI_37527	DOID_4492
+4	CHEBI-DOID	CHEBI_37527	DOID_8469
+4	CHEBI-DOID	CHEBI_37527	DOID_11394
+4	DOID-CHEBI	DOID_2945	CHEBI_16541
+4	DOID-CHEBI	DOID_225	CHEBI_16541
+4	DOID-CHEBI	DOID_4492	CHEBI_16541
+4	DOID-CHEBI	DOID_8469	CHEBI_16541
+4	CHEBI-DOID	CHEBI_16541	DOID_11394
+

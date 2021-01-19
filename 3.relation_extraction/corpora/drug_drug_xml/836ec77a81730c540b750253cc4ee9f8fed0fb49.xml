@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<document id="836ec77a81730c540b750253cc4ee9f8fed0fb49">
+  <chunk id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0" text="Conformational B-Cell Epitope Prediction Method Based on Antigen Preprocessing and Mimotopes Analysis">
+    <entity charOffset="22-29" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0.e0" ontology_id="CHEBI_53000" text="Epitope" type="chemical"/>
+    <entity charOffset="57-64" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0.e1" ontology_id="CHEBI_59132" text="Antigen" type="chemical"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0.e1" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1" text="Identification of epitopes which invokes strong humoral responses is an essential issue in the field of immunology. Various computational methods that have been developed based on the antigen structures and the mimotopes these years narrow the search for experimental validation. These methods can be divided into two categories: antigen structure-based methods and mimotopebased methods. Though new methods of the two kinds have been proposed in these years, they cannot maintain a high degree of satisfaction in various circumstances. In this paper, we proposed a new conformational B-cell epitope prediction method based on antigen preprocessing and mimotopes analysis. The method classifies the antigen surface residues into &quot;epitopes&quot; and &quot;nonepitopes&quot; by six epitope propensity scales, removing the &quot;nonepitopes&quot; and using the preprocessed antigen for epitope prediction based on mimotope sequences. The proposed method gives out the mean F score of 0.42 on the testing dataset. When compared with other publicly available servers by using the testing dataset, the new method yields better performance. The results demonstrate the proposed method is competent for the conformational B-cell epitope prediction.">
+    <entity charOffset="184-191" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="330-337" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="592-599" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="627-634" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="699-706" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="765-772" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="846-853" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="858-865" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="886-894" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" ontology_id="CHEBI_60218" text="mimotope" type="chemical"/>
+    <entity charOffset="1196-1203" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p0" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p1" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p2" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p3" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e0" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p4" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p5" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p6" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p7" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p8" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e1" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p9" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p10" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p11" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p12" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e2" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p13" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p14" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p15" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p16" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e3" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p17" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p18" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p19" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p20" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e4" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p21" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p22" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e5" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p23" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p24" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p25" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e6" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p26" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e7" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p27" relation="true"/>
+    <pair e1="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e8" e2="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.e9" id="836ec77a81730c540b750253cc4ee9f8fed0fb49.c1.p28" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,19 @@
+0|chunk|Recombinant Dengue virus protein NS2B alters membrane permeability in different membrane models
+0	45	53 membrane	Gene_function	GO_0016020
+0	80	88 membrane	Gene_function	GO_0016020
+
+1|chunk|Background: One of the main phenomena occurring in cellular membranes during virus infection is a change in membrane permeability. It has been observed that numerous viral proteins can oligomerize and form structures known as viroporins that alter the permeability of membranes. Previous findings have identified such proteins in cells infected with Japanese encephalitis virus (JEV), a member of the same family that Dengue virus (DENV) belongs to (Flaviviridae). In the present work, we investigated whether the small hydrophobic DENV protein NS2B serves a viroporin function. Methods: We cloned the DENV NS2B sequence and expressed it in a bacterial expression system. Subsequently, we evaluated the effect of DENV NS2B on membranes when NS2B was overexpressed, measured bacterial growth restriction, and evaluated changes of permeability to hygromycin. The NS2B protein was purified by affinity chromatography, and crosslinking assays were performed to determine the presence of oligomers. Hemolysis assays and transmission electron microscopy were performed to identify structures involved in permeability changes. Results: The DENV-2 NS2B protein showed similitude with the JEV viroporin. The DENV-2 NS2B protein possessed the ability to change the membrane permeability in bacteria, to restrict bacterial cell growth, and to enable membrane permeability to hygromycin B. The NS2B protein formed trimers that could participate in cell lysis and generate organized structures on eukaryotes membranes. Conclusions: Our data suggest that the DENV-2 NS2B viral protein is capable of oligomerizing and organizing to form pore-like structures in different lipid environments, thereby modifying the permeability of cell membranes.
+1	108	116 membrane	Gene_function	GO_0016020
+1	359	371 encephalitis	Phenotype	HP_0002383
+1	559	568 viroporin	Gene_function	GO_0039707
+1	784	790 growth	Gene_function	GO_0040007
+1	1184	1193 viroporin	Gene_function	GO_0039707
+1	1255	1263 membrane	Gene_function	GO_0016020
+1	1317	1323 growth	Gene_function	GO_0040007
+1	1339	1347 membrane	Gene_function	GO_0016020
+1	1436	1446 cell lysis	Gene_function	GO_0044659
+1	GO-HP	GO_0016020	HP_0002383
+1	HP-GO	HP_0002383	GO_0039707
+1	HP-GO	HP_0002383	GO_0040007
+1	HP-GO	HP_0002383	GO_0044659
+

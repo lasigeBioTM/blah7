@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<document id="30abdf7a423427b001aee5d319abecfb5ad1671b">
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c0" text="Human Coronaviruses: A Review of Virus-Host Interactions"/>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1" text="Human coronaviruses (HCoVs) are known respiratory pathogens associated with a range of respiratory outcomes. In the past 14 years, the onset of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) have thrust HCoVs into spotlight of the research community due to their high pathogenicity in humans. The study of HCoV-host interactions has contributed extensively to our understanding of HCoV pathogenesis. In this review, we discuss some of the recent findings of host cell factors that might be exploited by HCoVs to facilitate their own replication cycle. We also discuss various cellular processes, such as apoptosis, innate immunity, ER stress response, mitogen-activated protein kinase (MAPK) pathway and nuclear factor kappa B (NF-κB) pathway that may be modulated by HCoVs.">
+    <entity charOffset="740-747" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="762-769" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e1" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="805-812" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e2" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e1" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.p0" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.e2" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c1.p1" relation="true"/>
+  </chunk>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c2" text="Diseases 2016, 4, 26 2 of 28 but with a much higher mortality rate of about 35% [17] . Unlike SARS-CoV, which exhibits super-spreader events, transmission of MERS-CoV is geographically limited [12] . In fact, reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region [18, 19] ."/>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c3" text="CoVs are a group of large enveloped RNA viruses under the Coronaviridae family. Together with Artierivirdae and Roniviridae, Coronaviridae is classified under the Nidovirale order [20] . As proposed by the International Committee for Taxonomy of Viruses, CoVs are further categorized into four main genera, Alpha-, Beta-, Gammaand Deltacoronaviruses based on sequence comparisons of entire viral genomes [21, 22] . These CoVs can infect a wide variety of hosts, including avian, swine and humans. HCoVs are identified to be either in the Alphaor Betacoronavirus genera, including Alphacoronaviruses, HCoV-229E and HCoV-NL63, and Betacoronaviruses, HCoV-HKU1, SARS-CoV, MERS-CoV and HCoV-OC43 (Table 1) .">
+    <entity charOffset="36-39" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c3.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4" text="Under the electron microscope, the CoV virions appear to be roughly spherical or moderately pleomorphic, with distinct &quot;club-like&quot; projections formed by the spike (S) protein [23, 24] . Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases [20] . The positive sense viral genomic RNA acts as a messenger RNA (mRNA), comprising a 5 1 terminal cap structure and a 3 1 poly A tail. This genomic RNA acts in three capacities during the viral life cycle: (1) as an initial RNA of the infectious cycle; (2) as a template for replication and transcription; and (3) as a substrate for packaging into the progeny virus. The replicase-transcriptase is the only protein translated from the genome, while the viral products of all downstream open reading frames are derived from subgenomic mRNAs. In all CoVs, the replicase gene makes up approximately 5 1 two-thirds of the genome and is comprised of two overlapping open reading frames (ORFs), ORF1a and ORF1b, which encodes 16 non-structural proteins. The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes, in the order of spike (S), envelope (E), membrane (M) and nucleocapsid (N). In addition, several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species [25] (Figure 1).">
+    <entity charOffset="10-18" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" ontology_id="CHEBI_10545" text="electron" type="chemical"/>
+    <entity charOffset="167-174" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="306-309" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="424-427" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="438-451" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" ontology_id="CHEBI_33699" text="messenger RNA" type="chemical"/>
+    <entity charOffset="448-451" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="536-539" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="612-615" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="795-802" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1175-1178" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1224-1231" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1311-1314" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" ontology_id="CHEBI_21547" text="Naa" type="chemical"/>
+    <entity charOffset="1394-1401" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p0" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p1" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p2" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p3" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p4" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p5" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p6" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p7" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p8" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p9" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p10" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p11" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p12" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p13" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p14" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p15" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p16" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p17" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p18" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p19" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p20" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p21" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p22" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p23" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p24" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p25" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p26" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p27" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p28" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p29" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p30" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p31" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p32" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p33" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p34" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p35" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p36" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p37" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p38" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p39" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p40" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p41" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p42" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p43" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p44" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p45" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p46" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p47" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p48" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p49" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p50" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e8" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p51" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p52" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p53" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p54" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e10" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p55" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e11" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c4.p56" relation="true"/>
+  </chunk>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c5" text="Diseases 2016, 4, 26 2 of 27 SARS-CoV but with a much higher mortality rate of about 35% [17]. Unlike SARS-CoV, which exhibits super-spreader events, transmission of MERS-CoV is geographically limited [12]. In fact, reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region [18,19]."/>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c6" text="CoVs are a group of large enveloped RNA viruses under the Coronaviridae family. Together with Artierivirdae and Roniviridae, Coronaviridae is classified under the Nidovirale order [20] . As proposed by the International Committee for Taxonomy of Viruses, CoVs are further categorized into four main genera, Alpha-, Beta-, Gamma-and Deltacoronaviruses based on sequence comparisons of entire viral genomes [21, 22] . These CoVs can infect a wide variety of hosts, including avian, swine and humans. HCoVs are identified to be either in the Alpha-or Betacoronavirus genera, including Alphacoronaviruses, HCoV-229E and HCoV-NL63, and Betacoronaviruses, HCoV-HKU1, SARS-CoV, MERS-CoV and HCoV-OC43 (Table 1) .">
+    <entity charOffset="36-39" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c6.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7" text="Under the electron microscope, the CoV virions appear to be roughly spherical or moderately pleomorphic, with distinct &quot;club-like&quot; projections formed by the spike (S) protein [23, 24] . Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases [20] . The positive sense viral genomic RNA acts as a messenger RNA (mRNA), comprising a 5′ terminal cap structure and a 3′ poly A tail. This genomic RNA acts in three capacities during the viral life cycle: (1) as an initial RNA of the infectious cycle; (2) as a template for replication and transcription; and (3) as a substrate for packaging into the progeny virus. The replicase-transcriptase is the only protein translated from the genome, while the viral products of all downstream open reading frames are derived from subgenomic mRNAs. In all CoVs, the replicase gene makes up approximately 5′ twothirds of the genome and is comprised of two overlapping open reading frames (ORFs), ORF1a and ORF1b, which encodes 16 non-structural proteins. The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes, in the order of spike (S), envelope (E), membrane (M) and nucleocapsid (N). In addition, several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species [25] (Figure 1 ).">
+    <entity charOffset="10-18" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" ontology_id="CHEBI_10545" text="electron" type="chemical"/>
+    <entity charOffset="167-174" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="306-309" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="424-427" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="438-451" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" ontology_id="CHEBI_33699" text="messenger RNA" type="chemical"/>
+    <entity charOffset="448-451" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="534-537" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="610-613" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="793-800" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1171-1174" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1220-1227" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1307-1310" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" ontology_id="CHEBI_21547" text="Naa" type="chemical"/>
+    <entity charOffset="1390-1397" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p0" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p1" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p2" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p3" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p4" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p5" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p6" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p7" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p8" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p9" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p10" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e0" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p11" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p12" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p13" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p14" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p15" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p16" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p17" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p18" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e1" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p19" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p20" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p21" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p22" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p23" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e2" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p24" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p25" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p26" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p27" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p28" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e3" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p29" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p30" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p31" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p32" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p33" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p34" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p35" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p36" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e4" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p37" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p38" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p39" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p40" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e5" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p41" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p42" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p43" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p44" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e6" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p45" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p46" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p47" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p48" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e7" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p49" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p50" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e8" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p51" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p52" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p53" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e9" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p54" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e10" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p55" relation="true"/>
+    <pair e1="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e11" e2="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.e12" id="30abdf7a423427b001aee5d319abecfb5ad1671b.c7.p56" relation="true"/>
+  </chunk>
+</document>

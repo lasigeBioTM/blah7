@@ -1,0 +1,22 @@
+0|chunk|a recurrent Mutation in anaplastic lymphoma Kinase with Distinct neoepitope conformations
+0	2	11 recurrent	Phenotype	HP_0031796
+0	35	43 lymphoma	Phenotype	HP_0002665
+
+1|chunk|The identification of recurrent human leukocyte antigen (HLA) neoepitopes driving T cell responses against tumors poses a significant bottleneck in the development of approaches for precision cancer therapeutics. Here, we employ a bioinformatics method, Prediction of T Cell Epitopes for Cancer Therapy, to analyze sequencing data from neuroblastoma patients and identify a recurrent anaplastic lymphoma kinase mutation (ALK R1275Q) that leads to two high affinity neoepitopes when expressed in complex with common HLA alleles. Analysis of the X-ray structures of the two peptides bound to HLA-B*15:01 reveals drastically different conformations with measurable changes in the stability of the protein complexes, while the self-epitope is excluded from binding due to steric hindrance in the MHC groove. To evaluate the range of HLA alleles that could display the ALK neoepitopes, we used structure-based Rosetta comparative modeling calculations, which accurately predict several additional high affinity interactions and compare our results with commonly used prediction tools. Subsequent determination of the X-ray structure of an HLA-A*01:01 bound neoepitope validates atomic features seen in our Rosetta models with respect to key residues relevant for MHC stability and T cell receptor recognition. Finally, MHC tetramer staining of peripheral blood mononuclear cells from HLA-matched donors shows that the two neoepitopes are recognized by CD8+ T cells. This work provides a rational approach toward high-throughput identification and further optimization of putative neoantigen/HLA targets with desired recognition features for cancer immunotherapy.
+1	22	31 recurrent	Phenotype	HP_0031796
+1	192	198 cancer	Phenotype	HP_0002664
+1	288	294 Cancer	Phenotype	HP_0002664
+1	336	349 neuroblastoma	Phenotype	HP_0003006
+1	374	383 recurrent	Phenotype	HP_0031796
+1	395	403 lymphoma	Phenotype	HP_0002665
+1	739	747 excluded	Phenotype	HP_0040285
+1	753	760 binding	Gene_function	GO_0005488
+1	1339	1349 peripheral	Phenotype	HP_0030646
+1	1636	1642 cancer	Phenotype	HP_0002664
+1	HP-GO	HP_0031796	GO_0005488
+1	HP-GO	HP_0002664	GO_0005488
+1	HP-GO	HP_0003006	GO_0005488
+1	HP-GO	HP_0002665	GO_0005488
+1	HP-GO	HP_0040285	GO_0005488
+1	GO-HP	GO_0005488	HP_0030646
+

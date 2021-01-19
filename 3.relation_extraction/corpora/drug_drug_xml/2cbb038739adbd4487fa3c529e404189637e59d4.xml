@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<document id="2cbb038739adbd4487fa3c529e404189637e59d4">
+  <chunk id="2cbb038739adbd4487fa3c529e404189637e59d4.c0" text="BMC Microbiology Rapid detection of ERG11 gene mutations in clinical Candida albicans isolates with reduced susceptibility to fluconazole by rolling circle amplification and DNA sequencing">
+    <entity charOffset="0-3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e0" ontology_id="CHEBI_3392" text="BMC" type="chemical"/>
+    <entity charOffset="126-137" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e1" ontology_id="CHEBI_46081" text="fluconazole" type="chemical"/>
+    <entity charOffset="174-177" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e2" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e1" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.p0" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.p1" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c0.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="2cbb038739adbd4487fa3c529e404189637e59d4.c1" text="Background: Amino acid substitutions in the target enzyme Erg11p of azole antifungals contribute to clinically-relevant azole resistance in Candida albicans. A simple molecular method for rapid detection of ERG11 gene mutations would be an advantage as a screening tool to identify potentially-resistant strains and to track their movement. To complement DNA sequencing, we developed a padlock probe and rolling circle amplification (RCA)-based method to detect a series of mutations in the C. albicans ERG11 gene using &quot;reference&quot; azole-resistant isolates with known mutations. The method was then used to estimate the frequency of ERG11 mutations and their type in 25 Australian clinical C. albicans isolates with reduced susceptibility to fluconazole and in 23 fluconazole-susceptible isolates. RCA results were compared DNA sequencing.">
+    <entity charOffset="12-17" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" ontology_id="CHEBI_46882" text="Amino" type="chemical"/>
+    <entity charOffset="12-22" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" ontology_id="CHEBI_33704" text="Amino acid" type="chemical"/>
+    <entity charOffset="18-22" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="68-73" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" ontology_id="CHEBI_68452" text="azole" type="chemical"/>
+    <entity charOffset="74-85" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" ontology_id="CHEBI_35718" text="antifungals" type="chemical"/>
+    <entity charOffset="120-125" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" ontology_id="CHEBI_68452" text="azole" type="chemical"/>
+    <entity charOffset="355-358" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="394-399" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" ontology_id="CHEBI_50406" text="probe" type="chemical"/>
+    <entity charOffset="742-753" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" ontology_id="CHEBI_46081" text="fluconazole" type="chemical"/>
+    <entity charOffset="824-827" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p0" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p1" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p2" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p3" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p4" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p5" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p6" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p7" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p8" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p9" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p10" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p11" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p12" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p13" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p14" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p15" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p16" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p17" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p18" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p19" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p20" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p21" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p22" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p23" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p24" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p25" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p26" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p27" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p28" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p29" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p30" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p31" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p32" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p33" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p34" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p35" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p36" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p37" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p38" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p39" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p40" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p41" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e8" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c1.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c1.p42" relation="true"/>
+  </chunk>
+  <chunk id="2cbb038739adbd4487fa3c529e404189637e59d4.c2" text="The RCA assay correctly identified all ERG11 mutations in eight &quot;reference&quot; C. albicans isolates. When applied to 48 test strains, the RCA method showed 100% agreement with DNA sequencing where an ERG11 mutation-specific probe was used. Of 20 different missense mutations detected by sequencing in 24 of 25 (96%) isolates with reduced fluconazole susceptibility, 16 were detected by RCA. Five missense mutations were detected by both methods in 18 of 23 (78%) fluconazole-susceptible strains. DNA sequencing revealed that mutations in non-susceptible isolates were all due to homozygous nucleotide changes. With the exception of the mutations leading to amino acid substitution E266D, those in fluconazole-susceptible strains were heterozygous. Amino acid substitutions common to both sets of isolates were D116E, E266D, K128T, V437I and V488I. Substitutions unique to isolates with reduced fluconazole susceptibility were G464 S (n = 4 isolates), G448E (n = 3), G307S (n = 3), K143R (n = 3) and Y123H, S405F and R467K (each n = 1). DNA sequencing revealed a novel substitution, G450V, in one isolate.">
+    <entity charOffset="173-176" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="221-226" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" ontology_id="CHEBI_50406" text="probe" type="chemical"/>
+    <entity charOffset="335-346" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" ontology_id="CHEBI_46081" text="fluconazole" type="chemical"/>
+    <entity charOffset="493-496" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="587-597" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="654-659" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="654-664" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="660-664" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="745-750" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" ontology_id="CHEBI_46882" text="Amino" type="chemical"/>
+    <entity charOffset="745-755" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" ontology_id="CHEBI_33704" text="Amino acid" type="chemical"/>
+    <entity charOffset="751-755" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="891-902" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" ontology_id="CHEBI_46081" text="fluconazole" type="chemical"/>
+    <entity charOffset="1033-1036" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p0" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p1" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p2" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p3" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p4" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p5" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p6" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p7" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p8" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e0" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p9" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p10" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p11" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p12" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p13" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p14" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p15" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p16" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p17" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p18" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p19" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e1" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p20" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p21" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p22" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p23" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p24" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p25" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p26" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p27" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p28" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e2" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p29" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p30" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p31" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p32" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p33" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p34" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p35" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p36" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e3" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p37" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p38" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p39" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p40" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p41" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p42" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p43" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p44" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e4" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p45" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p46" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p47" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p48" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p49" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p50" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p51" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e5" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p52" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p53" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p54" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p55" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p56" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p57" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e6" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p58" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p59" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p60" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p61" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e7" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p62" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p63" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p64" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p65" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e8" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p66" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p67" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p68" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e9" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p69" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p70" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e10" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p71" relation="true"/>
+    <pair e1="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e11" e2="2cbb038739adbd4487fa3c529e404189637e59d4.c2.e12" id="2cbb038739adbd4487fa3c529e404189637e59d4.c2.p72" relation="true"/>
+  </chunk>
+  <chunk id="2cbb038739adbd4487fa3c529e404189637e59d4.c3" text="The sensitive RCA assay described here is a simple, robust and rapid (2 h) method for the detection of ERG11 polymorphisms. It showed excellent concordance with ERG11 sequencing and is a potentially valuable tool to track the emergence and spread of azole-resistant C. albicans and to study the epidemiology of ERG11 mutations. The RCA method is applicable to the study of azole resistance in other fungi.">
+    <entity charOffset="373-378" id="2cbb038739adbd4487fa3c529e404189637e59d4.c3.e0" ontology_id="CHEBI_68452" text="azole" type="chemical"/>
+  </chunk>
+</document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1">
+  <chunk id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c0" text="Prediction of Peptide Reactivity with Human IVIg through a Knowledge-Based Approach">
+    <entity charOffset="14-21" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c0.e0" ontology_id="CHEBI_16670" text="Peptide" type="chemical"/>
+  </chunk>
+  <chunk id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1" text="The prediction of antibody-protein (antigen) interactions is very difficult due to the huge variability that characterizes the structure of the antibodies. The region of the antigen bound to the antibodies is called epitope. Experimental data indicate that many antibodies react with a panel of distinct epitopes (positive reaction). The Challenge 1 of DREAM5 aims at understanding whether there exists rules for predicting the reactivity of a peptide/epitope, i.e., its capability to bind to human antibodies. DREAM 5 provided a training set of peptides with experimentally identified high and low reactivities to human antibodies. On the basis of this training set, the participants to the challenge were asked to develop a predictive model of reactivity. A test set was then provided to evaluate the performance of the model implemented so far. We developed a logistic regression model to predict the peptide reactivity, by facing the challenge as a machine learning problem. The initial features have been generated on the basis of the available knowledge and the information reported in the dataset. Our predictive model had the second best performance of the challenge. We also developed a method, based on a clustering approach, able to ''in-silico'' generate a list of positive and negative new peptide sequences, as requested by the DREAM5 ''bonus round'' additional challenge. The paper describes the developed model and its results in terms of reactivity prediction, and highlights some open issues concerning the propensity of a peptide to react with human antibodies.">
+    <entity charOffset="36-43" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="174-181" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="444-451" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e2" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="546-554" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="904-911" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e4" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="1303-1310" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e5" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="1541-1548" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e6" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e2" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p0" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p1" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e4" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p2" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e5" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p3" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e0" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e6" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p4" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e2" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p5" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p6" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e4" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p7" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e5" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p8" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e1" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e6" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p9" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e2" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p10" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e4" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p11" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e5" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p12" relation="true"/>
+    <pair e1="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e3" e2="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.e6" id="5a5e5fb3101062ab42831dae0bf504fd3e3a41f1.c1.p13" relation="true"/>
+  </chunk>
+</document>

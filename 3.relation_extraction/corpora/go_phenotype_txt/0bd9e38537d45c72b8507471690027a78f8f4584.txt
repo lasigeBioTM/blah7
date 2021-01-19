@@ -1,0 +1,15 @@
+0|chunk|Regulation of RiG-i Activation by K63-Linked Polyubiquitination
+
+1|chunk|RIG-I is a pattern recognition receptor and recognizes cytoplasmic viral double-stranded RNA (dsRNA). Influenza A virus, hepatitis C virus, and several other pathogenic viruses are mainly recognized by RIG-I, resulting in the activation of the innate immune responses. The protein comprises N-terminal two caspase activation and recruitment domains (2CARDs), an RNA helicase domain, and the C-terminal domain (CTD). The CTD recognizes 5-triphosphate viral dsRNA. After recognition of viral dsRNA, the protein harbors K63-linked polyubiquitination essential for RIG-I activation. First, it was reported that TRIM25 ubiquitin ligase delivered K63-linked polyubiquitin moiety to the 2CARDs. The polyubiquitin chain stabilizes a structure called the 2CARD tetramer, in which four 2CARDs assemble and make a core that promotes the aggregation of the mitochondrial antiviral-signaling (MAVS) protein on mitochondria. MAVS aggregation then triggers the signal to induce the innate immune responses. However, subsequent studies have reported that Riplet, MEX3C, and TRIM4 ubiquitin ligases are also involved in K63-linked polyubiquitination and the activation of RIG-I. MEX3C and TRIM4 mediate polyubiquitination of the 2CARDs. By contrast, Riplet ubiquitinates the CTD. The physiological significance of each ubiquitin ligases has been shown by knockout and knockdown studies, but there appears to be contradictory to evidence reported in the literature. In this review, we summarize recent findings related to K63-linked polyubiquitination and propose a model that could reconcile current contradictory theories. We also discuss the physiological significance of the ubiquitin ligases in the immune system against viral infection.
+1	121	130 hepatitis	Phenotype	HP_0012115
+1	306	324 caspase activation	Gene_function	GO_0006919
+1	615	624 ubiquitin	Gene_function	GO_0031386
+1	846	859 mitochondrial	Phenotype	HP_0001427
+1	1065	1074 ubiquitin	Gene_function	GO_0031386
+1	1303	1312 ubiquitin	Gene_function	GO_0031386
+1	1662	1671 ubiquitin	Gene_function	GO_0031386
+1	HP-GO	HP_0012115	GO_0006919
+1	HP-GO	HP_0012115	GO_0031386
+1	GO-HP	GO_0006919	HP_0001427
+1	GO-HP	GO_0031386	HP_0001427
+

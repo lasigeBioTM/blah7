@@ -1,0 +1,20 @@
+0|chunk|Journal of Inflammation CXCR2 is critical for dsRNA-induced lung injury: relevance to viral lung infection
+
+1|chunk|Background: Respiratory viral infections are characterized by the infiltration of leukocytes, including activated neutrophils into the lung that can lead to sustained lung injury and potentially contribute to chronic lung disease. Specific mechanisms recruiting neutrophils to the lung during virus-induced lung inflammation and injury have not been fully elucidated. Since CXCL1 and CXCL2/3, acting through CXCR2, are potent neutrophil chemoattractants, we investigated their role in dsRNA-induced lung injury, where dsRNA (Poly IC) is a well-described synthetic agent mimicking acute viral infection.
+1	209	216 chronic	Phenotype	HP_0011010
+1	209	229 chronic lung disease	Phenotype	HP_0006528
+1	580	585 acute	Phenotype	HP_0011009
+
+2|chunk|We used 6-8 week old female BALB/c mice to intratracheally inject either single-stranded (ssRNA) or double-stranded RNA (dsRNA) into the airways. The lungs were then harvested at designated timepoints to characterize the elicited chemokine response and resultant lung injury following dsRNA exposure as demonstrated qualititatively by histopathologic analysis, and quantitatively by FACS, protein, and mRNA analysis of BAL fluid and tissue samples. We then repeated the experiments by first pretreating mice with an anti-PMN or corresponding control antibody, and then subsequently pretreating a separate cohort of mice with an anti-CXCR2 or corresponding control antibody prior to dsRNA exposure.
+2	550	558 antibody	Gene_function	GO_0003823
+2	550	558 antibody	Gene_function	GO_0042571
+2	664	672 antibody	Gene_function	GO_0003823
+2	664	672 antibody	Gene_function	GO_0042571
+
+3|chunk|Intratracheal dsRNA led to significant increases in neutrophil infiltration and lung injury in BALB/ c mice at 72 h following dsRNA, but not in response to ssRNA (Poly C; control) treatment. Expression of CXCR2 ligands and CXCR2 paralleled neutrophil recruitment to the lung. Neutrophil depletion studies significantly reduced neutrophil infiltration and lung injury in response to dsRNA when mice were pretreated with an anti-PMN monoclonal Ab. Furthermore, inhibition of CXCR2 ligands/CXCR2 interaction by pretreating dsRNA-exposed mice with an anti-CXCR2 neutralizing Ab also significantly attenuated neutrophil sequestration and lung injury.
+
+4|chunk|Conclusion: These findings demonstrate that CXC chemokine ligand/CXCR2 biological axis is critical during the pathogenesis of dsRNA-induced lung injury relevant to acute viral infections.
+4	110	122 pathogenesis	Gene_function	GO_0009405
+4	164	169 acute	Phenotype	HP_0011009
+4	GO-HP	GO_0009405	HP_0011009
+

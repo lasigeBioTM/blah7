@@ -1,0 +1,18 @@
+0|chunk|Identification of Residues of SARS-CoV nsp1 That Differentially Affect Inhibition of Gene Expression and Antiviral Signaling
+0	85	100 Gene Expression	Gene_function	GO_0010467
+0	115	124 Signaling	Gene_function	GO_0023052
+
+1|chunk|An epidemic of Severe Acute Respiratory Syndrome (SARS) led to the identification of an associated coronavirus, SARS-CoV. This virus evades the host innate immune response in part through the expression of its non-structural protein (nsp) 1, which inhibits both host gene expression and virus-and interferon (IFN)-dependent signaling. Thus, nsp1 is a promising target for drugs, as inhibition of nsp1 would make SARS-CoV more susceptible to the host antiviral defenses. To gain a better understanding of nsp1 mode of action, we generated and analyzed 38 mutants of the SARS-CoV nsp1, targeting 62 solvent exposed residues out of the 180 amino acid protein. From this work, we identified six classes of mutants that abolished, attenuated or increased nsp1 inhibition of host gene expression and/or antiviral signaling. Each class of mutants clustered on SARS-CoV nsp1 surface and suggested nsp1 interacts with distinct host factors to exert its inhibitory activities. Identification of the nsp1 residues critical for its activities and the pathways involved in these activities should help in the design of drugs targeting nsp1. Significantly, several point mutants increased the inhibitory activity of nsp1, suggesting that coronaviruses could evolve a greater ability to evade the host response through mutations of such residues.
+1	15	21 Severe	Phenotype	HP_0012828
+1	22	27 Acute	Phenotype	HP_0011009
+1	149	171 innate immune response	Gene_function	GO_0045087
+1	156	171 immune response	Gene_function	GO_0006955
+1	267	282 gene expression	Gene_function	GO_0010467
+1	774	789 gene expression	Gene_function	GO_0010467
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0010467
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0011009	GO_0006955
+1	HP-GO	HP_0011009	GO_0010467
+

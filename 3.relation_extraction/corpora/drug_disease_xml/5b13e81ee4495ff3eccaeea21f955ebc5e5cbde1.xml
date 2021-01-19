@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1">
+  <chunk id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c0" text="Using autoregressive integrated moving average (ARIMA) models to predict and monitor the number of beds occupied during a SARS outbreak in a tertiary hospital in Singapore">
+    <entity charOffset="122-126" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c0.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+  <chunk id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c1" text="The main objective of this study is to apply autoregressive integrated moving average (ARIMA) models to make real-time predictions on the number of beds occupied in Tan Tock Seng Hospital, during the recent SARS outbreak.">
+    <entity charOffset="207-211" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c1.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+  <chunk id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c2" text="Methods: This is a retrospective study design. Hospital admission and occupancy data for isolation beds was collected from Tan Tock Seng hospital for the period 14 th March 2003 to 31 st May 2003. The main outcome measure was daily number of isolation beds occupied by SARS patients. Among the covariates considered were daily number of people screened, daily number of people admitted (including observation, suspect and probable cases) and days from the most recent significant event discovery. We utilized the following strategy for the analysis. Firstly, we split the outbreak data into two. Data from 14 th March to 21 st April 2003 was used for model development. We used structural ARIMA models in an attempt to model the number of beds occupied. Estimation is via the maximum likelihood method using the Kalman filter. For the ARIMA model parameters, we considered the simplest parsimonious lowest order model.">
+    <entity charOffset="269-273" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c2.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+  <chunk id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c3" text="We found that the ARIMA (1,0,3) model was able to describe and predict the number of beds occupied during the SARS outbreak well. The mean absolute percentage error (MAPE) for the training set and validation set were 5.7% and 8.6% respectively, which we found was reasonable for use in the hospital setting. Furthermore, the model also provided three-day forecasts of the number of beds required. Total number of admissions and probable cases admitted on the previous day were also found to be independent prognostic factors of bed occupancy.">
+    <entity charOffset="110-114" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c3.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+  <chunk id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c4" text="Conclusion: ARIMA models provide useful tools for administrators and clinicians in planning for real-time bed capacity during an outbreak of an infectious disease such as SARS. The model could well be used in planning for bed-capacity during outbreaks of other infectious diseases as well.">
+    <entity charOffset="144-162" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c4.e0" ontology_id="DOID_0050117" text="infectious disease" type="disease"/>
+    <entity charOffset="155-162" id="5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1.c4.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+</document>

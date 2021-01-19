@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="12329a694934f5824e1ef7d695a7a1fa0310f52c">
+  <chunk id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c0" text="The Author(s) BMC Genomics">
+    <entity charOffset="14-17" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c0.e0" ontology_id="CHEBI_3392" text="BMC" type="chemical"/>
+  </chunk>
+  <chunk id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1" text="Introduction: The ability to predict epitopes plays an enormous role in vaccine development in terms of our ability to zero in on where to do a more thorough in-vivo analysis of the protein in question. Though for the past decade there have been numerous advancements and improvements in epitope prediction, on average the best benchmark prediction accuracies are still only around 60%. New machine learning algorithms have arisen within the domain of deep learning, text mining, and convolutional networks. This paper presents a novel analytically trained and string kernel using deep neural network, which is tailored for continuous epitope prediction, called: Deep Ridge Regressed Epitope Predictor (DRREP). Results: DRREP was tested on long protein sequences from the following datasets: SARS, Pellequer, HIV, AntiJen, and SEQ194. DRREP was compared to numerous state of the art epitope predictors, including the most recently published predictors called LBtope and DMNLBE. Using area under ROC curve (AUC), DRREP achieved a performance improvement over the best performing predictors on SARS (13.7%), HIV (8.9%), Pellequer (1.5%), and SEQ194 (3.1%), with its performance being matched only on the AntiJen dataset, by the LBtope predictor, where both DRREP and LBtope achieved an AUC of 0.702. Conclusion: DRREP is an analytically trained deep neural network, thus capable of learning in a single step through regression. By combining the features of deep learning, string kernels, and convolutional networks, the system is able to perform residue-by-residue prediction of continues epitopes with higher accuracy than the current state of the art predictors.">
+    <entity charOffset="64-68" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e0" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="182-189" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="288-295" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e2" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="635-642" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e3" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="684-691" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e4" ontology_id="CHEBI_53000" text="Epitope" type="chemical"/>
+    <entity charOffset="745-752" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="792-796" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="883-890" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e7" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="1092-1096" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e0" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p0" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e0" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p1" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e1" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p2" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e1" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p3" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e2" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p4" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e2" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p5" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e3" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p6" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e3" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p7" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e4" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p8" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e4" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p9" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e5" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p10" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e5" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p11" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e6" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e7" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p12" relation="true"/>
+    <pair e1="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e7" e2="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.e8" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c1.p13" relation="true"/>
+  </chunk>
+  <chunk id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2" text="doing this search experimentally, searching exhaustively by brute force, is an extremely time consuming endeavour. Thus, computational approaches are employed, and are the primary subject domain of computational vaccinology. Epitope prediction, the ability to predict with some probability whether a particular amino acid belongs to an epitope, can guide our experimental based search and save us a significant amount of time.">
+    <entity charOffset="225-232" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2.e0" ontology_id="CHEBI_53000" text="Epitope" type="chemical"/>
+    <entity charOffset="311-316" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="311-321" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="317-321" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="336-343" id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c2.e4" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+  </chunk>
+  <chunk id="12329a694934f5824e1ef7d695a7a1fa0310f52c.c3" text="B-Cell epitopes are antigenic residues that B Lymphocytes bind to. These antigenic determinants can be either continuous, or conformational. Continuous epitopes, also known as linear epitopes, are formed by continuous sequences of residues. The majority of epitopes (90%) are within the conformational class [4] , which are the result"/>
+</document>

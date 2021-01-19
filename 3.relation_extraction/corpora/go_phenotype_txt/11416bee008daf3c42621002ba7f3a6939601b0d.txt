@@ -1,0 +1,65 @@
+0|chunk|High-Mannose But Not Complex-Type Glycosylation of Tetherin Is Required for Restriction of HIV-1 Release
+0	34	47 Glycosylation	Gene_function	GO_0070085
+
+1|chunk|Tetherin is an interferon-inducible antiviral protein that inhibits the release of a broad spectrum of enveloped viruses by retaining virions at the surface of infected cells. While the role of specific tetherin domains in antiviral activity is clearly established, the role of glycosylation in tetherin function is not clear. In this study, we carried out a detailed investigation of this question by using tetherin variants in which one or both sites of N-linked glycosylation were mutated (N65A, N92A, and N65,92A), and chemical inhibitors that prevent glycosylation at specific stages of oligosaccharide were added or modified. The single N-linked glycosylation mutants, N65A and N92A, efficiently inhibited the release of Vpu-defective human immunodeficiency virus type 1 (HIV-1). In contrast, the non-glycosylated double mutant, N65,92A, lost its ability to block HIV-1 release. The inability of the N65,92A mutant to inhibit HIV-1 release is associated with a lack of cell-surface expression. A role for glycosylation in cell-surface tetherin expression is supported by tunicamycin treatment, which inhibits the first step of N-linked glycosylation and impairs both cell-surface expression and antiviral activity. Inhibition of complex-type glycosylation with kifunensine, an inhibitor of the oligosaccharide processing enzyme mannosidase 1, had no effect on either the cell-surface expression or antiviral activity of tetherin. These results demonstrate that high-mannose modification of a single asparagine residue is necessary and sufficient, while complex-type glycosylation is dispensable, for cell-surface tetherin expression and antiviral activity. ectodomain, and a C-terminal glycosylphosphatidylinositol (GPI) anchor [10, 14, 15] . The CT of tetherin contains an "STS" sequence that is implicated in ubiquitylation, and a highly-conserved tyrosine-based motif, "YxxY", that is essential for clathrin-dependent endocytosis of tetherin, and activation of nuclear factor-B (NF-B) [16] [17] [18] [19] . The TM and GPI anchor provide two membrane anchors that enable tetherin to tether virions with one domain in the viral envelope and the other in the plasma membrane (PM) of the host cell. The specific sequence of the TM domain is implicated in the interaction between tetherin and its antagonists such as Vpu. The ectodomain of human tetherin contains three Cys residues that are required for the formation of homodimers [15, 20] . Du Pont et al. recently demonstrated that disulfide bonds are not required for maintaining the coiled-coil or dimeric structure of tetherin, however, dimerization is necessary for tetherin's antiviral activity [21] . The ectodomain also contains two Asn residues at positions 65 and 92 that are post-translationally modified with N-linked oligosaccharides [14, 15, 20, 22] . Deletion of the CT, TM, CC, or GPI domains, or mutating the Cys residues that are required for protein dimerization, abrogates the ability of tetherin to inhibit virus release [1, 15, 20] .
+1	278	291 glycosylation	Gene_function	GO_0070085
+1	465	478 glycosylation	Gene_function	GO_0070085
+1	556	569 glycosylation	Gene_function	GO_0070085
+1	652	665 glycosylation	Gene_function	GO_0070085
+1	747	763 immunodeficiency	Phenotype	HP_0002721
+1	1011	1024 glycosylation	Gene_function	GO_0070085
+1	1142	1155 glycosylation	Gene_function	GO_0070085
+1	1248	1261 glycosylation	Gene_function	GO_0070085
+1	1572	1585 glycosylation	Gene_function	GO_0070085
+1	1908	1938 clathrin-dependent endocytosis	Gene_function	GO_0072583
+1	1927	1938 endocytosis	Gene_function	GO_0006897
+1	2052	2060 membrane	Gene_function	GO_0016020
+1	2131	2145 viral envelope	Gene_function	GO_0019031
+1	2137	2145 envelope	Gene_function	GO_0031975
+1	2167	2182 plasma membrane	Gene_function	GO_0005886
+1	2174	2182 membrane	Gene_function	GO_0016020
+1	GO-HP	GO_0070085	HP_0002721
+1	HP-GO	HP_0002721	GO_0072583
+1	HP-GO	HP_0002721	GO_0006897
+1	HP-GO	HP_0002721	GO_0016020
+1	HP-GO	HP_0002721	GO_0019031
+1	HP-GO	HP_0002721	GO_0031975
+1	HP-GO	HP_0002721	GO_0005886
+
+2|chunk|Tetherin inhibits the release of not only HIV-1 but also that of a broad spectrum of other enveloped viruses, including alphaviruses, filoviruses, rhabdoviruses, arenaviruses, herpesviruses, paramyxoviruses, flaviviruses, orthohepadnaviruses, orthomyxoviruses, and other retroviruses (reviewed in [23] [24] [25] ). Many of these viruses have evolved diverse strategies to antagonize tetherin. HIV-1 Vpu counteracts human tetherin by reducing its cell-surface expression via lysosomal and proteasomal degradation [26] [27] [28] [29] [30] [31] [32] [33] [34] or by trapping tetherin intracellularly and/or preventing its recycling back to the PM [1,2,32,35-38]. The specificity of HIV-1 Vpu towards tetherin antagonism also varies from species to species. HIV-1 Vpu counteracts tetherins from human, chimpanzee, and gorilla; however, it is relatively inactive against tetherin from other non-human primates and non-primates [28, [39] [40] [41] [42] . Simian immunodeficiency virus (SIV) and HIV-2, which do not encode a vpu gene, antagonize tetherin through their Nef and envelope (Env) proteins, respectively, in part through an intracellular sequestration mechanism [29, 39, [42] [43] [44] [45] [46] [47] [48] .
+2	500	511 degradation	Gene_function	GO_0009056
+2	956	972 immunodeficiency	Phenotype	HP_0002721
+2	1070	1078 envelope	Gene_function	GO_0031975
+2	1128	1141 intracellular	Gene_function	GO_0005622
+2	GO-HP	GO_0009056	HP_0002721
+2	HP-GO	HP_0002721	GO_0031975
+2	HP-GO	HP_0002721	GO_0005622
+
+3|chunk|As mentioned above, human tetherin contains two putative N-linked glycosylation sites in the extracellular CC domain. The requirement for tetherin glycosylation in the inhibition of virus release remains controversial. Early studies reported that N-linked glycosylation of Asn 65 (N65) and 92 (N92) is important for the inhibition of HIV-1 release [15, [49] [50] [51] [52] [53] [54] . However, other studies found that mutating N65 and N92 had a negligible effect on tetherin restriction of HIV-1 release [20, 55, 56] . Some studies reported a correlation between tetherin restriction of virus release and tetherin cell-surface expression [15, 50] , while others did not observe this correlation [20, 53, 54, 57] . While some studies were carried out with human tetherin, others used tetherins from other species. Studies also differed in their use of viral system to examine tetherin restriction; some studies were carried out with 20, 50, 53, 54] whereas others used feline immunodeficiency virus [49,54], prototypical foamy virus [56], xenotropic murine leukemia virus-related virus [51], bovine leukemia virus [52], severe acute respiratory syndrome (SARS)-Coronavirus [57], Lassa fever virus, and Marburg viruses [55].
+3	66	79 glycosylation	Gene_function	GO_0070085
+3	93	106 extracellular	Gene_function	GO_0005576
+3	147	160 glycosylation	Gene_function	GO_0070085
+3	256	269 glycosylation	Gene_function	GO_0070085
+3	976	992 immunodeficiency	Phenotype	HP_0002721
+3	1057	1065 leukemia	Phenotype	HP_0001909
+3	1099	1107 leukemia	Phenotype	HP_0001909
+3	1120	1126 severe	Phenotype	HP_0012828
+3	1127	1132 acute	Phenotype	HP_0011009
+3	1185	1190 fever	Phenotype	HP_0001945
+3	GO-HP	GO_0070085	HP_0002721
+3	GO-HP	GO_0070085	HP_0001909
+3	GO-HP	GO_0070085	HP_0012828
+3	GO-HP	GO_0070085	HP_0011009
+3	GO-HP	GO_0070085	HP_0001945
+3	GO-HP	GO_0005576	HP_0002721
+3	GO-HP	GO_0005576	HP_0001909
+3	GO-HP	GO_0005576	HP_0012828
+3	GO-HP	GO_0005576	HP_0011009
+3	GO-HP	GO_0005576	HP_0001945
+
+4|chunk|Asn-linked (N-linked) glycosylation is a highly regulated, post-translational modification that is important for the structure and function of eukaryotic proteins. N-linked glycosylation is initiated in the lumen of the endoplasmic reticulum (ER) with the cotranslational transfer of a high-mannose oligosaccharide moiety to Asn residues in Asn-X-Ser/Thr motifs (where X is any amino acid except Pro) in the target protein. Trimming of the high-mannose side chains occurs in the ER and Golgi apparatus, and additional sugars (e.g., galactose, fucose, and sialic acid) are attached to generate complex side chains. The glycoprotein is then exported to the PM through the secretory pathway [58] . When transiently overexpressed in 293T cells, several forms of tetherin are detected: the non-glycosylated 23-kDa species, and forms bearing high-mannose modification on either (24.5 kDa) or both (26 kDa) Asn 65 and 92, and complex-type carbohydrates at either or both positions (32 to 40 kDa) [1, 15, 34, 59] .
+4	22	35 glycosylation	Gene_function	GO_0070085
+4	59	90 post-translational modification	Gene_function	GO_0043687
+4	173	186 glycosylation	Gene_function	GO_0070085
+4	220	241 endoplasmic reticulum	Gene_function	GO_0005783
+

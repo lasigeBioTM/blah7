@@ -1,0 +1,20 @@
+0|chunk|The SARS-Coronavirus-Host Interactome: Identification of Cyclophilins as Target for Pan-Coronavirus Inhibitors
+
+1|chunk|Coronaviruses (CoVs) are important human and animal pathogens that induce fatal respiratory, gastrointestinal and neurological disease. The outbreak of the severe acute respiratory syndrome (SARS) in 2002/2003 has demonstrated human vulnerability to (Coronavirus) CoV epidemics. Neither vaccines nor therapeutics are available against human and animal CoVs. Knowledge of host cell proteins that take part in pivotal virus-host interactions could define broad-spectrum antiviral targets. In this study, we used a systems biology approach employing a genome-wide yeast-two hybrid interaction screen to identify immunopilins (PPIA, PPIB, PPIH, PPIG, FKBP1A, FKBP1B) as interaction partners of the CoV non-structural protein 1 (Nsp1). These molecules modulate the Calcineurin/NFAT pathway that plays an important role in immune cell activation. Overexpression of NSP1 and infection with live SARS-CoV strongly increased signalling through the Calcineurin/NFAT pathway and enhanced the induction of interleukin 2, compatible with late-stage immunopathogenicity and long-term cytokine dysregulation as observed in severe SARS cases. Conversely, inhibition of cyclophilins by cyclosporine A (CspA) blocked the replication of CoVs of all genera, including SARS-CoV, human CoV-229E and -NL-63, feline CoV, as well as avian infectious bronchitis virus. Non-immunosuppressive derivatives of CspA might serve as broad-range CoV inhibitors applicable against emerging CoVs as well as ubiquitous pathogens of humans and livestock. Citation: Pfefferle S, Sch pf J, K gl M, Friedel CC, M ller MA, et al. (2011) The SARS-Coronavirus-Host Interactome: Identification of Cyclophilins as Target for Pan-Coronavirus Inhibitors. PLoS Pathog 7(10): e1002331.
+1	156	162 severe	Phenotype	HP_0012828
+1	163	168 acute	Phenotype	HP_0011009
+1	371	380 host cell	Gene_function	GO_0043657
+1	817	839 immune cell activation	Gene_function	GO_0045321
+1	916	926 signalling	Gene_function	GO_0023052
+1	1108	1114 severe	Phenotype	HP_0012828
+1	1325	1335 bronchitis	Phenotype	HP_0012387
+1	HP-GO	HP_0012828	GO_0043657
+1	HP-GO	HP_0012828	GO_0045321
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0011009	GO_0043657
+1	HP-GO	HP_0011009	GO_0045321
+1	HP-GO	HP_0011009	GO_0023052
+1	GO-HP	GO_0043657	HP_0012387
+1	GO-HP	GO_0045321	HP_0012387
+1	GO-HP	GO_0023052	HP_0012387
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<document id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8">
+  <chunk id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0" text="In silico target fishing and pharmacological profiling for the isoquinoline alkaloids of Macleaya cordata (Bo Luo Hui)">
+    <entity charOffset="63-75" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e0" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="63-85" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e1" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="76-85" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e2" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e1" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.p0" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.p1" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1" text="Background: Some isoquinoline alkaloids from Macleaya cordata (Willd). R. Br. (Bo Luo Hui) exhibited antibacterial, antiparasitic, antitumor, and analgesic effects. The targets of these isoquinoline alkaloids are undefined. This study aims to investigate the compound-target interaction network and potential pharmacological actions of isoquinoline alkaloids of M. cordata by reverse pharmacophore database screening.">
+    <entity charOffset="17-29" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="17-39" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="30-39" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <entity charOffset="146-155" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" ontology_id="CHEBI_35480" text="analgesic" type="chemical"/>
+    <entity charOffset="186-198" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="186-208" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="199-208" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <entity charOffset="336-348" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="336-358" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="349-358" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p0" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p1" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p2" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p3" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p4" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p5" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p6" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p7" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p8" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p9" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p10" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p11" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p12" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p13" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p14" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p15" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p16" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p17" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p18" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p19" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p20" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p21" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p22" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e3" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p23" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p24" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p25" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p26" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e4" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p27" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p28" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p29" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e5" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p30" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p31" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e6" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p32" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p33" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e7" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p34" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e8" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.e9" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c1.p35" relation="true"/>
+  </chunk>
+  <chunk id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2" text="The targets of 26 isoquinoline alkaloids identified from M. cordata were predicted by a pharmacophorebased target fishing approach. Discovery Studio 3.5 and two pharmacophore databases (PharmaDB and HypoDB) were employed for the target profiling. A compound-target interaction network of M. cordata was constructed and analyzed by Cytoscape 3.0.">
+    <entity charOffset="18-30" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e0" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="18-40" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e1" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="31-40" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e2" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e1" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.p0" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.p1" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c2.p2" relation="true"/>
+  </chunk>
+  <chunk id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3" text="Results: Thirteen of the 65 predicted targets identified by PharmaDB were confirmed as targets by HypoDB screening. The targets in the interaction network of M. cordata were involved in cancer (31 targets), microorganisms (12 targets), neurodegeneration (10 targets), inflammation and autoimmunity (8 targets), parasitosis (5 targets), injury (4 targets), and pain (3 targets). Dihydrochelerythrine (C6) was found to hit 23 fitting targets. Macrophage migration inhibitory factor (MIF) hits 15 alkaloids (C1-2, C11-16, C19-25) was the most promising target related to cancer.">
+    <entity charOffset="378-398" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3.e0" ontology_id="CHEBI_140672" text="Dihydrochelerythrine" type="chemical"/>
+    <entity charOffset="494-503" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3.e1" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3.e1" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c3.p0" relation="true"/>
+  </chunk>
+  <chunk id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4" text="Through in silico target fishing, the anticancer, anti-inflammatory, and analgesic effects of M. cordata were the most significant among many possible activities. The possible anticancer effects were mainly contributed by the isoquinoline alkaloids as active components. © 2015 Lei et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http:// creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/">
+    <entity charOffset="73-82" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e0" ontology_id="CHEBI_35480" text="analgesic" type="chemical"/>
+    <entity charOffset="226-238" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e1" ontology_id="CHEBI_16092" text="isoquinoline" type="chemical"/>
+    <entity charOffset="226-248" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e2" ontology_id="CHEBI_24921" text="isoquinoline alkaloids" type="chemical"/>
+    <entity charOffset="239-248" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e3" ontology_id="CHEBI_22315" text="alkaloids" type="chemical"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e1" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p0" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p1" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e0" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p2" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e2" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p3" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e1" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p4" relation="true"/>
+    <pair e1="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e2" e2="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.e3" id="eb5417b7729ff5548e5b9ddcb837fa52efc586f8.c4.p5" relation="true"/>
+  </chunk>
+</document>

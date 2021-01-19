@@ -1,0 +1,25 @@
+0|chunk|Ultrasensitive haptoglobin biomarker detection based on amplified chemiluminescence of magnetite nanoparticles
+0	27	36 biomarker	Chemical	CHEBI_59163
+0	87	96 magnetite	Chemical	CHEBI_46726
+0	97	110 nanoparticles	Chemical	CHEBI_50803
+
+1|chunk|Background: Haptoglobin is an acute-phase protein used as predicting diagnostic biomarker both in humans (i.e., diabetes, ovarian cancer, some neurological and cardiovascular disorders) and in animals (e.g., bovine mastitis). The latter is a frequent disease of dairy industry with staggering economical losses upon decreased milk production and increased health care costs. Early stage diagnosis of the associated diseases or inflammation onset is almost impossible by conventional analytical manners.
+1	42	49 protein	Chemical	CHEBI_16541
+1	80	89 biomarker	Chemical	CHEBI_59163
+1	251	258 disease	Disease	DOID_4
+1	CHEBI-DOID	CHEBI_16541	DOID_4
+1	CHEBI-DOID	CHEBI_59163	DOID_4
+
+2|chunk|The present study demonstrates a simple, rapid, and cost-effective label-free chemiluminescence bioassay based on magnetite nanoparticles (MNPs) for sensitive detection of haptoglobin by employing the specific interaction of hemoglobin-modified MNPs. The resulting haptoglobin-hemoglobin complex inhibits the peroxidase-like activity of luminol/H 2 O 2 -hemoglobin-MNPs sensing scheme and reduces the chemiluminescence intensities correspondingly to the innate haptoglobin concentrations. Quantitative detection of bovine haptoglobin was obtained within the range of 1 pg mL 1 to 1 g mL 1 , while presenting 0.89 pg mL 1 limit of detection. Moreover, the influence of causative pathogenic bacteria (i.e., Streptococcus dysgalactiae and Escherichia coli) and somatic cell counts (depicting healthy, sub-clinical and clinical mastitis) on the emitted chemiluminescence radiation were established. The presented bioassay quantitative performances correspond with a standardized assay kit in differentiating dissimilar milk qualities.
+2	114	123 magnetite	Chemical	CHEBI_46726
+2	124	137 nanoparticles	Chemical	CHEBI_50803
+2	139	143 MNPs	Chemical	CHEBI_139554
+2	245	249 MNPs	Chemical	CHEBI_139554
+2	828	836 mastitis	Disease	DOID_10690
+2	CHEBI-DOID	CHEBI_46726	DOID_10690
+2	CHEBI-DOID	CHEBI_50803	DOID_10690
+2	CHEBI-DOID	CHEBI_139554	DOID_10690
+
+3|chunk|Overall, the main advantage of the presented sensing concept is the ability to detect haptoglobin, at clinically relevant concentrations within real milk samples for early bio-diagnostic detection of mastitis and hence adjusting the precise treatment, potentially initiating a positive influence on animals' individual health and hence on dairy farms economy.
+3	200	208 mastitis	Disease	DOID_10690
+

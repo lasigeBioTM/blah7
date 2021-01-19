@@ -1,0 +1,43 @@
+0|chunk|Interferon  Induces the Apoptosis of Cervical Cancer HeLa Cells by Activating both the Intrinsic Mitochondrial Pathway and Endoplasmic Reticulum Stress-Induced Pathway
+0	0	10 Interferon	Chemical	CHEBI_52999
+0	38	53 Cervical Cancer	Disease	DOID_4362
+0	47	53 Cancer	Disease	DOID_162
+0	112	119 Pathway	Chemical	CHEBI_34922
+0	161	168 Pathway	Chemical	CHEBI_34922
+0	CHEBI-DOID	CHEBI_52999	DOID_4362
+0	CHEBI-DOID	CHEBI_52999	DOID_162
+0	DOID-CHEBI	DOID_4362	CHEBI_34922
+0	DOID-CHEBI	DOID_162	CHEBI_34922
+
+1|chunk|The interferon  (IFN-) has been often used as a sensitizing agent for the treatment of various malignancies such as hepatocellular carcinoma, malignant melanoma, and renal cell cancer by promoting the apoptosis of thesetumor cell types. However, the effect of IFN- on cervical cancer remains unknown. In this study, HeLa cells were used as a testing model for the treatment of IFN- on cervical cancer. The results indicate that IFN- markedly inhibits the proliferation and induces the apoptosis of HeLa cells. The activation of caspase 3, the up-regulation of both Bim and cleaved poly (ADP-ribose) polymerase (PARP) 1, the down-regulation of Bcl-xL, as well as the release of cytochrome c from mitochondria were significantly induced upon IFN- treatment, indicating that the intrinsic apoptotic pathway could be activated by IFN- treatment. In addition, caspase 4-which is involved in the endoplasmic reticulum (ER) stress-induced apoptosis-was activated in response to IFN- treatment. Knocking down caspase 4 by small interfering RNA (siRNA) markedly reduced the IFN--mediated cell apoptosis. However, no significant changes in the expressions of caspases 8 and 10 were observed upon IFN- treatment, indicating that the apoptosis caused by IFN- might be independent of the extrinsic apoptotic pathway. These findings suggest that IFN- may possess anti-cervical cancer capacity by activating cell apoptosis via the intrinsic mitochondrial pathway and caspase-4-related ER stress-induced pathway.
+1	4	14 interferon	Chemical	CHEBI_52999
+1	179	185 cancer	Disease	DOID_162
+1	271	286 cervical cancer	Disease	DOID_4362
+1	280	286 cancer	Disease	DOID_162
+1	389	404 cervical cancer	Disease	DOID_4362
+1	398	404 cancer	Disease	DOID_162
+1	570	573 Bim	Chemical	CHEBI_33173
+1	616	620 PARP	Chemical	CHEBI_62913
+1	682	692 cytochrome	Chemical	CHEBI_4056
+1	682	694 cytochrome c	Chemical	CHEBI_18070
+1	802	809 pathway	Chemical	CHEBI_34922
+1	1040	1043 RNA	Chemical	CHEBI_33697
+1	1306	1313 pathway	Chemical	CHEBI_34922
+1	1375	1381 cancer	Disease	DOID_162
+1	1452	1459 pathway	Chemical	CHEBI_34922
+1	1500	1507 pathway	Chemical	CHEBI_34922
+1	CHEBI-DOID	CHEBI_52999	DOID_162
+1	CHEBI-DOID	CHEBI_52999	DOID_4362
+1	DOID-CHEBI	DOID_162	CHEBI_33173
+1	DOID-CHEBI	DOID_162	CHEBI_62913
+1	DOID-CHEBI	DOID_162	CHEBI_4056
+1	DOID-CHEBI	DOID_162	CHEBI_18070
+1	DOID-CHEBI	DOID_162	CHEBI_34922
+1	DOID-CHEBI	DOID_162	CHEBI_33697
+1	DOID-CHEBI	DOID_4362	CHEBI_33173
+1	DOID-CHEBI	DOID_4362	CHEBI_62913
+1	DOID-CHEBI	DOID_4362	CHEBI_4056
+1	DOID-CHEBI	DOID_4362	CHEBI_18070
+1	DOID-CHEBI	DOID_4362	CHEBI_34922
+1	DOID-CHEBI	DOID_4362	CHEBI_33697
+

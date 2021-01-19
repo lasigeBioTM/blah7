@@ -1,0 +1,22 @@
+0|chunk|a recurrent Mutation in anaplastic lymphoma Kinase with Distinct neoepitope conformations
+0	35	43 lymphoma	Disease	DOID_0060058
+
+1|chunk|The identification of recurrent human leukocyte antigen (HLA) neoepitopes driving T cell responses against tumors poses a significant bottleneck in the development of approaches for precision cancer therapeutics. Here, we employ a bioinformatics method, Prediction of T Cell Epitopes for Cancer Therapy, to analyze sequencing data from neuroblastoma patients and identify a recurrent anaplastic lymphoma kinase mutation (ALK R1275Q) that leads to two high affinity neoepitopes when expressed in complex with common HLA alleles. Analysis of the X-ray structures of the two peptides bound to HLA-B*15:01 reveals drastically different conformations with measurable changes in the stability of the protein complexes, while the self-epitope is excluded from binding due to steric hindrance in the MHC groove. To evaluate the range of HLA alleles that could display the ALK neoepitopes, we used structure-based Rosetta comparative modeling calculations, which accurately predict several additional high affinity interactions and compare our results with commonly used prediction tools. Subsequent determination of the X-ray structure of an HLA-A*01:01 bound neoepitope validates atomic features seen in our Rosetta models with respect to key residues relevant for MHC stability and T cell receptor recognition. Finally, MHC tetramer staining of peripheral blood mononuclear cells from HLA-matched donors shows that the two neoepitopes are recognized by CD8+ T cells. This work provides a rational approach toward high-throughput identification and further optimization of putative neoantigen/HLA targets with desired recognition features for cancer immunotherapy.
+1	48	55 antigen	Chemical	CHEBI_59132
+1	192	198 cancer	Disease	DOID_162
+1	288	294 Cancer	Disease	DOID_162
+1	336	349 neuroblastoma	Disease	DOID_769
+1	395	403 lymphoma	Disease	DOID_0060058
+1	572	580 peptides	Chemical	CHEBI_16670
+1	694	701 protein	Chemical	CHEBI_16541
+1	1636	1642 cancer	Disease	DOID_162
+1	CHEBI-DOID	CHEBI_59132	DOID_162
+1	CHEBI-DOID	CHEBI_59132	DOID_769
+1	CHEBI-DOID	CHEBI_59132	DOID_0060058
+1	DOID-CHEBI	DOID_162	CHEBI_16670
+1	DOID-CHEBI	DOID_162	CHEBI_16541
+1	DOID-CHEBI	DOID_769	CHEBI_16670
+1	DOID-CHEBI	DOID_769	CHEBI_16541
+1	DOID-CHEBI	DOID_0060058	CHEBI_16670
+1	DOID-CHEBI	DOID_0060058	CHEBI_16541
+

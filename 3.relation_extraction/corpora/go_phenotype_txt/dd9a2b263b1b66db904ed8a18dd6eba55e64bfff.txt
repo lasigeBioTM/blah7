@@ -1,0 +1,34 @@
+0|chunk|The Rational Design of Therapeutic Peptides for Aminopeptidase N using a Substrate-Based Approach OPEN
+
+1|chunk|The M1 family of metalloproteases represents a large number of exopeptidases that cleave single amino acid residues from the N-terminus of peptide substrates. One member of this family that has been well studied is aminopeptidase N (APN), a multifunctional protease known to cleave biologically active peptides and aide in coronavirus entry. The proteolytic activity of APN promotes cancer angiogenesis and metastasis making it an important target for cancer therapy. To understand the substrate specificity of APN for the development of targeted inhibitors, we used a global substrate profiling method to determine the P1-P4 amino acid preferences. The key structural features of the APN pharmacophore required for substrate recognition were elucidated by x-ray crystallography. By combining these substrate profiling and structural data, we were able to design a selective peptide inhibitor of APN that was an effective therapeutic both in vitro and in vivo against APN-expressing prostate cancer models.
+1	383	389 cancer	Phenotype	HP_0002664
+1	390	402 angiogenesis	Gene_function	GO_0001525
+1	452	458 cancer	Phenotype	HP_0002664
+1	984	999 prostate cancer	Phenotype	HP_0012125
+1	993	999 cancer	Phenotype	HP_0002664
+1	HP-GO	HP_0002664	GO_0001525
+1	GO-HP	GO_0001525	HP_0012125
+
+2|chunk|The M1 aminopeptidase family is a group of Zn 2+ -dependent peptidases expressed ubiquitously by both fetal and adults tissues. Protein levels of M1 aminopeptidases have been documented in the brain, pancreas, lung, intestines, prostate, heart, endothelial cells and in components of the immune system 1, 2 . Each M1 aminopeptidase demonstrates unique substrate specificity by preferring certain amino acids at the N-terminus of their endogenous substrates. For example, aminopeptidase B prefers basic amino acids, whereas aminopeptidase A prefers acidic amino acids 3 . The substrate specificities of the aminopeptidases allow each of them to selectively catalyze the activation or metabolism of bioactive peptides. The most studied member of the mammalian M1 aminopeptidase family is aminopeptidase N (APN), also known as CD13. APN exists as a dimeric 110 kDa cell surface protein with a small N-terminal intracellular domain, a single-pass transmembrane anchor, a small extracellular stalk, and a large ectodomain on the C-terminus 4 . Cleaving after neutral amino acids, as implied by the "N" in its name, APN degrades peptides that are involved in different physiological pathways, including pain sensation and mood disorder by inactivating enkephalin, as well as regulating blood pressure by cleaving angiotensin III 1, 5 . APN is considered to be a "moonlighting ectoenzyme", possessing functions other than its role as a peptidase 1 . Independent of its enzymatic activity, APN can also act a receptor for viral infection and as an adhesion molecule 6 .
+2	683	693 metabolism	Gene_function	GO_0008152
+2	862	874 cell surface	Gene_function	GO_0009986
+2	907	920 intracellular	Gene_function	GO_0005622
+2	943	956 transmembrane	Gene_function	GO_0016021
+2	973	986 extracellular	Gene_function	GO_0005576
+2	1197	1201 pain	Phenotype	HP_0012531
+2	1514	1529 viral infection	Gene_function	GO_0016032
+2	GO-HP	GO_0008152	HP_0012531
+2	GO-HP	GO_0009986	HP_0012531
+2	GO-HP	GO_0005622	HP_0012531
+2	GO-HP	GO_0016021	HP_0012531
+2	GO-HP	GO_0005576	HP_0012531
+2	HP-GO	HP_0012531	GO_0016032
+
+3|chunk|In cancer, APN is widely over-expressed on the surface of a number of different cell types, ranging from endothelial cells to solid tumor cells. Enzymatically active APN has been documented to play import roles in tumorigenesis, angiogenesis, cell migration, and metastasis 7-9 . As a result of its role in cancer development and metastasis, APN has been a major target for drug development. The direct enzymatic activity of APN has been targeted using the potent transition-state analogue inhibitor bestatin (ubenimex) in several clinical trials 8, 10 . Although bestatin inhibits nearly a dozen aminopeptidases, it has demonstrated therapeutic benefit in acute myeloid leukemia, gastric cancer, and squamous cell lung carcinomas [11] [12] [13] . Other small molecule inhibitors of APN, including the natural product curucumin, have been developed and are undergoing testing in the clinic and preclinical models 10 . As with bestatin, specificity has plagued these next-generation compounds due to the limited interactions small molecules can make with the APN pharmacophore. Additional strategies for the therapeutic targeting of APN have utilized tumor-homing peptides based on the NGR motif that bind to APN and deliver
+3	3	9 cancer	Phenotype	HP_0002664
+3	132	137 tumor	Phenotype	HP_0002664
+3	307	313 cancer	Phenotype	HP_0002664
+3	657	662 acute	Phenotype	HP_0011009
+3	657	679 acute myeloid leukemia	Phenotype	HP_0004808
+3	689	695 cancer	Phenotype	HP_0002664
+

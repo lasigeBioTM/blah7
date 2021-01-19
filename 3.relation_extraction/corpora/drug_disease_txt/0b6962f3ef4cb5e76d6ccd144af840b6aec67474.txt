@@ -1,0 +1,44 @@
+0|chunk|Activation of the autophagy pathway by Torovirus infection is irrelevant for virus replication
+0	28	35 pathway	Chemical	CHEBI_34922
+
+1|chunk|Autophagy is a conserved eukaryotic process that mediates lysosomal degradation of cytoplasmic macromolecules and damaged organelles, also exerting an important role in the elimination of intracellular pathogens. Despite the antiviral role of autophagy, many studies suggest that some positive-stranded RNA viruses exploit this pathway to facilitate their own replication. In this study, we demonstrate that the equine torovirus Berne virus (BEV), the prototype member of the Torovirus genus (Coronaviridae Family, Nidovirales Order), induces autophagy at late times post-infection. Conversion of microtubule associated protein 1B light chain 3 (LC3) from cytosolic (LC3 I) to the membrane associated form (LC3 II), a canonical marker of autophagosome formation, is enhanced in BEV infected cells. However, neither autophagy induction, via starvation, nor pharmacological blockade significantly affect BEV replication. Similarly, BEV infection is not altered in autophagy deficient cells lacking either Beclin 1 or LC3B protein expression. Unexpectedly, the cargo receptor p62, a selective autophagy receptor, aggregates within the region where the BEV main protease (M pro ) localizes. This finding, coupled with observation that BEV replication also induces ER stress at the time when selective autophagy is taking place, suggests that the autophagy pathway is activated in response to the hefty accumulation of virus-encoded polypeptides during the late phase of BEV infection.
+1	95	109 macromolecules	Chemical	CHEBI_33839
+1	161	165 role	Chemical	CHEBI_50906
+1	225	234 antiviral	Chemical	CHEBI_22587
+1	235	239 role	Chemical	CHEBI_50906
+1	303	306 RNA	Chemical	CHEBI_33697
+1	328	335 pathway	Chemical	CHEBI_34922
+1	620	627 protein	Chemical	CHEBI_16541
+1	631	636 light	Chemical	CHEBI_30212
+1	1020	1027 protein	Chemical	CHEBI_16541
+1	1170	1173 pro	Chemical	CHEBI_50342
+1	1352	1359 pathway	Chemical	CHEBI_34922
+1	1428	1440 polypeptides	Chemical	CHEBI_15841
+
+2|chunk|livestock industry, i.e. calves, piglets and foals [1] [2][3]. They are enveloped, positive sense, singlestranded RNA viruses belonging to the Nidovirales order, which includes four families: Arteriviridae, Roniviridae, Mesoviridae and Coronaviridae, the latter containing two subfamilies, Coronavirinae (genera Alpha-, Beta-, Delta-, and Gammacoronavirus) and Torovirinae (genera Bafinivirus and Torovirus) [4]. The International Committee on Taxonomy of Viruses recognizes four torovirus species: human (HToV), bovine (BToV), porcine (PToV) and equine torovirus (EToV) [4]. The prototype member of the torovirus genus is the EToV strain Berne virus, the first identified torovirus (BEV), isolated from a diarrheic horse [5] . BEV was first adapted to cell culture, and for this reason, it is the best characterized torovirus. Nevertheless, other cell-culture adapted BToV strains are also currently available [6] [7] [8] .
+2	114	117 RNA	Chemical	CHEBI_33697
+
+3|chunk|The torovirus genome consists of a single RNA molecule (ca. 27 kb) displaying an organization similar to that of other nidoviruses [9-13]. The first two-thirds of the genome carry two large overlapping open reading frames, ORF1a and ORF1b, directly translated from the viral genome, rendering two large polyproteins (pp1a and pp1ab), which are proteolytically processed by virus-encoded proteases (the papain-like proteinase [PLP] and the main proteinase [M pro ]) to release replication and transcriptional machinery virus components (e.g. the RNAdependent RNA polymerase [RdRp] and the helicase [Hel] amongst others) [1, 10, 14, 15]. The rest of the viral genome harbors ORFs encoding structural proteins: spike (S) [16, 17], membrane (M) [18, 19], hemagglutinin-esterase (HE) [20-22], and nucleocapsid (N) [14, 23], which are individually expressed from a nested set of 3'-coterminal subgenomic mRNAs [11, 24, 25].
+3	42	45 RNA	Chemical	CHEBI_33697
+3	46	54 molecule	Chemical	CHEBI_25367
+3	458	461 pro	Chemical	CHEBI_50342
+3	558	561 RNA	Chemical	CHEBI_33697
+
+4|chunk|Accumulating evidence from different positive-strand RNA viruses indicates that in this heterogeneous group of viruses, genome replication and transcription invariably occur in close association with highly modified cellular membranes of diverse origins [26] [27] [28] . In fact, the presence of double membrane vesicles (DMVs) in the cytoplasm of cells infected with different nidoviruses has been associated with the formation of their replication and transcription complexes (RTCs) [29] [30] [31] [32] [33] [34] [35] . In this regard, we recently described the presence of DMVs in the cytoplasm of BEV-infected cells, providing new evidence supporting the notion that nidoviruses share a common replicative structure based on DMV arranged clusters [15] . However, the mechanism and host factors required for the generation of these structures remain unknown. Because DMV morphology is akin to that of autophagosomes, and given that several pathogens have been shown to hijack the autophagy machinery, it has been postulated that some positive-strand RNA viruses may exploit the autophagy machinery to induce DMV formation [36] [37] [38] [39] .
+4	53	56 RNA	Chemical	CHEBI_33697
+4	742	750 clusters	Chemical	CHEBI_33731
+4	1053	1056 RNA	Chemical	CHEBI_33697
+
+5|chunk|Autophagy is a conserved eukaryotic mechanism mediating the removal of long-lived cytoplasmic macromolecules and damaged organelles via a lysosomal degradation pathway to maintain cellular homeostasis. During autophagy, cytoplasmic material is engulfed by doublemembraned vesicles, termed autophagosomes, which are later fused with lysosomes for the degradation of enclosed materials by lysosomal hydrolases [40, 41] . Many autophagy-related genes (Atg) are involved in the formation and regulation of the autophagy pathway [42] . The ULK1-Atg13-FIP200 class III phosphatidylinositol 3-kinase complex (PI3K), which contains Beclin 1 and vps34, regulates the initiation and nucleation of autophagosome membranes [43] . Furthermore, two ubiquitin-like conjugation systems, i.e. Atg12 and Atg8/LC3, are involved in the elongation and closure of the autophagosome, converting the cytosolic form of the microtubule associated protein 1B light chain 3 (LC3 I) into the membrane associated type (LC3 II) [44] . Mammalian cells contain three LC3 isoforms referred to as A, B and C, being LC3B the most widely used.
+5	94	108 macromolecules	Chemical	CHEBI_33839
+5	160	167 pathway	Chemical	CHEBI_34922
+5	516	523 pathway	Chemical	CHEBI_34922
+5	563	583 phosphatidylinositol	Chemical	CHEBI_16749
+5	921	928 protein	Chemical	CHEBI_16541
+5	932	937 light	Chemical	CHEBI_30212
+
+6|chunk|Several studies have reported that members of the Nidovirales order trigger autophagy in host cells. However, the specific role of this pathway in nidovirus replication remains Torovirus induced autophagy does not affect virus life cycle PLOS ONE | https://doi.
+6	123	127 role	Chemical	CHEBI_50906
+6	136	143 pathway	Chemical	CHEBI_34922
+6	243	246 ONE	Chemical	CHEBI_58972
+

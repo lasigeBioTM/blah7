@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28564e89afd6423e291c68867dd52654258b29f8">
+  <chunk id="28564e89afd6423e291c68867dd52654258b29f8.c0" text="How integration of global omics-data could help preparing for pandemics -a scent of influenza">
+    <entity charOffset="75-80" id="28564e89afd6423e291c68867dd52654258b29f8.c0.e0" ontology_id="CHEBI_48318" text="scent" type="chemical"/>
+    <entity charOffset="84-93" id="28564e89afd6423e291c68867dd52654258b29f8.c0.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="28564e89afd6423e291c68867dd52654258b29f8.c0.e0" e2="28564e89afd6423e291c68867dd52654258b29f8.c0.e1" id="28564e89afd6423e291c68867dd52654258b29f8.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="28564e89afd6423e291c68867dd52654258b29f8.c1" text="Pandemics caused by novel emerging or re-emerging infectious diseases could lead to high mortality and morbidity world-wide when left uncontrolled. In this perspective, we evaluate the possibility of integration of global omics-data in order to timely prepare for pandemics. Such an approach requires two major innovations. First, data that is obtained should be shared with the global community instantly. The strength of rapid integration of simple signals is exemplified by Google's TM Flu Trend, which could predict the incidence of influenza-like illness based on online search engine queries. Second, omics technologies need to be fast and high-throughput. We postulate that analysis of the exhaled breath would be a simple, rapid and non-invasive alternative. Breath contains hundreds of volatile organic compounds that are altered by infection and inflammation.The molecular fingerprint of breath (breathprint) can be obtained using an electronic nose, which relies on sensor technology. These breathprints can be stored in an online database (a &quot;breathcloud&quot;) and coupled to clinical data. Comparison of the breathprint of a suspected subject to the breathcloud allows for a rapid decision on the presence or absence of a pathogen.">
+    <entity charOffset="489-492" id="28564e89afd6423e291c68867dd52654258b29f8.c1.e0" ontology_id="DOID_8469" text="Flu" type="disease"/>
+    <entity charOffset="795-821" id="28564e89afd6423e291c68867dd52654258b29f8.c1.e1" ontology_id="CHEBI_134179" text="volatile organic compounds" type="chemical"/>
+    <entity charOffset="804-821" id="28564e89afd6423e291c68867dd52654258b29f8.c1.e2" ontology_id="CHEBI_50860" text="organic compounds" type="chemical"/>
+    <pair e1="28564e89afd6423e291c68867dd52654258b29f8.c1.e0" e2="28564e89afd6423e291c68867dd52654258b29f8.c1.e1" id="28564e89afd6423e291c68867dd52654258b29f8.c1.p0" relation="true"/>
+    <pair e1="28564e89afd6423e291c68867dd52654258b29f8.c1.e0" e2="28564e89afd6423e291c68867dd52654258b29f8.c1.e2" id="28564e89afd6423e291c68867dd52654258b29f8.c1.p1" relation="true"/>
+  </chunk>
+</document>

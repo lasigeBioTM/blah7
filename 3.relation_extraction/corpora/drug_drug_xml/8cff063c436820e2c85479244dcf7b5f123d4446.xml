@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="8cff063c436820e2c85479244dcf7b5f123d4446">
+  <chunk id="8cff063c436820e2c85479244dcf7b5f123d4446.c0" text="A Novel Approach to Clustering Genome Sequences Using Inter-nucleotide Covariance"/>
+  <chunk id="8cff063c436820e2c85479244dcf7b5f123d4446.c1" text="Classification of DNA sequences is an important issue in the bioinformatics study, yet most existing methods for phylogenetic analysis including Multiple Sequence Alignment (MSA) are time-consuming and computationally expensive. The alignment-free methods are popular nowadays, whereas the manual intervention in those methods usually decreases the accuracy. Also, the interactions among nucleotides are neglected in most methods. Here we propose a new Accumulated Natural Vector (ANV) method which represents each DNA sequence by a point in R 18 . By calculating the Accumulated Indicator Functions of nucleotides, we can further find an Accumulated Natural Vector for each sequence. This new Accumulated Natural Vector not only can capture the distribution of each nucleotide, but also provide the covariance among nucleotides. Thus global comparison of DNA sequences or genomes can be done easily in R 18 . The tests of ANV of datasets of different sizes and types have proved the accuracy and time-efficiency of the new proposed ANV method.">
+    <entity charOffset="18-21" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="388-399" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e1" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="515-518" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e2" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="580-589" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" ontology_id="CHEBI_47867" text="Indicator" type="chemical"/>
+    <entity charOffset="603-614" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e4" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="817-828" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e5" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="856-859" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e6" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e0" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e1" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p0" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e0" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p1" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e0" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e4" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p2" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e0" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e5" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p3" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e1" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e2" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p4" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e1" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p5" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e1" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e6" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p6" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e2" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p7" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e2" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e4" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p8" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e2" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e5" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p9" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e4" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p10" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e5" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p11" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e3" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e6" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p12" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e4" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e6" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p13" relation="true"/>
+    <pair e1="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e5" e2="8cff063c436820e2c85479244dcf7b5f123d4446.c1.e6" id="8cff063c436820e2c85479244dcf7b5f123d4446.c1.p14" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,54 @@
+0|chunk|RNA disruption is associated with response to multiple classes of chemotherapy drugs in tumor cell lines
+0	0	3 RNA	Chemical	CHEBI_33697
+0	79	84 drugs	Chemical	CHEBI_23888
+
+1|chunk|Background: Cellular stressors and apoptosis-inducing agents have been shown to induce ribosomal RNA (rRNA) degradation in eukaryotic cells. Recently, RNA degradation in vivo was observed in patients with locally advanced breast cancer, where mid-treatment tumor RNA degradation was associated with complete tumor destruction and enhanced patient survival. However, it is not clear how widespread chemotherapy induced "RNA disruption" is, the extent to which it is associated with drug response or what the underlying mechanisms are. Methods: Ovarian (A2780, CaOV3) and breast (MDA-MB-231, MCF-7, BT474, SKBR3) cancer cell lines were treated with several cytotoxic chemotherapy drugs and total RNA was isolated. RNA was also prepared from docetaxel resistant A2780DXL and carboplatin resistant A2780CBN cells following drug exposure. Disruption of RNA was analyzed by capillary electrophoresis. Northern blotting was performed using probes complementary to the 28S and 18S rRNA to determine the origins of degradation bands. Apoptosis activation was assessed by flow cytometric monitoring of annexin-V and propidium iodide (PI) binding to cells and by measuring caspase-3 activation. The link between apoptosis and RNA degradation (disruption) was investigated using a caspase-3 inhibitor.
+1	87	100 ribosomal RNA	Chemical	CHEBI_18111
+1	97	100 RNA	Chemical	CHEBI_33697
+1	102	106 rRNA	Chemical	CHEBI_18111
+1	151	154 RNA	Chemical	CHEBI_33697
+1	229	235 cancer	Disease	DOID_162
+1	263	266 RNA	Chemical	CHEBI_33697
+1	419	422 RNA	Chemical	CHEBI_33697
+1	481	485 drug	Chemical	CHEBI_23888
+1	611	617 cancer	Disease	DOID_162
+1	678	683 drugs	Chemical	CHEBI_23888
+1	694	697 RNA	Chemical	CHEBI_33697
+1	712	715 RNA	Chemical	CHEBI_33697
+1	739	748 docetaxel	Chemical	CHEBI_4672
+1	772	783 carboplatin	Chemical	CHEBI_31355
+1	819	823 drug	Chemical	CHEBI_23888
+1	848	851 RNA	Chemical	CHEBI_33697
+1	973	977 rRNA	Chemical	CHEBI_18111
+1	1106	1115 propidium	Chemical	CHEBI_51246
+1	1106	1122 propidium iodide	Chemical	CHEBI_51240
+1	1116	1122 iodide	Chemical	CHEBI_16382
+1	1215	1218 RNA	Chemical	CHEBI_33697
+1	CHEBI-DOID	CHEBI_18111	DOID_162
+1	CHEBI-DOID	CHEBI_33697	DOID_162
+1	DOID-CHEBI	DOID_162	CHEBI_23888
+1	DOID-CHEBI	DOID_162	CHEBI_4672
+1	DOID-CHEBI	DOID_162	CHEBI_31355
+1	DOID-CHEBI	DOID_162	CHEBI_51246
+1	DOID-CHEBI	DOID_162	CHEBI_51240
+1	DOID-CHEBI	DOID_162	CHEBI_16382
+
+2|chunk|Results: All chemotherapy drugs tested were capable of inducing similar RNA disruption patterns. Docetaxel treatment of the resistant A2780DXL cells and carboplatin treatment of the A2780CBN cells did not result in RNA disruption. Northern blotting indicated that two RNA disruption bands were derived from the 3'-end of the 28S rRNA. Annexin-V and PI staining of docetaxel treated cells, along with assessment of caspase-3 activation, showed concurrent initiation of apoptosis and RNA disruption, while inhibition of caspase-3 activity significantly reduced RNA disruption.
+2	26	31 drugs	Chemical	CHEBI_23888
+2	72	75 RNA	Chemical	CHEBI_33697
+2	97	106 Docetaxel	Chemical	CHEBI_4672
+2	153	164 carboplatin	Chemical	CHEBI_31355
+2	215	218 RNA	Chemical	CHEBI_33697
+2	268	271 RNA	Chemical	CHEBI_33697
+2	364	373 docetaxel	Chemical	CHEBI_4672
+2	482	485 RNA	Chemical	CHEBI_33697
+2	559	562 RNA	Chemical	CHEBI_33697
+
+3|chunk|Conclusions: Supporting the in vivo evidence, our results demonstrate that RNA disruption is induced by multiple chemotherapy agents in cell lines from different tissues and is associated with drug response. Although present, the link between apoptosis and RNA disruption is not completely understood. Evaluation of RNA disruption is thus proposed as a novel and effective biomarker to assess response to chemotherapy drugs in vitro and in vivo.
+3	75	78 RNA	Chemical	CHEBI_33697
+3	193	197 drug	Chemical	CHEBI_23888
+3	257	260 RNA	Chemical	CHEBI_33697
+3	316	319 RNA	Chemical	CHEBI_33697
+3	373	382 biomarker	Chemical	CHEBI_59163
+3	418	423 drugs	Chemical	CHEBI_23888
+

@@ -1,0 +1,23 @@
+0|chunk|From sequence to enzyme mechanism using multi-label machine learning
+
+1|chunk|Background: In this work we predict enzyme function at the level of chemical mechanism, providing a finer granularity of annotation than traditional Enzyme Commission (EC) classes. Hence we can predict not only whether a putative enzyme in a newly sequenced organism has the potential to perform a certain reaction, but how the reaction is performed, using which cofactors and with susceptibility to which drugs or inhibitors, details with important consequences for drug and enzyme design. Work that predicts enzyme catalytic activity based on 3D protein structure features limits the prediction of mechanism to proteins already having either a solved structure or a close relative suitable for homology modelling.
+1	363	372 cofactors	Chemical	CHEBI_23357
+1	406	411 drugs	Chemical	CHEBI_23888
+1	467	471 drug	Chemical	CHEBI_23888
+1	548	555 protein	Chemical	CHEBI_16541
+1	613	621 proteins	Chemical	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_23357	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_23357	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_23357	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+
+2|chunk|In this study, we evaluate whether sequence identity, InterPro or Catalytic Site Atlas sequence signatures provide enough information for bulk prediction of enzyme mechanism. By splitting MACiE (Mechanism, Annotation and Classification in Enzymes database) mechanism labels to a finer granularity, which includes the role of the protein chain in the overall enzyme complex, the method can predict at 96% accuracy (and 96% micro-averaged precision, 99.9% macro-averaged recall) the MACiE mechanism definitions of 248 proteins available in the MACiE, EzCatDb (Database of Enzyme Catalytic Mechanisms) and SFLD (Structure Function Linkage Database) databases using an off-the-shelf K-Nearest Neighbours multi-label algorithm.
+2	317	321 role	Chemical	CHEBI_50906
+2	329	336 protein	Chemical	CHEBI_16541
+2	516	524 proteins	Chemical	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+

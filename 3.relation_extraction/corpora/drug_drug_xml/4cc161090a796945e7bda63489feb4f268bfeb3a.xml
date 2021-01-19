@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="4cc161090a796945e7bda63489feb4f268bfeb3a">
+  <chunk id="4cc161090a796945e7bda63489feb4f268bfeb3a.c0" text="Identification of NCAM that interacts with the PHE-CoV spike protein">
+    <entity charOffset="61-68" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c0.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+  <chunk id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1" text="Background: The spike proteins of coronaviruses associate with cellular molecules to mediate infection of their target cells. The characterization of cellular proteins required for virus infection is essential for understanding viral life cycles and may provide cellular targets for antiviral therapies.">
+    <entity charOffset="22-30" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="72-81" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e1" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="159-167" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="283-292" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e3" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <pair e1="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e0" e2="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e1" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.p0" relation="true"/>
+    <pair e1="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e0" e2="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e3" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.p1" relation="true"/>
+    <pair e1="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e1" e2="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e2" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.p2" relation="true"/>
+    <pair e1="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e1" e2="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e3" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.p3" relation="true"/>
+    <pair e1="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e2" e2="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.e3" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c1.p4" relation="true"/>
+  </chunk>
+  <chunk id="4cc161090a796945e7bda63489feb4f268bfeb3a.c2" text="Results: We identified Neural Cell Adhesion Molecule (NCAM) as a novel interacting partner of the PHE-CoV S protein. A T7 phage display cDNA library from N2a cells was constructed, and the library was screened with the soluble PHE-CoV S glycoproteins. We used a coimmunoprecipitation assay to show that only the NCAM was a binding partner of spike protein. We found that a soluble form of anti-NCAM antibody blocked association of the PHE-CoV with N2a cells. Furthermore, double-stranded siRNA targeted against NCAM inhibited PHE-CoV infection.">
+    <entity charOffset="44-52" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c2.e0" ontology_id="CHEBI_25367" text="Molecule" type="chemical"/>
+  </chunk>
+  <chunk id="4cc161090a796945e7bda63489feb4f268bfeb3a.c3" text="Conclusions: A novel interaction was identified between NCAM and spike protein and this association is critical during PHE-CoV infection.">
+    <entity charOffset="71-78" id="4cc161090a796945e7bda63489feb4f268bfeb3a.c3.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+</document>

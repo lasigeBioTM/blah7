@@ -1,0 +1,19 @@
+0|chunk|Full Genome Virus Detection in Fecal Samples Using Sensitive Nucleic Acid Preparation, Deep Sequencing, and a Novel Iterative Sequence Classification Algorithm
+0	61	73 Nucleic Acid	Chemical	CHEBI_33696
+0	69	73 Acid	Chemical	CHEBI_37527
+0	CHEBI-CHEBI	CHEBI_33696	CHEBI_37527
+
+1|chunk|We have developed a full genome virus detection process that combines sensitive nucleic acid preparation optimised for virus identification in fecal material with Illumina MiSeq sequencing and a novel post-sequencing virus identification algorithm. Enriched viral nucleic acid was converted to double-stranded DNA and subjected to Illumina MiSeq sequencing. The resulting short reads were processed with a novel iterative Python algorithm SLIM for the identification of sequences with homology to known viruses. De novo assembly was then used to generate full viral genomes. The sensitivity of this process was demonstrated with a set of fecal samples from HIV-1 infected patients. A quantitative assessment of the mammalian, plant, and bacterial virus content of this compartment was generated and the deep sequencing data were sufficient to assembly 12 complete viral genomes from 6 virus families. The method detected high levels of enteropathic viruses that are normally controlled in healthy adults, but may be involved in the pathogenesis of HIV-1 infection and will provide a powerful tool for virus detection and for analyzing changes in the fecal virome associated with HIV-1 progression and pathogenesis.
+1	80	92 nucleic acid	Chemical	CHEBI_33696
+1	88	92 acid	Chemical	CHEBI_37527
+1	264	276 nucleic acid	Chemical	CHEBI_33696
+1	272	276 acid	Chemical	CHEBI_37527
+1	294	313 double-stranded DNA	Chemical	CHEBI_4705
+1	310	313 DNA	Chemical	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_33696	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33696	CHEBI_4705
+1	CHEBI-CHEBI	CHEBI_33696	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_4705
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_4705	CHEBI_16991
+

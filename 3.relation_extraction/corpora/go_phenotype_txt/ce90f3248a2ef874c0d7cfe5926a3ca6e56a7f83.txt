@@ -1,0 +1,31 @@
+0|chunk|Correlation of cytokine level with the severity of severe fever with thrombocytopenia syndrome
+0	39	47 severity	Phenotype	HP_0012824
+0	51	57 severe	Phenotype	HP_0012828
+0	58	63 fever	Phenotype	HP_0001945
+0	69	85 thrombocytopenia	Phenotype	HP_0001873
+
+1|chunk|Background: Severe fever with thrombocytopenia syndrome (SFTS) was an emerging hemorrhagic fever that was caused by a tick-borne bunyavirus, SFTSV. Although SFTSV nonstructural protein can inhibit type I interferon (IFN-I) production Ex Vivo and IFN-I played key role in resistance SFTSV infection in animal model, the role of IFN-I in patients is not investigated. Methods: We have assayed the concentration of IFN-, a subtype of IFN-I as well as other cytokines in the sera of SFTS patients and the healthy population with CBA (Cytometric bead array) assay.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 fever	Phenotype	HP_0001945
+1	30	46 thrombocytopenia	Phenotype	HP_0001873
+1	91	96 fever	Phenotype	HP_0001945
+1	472	476 sera	Gene_function	GO_0004617
+1	502	509 healthy	Phenotype	HP_0032322
+1	HP-GO	HP_0012828	GO_0004617
+1	HP-GO	HP_0001945	GO_0004617
+1	HP-GO	HP_0001873	GO_0004617
+1	GO-HP	GO_0004617	HP_0032322
+
+2|chunk|The results showed that IFN-, tumor necrosis factor (TNF-), granulocyte colony-stimulating factor (G-CSF), interferon- (IFN-), macrophage inflammatory protein (MIP-1), interleukin-6 (IL-6), IL-10, interferon-inducible protein (IP-10), monocyte chemoattractant protein (MCP-1) were significantly higher in SFTS patients than in healthy persons (p < 0.05); the concentrations of IFN-, IFN-, G-CSF, MIP-1, IL-6, and IP-10 were significant higher in severe SFTS patients than in mild SFTS patients (p < 0.05). Conclusion: The concentration of IFN- as well as other cytokines (IFN-, G-CSF, MIP-1, IL-6, and IP-10) is correlated with the severity of SFTS, suggesting that type I interferon may not be significant in resistance SFTSV infection in humans and it may play an import role in cytokine storm.
+2	31	36 tumor	Phenotype	HP_0002664
+2	37	45 necrosis	Gene_function	GO_0001906
+2	332	339 healthy	Phenotype	HP_0032322
+2	454	460 severe	Phenotype	HP_0012828
+2	483	487 mild	Phenotype	HP_0012825
+2	643	651 severity	Phenotype	HP_0012824
+2	HP-GO	HP_0002664	GO_0001906
+2	GO-HP	GO_0001906	HP_0032322
+2	GO-HP	GO_0001906	HP_0012828
+2	GO-HP	GO_0001906	HP_0012825
+2	GO-HP	GO_0001906	HP_0012824
+

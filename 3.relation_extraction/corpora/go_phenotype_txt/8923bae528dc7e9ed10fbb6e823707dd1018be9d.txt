@@ -1,0 +1,45 @@
+0|chunk|Reference gene selection for normalization of RT-qPCR gene expression data from Actinidia deliciosa leaves infected with Pseudomonas syringae pv. actinidiae OPEN
+0	54	69 gene expression	Gene_function	GO_0010467
+
+1|chunk|assessed Actinidia deliciosa leaves inoculated with two doses of Pseudomonas syringae pv. actinidiae during a period of 13 days for the expression profile of nine candidate RGs. Their expression stability was calculated using four algorithms: geNorm, NormFinder, BestKeeper and the deltaCt method. Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and protein phosphatase 2A (PP2A) were the most stable genes, while -tubulin and 7s-globulin were the less stable. Expression analysis of three target genes, chosen for RGs validation, encoding the reactive oxygen species scavenging enzymes ascorbate peroxidase (APX), superoxide dismutase (SOD) and catalase (CAT) indicated that a combination of stable RGs, such as GAPDH and PP2A, can lead to an accurate quantification of the expression levels of such target genes. The APX level varied during the experiment time course and according to the inoculum doses, whereas both SOD and CAT resulted down-regulated during the first four days, and up-regulated afterwards, irrespective of inoculum dose. These results can be useful for better elucidating the molecular interaction in the A. deliciosa/P. s. pv. actinidiae pathosystem and for RGs selection in bacteria-plant pathosystems.
+1	351	373 protein phosphatase 2A	Gene_function	GO_0050115
+1	359	370 phosphatase	Gene_function	GO_0016791
+1	395	401 stable	Phenotype	HP_0031915
+1	455	461 stable	Phenotype	HP_0031915
+1	639	642 SOD	Gene_function	GO_0004784
+1	658	661 CAT	Gene_function	GO_0004096
+1	695	701 stable	Phenotype	HP_0031915
+1	922	925 SOD	Gene_function	GO_0004784
+1	930	933 CAT	Gene_function	GO_0004096
+1	GO-HP	GO_0050115	HP_0031915
+1	GO-HP	GO_0016791	HP_0031915
+1	HP-GO	HP_0031915	GO_0004784
+1	HP-GO	HP_0031915	GO_0004096
+
+2|chunk|Gene expression analysis is an important tool that is employed to elucidate the complex regulatory networks of the genetic, signalling and metabolic pathway mechanisms that underlie plant-pathogen interactions 1 . Although gene expression microarrays are an ideal tool to provide a snapshot of the global gene transcriptional activity, reverse transcription quantitative real-time polymerase chain reaction (RT-qPCR) assays are normally used to verify results on a smaller scale due to its high sensitivity, high specificity and good reproducibility 2 . RT-qPCR is used to determine the fold change of the expression of genes of interest (GOIs) or as a technique to confirm the results of differential protein studies obtained by proteomic analyses 3 . However, to improve RT-qPCR accuracy and reliability, a strategy aimed at normalizing gene expression data is required. Normalization can correct the variation associated with variability occurring in the experimental procedures (i.e., sample quantification errors, variation between samples) 4,5 . Generally, the use of reference genes (RGs) as internal controls is the most common method Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (for normalizing data in gene expression experiments, so each RGs should be validated for particular tissue, cell and experimental conditions. RGs are internal controls that are exposed to assay conditions similar to the gene of interest. Ideally, the expression profile of the RGs should not be influenced by the conditions of the experiment. Usually, the main candidate RGs are involved in general cell metabolism pathways and are widely used in plant, animal and fungal systems 6-10 . In some plant pathosystems, transcriptomic technologies, such as microarray, qPCR and RT-qPCR, have identified the molecular mechanisms that are activated upon infection and maintained during pathogenesis that are responsible for disease symptom development, resistance and basal defence 1,11,12 . Moreover, several studies have analysed the stability of candidate RGs in some pathosystems, demonstrating that some RGs show a certain degree of variability. In fact, plant pathogens, such as viruses, bacteria and fungi, can induce metabolic alterations and gene expression reprogramming in different organs of the host plant, thus modifying the expression of RGs [13] [14] [15] [16] . There are few studies aimed at identifying putative RGs that can be used in transcriptomic analyses for plant pathogenic bacteria, including Citrus spp., such as Xanthomonas citri 17 , Xylella fastidiosa and Candidatus Liberibacter asiaticus 18 , and potato, such as Pectobacterium atrosepticum 19 . Regarding phytopathogenic pseudomonads, a study has been performed with the model plant Arabidopsis thaliana and virulent and avirulent strains of Pseudomonas syringae 6 . P. s. pv. actinidiae (PSA) is the causal agent for bacterial canker of both the yellow-fleshed (Actinidia chinensis) and green-fleshed (A. deliciosa) kiwifruit, and it is currently causing severe economic losses worldwide 20 . This pathogen, most probably, originated in China 21-23 and shows a diverse population structure 24 . Proteomic studies revealed the involvement of multiple classes of proteins that are differentially expressed by the plant and the pathogen occurring over a period of weeks after inoculation, as demonstrated by its necrotic or hemibiotrophic phase 25, 26 . So far, detailed transcriptomic analyses performed during the early stages of plant colonization have not be released, and a selection of RGs for the normalization of qPCR and RT-qPCR gene expression would be useful to standardize and compare the data. In this study, several algorithms such as geNorm 27 , NormFinder 28 , BestKeeper 29 and the deltaCt method 30 were employed to assess the expression stability of nine RGs belong to different functional and abundance classes to significantly reduce the chance that they are co-regulated. Four of these genes were used in previous studies as RGs for kiwifruit: actin (ACT) 31,32 , eukaryotic elongation factor 1 (eEF-1a) 33 , protein phosphatase 2A (PP2A) 33 and ubiquitin conjugating enzyme 9 (UBC9) 34 . Other genes were described as RGs, either to pathosystems or biotic stress: glyceraldehyde-3-phosphate dehydrogenase (GAPDH) 35 , SAND family protein (SAND) 13,16,36 ,  -tubulin (TUB) 14,36 , 7s-globulin (GLO7A) 37 and cyclophilin (CYP) 38,39 .
+2	0	15 Gene expression	Gene_function	GO_0010467
+2	124	134 signalling	Gene_function	GO_0023052
+2	223	238 gene expression	Gene_function	GO_0010467
+2	336	357 reverse transcription	Gene_function	GO_0001171
+2	839	854 gene expression	Gene_function	GO_0010467
+2	1242	1257 gene expression	Gene_function	GO_0010467
+2	1622	1632 metabolism	Gene_function	GO_0008152
+2	1897	1909 pathogenesis	Gene_function	GO_0009405
+2	2262	2277 gene expression	Gene_function	GO_0010467
+2	3051	3057 severe	Phenotype	HP_0012828
+2	3631	3646 gene expression	Gene_function	GO_0010467
+2	4125	4147 protein phosphatase 2A	Gene_function	GO_0050115
+2	4133	4144 phosphatase	Gene_function	GO_0016791
+2	4162	4171 ubiquitin	Gene_function	GO_0031386
+2	GO-HP	GO_0010467	HP_0012828
+2	GO-HP	GO_0023052	HP_0012828
+2	GO-HP	GO_0001171	HP_0012828
+2	GO-HP	GO_0008152	HP_0012828
+2	GO-HP	GO_0009405	HP_0012828
+2	HP-GO	HP_0012828	GO_0050115
+2	HP-GO	HP_0012828	GO_0016791
+2	HP-GO	HP_0012828	GO_0031386
+
+3|chunk|Here, we assessed nine candidate RGs for RT-qPCR normalization of gene expression in A. deliciosa leaves during the first period of interaction (13 dpi) with PSA.
+3	66	81 gene expression	Gene_function	GO_0010467
+

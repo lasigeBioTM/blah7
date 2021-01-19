@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="ee55aea26f816403476a7cb71816b8ecb1110329">
+  <chunk id="ee55aea26f816403476a7cb71816b8ecb1110329.c0" text="iNR-Drug: Predicting the Interaction of Drugs with Nuclear Receptors in Cellular Networking">
+    <entity charOffset="40-45" id="ee55aea26f816403476a7cb71816b8ecb1110329.c0.e0" ontology_id="CHEBI_23888" text="Drugs" type="chemical"/>
+  </chunk>
+  <chunk id="ee55aea26f816403476a7cb71816b8ecb1110329.c1" text="Nuclear receptors (NRs) are closely associated with various major diseases such as cancer, diabetes, inflammatory disease, and osteoporosis. Therefore, NRs have become a frequent target for drug development. During the process of developing drugs against these diseases by targeting NRs, we are often facing a problem: Given a NR and chemical compound, can we identify whether they are really in interaction with each other in a cell? To address this problem, a predictor called &quot;iNR-Drug&quot; was developed. In the predictor, the drug compound concerned was formulated by a 256-D (dimensional) vector derived from its molecular fingerprint, and the NR by a 500-D vector formed by incorporating its sequential evolution information and physicochemical features into the general form of pseudo amino acid composition, and the prediction engine was operated by the SVM (support vector machine) algorithm. Compared with the existing prediction methods in this area, iNR-Drug not only can yield a higher success rate, but is also featured by a user-friendly web-server established at http://www.jci-bioinfo.cn/iNR-Drug/, which is particularly useful for most experimental scientists to obtain their desired data in a timely manner. It is anticipated that the iNR-Drug server may become a useful high throughput tool for both basic research and drug development, and that the current approach may be easily extended to study the interactions of drug with other targets as well.">
+    <entity charOffset="190-194" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="241-246" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e1" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="527-531" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="789-794" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e3" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="789-799" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e4" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="795-799" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e5" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="1336-1340" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e6" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="1436-1440" id="ee55aea26f816403476a7cb71816b8ecb1110329.c1.e7" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="ee55aea26f816403476a7cb71816b8ecb1110329.c2" text="Int. J. Mol. Sci. 2014, 15 4916 "/>
+</document>

@@ -1,0 +1,20 @@
+0|chunk|Programmed 2/1 Ribosomal Frameshifting in Simarteriviruses: an Evolutionarily Conserved Mechanism
+0	17	40 Ribosomal Frameshifting	Gene_function	GO_0075523
+
+1|chunk|The 2/1 programmed ribosomal frameshifting (2/1 PRF) mechanism in porcine reproductive and respiratory syndrome virus (PRRSV) leads to the translation of two additional viral proteins, nonstructural protein 2TF (nsp2TF) and nsp2N. This 2/1 PRF mechanism is transactivated by a viral protein, nsp1, and cellular poly(rC) binding proteins (PCBPs). Critical elements for 2/1 PRF, including a slippery sequence and a downstream C-rich motif, were also identified in 11 simarteriviruses. However, the slippery sequences (XXXUCUCU instead of XXXUUUUU) in seven simarteriviruses can only facilitate 2 PRF to generate nsp2TF. The nsp1 of simian hemorrhagic fever virus (SHFV) was identified as a key factor that transactivates both 2 and 1 PRF, and the universally conserved Tyr111 and Arg114 in nsp1 are essential for this activity. In vitro translation experiments demonstrated the involvement of PCBPs in simarterivirus 2/1 PRF. Using SHFV reverse genetics, we confirmed critical roles of nsp1, slippery sequence, and C-rich motif in 2/1 PRF in SHFV-infected cells. Attenuated virus growth ability was observed in SHFV mutants with impaired expression of nsp2TF and nsp2N. Comparative genomic sequence analysis showed that key elements of 2/1 PRF are highly conserved in all known arteriviruses except equine arteritis virus (EAV) and wobbly possum disease virus (WPDV). Furthermore, 2/1 PRF with SHFV PRF signal RNA can be stimulated by heterotypic nsp1s of all non-EAV arteriviruses tested. Taken together, these data suggest that 2/1 PRF is an evolutionarily conserved mechanism employed in non-EAV/-WPDV arteriviruses for the expression of additional viral proteins that are important for viral replication.
+1	21	44 ribosomal frameshifting	Gene_function	GO_0075523
+1	143	154 translation	Gene_function	GO_0006412
+1	327	334 binding	Gene_function	GO_0005488
+1	660	665 fever	Phenotype	HP_0001945
+1	849	860 translation	Gene_function	GO_0006412
+1	1097	1103 growth	Gene_function	GO_0040007
+1	1325	1334 arteritis	Phenotype	HP_0012089
+1	GO-HP	GO_0075523	HP_0001945
+1	GO-HP	GO_0075523	HP_0012089
+1	GO-HP	GO_0006412	HP_0001945
+1	GO-HP	GO_0006412	HP_0012089
+1	GO-HP	GO_0005488	HP_0001945
+1	GO-HP	GO_0005488	HP_0012089
+1	HP-GO	HP_0001945	GO_0040007
+1	GO-HP	GO_0040007	HP_0012089
+

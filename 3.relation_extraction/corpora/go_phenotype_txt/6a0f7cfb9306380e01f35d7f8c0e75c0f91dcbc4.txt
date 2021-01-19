@@ -1,0 +1,34 @@
+0|chunk|Identification of two mutation sites in spike and envelope proteins mediating optimal cellular infection of porcine epidemic diarrhea virus from different pathways
+0	50	58 envelope	Gene_function	GO_0031975
+0	125	133 diarrhea	Phenotype	HP_0002014
+0	GO-HP	GO_0031975	HP_0002014
+
+1|chunk|Entry of the -coronavirus porcine epidemic diarrhea virus (PEDV) requires specific proteases to activate spike (S) protein for the membrane fusion of the virion to the host cell following receptor binding. Herein, PEDV isolate 85-7 could proliferate and induce cell-cell fusion in a trypsin independent manner on Vero cells, and eight homologous mutation strains were screened by continuous proliferation in the absence of trypsin on Vero cells. According to the whole genome sequence comparative analysis, we identified four major variations located in nonstructural protein 2, S, open reading frame 3, and envelope (E) genes, respectively. Comparative analyses of their genomic variations and proliferation characteristics identified a single mutation within the S2 cleavage site between C30 and C40 mutants: the substitution of conserved arginine (R) by a glycine (G) (R895G). This change resulted in weaker cell-cell fusion, smaller plaque morphology, higher virus titer and serious microfilament condensation. Further analysis confirmed that this mutation was responsible for optimal cell-adaptation, but not the determinant for trypsin-dependent entry of PEDV. Otherwise, a novel variation (16-20 aa deletion and an L25P mutation) in the transmembrane domain of the E protein affected multiple infection processes, including up-regulation of the production of the ER stress indicator GRP78, improving the expression of pro-inflammatory cytokines IL-6 and IL-8, and promoting apoptosis. The results of this study provide a better understanding of the potential mechanisms of viral functional proteins in PEDV replication, infection, and fitness.
+1	44	52 diarrhea	Phenotype	HP_0002014
+1	132	140 membrane	Gene_function	GO_0016020
+1	132	147 membrane fusion	Gene_function	GO_0061025
+1	155	161 virion	Gene_function	GO_0019012
+1	169	178 host cell	Gene_function	GO_0043657
+1	262	278 cell-cell fusion	Gene_function	GO_0140253
+1	609	617 envelope	Gene_function	GO_0031975
+1	913	929 cell-cell fusion	Gene_function	GO_0140253
+1	989	1002 microfilament	Gene_function	GO_0005884
+1	1246	1259 transmembrane	Gene_function	GO_0016021
+1	1284	1292 affected	Phenotype	HP_0032320
+1	HP-GO	HP_0002014	GO_0016020
+1	HP-GO	HP_0002014	GO_0061025
+1	HP-GO	HP_0002014	GO_0019012
+1	HP-GO	HP_0002014	GO_0043657
+1	HP-GO	HP_0002014	GO_0140253
+1	HP-GO	HP_0002014	GO_0031975
+1	HP-GO	HP_0002014	GO_0005884
+1	HP-GO	HP_0002014	GO_0016021
+1	GO-HP	GO_0016020	HP_0032320
+1	GO-HP	GO_0061025	HP_0032320
+1	GO-HP	GO_0019012	HP_0032320
+1	GO-HP	GO_0043657	HP_0032320
+1	GO-HP	GO_0140253	HP_0032320
+1	GO-HP	GO_0031975	HP_0032320
+1	GO-HP	GO_0005884	HP_0032320
+1	GO-HP	GO_0016021	HP_0032320
+

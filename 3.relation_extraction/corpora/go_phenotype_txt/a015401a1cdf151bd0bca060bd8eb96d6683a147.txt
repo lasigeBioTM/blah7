@@ -1,0 +1,20 @@
+0|chunk|Identification, Characterization and Application of a G- Quadruplex Structured DNA Aptamer against Cancer Biomarker Protein Anterior Gradient Homolog 2
+0	99	105 Cancer	Phenotype	HP_0002664
+
+1|chunk|Background: Anterior gradient homolog 2 (AGR2) is a functional protein with critical roles in a diverse range of biological systems, including vertebrate tissue development, inflammatory tissue injury responses, and cancer progression. Clinical studies have shown that the AGR2 protein is overexpressed in a wide range of human cancers, including carcinomas of the esophagus, pancreas, breast, prostate, and lung, making the protein as a potential cancer biomarker. However, the general biochemical functions of AGR2 in human cells remain undefined, and the signaling mechanisms that drive AGR2 to inhibit p53 are still not clearly illustrated. Therefore, it is of great interest to develop molecular probes specifically recognizing AGR2 for its detection and for the elucidation of AGR2-associated molecular mechanism.
+1	216	222 cancer	Phenotype	HP_0002664
+1	448	454 cancer	Phenotype	HP_0002664
+1	558	567 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0002664	GO_0023052
+
+2|chunk|Methodology/Principal Findings: Through a bead-based and flow cytometry monitored SELEX technology, we have identified a group of DNA aptamers that can specifically bind to AGR2 with K d values in the nanomolar range after 14 rounds of selections. Aptamer C14B was chosen to further study, due to its high binding affinity and specificity. The optimized and shortened C14B1 has special G-rich characteristics, and the G-rich region of this binding motif was further characterized to reveal an intramolecular parallel G-quadruplex by CD spectroscopy and UV spectroscopy. Our experiments confirmed that the stability of the G-quadruplex structure was strongly dependent on the nature of the monovalent ions and the formation of G-quadruplex structure was also important for the binding capacity of C14B1 to the target. Furthermore, we have designed a kind of allosteric molecule beacon (aMB) probe for selective and sensitive detection of AGR2.
+2	306	313 binding	Gene_function	GO_0005488
+2	440	447 binding	Gene_function	GO_0005488
+2	776	783 binding	Gene_function	GO_0005488
+
+3|chunk|Conclusion/Significance: In this work, we have developed new aptamer probes for specific recognition of the AGR2. Structural study have identified that the binding motif of aptamer is an intramolecular parallel G-quadruplex structure and its structure and binding affinity are strongly dependent on the nature of the monovalent ion. Furthermore, with our design of AGR2-aMB, AGR2 could be sensitively and selectively detected. This aptamer probe has great potential to serve as a useful tool for early diagnosis and prognosis of cancer and for fundamental research to elucidate the biochemical functions of AGR2.
+3	156	163 binding	Gene_function	GO_0005488
+3	256	263 binding	Gene_function	GO_0005488
+3	529	535 cancer	Phenotype	HP_0002664
+3	GO-HP	GO_0005488	HP_0002664
+

@@ -1,0 +1,12 @@
+0|chunk|Inference of R 0 and Transmission Heterogeneity from the Size Distribution of Stuttering Chains
+0	78	88 Stuttering	Disease	DOID_0060243
+
+1|chunk|For many infectious disease processes such as emerging zoonoses and vaccine-preventable diseases, 0vR 0 v1 and infections occur as self-limited stuttering transmission chains. A mechanistic understanding of transmission is essential for characterizing the risk of emerging diseases and monitoring spatio-temporal dynamics. Thus methods for inferring R 0 and the degree of heterogeneity in transmission from stuttering chain data have important applications in disease surveillance and management. Previous researchers have used chain size distributions to infer R 0 , but estimation of the degree of individual-level variation in infectiousness (as quantified by the dispersion parameter, k) has typically required contact tracing data. Utilizing branching process theory along with a negative binomial offspring distribution, we demonstrate how maximum likelihood estimation can be applied to chain size data to infer both R 0 and the dispersion parameter that characterizes heterogeneity. While the maximum likelihood value for R 0 is a simple function of the average chain size, the associated confidence intervals are dependent on the inferred degree of transmission heterogeneity. As demonstrated for monkeypox data from the Democratic Republic of Congo, this impacts when a statistically significant change in R 0 is detectable. In addition, by allowing for superspreading events, inference of k shifts the threshold above which a transmission chain should be considered anomalously large for a given value of R 0 (thus reducing the probability of false alarms about pathogen adaptation). Our analysis of monkeypox also clarifies the various ways that imperfect observation can impact inference of transmission parameters, and highlights the need to quantitatively evaluate whether observation is likely to significantly bias results.
+1	9	27 infectious disease	Disease	DOID_0050117
+1	20	27 disease	Disease	DOID_4
+1	144	154 stuttering	Disease	DOID_0060243
+1	407	417 stuttering	Disease	DOID_0060243
+1	460	467 disease	Disease	DOID_4
+1	1206	1215 monkeypox	Disease	DOID_3292
+1	1611	1620 monkeypox	Disease	DOID_3292
+

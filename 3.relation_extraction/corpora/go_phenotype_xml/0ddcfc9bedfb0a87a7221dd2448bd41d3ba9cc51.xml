@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51">
+  <chunk id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c0" text="How Can Viral Dynamics Models Inform Endpoint Measures in Clinical Trials of Therapies for Acute Viral Infections?">
+    <entity charOffset="91-96" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c0.e0" ontology_id="HP_0011009" text="Acute" type="phenotype"/>
+  </chunk>
+  <chunk id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1" text="Acute viral infections pose many practical challenges for the accurate assessment of the impact of novel therapies on viral growth and decay. Using the example of influenza A, we illustrate how the measurement of infection-related quantities that determine the dynamics of viral load within the human host, can inform investigators on the course and severity of infection and the efficacy of a novel treatment. We estimated the values of key infectionrelated quantities that determine the course of natural infection from viral load data, using Markov Chain Monte Carlo methods. The data were placebo group viral load measurements collected during volunteer challenge studies, conducted by Roche, as part of the oseltamivir trials. We calculated the values of the quantities for each patient and the correlations between the quantities, symptom severity and body temperature. The greatest variation among individuals occurred in the viral load peak and area under the viral load curve. Total symptom severity correlated positively with the basic reproductive number. The most sensitive endpoint for therapeutic trials with the goal to cure patients is the duration of infection. We suggest laboratory experiments to obtain more precise estimates of virological quantities that can supplement clinical endpoint measurements.">
+    <entity charOffset="0-5" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e0" ontology_id="HP_0011009" text="Acute" type="phenotype"/>
+    <entity charOffset="124-130" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e1" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="350-358" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e2" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="845-853" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e3" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="1000-1008" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e4" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <pair e1="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e0" e2="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e1" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.p0" relation="true"/>
+    <pair e1="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e1" e2="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e2" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.p1" relation="true"/>
+    <pair e1="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e1" e2="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e3" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.p2" relation="true"/>
+    <pair e1="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e1" e2="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.e4" id="0ddcfc9bedfb0a87a7221dd2448bd41d3ba9cc51.c1.p3" relation="true"/>
+  </chunk>
+</document>

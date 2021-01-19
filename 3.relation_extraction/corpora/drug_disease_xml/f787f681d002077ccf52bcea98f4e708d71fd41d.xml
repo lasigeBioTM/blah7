@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="f787f681d002077ccf52bcea98f4e708d71fd41d">
+  <chunk id="f787f681d002077ccf52bcea98f4e708d71fd41d.c0" text="The Effect of Contact Investigations and Public Health Interventions in the Control and Prevention of Measles Transmission: A Simulation Study">
+    <entity charOffset="102-109" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c0.e0" ontology_id="DOID_8622" text="Measles" type="disease"/>
+  </chunk>
+  <chunk id="f787f681d002077ccf52bcea98f4e708d71fd41d.c1" text="Measles cases continue to occur despite its elimination status in the United States. To control transmission, public health officials confirm the measles diagnosis, identify close contacts of infectious cases, deliver public health interventions (i.e., post-exposure prophylaxis) among those who are eligible, and follow-up with the close contacts to determine overall health outcomes. A stochastic network simulation of measles contact tracing was conducted using existing agent-based modeling software and a synthetic population with high levels of immunity in order to estimate the impact of different interventions in controlling measles transmission.">
+    <entity charOffset="0-7" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c1.e0" ontology_id="DOID_8622" text="Measles" type="disease"/>
+    <entity charOffset="146-153" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c1.e1" ontology_id="DOID_8622" text="measles" type="disease"/>
+    <entity charOffset="421-428" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c1.e2" ontology_id="DOID_8622" text="measles" type="disease"/>
+    <entity charOffset="634-641" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c1.e3" ontology_id="DOID_8622" text="measles" type="disease"/>
+  </chunk>
+  <chunk id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2" text="The synthetic population was created to simulate California's population in terms of population demographics, household, workplace, school, and neighborhood characteristics using California Department of Finance 2010 census data. Parameters for the model were obtained from a review of the literature, California measles case surveillance data, and expert opinion. Eight different scenarios defined by the use of three different public health interventions were evaluated: (a) post-exposure measles, mumps, and rubella (MMR) vaccine, (b) post-exposure immune globulin (IG), and (c) voluntary isolation and home quarantine in the presence or absence of public health response delays. Voluntary isolation and home quarantine coupled with one or two other interventions had the greatest reduction in the number of secondary cases infected by the index case and the probability of escape situations (i.e., the outbreak continues after 90 days).">
+    <entity charOffset="313-320" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e0" ontology_id="DOID_8622" text="measles" type="disease"/>
+    <entity charOffset="491-498" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e1" ontology_id="DOID_8622" text="measles" type="disease"/>
+    <entity charOffset="511-518" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e2" ontology_id="DOID_8781" text="rubella" type="disease"/>
+    <entity charOffset="606-610" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e3" ontology_id="CHEBI_75830" text="home" type="chemical"/>
+    <entity charOffset="707-711" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e4" ontology_id="CHEBI_75830" text="home" type="chemical"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e0" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e3" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p0" relation="true"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e0" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e4" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p1" relation="true"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e1" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e3" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p2" relation="true"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e1" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e4" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p3" relation="true"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e2" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e3" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p4" relation="true"/>
+    <pair e1="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e2" e2="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.e4" id="f787f681d002077ccf52bcea98f4e708d71fd41d.c2.p5" relation="true"/>
+  </chunk>
+</document>

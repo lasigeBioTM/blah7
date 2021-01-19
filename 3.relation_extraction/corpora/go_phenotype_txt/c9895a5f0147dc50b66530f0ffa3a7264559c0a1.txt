@@ -1,0 +1,25 @@
+0|chunk|Determining the molecular drivers of species- specific interferon-stimulated gene product 15 interactions with nairovirus ovarian tumor domain proteases
+0	122	135 ovarian tumor	Phenotype	HP_0100615
+0	130	135 tumor	Phenotype	HP_0002664
+
+1|chunk|Tick-borne nairoviruses (order Bunyavirales) encode an ovarian tumor domain protease (OTU) that suppresses the innate immune response by reversing the post-translational modification of proteins by ubiquitin (Ub) and interferon-stimulated gene product 15 (ISG15). Ub is highly conserved across eukaryotes, whereas ISG15 is only present in vertebrates and shows substantial sequence diversity. Prior attempts to address the effect of ISG15 diversity on viral protein-ISG15 interactions have focused on only a single species' ISG15 or a limited selection of nairovirus OTUs. To gain a more complete perspective of OTU-ISG15 interactions, we biochemically assessed the relative activities of 14 diverse nairovirus OTUs for 12 species' ISG15 and found that ISG15 activity is predominantly restricted to particular nairovirus lineages reflecting, in general, known virus-host associations. To uncover the underlying molecular factors driving OTUs affinity for ISG15, X-ray crystal structures of Kupe virus and Ganjam virus OTUs bound to sheep ISG15 were solved and compared to complexes of Crimean-Congo hemorrhagic fever virus and Erve virus OTUs bound to human and mouse ISG15, respectively. Through mutational and structural analysis seven residues in ISG15 were identified that predominantly influence ISG15 species specificity among nairovirus OTUs. Additionally, OTU residues were identified that influence ISG15 preference, suggesting the potential for viral OTUs to adapt to different host ISG15s. These findings provide a foundation to further develop research methods to trace nairovirus-host relationships and delineate the full impact of ISG15 diversity on nairovirus infection.
+1	55	68 ovarian tumor	Phenotype	HP_0100615
+1	63	68 tumor	Phenotype	HP_0002664
+1	111	133 innate immune response	Gene_function	GO_0045087
+1	118	133 immune response	Gene_function	GO_0006955
+1	151	182 post-translational modification	Gene_function	GO_0043687
+1	198	207 ubiquitin	Gene_function	GO_0031386
+1	1111	1116 fever	Phenotype	HP_0001945
+1	HP-GO	HP_0100615	GO_0045087
+1	HP-GO	HP_0100615	GO_0006955
+1	HP-GO	HP_0100615	GO_0043687
+1	HP-GO	HP_0100615	GO_0031386
+1	HP-GO	HP_0002664	GO_0045087
+1	HP-GO	HP_0002664	GO_0006955
+1	HP-GO	HP_0002664	GO_0043687
+1	HP-GO	HP_0002664	GO_0031386
+1	GO-HP	GO_0045087	HP_0001945
+1	GO-HP	GO_0006955	HP_0001945
+1	GO-HP	GO_0043687	HP_0001945
+1	GO-HP	GO_0031386	HP_0001945
+

@@ -1,0 +1,33 @@
+0|chunk|FTY720 (fingolimod) modulates the severity of viral-induced encephalomyelitis and demyelination
+0	34	42 severity	Phenotype	HP_0012824
+0	82	95 demyelination	Phenotype	HP_0011096
+
+1|chunk|Background: FTY720 (fingolimod) is the first oral drug approved by the Food and Drug Administration for treatment of patients with the relapsing-remitting form of the human demyelinating disease multiple sclerosis. Evidence suggests that the therapeutic benefit of FTY720 occurs by preventing the egress of lymphocytes from lymph nodes thereby inhibiting the infiltration of disease-causing lymphocytes into the central nervous system (CNS). We hypothesized that FTY720 treatment would affect lymphocyte migration to the CNS and influence disease severity in a mouse model of viral-induced neurologic disease.
+1	412	419 central	Phenotype	HP_0030645
+1	493	513 lymphocyte migration	Gene_function	GO_0072676
+1	547	555 severity	Phenotype	HP_0012824
+1	HP-GO	HP_0030645	GO_0072676
+1	GO-HP	GO_0072676	HP_0012824
+
+2|chunk|Methods: Mice were infected intracranially with the neurotropic JHM strain of mouse hepatitis virus. Infected animals were treated with increasing doses (1, 3 and 10 mg/kg) of FTY720 and morbidity and mortality recorded. Infiltration of inflammatory virus-specific T cells (tetramer staining) into the CNS of FTY720-treated mice was determined using flow cytometry. The effects of FTY720 treatment on virus-specific T cell proliferation, cytokine production and cytolytic activity were also determined. The severity of neuroinflammation and demyelination in FTY720-treated mice was examined by flow cytometry and histopathologically, respectively, in the spinal cords of the mice. Results: Administration of FTY720 to JHMV-infected mice resulted in increased clinical disease severity and mortality. These results correlated with impaired ability to control viral replication (P < 0.05) within the CNS at days 7 and 14 post-infection, which was associated with diminished accumulation of virus-specific CD4+ and CD8+ T cells (P < 0.05) into the CNS. Reduced neuroinflammation in FTY720-treated mice correlated with increased retention of T lymphocytes within draining cervical lymph nodes (P < 0.05). Treatment with FTY720 did not affect virus-specific T cell proliferation, expression of IFN-, TNF- or cytolytic activity. FTY720-treated mice exhibited a reduction in the severity of demyelination associated with dampened neuroinflammation.
+2	84	93 hepatitis	Phenotype	HP_0012115
+2	416	436 T cell proliferation	Gene_function	GO_0042098
+2	438	457 cytokine production	Gene_function	GO_0001816
+2	507	515 severity	Phenotype	HP_0012824
+2	541	554 demyelination	Phenotype	HP_0011096
+2	776	784 severity	Phenotype	HP_0012824
+2	1253	1273 T cell proliferation	Gene_function	GO_0042098
+2	1374	1382 severity	Phenotype	HP_0012824
+2	1386	1399 demyelination	Phenotype	HP_0011096
+2	HP-GO	HP_0012115	GO_0042098
+2	HP-GO	HP_0012115	GO_0001816
+2	GO-HP	GO_0042098	HP_0012824
+2	GO-HP	GO_0042098	HP_0011096
+2	GO-HP	GO_0001816	HP_0012824
+2	GO-HP	GO_0001816	HP_0011096
+
+3|chunk|Conclusion: These findings indicate that FTY720 mutes effective anti-viral immune responses through impacting migration and accumulation of virus-specific T cells within the CNS during acute viral-induced encephalomyelitis. FTY720 treatment reduces the severity of neuroinflammatory-mediated demyelination by restricting the access of disease-causing lymphocytes into the CNS but is not associated with viral recrudescence in this model.
+3	185	190 acute	Phenotype	HP_0011009
+3	253	261 severity	Phenotype	HP_0012824
+3	292	305 demyelination	Phenotype	HP_0011096
+

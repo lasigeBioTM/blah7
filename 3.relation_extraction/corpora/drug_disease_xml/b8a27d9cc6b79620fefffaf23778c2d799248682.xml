@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="b8a27d9cc6b79620fefffaf23778c2d799248682">
+  <chunk id="b8a27d9cc6b79620fefffaf23778c2d799248682.c0" text="Towards Identifying and Reducing the Bias of Disease Information Extracted from Search Engine Data">
+    <entity charOffset="45-52" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c0.e0" ontology_id="DOID_4" text="Disease" type="disease"/>
+  </chunk>
+  <chunk id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1" text="The estimation of disease prevalence in online search engine data (e.g., Google Flu Trends (GFT)) has received a considerable amount of scholarly and public attention in recent years. While the utility of search engine data for disease surveillance has been demonstrated, the scientific community still seeks ways to identify and reduce biases that are embedded in search engine data. The primary goal of this study is to explore new ways of improving the accuracy of disease prevalence estimations by combining traditional disease data with search engine data. A novel method, Biased Sentinel Hospital-based Area Disease Estimation (B-SHADE), is introduced to reduce search engine data bias from a geographical perspective. To monitor search trends on Hand, Foot and Mouth Disease (HFMD) in Guangdong Province, China, we tested our approach by selecting 11 keywords from the Baidu index platform, a Chinese big data analyst similar to GFT. The correlation between the number of real cases and the composite index was 0.8. After decomposing the composite index at the city level, we found that only 10 cities presented a correlation of close to 0.8 or higher. These cities were found to be more stable with respect to search volume, and they were selected as sample cities in order to estimate the search volume of the entire province. After the estimation, the correlation improved from 0.8 to 0.864. After fitting the revised search volume with historical cases, the mean absolute error was 11.19% lower than it was when the original search volume and historical cases were combined. To our knowledge, this is the first study to reduce search engine data bias levels through the use of rigorous spatial sampling strategies.">
+    <entity charOffset="18-25" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="80-83" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e1" ontology_id="DOID_8469" text="Flu" type="disease"/>
+    <entity charOffset="228-235" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="468-475" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e3" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="524-531" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="614-621" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e5" ontology_id="DOID_4" text="Disease" type="disease"/>
+    <entity charOffset="768-781" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e6" ontology_id="DOID_403" text="Mouth Disease" type="disease"/>
+    <entity charOffset="774-781" id="b8a27d9cc6b79620fefffaf23778c2d799248682.c1.e7" ontology_id="DOID_4" text="Disease" type="disease"/>
+  </chunk>
+  <chunk id="b8a27d9cc6b79620fefffaf23778c2d799248682.c2" text="PLOS Computational Biology |"/>
+</document>

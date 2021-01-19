@@ -1,0 +1,11 @@
+0|chunk|Automated vocabulary discovery for geo-parsing online epidemic intelligence
+
+1|chunk|Background: Automated surveillance of the Internet provides a timely and sensitive method for alerting on global emerging infectious disease threats. HealthMap is part of a new generation of online systems designed to monitor and visualize, on a real-time basis, disease outbreak alerts as reported by online news media and public health sources. HealthMap is of specific interest for national and international public health organizations and international travelers. A particular task that makes such a surveillance useful is the automated discovery of the geographic references contained in the retrieved outbreak alerts. This task is sometimes referred to as "geo-parsing". A typical approach to geo-parsing would demand an expensive training corpus of alerts manually tagged by a human.
+1	122	140 infectious disease	Disease	DOID_0050117
+1	133	140 disease	Disease	DOID_4
+1	263	270 disease	Disease	DOID_4
+
+2|chunk|Given that human readers perform this kind of task by using both their lexical and contextual knowledge, we developed an approach which relies on a relatively small expert-built gazetteer, thus limiting the need of human input, but focuses on learning the context in which geographic references appear. We show in a set of experiments, that this approach exhibits a substantial capacity to discover geographic locations outside of its initial lexicon.
+
+3|chunk|The results of this analysis provide a framework for future automated global surveillance efforts that reduce manual input and improve timeliness of reporting.
+

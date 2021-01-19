@@ -1,0 +1,11 @@
+0|chunk|BMC Bioinformatics An effective docking strategy for virtual screening based on multi-objective optimization algorithm
+0	0	3 BMC	Chemical	CHEBI_3392
+
+1|chunk|Background: Development of a fast and accurate scoring function in virtual screening remains a hot issue in current computer-aided drug research. Different scoring functions focus on diverse aspects of ligand binding, and no single scoring can satisfy the peculiarities of each target system. Therefore, the idea of a consensus score strategy was put forward. Integrating several scoring functions, consensus score re-assesses the docked conformations using a primary scoring function. However, it is not really robust and efficient from the perspective of optimization. Furthermore, to date, the majority of available methods are still based on single objective optimization design.
+1	131	135 drug	Chemical	CHEBI_23888
+1	202	208 ligand	Chemical	CHEBI_52214
+
+2|chunk|Results: In this paper, two multi-objective optimization methods, called MOSFOM, were developed for virtual screening, which simultaneously consider both the energy score and the contact score. Results suggest that MOSFOM can effectively enhance enrichment and performance compared with a single score. For three different kinds of binding sites, MOSFOM displays an excellent ability to differentiate active compounds through energy and shape complementarity. EFMOGA performed particularly well in the top 2% of database for all three cases, whereas MOEA_Nrg and MOEA_Cnt performed better than the corresponding individual scoring functions if the appropriate type of binding site was selected.
+
+3|chunk|The multi-objective optimization method was successfully applied in virtual screening with two different scoring functions that can yield reasonable binding poses and can furthermore, be ranked with the potentially compromised conformations of each compound, abandoning those conformations that can not satisfy overall objective functions.
+

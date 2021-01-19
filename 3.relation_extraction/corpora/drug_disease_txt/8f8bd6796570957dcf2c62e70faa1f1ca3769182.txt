@@ -1,0 +1,96 @@
+0|chunk|Analysis of Resistance of Ebola Virus Glycoprotein-Driven Entry Against MDL28170, An Inhibitor of Cysteine Cathepsins
+0	85	94 Inhibitor	Chemical	CHEBI_35222
+0	98	106 Cysteine	Chemical	CHEBI_15356
+
+1|chunk|Ebola virus (EBOV) infection can cause severe and frequently fatal disease in human patients. The EBOV glycoprotein (GP) mediates viral entry into host cells. For this, GP depends on priming by the pH-dependent endolysosomal cysteine proteases cathepsin B (CatB) and, to a lesser degree, cathepsin L (CatL), at least in most cell culture systems. However, there is limited information on whether and how EBOV-GP can acquire resistance to CatB/L inhibitors. Here, we addressed this question using replication-competent vesicular stomatitis virus bearing EBOV-GP. Five passages of this virus in the presence of the CatB/CatL inhibitor MDL28170 were sufficient to select resistant viral variants and sequencing revealed that all GP sequences contained a V37A mutation, which, in the context of native GP, is located in the base of the GP surface unit. In addition, some GP sequences harbored mutation S195R in the receptor-binding domain. Finally, mutational analysis demonstrated that V37A but not S195R conferred resistance against MDL28170 and other CatB/CatL inhibitors. Collectively, a single amino acid substitution in GP is sufficient to confer resistance against CatB/CatL inhibitors, suggesting that usage of CatB/CatL inhibitors for antiviral therapy may rapidly select for resistant viral variants. envelope with the limiting membrane of endolysosomes [12] , allowing delivery of the viral genome into the host cell cytoplasm. Binding and membrane fusion are carried out by different subunits of GP. The N-terminal surface unit, GP1, binds to host cell receptors via a receptor-binding domain (RBD), while the C-terminal transmembrane unit, GP2, harbors the functional elements required for membrane fusion, including a fusion peptide and heptad repeats [10] . Although GP1 can bind to attachment factors on the cell surface [13, 14] , only the interaction with the intracellular receptor Niemann-Pick C1 (NPC1) within host cell endolysosomes is essential for EBOV entry [13] [14] [15] [16] . This interaction critically depends on previous processing of EBOV-GP by the endolysosomal, pH-dependent cysteine proteases cathepsin B (CatB) and cathepsin L (CatL) [15] [16] [17] [18] . Processing removes a glycan cap and a mucin-like domain (MLD) from GP1 and results in a primed form of GP. Primed GP still contains the RBD linked to GP2 via a disulfide bond [19, 20] and can fuse the viral membrane with an endolysosomal membrane upon receipt of a trigger. However, the nature of this trigger remains to be identified [21] [22] [23] [24] .
+1	67	74 disease	Disease	DOID_4
+1	103	115 glycoprotein	Chemical	CHEBI_17089
+1	225	233 cysteine	Chemical	CHEBI_15356
+1	445	455 inhibitors	Chemical	CHEBI_35222
+1	528	538 stomatitis	Disease	DOID_9637
+1	623	632 inhibitor	Chemical	CHEBI_35222
+1	1060	1070 inhibitors	Chemical	CHEBI_35222
+1	1095	1100 amino	Chemical	CHEBI_46882
+1	1095	1105 amino acid	Chemical	CHEBI_33704
+1	1101	1105 acid	Chemical	CHEBI_37527
+1	1178	1188 inhibitors	Chemical	CHEBI_35222
+1	1225	1235 inhibitors	Chemical	CHEBI_35222
+1	1240	1249 antiviral	Chemical	CHEBI_22587
+1	1677	1685 elements	Chemical	CHEBI_33250
+1	1735	1742 peptide	Chemical	CHEBI_16670
+1	1914	1918 NPC1	Disease	DOID_0070113
+1	2106	2114 cysteine	Chemical	CHEBI_15356
+1	2210	2216 glycan	Chemical	CHEBI_18154
+1	2246	2249 MLD	Disease	DOID_10581
+1	2349	2358 disulfide	Chemical	CHEBI_48343
+1	DOID-CHEBI	DOID_4	CHEBI_17089
+1	DOID-CHEBI	DOID_4	CHEBI_15356
+1	DOID-CHEBI	DOID_4	CHEBI_35222
+1	DOID-CHEBI	DOID_4	CHEBI_46882
+1	DOID-CHEBI	DOID_4	CHEBI_33704
+1	DOID-CHEBI	DOID_4	CHEBI_37527
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_33250
+1	DOID-CHEBI	DOID_4	CHEBI_16670
+1	DOID-CHEBI	DOID_4	CHEBI_18154
+1	DOID-CHEBI	DOID_4	CHEBI_48343
+1	CHEBI-DOID	CHEBI_17089	DOID_9637
+1	CHEBI-DOID	CHEBI_17089	DOID_0070113
+1	CHEBI-DOID	CHEBI_17089	DOID_10581
+1	CHEBI-DOID	CHEBI_15356	DOID_9637
+1	CHEBI-DOID	CHEBI_15356	DOID_0070113
+1	CHEBI-DOID	CHEBI_15356	DOID_10581
+1	CHEBI-DOID	CHEBI_35222	DOID_9637
+1	CHEBI-DOID	CHEBI_35222	DOID_0070113
+1	CHEBI-DOID	CHEBI_35222	DOID_10581
+1	DOID-CHEBI	DOID_9637	CHEBI_46882
+1	DOID-CHEBI	DOID_9637	CHEBI_33704
+1	DOID-CHEBI	DOID_9637	CHEBI_37527
+1	DOID-CHEBI	DOID_9637	CHEBI_22587
+1	DOID-CHEBI	DOID_9637	CHEBI_33250
+1	DOID-CHEBI	DOID_9637	CHEBI_16670
+1	DOID-CHEBI	DOID_9637	CHEBI_18154
+1	DOID-CHEBI	DOID_9637	CHEBI_48343
+1	CHEBI-DOID	CHEBI_46882	DOID_0070113
+1	CHEBI-DOID	CHEBI_46882	DOID_10581
+1	CHEBI-DOID	CHEBI_33704	DOID_0070113
+1	CHEBI-DOID	CHEBI_33704	DOID_10581
+1	CHEBI-DOID	CHEBI_37527	DOID_0070113
+1	CHEBI-DOID	CHEBI_37527	DOID_10581
+1	CHEBI-DOID	CHEBI_22587	DOID_0070113
+1	CHEBI-DOID	CHEBI_22587	DOID_10581
+1	CHEBI-DOID	CHEBI_33250	DOID_0070113
+1	CHEBI-DOID	CHEBI_33250	DOID_10581
+1	CHEBI-DOID	CHEBI_16670	DOID_0070113
+1	CHEBI-DOID	CHEBI_16670	DOID_10581
+1	DOID-CHEBI	DOID_0070113	CHEBI_18154
+1	DOID-CHEBI	DOID_0070113	CHEBI_48343
+1	CHEBI-DOID	CHEBI_18154	DOID_10581
+1	DOID-CHEBI	DOID_10581	CHEBI_48343
+
+2|chunk|In the light of the important role of CatB/CatL in EBOV-GP-driven entry, inhibitors targeting these enzymes might hold therapeutic potential, although it should be stated that CatB/CatL dependence varies between filoviruses [25, 26] and target cell types [27] and was not observed in experimentally infected mice [28] . A previous study employed a replication-competent VSV chimera bearing EBOV-GP without MLD (VSV-EBOV) to examine resistance development against the CatB inhibitor CA074 [29] . Resistance development was observed after two passages and was due to acquisition of single amino acid substitutions at the GP1-GP2 interface which increased susceptibility of the mutant GP to processing by host cell proteases [29] . In contrast, resistance development in the context of full-length EBOV-GP and other CatB/CatL inhibitors has not been examined.
+2	7	12 light	Chemical	CHEBI_30212
+2	30	34 role	Chemical	CHEBI_50906
+2	73	83 inhibitors	Chemical	CHEBI_35222
+2	114	118 hold	Chemical	CHEBI_4471
+2	406	409 MLD	Disease	DOID_10581
+2	472	481 inhibitor	Chemical	CHEBI_35222
+2	587	592 amino	Chemical	CHEBI_46882
+2	587	597 amino acid	Chemical	CHEBI_33704
+2	593	597 acid	Chemical	CHEBI_37527
+2	823	833 inhibitors	Chemical	CHEBI_35222
+2	CHEBI-DOID	CHEBI_30212	DOID_10581
+2	CHEBI-DOID	CHEBI_50906	DOID_10581
+2	CHEBI-DOID	CHEBI_35222	DOID_10581
+2	CHEBI-DOID	CHEBI_4471	DOID_10581
+2	DOID-CHEBI	DOID_10581	CHEBI_46882
+2	DOID-CHEBI	DOID_10581	CHEBI_33704
+2	DOID-CHEBI	DOID_10581	CHEBI_37527
+
+3|chunk|Here, we show that passaging of VSV-EBOV in the presence of the CatB/CatL inhibitor MDL28170 results in rapid acquisition of a single amino acid exchange, V37A, in GP1, which confers resistance against MDL28170 and other CatB/CatL inhibitors. Author Contributions: Conceptualization, M.H. and S.P.; Formal analysis, M.H.; Investigation, M.H., S.V.K., C.F., W.M. and A.-S.M.; Methodology, M.H.; Supervision, M.H. and S.P.; Writing-original draft, M.H. and S.P.; Writing-review & editing, M.H. and S.P.
+3	74	83 inhibitor	Chemical	CHEBI_35222
+3	134	139 amino	Chemical	CHEBI_46882
+3	134	144 amino acid	Chemical	CHEBI_33704
+3	140	144 acid	Chemical	CHEBI_37527
+3	299	305 Formal	Chemical	CHEBI_48341
+

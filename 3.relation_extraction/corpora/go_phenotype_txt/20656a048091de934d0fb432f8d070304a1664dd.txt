@@ -1,0 +1,18 @@
+0|chunk|Native Tertiary Structure and Nucleoside Modifications Suppress tRNA's Intrinsic Ability to Activate the Innate Immune Sensor PKR
+
+1|chunk|Interferon inducible protein kinase PKR is an essential component of innate immunity. It is activated by long stretches of dsRNA and provides the first line of host defense against pathogens by inhibiting translation initiation in the infected cell. Many cellular and viral transcripts contain nucleoside modifications and/or tertiary structure that could affect PKR activation. We have previously demonstrated that a 59-end triphosphate-a signature of certain viral and bacterial transcripts-confers the ability of relatively unstructured model RNA transcripts to activate PKR to inhibit translation, and that this activation is abrogated by certain modifications present in cellular RNAs. In order to understand the biological implications of native RNA tertiary structure and nucleoside modifications on PKR activation, we study here the heavily modified cellular tRNAs and the unmodified or the lightly modified mitochondrial tRNAs (mt-tRNA). We find that both a T7 transcript of yeast tRNA Phe and natively extracted total bovine liver mt-tRNA activate PKR in vitro, whereas native E. coli, bovine liver, yeast, and wheat tRNA Phe do not, nor do a variety of base-or sugar-modified T7 transcripts. These results are further supported by activation of PKR by a natively folded T7 transcript of tRNA Phe in vivo supporting the importance of tRNA modification in suppressing PKR activation in cells. We also examine PKR activation by a T7 transcript of the A14G pathogenic mutant of mt-tRNA Leu , which is known to dimerize, and find that the misfolded dimeric form activates PKR in vitro while the monomeric form does not. Overall, the in vitro and in vivo findings herein indicate that tRNAs have an intrinsic ability to activate PKR and that nucleoside modifications and native RNA tertiary folding may function, at least in part, to suppress such activation, thus serving to distinguish self and non-self tRNA in innate immunity.
+1	205	216 translation	Gene_function	GO_0006412
+1	205	227 translation initiation	Gene_function	GO_0006413
+1	589	600 translation	Gene_function	GO_0006412
+1	916	929 mitochondrial	Phenotype	HP_0001427
+1	990	994 tRNA	Gene_function	GO_0030533
+1	1127	1131 tRNA	Gene_function	GO_0030533
+1	1298	1302 tRNA	Gene_function	GO_0030533
+1	1344	1348 tRNA	Gene_function	GO_0030533
+1	1344	1361 tRNA modification	Gene_function	GO_0006400
+1	1911	1915 tRNA	Gene_function	GO_0030533
+1	GO-HP	GO_0006412	HP_0001427
+1	GO-HP	GO_0006413	HP_0001427
+1	HP-GO	HP_0001427	GO_0030533
+1	HP-GO	HP_0001427	GO_0006400
+

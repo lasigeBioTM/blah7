@@ -1,0 +1,22 @@
+0|chunk|The MAP3K7-mTOR Axis Promotes the Proliferation and Malignancy of Hepatocellular Carcinoma Cells
+0	66	90 Hepatocellular Carcinoma	Phenotype	HP_0001402
+0	81	90 Carcinoma	Phenotype	HP_0030731
+
+1|chunk|Targeted therapy is currently limited for patients with hepatocellular carcinoma (HCC) due to the lack of suitable targets. Kinases play pivotal roles in many cellular biological processes, whereas dysregulation of kinases may lead to various diseases, particularly cancer. However, the role of kinases in HCC malignancy remains unclear. In this study, we employed a kinome small interfering RNA (siRNA) library, comprising 710 kinase-related genes, to screen whether any kinases were essential for cell proliferation in various HCC cell lines. Through a kinome siRNA library screening, we found that MAP3K7 was a crucial gene for HCC cell proliferation. Pharmacological or genetic ablation of MAP3K7 diminished the growth, migration, and invasion of HCC cells, including primary HCC cells. Stable knockdown of MAP3K7 attenuated tumor formation in a spheroid cell culture model and tumor xenograft mouse model. In addition, silencing MAP3K7 reduced the phosphorylation and expression of mammalian target of rapamycin (mTOR) in HCC cells. MAP3K7 expression was positively correlated with mTOR expression in tumors of patients with HCC. Higher co-expression of MAP3K7 and mTOR was significantly associated with poor prognosis of HCC. Taken together, our results revealed that the MAP3K7-mTOR axis might promote tumorigenesis and malignancy, which provides a potential marker or therapeutic target for HCC patients.
+1	56	80 hepatocellular carcinoma	Phenotype	HP_0001402
+1	71	80 carcinoma	Phenotype	HP_0030731
+1	499	517 cell proliferation	Gene_function	GO_0008283
+1	635	653 cell proliferation	Gene_function	GO_0008283
+1	791	797 Stable	Phenotype	HP_0031915
+1	829	834 tumor	Phenotype	HP_0002664
+1	882	887 tumor	Phenotype	HP_0002664
+1	953	968 phosphorylation	Gene_function	GO_0016310
+1	HP-GO	HP_0001402	GO_0008283
+1	HP-GO	HP_0001402	GO_0016310
+1	HP-GO	HP_0030731	GO_0008283
+1	HP-GO	HP_0030731	GO_0016310
+1	GO-HP	GO_0008283	HP_0031915
+1	GO-HP	GO_0008283	HP_0002664
+1	HP-GO	HP_0031915	GO_0016310
+1	HP-GO	HP_0002664	GO_0016310
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="c0cf1c6377c3115aa80ff787332120d4ba1cd386">
+  <chunk id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0" text="Coronaviruses as DNA Wannabes: A New Model for the Regulation of RNA Virus Replication Fidelity">
+    <entity charOffset="17-20" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="65-68" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0.e0" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0.e1" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1" text="Coronaviruses (CoVs) are positive-sense single-stranded RNA viruses and contain the largest known RNA genomes, ranging from 27 to 32 kilobases in length. CoVs are capable of transspecies movement as evidenced by the Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) epidemic in 2002-2003 [1,2]. Additionally, the emergence of Middle East Respiratory Syndrome coronavirus (MERS-CoV) in 2012 demonstrates that CoVs continue to cause severe and lethal human disease [3] . Exactly how CoVs maintain the integrity of their large genomes while generating the population diversity required for emergence and adaptation has been a major question in RNA virology. The discovery of 39-to-59 exoribonuclease (ExoN) activity within CoV nonstructural protein 14 (nsp14-ExoN), which is critical for CoV high-fidelity replication, has challenged the long-held paradigm that RNA viruses cannot proofread and raises the possibility of an entirely new model for how RNA viruses regulate replication fidelity. We will summarize: 1) the data supporting proofreading during CoV replication; 2) the possibility of a multi-protein fidelity complex, using E. coli DNA polymerase III as a conceptual framework; and 3) the promise of genetic and therapeutic interference with fidelity regulation as an approach for attenuation and treatment of CoVs.">
+    <entity charOffset="56-59" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="98-101" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="648-651" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="745-752" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="866-869" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="955-958" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1147-1150" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e0" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p0" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e0" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p1" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e1" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p2" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e1" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p3" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e2" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p4" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e2" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p5" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e4" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p6" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e5" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p7" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e3" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p8" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e4" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p9" relation="true"/>
+    <pair e1="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e5" e2="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.e6" id="c0cf1c6377c3115aa80ff787332120d4ba1cd386.c1.p10" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,32 @@
+0|chunk|The inhibitory effect of 7,7"-dimethoxyagastisflavone on the metastasis of melanoma cells via the suppression of F-actin polymerization
+0	75	83 melanoma	Phenotype	HP_0002861
+0	113	120 F-actin	Gene_function	GO_0031941
+0	HP-GO	HP_0002861	GO_0031941
+
+1|chunk|7,7"-Dimethoxyagastisflavone (DMGF), a biflavonoid isolated from Taxus x media cv. Hicksii, induces apoptotic and autophagic cell death. However, whether DMGF suppresses tumor metastasis is unclear. The aim of this study was to investigate the anti-metastatic activities of DMGF on the metastatic processes of melanoma cells in vivo and in vitro. A transwell assay showed that DMGF could effectively attenuate the motility of B16F10 cells, and the results of real-time PCR revealed that DMGF also suppressed the expressions of matrix metalloproteinase-2 (MMP-2). Moreover, DMGF did not influence tube formation but inhibited the migration of endothelial cells. Furthermore, animal models were used to monitor the effects of DMGF on tumor metastasis, and all models showed that DMGF significantly suppressed the metastatic behaviors of B16F10 cells, including intravasation, colonization, and invasion of the lymphatic duct. In addition, DMGF could also reduce the densities of the blood vessels in the tumor area in vivo. Further investigation of the molecular mechanisms of anti-metastatic activity revealed that DMGF can down-regulate the levels of key modulators of the Cdc42/Rac1 pathway to interfere in F-actin polymerization and suppress the formation of lamellipodia by reducing the phosphorylation of CREB.
+1	114	135 autophagic cell death	Gene_function	GO_0048102
+1	170	175 tumor	Phenotype	HP_0002664
+1	310	318 melanoma	Phenotype	HP_0002861
+1	596	610 tube formation	Gene_function	GO_0035148
+1	732	737 tumor	Phenotype	HP_0002664
+1	1002	1007 tumor	Phenotype	HP_0002664
+1	1208	1215 F-actin	Gene_function	GO_0031941
+1	1290	1305 phosphorylation	Gene_function	GO_0016310
+1	GO-HP	GO_0048102	HP_0002664
+1	GO-HP	GO_0048102	HP_0002861
+1	HP-GO	HP_0002664	GO_0035148
+1	HP-GO	HP_0002664	GO_0031941
+1	HP-GO	HP_0002664	GO_0016310
+1	HP-GO	HP_0002861	GO_0035148
+1	HP-GO	HP_0002861	GO_0031941
+1	HP-GO	HP_0002861	GO_0016310
+
+2|chunk|These data suggested that DMGF presents anti-metastatic activities in B16F10 melanoma cells. Here, we demonstrated that DMGF can inhibit the metastasis of highly invasive melanoma cancer cells through the down-regulation of F-actin polymerization. Considering these findings, DMGF may be further developed to serve as a chemoprevention drug for patients with metastatic melanoma.
+2	77	85 melanoma	Phenotype	HP_0002861
+2	171	179 melanoma	Phenotype	HP_0002861
+2	180	186 cancer	Phenotype	HP_0002664
+2	224	231 F-actin	Gene_function	GO_0031941
+2	370	378 melanoma	Phenotype	HP_0002861
+2	HP-GO	HP_0002861	GO_0031941
+2	HP-GO	HP_0002664	GO_0031941
+

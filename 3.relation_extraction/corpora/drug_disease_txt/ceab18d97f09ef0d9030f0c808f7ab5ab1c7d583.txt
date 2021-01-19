@@ -1,0 +1,46 @@
+0|chunk|NUDT2 Disruption Elevates Diadenosine Tetraphosphate (Ap 4 A) and Down-Regulates Immune Response and Cancer Promotion Genes
+0	101	107 Cancer	Disease	DOID_162
+
+1|chunk|Regulation of gene expression is one of several roles proposed for the stress-induced nucleotide diadenosine tetraphosphate (Ap 4 A). We have examined this directly by a comparative RNA-Seq analysis of KBM-7 chronic myelogenous leukemia cells and KBM-7 cells in which the NUDT2 Ap 4 A hydrolase gene had been disrupted (NuKO cells), causing a 175fold increase in intracellular Ap 4 A. 6,288 differentially expressed genes were identified with P < 0.05. Of these, 980 were up-regulated and 705 down-regulated in NuKO cells with a fold-change 2. Ingenuity 1 Pathway Analysis (IPA 1 ) was used to assign these genes to known canonical pathways and functional networks. Pathways associated with interferon responses, pattern recognition receptors and inflammation scored highly in the down-regulated set of genes while functions associated with MHC class II antigens were prominent among the up-regulated genes, which otherwise showed little organization into major functional gene sets. Tryptophan catabolism was also strongly down-regulated as were numerous genes known to be involved in tumor promotion in other systems, with roles in the epithelial-mesenchymal transition, proliferation, invasion and metastasis. Conversely, some pro-apoptotic genes were up-regulated. Major upstream factors predicted by IPA 1 for gene down-regulation included NFB, STAT1/2, IRF3/4 and SP1 but no major factors controlling gene up-regulation were identified. Potential mechanisms for gene regulation mediated by Ap 4 A and/or NUDT2 disruption include binding of Ap 4 A to the HINT1 co-repressor, autocrine activation of purinoceptors by Ap 4 A, chromatin remodeling, effects of NUDT2 loss on transcript stability, and inhibition of ATP-dependent regulatory factors such as protein kinases by Ap 4 A. Existing evidence favors the last of these as the most probable mechanism. Regardless, our results suggest that the NUDT2 protein could be a novel cancer chemotherapeutic target, with its inhibition potentially exerting strong anti-tumor effects via multiple pathways involving metastasis, invasion, immunosuppression and apoptosis.
+1	86	96 nucleotide	Chemical	CHEBI_36976
+1	130	133 Aaa	Chemical	CHEBI_28515
+1	208	236 chronic myelogenous leukemia	Disease	DOID_8552
+1	228	236 leukemia	Disease	DOID_1240
+1	556	563 Pathway	Chemical	CHEBI_34922
+1	574	577 IPA	Chemical	CHEBI_17824
+1	691	701 interferon	Chemical	CHEBI_52999
+1	854	862 antigens	Chemical	CHEBI_59132
+1	984	994 Tryptophan	Chemical	CHEBI_16828
+1	984	994 Tryptophan	Chemical	CHEBI_27897
+1	1305	1308 IPA	Chemical	CHEBI_17824
+1	1758	1765 protein	Chemical	CHEBI_16541
+1	1907	1914 protein	Chemical	CHEBI_16541
+1	1932	1938 cancer	Disease	DOID_162
+1	CHEBI-DOID	CHEBI_36976	DOID_8552
+1	CHEBI-DOID	CHEBI_36976	DOID_1240
+1	CHEBI-DOID	CHEBI_36976	DOID_162
+1	CHEBI-DOID	CHEBI_28515	DOID_8552
+1	CHEBI-DOID	CHEBI_28515	DOID_1240
+1	CHEBI-DOID	CHEBI_28515	DOID_162
+1	DOID-CHEBI	DOID_8552	CHEBI_34922
+1	DOID-CHEBI	DOID_8552	CHEBI_17824
+1	DOID-CHEBI	DOID_8552	CHEBI_52999
+1	DOID-CHEBI	DOID_8552	CHEBI_59132
+1	DOID-CHEBI	DOID_8552	CHEBI_16828
+1	DOID-CHEBI	DOID_8552	CHEBI_27897
+1	DOID-CHEBI	DOID_8552	CHEBI_16541
+1	DOID-CHEBI	DOID_1240	CHEBI_34922
+1	DOID-CHEBI	DOID_1240	CHEBI_17824
+1	DOID-CHEBI	DOID_1240	CHEBI_52999
+1	DOID-CHEBI	DOID_1240	CHEBI_59132
+1	DOID-CHEBI	DOID_1240	CHEBI_16828
+1	DOID-CHEBI	DOID_1240	CHEBI_27897
+1	DOID-CHEBI	DOID_1240	CHEBI_16541
+1	CHEBI-DOID	CHEBI_34922	DOID_162
+1	CHEBI-DOID	CHEBI_17824	DOID_162
+1	CHEBI-DOID	CHEBI_52999	DOID_162
+1	CHEBI-DOID	CHEBI_59132	DOID_162
+1	CHEBI-DOID	CHEBI_16828	DOID_162
+1	CHEBI-DOID	CHEBI_27897	DOID_162
+1	CHEBI-DOID	CHEBI_16541	DOID_162
+

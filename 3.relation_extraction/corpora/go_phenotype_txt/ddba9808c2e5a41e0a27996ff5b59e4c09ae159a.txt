@@ -1,0 +1,35 @@
+0|chunk|Hepatitis C virus enters liver cells using the CD81 receptor complex proteins calpain-5 and CBLB
+0	0	9 Hepatitis	Phenotype	HP_0012115
+0	52	68 receptor complex	Gene_function	GO_0043235
+0	HP-GO	HP_0012115	GO_0043235
+
+1|chunk|Hepatitis C virus (HCV) and the malaria parasite Plasmodium use the membrane protein CD81 to invade human liver cells. Here we mapped 33 host protein interactions of CD81 in primary human liver and hepatoma cells using high-resolution quantitative proteomics. In the CD81 protein network, we identified five proteins which are HCV entry factors or facilitators including epidermal growth factor receptor (EGFR). Notably, we discovered calpain-5 (CAPN5) and the ubiquitin ligase Casitas B-lineage lymphoma proto-oncogene B (CBLB) to form a complex with CD81 and support HCV entry. CAPN5 and CBLB were required for a post-binding and pre-replication step in the HCV life cycle. Knockout of CAPN5 and CBLB reduced susceptibility to all tested HCV genotypes, but not to other enveloped viruses such as vesicular stomatitis virus and human coronavirus. Furthermore, Plasmodium sporozoites relied on a distinct set of CD81 interaction partners for liver cell entry. Our findings reveal a comprehensive CD81 network in human liver cells and show that HCV and Plasmodium highjack selective CD81 interactions, including CAPN5 and CBLB for HCV, to invade cells.
+1	0	9 Hepatitis	Phenotype	HP_0012115
+1	68	76 membrane	Gene_function	GO_0016020
+1	381	387 growth	Gene_function	GO_0040007
+1	461	470 ubiquitin	Gene_function	GO_0031386
+1	496	504 lymphoma	Phenotype	HP_0002665
+1	808	818 stomatitis	Phenotype	HP_0010280
+1	HP-GO	HP_0012115	GO_0016020
+1	HP-GO	HP_0012115	GO_0040007
+1	HP-GO	HP_0012115	GO_0031386
+1	GO-HP	GO_0016020	HP_0002665
+1	GO-HP	GO_0016020	HP_0010280
+1	GO-HP	GO_0040007	HP_0002665
+1	GO-HP	GO_0040007	HP_0010280
+1	GO-HP	GO_0031386	HP_0002665
+1	GO-HP	GO_0031386	HP_0010280
+
+2|chunk|Author summary CD81 is a cell membrane protein, which functions as entry factor for hepatitis C virus (HCV) and malaria sporozoites in the human liver. Currently, it remains enigmatic how CD81 guides the entry process of both pathogens and whether it functions in a similar way during liver cell invasion of HCV and malaria parasites. Here, we use high resolution quantitative proteomics to identify CD81 associated host proteins in liver cells. We found that at least 33 proteins form a complex with CD81, 23 of which were not reported as interaction partners before. We further determined that at least five CD81 interactors are PLOS Pathogens | https://doi..mh-hannover.de/zib_zib.html) to JB, grants HCV host factors, among them calpain-5 (CAPN5) and the ubiquitin ligase Casitas Blineage lymphoma proto-oncogene B (CBLB). All tested HCV genotypes require CAPN5 and CBLB for full infection, but neither malaria parasites nor other tested enveloped virus rely on CAPN5 or CBLB. Our study maps the liver cell interactome of CD81 and provides new insight into the distinct cell invasion mechanisms of HCV and malaria parasites.
+2	25	38 cell membrane	Gene_function	GO_0005886
+2	30	38 membrane	Gene_function	GO_0016020
+2	84	93 hepatitis	Phenotype	HP_0012115
+2	759	768 ubiquitin	Gene_function	GO_0031386
+2	793	801 lymphoma	Phenotype	HP_0002665
+2	GO-HP	GO_0005886	HP_0012115
+2	GO-HP	GO_0005886	HP_0002665
+2	GO-HP	GO_0016020	HP_0012115
+2	GO-HP	GO_0016020	HP_0002665
+2	HP-GO	HP_0012115	GO_0031386
+2	GO-HP	GO_0031386	HP_0002665
+

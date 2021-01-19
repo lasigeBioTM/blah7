@@ -1,0 +1,41 @@
+0|chunk|Viruses Utilize Cellular Cues in Distinct Combination to Undergo Systematic Priming and Uncoating
+
+1|chunk|Viral genomes are protected within a proteinaceous shell called "capsid" and, for enveloped viruses, an additional lipid coat. The capsids are generally constructed from a few capsid proteins into helical or icosahedral structures that are, in turn, stabilized by numerous covalent and noncovalent interactions [1] . However, during infection, viruses must uncoat in order to release their genomes into the host. This process is highly dependent on host elements called "cues" [2], which have been previously broadly categorized as (1) receptor-and/or enzymebased cues, (2) chemical cues, or (3) mechanical cues [3] . In this brief article, we systematically analyze the available information on how 30 different enveloped and nonenveloped viruses exploit these host cues during infection and tabulate the observations in Table 1 . By categorizing these cues, a general pattern can be deduced. Specifically, we find that these viruses use a distinct order and combination of the host cues during entry. To illustrate this principle, the mechanism by which four viruses hijack these cues will be highlighted (in Fig 1) . We envision such analysis will provide an opportunity for investigators to evaluate whether viruses within the same family-for which the uncoating mechanism is unknown-employ a similar uncoating strategy.
+1	115	120 lipid	Chemical	CHEBI_18059
+1	183	191 proteins	Chemical	CHEBI_36080
+1	454	462 elements	Chemical	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_33250
+
+2|chunk|One virus whose entry mechanism has been intensely studied is HIV-1, a Retroviridae enveloped RNA virus that causes the devastating acquired immune deficiency syndrome (AIDS). Viral entry commences when the viral envelope glycoprotein GP120 binds to the host surface glycoprotein receptor CD4 and coreceptor CCR5/CXCR4. This causes GP120 to undergo structural alterations that promote membrane fusion (Fig 1A, step i) [4]. After fusion, the HIV-1 capsid core is released into the cytosol, where reverse transcription of its RNA genome is initiated. This is followed by a two-stage viral disassembly process: a loss of core integrity followed by viral genome release. In the first stage, the cytosolic peptidyl-prolyl isomerase (cyclophilin A) catalyzes isomerization of peptide bonds between the capsid proteins, inducing a conformational change that causes capsid disintegration (step ii) [5] . Mechanical disruption by motor proteins (dynein and kinesin) near the nuclear pore ensues [6], thereby liberating the newly reverse-transcribed DNA into the nucleus (step iii). Thus, HIV-1 multistep uncoating requires the coordinated use of host receptor, enzyme, and mechanical cues leading to genome release.
+2	94	97 RNA	Chemical	CHEBI_33697
+2	222	234 glycoprotein	Chemical	CHEBI_17089
+2	267	279 glycoprotein	Chemical	CHEBI_17089
+2	524	527 RNA	Chemical	CHEBI_33697
+2	770	777 peptide	Chemical	CHEBI_16670
+2	803	811 proteins	Chemical	CHEBI_36080
+2	927	935 proteins	Chemical	CHEBI_36080
+2	1040	1043 DNA	Chemical	CHEBI_16991
+2	1053	1060 nucleus	Chemical	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_17089
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_17089	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_17089	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_17089	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_17089	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_16991	CHEBI_33252
+
+3|chunk|Another well-characterized viral entry strategy is seen in the Herpes simplex virus-1 (HSV-1), a member of the Herpesviridae enveloped DNA virus family that can cause either lytic or latent infections. While HSV-1 entry shares similarities to HIV-1, there is also a clear difference. Upon interaction with the TNF superfamily receptor, HSV-1 envelope glycoprotein gD undergoes conformational changes to promote endocytosis (Fig 1B, step i) [7]. The low PLOS Pathogens |
+3	135	138 DNA	Chemical	CHEBI_16991
+3	351	363 glycoprotein	Chemical	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_16991	CHEBI_17089
+

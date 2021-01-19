@@ -1,0 +1,14 @@
+0|chunk|Forecasting influenza epidemics by integrating internet search queries and traditional surveillance data with the support vector machine regression model in Liaoning, from 2011 to 2015
+0	12	21 influenza	Disease	DOID_8469
+
+1|chunk|Background: Influenza epidemics pose significant social and economic challenges in China. Internet search query data have been identified as a valuable source for the detection of emerging influenza epidemics. However, the selection of the search queries and the adoption of prediction methods are crucial challenges when it comes to improving predictions. The purpose of this study was to explore the application of the Support Vector Machine (SVM) regression model in merging search engine query data and traditional influenza data. Methods: The official monthly reported number of influenza cases in Liaoning province in China was acquired from the China National Scientific Data Center for Public Health from January 2011 to December 2015. Based on Baidu Index, a publicly available search engine database, search queries potentially related to influenza over the corresponding period were identified. An SVM regression model was built to be used for predictions, and the choice of three parameters (C, , ) in the SVM regression model was determined by leave-one-out cross-validation (LOOCV) during the model construction process. The model's performance was evaluated by the evaluation metrics including Root Mean Square Error, Root Mean Square Percentage Error and Mean Absolute Percentage Error. Results: In total, 17 search queries related to influenza were generated through the initial query selection approach and were adopted to construct the SVM regression model, including nine queries in the same month, three queries at a lag of one month, one query at a lag of two months and four queries at a lag of three months. The SVM model performed well when with the parameters (C = 2, = 0.005,  = 0.0001), based on the ensemble data integrating the influenza surveillance data and Baidu search query data. Conclusions: The results demonstrated the feasibility of using internet search engine query data as the complementary data source for influenza surveillance and the efficiency of SVM regression model in tracking the influenza epidemics in Liaoning.
+1	12	21 Influenza	Disease	DOID_8469
+1	189	198 influenza	Disease	DOID_8469
+1	519	528 influenza	Disease	DOID_8469
+1	584	593 influenza	Disease	DOID_8469
+1	849	858 influenza	Disease	DOID_8469
+1	1352	1361 influenza	Disease	DOID_8469
+1	1760	1769 influenza	Disease	DOID_8469
+1	1951	1960 influenza	Disease	DOID_8469
+1	2033	2042 influenza	Disease	DOID_8469
+

@@ -1,0 +1,53 @@
+0|chunk|Actinobacillus pleuropneumoniae Possesses an Antiviral Activity against Porcine Reproductive and Respiratory Syndrome Virus
+0	45	54 Antiviral	Chemical	CHEBI_22587
+0	109	117 Syndrome	Disease	DOID_225
+0	CHEBI-DOID	CHEBI_22587	DOID_225
+
+1|chunk|Pigs are often colonized by more than one bacterial and/or viral species during respiratory tract infections. This phenomenon is known as the porcine respiratory disease complex (PRDC). Actinobacillus pleuropneumoniae (App) and porcine reproductive and respiratory syndrome virus (PRRSV) are pathogens that are frequently involved in PRDC. The main objective of this project was to study the in vitro interactions between these two pathogens and the host cells in the context of mixed infections. To fulfill this objective, PRRSV permissive cell lines such as MARC-145, SJPL, and porcine alveolar macrophages (PAM) were used. A pre-infection with PRRSV was performed at 0.5 multiplicity of infection (MOI) followed by an infection with App at 10 MOI. Bacterial adherence and cell death were compared. Results showed that PRRSV preinfection did not affect bacterial adherence to the cells. PRRSV and App co-infection produced an additive cytotoxicity effect. Interestingly, a pre-infection of SJPL and PAM cells with App blocked completely PRRSV infection. Incubation of SJPL and PAM cells with an App cell-free culture supernatant is also sufficient to significantly block PRRSV infection. This antiviral activity is not due to LPS but rather by small molecular weight, heat-resistant App metabolites (,1 kDa). The antiviral activity was also observed in SJPL cells infected with swine influenza virus but to a much lower extent compared to PRRSV. More importantly, the PRRSV antiviral activity of App was also seen with PAM, the cells targeted by the virus in vivo during infection in pigs. The antiviral activity might be due, at least in part, to the production of interferon c. The use of in vitro experimental models to study viral and bacterial co-infections will lead to a better understanding of the interactions between pathogens and their host cells, and could allow the development of novel prophylactic and therapeutic tools.
+1	162	169 disease	Disease	DOID_4
+1	219	222 App	Chemical	CHEBI_147408
+1	265	273 syndrome	Disease	DOID_225
+1	610	613 PAM	Chemical	CHEBI_45021
+1	736	739 App	Chemical	CHEBI_147408
+1	899	902 App	Chemical	CHEBI_147408
+1	1001	1004 PAM	Chemical	CHEBI_45021
+1	1016	1019 App	Chemical	CHEBI_147408
+1	1079	1082 PAM	Chemical	CHEBI_45021
+1	1097	1100 App	Chemical	CHEBI_147408
+1	1195	1204 antiviral	Chemical	CHEBI_22587
+1	1228	1231 LPS	Chemical	CHEBI_16412
+1	1285	1288 App	Chemical	CHEBI_147408
+1	1289	1300 metabolites	Chemical	CHEBI_25212
+1	1315	1324 antiviral	Chemical	CHEBI_22587
+1	1380	1395 swine influenza	Disease	DOID_0050211
+1	1386	1395 influenza	Disease	DOID_8469
+1	1476	1485 antiviral	Chemical	CHEBI_22587
+1	1498	1501 App	Chemical	CHEBI_147408
+1	1521	1524 PAM	Chemical	CHEBI_45021
+1	1596	1605 antiviral	Chemical	CHEBI_22587
+1	1668	1678 interferon	Chemical	CHEBI_52999
+1	DOID-CHEBI	DOID_4	CHEBI_147408
+1	DOID-CHEBI	DOID_4	CHEBI_45021
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_16412
+1	DOID-CHEBI	DOID_4	CHEBI_25212
+1	DOID-CHEBI	DOID_4	CHEBI_52999
+1	CHEBI-DOID	CHEBI_147408	DOID_225
+1	CHEBI-DOID	CHEBI_147408	DOID_0050211
+1	CHEBI-DOID	CHEBI_147408	DOID_8469
+1	DOID-CHEBI	DOID_225	CHEBI_45021
+1	DOID-CHEBI	DOID_225	CHEBI_22587
+1	DOID-CHEBI	DOID_225	CHEBI_16412
+1	DOID-CHEBI	DOID_225	CHEBI_25212
+1	DOID-CHEBI	DOID_225	CHEBI_52999
+1	CHEBI-DOID	CHEBI_45021	DOID_0050211
+1	CHEBI-DOID	CHEBI_45021	DOID_8469
+1	CHEBI-DOID	CHEBI_22587	DOID_0050211
+1	CHEBI-DOID	CHEBI_22587	DOID_8469
+1	CHEBI-DOID	CHEBI_16412	DOID_0050211
+1	CHEBI-DOID	CHEBI_16412	DOID_8469
+1	CHEBI-DOID	CHEBI_25212	DOID_0050211
+1	CHEBI-DOID	CHEBI_25212	DOID_8469
+1	DOID-CHEBI	DOID_0050211	CHEBI_52999
+1	DOID-CHEBI	DOID_8469	CHEBI_52999
+

@@ -1,0 +1,61 @@
+0|chunk|Multiple Sclerosis and Neuroimmunology, a section of the journal Frontiers in Immunology Central Nervous System Inflammatory Aggregates in the Theiler's Virus Model of Progressive Multiple Sclerosis
+0	89	96 Central	Phenotype	HP_0030645
+0	168	179 Progressive	Phenotype	HP_0003676
+
+1|chunk|or inflammatory demyelinating diseases such as Multiple Sclerosis (MS), results in the accumulation of various B cell subsets in the CNS, including nave, activated, memory B cells (Bmem), and antibody secreting cells (ASC). However, factors driving heterogeneous B cell subset accumulation and antibody (Ab) production in the CNS compartment, including the contribution of ectopic lymphoid follicles (ELF), during chronic CNS inflammation remain unclear and is a major gap in our understanding of neuroinflammation. We sought to address this gap using the Theiler's murine encephalomyelitis virus-induced demyelinating disease (TMEV-IDD) model of progressive MS. In this model, injection of the virus into susceptible mouse strains results in a persistent infection associated with demyelination and progressive disability. During chronic infection, the predominant B cell phenotypes accumulating in the CNS were isotype-switched B cells, including Bmem and ASC with nave/early activated and transitional B cells present at low frequencies. B cell accumulation in the CNS during chronic TMEV-IDD coincided with intrathecal Ab synthesis in the cerebrospinal fluid (CSF). Mature and isotype-switched B cells predominately localized to the meninges and perivascular space, with IgG isotype-switched B cells frequently accumulating in the parenchymal space. Both mature and isotype-switched B cells and T cells occupied meningeal and perivascular spaces, with minimal evidence for spatial organization typical of ELF mimicking secondary lymphoid organs (SLO). Moreover, immunohistological analysis of immune cell aggregates revealed a lack of SLO-like ELF features, such as cell proliferation, cell death, and germinal center B cell markers. Nonetheless, flow cytometric assessment of B cells within the CNS showed enhanced expression of activation markers, including moderate upregulation of GL7 and expression of the costimulatory molecule CD80. B cell-related chemokines and trophic factors, including APRIL, BAFF, CXCL9, CXCL10, CCL19, and CXCL13, were elevated in the CNS. These results indicate that localization of heterogeneous B cell populations, including activated and isotype-switched B cell phenotypes, to the CNS and intrathecal Ab (ItAb) synthesis can occur independently of SLO-like follicles during chronic inflammatory demyelinating disease.
+1	166	172 memory	Gene_function	GO_0007613
+1	193	201 antibody	Gene_function	GO_0003823
+1	193	201 antibody	Gene_function	GO_0042571
+1	250	263 heterogeneous	Phenotype	HP_0001425
+1	295	303 antibody	Gene_function	GO_0003823
+1	295	303 antibody	Gene_function	GO_0042571
+1	415	422 chronic	Phenotype	HP_0011010
+1	648	659 progressive	Phenotype	HP_0003676
+1	783	796 demyelination	Phenotype	HP_0011096
+1	801	812 progressive	Phenotype	HP_0003676
+1	832	839 chronic	Phenotype	HP_0011010
+1	1081	1088 chronic	Phenotype	HP_0011010
+1	1128	1137 synthesis	Gene_function	GO_0009058
+1	1222	1231 localized	Phenotype	HP_0012838
+1	1432	1451 perivascular spaces	Phenotype	HP_0012520
+1	1866	1874 moderate	Phenotype	HP_0012826
+1	2104	2116 localization	Gene_function	GO_0051179
+1	2120	2133 heterogeneous	Phenotype	HP_0001425
+1	2251	2260 synthesis	Gene_function	GO_0009058
+1	2314	2321 chronic	Phenotype	HP_0011010
+1	GO-HP	GO_0007613	HP_0001425
+1	GO-HP	GO_0007613	HP_0011010
+1	GO-HP	GO_0007613	HP_0003676
+1	GO-HP	GO_0007613	HP_0011096
+1	GO-HP	GO_0007613	HP_0012838
+1	GO-HP	GO_0007613	HP_0012520
+1	GO-HP	GO_0007613	HP_0012826
+1	GO-HP	GO_0003823	HP_0001425
+1	GO-HP	GO_0003823	HP_0011010
+1	GO-HP	GO_0003823	HP_0003676
+1	GO-HP	GO_0003823	HP_0011096
+1	GO-HP	GO_0003823	HP_0012838
+1	GO-HP	GO_0003823	HP_0012520
+1	GO-HP	GO_0003823	HP_0012826
+1	GO-HP	GO_0042571	HP_0001425
+1	GO-HP	GO_0042571	HP_0011010
+1	GO-HP	GO_0042571	HP_0003676
+1	GO-HP	GO_0042571	HP_0011096
+1	GO-HP	GO_0042571	HP_0012838
+1	GO-HP	GO_0042571	HP_0012520
+1	GO-HP	GO_0042571	HP_0012826
+1	HP-GO	HP_0001425	GO_0009058
+1	HP-GO	HP_0001425	GO_0051179
+1	HP-GO	HP_0011010	GO_0009058
+1	HP-GO	HP_0011010	GO_0051179
+1	HP-GO	HP_0003676	GO_0009058
+1	HP-GO	HP_0003676	GO_0051179
+1	HP-GO	HP_0011096	GO_0009058
+1	HP-GO	HP_0011096	GO_0051179
+1	GO-HP	GO_0009058	HP_0012838
+1	GO-HP	GO_0009058	HP_0012520
+1	GO-HP	GO_0009058	HP_0012826
+1	HP-GO	HP_0012838	GO_0051179
+1	HP-GO	HP_0012520	GO_0051179
+1	HP-GO	HP_0012826	GO_0051179
+

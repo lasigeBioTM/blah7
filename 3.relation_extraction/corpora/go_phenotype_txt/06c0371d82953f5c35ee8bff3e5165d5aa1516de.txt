@@ -1,0 +1,24 @@
+0|chunk|National Key Basic Research Program of China (2007CB512401), the Major Program of National Natural Science Foundation of China (30930086) and the General Program of National Natural Science Foundation of China
+
+1|chunk|The inhibitory receptor programmed death-1 (PD-1) has the capacity to maintain peripheral tolerance and limit immunopathological damage; however, its precise role in fulminant viral hepatitis (FH) has yet to be described. Here, we investigated the functional mechanisms of PD-1 as related to FH pathogenesis induced by the murine hepatitis virus strain-3 (MHV-3). High levels of PD-1-positive CD4 + , CD8 + T cells, NK cells and macrophages were observed in liver, spleen, lymph node and thymus tissues following MHV-3 infection. PD-1-deficient mice exhibited significantly higher expression of the effector molecule which initiates fibrinogen deposition, fibrinogen-like protein 2 (FGL2), than did their wild-type (WT) littermates. As a result, more severe tissue damage was produced and mortality rates were higher. Fluorescence doublestaining revealed that FGL2 and PD-1 were not co-expressed on the same cells, while quantitative RT-PCR demonstrated that higher levels of IFN-c and TNF-a mRNA transcription occurred in PD-1-deficient mice in response to MHV-3 infection. Conversely, in vivo blockade of IFN-c and TNF-a led to efficient inhibition of FGL2 expression, greatly attenuated the development of tissue lesions, and ultimately reduced mortality. Thus, the up-regulation of FGL2 in PD-1-deficient mice was determined to be mediated by IFN-c and TNF-a. Taken together, our results suggest that PD-1 signaling plays an essential role in decreasing the immunopathological damage induced by MHV-3 and that manipulation of this signal might be a useful strategy for FH immunotherapy.
+1	79	89 peripheral	Phenotype	HP_0030646
+1	176	191 viral hepatitis	Phenotype	HP_0006562
+1	182	191 hepatitis	Phenotype	HP_0012115
+1	295	307 pathogenesis	Gene_function	GO_0009405
+1	330	339 hepatitis	Phenotype	HP_0012115
+1	751	757 severe	Phenotype	HP_0012828
+1	992	1010 mRNA transcription	Gene_function	GO_0009299
+1	1410	1419 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0030646	GO_0009405
+1	HP-GO	HP_0030646	GO_0009299
+1	HP-GO	HP_0030646	GO_0023052
+1	HP-GO	HP_0006562	GO_0009405
+1	HP-GO	HP_0006562	GO_0009299
+1	HP-GO	HP_0006562	GO_0023052
+1	HP-GO	HP_0012115	GO_0009405
+1	HP-GO	HP_0012115	GO_0009299
+1	HP-GO	HP_0012115	GO_0023052
+1	GO-HP	GO_0009405	HP_0012828
+1	HP-GO	HP_0012828	GO_0009299
+1	HP-GO	HP_0012828	GO_0023052
+

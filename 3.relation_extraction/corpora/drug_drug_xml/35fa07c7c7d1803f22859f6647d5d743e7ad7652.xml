@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="35fa07c7c7d1803f22859f6647d5d743e7ad7652">
+  <chunk id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c0" text="In silico approach to screen compounds active against parasitic nematodes of major socio- economic importance"/>
+  <chunk id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1" text="Background: Infections due to parasitic nematodes are common causes of morbidity and fatality around the world especially in developing nations. At present however, there are only three major classes of drugs for treating human nematode infections. Additionally the scientific knowledge on the mechanism of action and the reason for the resistance to these drugs is poorly understood. Commercial incentives to design drugs that are endemic to developing countries are limited therefore, virtual screening in academic settings can play a vital role is discovering novel drugs useful against neglected diseases. In this study we propose to build robust machine learning model to classify and screen compounds active against parasitic nematodes.">
+    <entity charOffset="203-208" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e0" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="307-313" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" ontology_id="CHEBI_5133" text="action" type="chemical"/>
+    <entity charOffset="357-362" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e2" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="417-422" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e3" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="543-547" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="569-574" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e5" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e0" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p0" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e0" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p1" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e2" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p2" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e3" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p3" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p4" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e1" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e5" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p5" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e2" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p6" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e3" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p7" relation="true"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e4" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.e5" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c1.p8" relation="true"/>
+  </chunk>
+  <chunk id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c2" text="Results: A set of compounds active against parasitic nematodes were collated from various literature sources including PubChem while the inactive set was derived from DrugBank database. The support vector machine (SVM) algorithm was used for model development, and stratified ten-fold cross validation was used to evaluate the performance of each classifier. The best results were obtained using the radial basis function kernel. The SVM method achieved an accuracy of 81.79% on an independent test set. Using the model developed above, we were able to indentify novel compounds with potential anthelmintic activity.">
+    <entity charOffset="594-606" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c2.e0" ontology_id="CHEBI_35443" text="anthelmintic" type="chemical"/>
+  </chunk>
+  <chunk id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3" text="In this study, we successfully present the SVM approach for predicting compounds active against parasitic nematodes which suggests the effectiveness of computational approaches for antiparasitic drug discovery. Although, the accuracy obtained is lower than the previously reported in a similar study but we believe that our model is more robust because we intentionally employed stringent criteria to select inactive dataset thus making it difficult for the model to classify compounds. The method presents an alternative approach to the existing traditional methods and may be useful for predicting hitherto novel anthelmintic compounds.">
+    <entity charOffset="195-199" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="615-627" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3.e1" ontology_id="CHEBI_35443" text="anthelmintic" type="chemical"/>
+    <pair e1="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3.e0" e2="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3.e1" id="35fa07c7c7d1803f22859f6647d5d743e7ad7652.c3.p0" relation="true"/>
+  </chunk>
+</document>

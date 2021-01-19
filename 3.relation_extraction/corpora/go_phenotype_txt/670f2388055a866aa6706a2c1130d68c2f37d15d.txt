@@ -1,0 +1,24 @@
+0|chunk|Lysophosphatidic Acid Triggers Apoptosis in HeLa Cells through the Upregulation of Tumor Necrosis Factor Receptor Superfamily Member 21
+0	83	88 Tumor	Phenotype	HP_0002664
+0	89	97 Necrosis	Gene_function	GO_0001906
+0	HP-GO	HP_0002664	GO_0001906
+
+1|chunk|Lysophosphatidic acid (LPA), a naturally occurring bioactive phospholipid, activates G protein-coupled receptors (GPCRs), leading to regulation of diverse cellular events including cell survival and apoptosis. Despite extensive studies of the signaling pathways that mediate LPA-regulated cell growth and survival, the mechanisms underlying the apoptotic effect of LPA remain largely unclear. In this study, we investigated this issue in HeLa cells. Our data demonstrate that LPA induces apoptosis in HeLa cells at pathologic concentrations with a concomitant upregulation of the expression of TNFRSF21 (tumor necrosis factor receptor superfamily member 21), also known as death receptor number 6 (DR6) involved in inflammation. Moreover, treatment of cells with LPA receptor (LPAR) antagonist abolished the DR6 upregulation by LPA. LPA-induced DR6 expression was also abrogated by pertussis toxin (PTX), an inhibitor of GPCRs, and by inhibitors of PI3K, PKC, MEK, and ERK. Intriguingly, LPA-induced DR6 expression was specifically blocked by dominant-negative form of PKC (PKC -DN). LPA-induced DR6 expression was also dramatically inhibited by knockdown of ERK or CREB. These results suggest that activation of the MEK/ERK pathway and the transcription factor CREB mediate LPA-induced DR6 expression. More interestingly, knockdown of DR6 using siRNA approach remarkably attenuated LPA-induced apoptosis. In conclusion, our results suggest that LPA-induced apoptosis in HeLa cells is mediated by the upregulation of DR6 expression.
+1	243	252 signaling	Gene_function	GO_0023052
+1	289	300 cell growth	Gene_function	GO_0016049
+1	294	300 growth	Gene_function	GO_0040007
+1	604	609 tumor	Phenotype	HP_0002664
+1	610	618 necrosis	Gene_function	GO_0001906
+1	955	958 PKC	Gene_function	GO_0004697
+1	969	972 ERK	Gene_function	GO_0004707
+1	1069	1072 PKC	Gene_function	GO_0004697
+1	1074	1077 PKC	Gene_function	GO_0004697
+1	1159	1162 ERK	Gene_function	GO_0004707
+1	1221	1224 ERK	Gene_function	GO_0004707
+1	GO-HP	GO_0023052	HP_0002664
+1	GO-HP	GO_0016049	HP_0002664
+1	GO-HP	GO_0040007	HP_0002664
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0004697
+1	HP-GO	HP_0002664	GO_0004707
+

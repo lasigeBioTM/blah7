@@ -1,0 +1,147 @@
+0|chunk|Both ADP-Ribosyl-Binding and Hydrolase Activities of the Alphavirus nsP3 Macrodomain Affect Neurovirulence in Mice
+
+1|chunk|Macrodomain (MD), a highly conserved protein fold present in a subset of plus-strand RNA viruses, binds to and hydrolyzes ADP-ribose (ADPr) from ADPribosylated proteins. ADPr-binding by the alphavirus nonstructural protein 3 (nsP3) MD is necessary for the initiation of virus replication in neural cells, whereas hydrolase activity facilitates replication complex amplification. To determine the importance of these activities for pathogenesis of alphavirus encephalomyelitis, mutations were introduced into the nsP3 MD of Sindbis virus (SINV), and the effects on ADPr binding and hydrolase activities, virus replication, immune responses, and disease were assessed. Elimination of ADPr-binding and hydrolase activities (G32E) severely impaired in vitro replication of SINV in neural cells and in vivo replication in the central nervous systems of 2-week-old mice with reversion to wild type (WT) (G) or selection of a less compromising change (S) during replication. SINVs with decreased binding and hydrolase activities (G32S and G32A) or with hydrolase deficiency combined with better ADPr-binding (Y114A) were less virulent than WT virus. Compared to the WT, the G32S virus replicated less well in both the brain and spinal cord, induced similar innate responses, and caused less severe disease with full recovery of survivors, whereas the Y114A virus replicated well, induced higher expression of interferon-stimulated and NF-B-induced genes, and was cleared more slowly from the spinal cord with persistent paralysis in survivors. Therefore, MD function was important for neural cell replication both in vitro and in vivo and determined the outcome from alphavirus encephalomyelitis in mice. IMPORTANCE Viral encephalomyelitis is an important cause of long-term disability, as well as acute fatal disease. Identifying viral determinants of outcome helps in assessing disease severity and developing new treatments. Mosquito-borne alphaviruses infect neurons and cause fatal disease in mice. The highly conserved macrodomain of nonstructural protein 3 binds and can remove ADP-ribose (ADPr) from ADPribosylated proteins. To determine the importance of these functions for virulence, recombinant mutant viruses were produced. If macrodomain mutations eliminated ADPr-binding or hydrolase activity, viruses did not grow. If the binding and hydrolase activities were impaired, the viruses grew less well than the wild-type virus, induced similar innate responses, and caused less severe disease, and most of the infected mice recovered. If binding was improved, but hydrolase activity was decreased, the virus replicated well and induced greater innate responses than did the WT, but clearance from the nervous system was impaired, and mice remained paralyzed. Therefore, macrodomain function determined the outcome of alphavirus encephalomyelitis. Citation Abraham R, McPherson RL, Dasovich M, Badiee M, Leung AKL, Griffin DE. 2020. Both ADP-ribosyl-binding and hydrolase activities of the alphavirus nsP3 macrodomain affect neurovirulence in mice. mBio 11:e03253-19.
+1	37	44 protein	Chemical	CHEBI_16541
+1	85	88 RNA	Chemical	CHEBI_33697
+1	215	222 protein	Chemical	CHEBI_16541
+1	458	475 encephalomyelitis	Disease	DOID_640
+1	644	651 disease	Disease	DOID_4
+1	1291	1298 disease	Disease	DOID_4
+1	1671	1688 encephalomyelitis	Disease	DOID_640
+1	1715	1732 encephalomyelitis	Disease	DOID_640
+1	1803	1810 disease	Disease	DOID_4
+1	1873	1880 disease	Disease	DOID_4
+1	1980	1987 disease	Disease	DOID_4
+1	2047	2054 protein	Chemical	CHEBI_16541
+1	2489	2496 disease	Disease	DOID_4
+1	2832	2849 encephalomyelitis	Disease	DOID_640
+1	CHEBI-DOID	CHEBI_16541	DOID_640
+1	CHEBI-DOID	CHEBI_16541	DOID_4
+1	CHEBI-DOID	CHEBI_33697	DOID_640
+1	CHEBI-DOID	CHEBI_33697	DOID_4
+
+2|chunk|A lphaviruses are icosahedral, enveloped, message-sense RNA viruses that are transmitted by mosquitoes and cause fever, rash, myalgia, arthralgia, and encephalomyelitis (1-4). Determinants of alphavirus virulence are present in both the structural and nonstructural proteins with changes in surface glycoprotein E2 and nonstructural protein 3 (nsP3) most often associated with altered neurovirulence in mice (5-10). E2 changes affect binding and entry into target cells, while the function(s) of nsP3 important for virulence has been more difficult to discern (11, 12) .
+2	56	59 RNA	Chemical	CHEBI_33697
+2	151	168 encephalomyelitis	Disease	DOID_640
+2	266	274 proteins	Chemical	CHEBI_36080
+2	299	311 glycoprotein	Chemical	CHEBI_17089
+2	333	340 protein	Chemical	CHEBI_16541
+2	CHEBI-DOID	CHEBI_33697	DOID_640
+2	DOID-CHEBI	DOID_640	CHEBI_36080
+2	DOID-CHEBI	DOID_640	CHEBI_17089
+2	DOID-CHEBI	DOID_640	CHEBI_16541
+
+3|chunk|Alphavirus nsP3 has three domains: a phosphorylated C-terminal unstructured hypervariable domain, a zinc-binding alphavirus unique domain and an N-terminal macrodomain (MD). The hypervariable domain interacts with multiple cellular proteins important for virus replication (13-18), and the zinc-binding domain has a role in the synthesis of viral RNA (19-22). The highly conserved MD consists of a central beta sheet surrounded by four to six helices, a protein fold that exists in all kingdoms of life, including a few families of plus-strand RNA viruses (23-27). MDs bind ADP-ribose (ADPr) on proteins posttranslationally modified by either monomers or polymers of ADPr, a modification known as ADP-ribosylation. ADP-ribosylation is catalyzed by enzymes of the ADP-ribosyltransferase diphtheria toxin-like family of proteins commonly known as poly(ADP-ribose) polymerases (PARPs) that transfer ADPr from NAD  to specific residues on target proteins (28-34).
+3	232	240 proteins	Chemical	CHEBI_36080
+3	316	320 role	Chemical	CHEBI_50906
+3	347	350 RNA	Chemical	CHEBI_33697
+3	406	410 beta	Chemical	CHEBI_10545
+3	454	461 protein	Chemical	CHEBI_16541
+3	544	547 RNA	Chemical	CHEBI_33697
+3	565	568 MDs	Disease	DOID_0060469
+3	595	603 proteins	Chemical	CHEBI_36080
+3	655	663 polymers	Chemical	CHEBI_33839
+3	786	796 diphtheria	Disease	DOID_11405
+3	818	826 proteins	Chemical	CHEBI_36080
+3	875	880 PARPs	Chemical	CHEBI_62913
+3	906	909 NAD	Chemical	CHEBI_13389
+3	943	951 proteins	Chemical	CHEBI_36080
+3	CHEBI-DOID	CHEBI_36080	DOID_0060469
+3	CHEBI-DOID	CHEBI_36080	DOID_11405
+3	CHEBI-DOID	CHEBI_50906	DOID_0060469
+3	CHEBI-DOID	CHEBI_50906	DOID_11405
+3	CHEBI-DOID	CHEBI_33697	DOID_0060469
+3	CHEBI-DOID	CHEBI_33697	DOID_11405
+3	CHEBI-DOID	CHEBI_10545	DOID_0060469
+3	CHEBI-DOID	CHEBI_10545	DOID_11405
+3	CHEBI-DOID	CHEBI_16541	DOID_0060469
+3	CHEBI-DOID	CHEBI_16541	DOID_11405
+3	DOID-CHEBI	DOID_0060469	CHEBI_33839
+3	DOID-CHEBI	DOID_0060469	CHEBI_62913
+3	DOID-CHEBI	DOID_0060469	CHEBI_13389
+3	CHEBI-DOID	CHEBI_33839	DOID_11405
+3	DOID-CHEBI	DOID_11405	CHEBI_62913
+3	DOID-CHEBI	DOID_11405	CHEBI_13389
+
+4|chunk|MDs are also present in the nonstructural proteins of coronaviruses, hepatitis E virus, and rubella virus (25, 26, 35) , with roles in determining RNA synthesis, replication, and virulence (36-40). Viral MDs are of the Macro D subclass that also has ADPribosylhydrolase activity and therefore can remove ADP-ribosylation from modified proteins (26, (41) (42) (43) (44) (45) . Because several PARPs are regulated by interferon (IFN), have antiviral properties, and are under evolutionary diversifying selection (46-49), it has been postulated that the primary function of viral MDs is to counter the host response to infection by removing ADPr from modified host proteins (50, 51). However, chikungunya virus (CHIKV) with nsP3 MD mutations resulting in little or no hydrolase or binding activity is not viable in either mammalian or insect cells, indicating an important role for the alphavirus MD in virus replication (43). CHIKV with mutations that reduced, but did not eliminate, ADPr-binding or hydrolase activity were viable, but replication in neural cells and virulence for newborn mice were impaired. Further in vitro studies showed that ADPr-binding is necessary for initiation of replication in neural cells, whereas hydrolase activity facilitates the amplification of replication complexes (37). However, the effects on neurovirulence have received limited attention.
+4	0	3 MDs	Disease	DOID_0060469
+4	42	50 proteins	Chemical	CHEBI_36080
+4	69	78 hepatitis	Disease	DOID_2237
+4	69	80 hepatitis E	Disease	DOID_4411
+4	92	99 rubella	Disease	DOID_8781
+4	147	150 RNA	Chemical	CHEBI_33697
+4	204	207 MDs	Disease	DOID_0060469
+4	335	343 proteins	Chemical	CHEBI_36080
+4	392	397 PARPs	Chemical	CHEBI_62913
+4	415	425 interferon	Chemical	CHEBI_52999
+4	438	447 antiviral	Chemical	CHEBI_22587
+4	577	580 MDs	Disease	DOID_0060469
+4	662	670 proteins	Chemical	CHEBI_36080
+4	690	701 chikungunya	Disease	DOID_0050012
+4	870	874 role	Chemical	CHEBI_50906
+4	DOID-CHEBI	DOID_0060469	CHEBI_36080
+4	DOID-CHEBI	DOID_0060469	CHEBI_33697
+4	DOID-CHEBI	DOID_0060469	CHEBI_62913
+4	DOID-CHEBI	DOID_0060469	CHEBI_52999
+4	DOID-CHEBI	DOID_0060469	CHEBI_22587
+4	DOID-CHEBI	DOID_0060469	CHEBI_50906
+4	CHEBI-DOID	CHEBI_36080	DOID_2237
+4	CHEBI-DOID	CHEBI_36080	DOID_4411
+4	CHEBI-DOID	CHEBI_36080	DOID_8781
+4	CHEBI-DOID	CHEBI_36080	DOID_0050012
+4	DOID-CHEBI	DOID_2237	CHEBI_33697
+4	DOID-CHEBI	DOID_2237	CHEBI_62913
+4	DOID-CHEBI	DOID_2237	CHEBI_52999
+4	DOID-CHEBI	DOID_2237	CHEBI_22587
+4	DOID-CHEBI	DOID_2237	CHEBI_50906
+4	DOID-CHEBI	DOID_4411	CHEBI_33697
+4	DOID-CHEBI	DOID_4411	CHEBI_62913
+4	DOID-CHEBI	DOID_4411	CHEBI_52999
+4	DOID-CHEBI	DOID_4411	CHEBI_22587
+4	DOID-CHEBI	DOID_4411	CHEBI_50906
+4	DOID-CHEBI	DOID_8781	CHEBI_33697
+4	DOID-CHEBI	DOID_8781	CHEBI_62913
+4	DOID-CHEBI	DOID_8781	CHEBI_52999
+4	DOID-CHEBI	DOID_8781	CHEBI_22587
+4	DOID-CHEBI	DOID_8781	CHEBI_50906
+4	CHEBI-DOID	CHEBI_33697	DOID_0050012
+4	CHEBI-DOID	CHEBI_62913	DOID_0050012
+4	CHEBI-DOID	CHEBI_52999	DOID_0050012
+4	CHEBI-DOID	CHEBI_22587	DOID_0050012
+4	DOID-CHEBI	DOID_0050012	CHEBI_50906
+
+5|chunk|To analyze the importance of nsP3 MD function for neurovirulence and the induction of innate and adaptive antiviral immune responses in the CNS, we have introduced similar mutations into the nsP3 MD of the TE strain of SINV, a well-characterized mouse model of alphavirus encephalomyelitis that causes fatal disease in 2-week-old mice (5, (52) (53) (54) . Previous studies have shown that mutation D10A in the ADPr-binding site is not tolerated, while mutation N24A results in viable virus with impaired shutoff of host protein synthesis and decreased virulence (55, 56). In the current studies, multiple SINV MD mutants were characterized biochemically and assessed for replication in neural cells, neurovirulence, and immune responses in the central nervous system (CNS) and showed that ADPr-binding and hydrolase functions of the nsP3 MD differentially affect the outcome of CNS infection.
+5	106	115 antiviral	Chemical	CHEBI_22587
+5	272	289 encephalomyelitis	Disease	DOID_640
+5	308	315 disease	Disease	DOID_4
+5	520	527 protein	Chemical	CHEBI_16541
+5	CHEBI-DOID	CHEBI_22587	DOID_640
+5	CHEBI-DOID	CHEBI_22587	DOID_4
+5	DOID-CHEBI	DOID_640	CHEBI_16541
+5	DOID-CHEBI	DOID_4	CHEBI_16541
+
+6|chunk|Development of mutations in the nsP3 MD and characterization of the effects on ADPr-binding and hydrolase activities. Based on information gained from the structure of the alphavirus nsP3 MD (27) and previous mutational analyses of the binding and hydrolase functions of the CHIKV MD (43), we introduced alanine substitutions into highly conserved amino acids in the ADPr-binding site (positions 24 and Abraham et al.  January/February 2020 Volume 11 Issue 1 e03253-19 mbio.asm.org 2 FIG 1 ADP-ribosyl-binding and hydrolase activities of SINV nsP3 MD mutants. (A) Representative image of results from the PARP10 catalytic domain (PARP10 CD ) demodification assay. PARP10 CD was incubated with 32 P-NAD  to generate 32 P-MARylated PARP10 CD , which was incubated with buffer alone, nsP3 MDs from WT and mutants for 1 h at 37C, followed by analysis by SDS-PAGE and autoradiography. Changes in the intensity of 32 P-MARylated PARP10 CD in samples containing nsP3 MD from WT and mutants were quantified. (B) Quantitative representation of MAR hydrolase activity of nsP3 MD mutants relative to WT. Assays were performed in triplicate, buffer control was subtracted, and values were normalized to the activity levels of nsP3 MD WT. The data are presented as the percent WT activity values obtained from three independent experiments. Significance was determined by one-way ANOVA with Dunnett's multiple-comparison test. ****, P  0.0001 (WT versus N24A, G32E, TM [G32E/I113R/Y114N], and Y114A). (C) Quantification of ADPr-binding in K D (M) from three runs of microscale thermophoresis (MST). Defined length PAR labeled on the 1 terminus with Cy5 (10 nM) was incubated with 2-fold serial dilutions (diluted down from 0.5 to 1 mM stock concentration to 15 to 30 nM) of SINV WT and mutant MDs. MST was measured using a Monolith NT.115 (NanoTemper) at 80% excitation power and 20% MST power. The data are shown as the mean normalized fluorescence  the SD. Alphavirus Neurovirulence in Mice  January/February 2020 Volume 11 Issue 1 e03253-19 mbio.asm.org 3
+6	304	311 alanine	Chemical	CHEBI_16449
+6	348	353 amino	Chemical	CHEBI_46882
+6	348	359 amino acids	Chemical	CHEBI_33704
+6	354	359 acids	Chemical	CHEBI_37527
+6	769	775 buffer	Chemical	CHEBI_35225
+6	788	791 MDs	Disease	DOID_0060469
+6	1133	1139 buffer	Chemical	CHEBI_35225
+6	1785	1788 MDs	Disease	DOID_0060469
+6	1790	1793 MST	Disease	DOID_0060888
+6	1876	1879 MST	Disease	DOID_0060888
+6	CHEBI-DOID	CHEBI_16449	DOID_0060469
+6	CHEBI-DOID	CHEBI_16449	DOID_0060888
+6	CHEBI-DOID	CHEBI_46882	DOID_0060469
+6	CHEBI-DOID	CHEBI_46882	DOID_0060888
+6	CHEBI-DOID	CHEBI_33704	DOID_0060469
+6	CHEBI-DOID	CHEBI_33704	DOID_0060888
+6	CHEBI-DOID	CHEBI_37527	DOID_0060469
+6	CHEBI-DOID	CHEBI_37527	DOID_0060888
+6	CHEBI-DOID	CHEBI_35225	DOID_0060469
+6	CHEBI-DOID	CHEBI_35225	DOID_0060888
+
+7|chunk|Morbidity and mortality of CD-1 mice infected with SINV WT and nsP3 MD mutants. Two-week-old CD-1 mice were inoculated intracranially with 1,000 PFU of SINV WT or nsP3 MD mutants N24A, G32A, G32E, G32S, Y114A, and TM (G32E/I11R/Y114N) and evaluated daily for 14 days. (A) Survival was assessed by Kaplan-Meier analysis and log rank Mantel Cox test. Survival was 0% for mice infected with WT TE with a mean day of death (MDOD) of 6.2; 15.8% for N24A with MDOD of 6.4, 68.2% for G32A with MDOD of 9.6, 15% for G32E with MDOD 6, 70.8% for G32S with MDOD of 8.2, 70% for TM with MDOD of 8.7, and 40% for Y114A with MDOD of 6.
+7	145	148 PFU	Chemical	CHEBI_55308
+

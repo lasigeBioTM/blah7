@@ -1,0 +1,12 @@
+0|chunk|The Tudor SND1 protein is an m 6 A RNA reader essential for replication of Kaposi's sarcoma-associated herpesvirus
+
+1|chunk|N 6 -methyladenosine (m 6 A) is the most abundant internal RNA modification of cellular mRNAs. m 6 A is recognised by YTH domain-containing proteins, which selectively bind to m 6 Adecorated RNAs regulating their turnover and translation. Using an m 6 A-modified hairpin present in the Kaposi's sarcoma associated herpesvirus (KSHV) ORF50 RNA, we identified seven members from the 'Royal family' as putative m 6 A readers, including SND1. RIP-seq and eCLIP analysis characterised the SND1 binding profile transcriptome-wide, revealing SND1 as an m 6 A reader. We further demonstrate that the m 6 A modification of the ORF50 RNA is critical for SND1 binding, which in turn stabilises the ORF50 transcript. Importantly, SND1 depletion leads to inhibition of KSHV early gene expression showing that SND1 is essential for KSHV lytic replication. This work demonstrates that members of the 'Royal family' have m 6 A-reading ability, greatly increasing their epigenetic functions beyond protein methylation.
+1	59	75 RNA modification	Gene_function	GO_0009451
+1	295	302 sarcoma	Phenotype	HP_0100242
+1	489	496 binding	Gene_function	GO_0005488
+1	649	656 binding	Gene_function	GO_0005488
+1	767	782 gene expression	Gene_function	GO_0010467
+1	GO-HP	GO_0009451	HP_0100242
+1	HP-GO	HP_0100242	GO_0005488
+1	HP-GO	HP_0100242	GO_0010467
+

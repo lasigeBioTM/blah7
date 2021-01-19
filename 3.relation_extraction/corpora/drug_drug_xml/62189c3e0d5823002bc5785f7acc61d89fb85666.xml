@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<document id="62189c3e0d5823002bc5785f7acc61d89fb85666">
+  <chunk id="62189c3e0d5823002bc5785f7acc61d89fb85666.c0" text="Design and optimization of peptide nanoparticles">
+    <entity charOffset="27-34" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c0.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="35-48" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c0.e1" ontology_id="CHEBI_50803" text="nanoparticles" type="chemical"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c0.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c0.e1" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1" text="Background: Various supra-molecular structures form by self-assembly of proteins in a symmetric fashion. Examples of such structures are viruses, some bacterial micro-compartments and eukaryotic vaults. Peptide/protein-based nanoparticles are emerging in synthetic biology for a variety of biomedical applications, mainly as drug targeting and delivery systems or as vaccines. Our self-assembling peptide nanoparticles (SAPNs) are formed by a single peptide chain that consists of two helical coiled-coil segments connected by a short linker region. One helix is forming a pentameric coiled coil while the other is forming a trimeric coiled coil.">
+    <entity charOffset="72-80" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="203-210" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" ontology_id="CHEBI_16670" text="Peptide" type="chemical"/>
+    <entity charOffset="225-238" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" ontology_id="CHEBI_50803" text="nanoparticles" type="chemical"/>
+    <entity charOffset="325-329" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="397-404" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="405-418" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" ontology_id="CHEBI_50803" text="nanoparticles" type="chemical"/>
+    <entity charOffset="450-457" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p0" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p1" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p2" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p3" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p4" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p5" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p6" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p7" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p8" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p9" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p10" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p11" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p12" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p13" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p14" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p15" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p16" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e4" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p17" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e5" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c1.p18" relation="true"/>
+  </chunk>
+  <chunk id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2" text="Here, we were studying in vitro and in silico the effect of the chain length and of point mutations near the linker region between the pentamer and the trimer on the self-assembly of the SAPNs. 60 identical peptide chains coassemble to form a spherical nanoparticle displaying icosahedral symmetry. We have stepwise reduced the size of the protein chain to a minimal chain length of 36 amino acids. We first used biochemical and biophysical methods on the longer constructs followed by molecular dynamics simulations to study eleven different smaller peptide constructs. We have identified one peptide that shows the most promising mini-nanoparticle model in silico.">
+    <entity charOffset="207-214" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="253-265" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" ontology_id="CHEBI_50803" text="nanoparticle" type="chemical"/>
+    <entity charOffset="340-347" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="386-391" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="551-558" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e4" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="594-601" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e5" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p0" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p1" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p2" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p3" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p4" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p5" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p6" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p7" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p8" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p9" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p10" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c2.p11" relation="true"/>
+  </chunk>
+  <chunk id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3" text="Conclusions: An approach of in silico modeling combined with in vitro testing and verification yielded promising peptide designs: at a minimal chain length of only 36 amino acids they were able to self-assemble into proper nanoparticles. This is important since the production cost increases more than linearly with chain length. Also the size of the nanoparticles is significantly smaller than 20 nm, thus reducing the immunogenicity of the particles, which in turn may allow to use the SAPNs as drug delivery systems without the risk of an anaphylactic shock.">
+    <entity charOffset="113-120" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="167-172" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="167-178" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="173-178" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="223-236" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" ontology_id="CHEBI_50803" text="nanoparticles" type="chemical"/>
+    <entity charOffset="351-364" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" ontology_id="CHEBI_50803" text="nanoparticles" type="chemical"/>
+    <entity charOffset="497-501" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p0" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p1" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p2" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p3" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p4" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e0" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p5" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p6" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p7" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p8" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p9" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e1" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p10" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p11" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p12" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p13" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e2" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p14" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p15" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p16" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e3" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p17" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e4" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p18" relation="true"/>
+    <pair e1="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e5" e2="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.e6" id="62189c3e0d5823002bc5785f7acc61d89fb85666.c3.p19" relation="true"/>
+  </chunk>
+</document>

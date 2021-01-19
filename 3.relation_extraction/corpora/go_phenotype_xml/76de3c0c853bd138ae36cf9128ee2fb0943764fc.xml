@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="76de3c0c853bd138ae36cf9128ee2fb0943764fc">
+  <chunk id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c0" text="molecules Design and Synthesis of Novel Anti-Proliferative Emodin Derivatives and Studies on their Cell Cycle Arrest, Apoptosis Pathway and Migration">
+    <entity charOffset="21-30" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c0.e0" ontology_id="GO_0009058" text="Synthesis" type="gene_function"/>
+    <entity charOffset="99-109" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c0.e1" ontology_id="GO_0007049" text="Cell Cycle" type="gene_function"/>
+    <entity charOffset="99-116" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c0.e2" ontology_id="GO_0007050" text="Cell Cycle Arrest" type="gene_function"/>
+  </chunk>
+  <chunk id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1" text="Emodin is a cell arrest and apoptosis-inducing compound that is widely distributed in different plants (rhubarb, aloe), lichens and terrestrial fungi, and also isolated from marine-derived fungi and marine sponge-associated fungi. In this study, we designed and synthesized a novel series of emodin derivatives by binding emodin to an amino acid using linkers of varying lengths and composition, and evaluated their anti-proliferative activities using HepG2 cells (human hepatic carcinoma), MCF-7 cells (human breast cancer) and human normal liver L02 cells. Most of these derivatives showed moderate to potent anti-proliferative activities. Notably, compound 7a exhibited potent anti-proliferative activity against HepG2 cells with the half maximal inhibitory concentration (IC 50 ) value of 4.95 µM, which was enhanced 8.8-fold compared to the parent compound emodin (IC 50 = 43.87 µM), and it also exhibited better selective anti-proliferative activity and specificity than emodin. Moreover, further experiments demonstrated that compound 7a displayed a significant efficacy of inducing apoptosis through mitochondrial pathway via release of cytochrome c from mitochondria and subsequent activation of caspase-9 and caspase-3, inducing cell arrest at G0/G1 phase, as well as suppression of cell migration of tumor cells. The preliminary results suggested that compound 7a could be a promising lead compound for the discovery of novel anti-tumor drugs and has the potential for further investigations as an anti-cancer drug.">
+    <entity charOffset="314-321" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="510-523" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e1" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="517-523" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e2" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="592-600" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e3" ontology_id="HP_0012826" text="moderate" type="phenotype"/>
+    <entity charOffset="1108-1121" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e4" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="1163-1175" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" ontology_id="GO_0005739" text="mitochondria" type="gene_function"/>
+    <entity charOffset="1293-1307" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" ontology_id="GO_0016477" text="cell migration" type="gene_function"/>
+    <entity charOffset="1311-1316" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e7" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e1" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p0" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e2" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p1" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e3" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p2" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e4" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p3" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e7" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p4" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e1" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p5" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e1" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p6" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e2" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p7" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e2" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p8" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e3" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p9" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e3" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p10" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e4" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p11" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e4" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p12" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e5" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e7" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p13" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e6" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.e7" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c1.p14" relation="true"/>
+  </chunk>
+  <chunk id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2" text="Molecules 2019, 24, 884 2 of 23 activity is the most widely reported. In recent decades, pharmacological studies have shown that emodin is capable of inhibiting cellular proliferation [20] , inducing of cell differentiation [21] and apoptosis [22] , and activating of caspase cascade pathway [23, 24] and mitochondrial death pathway [25, 26] in different cancer cells.">
+    <entity charOffset="203-223" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e0" ontology_id="GO_0030154" text="cell differentiation" type="gene_function"/>
+    <entity charOffset="305-318" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e1" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="355-361" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e2" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e1" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.p0" relation="true"/>
+    <pair e1="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e0" e2="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.e2" id="76de3c0c853bd138ae36cf9128ee2fb0943764fc.c2.p1" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,23 @@
+0|chunk|A Neutralization Epitope in the Hepatitis C Virus E2 Glycoprotein Interacts with Host Entry Factor CD81
+0	32	41 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|The identification of a specific immunogenic candidate that will effectively activate the appropriate pathway for neutralizing antibody production is fundamental for vaccine design. By using a monoclonal antibody (1H8) that neutralizes HCV in vitro, we have demonstrated here that 1H8 recognized an epitope mapped between residues A524 and W529 of the E2 protein.
+1	127	135 antibody	Gene_function	GO_0003823
+1	127	135 antibody	Gene_function	GO_0042571
+1	127	146 antibody production	Gene_function	GO_0002377
+1	204	212 antibody	Gene_function	GO_0003823
+1	204	212 antibody	Gene_function	GO_0042571
+
+2|chunk|We also found that the epitope residues A524, P525, Y527 and W529 were crucial for antibody binding, while the residues T526, Y527 and W529 within the same epitope engaged in the interaction with the host entry factor CD81. Furthermore, we detected ''1H8-like'' antibodies, defined as those with amino acid-specificity similar to 1H8, in the plasma of patients with chronic HCV infection. The time course study of plasma samples from Patient H, a well-characterized case of posttransfusion hepatitis C, showed that ''1H8-like'' antibodies could be detected in a sample collected almost two years after the initial infection, thus confirming the immunogenicity of this epitope in vivo. The characterization of this neutralization epitope with a function in host entry factor CD81 interaction should enhance our understanding of antibody-mediated neutralization of HCV infections.
+2	83	91 antibody	Gene_function	GO_0003823
+2	83	91 antibody	Gene_function	GO_0042571
+2	366	373 chronic	Phenotype	HP_0011010
+2	490	499 hepatitis	Phenotype	HP_0012115
+2	827	859 antibody-mediated neutralization	Gene_function	GO_0097282
+2	GO-HP	GO_0003823	HP_0011010
+2	GO-HP	GO_0003823	HP_0012115
+2	GO-HP	GO_0042571	HP_0011010
+2	GO-HP	GO_0042571	HP_0012115
+2	HP-GO	HP_0011010	GO_0097282
+2	HP-GO	HP_0012115	GO_0097282
+

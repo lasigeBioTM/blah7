@@ -1,0 +1,19 @@
+0|chunk|Cellular Proteins Associated with the Interior and Exterior of Vesicular Stomatitis Virus Virions
+0	73	83 Stomatitis	Phenotype	HP_0010280
+
+1|chunk|Virus particles (virions) often contain not only virus-encoded but also host-encoded proteins. Some of these host proteins are enclosed within the virion structure, while others, in the case of enveloped viruses, are embedded in the host-derived membrane. While many of these host protein incorporations are likely accidental, some may play a role in virus infectivity, replication and/or immunoreactivity in the next host. Host protein incorporations may be especially important in therapeutic applications where large numbers of virus particles are administered. Vesicular stomatitis virus (VSV) is the prototypic rhabdovirus and a candidate vaccine, gene therapy and oncolytic vector. Using mass spectrometry, we previously examined cell type dependent host protein content of VSV virions using intact (''whole'') virions purified from three cell lines originating from different species. Here we aimed to determine the localization of host proteins within the VSV virions by analyzing: i) whole VSV virions; and ii) whole VSV virions treated with Proteinase K to remove all proteins outside the viral envelope. A total of 257 proteins were identified, with 181 identified in whole virions and 183 identified in Proteinase K treated virions. Most of these proteins have not been previously shown to be associated with VSV. Functional enrichment analysis indicated the most overrepresented categories were proteins associated with vesicles, vesicle-mediated transport and protein localization. Using western blotting, the presence of several host proteins, including some not previously shown in association with VSV (such as Yes1, Prl1 and Ddx3y), was confirmed and their relative quantities in various virion fractions determined. Our study provides a valuable inventory of virion-associated host proteins for further investigation of their roles in the replication cycle, pathogenesis and immunoreactivity of VSV. Citation: Moerdyk-Schauwecker M, Hwang S-I, Grdzelishvili VZ (2014) Cellular Proteins Associated with the Interior and Exterior of Vesicular Stomatitis Virus Virions. PLoS ONE 9(8): e104688.
+1	147	153 virion	Gene_function	GO_0019012
+1	575	585 stomatitis	Phenotype	HP_0010280
+1	923	935 localization	Gene_function	GO_0051179
+1	1443	1469 vesicle-mediated transport	Gene_function	GO_0016192
+1	1460	1469 transport	Gene_function	GO_0006810
+1	1482	1494 localization	Gene_function	GO_0051179
+1	1706	1712 virion	Gene_function	GO_0019012
+1	1877	1889 pathogenesis	Gene_function	GO_0009405
+1	2060	2070 Stomatitis	Phenotype	HP_0010280
+1	GO-HP	GO_0019012	HP_0010280
+1	HP-GO	HP_0010280	GO_0051179
+1	HP-GO	HP_0010280	GO_0016192
+1	HP-GO	HP_0010280	GO_0006810
+1	HP-GO	HP_0010280	GO_0009405
+

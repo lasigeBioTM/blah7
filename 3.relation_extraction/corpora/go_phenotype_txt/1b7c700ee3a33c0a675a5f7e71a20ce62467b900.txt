@@ -1,0 +1,35 @@
+0|chunk|Expression of HIV-1 antigens in plants as potential subunit vaccines
+
+1|chunk|Background: Human immunodeficiency virus type 1 (HIV-1) has infected more than 40 million people worldwide, mainly in sub-Saharan Africa. The high prevalence of HIV-1 subtype C in southern Africa necessitates the development of cheap, effective vaccines. One means of production is the use of plants, for which a number of different techniques have been successfully developed. HIV-1 Pr55Gag is a promising HIV-1 vaccine candidate: we compared the expression of this and a truncated Gag (p17/p24) and the p24 capsid subunit in Nicotiana spp. using transgenic plants and transient expression via Agrobacterium tumefaciens and recombinant tobamovirus vectors. We also investigated the influence of subcellular localisation of recombinant protein to the chloroplast and the endoplasmic reticulum (ER) on protein yield. We partially purified a selected vaccine candidate and tested its stimulation of a humoral and cellular immune response in mice.
+1	18	34 immunodeficiency	Phenotype	HP_0002721
+1	570	579 transient	Phenotype	HP_0025153
+1	708	720 localisation	Gene_function	GO_0051179
+1	751	762 chloroplast	Gene_function	GO_0009507
+1	771	792 endoplasmic reticulum	Gene_function	GO_0005783
+1	911	935 cellular immune response	Gene_function	GO_0002443
+1	920	935 immune response	Gene_function	GO_0006955
+1	HP-GO	HP_0002721	GO_0051179
+1	HP-GO	HP_0002721	GO_0009507
+1	HP-GO	HP_0002721	GO_0005783
+1	HP-GO	HP_0002721	GO_0002443
+1	HP-GO	HP_0002721	GO_0006955
+1	HP-GO	HP_0025153	GO_0051179
+1	HP-GO	HP_0025153	GO_0009507
+1	HP-GO	HP_0025153	GO_0005783
+1	HP-GO	HP_0025153	GO_0002443
+1	HP-GO	HP_0025153	GO_0006955
+
+2|chunk|Both transient and transgenic expression of the HIV antigens were successful, although expression of Pr55Gag was low in all systems; however, the Agrobacterium-mediated transient expression of p24 and p17/p24 yielded best, to more than 1 mg p24/kg fresh weight. Chloroplast targeted protein levels were highest in transient and transgenic expression of p24 and p17/p24. The transiently-expressed p17/p24 was not immunogenic in mice as a homologous vaccine, but it significantly boosted a humoral and T cell immune response primed by a gag DNA vaccine, pTHGagC.
+2	5	14 transient	Phenotype	HP_0025153
+2	169	178 transient	Phenotype	HP_0025153
+2	262	273 Chloroplast	Gene_function	GO_0009507
+2	314	323 transient	Phenotype	HP_0025153
+2	507	522 immune response	Gene_function	GO_0006955
+2	HP-GO	HP_0025153	GO_0009507
+2	HP-GO	HP_0025153	GO_0006955
+
+3|chunk|Conclusion: Transient agroinfiltration was best for expression of all of the recombinant proteins tested, and p24 and p17/p24 were expressed at much higher levels than Pr55Gag. Our results highlight the usefulness of plastid signal peptides in enhancing the production of recombinant proteins meant for use as vaccines. The p17/p24 protein effectively boosted T cell and humoral responses in mice primed by the DNA vaccine pTHGagC, showing that this plant-produced protein has potential for use as a vaccine.
+3	12	21 Transient	Phenotype	HP_0025153
+3	217	224 plastid	Gene_function	GO_0009536
+3	HP-GO	HP_0025153	GO_0009536
+

@@ -1,0 +1,101 @@
+0|chunk|2 convergent Research center for emerging Virus infection
+
+1|chunk|and subtropical countries and is a significant public health concern and socioeconomic burden. There is an urgent need to develop antivirals that can effectively reduce dengue virus (DENV) replication and decrease viral load. Niclosamide, an antiparasitic drug approved for human use, has been recently identified as an effective antiviral agent against a number of pH-dependent viruses, including flaviviruses. Here, we reveal that neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Specifically, niclosamide-induced endosomal neutralization not only prevents viral RNA replication but also affects the maturation of DENV particles, rendering them non-infectious. We found that niclosamide-induced endosomal neutralization prevented E glycoprotein conformational changes on the virion surface of flaviviruses, resulting in the release of non-infectious immature virus particles with uncleaved pr peptide from host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.
+1	458	471 intracellular	Gene_function	GO_0005622
+1	636	651 RNA replication	Gene_function	GO_0039703
+1	848	854 virion	Gene_function	GO_0019012
+
+2|chunk|Dengue virus (DENV) represents a major mosquito-borne pathogen responsible for significant public health and socioeconomic burden in large regions of tropical and subtropical countries 1,2 . There are four distinct serotypes, DENV-1 to DENV-4, that are transmitted mainly by mosquitoes of Aedes species, which continuously spread to new geographical areas around the world 3 . The World Health Organization estimates a prevalence of 50-100 million cases of DENV infection per year; however, a recent global estimate study suggested that 390 million DENV infections occur annually, of which 96 million cases have clear symptoms 2 . DENV infection causes a wide range of clinical symptoms, from acute febrile illness (dengue fever) to life-threatening haemorrhagic fever/dengue shock syndrome 1 . To date, clinically approved therapeutic options for treating DENV-infected patients are still lacking.
+2	693	698 acute	Phenotype	HP_0011009
+2	723	728 fever	Phenotype	HP_0001945
+2	763	768 fever	Phenotype	HP_0001945
+2	776	781 shock	Phenotype	HP_0031273
+
+3|chunk|DENV is an enveloped, single-stranded, positive-sense RNA virus that belongs to Flavivirus genus in the family Flaviviridae 4 . The genus Flavivirus comprises many important emerging arboviruses including Japanese encephalitis virus, West Nile virus and Zika virus (ZIKV). Recently, ZIKV infection has emerged as a global public health concern due to its association with newborn microcephaly 5,6 and neurological sequelae such as Guillain-Barr syndrome, meningoencephalitis, and myelitis in infected adults 6-10 . The flavivirus genome is approximately 11 kb in length and encodes a polyprotein that is processed into three structural (capsid [C], premembrane [prM], and envelope [E]) and seven non-structural proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, www.nature.com/scientificreports www.nature.com/scientificreports/ and NS5) by cellular and viral proteases 11,12 . Flavivirus infection is initiated by attachment of the virus to a cellular receptor on the plasma membrane followed by receptor-mediated endocytosis and transportation of viral particles to endosomes 13, 14 . Viral membrane fusion with the endosomal membrane is triggered upon exposure of the virus to the low-pH environment of endosomes, through which the viral genome is released into the cytoplasm 15-19 . Following RNA replication and protein translation, immature virions containing prM proteins are assembled within the endoplasmic reticulum (ER) and mature through passaging the acidic environment of the trans-Golgi network (TGN), wherein E proteins undergo conformational changes and the pr peptides are cleaved by furin endoproteases, after which progeny virions are released from the host cell 20-24 .
+3	214	226 encephalitis	Phenotype	HP_0002383
+3	380	392 microcephaly	Phenotype	HP_0000252
+3	481	489 myelitis	Phenotype	HP_0012486
+3	673	681 envelope	Gene_function	GO_0031975
+3	963	978 plasma membrane	Gene_function	GO_0005886
+3	970	978 membrane	Gene_function	GO_0016020
+3	991	1020 receptor-mediated endocytosis	Gene_function	GO_0006898
+3	1009	1020 endocytosis	Gene_function	GO_0006897
+3	1081	1095 Viral membrane	Gene_function	GO_0036338
+3	1087	1095 membrane	Gene_function	GO_0016020
+3	1112	1130 endosomal membrane	Gene_function	GO_0010008
+3	1122	1130 membrane	Gene_function	GO_0016020
+3	1263	1272 cytoplasm	Gene_function	GO_0005737
+3	1291	1306 RNA replication	Gene_function	GO_0039703
+3	1398	1419 endoplasmic reticulum	Gene_function	GO_0005783
+3	1484	1503 trans-Golgi network	Gene_function	GO_0005802
+3	1667	1676 host cell	Gene_function	GO_0043657
+3	HP-GO	HP_0002383	GO_0031975
+3	HP-GO	HP_0002383	GO_0005886
+3	HP-GO	HP_0002383	GO_0016020
+3	HP-GO	HP_0002383	GO_0006898
+3	HP-GO	HP_0002383	GO_0006897
+3	HP-GO	HP_0002383	GO_0036338
+3	HP-GO	HP_0002383	GO_0010008
+3	HP-GO	HP_0002383	GO_0005737
+3	HP-GO	HP_0002383	GO_0039703
+3	HP-GO	HP_0002383	GO_0005783
+3	HP-GO	HP_0002383	GO_0005802
+3	HP-GO	HP_0002383	GO_0043657
+3	HP-GO	HP_0000252	GO_0031975
+3	HP-GO	HP_0000252	GO_0005886
+3	HP-GO	HP_0000252	GO_0016020
+3	HP-GO	HP_0000252	GO_0006898
+3	HP-GO	HP_0000252	GO_0006897
+3	HP-GO	HP_0000252	GO_0036338
+3	HP-GO	HP_0000252	GO_0010008
+3	HP-GO	HP_0000252	GO_0005737
+3	HP-GO	HP_0000252	GO_0039703
+3	HP-GO	HP_0000252	GO_0005783
+3	HP-GO	HP_0000252	GO_0005802
+3	HP-GO	HP_0000252	GO_0043657
+3	HP-GO	HP_0012486	GO_0031975
+3	HP-GO	HP_0012486	GO_0005886
+3	HP-GO	HP_0012486	GO_0016020
+3	HP-GO	HP_0012486	GO_0006898
+3	HP-GO	HP_0012486	GO_0006897
+3	HP-GO	HP_0012486	GO_0036338
+3	HP-GO	HP_0012486	GO_0010008
+3	HP-GO	HP_0012486	GO_0005737
+3	HP-GO	HP_0012486	GO_0039703
+3	HP-GO	HP_0012486	GO_0005783
+3	HP-GO	HP_0012486	GO_0005802
+3	HP-GO	HP_0012486	GO_0043657
+
+4|chunk|It is well established that neutralization of the acidic TGN environment prevents furin cleavage, resulting in immature particles containing uncleaved prM proteins [25] [26] [27] . These immature particles are non-infectious since the uncleaved prM peptides block the low-pH-induced conformational changes of the viral E proteins essential for binding to the cell surface as well as membrane fusion of the virus during entry 23, 26, 28, 29 . Thus, several studies have shown that lysosomotropic agents, such as chloroquine, exert modest antiviral effects against pH-dependent viruses, including flaviviruses, by interfering with endosomal fusion and furin-dependent maturation in vivo and in vitro 23,30-32 . Recently, niclosamide, a U.S. Food and Drug Administration (FDA)-approved antiparasitic drug used in humans 33-35 , has been identified as an effective antiviral agent against a number of pH-dependent viruses, such as human rhinoviruses and influenza virus 36 , severe acute respiratory syndrome-coronavirus 37 , Chikungunya virus 38 , and flaviviruses [39] [40] [41] . These studies suggested that the broad antiviral activity of niclosamide is associated with neutralization of endo-lysosomal pH that interferes with pH-dependent membrane fusion which is a critical step for virus entry 36 . In a recent study, Kao et al. 41 , determined the inhibitory role of endosomal deacidification in DENV viral genome replication and uncoating but not in later steps of the viral life cycle. Therefore, the possible effect of niclosamide-induced neutralization of endosomal compartments on later stages of the DENV infectious cycle remains to be elucidated.
+4	57	60 TGN	Gene_function	GO_0005802
+4	344	351 binding	Gene_function	GO_0005488
+4	359	371 cell surface	Gene_function	GO_0009986
+4	383	391 membrane	Gene_function	GO_0016020
+4	383	398 membrane fusion	Gene_function	GO_0061025
+4	971	977 severe	Phenotype	HP_0012828
+4	978	983 acute	Phenotype	HP_0011009
+4	1241	1249 membrane	Gene_function	GO_0016020
+4	1241	1256 membrane fusion	Gene_function	GO_0061025
+4	1406	1430 viral genome replication	Gene_function	GO_0019079
+4	1475	1491 viral life cycle	Gene_function	GO_0019058
+4	GO-HP	GO_0005802	HP_0012828
+4	GO-HP	GO_0005802	HP_0011009
+4	GO-HP	GO_0005488	HP_0012828
+4	GO-HP	GO_0005488	HP_0011009
+4	GO-HP	GO_0009986	HP_0012828
+4	GO-HP	GO_0009986	HP_0011009
+4	GO-HP	GO_0016020	HP_0012828
+4	GO-HP	GO_0016020	HP_0011009
+4	GO-HP	GO_0061025	HP_0012828
+4	GO-HP	GO_0061025	HP_0011009
+4	HP-GO	HP_0012828	GO_0019079
+4	HP-GO	HP_0012828	GO_0019058
+4	HP-GO	HP_0011009	GO_0019079
+4	HP-GO	HP_0011009	GO_0019058
+
+5|chunk|In this study, we investigated and confirmed that the neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Our data indicate that niclosamide-induced endosomal neutralization prevents viral genome release and replication as well as maturation of DENV particles rendering it non-infectious. Specifically, we found that niclosamide-induced endosomal neutralization blocks conformational changes of E glycoproteins on the virion surface of both DENV and ZIKV, resulting in the release of immature virus particles with uncleaved pr peptide and preventing them from infecting new host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.
+5	79	92 intracellular	Gene_function	GO_0005622
+5	486	492 virion	Gene_function	GO_0019012
+
+6|chunk|Scientific RepoRts | (2019) 9:8682 | https://doi.
+

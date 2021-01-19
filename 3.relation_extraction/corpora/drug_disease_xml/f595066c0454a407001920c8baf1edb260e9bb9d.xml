@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="f595066c0454a407001920c8baf1edb260e9bb9d">
+  <chunk id="f595066c0454a407001920c8baf1edb260e9bb9d.c0" text="RPiRLS: Quantitative Predictions of RNA Interacting with Any Protein of Known Sequence">
+    <entity charOffset="36-39" id="f595066c0454a407001920c8baf1edb260e9bb9d.c0.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="61-68" id="f595066c0454a407001920c8baf1edb260e9bb9d.c0.e1" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+  </chunk>
+  <chunk id="f595066c0454a407001920c8baf1edb260e9bb9d.c1" text="RNA-protein interactions (RPIs) have critical roles in numerous fundamental biological processes, such as post-transcriptional gene regulation, viral assembly, cellular defence and protein synthesis. As the number of available RNA-protein binding experimental data has increased rapidly due to high-throughput sequencing methods, it is now possible to measure and understand RNA-protein interactions by computational methods. In this study, we integrate a sequence-based derived kernel with regularized least squares to perform prediction. The derived kernel exploits the contextual information around an amino acid or a nucleic acid as well as the repetitive conserved motif information. We propose a novel machine learning method, called RPiRLS to predict the interaction between any RNA and protein of known sequences. For the RPiRLS classifier, each protein sequence comprises up to 20 diverse amino acids but for the RPiRLS-7G classifier, each protein sequence is represented by using 7-letter reduced alphabets based on their physiochemical properties. We evaluated both methods on a number of benchmark data sets and compared their performances with two newly developed and state-of-the-art methods, RPI-Pred and IPMiner. On the non-redundant benchmark test sets extracted from the PRIDB, the RPiRLS method outperformed RPI-Pred and IPMiner in terms of accuracy, specificity and sensitivity. Further, RPiRLS achieved an accuracy of 92% on the prediction of lncRNA-protein interactions. The proposed method can also be extended to construct RNA-protein interaction networks. The RPiRLS web server is freely available at http://bmc.med.stu.edu.cn/RPiRLS.">
+    <entity charOffset="181-188" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="605-610" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="605-615" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="611-615" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="621-633" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e4" ontology_id="CHEBI_33696" text="nucleic acid" type="chemical"/>
+    <entity charOffset="629-633" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e5" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="786-789" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="794-801" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e7" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="854-861" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e8" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="898-903" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e9" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="898-909" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e10" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="904-909" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e11" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="949-956" id="f595066c0454a407001920c8baf1edb260e9bb9d.c1.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+</document>

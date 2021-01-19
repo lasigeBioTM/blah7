@@ -1,0 +1,82 @@
+0|chunk|Review Article Retrovirus Entry by Endocytosis and Cathepsin Proteases
+0	35	46 Endocytosis	Gene_function	GO_0006897
+
+1|chunk|Retroviruses include infectious agents inducing severe diseases in humans and animals. In addition, retroviruses are widely used as tools to transfer genes of interest to target cells. Understanding the entry mechanism of retroviruses contributes to developments of novel therapeutic approaches against retrovirus-induced diseases and efficient exploitation of retroviral vectors. Entry of enveloped viruses into host cell cytoplasm is achieved by fusion between the viral envelope and host cell membranes at either the cell surface or intracellular vesicles. Many animal retroviruses enter host cells through endosomes and require endosome acidification. Ecotropic murine leukemia virus entry requires cathepsin proteases activated by the endosome acidification. CD4dependent human immunodeficiency virus (HIV) infection is thought to occur via endosomes, but endosome acidification is not necessary for the entry whereas entry of CD4-independent HIVs, which are thought to be prototypes of CD4-dependent viruses, is low pH dependent. There are several controversial results on the retroviral entry pathways. Because endocytosis and endosome acidification are complicatedly controlled by cellular mechanisms, the retrovirus entry pathways may be different in different cell lines.
+1	48	54 severe	Phenotype	HP_0012828
+1	413	422 host cell	Gene_function	GO_0043657
+1	413	432 host cell cytoplasm	Gene_function	GO_0030430
+1	423	432 cytoplasm	Gene_function	GO_0005737
+1	467	481 viral envelope	Gene_function	GO_0019031
+1	473	481 envelope	Gene_function	GO_0031975
+1	486	495 host cell	Gene_function	GO_0043657
+1	520	532 cell surface	Gene_function	GO_0009986
+1	536	549 intracellular	Gene_function	GO_0005622
+1	632	640 endosome	Gene_function	GO_0005768
+1	632	654 endosome acidification	Gene_function	GO_0015078
+1	641	654 acidification	Gene_function	GO_0045851
+1	673	681 leukemia	Phenotype	HP_0001909
+1	740	748 endosome	Gene_function	GO_0005768
+1	740	762 endosome acidification	Gene_function	GO_0015078
+1	749	762 acidification	Gene_function	GO_0045851
+1	783	799 immunodeficiency	Phenotype	HP_0002721
+1	861	869 endosome	Gene_function	GO_0005768
+1	861	883 endosome acidification	Gene_function	GO_0015078
+1	870	883 acidification	Gene_function	GO_0045851
+1	1118	1129 endocytosis	Gene_function	GO_0006897
+1	1134	1142 endosome	Gene_function	GO_0005768
+1	1134	1156 endosome acidification	Gene_function	GO_0015078
+1	1143	1156 acidification	Gene_function	GO_0045851
+1	HP-GO	HP_0012828	GO_0043657
+1	HP-GO	HP_0012828	GO_0030430
+1	HP-GO	HP_0012828	GO_0005737
+1	HP-GO	HP_0012828	GO_0019031
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0009986
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0012828	GO_0005768
+1	HP-GO	HP_0012828	GO_0015078
+1	HP-GO	HP_0012828	GO_0045851
+1	HP-GO	HP_0012828	GO_0006897
+1	GO-HP	GO_0043657	HP_0001909
+1	GO-HP	GO_0043657	HP_0002721
+1	GO-HP	GO_0030430	HP_0001909
+1	GO-HP	GO_0030430	HP_0002721
+1	GO-HP	GO_0005737	HP_0001909
+1	GO-HP	GO_0005737	HP_0002721
+1	GO-HP	GO_0019031	HP_0001909
+1	GO-HP	GO_0019031	HP_0002721
+1	GO-HP	GO_0031975	HP_0001909
+1	GO-HP	GO_0031975	HP_0002721
+1	GO-HP	GO_0009986	HP_0001909
+1	GO-HP	GO_0009986	HP_0002721
+1	GO-HP	GO_0005622	HP_0001909
+1	GO-HP	GO_0005622	HP_0002721
+1	GO-HP	GO_0005768	HP_0001909
+1	GO-HP	GO_0005768	HP_0002721
+1	GO-HP	GO_0015078	HP_0001909
+1	GO-HP	GO_0015078	HP_0002721
+1	GO-HP	GO_0045851	HP_0001909
+1	GO-HP	GO_0045851	HP_0002721
+1	HP-GO	HP_0001909	GO_0006897
+1	HP-GO	HP_0002721	GO_0006897
+
+2|chunk|2 Advances in Virology would contribute to the development of new therapeutic approaches for retrovirus-induced diseases.
+
+3|chunk|Mechanism of membrane fusion by the retroviral TM proteins is described elsewhere in details [3] [4] [5] [6] [7] and is similar to those used by envelope proteins of other enveloped viruses [8, 9] . Briefly, the retroviral entry mechanism is proposed as follows. The TM protein is thought to have hairpin-like structure (Figure 1 ). The binding of SU with its cognate cell surface receptor induces conformational changes of the TM subunit. The N-terminal hydrophobic domain of the TM subunit called fusion peptide is exposed by the conformational change and inserted into host cell membrane. The TM protein then coverts to a trimer-ofhairpins conformation, and viral envelope and host cell membranes approach and mix. Finally, the fusion pore is formed and expanded to derive the viral core into host cell cytoplasm. This conformational change pathway of the TM protein induces the membrane fusion for the retroviral entry into host cells.
+3	13	21 membrane	Gene_function	GO_0016020
+3	13	28 membrane fusion	Gene_function	GO_0061025
+3	145	153 envelope	Gene_function	GO_0031975
+3	337	344 binding	Gene_function	GO_0005488
+3	368	380 cell surface	Gene_function	GO_0009986
+3	572	581 host cell	Gene_function	GO_0043657
+3	572	590 host cell membrane	Gene_function	GO_0033644
+3	582	590 membrane	Gene_function	GO_0016020
+3	661	675 viral envelope	Gene_function	GO_0019031
+3	667	675 envelope	Gene_function	GO_0031975
+3	680	689 host cell	Gene_function	GO_0043657
+3	738	742 pore	Gene_function	GO_0046930
+3	796	805 host cell	Gene_function	GO_0043657
+3	796	815 host cell cytoplasm	Gene_function	GO_0030430
+3	882	890 membrane	Gene_function	GO_0016020
+3	882	897 membrane fusion	Gene_function	GO_0061025
+

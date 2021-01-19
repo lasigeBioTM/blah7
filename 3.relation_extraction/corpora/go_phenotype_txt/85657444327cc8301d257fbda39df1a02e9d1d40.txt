@@ -1,0 +1,66 @@
+0|chunk|Interferon-Stimulated Genes-Mediators of the Innate Immune Response during Canine Distemper Virus Infection
+0	45	67 Innate Immune Response	Gene_function	GO_0045087
+0	52	67 Immune Response	Gene_function	GO_0006955
+
+1|chunk|The demyelinating canine distemper virus (CDV)-leukoencephalitis represents a translational animal model for multiple sclerosis. The present study investigated the expression of type I interferon (IFN-I) pathway members in CDV-induced cerebellar lesions to gain an insight into their role in lesion development. Gene expression of 110 manually selected genes in acute, subacute and chronic lesions was analyzed using pre-existing microarray data. Interferon regulatory factor (IRF) 3, IRF7, signal transducer and activator of transcription (STAT) 1, STAT2, MX protein, protein kinase R (PKR), 2 -5 -oligoadenylate synthetase (OAS) 1 and interferon-stimulated gene (ISG) 15 expression were also evaluated using immunohistochemistry. Cellular origin of STAT1, STAT2, MX and PKR were determined using immunofluorescence. CDV infection caused an increased expression of the antiviral effector proteins MX, PKR, OAS1 and ISG15, which probably contributed to a restricted viral replication, particularly in neurons and oligodendrocytes. This increase might be partly mediated by IRF-dependent pathways due to the lack of changes in IFN-I levels and absence of STAT2 in astrocytes. Nevertheless, activated microglia/macrophages showed a strong expression of STAT1, STAT2 and MX proteins in later stages of the disease, indicating a strong activation of the IFN-I signaling cascade, which might be involved in the aggravation of bystander demyelination. divided into acute (vacuolation of the white matter and mild astrogliosis), subacute (vacuolation and demyelination with mild or no inflammation) and chronic changes (demyelination with moderate to severe inflammation) [8] . The demyelinating distemper leukoencephalitis also represents a naturally occurring animal model for human multiple sclerosis (MS) due to similar histopathological findings and pathogenic mechanisms [3, 9, 10] .
+1	312	327 Gene expression	Gene_function	GO_0010467
+1	362	367 acute	Phenotype	HP_0011009
+1	369	377 subacute	Phenotype	HP_0011011
+1	382	389 chronic	Phenotype	HP_0011010
+1	1356	1365 signaling	Gene_function	GO_0023052
+1	1431	1444 demyelination	Phenotype	HP_0011096
+1	1459	1464 acute	Phenotype	HP_0011009
+1	1502	1506 mild	Phenotype	HP_0012825
+1	1522	1530 subacute	Phenotype	HP_0011011
+1	1548	1561 demyelination	Phenotype	HP_0011096
+1	1567	1571 mild	Phenotype	HP_0012825
+1	1596	1603 chronic	Phenotype	HP_0011010
+1	1613	1626 demyelination	Phenotype	HP_0011096
+1	1632	1640 moderate	Phenotype	HP_0012826
+1	1644	1650 severe	Phenotype	HP_0012828
+1	GO-HP	GO_0010467	HP_0011009
+1	GO-HP	GO_0010467	HP_0011011
+1	GO-HP	GO_0010467	HP_0011010
+1	GO-HP	GO_0010467	HP_0011096
+1	GO-HP	GO_0010467	HP_0012825
+1	GO-HP	GO_0010467	HP_0012826
+1	GO-HP	GO_0010467	HP_0012828
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011011	GO_0023052
+1	HP-GO	HP_0011010	GO_0023052
+1	GO-HP	GO_0023052	HP_0011096
+1	GO-HP	GO_0023052	HP_0012825
+1	GO-HP	GO_0023052	HP_0012826
+1	GO-HP	GO_0023052	HP_0012828
+
+2|chunk|Interferons (IFNs) are signaling proteins, which can be classified into three major types based on their specific receptor binding: type I (IFN and IFN), type II (IFN) and type III (IFN) [11, 12] . Type I IFNs (IFN-I) play an important role in the innate immune response and have antiviral, antiproliferative and immunomodulatory capacities, which are already used in the therapy of human and animal disorders [13, 14] . IFN is primarily produced in later stages of the immune response by B cells, cytotoxic T cells and T helper (Th) cells and represents the main activator of macrophages [15] . IFN also has antiviral and antiproliferative effects but its role during canine distemper and therapeutic potential seems to be limited [14, [16] [17] [18] [19] [20] . While in human medicine administering IFN-I in MS is part of the standard therapy [21] , the therapeutic effect of IFN-I on the outcome of a CDV infection in dogs is still widely undetermined [14, 22] .
+2	23	32 signaling	Gene_function	GO_0023052
+2	252	274 innate immune response	Gene_function	GO_0045087
+2	259	274 immune response	Gene_function	GO_0006955
+2	475	490 immune response	Gene_function	GO_0006955
+
+3|chunk|The IFN-I pathway is initiated by the detection of typical structural elements of infectious agents (pathogen-associated molecular patterns; PAMPs), which can be recognized by so-called pattern recognition receptors (PRRs) [23] . Single-and double-stranded RNA produced during viral replication can be detected by toll-like receptors (TLRs), protein kinase R (PKR) and the family of the retinoic acid-inducible gene-I-like receptors (RLRs) including retinoic acid-inducible gene 1 (RIG1) and melanoma differentiation-associated gene 5 (MDA5), which are bound to endosomal membranes or localized in the cytoplasm [24] [25] [26] . After binding to viral RNA, these receptors recruit specific adapter proteins like Toll/IL-1 receptor domain containing adapter-inducing IFN (TRIF), myeloid differentiation primary response gene 88 (MyD88) and IFN promoter stimulator (IPS-1) as well as second messengers to activate IFN regulatory factor (IRF) 3 and IRF7, which induce the transcription of [27] [28] [29] [30] . IFN-I bind in an autocrine or paracrine fashion to their specific receptor, consisting of the subunits IFNAR1 and IFNAR2, to trigger signaling pathways that inhibit viral replication [31] . The receptor-associated kinases Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) phosphorylate the transcription factors, signal transducer and activator of transcription (STAT) 1 and STAT2, which then associate with IRF9 to form a heterotrimeric complex termed interferon-stimulated gene factor 3 (ISGF3) [32] [33] [34] [35] . After translocation into the nucleus, ISGF3 induces the transcription of numerous IFN-stimulated genes (ISGs), which have an IFN-stimulated response element (ISRE) in their promoter site [30, [35] [36] [37] . ISGs including MX proteins, 2 -5 -oligoadenylate synthetase (OAS), PKR and ISG15 play an important role in the resistance to viral infections due to their inhibitory effect on viral transcription, translation and release [30, 38, 39] . In addition, non-canonical aspects of JAK-STAT signaling are described, in which STAT2 homodimers mediate mechanisms of defense against pathogens that impede STAT1 signaling [40, 41] .
+3	492	500 melanoma	Phenotype	HP_0002861
+3	585	594 localized	Phenotype	HP_0012838
+3	602	611 cytoplasm	Gene_function	GO_0005737
+3	635	642 binding	Gene_function	GO_0005488
+3	1143	1152 signaling	Gene_function	GO_0023052
+3	1936	1947 translation	Gene_function	GO_0006412
+3	2022	2031 signaling	Gene_function	GO_0023052
+3	2139	2148 signaling	Gene_function	GO_0023052
+3	HP-GO	HP_0002861	GO_0005737
+3	HP-GO	HP_0002861	GO_0005488
+3	HP-GO	HP_0002861	GO_0023052
+3	HP-GO	HP_0002861	GO_0006412
+3	HP-GO	HP_0012838	GO_0005737
+3	HP-GO	HP_0012838	GO_0005488
+3	HP-GO	HP_0012838	GO_0023052
+3	HP-GO	HP_0012838	GO_0006412
+
+4|chunk|The presence of IFN-I in the cerebrospinal fluid (CSF) of CDV-infected dogs has been known for a long time and was suggested to be used as a marker of virus persistence, but IFN-I CSF levels are generally low and not always present [42, 43] . An immunohistochemical study demonstrated strong expression of MX proteins in CDV-induced brain lesions [44] . Moreover, recent studies have shown that the virulence of CDV depends on the suppression of the IFN-I signaling pathway via interference with MDA5 and STAT2 signaling [45] . Interestingly, dogs exhibit a relatively high OAS serum activity compared to other animal species such as cats, rabbits and guinea pigs [46] . However, ISG expression has hardly been investigated in the CNS of CDV-infected dogs so far. The present study characterized the expression of several IFN-I pathway members on the gene and protein level in order to contribute to the understanding of the role of the innate immune response in the initiation and progression of CDV-infected cerebellar lesions.
+4	456	465 signaling	Gene_function	GO_0023052
+4	456	473 signaling pathway	Gene_function	GO_0007165
+4	511	520 signaling	Gene_function	GO_0023052
+4	937	959 innate immune response	Gene_function	GO_0045087
+4	944	959 immune response	Gene_function	GO_0006955
+

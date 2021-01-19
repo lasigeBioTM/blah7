@@ -1,0 +1,20 @@
+0|chunk|Recent increase of surface particulate matter concentrations in the Seoul Metropolitan Area, Korea OPEN
+
+1|chunk|South Korea, are puzzling. The long-term trend of surface PM concentration in the SMA declined in the 2000s, but since 2012 its concentrations have tended to incline, which is coincident with frequent severe hazes in South Korea. This increase puts the Korean government's emission reduction efforts in jeopardy. This study reports that interannual variation of surface PM concentration in South Korea is closely linked with the interannual variations of wind speed. A 12-year (2004-2015) regional air quality simulation was conducted over East Asia (27-km) and over South Korea (9-km) to assess the impact of meteorology under constant anthropogenic emissions. Simulated PM concentrations show a strong negative correlation (i.e. R = 0.86) with regional wind speed, implying that reduced regional ventilation is likely associated with more stagnant conditions that cause severe pollutant episodes in South Korea. We conclude that the current PM concentration trend in South Korea is a combination of long-term decline by emission control efforts and short-term fluctuation of regional wind speed interannual variability. When the meteorology-driven variations are removed, PM concentrations in South Korea have declined continuously even after 2012.
+1	192	200 frequent	Phenotype	HP_0040282
+1	201	207 severe	Phenotype	HP_0012828
+1	873	879 severe	Phenotype	HP_0012828
+
+2|chunk|Regional air quality in the Seoul Metropolitan Area (SMA), South Korea, is a serious public concern, especially due to frequent haze events in recent years 1-3 . Understanding the cause and effect of air pollution in South Korea is complicated because air quality in East Asia is affected by numerous factors, including local and regional emissions, and meteorological and chemical interactions 4 . The SMA, which consists of Seoul, Incheon, and Gyeong-Gi, is a highly urbanized area with lots of emission sources in and around the area, such as traffic, industrial factories, and power generating facilities 5 . Often, this region's air quality is affected not only by local emission sources, but also by the long-range transport of anthropogenic emissions from neighboring countries including China, and natural sources such as Asian dusts 6-8 and wildfires from Mongolia and Russia 9, 10 .
+2	119	127 frequent	Phenotype	HP_0040282
+2	280	288 affected	Phenotype	HP_0032320
+2	649	657 affected	Phenotype	HP_0032320
+2	721	730 transport	Gene_function	GO_0006810
+2	HP-GO	HP_0040282	GO_0006810
+2	HP-GO	HP_0032320	GO_0006810
+
+3|chunk|Since the early 2000s, the South Korean government has legislated a special act to improve air quality in the SMA 11 , with emphasis on the reduction of fugitive dust (street wash-out and control of industrial and construction site sources), mobile fuel type change (diesel to compressed natural gas for buses and trucks), and residential heating source change (coal to liquefied natural gas). However, the efficiency of this act is sometimes questioned by the public, since they still experience severe high pollutant episodes. One intriguing question for the SMA Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 4710 |
+3	296	299 gas	Gene_function	GO_0034005
+3	497	503 severe	Phenotype	HP_0012828
+3	GO-HP	GO_0034005	HP_0012828
+

@@ -1,0 +1,203 @@
+0|chunk|Engineered Protein Model of the ATP synthase H + -Channel Shows No Salt Bridge at the Rotor-Stator Interface OPEN
+0	11	18 Protein	Chemical	CHEBI_16541
+0	32	35 ATP	Chemical	CHEBI_15422
+0	67	71 Salt	Chemical	CHEBI_24866
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_15422
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_24866
+0	CHEBI-CHEBI	CHEBI_15422	CHEBI_24866
+
+1|chunk|ATP synthase is powered by the flow of protons through the molecular turbine composed of two -helical integral membrane proteins, subunit a, which makes a stator, and a cylindrical rotor assembly made of multiple copies of subunit c. Transient protonation of a universally conserved carboxylate on subunit c (D61 in E. coli) gated by the electrostatic interaction with arginine on subunit a (R210 in E. coli) is believed to be a crucial step in proton transfer across the membrane. We used a fusion protein consisting of subunit a and the adjacent helices of subunit c to test by NMR spectroscopy if cD61 and aR210 are involved in an electrostatic interaction with each other, and found no evidence of such interaction. We have also determined that R140 does not form a salt bridge with either D44 or D124 as was suggested previously by mutation analysis. Our results demonstrate the potential of using arginines as NMR reporter groups for structural and functional studies of challenging membrane proteins.
+1	0	3 ATP	Chemical	CHEBI_15422
+1	284	295 carboxylate	Chemical	CHEBI_35757
+1	370	378 arginine	Chemical	CHEBI_16467
+1	370	378 arginine	Chemical	CHEBI_29016
+1	446	452 proton	Chemical	CHEBI_24636
+1	500	507 protein	Chemical	CHEBI_16541
+1	771	775 salt	Chemical	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_35757
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_16467
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_29016
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_24636
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_15422	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_35757	CHEBI_16467
+1	CHEBI-CHEBI	CHEBI_35757	CHEBI_29016
+1	CHEBI-CHEBI	CHEBI_35757	CHEBI_24636
+1	CHEBI-CHEBI	CHEBI_35757	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_35757	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_16467	CHEBI_29016
+1	CHEBI-CHEBI	CHEBI_16467	CHEBI_24636
+1	CHEBI-CHEBI	CHEBI_16467	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16467	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_29016	CHEBI_24636
+1	CHEBI-CHEBI	CHEBI_29016	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_29016	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_24636	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_24636	CHEBI_24866
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_24866
+
+2|chunk|Integral membrane proteins remain a challenging target for structural biology. Among more than 100,000 entries in PDB, there are only about 700 unique structures of membrane proteins. Therefore methods that probe the local structure remain important, in addition to X-ray crystallography and cryoelectron microscopy, which can yield high-resolution structures of the entire membrane proteins. Among these methods, solution NMR is particularly informative due to its ability to resolve signals of chemically distinct atoms in the protein. Complete protein structure determination by NMR requires resonance assignment of most hydrogen, carbon and nitrogen nuclei in the protein molecule. Although several structures of polytopic -helical membrane proteins, such as disulfide oxidoreductase DsbB 1 and sensory rhodopsin 2 , have been solved by NMR, in general, such proteins are very difficult targets for NMR structure determination in solution due to the detrimental effects of fast relaxation in detergent micelles and chemical shift degeneracy. Fortunately, NMR spectroscopy can provide useful, if limited, structural information, even in the situations where only few resonances can be assigned. In the present work, we used NMR to probe the structural and functional role of arginine residues in subunit a of ATP synthase.
+2	18	26 proteins	Chemical	CHEBI_36080
+2	174	182 proteins	Chemical	CHEBI_36080
+2	207	212 probe	Chemical	CHEBI_50406
+2	383	391 proteins	Chemical	CHEBI_36080
+2	414	422 solution	Chemical	CHEBI_75958
+2	516	521 atoms	Chemical	CHEBI_33250
+2	529	536 protein	Chemical	CHEBI_16541
+2	547	554 protein	Chemical	CHEBI_16541
+2	634	640 carbon	Chemical	CHEBI_27594
+2	645	653 nitrogen	Chemical	CHEBI_17997
+2	645	653 nitrogen	Chemical	CHEBI_25555
+2	654	660 nuclei	Chemical	CHEBI_33252
+2	668	675 protein	Chemical	CHEBI_16541
+2	746	754 proteins	Chemical	CHEBI_36080
+2	764	773 disulfide	Chemical	CHEBI_48343
+2	864	872 proteins	Chemical	CHEBI_36080
+2	935	943 solution	Chemical	CHEBI_75958
+2	997	1006 detergent	Chemical	CHEBI_27780
+2	1235	1240 probe	Chemical	CHEBI_50406
+2	1271	1275 role	Chemical	CHEBI_50906
+2	1279	1287 arginine	Chemical	CHEBI_16467
+2	1279	1287 arginine	Chemical	CHEBI_29016
+2	1313	1316 ATP	Chemical	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_50406
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_75958
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_27594
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_75958
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_27594
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_50406	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_27594
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_75958	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_27594
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_27594
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_17997
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_27594	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_25555
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_17997	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_33252
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_25555	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_48343
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_33252	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_48343	CHEBI_27780
+2	CHEBI-CHEBI	CHEBI_48343	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_48343	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_48343	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_48343	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_27780	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_27780	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_27780	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_27780	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_16467
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_16467	CHEBI_29016
+2	CHEBI-CHEBI	CHEBI_16467	CHEBI_15422
+2	CHEBI-CHEBI	CHEBI_29016	CHEBI_15422
+
+3|chunk|In the cell, ATP synthase makes ATP from ADP and inorganic phosphate. This process is driven by the proton motive or sodium motive force. In E. coli, the reaction is physiologically reversible and can generate transmembrane proton gradient using the energy of ATP hydrolysis. ATP synthase is composed of the F 1 -complex protruding into the cytoplasm, and the F 0 -complex immersed into the cell membrane 3 . ATP synthesis or hydrolysis in the active sites located in the F 1 -complex is coupled to the ion flow through the F 0 -complex.
+3	13	16 ATP	Chemical	CHEBI_15422
+3	32	35 ATP	Chemical	CHEBI_15422
+3	41	44 ADP	Chemical	CHEBI_16761
+3	100	106 proton	Chemical	CHEBI_24636
+3	117	123 sodium	Chemical	CHEBI_26708
+3	224	230 proton	Chemical	CHEBI_24636
+3	260	263 ATP	Chemical	CHEBI_15422
+3	276	279 ATP	Chemical	CHEBI_15422
+3	409	412 ATP	Chemical	CHEBI_15422
+3	503	506 ion	Chemical	CHEBI_24870
+3	CHEBI-CHEBI	CHEBI_15422	CHEBI_16761
+3	CHEBI-CHEBI	CHEBI_15422	CHEBI_24636
+3	CHEBI-CHEBI	CHEBI_15422	CHEBI_26708
+3	CHEBI-CHEBI	CHEBI_15422	CHEBI_24870
+3	CHEBI-CHEBI	CHEBI_16761	CHEBI_24636
+3	CHEBI-CHEBI	CHEBI_16761	CHEBI_26708
+3	CHEBI-CHEBI	CHEBI_16761	CHEBI_24870
+3	CHEBI-CHEBI	CHEBI_24636	CHEBI_26708
+3	CHEBI-CHEBI	CHEBI_24636	CHEBI_24870
+3	CHEBI-CHEBI	CHEBI_26708	CHEBI_24870
+
+4|chunk|In E. coli, the F 0 -complex is built of subunits a, b, and c combined in the ratio of ab 2 c 10 4 . ATP synthase represents an ion-driven molecular turbine. Protons flowing through the F 0 -complex drive the rotor built of multiple copies of subunit c 5 , and connected to an elongated shaft made of F 1 -subunits  and . The tip of subunit  rotates inside the F 1 core made of three pairs of subunits  and , causing sequential conformational changes in the three catalytic sites on the -subunits. Conformational transitions in the catalytic sites lead to the tight binding of ADP and phosphate and then to the release of the newly synthesized ATP molecules through the binding change mechanism 6,7 .
+4	101	104 ATP	Chemical	CHEBI_15422
+4	583	586 ADP	Chemical	CHEBI_16761
+4	591	600 phosphate	Chemical	CHEBI_18367
+4	650	653 ATP	Chemical	CHEBI_15422
+4	654	663 molecules	Chemical	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_15422	CHEBI_16761
+4	CHEBI-CHEBI	CHEBI_15422	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_15422	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_16761	CHEBI_18367
+4	CHEBI-CHEBI	CHEBI_16761	CHEBI_25367
+4	CHEBI-CHEBI	CHEBI_18367	CHEBI_25367
+

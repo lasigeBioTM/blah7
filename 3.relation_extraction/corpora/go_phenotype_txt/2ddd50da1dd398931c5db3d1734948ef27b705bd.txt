@@ -1,0 +1,11 @@
+0|chunk|BMC Medical Informatics and Decision Making Automated real time constant-specificity surveillance for disease outbreaks
+
+1|chunk|Background: For real time surveillance, detection of abnormal disease patterns is based on a difference between patterns observed, and those predicted by models of historical data. The usefulness of outbreak detection strategies depends on their specificity; the false alarm rate affects the interpretation of alarms.
+
+2|chunk|We evaluate the specificity of five traditional models: autoregressive, Serfling, trimmed seasonal, wavelet-based, and generalized linear. We apply each to 12 years of emergency department visits for respiratory infection syndromes at a pediatric hospital, finding that the specificity of the five models was almost always a non-constant function of the day of the week, month, and year of the study (p < 0.05). We develop an outbreak detection method, called the expectation-variance model, based on generalized additive modeling to achieve a constant specificity by accounting for not only the expected number of visits, but also the variance of the number of visits. The expectation-variance model achieves constant specificity on all three time scales, as well as earlier detection and improved sensitivity compared to traditional methods in most circumstances.
+2	119	130 generalized	Phenotype	HP_0012837
+2	200	221 respiratory infection	Phenotype	HP_0011947
+2	501	512 generalized	Phenotype	HP_0012837
+
+3|chunk|Modeling the variance of visit patterns enables real-time detection with known, constant specificity at all times. With constant specificity, public health practitioners can better interpret the alarms and better evaluate the cost-effectiveness of surveillance systems.
+

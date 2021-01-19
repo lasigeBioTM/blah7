@@ -1,0 +1,29 @@
+0|chunk|viruses Viruses and Autoimmunity: A Review on the Potential Interaction and Molecular Mechanisms
+
+1|chunk|For a long time, viruses have been shown to modify the clinical picture of several autoimmune diseases, including type 1 diabetes (T1D), systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), Sjgren's syndrome (SS), herpetic stromal keratitis (HSK), celiac disease (CD), and multiple sclerosis (MS). Best examples of viral infections that have been proposed to modulate the induction and development of autoimmune diseases are the infections with enteric viruses such as Coxsackie B virus (CVB) and rotavirus, as well as influenza A viruses (IAV), and herpesviruses. Other viruses that have been studied in this context include, measles, mumps, and rubella. Epidemiological studies in humans and experimental studies in animal have shown that viral infections can induce or protect from autoimmunopathologies depending on several factors including genetic background, host-elicited immune responses, type of virus strain, viral load, and the onset time of infection. Still, data delineating the clear mechanistic interaction between the virus and the immune system to induce autoreactivity are scarce. Available data indicate that viral-induced autoimmunity can be activated through multiple mechanisms including molecular mimicry, epitope spreading, bystander activation, and immortalization of infected B cells. Contrarily, the protective effects can be achieved via regulatory immune responses which lead to the suppression of autoimmune phenomena. Therefore, a better understanding of the immune-related molecular processes in virus-induced autoimmunity is warranted. Here we provide an overview of the current understanding of viral-induced autoimmunity and the mechanisms that are associated with this phenomenon. Viruses 2019, 11, 762 2 of 18
+1	114	129 type 1 diabetes	Phenotype	HP_0100651
+1	137	165 systemic lupus erythematosus	Phenotype	HP_0002725
+1	173	193 rheumatoid arthritis	Phenotype	HP_0001370
+1	184	193 arthritis	Phenotype	HP_0001369
+1	242	251 keratitis	Phenotype	HP_0000491
+1	259	273 celiac disease	Phenotype	HP_0002608
+1	951	956 onset	Phenotype	HP_0003674
+1	1154	1166 autoimmunity	Phenotype	HP_0002960
+1	1554	1566 autoimmunity	Phenotype	HP_0002960
+1	1655	1667 autoimmunity	Phenotype	HP_0002960
+
+2|chunk|, and several others [9] . Another hypothesized mechanism is the "bystander activation", whereby a non-specific and an over-reactive antiviral immune response creates a localized pro-inflammatory environment along with the release of self-antigens from the damaged tissue. These self-antigens are subsequently taken up and presented by antigen presenting cells (APC) to stimulate the previously non-responsive, yet autoreactive T cells in the vicinity triggering autoimmunity [10] . A related mechanism is called "epitope spreading", in which a viral infection triggers the release of more self-antigens and the de novo activation of autoreactive cells, which consequently spread to target additional self-epitopes [9] . Both molecular mimicry and bystander activation have been observed in the experimental autoimmune encephalomyelitis (EAE) model of multiple sclerosis (MS) [11], West Nile virus (WNV)-mediated myasthenia gravis (MG) [12] , TMEV-IDD [13] , and other disorders [9] . Moreover, viruses may immortalize autoreactive effector cells as observed in Epstein-Barr virus (EBV)-infected B cells [14] . While several hypotheses have been proposed to understand the mechanisms underlying virus-induced autoimmunity, the precise contribution of these mechanisms are not yet fully understood. This review summarizes the recent findings on virally induced autoimmunity and the potential underlying mechanisms triggering the development of this disorder.
+2	143	158 immune response	Gene_function	GO_0006955
+2	169	178 localized	Phenotype	HP_0012838
+2	463	475 autoimmunity	Phenotype	HP_0002960
+2	545	560 viral infection	Gene_function	GO_0016032
+2	913	923 myasthenia	Phenotype	HP_0003473
+2	1209	1221 autoimmunity	Phenotype	HP_0002960
+2	1360	1372 autoimmunity	Phenotype	HP_0002960
+2	GO-HP	GO_0006955	HP_0012838
+2	GO-HP	GO_0006955	HP_0002960
+2	GO-HP	GO_0006955	HP_0003473
+2	HP-GO	HP_0012838	GO_0016032
+2	HP-GO	HP_0002960	GO_0016032
+2	GO-HP	GO_0016032	HP_0003473
+

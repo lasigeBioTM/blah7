@@ -1,0 +1,54 @@
+0|chunk|Eukaryotic Initiation Factor 2 -a Downstream Effector of Mammalian Target of Rapamycin -Modulates DNA Repair and Cancer Response to Treatment
+0	46	54 Effector	Chemical	CHEBI_35224
+0	78	87 Rapamycin	Chemical	CHEBI_9168
+0	99	102 DNA	Chemical	CHEBI_16991
+0	114	120 Cancer	Disease	DOID_162
+0	CHEBI-DOID	CHEBI_35224	DOID_162
+0	CHEBI-DOID	CHEBI_9168	DOID_162
+0	CHEBI-DOID	CHEBI_16991	DOID_162
+
+1|chunk|In an effort to circumvent resistance to rapamycin -an mTOR inhibitor -we searched for novel rapamycindownstream-targets that may be key players in the response of cancer cells to therapy. We found that rapamycin, at nM concentrations, increased phosphorylation of eukaryotic initiation factor (eIF) 2 in rapamycin-sensitive and estrogen-dependent MCF-7 cells, but had only a minimal effect on eIF2 phosphorylation in the rapamycininsensitive triple-negative MDA-MB-231 cells. Addition of salubrinal -an inhibitor of eIF2 dephosphorylationdecreased expression of a surface marker associated with capacity for self renewal, increased senescence and induced clonogenic cell death, suggesting that excessive phosphorylation of eIF2 is detrimental to the cells' survival. Treating cells with salubrinal enhanced radiation-induced increase in eIF2 phosphorylation and clonogenic death and showed that irradiated cells are more sensitive to increased eIF2 phosphorylation than non-irradiated ones. Similar to salubrinal -the phosphomimetic eIF2 variant -S51D -increased sensitivity to radiation, and both abrogated radiation-induced increase in breast cancer type 1 susceptibility gene, thus implicating enhanced phosphorylation of eIF2 in modulation of DNA repair. Indeed, salubrinal inhibited non-homologous end joining as well as homologous recombination repair of double strand breaks that were induced by I-SceI in green fluorescent protein reporter plasmids. In addition to its effect on radiation, salubrinal enhanced eIF2 phosphorylation and clonogenic death in response to the histone deacetylase inhibitor -vorinostat. Finally, the catalytic competitive inhibitor of mTOR -Ku-0063794 -increased phosphorylation of eIF2 demonstrating further the involvement of mTOR activity in modulating eIF2 phosphorylation. These experiments suggest that excessive phosphorylation of eIF2 decreases survival of cancer cells; making eIF2 a worthy target for drug development, with the potential to enhance the cytotoxic effects of established anti-neoplastic therapies and circumvent resistance to rapalogues and possibly to other drugs that inhibit upstream components of the mTOR pathway.
+1	41	50 rapamycin	Chemical	CHEBI_9168
+1	55	69 mTOR inhibitor	Chemical	CHEBI_68481
+1	60	69 inhibitor	Chemical	CHEBI_35222
+1	164	170 cancer	Disease	DOID_162
+1	203	212 rapamycin	Chemical	CHEBI_9168
+1	295	298 eIF	Chemical	CHEBI_73497
+1	491	501 salubrinal	Chemical	CHEBI_131923
+1	506	515 inhibitor	Chemical	CHEBI_35222
+1	792	802 salubrinal	Chemical	CHEBI_131923
+1	1009	1019 salubrinal	Chemical	CHEBI_131923
+1	1146	1159 breast cancer	Disease	DOID_1612
+1	1153	1159 cancer	Disease	DOID_162
+1	1256	1259 DNA	Chemical	CHEBI_16991
+1	1276	1286 salubrinal	Chemical	CHEBI_131923
+1	1440	1447 protein	Chemical	CHEBI_16541
+1	1507	1517 salubrinal	Chemical	CHEBI_131923
+1	1589	1596 histone	Chemical	CHEBI_15358
+1	1589	1618 histone deacetylase inhibitor	Chemical	CHEBI_61115
+1	1609	1618 inhibitor	Chemical	CHEBI_35222
+1	1667	1676 inhibitor	Chemical	CHEBI_35222
+1	1913	1919 cancer	Disease	DOID_162
+1	1960	1964 drug	Chemical	CHEBI_23888
+1	2133	2138 drugs	Chemical	CHEBI_23888
+1	CHEBI-DOID	CHEBI_9168	DOID_162
+1	CHEBI-DOID	CHEBI_9168	DOID_1612
+1	CHEBI-DOID	CHEBI_68481	DOID_162
+1	CHEBI-DOID	CHEBI_68481	DOID_1612
+1	CHEBI-DOID	CHEBI_35222	DOID_162
+1	CHEBI-DOID	CHEBI_35222	DOID_1612
+1	DOID-CHEBI	DOID_162	CHEBI_73497
+1	DOID-CHEBI	DOID_162	CHEBI_131923
+1	DOID-CHEBI	DOID_162	CHEBI_16991
+1	DOID-CHEBI	DOID_162	CHEBI_16541
+1	DOID-CHEBI	DOID_162	CHEBI_15358
+1	DOID-CHEBI	DOID_162	CHEBI_61115
+1	DOID-CHEBI	DOID_162	CHEBI_23888
+1	CHEBI-DOID	CHEBI_73497	DOID_1612
+1	CHEBI-DOID	CHEBI_131923	DOID_1612
+1	DOID-CHEBI	DOID_1612	CHEBI_16991
+1	DOID-CHEBI	DOID_1612	CHEBI_16541
+1	DOID-CHEBI	DOID_1612	CHEBI_15358
+1	DOID-CHEBI	DOID_1612	CHEBI_61115
+1	DOID-CHEBI	DOID_1612	CHEBI_23888
+

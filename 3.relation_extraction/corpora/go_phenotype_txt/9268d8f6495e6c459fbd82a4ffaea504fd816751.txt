@@ -1,0 +1,30 @@
+0|chunk|Zika virus: mapping and reprogramming the entry
+
+1|chunk|Background: The flaviviridae family comprises single-stranded RNA viruses that enter cells via clathrin-mediated pHdependent endocytosis. Although the initial events of the virus entry have been already identified, data regarding intracellular virus trafficking and delivery to the replication site are limited. The purpose of this study was to map the transport route of Zika virus and to identify the fusion site within the endosomal compartment. Methods: Tracking of viral particles in the cell was carried out with confocal microscopy. Immunostaining of two structural proteins of Zika virus enabled precise mapping of the route of the ribonucleocapsid and the envelope and, consequently, mapping the fusion site in the endosomal compartment. The results were verified using RNAi silencing and chemical inhibitors. Results: After endocytic internalization, Zika virus is trafficked through the endosomal compartment to fuse in late endosomes. Inhibition of endosome acidification using bafilomycin A1 hampers the infection, as the fusion is inhibited; instead, the virus is transported to late compartments where it undergoes proteolytic degradation. The degradation products are ejected from the cell via slow recycling vesicles. Surprisingly, NH 4 Cl, which is also believed to block endosome acidification, shows a very different mode of action. In the presence of this basic compound, the endocytic hub is reprogrammed. Zika virus-containing vesicles never reach the late stage, but are rapidly trafficked to the plasma membrane via a fast recycling pathway after the clathrin-mediated endocytosis. Further, we also noted that, similarly as other members of the flaviviridae family, Zika virus undergoes furin-or furinlike-dependent activation during late steps of infection, while serine or cysteine proteases are not required for Zika virus maturation or entry. Conclusions: Zika virus fusion occurs in late endosomes and is pH-dependent. These results broaden our understanding of Zika virus intracellular trafficking and may in future allow for development of novel treatment strategies. Further, we identified a novel mode of action for agents commonly used in studies of virus entry.
+1	230	243 intracellular	Gene_function	GO_0005622
+1	353	362 transport	Gene_function	GO_0006810
+1	665	673 envelope	Gene_function	GO_0031975
+1	779	783 RNAi	Gene_function	GO_0016246
+1	961	969 endosome	Gene_function	GO_0005768
+1	961	983 endosome acidification	Gene_function	GO_0015078
+1	970	983 acidification	Gene_function	GO_0045851
+1	1142	1153 degradation	Gene_function	GO_0009056
+1	1159	1170 degradation	Gene_function	GO_0009056
+1	1290	1298 endosome	Gene_function	GO_0005768
+1	1290	1312 endosome acidification	Gene_function	GO_0015078
+1	1299	1312 acidification	Gene_function	GO_0045851
+1	1521	1536 plasma membrane	Gene_function	GO_0005886
+1	1528	1536 membrane	Gene_function	GO_0016020
+1	1543	1547 fast	Gene_function	GO_0033867
+1	1845	1861 virus maturation	Gene_function	GO_0019075
+1	2003	2016 intracellular	Gene_function	GO_0005622
+
+2|chunk|Zika virus is a mosquito-borne pathogen, which infects humans. Here, we present how Zika virus hijacks intracellular transport machinery to be delivered to the replication site. Tracking of single virions revealed that they follow clathrin-mediated endocytosis to fuse within late endosomes. Interestingly, we noted that two compounds commonly used to block endocytosis -bafilomycin A1 and NH 4 Cl -have a very different activity than previously anticipated. Bafilomycin A1 disables viral fusion by alteration of the endosome pH, while NH 4 Cl completely rewires the endosomal hub.
+2	103	116 intracellular	Gene_function	GO_0005622
+2	103	126 intracellular transport	Gene_function	GO_0046907
+2	117	126 transport	Gene_function	GO_0006810
+2	231	260 clathrin-mediated endocytosis	Gene_function	GO_0072583
+2	249	260 endocytosis	Gene_function	GO_0006897
+2	358	369 endocytosis	Gene_function	GO_0006897
+2	517	525 endosome	Gene_function	GO_0005768
+

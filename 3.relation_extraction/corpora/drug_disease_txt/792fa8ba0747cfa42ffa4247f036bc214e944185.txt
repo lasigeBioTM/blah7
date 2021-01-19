@@ -1,0 +1,64 @@
+0|chunk|Polyprotein Processing as a Determinant for in Vitro Activity of Semliki Forest Virus Replicase
+
+1|chunk|Semliki Forest virus (SFV) is an arthropod-borne alphavirus that induces membrane invaginations (spherules) in host cells. These harbor the viral replication complexes (RC) that synthesize viral RNA. Alphaviruses have four replicase or nonstructural proteins (nsPs), nsP1-4, expressed as polyprotein P1234. An early RC, which synthesizes minus-strand RNA, is formed by the polyprotein P123 and the polymerase nsP4. Further proteolytic cleavage results in a late RC consisting of nsP1-4 and synthesizing plus strands. Here, we show that only the late RCs are highly active in RNA synthesis in vitro. Furthermore, we demonstrate that active RCs can be isolated from both virus-infected cells and cells transfected with the wild-type replicase in combination with a plasmid expressing a template RNA. When an uncleavable polyprotein P123 and polymerase nsP4 were expressed together with a template, high levels of minus-strand RNA were produced in cells, but RCs isolated from these cells were hardly active in vitro. Furthermore, we observed that the uncleavable polyprotein P123 and polymerase nsP4, which have previously been shown to form spherules even in the absence of the template, did not replicate an exogenous template. Consequently, we hypothesize that the replicase proteins were sequestered in spherules and were no longer able to recruit a template. Viruses 2017, 9, 292 2 of 18 polymerase [9-16]. All members of the alphavirus-like superfamily share capping, helicase, and polymerase domains in their replicase proteins [2].
+1	195	198 RNA	Chemical	CHEBI_33697
+1	250	258 proteins	Chemical	CHEBI_36080
+1	351	354 RNA	Chemical	CHEBI_33697
+1	575	578 RNA	Chemical	CHEBI_33697
+1	793	796 RNA	Chemical	CHEBI_33697
+1	924	927 RNA	Chemical	CHEBI_33697
+1	1276	1284 proteins	Chemical	CHEBI_36080
+1	1524	1532 proteins	Chemical	CHEBI_36080
+
+2|chunk|Membrane-associated RCs are typical of all eukaryotic +RNA viruses. Membrane connection is indispensable, and two types of replication-associated membrane modifications have been recognized: membrane invaginations called spherules, as e.g., induced by alphaviruses; and double-membrane vesicles (DMVs), as e.g., induced by coronaviruses [17] . Alphaviruses form spherules at the plasma membrane, and CHIKV and Sindbis virus (SINV) spherules predominantly stay at the plasma membrane, while Semliki Forest virus (SFV) spherules are internalized to endoand lysosomal membranes [18] [19] [20] .
+
+3|chunk|The early RCs of alphaviruses are formed when the polymerase nsP4 is first cleaved from the nonstructural polyprotein. The resulting complex of P123 and nsP4 mainly synthesizes minus-strand RNA using the genomic RNA as a template [8, 21] . Next, P123 is cleaved to individual proteins, and the fully processed nsPs form the late RC, which synthesizes only genomic and subgenomic plus strands from the minus-strand RNA [8] . It has been shown that the template's length determines SFV spherule size [22] , and the current view is that the minus-strand RNA synthesized from the genomic template is inside the mature spherule as part of double-stranded RNA (dsRNA) molecules that form the replicative intermediates, and newly made plus strands are released into the cytoplasm [23] [24] [25] .
+3	190	193 RNA	Chemical	CHEBI_33697
+3	212	215 RNA	Chemical	CHEBI_33697
+3	414	417 RNA	Chemical	CHEBI_33697
+3	551	554 RNA	Chemical	CHEBI_33697
+3	634	653 double-stranded RNA	Chemical	CHEBI_67208
+3	650	653 RNA	Chemical	CHEBI_33697
+3	655	660 dsRNA	Chemical	CHEBI_67208
+3	662	671 molecules	Chemical	CHEBI_25367
+
+4|chunk|Plasmid-based trans-replication systems have been developed to study the formation and activity of alphaviral RCs and the functions of the nsPs outside the context of viral infection [19, 22, 24, [26] [27] [28] [29] . The replicase proteins are expressed from one or several plasmids together with a separate plasmid that expresses a template RNA that can be replicated in trans. However, active replication is achieved only when plus-stranded RNA is expressed as a template. This indicates that replication cannot initiate from a single-stranded minus strand as a template, but rather requires a dsRNA intermediate for plus-strand synthesis [27, 30] . Furthermore, it has been recently shown that a partially uncleaved alphavirus replicase can form spherules in the absence of the RNA template [29] . The template-independent spherule formation requires a combination of the uncleaved P123 and nsP4 or nsP1, or uncleaved P23 and nsP4. Furthermore, even a polymerase mutant (nsP4 GAA ) with its active site Gly-Asp-Asp (GDD) mutated to Gly-Ala-Ala (GAA) causes spherule formation when co-expressed with P123 or nsP1 and P23. Spherule morphology in the absence of the template is, however, more irregular compared to those formed during normal replication, confirming the idea that the template plays a central role in size determination.
+4	167	182 viral infection	Disease	DOID_934
+4	232	240 proteins	Chemical	CHEBI_36080
+4	334	346 template RNA	Chemical	CHEBI_33699
+4	343	346 RNA	Chemical	CHEBI_33697
+4	444	447 RNA	Chemical	CHEBI_33697
+4	597	602 dsRNA	Chemical	CHEBI_67208
+4	782	785 RNA	Chemical	CHEBI_33697
+4	980	983 GAA	Chemical	CHEBI_144460
+4	1020	1023 GDD	Disease	DOID_0111533
+4	1036	1047 Gly-Ala-Ala	Chemical	CHEBI_144460
+4	1049	1052 GAA	Chemical	CHEBI_144460
+4	1310	1314 role	Chemical	CHEBI_50906
+4	DOID-CHEBI	DOID_934	CHEBI_36080
+4	DOID-CHEBI	DOID_934	CHEBI_33699
+4	DOID-CHEBI	DOID_934	CHEBI_33697
+4	DOID-CHEBI	DOID_934	CHEBI_67208
+4	DOID-CHEBI	DOID_934	CHEBI_144460
+4	DOID-CHEBI	DOID_934	CHEBI_50906
+4	CHEBI-DOID	CHEBI_36080	DOID_0111533
+4	CHEBI-DOID	CHEBI_33699	DOID_0111533
+4	CHEBI-DOID	CHEBI_33697	DOID_0111533
+4	CHEBI-DOID	CHEBI_67208	DOID_0111533
+4	CHEBI-DOID	CHEBI_144460	DOID_0111533
+4	DOID-CHEBI	DOID_0111533	CHEBI_50906
+
+5|chunk|The RNA-synthesizing activity of alphavirus RCs has also been studied using in vitro replication assays (IVRAs). CHIKV, SINV, and SFV synthesize single-stranded genomic and subgenomic RNA as well as double-stranded RNA in vitro [25, 31, 32] , and for CHIKV it has been shown that in vitro any produced RNA is of positive polarity [25] . Besides genomic and subgenomic RNA, CHIKV and other alphaviruses synthesize an RNA species of about 7.5 kb [25, 33] . This RNA II contains the 5 end of the genome up to the subgenomic promoter. Although RNA II is produced both in cells and in vitro, its function remains an unanswered question [25] .
+5	184	187 RNA	Chemical	CHEBI_33697
+5	199	218 double-stranded RNA	Chemical	CHEBI_67208
+5	215	218 RNA	Chemical	CHEBI_33697
+5	302	305 RNA	Chemical	CHEBI_33697
+5	368	371 RNA	Chemical	CHEBI_33697
+5	416	419 RNA	Chemical	CHEBI_33697
+5	460	463 RNA	Chemical	CHEBI_33697
+5	541	544 RNA	Chemical	CHEBI_33697
+
+6|chunk|Here, we applied the IVRA developed for CHIKV [25] to study the RNA synthesis of SFV in the trans-replication system. With the assay, robust activity could be measured in samples prepared from SFV-infected cells. The subsequent in vitro characterization of RCs formed upon the expression of different SFV replicase constructs using the trans-replication system revealed that only the fully processed polyprotein supports highly active RNA synthesis.
+6	64	67 RNA	Chemical	CHEBI_33697
+6	435	438 RNA	Chemical	CHEBI_33697
+

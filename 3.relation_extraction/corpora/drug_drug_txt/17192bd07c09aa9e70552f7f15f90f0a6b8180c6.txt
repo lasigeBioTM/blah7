@@ -1,0 +1,46 @@
+0|chunk|Overlapping genes and the proteins they encode differ significantly in their sequence composition from non-overlapping genes
+0	26	34 proteins	Chemical	CHEBI_36080
+
+1|chunk|Overlapping genes represent a fascinating evolutionary puzzle, since they encode two functionally unrelated proteins from the same DNA sequence. They originate by a mechanism of overprinting, in which point mutations in an existing frame allow the expression (the "birth") of a completely new protein from a second frame. In viruses, in which overlapping genes are abundant, these new proteins often play a critical role in infection, yet they are frequently overlooked during genome annotation. This results in erroneous interpretation of mutational studies and in a significant waste of resources. Therefore, overlapping genes need to be correctly detected, especially since they are now thought to be abundant also in eukaryotes. Developing better detection methods and conducting systematic evolutionary studies require a large, reliable benchmark dataset of known cases. We thus assembled a highquality dataset of 80 viral overlapping genes whose expression is experimentally proven. Many of them were not present in databases. We found that overall, overlapping genes differ significantly from non-overlapping genes in their nucleotide and amino acid composition. In particular, the proteins they encode are enriched in high-degeneracy amino acids and depleted in low-degeneracy ones, which may alleviate the evolutionary constraints acting on overlapping genes. Principal component analysis revealed that the vast majority of overlapping genes follow a similar composition bias, despite their heterogeneity in length and function. Six proven mammalian overlapping genes also followed this bias. We propose that this apparently near-universal composition bias may either favour the birth of overlapping genes, or/and result from selection pressure acting on them.
+1	108	116 proteins	Chemical	CHEBI_36080
+1	131	134 DNA	Chemical	CHEBI_16991
+1	293	300 protein	Chemical	CHEBI_16541
+1	385	393 proteins	Chemical	CHEBI_36080
+1	416	420 role	Chemical	CHEBI_50906
+1	1131	1141 nucleotide	Chemical	CHEBI_36976
+1	1146	1151 amino	Chemical	CHEBI_46882
+1	1146	1156 amino acid	Chemical	CHEBI_33704
+1	1152	1156 acid	Chemical	CHEBI_37527
+1	1189	1197 proteins	Chemical	CHEBI_36080
+1	1242	1247 amino	Chemical	CHEBI_46882
+1	1242	1253 amino acids	Chemical	CHEBI_33704
+1	1248	1253 acids	Chemical	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+

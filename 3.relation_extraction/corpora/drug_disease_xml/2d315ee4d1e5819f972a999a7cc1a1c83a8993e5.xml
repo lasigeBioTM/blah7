@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5">
+  <chunk id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c0" text="Graph-distance distribution of the Boltzmann ensemble of RNA secondary structures">
+    <entity charOffset="57-60" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c0.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1" text="Background: Large RNA molecules are often composed of multiple functional domains whose spatial arrangement strongly influences their function. Pre-mRNA splicing, for instance, relies on the spatial proximity of the splice junctions that can be separated by very long introns. Similar effects appear in the processing of RNA virus genomes. Albeit a crude measure, the distribution of spatial distances in thermodynamic equilibrium harbors useful information on the shape of the molecule that in turn can give insights into the interplay of its functional domains. Result: Spatial distance can be approximated by the graph-distance in RNA secondary structure. We show here that the equilibrium distribution of graph-distances between a fixed pair of nucleotides can be computed in polynomial time by means of dynamic programming. While a naïve implementation would yield recursions with a very high time complexity of O(n 6 D 5 ) for sequence length n and D distinct distance values, it is possible to reduce this to O(n 4 ) for practical applications in which predominantly small distances are of of interest. Further reductions, however, seem to be difficult. Therefore, we introduced sampling approaches that are much easier to implement. They are also theoretically favorable for several real-life applications, in particular since these primarily concern long-range interactions in very large RNA molecules. Conclusions: The graph-distance distribution can be computed using a dynamic programming approach. Although a crude approximation of reality, our initial results indicate that the graph-distance can be related to the smFRET data. The additional file and the software of our paper are available from http://www.rna.uni-jena.de/RNAgraphdist.html.">
+    <entity charOffset="18-21" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="22-31" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e1" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="144-152" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e2" ontology_id="CHEBI_139356" text="Pre-mRNA" type="chemical"/>
+    <entity charOffset="321-324" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="478-486" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e4" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="634-637" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="749-760" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e6" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="1397-1400" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e7" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1401-1410" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e8" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="1722-1725" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c1.e9" ontology_id="CHEBI_33697" text="rna" type="chemical"/>
+  </chunk>
+  <chunk id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2" text="The distance distribution within an RNA molecule is of interest in various contexts. Most directly, the question arises whether panhandle-like structures (in which 3' and 5' ends of long RNA molecules are placed in close proximity) are the rule or an exception. Panhandles have been reported in particular for many RNA virus genomes. Several studies [1-4] agree based on different models that the two ends of single-stranded RNA molecules are typically not far apart. On a more technical level, the problem">
+    <entity charOffset="36-39" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="40-48" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e1" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="187-190" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="191-200" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e3" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="315-318" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="425-428" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="429-438" id="2d315ee4d1e5819f972a999a7cc1a1c83a8993e5.c2.e6" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+  </chunk>
+</document>

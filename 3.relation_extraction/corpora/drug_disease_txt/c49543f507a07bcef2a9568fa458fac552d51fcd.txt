@@ -1,0 +1,56 @@
+0|chunk|Novel coronavirus-like particles targeting cells lining the respiratory tract
+
+1|chunk|Virus like particles (VLPs) produced by the expression of viral structural proteins can serve as versatile nanovectors or potential vaccine candidates. In this study we describe for the first time the generation of HCoV-NL63 VLPs using baculovirus system. Major structural proteins of HCoV-NL63 have been expressed in tagged or native form, and their assembly to form VLPs was evaluated. Additionally, a novel procedure for chromatography purification of HCoV-NL63 VLPs was developed. Interestingly, we show that these nanoparticles may deliver cargo and selectively transduce cells expressing the ACE2 protein such as ciliated cells of the respiratory tract. Production of a specific delivery vector is a major challenge for research concerning targeting molecules. The obtained results show that HCoV-NL63 VLPs may be efficiently produced, purified, modified and serve as a delivery platform. This study constitutes an important basis for further development of a promising viral vector displaying narrow tissue tropism. mouse hepatitis virus (MHV) [9-13], avian infectious bronchitis virus (IBV) [14] , porcine transmissible gastroenteritis virus (TGEV) [15, 16] and porcine epidemic diarrhea virus (PEDV) [17] .
+1	75	83 proteins	Chemical	CHEBI_36080
+1	273	281 proteins	Chemical	CHEBI_36080
+1	519	532 nanoparticles	Chemical	CHEBI_50803
+1	603	610 protein	Chemical	CHEBI_16541
+1	1029	1038 hepatitis	Disease	DOID_2237
+1	1076	1086 bronchitis	Disease	DOID_6132
+1	1128	1143 gastroenteritis	Disease	DOID_2326
+1	1187	1195 diarrhea	Disease	DOID_13250
+1	CHEBI-DOID	CHEBI_36080	DOID_2237
+1	CHEBI-DOID	CHEBI_36080	DOID_6132
+1	CHEBI-DOID	CHEBI_36080	DOID_2326
+1	CHEBI-DOID	CHEBI_36080	DOID_13250
+1	CHEBI-DOID	CHEBI_50803	DOID_2237
+1	CHEBI-DOID	CHEBI_50803	DOID_6132
+1	CHEBI-DOID	CHEBI_50803	DOID_2326
+1	CHEBI-DOID	CHEBI_50803	DOID_13250
+1	CHEBI-DOID	CHEBI_16541	DOID_2237
+1	CHEBI-DOID	CHEBI_16541	DOID_6132
+1	CHEBI-DOID	CHEBI_16541	DOID_2326
+1	CHEBI-DOID	CHEBI_16541	DOID_13250
+
+2|chunk|The majority of studies describing the production of coronaviral like particles focus on two main threads-particle assembly and immunogenicity assessment. The propitious property of being tailorable and non-infectious renders VLPs a handy tool for studying not only requirements for efficient trafficking, assembly and release of viral particles, but also interactions with cellular receptors. Numerous studies using coronaviral like particles provided valuable data on structure of SARS [6, 8, 18] , MHV [9, 10, 12, 13, 19] , IBV [14] and TGEV [16] . The second branch of VLP investigation focuses on their use as vaccine candidates. Due to the repetitive exposition of surface antigens and their particulate structure, VLPs interact with the immune system similarly to native viruses, inducing humoral and cellular responses. Production of protective antibody titers, as well as induction of cell-mediated immunity induced by VLPs have been shown for animal and human coronaviruses, such as IBV [20, 21] , PEDV [17], TGEV [15], SARS [22, 23] and recently for middle east respiratory syndrome coronavirus (MERS--CoV) [24, 25] .
+2	483	487 SARS	Disease	DOID_2945
+2	679	687 antigens	Chemical	CHEBI_59132
+2	1030	1034 SARS	Disease	DOID_2945
+2	1061	1093 middle east respiratory syndrome	Disease	DOID_0080642
+2	1085	1093 syndrome	Disease	DOID_225
+2	DOID-CHEBI	DOID_2945	CHEBI_59132
+2	CHEBI-DOID	CHEBI_59132	DOID_0080642
+2	CHEBI-DOID	CHEBI_59132	DOID_225
+
+3|chunk|In this work we describe the design, production and characterization of VLPs based on structural proteins of human coronavirus NL63 (HCoV-NL63). HCoV-NL63 is a wide-spread virus, causing infections of the lower and upper respiratory tract of varying severity [26] . The HCoV-NL63 virion is composed of membrane (M), envelope (E) and protruding spike (S) proteins, all three shaping the membrane to form the envelope protecting ribonucleocapsid [27] . Recently also ORF3 protein was identified as structural protein of HCoV-NL63, yet its function remains to be elucidated [28] . M is relatively small protein (26 kDa), which spans the viral membrane three or four times. It is essential for virus assembly and budding, as it forms the membrane curvature and interacts with the ribonucleoprotein and other structural proteins (E and S) [29] . E protein (9 kDa) is also engaged in virus assembly and egress [30, 31] . S protein (150 kDa) is anchored in the viral envelope by its C-terminal part, while its large ectodomain trimerize and forms characteristic spikes at the virion's surface [32] . S protein is responsible for receptor binding and virus entry into host cells [33] . HCoV-NL63 infects exclusively ciliated cells of human respiratory epithelium and for the penetration of the cell it requires interaction between spike protein and angiotensin converting enzyme 2 (ACE2) [34] . This narrow specificity and tropism to respiratory tissue render HCoV-NL63 an interesting basis for development of VLPs, that have not been described yet.
+3	97	105 proteins	Chemical	CHEBI_36080
+3	354	362 proteins	Chemical	CHEBI_36080
+3	470	477 protein	Chemical	CHEBI_16541
+3	507	514 protein	Chemical	CHEBI_16541
+3	600	607 protein	Chemical	CHEBI_16541
+3	815	823 proteins	Chemical	CHEBI_36080
+3	843	850 protein	Chemical	CHEBI_16541
+3	917	924 protein	Chemical	CHEBI_16541
+3	1095	1102 protein	Chemical	CHEBI_16541
+3	1329	1336 protein	Chemical	CHEBI_16541
+3	1341	1352 angiotensin	Chemical	CHEBI_2719
+
+4|chunk|In this manuscript we present the design and production of HCoV-NL63-based VLPs. Several modifications of proteins forming HCoV-NL63 VLP were introduced and their influence on particle assembly and function was tested. Moreover, we have developed a chromatography purification method of HCoV-NL63 VLPs. Finally, we demonstrated that HCoV-NL63 VLPs may serve as highly specific delivery vectors to cells expressing the ACE2 protein.
+4	106	114 proteins	Chemical	CHEBI_36080
+
+5|chunk|Materials and methods
+
+6|chunk|Sf9 (Spodiptera frugiperda, ATCC: CRL-1711) and HF (High Five, Trichoplusia ni, ATCC: CRL-7701) cells were cultured in ESF (Expression Systems, CA, USA) medium supplemented with 2% FBS (fetal bovine serum) (ThermoFisher Scientific, Poland), 100 g/ml streptomycin, 100 IU/ml penicillin, 10 g/ml gentamycin, and 0.25 g/ml amphotericin B. The culture was maintained in a humidified incubator at 27C. Sf9 cells were used for baculovirus (BVs) generation and amplification, while HF cells were used for recombinant proteins expression. Human coronavirus-NL63 virus like particles PLOS ONE | https://doi.
+6	514	522 proteins	Chemical	CHEBI_36080
+6	584	587 ONE	Chemical	CHEBI_58972
+

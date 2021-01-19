@@ -1,0 +1,65 @@
+0|chunk|Clinical Medicine Proteases and Their Inhibitors in Chronic Obstructive Pulmonary Disease
+0	9	17 Medicine	Chemical	CHEBI_23888
+0	38	48 Inhibitors	Chemical	CHEBI_35222
+0	52	89 Chronic Obstructive Pulmonary Disease	Disease	DOID_3083
+0	82	89 Disease	Disease	DOID_4
+0	CHEBI-DOID	CHEBI_23888	DOID_3083
+0	CHEBI-DOID	CHEBI_23888	DOID_4
+0	CHEBI-DOID	CHEBI_35222	DOID_3083
+0	CHEBI-DOID	CHEBI_35222	DOID_4
+
+1|chunk|In the context of respiratory disease, chronic obstructive pulmonary disease (COPD) is the leading cause of mortality worldwide. Despite much development in the area of drug development, currently there are no effective medicines available for the treatment of this disease. An imbalance in the protease: Antiprotease ratio in the COPD lung remains an important aspect of COPD pathophysiology and several studies have shown the efficacy of antiprotease therapy in both in vitro and in vivo COPD models. However more in-depth studies will be required to validate the efficacy of lead drug molecules targeting these proteases. This review discusses the current status of protease-directed drugs used for treating COPD and explores the future prospects of utilizing the potential of antiprotease-based therapeutics as a treatment for this disease. and viral pathogens may also play a major role in the development of COPD and contribute to the rise in exacerbation frequency among the COPD population [19] [20] [21] . Given the increasing healthcare and societal burden associated with the increase in COPD, a number of therapeutic programmes are ongoing to develop strategies for the treatment of COPD [22] [23] [24] [25] [26] [27] [28] [29] [30] . As it will be beyond the scope of this review to discuss all of the ongoing therapeutic programmes, we will focus on the current status of antiprotease therapy against COPD.
+1	30	37 disease	Disease	DOID_4
+1	39	76 chronic obstructive pulmonary disease	Disease	DOID_3083
+1	69	76 disease	Disease	DOID_4
+1	78	82 COPD	Disease	DOID_3083
+1	169	173 drug	Chemical	CHEBI_23888
+1	266	273 disease	Disease	DOID_4
+1	331	335 COPD	Disease	DOID_3083
+1	372	376 COPD	Disease	DOID_3083
+1	490	494 COPD	Disease	DOID_3083
+1	583	587 drug	Chemical	CHEBI_23888
+1	588	597 molecules	Chemical	CHEBI_25367
+1	687	692 drugs	Chemical	CHEBI_23888
+1	711	715 COPD	Disease	DOID_3083
+1	836	843 disease	Disease	DOID_4
+1	887	891 role	Chemical	CHEBI_50906
+1	914	918 COPD	Disease	DOID_3083
+1	982	986 COPD	Disease	DOID_3083
+1	1099	1103 COPD	Disease	DOID_3083
+1	1195	1199 COPD	Disease	DOID_3083
+1	1415	1419 COPD	Disease	DOID_3083
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+1	DOID-CHEBI	DOID_4	CHEBI_25367
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+1	DOID-CHEBI	DOID_3083	CHEBI_23888
+1	DOID-CHEBI	DOID_3083	CHEBI_25367
+1	DOID-CHEBI	DOID_3083	CHEBI_50906
+
+2|chunk|The protease: Antiprotease imbalance is considered to be one of the core physiological mechanisms involved in the pathogenesis of COPD [31]. One of the major genetic causes of COPD is A1AT deficiency [32] . A1AT is a serine protease inhibitor which regulates the neutrophilic chemotaxis involving both CXCR1 and FcRIIIb signaling [33] . In addition, A1AT has also been shown to regulate the levels of cathepsin B and metalloproteinase-2 (MMP2) in A1AT deficient patients treated with A1AT augmentation therapy [34] .
+2	130	134 COPD	Disease	DOID_3083
+2	176	180 COPD	Disease	DOID_3083
+2	217	223 serine	Chemical	CHEBI_17115
+2	217	242 serine protease inhibitor	Chemical	CHEBI_64926
+2	224	242 protease inhibitor	Chemical	CHEBI_37670
+2	233	242 inhibitor	Chemical	CHEBI_35222
+2	DOID-CHEBI	DOID_3083	CHEBI_17115
+2	DOID-CHEBI	DOID_3083	CHEBI_64926
+2	DOID-CHEBI	DOID_3083	CHEBI_37670
+2	DOID-CHEBI	DOID_3083	CHEBI_35222
+
+3|chunk|There are four different types of proteases namely serine, cysteine, aspartic, and MMPs which are thought to be involved in the pathogenesis of COPD. Among serine proteases, specifically, neutrophil elastase (NE), dipeptidyl peptidase 4, cathepsin G, proteinase 3, cathepsin C, mast cell-derived tryptase and chymase are found to be associated with the severity of COPD [35] [36] [37] [38] [39] [40] . The metal-activated proteinases including MMP-2, MMP-8, MMP-9, MMP-12, and MMP-13 are found to be highly expressed in both in vivo models and clinical samples [41] [42] [43] [44] [45] [46] . The cysteine proteases including caspase-1, caspase-3, caspase-7, caspase-8, caspase-9, caspase-11, cathepsin K, and cathepsin S have also been shown to be up-regulated in COPD patients [47] [48] [49] [50] [51] [52] [53] [54] [55] . Finally, elevated levels of the aspartic proteases cathepsin D and cathepsin E have been demonstrated in COPD patient tissue and various COPD models [56] [57] [58] [59] .
+3	51	57 serine	Chemical	CHEBI_17115
+3	59	67 cysteine	Chemical	CHEBI_15356
+3	144	148 COPD	Disease	DOID_3083
+3	156	162 serine	Chemical	CHEBI_17115
+3	365	369 COPD	Disease	DOID_3083
+3	597	605 cysteine	Chemical	CHEBI_15356
+3	765	769 COPD	Disease	DOID_3083
+3	931	935 COPD	Disease	DOID_3083
+3	963	967 COPD	Disease	DOID_3083
+3	CHEBI-DOID	CHEBI_17115	DOID_3083
+3	CHEBI-DOID	CHEBI_15356	DOID_3083
+
+4|chunk|3.1. Neutrophil Elastase (NE)
+

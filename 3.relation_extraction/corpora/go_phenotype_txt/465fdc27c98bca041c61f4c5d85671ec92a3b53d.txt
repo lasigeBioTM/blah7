@@ -1,0 +1,25 @@
+0|chunk|Distributed under Creative Commons CC-BY 4.0 Prediction of endoplasmic reticulum resident proteins using fragmented amino acid composition and support vector machine
+0	59	80 endoplasmic reticulum	Gene_function	GO_0005783
+
+1|chunk|Background. The endoplasmic reticulum plays an important role in many cellular processes, which includes protein synthesis, folding and post-translational processing of newly synthesized proteins. It is also the site for quality control of misfolded proteins and entry point of extracellular proteins to the secretory pathway. Hence at any given point of time, endoplasmic reticulum contains two different cohorts of proteins, (i) proteins involved in endoplasmic reticulum-specific function, which reside in the lumen of the endoplasmic reticulum, called as endoplasmic reticulum resident proteins and (ii) proteins which are in process of moving to the extracellular space. Thus, endoplasmic reticulum resident proteins must somehow be distinguished from newly synthesized secretory proteins, which pass through the endoplasmic reticulum on their way out of the cell. Approximately only 50% of the proteins used in this study as training data had endoplasmic reticulum retention signal, which shows that these signals are not essentially present in all endoplasmic reticulum resident proteins. This also strongly indicates the role of additional factors in retention of endoplasmic reticulum-specific proteins inside the endoplasmic reticulum.
+1	16	37 endoplasmic reticulum	Gene_function	GO_0005783
+1	278	291 extracellular	Gene_function	GO_0005576
+1	361	382 endoplasmic reticulum	Gene_function	GO_0005783
+1	526	547 endoplasmic reticulum	Gene_function	GO_0005783
+1	559	580 endoplasmic reticulum	Gene_function	GO_0005783
+1	655	668 extracellular	Gene_function	GO_0005576
+1	682	703 endoplasmic reticulum	Gene_function	GO_0005783
+1	818	839 endoplasmic reticulum	Gene_function	GO_0005783
+1	949	970 endoplasmic reticulum	Gene_function	GO_0005783
+1	1055	1076 endoplasmic reticulum	Gene_function	GO_0005783
+1	1223	1244 endoplasmic reticulum	Gene_function	GO_0005783
+
+2|chunk|Methods. This is a support vector machine based method, where we had used different forms of protein features as inputs for support vector machine to develop the prediction models. During training leave-one-out approach of cross-validation was used. Maximum performance was obtained with a combination of amino acid compositions of different part of proteins. Results. In this study, we have reported a novel support vector machine based method for predicting endoplasmic reticulum resident proteins, named as ERPred. During training we achieved a maximum accuracy of 81.42% with leave-one-out approach of cross-validation. When evaluated on independent dataset, ERPred did prediction with sensitivity of 72.31% and specificity of 83.69%. We have also annotated six different proteomes to predict the candidate endoplasmic reticulum resident proteins in them. A webserver, ERPred, was developed to make the method available to the scientific community, which can be accessed at http://proteininformatics.org/mkumar/erpred/ index.html. Discussion. We found that out of 124 proteins of the training dataset, only 66 proteins had endoplasmic reticulum retention signals, which shows that these signals are not an absolute necessity for endoplasmic reticulum resident proteins to remain inside the endoplasmic reticulum. This observation also strongly indicates the role of additional How to cite this article Kumar et al. (2017), Prediction of endoplasmic reticulum resident proteins using fragmented amino acid composition and support vector machine. PeerJ 5:e3561; DOI 10.7717/peerj.3561 assessment with non-specific sub-cellular localization methods showed the higher efficiency and also justified the need of an ERRP specific prediction method. We expect that this tool will bring new insights about understanding of the functions of ER.
+2	460	481 endoplasmic reticulum	Gene_function	GO_0005783
+2	811	832 endoplasmic reticulum	Gene_function	GO_0005783
+2	1127	1148 endoplasmic reticulum	Gene_function	GO_0005783
+2	1233	1254 endoplasmic reticulum	Gene_function	GO_0005783
+2	1294	1315 endoplasmic reticulum	Gene_function	GO_0005783
+2	1441	1462 endoplasmic reticulum	Gene_function	GO_0005783
+2	1629	1641 localization	Gene_function	GO_0051179
+

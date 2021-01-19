@@ -1,0 +1,27 @@
+0|chunk|Cryo-electron Microscopy Structure of the Native Prototype Foamy Virus Glycoprotein and Virus Architecture
+
+1|chunk|Foamy viruses (FV) belong to the genus Spumavirus, which forms a distinct lineage in the Retroviridae family. Although the infection in natural hosts and zoonotic transmission to humans is asymptomatic, FVs can replicate well in human cells making it an attractive gene therapy vector candidate. Here we present cryo-electron microscopy and (cryo-)electron tomography ultrastructural data on purified prototype FV (PFV) and PFV infected cells. Mature PFV particles have a distinct morphology with a capsid of constant dimension as well as a less ordered shell of density between the capsid and the membrane likely formed by the Gag N-terminal domain and the cytoplasmic part of the Env leader peptide gp18 LP . The viral membrane contains trimeric Env glycoproteins partly arranged in interlocked hexagonal assemblies. In situ 3D reconstruction by subtomogram averaging of wild type Env and of a Env gp48 TM -gp80 SU cleavage site mutant showed a similar spike architecture as well as stabilization of the hexagonal lattice by clear connections between lower densities of neighboring trimers. Cryo-EM was employed to obtain a 9  resolution map of the glycoprotein in its pre-fusion state, which revealed extensive trimer interactions by the receptor binding subunit gp80 SU at the top of the spike and three central helices derived from the fusion protein subunit gp48 TM . The lower part of Env, presumably composed of interlaced parts of gp48 TM , gp80 SU and gp18 LP anchors the spike at the membrane. We propose that the gp48 TM density continues into three central transmembrane helices, which interact with three outer transmembrane helices derived from gp18 LP . Our ultrastructural data and 9  resolution glycoprotein structure provide important new insights into the molecular architecture of PFV and its distinct evolutionary relationship with other members of the Retroviridae.
+1	598	606 membrane	Gene_function	GO_0016020
+1	715	729 viral membrane	Gene_function	GO_0036338
+1	721	729 membrane	Gene_function	GO_0016020
+1	1251	1258 binding	Gene_function	GO_0005488
+1	1309	1316 central	Phenotype	HP_0030645
+1	1496	1504 membrane	Gene_function	GO_0016020
+1	1563	1570 central	Phenotype	HP_0030645
+1	1571	1584 transmembrane	Gene_function	GO_0016021
+1	1626	1639 transmembrane	Gene_function	GO_0016021
+1	GO-HP	GO_0016020	HP_0030645
+1	GO-HP	GO_0036338	HP_0030645
+1	GO-HP	GO_0005488	HP_0030645
+1	HP-GO	HP_0030645	GO_0016021
+
+2|chunk|Data Availability Statement: The PFV glycoprotein structures from subtomogram averaging (EMD-4006, EMD-4007 and EMD-4008 for PFV wt, iFuse and iNAB respectively) and cryo-EM (EMD-4010 and EMD-4011 for iNAB hexagonal assembly and single spike reconstructions respectively and EMD-4012 and EMD-4013 for iFuse hexagonal assembly and single spike reconstructions respectively) have been deposited in the Electron Microscopy Data Bank. All relevant data are within the paper and its Supporting Information files.
+
+3|chunk|Foamy viruses (FVs), which belong to the retroviral genus Spumavirus, are endemic to non-human primates and can be transmitted to humans. They are considered as potential vectors for gene therapy due to their broad cell tropism and their apparent apathogenicity in natural hosts and humans. In order to gain more insight into the ultrastructure of the prototype FV (PFV) we performed (cryo-)electron tomography and microscopy of infected cells and of isolated virions. We find that PFV contains a nucleocapsid of constant dimensions at its center, an intermediate shell of protein positioned between the core capsid and the viral membrane and glycoprotein that arranges into regular hexagonal lattices on the virus membrane. Structural analysis of the glycoprotein was performed in situ to a resolution of 9, which shows regular helical features such as a trimeric coiled coil of the fusion protein subunit, a hallmark of class I fusion proteins, spacer arms between the glycoprotein trimers and the arrangement of six transmembrane helices, a characteristic feature of the PFV Env glycoprotein. We discuss our results in light of the evolutionary relationship of PFV with other retroviruses as well as the role of the unique glycoprotein architecture on the virus life cycle. Structure of Prototype Foamy Virus by Electron Microscopy PLOS Pathogens |
+3	220	227 tropism	Gene_function	GO_0009606
+3	497	509 nucleocapsid	Gene_function	GO_0019013
+3	624	638 viral membrane	Gene_function	GO_0036338
+3	630	638 membrane	Gene_function	GO_0016020
+3	715	723 membrane	Gene_function	GO_0016020
+3	1020	1033 transmembrane	Gene_function	GO_0016021
+

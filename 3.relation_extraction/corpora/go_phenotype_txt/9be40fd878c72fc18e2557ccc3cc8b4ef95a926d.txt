@@ -1,0 +1,21 @@
+0|chunk|viruses Function, Architecture, and Biogenesis of Reovirus Replication Neoorganelles
+
+1|chunk|Most viruses that replicate in the cytoplasm of host cells form neoorganelles that serve as sites of viral genome replication and particle assembly. These highly specialized structures concentrate viral proteins and nucleic acids, prevent the activation of cell-intrinsic defenses, and coordinate the release of progeny particles. Reoviruses are common pathogens of mammals that have been linked to celiac disease and show promise for oncolytic applications. These viruses form nonenveloped, double-shelled virions that contain ten segments of double-stranded RNA. Replication organelles in reovirus-infected cells are nucleated by viral nonstructural proteins NS and NS. Both proteins partition the endoplasmic reticulum to form the matrix of these structures. The resultant membranous webs likely serve to anchor viral RNA-protein complexes for the replication of the reovirus genome and the assembly of progeny virions. Ongoing studies of reovirus replication organelles will advance our knowledge about the strategies used by viruses to commandeer host biosynthetic pathways and may expose new targets for therapeutic intervention against diverse families of pathogenic viruses.
+1	35	44 cytoplasm	Gene_function	GO_0005737
+1	101	125 viral genome replication	Gene_function	GO_0019079
+1	399	413 celiac disease	Phenotype	HP_0002608
+1	702	723 endoplasmic reticulum	Gene_function	GO_0005783
+1	GO-HP	GO_0005737	HP_0002608
+1	GO-HP	GO_0019079	HP_0002608
+1	HP-GO	HP_0002608	GO_0005783
+
+2|chunk|The combination of ultrastructural and functional studies has enhanced our knowledge about VI biogenesis. However, for many viruses, it is still not known how these structures form and mediate functions in viral replication. Here, we describe the current understanding of the morphogenesis and function of reovirus inclusions and compare these neoorganelles with the replication factories formed by other members of the Reoviridae family.
+2	276	289 morphogenesis	Gene_function	GO_0009653
+
+3|chunk|Mammalian orthoreoviruses (called reoviruses here) are nonenveloped, icosahedral viruses consisting of two concentric protein shells-an outer capsid and inner core-that contain a genome of ten dsRNA segments [9] . The reovirus replication cycle is entirely cytoplasmic (Figure 1 ). Following entry into the cells, the viral outer capsid is proteolytically cleaved in the late endosomes to form transcriptionally active cores [10] [11] [12] . These particles are released into the cytoplasm and synthesize full-length, positive-sense, capped, and nonpolyadenylated single-stranded RNAs (ssRNAs) corresponding to each viral genome segment [13, 14] . Reovirus ssRNAs are translated to synthesize new viral proteins and also serve as templates for negative-sense ssRNA synthesis within the replicase particles to produce nascent genomic dsRNA [15, 16] . The addition of outer-capsid proteins onto newly formed viral cores completes the reovirus assembly process.
+3	136	148 outer capsid	Gene_function	GO_0039624
+3	318	336 viral outer capsid	Gene_function	GO_0039624
+3	324	336 outer capsid	Gene_function	GO_0039624
+3	480	489 cytoplasm	Gene_function	GO_0005737
+3	765	774 synthesis	Gene_function	GO_0009058
+

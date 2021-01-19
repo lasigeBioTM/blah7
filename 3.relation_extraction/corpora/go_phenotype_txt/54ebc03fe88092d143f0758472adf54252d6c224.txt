@@ -1,0 +1,42 @@
+0|chunk|Free fatty acids induce ER stress and block antiviral activity of interferon alpha against hepatitis C virus in cell culture
+0	91	100 hepatitis	Phenotype	HP_0012115
+
+1|chunk|Background: Hepatic steatosis is recognized as a major risk factor for liver disease progression and impaired response to interferon based therapy in chronic hepatitis C (CHC) patients. The mechanism of response to interferon-alpha (IFN-) therapy under the condition of hepatic steatosis is unexplored. We investigated the effect of hepatocellular steatosis on hepatitis C virus (HCV) replication and IFN- antiviral response in a cell culture model.
+1	12	29 Hepatic steatosis	Phenotype	HP_0001397
+1	20	29 steatosis	Phenotype	HP_0001397
+1	71	84 liver disease	Phenotype	HP_0001392
+1	150	157 chronic	Phenotype	HP_0011010
+1	150	167 chronic hepatitis	Phenotype	HP_0200123
+1	158	167 hepatitis	Phenotype	HP_0012115
+1	271	288 hepatic steatosis	Phenotype	HP_0001397
+1	279	288 steatosis	Phenotype	HP_0001397
+1	349	358 steatosis	Phenotype	HP_0001397
+1	362	371 hepatitis	Phenotype	HP_0012115
+1	408	426 antiviral response	Gene_function	GO_0051607
+1	HP-GO	HP_0001397	GO_0051607
+1	HP-GO	HP_0001392	GO_0051607
+1	HP-GO	HP_0011010	GO_0051607
+1	HP-GO	HP_0200123	GO_0051607
+1	HP-GO	HP_0012115	GO_0051607
+
+2|chunk|Methods: Sub-genomic replicon (S3-GFP) and HCV infected Huh-7.5 cells were cultured with a mixture of saturated (palmitate) and unsaturated (oleate) long-chain free fatty acids (FFA). Intracytoplasmic fat accumulation in these cells was visualized by Nile red staining and electron microscopy then quantified by microfluorometry. The effect of FFA treatment on HCV replication and IFN- antiviral response was measured by flow cytometric analysis, Renilla luciferase activity, and real-time RT-PCR.
+2	387	405 antiviral response	Gene_function	GO_0051607
+
+3|chunk|Results: FFA treatment induced dose dependent hepatocellular steatosis and lipid droplet accumulation in the HCV replicon cells was confirmed by Nile red staining, microfluorometry, and by electron microscopy. Intracellular fat accumulation supports replication more in the persistently HCV infected culture than in the sub-genomic replicon (S3-GFP) cell line. FFA treatment also partially blocked IFN- response and viral clearance by reducing the phosphorylation of Stat1 and Stat2 dependent IFN- promoter activation. We show that FFA treatment induces endoplasmic reticulum (ER) stress response and down regulates the IFNAR1 chain of the type I IFN receptor leading to defective Jak-Stat signaling and impaired antiviral response.
+3	61	70 steatosis	Phenotype	HP_0001397
+3	75	88 lipid droplet	Gene_function	GO_0005811
+3	210	223 Intracellular	Gene_function	GO_0005622
+3	449	464 phosphorylation	Gene_function	GO_0016310
+3	556	577 endoplasmic reticulum	Gene_function	GO_0005783
+3	692	701 signaling	Gene_function	GO_0023052
+3	HP-GO	HP_0001397	GO_0005811
+3	HP-GO	HP_0001397	GO_0005622
+3	HP-GO	HP_0001397	GO_0016310
+3	HP-GO	HP_0001397	GO_0005783
+3	HP-GO	HP_0001397	GO_0023052
+
+4|chunk|Conclusion: These results suggest that intracellular fat accumulation in HCV cell culture induces ER stress, defective Jak-Stat signaling, and attenuates the antiviral response, thus providing an explanation to the clinical observation regarding how hepatocellular steatosis influences IFN- response in CHC.
+4	39	52 intracellular	Gene_function	GO_0005622
+4	265	274 steatosis	Phenotype	HP_0001397
+4	GO-HP	GO_0005622	HP_0001397
+

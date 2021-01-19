@@ -1,0 +1,51 @@
+0|chunk|Angiotensin-converting enzyme 2/ angiotensin-(1-7)/Mas axis prevents lipopolysaccharide-induced apoptosis of pulmonary microvascular endothelial cells by inhibiting JNK/NF-kB pathways
+
+1|chunk|ACE2 and Ang-(1-7) have important roles in preventing acute lung injury. However, it is not clear whether upregulation of the ACE2/Ang-(1-7)/Mas axis prevents LPS-induced injury in pulmonary microvascular endothelial cells (PMVECs) by inhibiting the MAPKs/NF-kB pathways. Primary cultured rat PMVECs were transduced with lentiviral-borne Ace2 or shRNA-Ace2, and then treated or not with Mas receptor blocker (A779) before exposure to LPS. LPS stimulation resulted in the higher levels of AngII, Ang-(1-7), cytokine secretion, and apoptosis rates, and the lower ACE2/ACE ratio. Ace2 reversed the ACE2/ACE imbalance and increased Ang-(1-7) levels, thus reducing LPS-induced apoptosis and inflammation, while inhibition of Ace2 reversed all these effects. A779 abolished these protective effects of Ace2. LPS treatment was associated with activation of the ERK, p38, JNK, and NF-kB pathways, which were aggravated by A779. Pretreatment with A779 prevented the Ace2-induced blockade of p38, JNK, and NF-kB phosphorylation. However, only JNK inhibitor markedly reduced apoptosis and cytokine secretion in PMVECs with Ace2 deletion and A779 pretreatment. These results suggest that the ACE2/Ang-(1-7)/Mas axis has a crucial role in preventing LPS-induced apoptosis and inflammation of PMVECs, by inhibiting the JNK/NF-kB pathways.
+1	54	59 acute	Phenotype	HP_0011009
+1	387	390 Mas	Gene_function	GO_0034992
+1	506	524 cytokine secretion	Gene_function	GO_0050663
+1	515	524 secretion	Gene_function	GO_0046903
+1	604	613 imbalance	Phenotype	HP_0002172
+1	864	867 JNK	Gene_function	GO_0004705
+1	987	990 JNK	Gene_function	GO_0004705
+1	1033	1036 JNK	Gene_function	GO_0004705
+1	1078	1096 cytokine secretion	Gene_function	GO_0050663
+1	1087	1096 secretion	Gene_function	GO_0046903
+1	1305	1308 JNK	Gene_function	GO_0004705
+1	HP-GO	HP_0011009	GO_0034992
+1	HP-GO	HP_0011009	GO_0050663
+1	HP-GO	HP_0011009	GO_0046903
+1	HP-GO	HP_0011009	GO_0004705
+1	GO-HP	GO_0034992	HP_0002172
+1	GO-HP	GO_0050663	HP_0002172
+1	GO-HP	GO_0046903	HP_0002172
+1	HP-GO	HP_0002172	GO_0004705
+
+2|chunk|A cute respiratory distress syndrome (ARDS) is an inflammatory response to both pulmonary and extrapulmonary stimuli, characterized by acute onset of new or worsening respiratory dysfunction. Despite improvements in intensive care with optimal ventilation support and fluid balance, the mortality of patients with ARDS remains above 30% 1,2 . Diffuse pulmonary endothelial cell injury that results in impairment of the alveolar-capillary barrier, and increase in microvascular endothelial permeability, are considered central to the pathogenesis of ARDS 3 .
+2	7	27 respiratory distress	Phenotype	HP_0002098
+2	50	71 inflammatory response	Gene_function	GO_0006954
+2	135	140 acute	Phenotype	HP_0011009
+2	135	146 acute onset	Phenotype	HP_0011009
+2	141	146 onset	Phenotype	HP_0003674
+2	343	350 Diffuse	Phenotype	HP_0020034
+2	518	525 central	Phenotype	HP_0030645
+2	533	545 pathogenesis	Gene_function	GO_0009405
+2	HP-GO	HP_0002098	GO_0006954
+2	HP-GO	HP_0002098	GO_0009405
+2	GO-HP	GO_0006954	HP_0011009
+2	GO-HP	GO_0006954	HP_0003674
+2	GO-HP	GO_0006954	HP_0020034
+2	GO-HP	GO_0006954	HP_0030645
+2	HP-GO	HP_0011009	GO_0009405
+2	HP-GO	HP_0003674	GO_0009405
+2	HP-GO	HP_0020034	GO_0009405
+2	HP-GO	HP_0030645	GO_0009405
+
+3|chunk|The renin-angiotensin system (RAS) is a complex hormonal system and a pivotal regulator in maintaining homeostasis of blood pressure and electrolyte balance; RAS also has an important role in inflammation 4 . Abnormal activation of the RAS is involved in the pathogenesis of cardiovascular, renal, and lung diseases 5-7 . Angiotensin-converting enzyme (ACE) 2, a homologue of ACE, is a recently discovered component of the RAS 8 . In contrast to ACE which converts angiotensin (Ang) I (AngI) to generate AngII, ACE2 reduces the generation of AngII by catalyzing the conversion of AngII to Ang-(1-7), which attenuates the vasoconstrictive, proliferative, and inflammatory effects of AngII. Hence, ACE2 has a pertinent role in the anti-inflammatory RAS-ACE2-Ang-(1-7) axis, as it counteracts the pro-inflammatory effects of the ACE-AngII axis 9,10 .
+3	103	114 homeostasis	Gene_function	GO_0042592
+3	259	271 pathogenesis	Gene_function	GO_0009405
+
+4|chunk|ACE2 is a membrane-associated aminopeptidase in vascular endothelia, renal and cardiovascular tissues, and epithelia of the small intestine and testes 11, 12 . ACE2 is also broadly expressed in almost all kinds of cell types in the lung, including endothelial and smooth muscle cells of blood vessels, types I and II alveolar epithelial cells, and bronchial epithelial cells. There is also evidence that ACE2 has an important role in the development of ARDS. In fact, ACE2 levels positively correlated with severe acute respiratory syndrome (SARS) coronavirus infection of human airway epithelia 13 . In addition, ACE2-deficient mice suffered more aggravated lung injury compared with wild-type mice in models of ARDS, whereas therapy with recombinant ACE2 improved ARDS in Ace2-knock-
+4	507	513 severe	Phenotype	HP_0012828
+4	514	519 acute	Phenotype	HP_0011009
+

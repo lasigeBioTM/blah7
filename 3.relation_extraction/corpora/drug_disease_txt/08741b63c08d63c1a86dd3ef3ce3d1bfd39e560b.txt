@@ -1,0 +1,38 @@
+0|chunk|Dissection and integration of the autophagy signaling network initiated by bluetongue virus infection: crucial candidates ERK1/2, Akt and AMPK OPEN
+
+1|chunk|Bluetongue virus (BTV), a complex double-stranded segmented RNA virus, has been found to initiate cellular autophagy for its own benefit. Here, with a view to understanding the underlying mechanisms, we first systematically dissected the exact signaling network in BTV-induced autophagy. We found that the activity of mTOR, a crucial pivot, was inhibited by BTV1 infection, subsequently leading to downstream p70S6K suppression and autophagy initiation. We then explored the upstream regulators of mTOR and analyzed their activities via a series of assays. We found BTV1-induced autophagy to be independent of the ERK1/2 signaling pathway. However, the BTV1-induced inhibition of PI3K/Akt was found to be partially responsible for mTOR inactivation and subsequent autophagy initiation. Furthermore, we found unexpectedly that AMPK seemed to play a more important role in BTV1induced autophagy. Elevated [Ca 2+ ] cyto -mediated activation of CaMKK exactly managed the activation of AMPK, which then positively regulated autophagy through suppressing mTOR. We must emphasize that TSC2 is a fatal mediator between upstream Akt or AMPK and downstream mTOR through its phosphorylation. Taken together, our data suggested that the BTV1-induced inhibition of the Akt-TSC2-mTOR pathway and the upregulation of the AMPK-TSC2-mTOR pathway both contributed to autophagy initiation and further favored virus replication.
+1	60	63 RNA	Chemical	CHEBI_33697
+1	631	638 pathway	Chemical	CHEBI_34922
+1	863	867 role	Chemical	CHEBI_50906
+1	1271	1278 pathway	Chemical	CHEBI_34922
+1	1322	1329 pathway	Chemical	CHEBI_34922
+
+2|chunk|to promote viral replication 14 . However, subsequent corresponding mechanisms underlying these observations have not yet been elucidated.
+
+3|chunk|Autophagy is activated in response to extra-or intracellular stimuli and signals such as starvation, hypoxia, ER stress, and pathogen infection. Many efforts have been made in the past few years to decipher the regulatory network of autophagy initiation from yeast to mammals [15] [16] [17] . Several signaling cascades have been reported to regulate autophagy. The major control complex for autophagy is the mammalian target of rapamycin (mTOR), which, when active, inhibits the initiation of the pathway 18-20 . Many diverse cellular signals converge on mTOR complex 1 (mTORC1) to regulate autophagy upstream of the core machinery 21 . The serine/threonine kinase Akt (also known as PKB) has been shown to modulate autophagic activity regulated by the phosphoinositide 3-kinase (PI3K) pathway 22,23 . Mutations causing Akt activation or inactivation would, respectively, suppress and induce autophagy. Molecules upstream of mTOR, such as AMP-activated protein kinase (AMPK) and extracellular signal-regulated kinase 1/2 (ERK1/2), have been shown to inhibit mTORC1 and lead to activation of the autophagic process. AMPK, a crucial factor in sensing cellular energy and ion homeostasis 24,25 , negatively regulates mTOR either by directly inhibiting mTOR or by activating tuberous sclerosis protein 2 (TSC2) protein, an upstream negative effector of mTOR 26-28 . Mitogen-activated protein kinases (MAPKs) are central molecules mediating signaling pathways in innate immunity. To date, seven distinct groups of MAPKs have been characterized in mammalian cells. Of these seven, the most extensively studied are ERK1/2, c-Jun N-terminal kinases (JNKs) and p38 MAPKs (p38  / / / ), which have also been reported to regulate autophagy activity 29 . In addition, endoplasmic reticulum (ER) stress, p53, nuclear factor- B (NF- B) and other mTOR-independent pathways are also involved in the regulatory network of autophagy [30] [31] [32] .
+3	429	438 rapamycin	Chemical	CHEBI_9168
+3	498	505 pathway	Chemical	CHEBI_34922
+3	754	770 phosphoinositide	Chemical	CHEBI_16749
+3	787	794 pathway	Chemical	CHEBI_34922
+3	904	913 Molecules	Chemical	CHEBI_25367
+3	954	961 protein	Chemical	CHEBI_16541
+3	1170	1173 ion	Chemical	CHEBI_24870
+3	1272	1290 tuberous sclerosis	Disease	DOID_13515
+3	1291	1298 protein	Chemical	CHEBI_16541
+3	1308	1315 protein	Chemical	CHEBI_16541
+3	1338	1346 effector	Chemical	CHEBI_35224
+3	1381	1388 protein	Chemical	CHEBI_16541
+3	1417	1426 molecules	Chemical	CHEBI_25367
+3	CHEBI-DOID	CHEBI_9168	DOID_13515
+3	CHEBI-DOID	CHEBI_34922	DOID_13515
+3	CHEBI-DOID	CHEBI_16749	DOID_13515
+3	CHEBI-DOID	CHEBI_25367	DOID_13515
+3	CHEBI-DOID	CHEBI_16541	DOID_13515
+3	CHEBI-DOID	CHEBI_24870	DOID_13515
+3	DOID-CHEBI	DOID_13515	CHEBI_35224
+
+4|chunk|There are reports that many viruses can activate and exploit certain signaling pathways related to autophagy for more efficient replication, depending on the virus type or stage of viral infection 33,34 . However, until now, for BTV, the precise mechanisms and signaling pathways of modulating cellular autophagy have remained largely unknown.
+4	181	196 viral infection	Disease	DOID_934
+
+5|chunk|Based on this information, we have undertaken a comprehensive investigation to explore the autophagy signaling network initiated by BTV infection, focusing on these vital and canonical candidates. Our results demonstrate that BTV1 induces autophagy in BSR cells by setting off distinct cascade reactions involving Akt, AMPK, and ERK1/2 to repress central mTOR for its own benefits.
+

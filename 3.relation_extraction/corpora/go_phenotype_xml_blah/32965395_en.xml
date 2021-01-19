@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="32965395_en">
+  <chunk id="32965395_en.c0" text="Rationale and design of the &quot;Tocilizumab in patients with moderate to severe COVID-19: an open-label multicentre randomized controlled&quot; trial (TOCIBRAS).">
+    <entity charOffset="58-66" id="32965395_en.c0.e0" ontology_id="HP_0012826" text="moderate" type="phenotype"/>
+    <entity charOffset="70-76" id="32965395_en.c0.e1" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+  </chunk>
+  <chunk id="32965395_en.c1" text="Pro-inflammatory markers play a significant role in the disease severity of patients with COVID-19. Thus, anti-inflammatory therapies are attractive agents for potentially combating the uncontrolled inflammatory cascade in these patients. We designed a trial testing tocilizumab versus standard of care intending to improve the outcomes by inhibiting interleukin-6, an important inflammatory mediator in COVID-19.This open-label multicentre randomized controlled trial will compare clinical outcomes of tocilizumab plus standard of care versus standard of care alone in patients with moderate to severe COVID-19. Two of the following four criteria are required for protocol enrolment: D-dimer &gt; 1,000ng/mL; C reactive protein &gt; 5mg/dL, ferritin &gt; 300mg/dL, and lactate dehydrogenase &gt; upper limit of normal. The primary objective will be to compare the clinical status on day 15, as measured by a 7-point ordinal scale applied in COVID-19 trials worldwide. The primary endpoint will be assessed by an ordinal logistic regression assuming proportional odds ratios adjusted for stratification variables (age and sex).The TOCIBRAS protocol was approved by local and central (national) ethical committees in Brazil following current national and international guidelines/directives. Each participating center had the study protocol approved by their institutional review boards before initiating protocol enrolment. The data derived from this trial will be published regardless of the results. If proven active, this strategy could alleviate the consequences of the inflammatory response in COVID-19 patients and improve their clinical outcomes.">
+    <entity charOffset="64-72" id="32965395_en.c1.e0" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="584-592" id="32965395_en.c1.e1" ontology_id="HP_0012826" text="moderate" type="phenotype"/>
+    <entity charOffset="596-602" id="32965395_en.c1.e2" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="1163-1170" id="32965395_en.c1.e3" ontology_id="HP_0030645" text="central" type="phenotype"/>
+    <entity charOffset="1562-1583" id="32965395_en.c1.e4" ontology_id="GO_0006954" text="inflammatory response" type="gene_function"/>
+    <pair e1="32965395_en.c1.e0" e2="32965395_en.c1.e4" id="32965395_en.c1.p0" relation="true"/>
+    <pair e1="32965395_en.c1.e1" e2="32965395_en.c1.e4" id="32965395_en.c1.p1" relation="true"/>
+    <pair e1="32965395_en.c1.e2" e2="32965395_en.c1.e4" id="32965395_en.c1.p2" relation="true"/>
+    <pair e1="32965395_en.c1.e3" e2="32965395_en.c1.e4" id="32965395_en.c1.p3" relation="true"/>
+  </chunk>
+</document>

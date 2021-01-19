@@ -1,0 +1,26 @@
+0|chunk|Inflammatory monocytes damage the hippocampus during acute picornavirus infection of the brain
+0	53	58 acute	Phenotype	HP_0011009
+
+1|chunk|Background: Neuropathology caused by acute viral infection of the brain is associated with the development of persistent neurological deficits. Identification of the immune effectors responsible for injuring the brain during acute infection is necessary for the development of therapeutic strategies that reduce neuropathology but maintain immune control of the virus. Methods: The identity of brain-infiltrating leukocytes was determined using microscopy and flow cytometry at several acute time points following intracranial infection of mice with the Theiler's murine encephalomyelitis virus. Behavioral consequences of immune cell depletion were assessed by Morris water maze.
+1	37	42 acute	Phenotype	HP_0011009
+1	43	58 viral infection	Gene_function	GO_0016032
+1	225	230 acute	Phenotype	HP_0011009
+1	486	491 acute	Phenotype	HP_0011009
+1	HP-GO	HP_0011009	GO_0016032
+
+2|chunk|Results: Inflammatory monocytes, defined as CD45 hi CD11b ++ F4/80 + Gr1 + 1A8 -, and neutrophils, defined as CD45 hi CD11b +++ F4/80 -Gr1 + 1A8 + , were found in the brain at 12 h after infection. Flow cytometry of brain-infiltrating leukocytes collected from LysM: GFP reporter mice confirmed the identification of neutrophils and inflammatory monocytes in the brain. Microscopy of sections from infected LysM:GFP mice showed that infiltrating cells were concentrated in the hippocampal formation. Immunostaining confirmed that neutrophils and inflammatory monocytes were localized to the hippocampal formation at 12 h after infection. Immunodepletion of inflammatory monocytes and neutrophils but not of neutrophils only resulted in preservation of hippocampal neurons. Immunodepletion of inflammatory monocytes also preserved cognitive function as assessed by the Morris water maze. Conclusions: Neutrophils and inflammatory monocytes rapidly and robustly responded to Theiler's virus infection by infiltrating the brain. Inflammatory monocytes preceded neutrophils, but both cell types were present in the hippocampal formation at a timepoint that is consistent with a role in triggering hippocampal pathology. Depletion of inflammatory monocytes and neutrophils with the Gr1 antibody resulted in hippocampal neuroprotection and preservation of cognitive function. Specific depletion of neutrophils with the 1A8 antibody failed to preserve neurons, suggesting that inflammatory monocytes are the key effectors of brain injury during acute picornavirus infection of the brain. These effector cells may be important therapeutic targets for immunomodulatory or immunosuppressive therapies aimed at reducing or preventing central nervous system pathology associated with acute viral infection.
+2	574	583 localized	Phenotype	HP_0012838
+2	1281	1289 antibody	Gene_function	GO_0003823
+2	1281	1289 antibody	Gene_function	GO_0042571
+2	1417	1425 antibody	Gene_function	GO_0003823
+2	1417	1425 antibody	Gene_function	GO_0042571
+2	1538	1543 acute	Phenotype	HP_0011009
+2	1723	1730 central	Phenotype	HP_0030645
+2	1772	1777 acute	Phenotype	HP_0011009
+2	HP-GO	HP_0012838	GO_0003823
+2	HP-GO	HP_0012838	GO_0042571
+2	GO-HP	GO_0003823	HP_0011009
+2	GO-HP	GO_0003823	HP_0030645
+2	GO-HP	GO_0042571	HP_0011009
+2	GO-HP	GO_0042571	HP_0030645
+

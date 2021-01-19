@@ -1,0 +1,53 @@
+0|chunk|Broad spectrum antiviral activity for paramyxoviruses is modulated by biophysical properties of fusion inhibitory peptides Human paramyxoviruses include global causes of lower respiratory disease like the OPEN
+
+1|chunk|that can be specifically targeted by fusion-inhibitory peptides. Antiviral potency can be improved by sequence modification and lipid conjugation, and by adding linkers between the protein and lipid components. We exploit the uniquely broad spectrum antiviral activity of a parainfluenza F-derived peptide sequence that inhibits both parainfluenza and Nipah viruses, to investigate the influence of peptide orientation and intervening linker length on the peptides' interaction with transitional states of F, solubility, membrane insertion kinetics, and protease sensitivity. We assessed the impact of these features on biodistribution and antiviral efficacy in vitro and in vivo. The engineering approach based on biophysical parameters resulted in a peptide that is a highly effective inhibitor of both paramyxoviruses and a set of criteria to be used for engineering broad spectrum antivirals for emerging paramyxoviruses.
+1	521	529 membrane	Gene_function	GO_0016020
+
+2|chunk|Human parainfluenza viruses (HPIVs) are paramyxoviruses belonging to the respirovirus (HPIV1 and 3) or rubulavirus (HPIV2 and 4) genera that cause human respiratory diseases including bronchitis, bronchiolitis, and pneumonia in infants, children, or immune-compromised individuals. The HPIV species viruses are responsible for 30-40% of all acute respiratory tract infections in infants and children 1 . Nipah virus (NiV) is a zoonotic paramyxovirus of the henipavirus genus that represents a global health risk with broad, unpredictable pandemic potential. Infection with this virus is devastating, rapidly causing a generalized vasculitis leading to lethal encephalitis and serious respiratory infections. The common natural reservoirs of henipavirus genus members (including NiV, Hendra virus, Cedar virus and numerous newly identified species) are fruit bats 2,3 , but recent identification of rodent-origin henipa-like viruses that cause lethal respiratory disease in humans suggests that the range of natural mammalian hosts may be even broader 4 . Transmitted by air or food, its mechanism of infection is complex, and no drugs exist to prevent or treat infection. The recent human-to-human spread of NiV in Asia has raised the real possibility of global spread. NiV and HPIV, while different in their associated diseases and geography, infect using similar mechanisms and are vulnerable to the same antiviral strategy.
+2	215	224 pneumonia	Phenotype	HP_0002090
+2	341	346 acute	Phenotype	HP_0011009
+2	618	629 generalized	Phenotype	HP_0012837
+2	630	640 vasculitis	Phenotype	HP_0002633
+2	659	671 encephalitis	Phenotype	HP_0002383
+
+3|chunk|Paramyxovirus infections are initiated by fusion between viral and host cell membranes. For HPIV3, NiV, and other paramyxoviruses, the surface glycoproteins play critical roles in the initial events of viral infection, mediating virion attachment to cells and fusion of the viral and cellular membranes. The viral fusion protein (F), upon insertion of the fusion peptide -formed after cleavage of the precursor F into its final fragment -into the host target cell membrane, forms a transient intermediate to pull the viral and cell membranes together. Two heptad-repeat regions that are present in each ectodomain of F refold to form a highly stable, antiparallel six-helix bundle structure that is coupled to membrane fusion. The structure required for this step can be specifically targeted by fusion-inhibitory peptides. The N-terminal repeat (HRN) is adjacent to the hydrophobic fusion peptide that inserts into the target cell membrane during the fusion process. The C-terminal repeat (HRC) immediately precedes the transmembrane domain. A folding-back of the F ectodomain drives the viral membrane towards the cell-associated fusion peptide to bring the two membranes into proximity, causing membrane fusion and viral entry.
+3	67	76 host cell	Gene_function	GO_0043657
+3	229	235 virion	Gene_function	GO_0019012
+3	459	472 cell membrane	Gene_function	GO_0005886
+3	464	472 membrane	Gene_function	GO_0016020
+3	482	491 transient	Phenotype	HP_0025153
+3	710	718 membrane	Gene_function	GO_0016020
+3	710	725 membrane fusion	Gene_function	GO_0061025
+3	927	940 cell membrane	Gene_function	GO_0005886
+3	932	940 membrane	Gene_function	GO_0016020
+3	1021	1034 transmembrane	Gene_function	GO_0016021
+3	1089	1103 viral membrane	Gene_function	GO_0036338
+3	1095	1103 membrane	Gene_function	GO_0016020
+3	1198	1206 membrane	Gene_function	GO_0016020
+3	1198	1213 membrane fusion	Gene_function	GO_0061025
+3	GO-HP	GO_0043657	HP_0025153
+3	GO-HP	GO_0019012	HP_0025153
+3	GO-HP	GO_0005886	HP_0025153
+3	GO-HP	GO_0016020	HP_0025153
+3	HP-GO	HP_0025153	GO_0061025
+3	HP-GO	HP_0025153	GO_0016021
+3	HP-GO	HP_0025153	GO_0036338
+
+4|chunk|Peptides derived from the HRC of paramyxovirus F proteins interfere with formation of the six-helix bundle in a dominant-negative manner by binding to the transiently exposed HRN coiled coil in the transient fusion intermediate, thereby inhibiting membrane fusion 5 . We have shown the potential of modified fusion inhibitor peptides as NiV and HPIV antiviral agents, and showed that a sequence corresponding to the HRC domain of HPIV3 effectively inhibits both HPIV3 and NiV 6 . Interhelical packing interactions in the post-fusion core of the NiV and HPIV3 F proteins are important determinants of viral entry and its inhibition. Fusion inhibitor peptides can be engineered at the level of these parameters, for optimal inhibition, increasing potency for both viruses [6] [7] [8] [9] [10] . Conjugating cholesterol to a fusion inhibitor peptide enhances NiV antiviral activity up to 100-fold, by targeting the peptide to the plasma membrane where fusion occurs 8 and endows the fusion inhibitor with the ability to localize to the central nervous system, successfully preventing and treating NiV infection in a golden hamster model of disease 6 . Surprisingly, the most effective antiviral peptides for NiV and the related Hendra virus (HeV) are those derived from the F of HPIV3. The antiviral strategy discussed here exploits the uniquely broad spectrum antiviral activity of these HPIV3 derived inhibitory peptides to treat paramyxovirus infection. In an effort to understand the biophysical properties that correlate with peptide efficacy and thereby improve upon their antiviral utility, we explored biophysical features of the lipid-conjugated peptides that alter aggregation and membrane insertion kinetics. We have identified several properties that correlate with the peptides' potency and permit enhancement of antiviral effect for both HPIV3 and NiV.
+4	140	147 binding	Gene_function	GO_0005488
+4	198	207 transient	Phenotype	HP_0025153
+4	248	256 membrane	Gene_function	GO_0016020
+4	248	263 membrane fusion	Gene_function	GO_0061025
+4	927	942 plasma membrane	Gene_function	GO_0005886
+4	934	942 membrane	Gene_function	GO_0016020
+4	1033	1040 central	Phenotype	HP_0030645
+4	1688	1696 membrane	Gene_function	GO_0016020
+4	GO-HP	GO_0005488	HP_0025153
+4	GO-HP	GO_0005488	HP_0030645
+4	HP-GO	HP_0025153	GO_0016020
+4	HP-GO	HP_0025153	GO_0061025
+4	HP-GO	HP_0025153	GO_0005886
+4	GO-HP	GO_0016020	HP_0030645
+4	GO-HP	GO_0061025	HP_0030645
+4	GO-HP	GO_0005886	HP_0030645
+

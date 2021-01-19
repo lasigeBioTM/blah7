@@ -1,0 +1,14 @@
+0|chunk|Morbidity, Mortality, and Seasonality of Influenza Hospitalizations in Egypt
+
+1|chunk|Influenza typically comprises a substantial portion of acute respiratory infections, a leading cause of mortality worldwide. However, influenza epidemiology data are lacking in Egypt. We describe seven years of Egypt's influenza hospitalizations from a multi-site influenza surveillance system.
+1	55	60 acute	Phenotype	HP_0011009
+
+2|chunk|Syndromic case definitions identified individuals with severe acute respiratory infection (SARI) admitted to eight hospitals in Egypt. Standardized demographic and clinical data were collected. Nasopharyngeal and oropharyngeal swabs were tested for influenza using real-time reverse transcription polymerase chain reaction and typed as influenza A or B, and influenza A specimens subtyped.
+2	55	61 severe	Phenotype	HP_0012828
+2	62	67 acute	Phenotype	HP_0011009
+2	68	89 respiratory infection	Phenotype	HP_0011947
+2	275	296 reverse transcription	Gene_function	GO_0001171
+2	HP-GO	HP_0012828	GO_0001171
+2	HP-GO	HP_0011009	GO_0001171
+2	HP-GO	HP_0011947	GO_0001171
+

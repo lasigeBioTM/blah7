@@ -1,0 +1,30 @@
+0|chunk|
+
+1|chunk|In this manuscript Yngez et al. used a combination of quantitative phosphoproteomics, kinase motif predication and in vitro and in vivo experiments to discover and validate potential kinase drug targets that would show promise for the new antiviral thera py for seasonal influenza. Global phosphoproteome screen was performed in A549 cells infected for 5 or 15 minutes with influenza A virus and the results were compared to those obtained from uninfected cells as a control. After the phosphoproteomics data analysis the authors focused on the GRK2 kinase and looked at the mechanism of its action and effects of its inhibition in cultured cells and in a mouse system. The experiments have been carefully performed and the paper is well written. Specific comments ar e outlined below.
+1	192	196 drug	Chemical	CHEBI_23888
+1	241	250 antiviral	Chemical	CHEBI_22587
+1	594	600 action	Chemical	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_5133
+
+2|chunk|1. Page 5, Lines 91-93: The authors state that their approach did not include phosphotyrosines. It is true that the specific phosphotyrosine IP has not been performed, however, as per the data from the supplemental table, 47 pY sites were identified, so perhaps the initial statement could be phrased differently. 2. Please deposit the raw phosphoproteomics data in the publicly accessible database (such as ProteomeXchange) as is the standard developed by the proteomics community and provi de the accession number in the appropriate part of the Methods section. 3. The experiments on mice as described on page 13 (lines 296-304) included a control experiment where mice were treated with paroxetine but not infected with virus. However, even tho ugh this experiment obviously was performed, the effect of paroxetine alone is not shown in any of the figures and despite paroxetine being an approved inhibitor which no doubt has been tested on mice, the authors should provide the result of their treatme nt in comparison to the mice treated with solvent or untreated to check the viability and any other effects on their mouse strain in their experimental setting (inhibitor dose, housing conditions, or any strain modifications can affect the outcome of the treatment). 4. General comment to the figures with indicated statistical significance: please provide (in the figure legends) the p-values corresponding to the number of asterisks marked on each figure, as well as indicate that "ns" means "non-significant".
+2	125	140 phosphotyrosine	Chemical	CHEBI_37788
+2	690	700 paroxetine	Chemical	CHEBI_7936
+2	807	817 paroxetine	Chemical	CHEBI_7936
+2	871	881 paroxetine	Chemical	CHEBI_7936
+2	900	909 inhibitor	Chemical	CHEBI_35222
+2	1047	1054 solvent	Chemical	CHEBI_46787
+2	1166	1175 inhibitor	Chemical	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_37788	CHEBI_7936
+2	CHEBI-CHEBI	CHEBI_37788	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_37788	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_7936	CHEBI_35222
+2	CHEBI-CHEBI	CHEBI_7936	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_35222	CHEBI_46787
+
+3|chunk|Despite the increasing knowledge of influenza A virus (IAV), the early steps of IAV infection are not well elucidated. This study by Yanguez et al. presents a first profiling of cellular serine/threonine phosphorylation events within 15 minutes of IAV infection. This work is important because elucidation of these mechanisms will ultimately help design a new type of antivirals to block viral infection before the virus starts replication in the nucleus. The authors further relied on bioinformatics to reveal several kinases that may involve the early phosphorylation events. One of these candidates, GRK2 was chosen for detailed study. The data for GRK2 is solid and convincing, however, the underlying mechanisms and in vivo efficacy need further clarification and stronger evidence.
+3	368	378 antivirals	Chemical	CHEBI_22587
+
+4|chunk|Major points: 1. The in vivo study showed the decreased viral infection in the respiratory tract using 40 PFU, a low dose for mouse infection. However, the authors may examine mouse surviv al rate using a high dose of IAV in mock-treated vs. drug-treated mice. Lung histology examination may be also included to make the Figure 5. 2. The reviewer appreciates the effort made to define which step of early infection the GRK2 involves.
+

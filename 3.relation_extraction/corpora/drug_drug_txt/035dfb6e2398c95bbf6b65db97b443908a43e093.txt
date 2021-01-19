@@ -1,0 +1,8 @@
+0|chunk|RIEMS: a software pipeline for sensitive and comprehensive taxonomic classification of reads from metagenomics datasets
+
+1|chunk|Background: Fuelled by the advent and subsequent development of next generation sequencing technologies, metagenomics became a powerful tool for the analysis of microbial communities both scientifically and diagnostically. The biggest challenge is the extraction of relevant information from the huge sequence datasets generated for metagenomics studies. Although a plethora of tools are available, data analysis is still a bottleneck.
+
+2|chunk|Results: To overcome the bottleneck of data analysis, we developed an automated computational workflow called RIEMS -Reliable Information Extraction from Metagenomic Sequence datasets. RIEMS assigns every individual read sequence within a dataset taxonomically by cascading different sequence analyses with decreasing stringency of the assignments using various software applications. After completion of the analyses, the results are summarised in a clearly structured result protocol organised taxonomically. The high accuracy and performance of RIEMS analyses were proven in comparison with other tools for metagenomics data analysis using simulated sequencing read datasets.
+
+3|chunk|Conclusions: RIEMS has the potential to fill the gap that still exists with regard to data analysis for metagenomics studies. The usefulness and power of RIEMS for the analysis of genuine sequencing datasets was demonstrated with an early version of RIEMS in 2011 when it was used to detect the orthobunyavirus sequences leading to the discovery of Schmallenberg virus.
+

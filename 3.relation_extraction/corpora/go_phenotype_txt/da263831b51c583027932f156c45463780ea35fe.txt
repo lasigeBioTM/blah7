@@ -1,0 +1,60 @@
+0|chunk|Chronic widespread musculoskeletal pain, fatigue, depression and disordered sleep in chronic post- SARS syndrome; a case-controlled study
+0	0	7 Chronic	Phenotype	HP_0011010
+0	50	60 depression	Phenotype	HP_0000716
+0	76	81 sleep	Gene_function	GO_0030431
+0	85	92 chronic	Phenotype	HP_0011010
+0	HP-GO	HP_0011010	GO_0030431
+0	HP-GO	HP_0000716	GO_0030431
+
+1|chunk|Background: The long term adverse effects of Severe Acute Respiratory Syndrome (SARS), a viral disease, are poorly understood.
+1	45	51 Severe	Phenotype	HP_0012828
+1	52	57 Acute	Phenotype	HP_0011009
+
+2|chunk|Methods: Sleep physiology, somatic and mood symptoms of 22 Toronto subjects, 21 of whom were healthcare workers, (19 females, 3 males, mean age 46.29 yrs.+/-11.02) who remained unable to return to their former occupation (mean 19.8 months, range: 13 to 36 months following SARS) were compared to 7 healthy female subjects. Because of their clinical similarities to patients with fibromyalgia syndrome (FMS) these post-SARS subjects were similarly compared to 21 drug free female patients, (mean age 42.4 +/-11.8 yrs.) who fulfilled criteria for fibromyalgia.
+2	9	14 Sleep	Gene_function	GO_0030431
+2	298	305 healthy	Phenotype	HP_0032322
+2	GO-HP	GO_0030431	HP_0032322
+
+3|chunk|Results: Chronic post-SARS is characterized by persistent fatigue, diffuse myalgia, weakness, depression, and nonrestorative sleep with associated REM-related apneas/hypopneas, an elevated sleep EEG cyclical alternating pattern, and alpha EEG sleep anomaly. Post-SARS patients had symptoms of pre and post-sleep fatigue and post sleep sleepiness that were similar to the symptoms of patients with FMS, and similar to symptoms of patients with chronic fatigue syndrome. Both post-SARS and FMS groups had sleep instability as indicated by the high sleep EEG cyclical alternating pattern rate. The post-SARS group had a lower rating of the alpha EEG sleep anomaly as compared to the FMS patients. The post-SARS group also reported less pre-sleep and post-sleep musculoskeletal pain symptoms. Conclusions: The clinical and sleep features of chronic post-SARS form a syndrome of chronic fatigue, pain, weakness, depression and sleep disturbance, which overlaps with the clinical and sleep features of FMS and chronic fatigue syndrome.
+3	9	16 Chronic	Phenotype	HP_0011010
+3	58	65 fatigue	Phenotype	HP_0012378
+3	67	74 diffuse	Phenotype	HP_0020034
+3	94	104 depression	Phenotype	HP_0000716
+3	125	130 sleep	Gene_function	GO_0030431
+3	189	194 sleep	Gene_function	GO_0030431
+3	243	248 sleep	Gene_function	GO_0030431
+3	293	296 pre	Gene_function	GO_0003904
+3	312	319 fatigue	Phenotype	HP_0012378
+3	329	334 sleep	Gene_function	GO_0030431
+3	443	450 chronic	Phenotype	HP_0011010
+3	443	458 chronic fatigue	Phenotype	HP_0012432
+3	451	458 fatigue	Phenotype	HP_0012378
+3	503	508 sleep	Gene_function	GO_0030431
+3	546	551 sleep	Gene_function	GO_0030431
+3	647	652 sleep	Gene_function	GO_0030431
+3	774	778 pain	Phenotype	HP_0012531
+3	819	824 sleep	Gene_function	GO_0030431
+3	837	844 chronic	Phenotype	HP_0011010
+3	874	881 chronic	Phenotype	HP_0011010
+3	874	889 chronic fatigue	Phenotype	HP_0012432
+3	882	889 fatigue	Phenotype	HP_0012378
+3	891	895 pain	Phenotype	HP_0012531
+3	907	917 depression	Phenotype	HP_0000716
+3	922	927 sleep	Gene_function	GO_0030431
+3	978	983 sleep	Gene_function	GO_0030431
+3	1004	1011 chronic	Phenotype	HP_0011010
+3	1004	1019 chronic fatigue	Phenotype	HP_0012432
+3	1012	1019 fatigue	Phenotype	HP_0012378
+3	HP-GO	HP_0011010	GO_0030431
+3	HP-GO	HP_0011010	GO_0003904
+3	HP-GO	HP_0012378	GO_0030431
+3	HP-GO	HP_0012378	GO_0003904
+3	HP-GO	HP_0020034	GO_0030431
+3	HP-GO	HP_0020034	GO_0003904
+3	HP-GO	HP_0000716	GO_0030431
+3	HP-GO	HP_0000716	GO_0003904
+3	GO-HP	GO_0030431	HP_0012432
+3	GO-HP	GO_0030431	HP_0012531
+3	GO-HP	GO_0003904	HP_0012432
+3	GO-HP	GO_0003904	HP_0012531
+

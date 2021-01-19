@@ -1,0 +1,15 @@
+0|chunk|Supplementary Information for Building ventilation as an effective disease intervention strategy in a dense indoor contact network in an ideal city
+0	67	74 disease	Disease	DOID_4
+
+1|chunk|An actual indoor contact network can be affected by many factors such as the age, gender, occupation, personal habits, social status, geographical location, while many of these factors may correlate with each other. Hence, it is impossible to mathematically describe, accurately and completely, a real social contact network. To create a representative synthetic contact network and to simulate a possible infectious disease outbreak based on the network, we adopt a few simplifications.
+1	406	424 infectious disease	Disease	DOID_0050117
+1	417	424 disease	Disease	DOID_4
+
+2|chunk|We separated population and indoor environments into representative groups and assumed that individuals in the same group share similar location visiting behaviors, and all of the indoor environments in the same group share similar characteristics such as the number of occupants, occupant density, and ventilation rate. Internal variations within each group can be simulated by assuming the possible distributions for different parameters.
+
+3|chunk|Visiting time The complex patterns of individuals arriving at and leaving a location are not considered. We simplified the scenario by dividing each indoor environment into different sub-visiting locations that represent different time durations for visiting each indoor environment. Thus, several locations may represent the same indoor environment at a different time. Therefore this approach differentiates individuals who visit the same indoor environment at different times. We also assumed that individuals who choose to visit a location (an indoor environment for a fixed duration) come at the same time and leave at the same time. Hence, the visiting time of all possible visitors to a given location is the same.
+
+4|chunk|We assumed that all of the individuals in a population group have the same location visiting schedule on weekdays. During a normal weekday, an individual may visit several locations in different location groups with a fixed order.
+
+5|chunk|To simulate the variations in an individual's daily choices, we assumed that for each step of an individual's schedule, he or she has a collection of favorite locations. Random contact is not considered in this model.
+

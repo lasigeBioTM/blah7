@@ -1,0 +1,88 @@
+0|chunk|The S2 Subunit of Infectious Bronchitis Virus Beaudette Is a Determinant of Cellular Tropism
+0	29	39 Bronchitis	Phenotype	HP_0012387
+0	85	92 Tropism	Gene_function	GO_0009606
+0	HP-GO	HP_0012387	GO_0009606
+
+1|chunk|The spike (S) glycoprotein of the avian gammacoronavirus infectious bronchitis virus (IBV) is comprised of two subunits (S1 and S2), has a role in virulence in vivo, and is responsible for cellular tropism in vitro. We have previously demonstrated that replacement of the S glycoprotein ectodomain from the avirulent Beaudette strain of IBV with the corresponding region from the virulent M41-CK strain resulted in a recombinant virus, BeauR-M41(S), with the in vitro cell tropism of M41-CK. The IBV Beaudette strain is able to replicate in both primary chick kidney cells and Vero cells, whereas the IBV M41-CK strain replicates in primary cells only. In order to investigate the region of the IBV S responsible for growth in Vero cells, we generated a series of recombinant IBVs expressing chimeric S glycoproteins, consisting of regions from the Beaudette and M41-CK S gene sequences, within the genomic background of Beaudette. The S2, but not the S1, subunit of the Beaudette S was found to confer the ability to grow in Vero cells. Various combinations of Beaudette-specific amino acids were introduced into the S2 subunit of M41 to determine the minimum requirement to confer tropism for growth in Vero cells. The ability of IBV to grow and produce infectious progeny virus in Vero cells was subsequently narrowed down to just 3 amino acids surrounding the S2= cleavage site. Conversely, swapping of the 3 Beaudette-associated amino acids with the corresponding ones from M41 was sufficient to abolish Beaudette growth in Vero cells.
+1	68	78 bronchitis	Phenotype	HP_0012387
+1	198	205 tropism	Gene_function	GO_0009606
+1	473	480 tropism	Gene_function	GO_0009606
+1	717	723 growth	Gene_function	GO_0040007
+1	1183	1190 tropism	Gene_function	GO_0009606
+1	1195	1201 growth	Gene_function	GO_0040007
+1	1519	1525 growth	Gene_function	GO_0040007
+1	HP-GO	HP_0012387	GO_0009606
+1	HP-GO	HP_0012387	GO_0040007
+
+2|chunk|IMPORTANCE Infectious bronchitis remains a major problem in the global poultry industry, despite the existence of many different vaccines. IBV vaccines, both live attenuated and inactivated, are currently grown on embryonated hen's eggs, a cumbersome and expensive process due to the fact that most IBV strains do not grow in cultured cells. The reverse genetics system for IBV creates the opportunity for generating rationally designed and more effective vaccines. The observation that IBV Beaudette has the additional tropism for growth on Vero cells also invokes the possibility of generating IBV vaccines produced from cultured cells rather than by the use of embryonated eggs. The regions of the IBV Beaudette S glycoprotein involved in the determination of extended cellular tropism were identified in this study. This information will enable the rational design of a future generation of IBV vaccines that may be grown on Vero cells. Citation Bickerton E, Maier HJ, Stevenson-Leggett P, Armesto M, Britton P. 2018. The S2 subunit of infectious bronchitis virus Beaudette is a determinant of cellular tropism. J Virol 92: e01044-18. https://doi.
+2	22	32 bronchitis	Phenotype	HP_0012387
+2	520	527 tropism	Gene_function	GO_0009606
+2	532	538 growth	Gene_function	GO_0040007
+2	781	788 tropism	Gene_function	GO_0009606
+2	1051	1061 bronchitis	Phenotype	HP_0012387
+2	1107	1114 tropism	Gene_function	GO_0009606
+2	HP-GO	HP_0012387	GO_0009606
+2	HP-GO	HP_0012387	GO_0040007
+
+3|chunk|Coronaviruses are enveloped viruses with an unsegmented, single-stranded positive-sense RNA genome of 26 to 32 kb which is capped and polyadenylated and which replicates in the cell cytoplasm (13-15). The genomic RNA associates with the nucleoprotein (N), forming helical nucleocapsids that are enclosed within lipid envelopes containing the spike (S) glycoprotein, membrane (M) protein, and small envelope (E) protein. The coronavirus S glycoprotein is a highly glycosylated type I membrane glycoprotein that is synthesized as a single polypeptide chain of about 180 kDa that oligomerizes into homotrimers in the endoplasmic reticulum and that is processed in the Golgi apparatus of the host cell (16-18) and is observable as 20-nm structures projecting from the virion surface by electron microscopy. Cryo-electron microscopy has revealed that the S protein forms a clove-shaped trimer of S1 subunits linked to a stalk of trimeric S2 subunits (19-21). The S protein is responsible for binding to the target cell receptor and fusion of the viral and cellular membranes, fulfilling a major role in the infection of susceptible cells (22).
+3	182	191 cytoplasm	Gene_function	GO_0005737
+3	366	374 membrane	Gene_function	GO_0016020
+3	398	406 envelope	Gene_function	GO_0031975
+3	483	491 membrane	Gene_function	GO_0016020
+3	614	635 endoplasmic reticulum	Gene_function	GO_0005783
+3	665	680 Golgi apparatus	Gene_function	GO_0005794
+3	688	697 host cell	Gene_function	GO_0043657
+3	764	770 virion	Gene_function	GO_0019012
+3	987	994 binding	Gene_function	GO_0005488
+
+4|chunk|Coronavirus S glycoproteins consist of four domains: an N-terminal signal sequence that is cleaved during synthesis; the ectodomain, which is present on the outside of the virus particle; the transmembrane region, which is responsible for anchoring the S protein into the lipid bilayer of the virus particle; and the cysteine-rich cytoplasmic tail at the C terminus. The S glycoproteins of some coronaviruses, including IBV, mouse hepatitis virus (MHV), and human coronavirus OC43 (HCoV-OC43), are cleaved during biosynthesis into two subunits, S1 and S2, by a furin-like protease in the Golgi apparatus, which remain noncovalently linked (23). The IBV S glycoprotein (1,162 amino acids) is composed of two subunits, S1 (535 amino acids, 90 kDa), comprising the N-terminal half of the S protein, and S2 (627 amino acids, 84 kDa), comprising the C-terminal half of the S protein. As with other coronaviruses, the S2 subunit contains the transmembrane and C-terminal cytoplasmic tail domains and the S1 subunit contains the receptor binding domain (RBD) of the S protein (24-27). Proteolytic activation and binding of the S1 subunit to the host cell receptor induce conformational changes in the spike (28, 29) (30), leading to virus-cell fusion and release of the nucleocapsid into the cytoplasm (31). The ectodomain region of the S2 subunit contains a fusion peptide (32-39) and two heptad repeat regions involved in oligomerization of the S protein (40) and is required for entry into susceptible cells (41-43). The spike interacts with the M protein on pre-Golgi membranes, forming multimeric complexes (44), and is incorporated into forming virions (45).
+4	192	205 transmembrane	Gene_function	GO_0016021
+4	239	248 anchoring	Gene_function	GO_0043495
+4	431	440 hepatitis	Phenotype	HP_0012115
+4	513	525 biosynthesis	Gene_function	GO_0009058
+4	936	949 transmembrane	Gene_function	GO_0016021
+4	1031	1038 binding	Gene_function	GO_0005488
+4	1105	1112 binding	Gene_function	GO_0005488
+4	1138	1147 host cell	Gene_function	GO_0043657
+4	1263	1275 nucleocapsid	Gene_function	GO_0019013
+4	1285	1294 cytoplasm	Gene_function	GO_0005737
+4	GO-HP	GO_0016021	HP_0012115
+4	GO-HP	GO_0043495	HP_0012115
+4	HP-GO	HP_0012115	GO_0009058
+4	HP-GO	HP_0012115	GO_0005488
+4	HP-GO	HP_0012115	GO_0043657
+4	HP-GO	HP_0012115	GO_0019013
+4	HP-GO	HP_0012115	GO_0005737
+
+5|chunk|The coronavirus RBD is an independently folded region of the S glycoprotein responsible for interacting with the virus receptor on susceptible host cells. Although all coronavirus RBDs are found within the S1 subunit, they are virus specific and vary in position throughout the S1 domain (46-48). The location of the RBD of IBV has been mapped to be within the N-terminal 253 amino acids of the S1 subunit (49). The host cell receptors for several coronaviruses have been identified; several of the Alphacoronaviruses, porcine transmissible gastroenteritis virus (TGEV), type II feline coronavirus (FCoV), canine coronavirus (CCoV), and human coronavirus-229E (HCoV-229E), use aminopeptidase N as the host cell receptor (50-52). In contrast, Betacoronaviruses have been found to utilize a variety of different receptors. The principal receptor for MHV is murine carcinoembryonic antigen-related cell adhesion molecule (CEACAM) (53); the virus also attaches to O-acetylated sialic acid, which is mediated by an extra structural protein, the hemagglutinin-esterase (HE) protein found in the virus membrane of some coronaviruses in this genus, rather than the S glycoprotein (54). Severe acute respiratory syndrome coronavirus (SARS-CoV) has been shown to use angiotensin-converting enzyme 2 (ACE2) as a receptor (55) along with CD209L (56) and is also thought to use the C-type lectins dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin (DC-SIGN) and L-SIGN as alternative receptors independently of ACE2 (57). The receptor for the Middle East respiratory syndrome coronavirus (MERS-CoV) has been identified to be dipeptidyl peptidase 4, also known as CD26 (58). The protein receptor for IBV has not yet been elucidated, although two strains of IBV, M41 and Beaudette, have been shown to use 2,3-linked sialic acid as an attachment factor (59, Bickerton et al.
+5	254	262 position	Phenotype	HP_0012830
+5	416	425 host cell	Gene_function	GO_0043657
+5	701	710 host cell	Gene_function	GO_0043657
+5	895	908 cell adhesion	Gene_function	GO_0007155
+5	895	917 cell adhesion molecule	Gene_function	GO_0098631
+5	1095	1103 membrane	Gene_function	GO_0016020
+5	1178	1184 Severe	Phenotype	HP_0012828
+5	1185	1190 acute	Phenotype	HP_0011009
+5	HP-GO	HP_0012830	GO_0043657
+5	HP-GO	HP_0012830	GO_0007155
+5	HP-GO	HP_0012830	GO_0098631
+5	HP-GO	HP_0012830	GO_0016020
+5	GO-HP	GO_0043657	HP_0012828
+5	GO-HP	GO_0043657	HP_0011009
+5	GO-HP	GO_0007155	HP_0012828
+5	GO-HP	GO_0007155	HP_0011009
+5	GO-HP	GO_0098631	HP_0012828
+5	GO-HP	GO_0098631	HP_0011009
+5	GO-HP	GO_0016020	HP_0012828
+5	GO-HP	GO_0016020	HP_0011009
+
+6|chunk|The S2 Subunit Determines IBV Tropism Journal of Virology
+6	30	37 Tropism	Gene_function	GO_0009606
+
+7|chunk|Adaptation of rIBV BeauR-M41(S1) to Vero cells. Vero cells in 6-well plates were infected with Beau-R and BeauR-M41(S1) P 7 -Vero at an MOI of 0.5. The supernatant was harvested at 1, 12, 24, 48, and 72 h postinfection and titrated on CK cells. Three replicates were performed, and the averages were taken. Error bars indicate the standard error of the mean; some error bars are too small to be observed.
+
+8|chunk|The S2 Subunit Determines IBV Tropism Journal of Virology FIG 7 Adaptation of rIBVs with modified S2 subunits to Vero cells. Vero cells in 6-well plates were infected with at an MOI of 0.005. The supernatant was harvested at 1, 12, 24, 48, and 72 h postinfection and titrated on CK cells. Three replicates were performed, and the averages were taken. Error bars indicate the standard error of the mean. The S2 Subunit Determines IBV Tropism Journal of Virology The S2 Subunit Determines IBV Tropism Journal of Virology
+8	30	37 Tropism	Gene_function	GO_0009606
+8	433	440 Tropism	Gene_function	GO_0009606
+8	491	498 Tropism	Gene_function	GO_0009606
+

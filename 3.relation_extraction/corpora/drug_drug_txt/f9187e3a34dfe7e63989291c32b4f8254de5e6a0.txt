@@ -1,0 +1,33 @@
+0|chunk|Author(s)
+
+1|chunk|Regulation of proteolysis plays a critical role in a myriad of important cellular processes. The key to better understanding the mechanisms that control this process is to identify the specific substrates that each protease targets. To address this, we have developed iProt-Sub, a powerful bioinformatics tool for the accurate prediction of protease-specific substrates and their cleavage sites. Importantly, iProt-Sub represents a significantly advanced version of its successful predecessor, PROSPER. It provides optimized cleavage site prediction models with better prediction performance and coverage for more species-specific proteases (4 major protease families and 38 different proteases). iProt-Sub integrates heterogeneous Jiangning Song received his BEng and DEng degrees from Jiangnan University, China. He is affiliated with the Advisory Professor of several Universities. His research interests are in computational biology and biomedicine, protein structure prediction, low-frequency internal motion of protein/DNA molecules and its biological functions, diffusion-controlled reactions of enzymes, as well as graphic rules in enzyme kinetics and other biological systems. sequence and structural features and uses a two-step feature selection procedure to further remove redundant and irrelevant features in an effort to improve the cleavage site prediction accuracy. Features used by iProt-Sub are encoded by 11 different sequence encoding schemes, including local amino acid sequence profile, secondary structure, solvent accessibility and native disorder, which will allow a more accurate representation of the protease specificity of approximately 38 proteases and training of the prediction models. Benchmarking experiments using cross-validation and independent tests showed that iProt-Sub is able to achieve a better performance than several existing generic tools. We anticipate that iProt-Sub will be a powerful tool for proteome-wide prediction of protease-specific substrates and their cleavage sites, and will facilitate hypothesis-driven functional interrogation of protease-specific substrate cleavage and proteolytic events.
+1	43	47 role	Chemical	CHEBI_50906
+1	954	961 protein	Chemical	CHEBI_16541
+1	1017	1024 protein	Chemical	CHEBI_16541
+1	1029	1038 molecules	Chemical	CHEBI_25367
+1	1480	1485 amino	Chemical	CHEBI_46882
+1	1480	1490 amino acid	Chemical	CHEBI_33704
+1	1486	1490 acid	Chemical	CHEBI_37527
+1	1530	1537 solvent	Chemical	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_46787
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_46787
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="882b4b4a41b772d31e8f9e860882088336f26e26">
+  <chunk id="882b4b4a41b772d31e8f9e860882088336f26e26.c0" text="BMC Infectious Diseases Automated extraction protocol for quantification of SARS-Coronavirus RNA in serum: an evaluation study">
+    <entity charOffset="0-3" id="882b4b4a41b772d31e8f9e860882088336f26e26.c0.e0" ontology_id="CHEBI_3392" text="BMC" type="chemical"/>
+    <entity charOffset="93-96" id="882b4b4a41b772d31e8f9e860882088336f26e26.c0.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="882b4b4a41b772d31e8f9e860882088336f26e26.c1" text="We have previously developed a test for the diagnosis and prognostic assessment of the severe acute respiratory syndrome (SARS) based on the detection of the SARS-coronavirus RNA in serum by real-time quantitative reverse transcriptase polymerase chain reaction (RT-PCR). In this study, we evaluated the feasibility of automating the serum RNA extraction procedure in order to increase the throughput of the assay.">
+    <entity charOffset="87-120" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e0" ontology_id="DOID_2945" text="severe acute respiratory syndrome" type="disease"/>
+    <entity charOffset="112-120" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="122-126" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e2" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="175-178" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="340-343" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e0" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e3" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p0" relation="true"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e0" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e4" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p1" relation="true"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e1" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e3" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p2" relation="true"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e1" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e4" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p3" relation="true"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e2" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e3" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p4" relation="true"/>
+    <pair e1="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e2" e2="882b4b4a41b772d31e8f9e860882088336f26e26.c1.e4" id="882b4b4a41b772d31e8f9e860882088336f26e26.c1.p5" relation="true"/>
+  </chunk>
+  <chunk id="882b4b4a41b772d31e8f9e860882088336f26e26.c2" text="Methods: An automated nucleic acid extraction platform using the MagNA Pure LC instrument (Roche Diagnostics) was evaluated. We developed a modified protocol in compliance with the recommended biosafety guidelines from the World Health Organization based on the use of the MagNA Pure total nucleic acid large volume isolation kit for the extraction of SARS-coronavirus RNA. The modified protocol was compared with a column-based extraction kit (QIAamp viral RNA mini kit, Qiagen) for quantitative performance, analytical sensitivity and precision.">
+    <entity charOffset="22-34" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e0" ontology_id="CHEBI_33696" text="nucleic acid" type="chemical"/>
+    <entity charOffset="30-34" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e1" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="290-302" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e2" ontology_id="CHEBI_33696" text="nucleic acid" type="chemical"/>
+    <entity charOffset="298-302" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="369-372" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="458-461" id="882b4b4a41b772d31e8f9e860882088336f26e26.c2.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="882b4b4a41b772d31e8f9e860882088336f26e26.c3" text="The newly developed automated protocol was shown to be free from carry-over contamination and have comparable performance with other standard protocols and kits designed for the MagNA Pure LC instrument. However, the automated method was found to be less sensitive, less precise and led to consistently lower serum SARS-coronavirus concentrations when compared with the column-based extraction method."/>
+  <chunk id="882b4b4a41b772d31e8f9e860882088336f26e26.c4" text="As the diagnostic efficiency and prognostic value of the serum SARS-CoV RNA RT-PCR test is critically associated with the analytical sensitivity and quantitative performance contributed both by the RNA extraction and RT-PCR components of the test, we recommend the use of the column-based manual RNA extraction method.">
+    <entity charOffset="72-75" id="882b4b4a41b772d31e8f9e860882088336f26e26.c4.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="198-201" id="882b4b4a41b772d31e8f9e860882088336f26e26.c4.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="296-299" id="882b4b4a41b772d31e8f9e860882088336f26e26.c4.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+</document>

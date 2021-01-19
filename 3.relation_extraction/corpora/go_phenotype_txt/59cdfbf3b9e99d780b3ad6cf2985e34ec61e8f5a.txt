@@ -1,0 +1,17 @@
+0|chunk|A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus
+
+1|chunk|Mutation rates can evolve through genetic drift, indirect selection due to genetic hitchhiking, or direct selection on the physicochemical cost of high fidelity. However, for many systems, it has been difficult to disentangle the relative impact of these forces empirically. In RNA viruses, an observed correlation between mutation rate and virulence has led many to argue that their extremely high mutation rates are advantageous because they may allow for increased adaptability. This argument has profound implications because it suggests that pathogenesis in many viral infections depends on rare or de novo mutations. Here, we present data for an alternative model whereby RNA viruses evolve high mutation rates as a byproduct of selection for increased replicative speed. We find that a poliovirus antimutator, 3D G64S , has a significant replication defect and that wild-type (WT) and 3D G64S populations have similar adaptability in 2 distinct cellular environments. Experimental evolution of 3D G64S under selection for replicative speed led to reversion and compensation of the fidelity phenotype. Mice infected with 3D G64S exhibited delayed morbidity at doses well above the lethal level, consistent with attenuation by slower growth as opposed to reduced mutational supply. Furthermore, compensation of the 3D G64S growth defect restored virulence, while compensation of the fidelity phenotype did not. Our data are consistent with the kinetic proofreading model for biosynthetic reactions and suggest that speed is more important than accuracy. In contrast with what has been suggested for many RNA viruses, we find that within-host spread is associated with viral replicative speed and not standing genetic diversity.
+1	500	508 profound	Phenotype	HP_0012829
+1	547	559 pathogenesis	Gene_function	GO_0009405
+1	1239	1245 growth	Gene_function	GO_0040007
+1	1328	1334 growth	Gene_function	GO_0040007
+1	HP-GO	HP_0012829	GO_0009405
+1	HP-GO	HP_0012829	GO_0040007
+
+2|chunk|Why organisms have different mutation rates is a longstanding question in evolutionary biology. The polymerases of RNA viruses generally lack proofreading activity and exhibit extremely high mutation rates. Because most mutations are deleterious and mutation PLOS Biology | https://doi.org/10.1371/journal.pbio.Citation: Fitzsimmons WJ, Woods RJ, McCrone JT, Woodman A, Arnold JJ, Yennawar M, et al. (2018) A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus. PLoS Biol 16(6): e2006459. https://doi.The funder had no role in study design, data collection and analysis, decision to publish, or preparation of
+
+3|chunk|rates are typically tuned by natural selection, we asked why RNA viruses haven't evolved a polymerase with a lower mutation rate. We used experimental evolution and a murine infection model to show that RNA virus mutation rates may actually be too high and are not necessarily adaptive. Rather, our data indicate that viral mutation rates have evolved to be higher as a result of selection for viruses with faster replication kinetics. We suggest that viruses have high mutation rates, not because they facilitate adaptation but because it is hard to be both fast and accurate and these viruses have prioritized speed over fidelity.
+3	559	563 fast	Gene_function	GO_0033867
+
+4|chunk|Speed-fidelity trade-off PLOS Biology | https://doi.org/10.1371/journal.pbio.
+

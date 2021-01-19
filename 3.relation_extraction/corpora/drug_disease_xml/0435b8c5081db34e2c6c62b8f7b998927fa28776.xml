@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<document id="0435b8c5081db34e2c6c62b8f7b998927fa28776">
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0" text="cells The Redox Role of G6PD in Cell Growth, Cell Death, and Cancer">
+    <entity charOffset="16-20" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0.e0" ontology_id="CHEBI_50906" text="Role" type="chemical"/>
+    <entity charOffset="61-67" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0.e1" ontology_id="DOID_162" text="Cancer" type="disease"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0.e1" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1" text="The generation of reducing equivalent NADPH via glucose-6-phosphate dehydrogenase (G6PD) is critical for the maintenance of redox homeostasis and reductive biosynthesis in cells. NADPH also plays key roles in cellular processes mediated by redox signaling. Insufficient G6PD activity predisposes cells to growth retardation and demise. Severely lacking G6PD impairs embryonic development and delays organismal growth. Altered G6PD activity is associated with pathophysiology, such as autophagy, insulin resistance, infection, inflammation, as well as diabetes and hypertension. Aberrant activation of G6PD leads to enhanced cell proliferation and adaptation in many types of cancers. The present review aims to update the existing knowledge concerning G6PD and emphasizes how G6PD modulates redox signaling and affects cell survival and demise, particularly in diseases such as cancer. Exploiting G6PD as a potential drug target against cancer is also discussed.">
+    <entity charOffset="38-43" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e0" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="179-184" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e1" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="495-502" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e2" ontology_id="CHEBI_145810" text="insulin" type="chemical"/>
+    <entity charOffset="878-884" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e3" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <entity charOffset="917-921" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e4" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="937-943" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e5" ontology_id="DOID_162" text="cancer" type="disease"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e3" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p0" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p1" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e3" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p2" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p3" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e2" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e3" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p4" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e2" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p5" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e3" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e4" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p6" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e4" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.e5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c1.p7" relation="true"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2" text="Human G6PD-deficient granulocytes exhibit impairment of hydrogen peroxide and superoxide production [72] . Similar to the finding in cells, lower superoxide release, and reduced atherosclerotic lesions have been observed in G6PD-deficient mice crossbred with ApoE null hemizygous mice [73] . G6PD-derived NADPH is responsible for superoxide production as found in a pacing-induced heart failure canine model [74] . The ventricular tissue homogenates show an increase in NADPH, superoxide, and G6PD activity. Treatment with a NOX inhibitor gp91(ds-tat) or a G6PD inhibitor, 6-aminonicotinamide (6-AN), significantly reduces superoxide generation in the failing heart homogenates. The upregulation of myocardial G6PD provides sufficient NADPH and fuels the superoxide-producing enzymes, suggesting a redox role for G6PD in the pathogenesis of heart disease [74] . G6PD regulates nuclear superoxide production by cooperating with NOX4 in the hepatocytes, where G6PD and NOX4 are co-localized in the nucleus [75] . The close relationship between G6PD and NOX4 maintains ROS homeostasis and promotes downstream redox signaling, including STAT3, c-SRC and SHP2, in melanoma cells [16] . Overexpression of G6PD in bovine aortic endothelial cells (BAECs) diminishes ROS accumulation following exposure to hydrogen peroxide, TNF-α or xanthine oxidase. Upregulation of G6PD in BAECs maintains the reduced form of glutathione [76] .">
+    <entity charOffset="56-64" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e0" ontology_id="CHEBI_18276" text="hydrogen" type="chemical"/>
+    <entity charOffset="56-64" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e1" ontology_id="CHEBI_49637" text="hydrogen" type="chemical"/>
+    <entity charOffset="56-73" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e2" ontology_id="CHEBI_16240" text="hydrogen peroxide" type="chemical"/>
+    <entity charOffset="65-73" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e3" ontology_id="CHEBI_44785" text="peroxide" type="chemical"/>
+    <entity charOffset="78-88" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e4" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="146-156" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e5" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="305-310" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e6" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="330-340" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e7" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="470-475" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e8" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="477-487" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e9" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="525-528" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e10" ontology_id="CHEBI_142659" text="NOX" type="chemical"/>
+    <entity charOffset="529-538" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e11" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="562-571" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e12" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="573-592" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e13" ontology_id="CHEBI_74514" text="6-aminonicotinamide" type="chemical"/>
+    <entity charOffset="623-633" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e14" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="735-740" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e15" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="804-808" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e16" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="841-854" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" ontology_id="DOID_114" text="heart disease" type="disease"/>
+    <entity charOffset="847-854" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="885-895" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e19" ontology_id="CHEBI_18421" text="superoxide" type="chemical"/>
+    <entity charOffset="996-1003" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e20" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <entity charOffset="1066-1069" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e21" ontology_id="CHEBI_26523" text="ROS" type="chemical"/>
+    <entity charOffset="1159-1167" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" ontology_id="DOID_1909" text="melanoma" type="disease"/>
+    <entity charOffset="1258-1261" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e23" ontology_id="CHEBI_26523" text="ROS" type="chemical"/>
+    <entity charOffset="1297-1305" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e24" ontology_id="CHEBI_18276" text="hydrogen" type="chemical"/>
+    <entity charOffset="1297-1305" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e25" ontology_id="CHEBI_49637" text="hydrogen" type="chemical"/>
+    <entity charOffset="1297-1314" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e26" ontology_id="CHEBI_16240" text="hydrogen peroxide" type="chemical"/>
+    <entity charOffset="1306-1314" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e27" ontology_id="CHEBI_44785" text="peroxide" type="chemical"/>
+    <entity charOffset="1325-1333" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e28" ontology_id="CHEBI_15318" text="xanthine" type="chemical"/>
+    <entity charOffset="1403-1414" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e29" ontology_id="CHEBI_16856" text="glutathione" type="chemical"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p0" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p1" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p2" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p3" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p4" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p5" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e2" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p6" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e2" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p7" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e2" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p8" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e3" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p9" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e3" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p10" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e3" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p11" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e4" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p12" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e4" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p13" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e4" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p14" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e5" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p15" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e5" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p16" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e5" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p17" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e6" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p18" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e6" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p19" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e6" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p20" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e7" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p21" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e7" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p22" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e7" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p23" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e8" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p24" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e8" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p25" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e8" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p26" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e9" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p27" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e9" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p28" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e9" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p29" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e10" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p30" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e10" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p31" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e10" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p32" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e11" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p33" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e11" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p34" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e11" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p35" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e12" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p36" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e12" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p37" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e12" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p38" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e13" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p39" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e13" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p40" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e13" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p41" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e14" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p42" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e14" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p43" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e14" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p44" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e15" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p45" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e15" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p46" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e15" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p47" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e16" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p48" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e16" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p49" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e16" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p50" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e19" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p51" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e20" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p52" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e21" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p53" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e23" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p54" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e24" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p55" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e25" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p56" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e26" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p57" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e27" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p58" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e28" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p59" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e17" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e29" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p60" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e19" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p61" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e20" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p62" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e21" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p63" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e23" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p64" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e24" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p65" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e25" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p66" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e26" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p67" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e27" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p68" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e28" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p69" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e18" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e29" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p70" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e19" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p71" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e20" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p72" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e21" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p73" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e23" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p74" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e24" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p75" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e25" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p76" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e26" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p77" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e27" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p78" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e28" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p79" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e22" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.e29" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c2.p80" relation="true"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3" text="NO generation can be stimulated by cytokines and NO donors [77, 78] . NO affects cell survival, the immune response, insulin signaling, and stress disorders and provides vascular and neural protection [72, 76, [79] [80] [81] [82] [83] [84] . NO production is dependent on G6PD status [10] . Increased levels of NO and G6PD have been found in the saliva of refugees suffering from stress and anxiety [80] . Upon lipopolysaccharide (LPS) or 12-myristate 13-acetate (PMA) stimulation, human granulocytes produce nitrite (derived from NO). Human granulocytes lacking G6PD fail to generate NO in the presence of LPS or PMA [72] . The cytokine IL-1β enhances inducible nitric oxide synthase (iNOS) expression and NO production in pancreatic islet cells causing cell death and disruption of insulin secretion. IL-1β upregulates G6PD activity and reduces cyclic adenosine monophosphate (cAMP) levels. 8-bromo-cAMP, an activator of cAMP-dependent protein kinase, increases G6PD activity, while a protein kinase A (PKA) inhibitor decreases G6PD activity [79] .">
+    <entity charOffset="117-124" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e0" ontology_id="CHEBI_145810" text="insulin" type="chemical"/>
+    <entity charOffset="391-398" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" ontology_id="DOID_2030" text="anxiety" type="disease"/>
+    <entity charOffset="411-429" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e2" ontology_id="CHEBI_16412" text="lipopolysaccharide" type="chemical"/>
+    <entity charOffset="431-434" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e3" ontology_id="CHEBI_16412" text="LPS" type="chemical"/>
+    <entity charOffset="464-467" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e4" ontology_id="CHEBI_37537" text="PMA" type="chemical"/>
+    <entity charOffset="509-516" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e5" ontology_id="CHEBI_16301" text="nitrite" type="chemical"/>
+    <entity charOffset="607-610" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e6" ontology_id="CHEBI_16412" text="LPS" type="chemical"/>
+    <entity charOffset="614-617" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e7" ontology_id="CHEBI_37537" text="PMA" type="chemical"/>
+    <entity charOffset="663-675" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e8" ontology_id="CHEBI_16480" text="nitric oxide" type="chemical"/>
+    <entity charOffset="670-675" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e9" ontology_id="CHEBI_25741" text="oxide" type="chemical"/>
+    <entity charOffset="784-791" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e10" ontology_id="CHEBI_145810" text="insulin" type="chemical"/>
+    <entity charOffset="854-863" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e11" ontology_id="CHEBI_16335" text="adenosine" type="chemical"/>
+    <entity charOffset="854-877" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e12" ontology_id="CHEBI_16027" text="adenosine monophosphate" type="chemical"/>
+    <entity charOffset="879-883" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e13" ontology_id="CHEBI_17489" text="cAMP" type="chemical"/>
+    <entity charOffset="938-945" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e14" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="987-994" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e15" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1010-1019" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e16" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e0" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p0" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e2" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p1" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e3" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p2" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e4" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p3" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p4" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e6" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p5" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e7" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p6" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e8" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p7" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e9" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p8" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e10" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p9" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e11" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p10" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e12" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p11" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e13" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p12" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e14" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p13" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e15" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p14" relation="true"/>
+    <pair e1="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e1" e2="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.e16" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c3.p15" relation="true"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4" text="G6PD status is positively correlated with NO production. Suppression of G6PD by the biochemical inhibitor dehydroepiandrosterone (DHEA) or an antisense oligonucleotide reduces the IL-1β-induced NO level, indicating that cAMP-dependent PKA enhances G6PD status stimulated by IL-1β-derived NO. Sodium nitroprusside, an NO donor, stimulates cell growth in G6PD-normal fibroblasts but induces apoptosis in G6PD-deficient fibroblasts [81] . Treatment with Trolox, an antioxidant, or ectopic expression of G6PD reverses NO-induced apoptosis in G6PD-deficient fibroblasts, suggesting a pro-survival role for G6PD. Reduced G6PD activity in endothelial cells is associated with elevated ROS and decreased NO bioavailability [82] . Overexpression of G6PD in BAECs treated with bradykinin also enhances cGMP and NOS activity. This results in an increase in bioavailable NO [76] .">
+    <entity charOffset="96-105" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e0" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="106-128" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e1" ontology_id="CHEBI_28689" text="dehydroepiandrosterone" type="chemical"/>
+    <entity charOffset="130-134" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e2" ontology_id="CHEBI_28689" text="DHEA" type="chemical"/>
+    <entity charOffset="142-167" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e3" ontology_id="CHEBI_76720" text="antisense oligonucleotide" type="chemical"/>
+    <entity charOffset="152-167" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e4" ontology_id="CHEBI_7754" text="oligonucleotide" type="chemical"/>
+    <entity charOffset="292-298" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e5" ontology_id="CHEBI_26708" text="Sodium" type="chemical"/>
+    <entity charOffset="592-596" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e6" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="678-681" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e7" ontology_id="CHEBI_26523" text="ROS" type="chemical"/>
+    <entity charOffset="767-777" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e8" ontology_id="CHEBI_3165" text="bradykinin" type="chemical"/>
+    <entity charOffset="792-796" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c4.e9" ontology_id="CHEBI_16356" text="cGMP" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5" text="NO availability is essential for the regulation of leukocyte adhesion in the endothelium [85]. G6PD-deficient endothelial cells display lower level of endothelial nitric oxide synthase (eNOS), NO, and glutathione (GSH). Treatment of G6PD-deficient endothelial cells with high concentrations of glucose as a pro-atherosclerotic stimulus upregulates ICAM-1 and VCAM-1, as well as the oxidant markers, ROS, NOX4, and iNOS. By contrast, l-cysteine (a GSH precursor) attenuates these oxidative markers, suggesting that G6PD and GSH play a role in endothelial cell protection associated with NO availability [85] . LPS increases the mRNA expression of G6PD and glucose utilization of the PPP independent of iNOS in cultured rat astrocytes, while inhibition of NF-κB blocks the expression of G6PD and iNOS [83] . Inhibition of G6PD in rat astrocytes by DHEA prevents PPP activity and lowers Cells 2019, 8, 1055 4 of 29">
+    <entity charOffset="163-175" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e0" ontology_id="CHEBI_16480" text="nitric oxide" type="chemical"/>
+    <entity charOffset="170-175" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e1" ontology_id="CHEBI_25741" text="oxide" type="chemical"/>
+    <entity charOffset="201-212" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e2" ontology_id="CHEBI_16856" text="glutathione" type="chemical"/>
+    <entity charOffset="294-301" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e3" ontology_id="CHEBI_17234" text="glucose" type="chemical"/>
+    <entity charOffset="382-389" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e4" ontology_id="CHEBI_63248" text="oxidant" type="chemical"/>
+    <entity charOffset="433-443" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e5" ontology_id="CHEBI_17561" text="l-cysteine" type="chemical"/>
+    <entity charOffset="447-450" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e6" ontology_id="CHEBI_16856" text="GSH" type="chemical"/>
+    <entity charOffset="523-526" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e7" ontology_id="CHEBI_16856" text="GSH" type="chemical"/>
+    <entity charOffset="534-538" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e8" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="609-612" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e9" ontology_id="CHEBI_16412" text="LPS" type="chemical"/>
+    <entity charOffset="627-631" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e10" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="655-662" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e11" ontology_id="CHEBI_17234" text="glucose" type="chemical"/>
+    <entity charOffset="682-685" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e12" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="846-850" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e13" ontology_id="CHEBI_28689" text="DHEA" type="chemical"/>
+    <entity charOffset="860-863" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c5.e14" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6" text="NADPH and the GSH/ glutathione disulfide (GSSG) ratio. The alteration of the GSH/GSSG ratio due to DHEA can be reversed by an iNOS inhibitor (AMT). These observations indicate that G6PD protects astrocytes from NO-mediated cell damage.">
+    <entity charOffset="0-5" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e0" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="19-30" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e1" ontology_id="CHEBI_16856" text="glutathione" type="chemical"/>
+    <entity charOffset="19-40" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e2" ontology_id="CHEBI_17858" text="glutathione disulfide" type="chemical"/>
+    <entity charOffset="31-40" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e3" ontology_id="CHEBI_48343" text="disulfide" type="chemical"/>
+    <entity charOffset="42-46" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e4" ontology_id="CHEBI_17858" text="GSSG" type="chemical"/>
+    <entity charOffset="81-85" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e5" ontology_id="CHEBI_17858" text="GSSG" type="chemical"/>
+    <entity charOffset="99-103" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e6" ontology_id="CHEBI_28689" text="DHEA" type="chemical"/>
+    <entity charOffset="131-140" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c6.e7" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7" text="Peroxynitrite is an NO-derived neurotoxin [86, 87] . It rapidly increases the activity of the PPP in neurons and astrocytes in primary culture, which leads to an increase in NADPH [84] . NO causes glutathione oxidation, NADPH consumption, and apoptosis in neurons but not astrocytes. Peroxynitrite treatment can counteract the effect caused by NO in neurons. Both endogenous and exogenous peroxynitrite induces G6PD activity in PC12 cells. Overexpression of G6PD confers resistance to NO-mediated apoptosis, while G6PD knockdown exacerbates cellular injury. Taken together, the cross-talk between G6PD and NO is crucial for cell protection.">
+    <entity charOffset="0-13" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e0" ontology_id="CHEBI_25941" text="Peroxynitrite" type="chemical"/>
+    <entity charOffset="31-41" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e1" ontology_id="CHEBI_50910" text="neurotoxin" type="chemical"/>
+    <entity charOffset="94-97" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e2" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="174-179" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e3" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="197-208" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e4" ontology_id="CHEBI_16856" text="glutathione" type="chemical"/>
+    <entity charOffset="220-225" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e5" ontology_id="CHEBI_16474" text="NADPH" type="chemical"/>
+    <entity charOffset="284-297" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e6" ontology_id="CHEBI_25941" text="Peroxynitrite" type="chemical"/>
+    <entity charOffset="389-402" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c7.e7" ontology_id="CHEBI_25941" text="peroxynitrite" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8" text="H 2 S, an endogenous gasotransmitter, is involved in many biological functions, including neuronal regulation [88] , smooth muscle relaxation [89], vascular relaxation and blood pressure regulation [90], inflammation [91, 92] , cell death signaling [93], and metabolism [71,94,95]. Overstimulation of the β-adrenergic receptor (β-AR) by isoproterenol in hypertrophic cardiomyocytes rapidly reduces the endogenous H 2 S level. Treatment with the H 2 S agonist (NaHS or norepinephrine) to augment H 2 S production suppresses the hypertrophy stimulated by the β-AR in cardiomyocytes [96] . Rats with transverse aortic constriction have approximately half the H 2 S level compared to normal rats [96] . Treatment of NaHS enhances G6PD activity, while the G6PD inhibitor (6-AN or DHEA) decreases hypertrophic responses in cardiomyocytes. β-AR upregulates G6PD expression and activity in rats [96] . β-AR reduces cardiac p53, which negatively regulates G6PD by preventing G6PD dimerization [48] . G6PD inhibitors (either 6-AN or DHEA) reverse the β-AR-induced effect in rats with cardiac hypertrophy. Enhancing G6PD activity directly or inhibiting G6PD activity by p53 indicates that G6PD plays a critical role in mediating cardiac function regulated by H 2 S. Global transcriptome analysis reveals that H 2 S modulates an integrated metabolic network regulating cellular redox homeostasis. Consistent with these findings, several common biological processes emerging from the transcriptome data show that G6PD is a critical node modulating the effects among metabolic processes downstream of H 2 S [96] .">
+    <entity charOffset="337-350" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e0" ontology_id="CHEBI_64317" text="isoproterenol" type="chemical"/>
+    <entity charOffset="451-458" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e1" ontology_id="CHEBI_48705" text="agonist" type="chemical"/>
+    <entity charOffset="468-482" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e2" ontology_id="CHEBI_18357" text="norepinephrine" type="chemical"/>
+    <entity charOffset="468-482" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e3" ontology_id="CHEBI_33569" text="norepinephrine" type="chemical"/>
+    <entity charOffset="756-765" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e4" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <entity charOffset="775-779" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e5" ontology_id="CHEBI_28689" text="DHEA" type="chemical"/>
+    <entity charOffset="996-1006" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e6" ontology_id="CHEBI_35222" text="inhibitors" type="chemical"/>
+    <entity charOffset="1023-1027" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e7" ontology_id="CHEBI_28689" text="DHEA" type="chemical"/>
+    <entity charOffset="1200-1204" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c8.e8" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9" text="Carbon monoxide (CO) is also a gaseous signaling molecule produced in humans. The major roles of CO are the modulation of the cardiovascular system, inhibition of platelet aggregation and adhesion, and neuronal development [97] . Like NO and H 2 S, CO is antiapoptotic, anti-inflammatory, and vasodilatory. It also promotes vascular growth [98] [99] [100] . The abnormal metabolism of CO has been associated with diseases, including heart failure, hypertension, inflammation, and neurodegeneration [101, 102] . Since CO is produced from hemoglobin by heme oxygenase 1 and 2, it can be used as an index of heme catabolism [103] . Endogenous CO is increased in G6PD-deficient neonates with hyperbilirubinemia. CO may have a role in promoting neuronal differentiation, as the CO-releasing molecule (CORM-A1) enhances neuronal differentiation in neuroblastomas [104] . The PPP pathway in neuroblastomas is upregulated by CO, including 6-phosphogluconate dehydrogenase (PGDH) from the oxidative branch of the PPP and transketolase (TKT) from the non-oxidative branch of the PPP. The concentration and activity of G6PD are also increased. Knockdown of G6PD reverses the effect of neuronal differentiation induced by CO [104]. This finding is indicative of a protective role of G6PD in the modulation of CO-induced neuronal development.">
+    <entity charOffset="0-6" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e0" ontology_id="CHEBI_27594" text="Carbon" type="chemical"/>
+    <entity charOffset="0-15" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e1" ontology_id="CHEBI_17245" text="Carbon monoxide" type="chemical"/>
+    <entity charOffset="39-57" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e2" ontology_id="CHEBI_62488" text="signaling molecule" type="chemical"/>
+    <entity charOffset="49-57" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e3" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="537-547" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e4" ontology_id="CHEBI_35143" text="hemoglobin" type="chemical"/>
+    <entity charOffset="551-555" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e5" ontology_id="CHEBI_17627" text="heme" type="chemical"/>
+    <entity charOffset="551-555" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e6" ontology_id="CHEBI_30413" text="heme" type="chemical"/>
+    <entity charOffset="605-609" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e7" ontology_id="CHEBI_17627" text="heme" type="chemical"/>
+    <entity charOffset="605-609" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e8" ontology_id="CHEBI_30413" text="heme" type="chemical"/>
+    <entity charOffset="722-726" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e9" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="786-794" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e10" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="869-872" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e11" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="873-880" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e12" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="1004-1007" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e13" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="1069-1072" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e14" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="1263-1267" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c9.e15" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c10" text="Altered G6PD status is implicated in many cellular pathophysiological processes and diseases, including hypoxia, inflammation, microbial infection, sepsis, pulmonary vessel dilation, diabetes, hypertension, kidney disease, and brain injuries [24,30,. The PPP and glutathione-associated metabolic pathways are major antioxidant defense systems in cells. The regulation of these enzymes profoundly affects the development and clinical outcome of diseases.">
+    <entity charOffset="255-258" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c10.e0" ontology_id="CHEBI_73647" text="PPP" type="chemical"/>
+    <entity charOffset="315-326" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c10.e1" ontology_id="CHEBI_22586" text="antioxidant" type="chemical"/>
+  </chunk>
+  <chunk id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c11" text="One of the pro-inflammatory conditions leading to vascular injuries is hyperglycemia. The pro-inflammatory cytokine IL-1β primes high glucose-induced vascular inflammation. In human aortic smooth muscle cells (HASMC), surplus glucose uptake can be activated by .">
+    <entity charOffset="226-233" id="0435b8c5081db34e2c6c62b8f7b998927fa28776.c11.e0" ontology_id="CHEBI_17234" text="glucose" type="chemical"/>
+  </chunk>
+</document>

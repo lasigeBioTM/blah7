@@ -1,0 +1,26 @@
+0|chunk|S1 Appendix for "Role of extracellular matrix and microenvironment in regulation of tumor growth and LAR-mediated invasion in glioblastoma" The core control system (miR-451-AMPK-mTOR)
+0	25	38 extracellular	Gene_function	GO_0005576
+0	25	45 extracellular matrix	Gene_function	GO_0031012
+0	84	89 tumor	Phenotype	HP_0002664
+0	90	96 growth	Gene_function	GO_0040007
+0	GO-HP	GO_0005576	HP_0002664
+0	GO-HP	GO_0031012	HP_0002664
+0	HP-GO	HP_0002664	GO_0040007
+
+1|chunk|Using a mathematical model abstracted from the complex network (Fig 1) , we illustrate the mechanisms and conditions under which these miR-451 properties operate. A mathematical model based on a system of ordinary differential equations is used. In order to incorporate the signaling network we simplified the network as shown in Fig 1A as follows: We merged all the AMPK regulatory network between CAB39/LKB1/STRAD and AMPK/MARK into one component (AMPK complex; middle box with solid line in Fig 1A) while we kept miR-451 and mTOR (dotted boxes in Fig 1A) in separate modules. The mathematical model network is shown in Fig 1B. We refer to the interactions represented by edges in Fig 1B as the core miR-451-AMPK-mTOR control system. By convention, the kinetic interpretation of arrows and hammerheads in the network represents induction (arrow) and inhibition (hammerhead).
+1	274	283 signaling	Gene_function	GO_0023052
+1	367	371 AMPK	Gene_function	GO_0004691
+1	420	424 AMPK	Gene_function	GO_0004691
+1	450	454 AMPK	Gene_function	GO_0004691
+
+2|chunk|Let the variables m, a and r be activities of miR-451, AMPK complex, and mTOR, respectively. The scheme includes autocatalytic activities of miR-451 (m), AMPK complex (a), and mTOR (r) as reported in [1], microRNA/protein degradation of those key molecules, mutual inhibition between miR-451 and AMPK complex and inhibition of mTOR activity by AMPK complex. Based on biological observations, we write the phenomenological equations for the rate change of those key modules (m, a, r) as follows:
+2	55	59 AMPK	Gene_function	GO_0004691
+2	55	67 AMPK complex	Gene_function	GO_0031588
+2	154	158 AMPK	Gene_function	GO_0004691
+2	154	166 AMPK complex	Gene_function	GO_0031588
+2	222	233 degradation	Gene_function	GO_0009056
+2	296	300 AMPK	Gene_function	GO_0004691
+2	296	308 AMPK complex	Gene_function	GO_0031588
+2	344	348 AMPK	Gene_function	GO_0004691
+2	344	356 AMPK complex	Gene_function	GO_0031588
+

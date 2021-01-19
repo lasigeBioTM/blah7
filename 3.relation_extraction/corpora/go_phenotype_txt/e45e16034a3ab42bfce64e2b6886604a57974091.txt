@@ -1,0 +1,25 @@
+0|chunk|Quantitative Phosphoproteomics of Proteasome Inhibition in Multiple Myeloma Cells
+0	59	75 Multiple Myeloma	Phenotype	HP_0006775
+
+1|chunk|Background: The proteasome inhibitor bortezomib represents an important advance in the treatment of multiple myeloma (MM). Bortezomib inhibits the activity of the 26S proteasome and induces cell death in a variety of tumor cells; however, the mechanism of cytotoxicity is not well understood.
+1	100	116 multiple myeloma	Phenotype	HP_0006775
+1	190	200 cell death	Gene_function	GO_0008219
+1	217	222 tumor	Phenotype	HP_0002664
+1	HP-GO	HP_0006775	GO_0008219
+1	GO-HP	GO_0008219	HP_0002664
+
+2|chunk|Methodology/Principal Findings: We investigated the differential phosphoproteome upon proteasome inhibition by using stable isotope labeling by amino acids in cell culture (SILAC) in combination with phosphoprotein enrichment and LC-MS/ MS analysis. In total 233 phosphoproteins were identified and 72 phosphoproteins showed a 1.5-fold or greater change upon bortezomib treatment. The phosphoproteins with expression alterations encompass all major protein classes, including a large number of nucleic acid binding proteins. Site-specific phosphopeptide quantitation revealed that Ser38 phosphorylation on stathmin increased upon bortezomib treatment, suggesting new mechanisms associated to bortezomib-induced apoptosis in MM cells. Further studies demonstrated that stathmin phosphorylation profile was modified in response to bortezomib treatment and the regulation of stathmin by phosphorylation at specific Ser/Thr residues participated in the cellular response induced by bortezomib.
+2	117	123 stable	Phenotype	HP_0031915
+2	494	514 nucleic acid binding	Gene_function	GO_0003676
+2	507	514 binding	Gene_function	GO_0005488
+2	587	602 phosphorylation	Gene_function	GO_0016310
+2	777	792 phosphorylation	Gene_function	GO_0016310
+2	884	899 phosphorylation	Gene_function	GO_0016310
+2	HP-GO	HP_0031915	GO_0003676
+2	HP-GO	HP_0031915	GO_0005488
+2	HP-GO	HP_0031915	GO_0016310
+
+3|chunk|Conclusions/Significance: Our systematic profiling of phosphorylation changes in response to bortezomib treatment not only advanced the global mechanistic understanding of the action of bortezomib on myeloma cells but also identified previously uncharacterized signaling proteins in myeloma cells.
+3	54	69 phosphorylation	Gene_function	GO_0016310
+3	261	270 signaling	Gene_function	GO_0023052
+

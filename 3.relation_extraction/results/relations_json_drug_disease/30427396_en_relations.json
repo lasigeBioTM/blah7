@@ -1,0 +1,43 @@
+{
+    "text": "to describe the HIV/AIDS epidemic in the state of Rio Grande do Sul and the metropolitan region of Porto Alegre (MRPA), Brazil, in the period 1980-2015.this was a descriptive study using data from Ministry of Health information systems.83.313 AIDS cases were recorded in the state; during the periods 1980-1990, 1991-2000 and 2001-2015, the detection rates in the state were 1.1, 17.2 and 40.3/100,000 inhab., respectively, and in the MRPA the detection rates were 2.4, 33.6 and 66.9/100,000 inhabitants, while mortality rates were 0.5, 8.5 and 12.6/100,000 inhab. in the state, and 1.3, 17.3 and 21.7/100,000 inhab. in the MRPA; in 2001-2015, the detection rate of HIV+ pregnant women per 1.000 live births in the state was 8.1 and 13.7 in the MRPA, while injecting drug users in the state (8.2%) and in the MRPA (8.9%) also stood out.the epidemic is generalized in the MRPA and with greater magnitude in relation to the state.",
+    "denotations": [
+        {
+            "id": "DOID_635",
+            "span": {
+                "begin": 20,
+                "end": 24
+            },
+            "obj": "AIDS"
+        },
+        {
+            "id": "DOID_635",
+            "span": {
+                "begin": 243,
+                "end": 247
+            },
+            "obj": "AIDS"
+        },
+        {
+            "id": "CHEBI_23888",
+            "span": {
+                "begin": 767,
+                "end": 771
+            },
+            "obj": "drug"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_635",
+            "pred": "effect",
+            "obj": "CHEBI_23888"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_635",
+            "pred": "effect",
+            "obj": "CHEBI_23888"
+        }
+    ]
+}

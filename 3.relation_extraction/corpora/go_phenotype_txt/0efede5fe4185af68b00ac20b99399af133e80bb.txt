@@ -1,0 +1,37 @@
+0|chunk|Transcriptome Analysis of Human Peripheral Blood Mononuclear
+0	32	42 Peripheral	Phenotype	HP_0030646
+
+1|chunk|Lassa virus (LASV) is the causative agent of Lassa Fever and is responsible for several hundred thousand infections and thousands of deaths annually in West Africa. LASV and the non-pathogenic Mopeia virus (MOPV) are both rodent-borne African arenaviruses. A live attenuated reassortant of MOPV and LASV, designated ML29, protects rodents and primates from LASV challenge and appears to be more attenuated than MOPV. To gain better insight into LASV-induced pathology and mechanism of attenuation we performed gene expression profiling in human peripheral blood mononuclear cells (PBMC) exposed to LASV and the vaccine candidate ML29. PBMC from healthy human subjects were exposed to either LASV or ML29. Although most PBMC are non-permissive for virus replication, they remain susceptible to signal transduction by virus particles. Total RNA was extracted and global gene expression was evaluated during the first 24 hours using highdensity microarrays. Results were validated using RT-PCR, flow cytometry and ELISA. LASV and ML29 elicited differential expression of interferon-stimulated genes (ISG), as well as genes involved in apoptosis, NF-kB signaling and the coagulation pathways. These genes could eventually serve as biomarkers to predict disease outcomes. The remarkable differential expression of thrombomodulin, a key regulator of inflammation and coagulation, suggests its involvement with vascular abnormalities and mortality in Lassa fever disease.
+1	51	56 Fever	Phenotype	HP_0001945
+1	510	525 gene expression	Gene_function	GO_0010467
+1	545	555 peripheral	Phenotype	HP_0030646
+1	645	652 healthy	Phenotype	HP_0032322
+1	793	812 signal transduction	Gene_function	GO_0007165
+1	800	812 transduction	Gene_function	GO_0009293
+1	868	883 gene expression	Gene_function	GO_0010467
+1	1149	1158 signaling	Gene_function	GO_0023052
+1	1167	1178 coagulation	Gene_function	GO_0050817
+1	1361	1372 coagulation	Gene_function	GO_0050817
+1	1404	1426 vascular abnormalities	Phenotype	HP_0002597
+1	1450	1455 fever	Phenotype	HP_0001945
+1	HP-GO	HP_0001945	GO_0010467
+1	HP-GO	HP_0001945	GO_0007165
+1	HP-GO	HP_0001945	GO_0009293
+1	HP-GO	HP_0001945	GO_0023052
+1	HP-GO	HP_0001945	GO_0050817
+1	GO-HP	GO_0010467	HP_0030646
+1	GO-HP	GO_0010467	HP_0032322
+1	GO-HP	GO_0010467	HP_0002597
+1	HP-GO	HP_0030646	GO_0007165
+1	HP-GO	HP_0030646	GO_0009293
+1	HP-GO	HP_0030646	GO_0023052
+1	HP-GO	HP_0030646	GO_0050817
+1	HP-GO	HP_0032322	GO_0007165
+1	HP-GO	HP_0032322	GO_0009293
+1	HP-GO	HP_0032322	GO_0023052
+1	HP-GO	HP_0032322	GO_0050817
+1	GO-HP	GO_0007165	HP_0002597
+1	GO-HP	GO_0009293	HP_0002597
+1	GO-HP	GO_0023052	HP_0002597
+1	GO-HP	GO_0050817	HP_0002597
+

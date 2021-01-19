@@ -1,0 +1,15 @@
+0|chunk|Structural bioinformatics Predicting pseudoknotted structures across two RNA sequences
+0	73	76 RNA	Chemical	CHEBI_33697
+
+1|chunk|Motivation: Laboratory RNA structure determination is demanding and costly and thus, computational structure prediction is an important task. Single sequence methods for RNA secondary structure prediction are limited by the accuracy of the underlying folding model, if a structure is supported by a family of evolutionarily related sequences, one can be more confident that the prediction is accurate. RNA pseudoknots are functional elements, which have highly conserved structures. However, few comparative structure prediction methods can handle pseudoknots due to the computational complexity.
+1	23	26 RNA	Chemical	CHEBI_33697
+1	170	173 RNA	Chemical	CHEBI_33697
+1	402	405 RNA	Chemical	CHEBI_33697
+
+2|chunk|DotKnot-PW is introduced based on structural comparison of secondary structure elements and H-type pseudoknot candidates.
+2	79	87 elements	Chemical	CHEBI_33250
+
+3|chunk|DotKnot-PW outperforms other methods from the literature on a hand-curated test set of RNA structures with experimental support. Availability: DotKnot-PW and the RNA structure test set are available at the web site http://dotknot.
+3	87	90 RNA	Chemical	CHEBI_33697
+3	162	165 RNA	Chemical	CHEBI_33697
+

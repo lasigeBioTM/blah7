@@ -1,0 +1,68 @@
+0|chunk|SARS-CoV fusion peptides induce membrane surface ordering and curvature OPEN
+0	32	40 membrane	Gene_function	GO_0016020
+
+1|chunk|glycoproteins. The S2 subunit of the spike glycoprotein from severe acute respiratory syndrome (SARS) coronavirus (CoV) contains internal domains called fusion peptides (FP) that play essential roles in virus entry. Although membrane fusion has been broadly studied, there are still major gaps in the molecular details of lipid rearrangements in the bilayer during fusion peptide-membrane interactions. Here we employed differential scanning calorimetry (DSC) and electron spin resonance (ESR) to gather information on the membrane fusion mechanism promoted by two putative SARS FPs. DSC data showed the peptides strongly perturb the structural integrity of anionic vesicles and support the hypothesis that the peptides generate opposing curvature stresses on phosphatidylethanolamine membranes. ESR showed that both FPs increase lipid packing and head group ordering as well as reduce the intramembrane water content for anionic membranes. Therefore, bending moment in the bilayer could be generated, promoting negative curvature. The significance of the ordering effect, membrane dehydration, changes in the curvature properties and the possible role of negatively charged phospholipids in helping to overcome the high kinetic barrier involved in the different stages of the SARS-CoV-mediated membrane fusion are discussed.
+1	61	67 severe	Phenotype	HP_0012828
+1	68	73 acute	Phenotype	HP_0011009
+1	225	233 membrane	Gene_function	GO_0016020
+1	225	240 membrane fusion	Gene_function	GO_0061025
+1	523	531 membrane	Gene_function	GO_0016020
+1	523	538 membrane fusion	Gene_function	GO_0061025
+1	579	582 FPs	Gene_function	GO_0047221
+1	817	820 FPs	Gene_function	GO_0047221
+1	1073	1081 membrane	Gene_function	GO_0016020
+1	1295	1303 membrane	Gene_function	GO_0016020
+1	1295	1310 membrane fusion	Gene_function	GO_0061025
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0061025
+1	HP-GO	HP_0012828	GO_0047221
+1	HP-GO	HP_0011009	GO_0016020
+1	HP-GO	HP_0011009	GO_0061025
+1	HP-GO	HP_0011009	GO_0047221
+
+2|chunk|Severe Acute Respiratory Syndrome (SARS) is a viral respiratory illness caused by the SARS coronavirus (SARS-CoV) that affected 8,098 people worldwide, provoking 774 deaths 1 . Similarly to other enveloped viruses, SARS-CoV enters cells through fusion of its viral membrane with a host cell membrane. This fusion process is mediated by the spike (S) glycoprotein, a 1,255-amino acid type I transmembrane protein 2 that assembles into trimers on the virion surface to form the characteristic spike structure of the SARS-CoV. These spikes are essential for the infection of the host cell and are responsible for both binding to cellular receptors (via S1 subunit) 3,4 and fusion of viral and target cell membranes (via S2 subunit) 5 in pH-dependent (endocytic) 6 or independent (nonendocytic) pathways 7 .
+2	0	6 Severe	Phenotype	HP_0012828
+2	7	12 Acute	Phenotype	HP_0011009
+2	119	127 affected	Phenotype	HP_0032320
+2	259	273 viral membrane	Gene_function	GO_0036338
+2	265	273 membrane	Gene_function	GO_0016020
+2	281	290 host cell	Gene_function	GO_0043657
+2	281	299 host cell membrane	Gene_function	GO_0033644
+2	291	299 membrane	Gene_function	GO_0016020
+2	390	403 transmembrane	Gene_function	GO_0016021
+2	449	455 virion	Gene_function	GO_0019012
+2	576	585 host cell	Gene_function	GO_0043657
+2	615	622 binding	Gene_function	GO_0005488
+2	HP-GO	HP_0012828	GO_0036338
+2	HP-GO	HP_0012828	GO_0016020
+2	HP-GO	HP_0012828	GO_0043657
+2	HP-GO	HP_0012828	GO_0033644
+2	HP-GO	HP_0012828	GO_0016021
+2	HP-GO	HP_0012828	GO_0019012
+2	HP-GO	HP_0012828	GO_0005488
+2	HP-GO	HP_0011009	GO_0036338
+2	HP-GO	HP_0011009	GO_0016020
+2	HP-GO	HP_0011009	GO_0043657
+2	HP-GO	HP_0011009	GO_0033644
+2	HP-GO	HP_0011009	GO_0016021
+2	HP-GO	HP_0011009	GO_0019012
+2	HP-GO	HP_0011009	GO_0005488
+2	HP-GO	HP_0032320	GO_0036338
+2	HP-GO	HP_0032320	GO_0016020
+2	HP-GO	HP_0032320	GO_0043657
+2	HP-GO	HP_0032320	GO_0033644
+2	HP-GO	HP_0032320	GO_0016021
+2	HP-GO	HP_0032320	GO_0019012
+2	HP-GO	HP_0032320	GO_0005488
+
+3|chunk|Although cleavage of the S protein into S1 and S2 subunits enhances cell-cell fusion 8 , it does not seem to be a necessary requirement for virion entry 9 . Interestingly, SARS-CoV S protein exhibits multiple cleavage sites (for a review see Belouzard et al. 10 ) and, so far, no direct correlation between fusion competency and the position(s) of the cleavage site(s) has been found. Besides the heptad repeat regions (HR1 and HR2), which are responsible for the formation of the characteristic coiled-coil six-helix bundle (6-HB), a common post-fusion structural motif shared by all class I viral glycoproteins 11 , the S2 subunit also contains internal membranotropic domains that play important roles in the fusion mechanism 10,12 . These functional domains, which include the so-called fusion peptide (FP), are exposed for membrane interaction upon a specific triggering (e.g., receptor binding or low endosomal pH). To date, three membrane-active and potential FP candidates have been identified in between HR1 and the N-terminus of the SARS-CoV S2 subunit: two highly conserved sequences across the Coronaviridae,
+3	68	84 cell-cell fusion	Gene_function	GO_0140253
+3	140	146 virion	Gene_function	GO_0019012
+3	333	341 position	Phenotype	HP_0012830
+3	828	836 membrane	Gene_function	GO_0016020
+3	892	899 binding	Gene_function	GO_0005488
+3	GO-HP	GO_0140253	HP_0012830
+3	GO-HP	GO_0019012	HP_0012830
+3	HP-GO	HP_0012830	GO_0016020
+3	HP-GO	HP_0012830	GO_0005488
+

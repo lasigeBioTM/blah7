@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="40640676ca5aecdde3a40feb137cc3049c14faef">
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c0" text="Modeling the Transmission of Middle East Respirator Syndrome Corona virus in Republic of Korea"/>
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c1" text="A. The basic reproduction number R 0 of system (1)">
+    <entity charOffset="13-25" id="40640676ca5aecdde3a40feb137cc3049c14faef.c1.e0" ontology_id="GO_0000003" text="reproduction" type="gene_function"/>
+  </chunk>
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c2" text="Through simple calculation, we can obtain a disease free equilibrium E 1 = (S 1 , 0, 0, 0, 0, R 1 ). Then we use the spectral radius of the next generation matrix (the method proposed by the Van Den Driessche in [1]) to get the expression of R 0 of system (1) . Firstly, only the infected compartments satisfied by the following system are considered:"/>
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c3" text="where F denotes the rate of appearance of new infection and V denotes the rate of transfer of individuals. Calculating the derivative of F and V about x = (E, A, I, H), respectively. Then substitute initial data(S 0 , E 0 , A 0 , I 0 , H 0 , R 0 ) into variables, we can get:">
+    <entity charOffset="165-168" id="40640676ca5aecdde3a40feb137cc3049c14faef.c3.e0" ontology_id="GO_0032117" text="Haa" type="gene_function"/>
+  </chunk>
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c4" text="and thus"/>
+  <chunk id="40640676ca5aecdde3a40feb137cc3049c14faef.c5" text="where R 0 is the biggest eigenvalue of matrix F V −1 i.e. R 0 = ρ(F V −1 ). The expression of R 0 is as follows:"/>
+</document>

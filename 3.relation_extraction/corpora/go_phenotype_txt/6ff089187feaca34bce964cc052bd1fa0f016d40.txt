@@ -1,0 +1,20 @@
+0|chunk|Cytokine and Growth Factor Activation In Vivo and In Vitro after Spinal Cord Injury
+0	13	19 Growth	Gene_function	GO_0040007
+
+1|chunk|Spinal cord injury results in a life-disrupting series of deleterious interconnected mechanisms encompassed by the primary and secondary injury. These events are mediated by the upregulation of genes with roles in inflammation, transcription, and signaling proteins. In particular, cytokines and growth factors are signaling proteins that have important roles in the pathophysiology of SCI. The balance between the proinflammatory and anti-inflammatory effects of these molecules plays a critical role in the progression and outcome of the lesion. The excessive inflammatory Th1 and Th17 phenotypes observed after SCI tilt the scale towards a proinflammatory environment, which exacerbates the deleterious mechanisms present after the injury. These mechanisms include the disruption of the spinal cord blood barrier, edema and ion imbalance, in particular intracellular calcium and sodium concentrations, glutamate excitotoxicity, free radicals, and the inflammatory response contributing to the neurodegenerative process which is characterized by demyelination and apoptosis of neuronal tissue.
+1	247	256 signaling	Gene_function	GO_0023052
+1	296	302 growth	Gene_function	GO_0040007
+1	315	324 signaling	Gene_function	GO_0023052
+1	817	822 edema	Phenotype	HP_0000969
+1	856	869 intracellular	Gene_function	GO_0005622
+1	954	975 inflammatory response	Gene_function	GO_0006954
+1	1048	1061 demyelination	Phenotype	HP_0011096
+1	GO-HP	GO_0023052	HP_0000969
+1	GO-HP	GO_0023052	HP_0011096
+1	GO-HP	GO_0040007	HP_0000969
+1	GO-HP	GO_0040007	HP_0011096
+1	HP-GO	HP_0000969	GO_0005622
+1	HP-GO	HP_0000969	GO_0006954
+1	GO-HP	GO_0005622	HP_0011096
+1	GO-HP	GO_0006954	HP_0011096
+

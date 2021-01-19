@@ -1,0 +1,65 @@
+{
+    "text": "SARS-CoV-2 is an emerging RNA virus associated with a severe acute respiratory disease known as COVID-19. Although COVID-19 is predominantly a pulmonary disease, some patients have severe cardiovascular damage. We performed a quantitative evidence synthesis of clinical data, myocardial injury biomarkers, and cardiac complications associated with in-hospital death in patients with COVID-19.We searched the databases PubMed, Embase, and Google Scholar to identify studies comparing clinical data, myocardial injury biomarkers, and cardiac complications between non-survivors and survivors of COVID-19. Effect sizes were reported as mean difference or standardized mean difference for continuous variables and risk ratio for dichotomous variables with 95% confidence intervals. A random effects model was used to pool the results.Six retrospective studies reporting data from 1,141 patients (832 survivors and 309 non-survivors) were included. We found that underlying cardiovascular conditions; elevation of high-sensitivity cardiac troponin I, N-terminal pro-B-type natriuretic peptide, and creatine kinase-MB; and cardiac complications were associated with increased risk of death for patients with SARS-CoV-2 infection.The confirmation that underlying cardiovascular conditions, elevation of myocardial injury biomarkers during COVID-19 infection, and acute cardiovascular decompensation are predictors for mortality in SARS-CoV-2 infection must encourage new research to clarify potential mechanisms and test appropriate treatments. (Arq Bras Cardiol. 2020; 115(2):273-277).",
+    "denotations": [
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 54,
+                "end": 60
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 61,
+                "end": 66
+            },
+            "obj": "acute"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 181,
+                "end": 187
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "GO_0009058",
+            "span": {
+                "begin": 248,
+                "end": 257
+            },
+            "obj": "synthesis"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 1356,
+                "end": 1361
+            },
+            "obj": "acute"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0009058",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0009058",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0009058",
+            "pred": "effect",
+            "obj": "HP_0011009"
+        }
+    ]
+}

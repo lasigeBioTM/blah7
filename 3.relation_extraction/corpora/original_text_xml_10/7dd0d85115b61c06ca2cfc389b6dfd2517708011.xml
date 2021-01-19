@@ -1,0 +1,863 @@
+<?xml version="1.0" ?>
+<document id="7dd0d85115b61c06ca2cfc389b6dfd2517708011">
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0" text="Frequency of respiratory virus infections and next-generation analysis of influenza A/ H1N1pdm09 dynamics in the lower respiratory tract of patients admitted to the ICU">
+    <entity charOffset="0-9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0.e0" ontology_id="HP_0040279" text="Frequency" type="phenotype"/>
+    <entity charOffset="74-83" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1" text="Recent molecular diagnostic methods have significantly improved the diagnosis of viral pneumonia in intensive care units (ICUs). It has been observed that 222G/N changes in the HA gene of H1N1pdm09 are associated with increased lower respiratory tract (LRT) replication and worse clinical outcome. In the present study, the frequency of respiratory viruses was assessed in respiratory samples from 88 patients admitted to 16 ICUs during the 2014-2015 winter-spring season in Lombardy. Sixty-nine out of 88 (78.4%) patients were positive for a respiratory viral infection at admission. Of these, 57/69 (82.6%) were positive for influenza A (41 A/H1N1pdm09 and 15 A/H3N2), 8/69 (11.6%) for HRV, 2/69 (2.9%) for RSV and 2/69 (2.9%) for influenza B. Phylogenetic analysis of influenza A/H1N1pdm09 strains from 28/41 ICU-patients and 21 patients with mild respiratory syndrome not requiring hospitalization, showed the clear predominance of subgroup 6B strains. The median influenza A load in LRT samples of ICU patients was higher than that observed in the upper respiratory tract (URT) (p&lt;0.05). Overall, a greater number of H1N1pdm09 virus variants were observed using next generation sequencing on partial HA sequences (codons 180-286) in clinical samples from the LRT as compared to URT. In addition, 222G/N/A mutations were observed in 30% of LRT samples from ICU patients. Finally, intra-host evolution analysis showed the presence of different dynamics of viral population in LRT of patients hospitalized in ICU with a severe influenza infection.">
+    <entity charOffset="81-96" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" ontology_id="DOID_10533" text="viral pneumonia" type="disease"/>
+    <entity charOffset="87-96" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="87-96" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="324-333" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="555-570" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" ontology_id="DOID_934" text="viral infection" type="disease"/>
+    <entity charOffset="555-570" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" ontology_id="GO_0016032" text="viral infection" type="gene_function"/>
+    <entity charOffset="627-636" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="733-742" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="771-780" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="846-850" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="863-871" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="968-977" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1522-1528" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="1529-1538" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p41" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p42" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p43" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p44" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p45" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p46" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p47" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p48" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p49" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p50" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p51" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p52" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p53" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p54" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p55" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p56" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p57" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p58" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p59" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p60" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p61" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p62" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p63" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p64" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p65" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p66" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p67" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p68" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p69" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p70" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p71" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p72" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p73" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p74" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p75" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p76" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p77" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c1.p78" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2" text="Introduction While, severe bacterial community-acquired pneumonia is a well-known problem, severe viral infections might be underestimated due to low awareness. On the other hand, the introduction of molecular diagnostic methods has significantly improved the epidemiological investigation of viral pneumonia in the ICU in recent years with increased potential for detection of a wide array of viruses. In fact, in recent studies, viruses accounted for 20-50% of total infections in patients admitted to the intensive care unit (ICU) with severe respiratory distress [1] [2] [3] [4] . In addition, the emergence of new respiratory viruses such as human coronavirus (hCoV) SARS, hCoV-MERS and influenza A/H1N1pdm09, has further underscored the role of viruses in severe respiratory infections. Still, the role of viral agents other than influenza such as rhinovirus (HRV), parainfluenza viruses 1-4 (hPIV1-4), respiratory syncytial virus (RSV) and hCoV which are frequently detected in respiratory samples of ICU patients, is not fully appreciated [1, 2] .">
+    <entity charOffset="20-26" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="56-65" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="56-65" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="91-97" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="293-308" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" ontology_id="DOID_10533" text="viral pneumonia" type="disease"/>
+    <entity charOffset="299-308" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="299-308" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="539-545" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="546-566" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" ontology_id="HP_0002098" text="respiratory distress" type="phenotype"/>
+    <entity charOffset="692-701" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="743-747" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="762-768" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="804-808" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="836-845" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p41" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p42" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p43" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p44" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p45" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p46" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p47" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p48" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p49" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p50" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p51" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p52" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p53" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p54" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p55" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p56" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p57" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p58" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p59" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p60" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p61" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p62" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p63" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p64" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p65" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p66" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p67" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p68" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p69" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p70" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p71" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p72" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p73" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p74" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p75" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c2.p76" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3" text="During the 2014-2015 influenza season, an increased number of laboratory-confirmed influenza admissions to ICUs (and deaths), as compared to previous seasons was observed in the Northern Hemisphere [5] . In general, the emergence of inherently more virulent viruses during the course of a given season should not be overlooked [6] ; while, different host factors responsible for the severe outcome of influenza infection have been suggested (i.e. pregnancy and obesity) [7] . More specifically as observed during the 2009 influenza virus (A/H1N1pdm09) pandemic, only a few genetic changes may increase transmissibility, replicative efficiency and tissue tropism range [8] [9] [10] [11] [12] . For instance, single amino acid changes (222G/N) in the HA gene are associated with increased virus replication in the lower respiratory tract (LRT) and worse clinical outcome [8] [9] [10] [11] [12] . However, it is still unclear how these mutations emerge, evolve, consolidate and/or disappear in the context of dynamic viral population changes during the infection.">
+    <entity charOffset="21-30" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="83-92" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="383-389" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="401-410" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="461-468" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" ontology_id="DOID_9970" text="obesity" type="disease"/>
+    <entity charOffset="461-468" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" ontology_id="HP_0001513" text="obesity" type="phenotype"/>
+    <entity charOffset="522-531" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="654-661" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" ontology_id="GO_0009606" text="tropism" type="gene_function"/>
+    <entity charOffset="714-719" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="714-724" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="720-724" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p41" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p42" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p43" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p44" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p45" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p46" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c3.p47" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4" text="The aims of this study were: i) to describe the frequency of respiratory viruses in patients admitted to the ICU during a winter-spring season in a multicenter prospective observational study; ii) to monitor the presence of polymorphisms at position 222 in the HA gene of influenza A/H1N1pdm09 strains and iii) to investigate the dynamics of an influenza virus population in the LRT of ICU patients using both Sanger and next generation sequencing (NGS).">
+    <entity charOffset="48-57" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e0" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="241-249" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e1" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="272-281" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="345-354" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c4.p4" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5" text="From December 1 2014 to April 30 2015, nasal swabs (NS), nasopharyngeal aspirates (NPA), bronchoalveolar lavage (BAL) and broncho aspirates (Brasp), collected from patients with acute respiratory failure requiring ICU admission in Lombardy (10 million inhabitants), were prospectively analyzed as part of a Regional Influenza Surveillance Plan. Analyses were centralized at the Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo, Pavia or at the Department of Biomedical Sciences for Health, University of Milan. Severe respiratory syndrome was defined as acute onset ( 1 week) respiratory failure, with hypoxemia (pO 2 /FiO 2 ratio &lt;300 mmHg while on positive end-expiratory pressure (PEEP) or noninvasive CPAP !5 cmH 2 O) and bilateral opacities at chest imaging [13] .">
+    <entity charOffset="113-116" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" ontology_id="CHEBI_64198" text="BAL" type="chemical"/>
+    <entity charOffset="178-183" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="178-203" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" ontology_id="DOID_11162" text="acute respiratory failure" type="disease"/>
+    <entity charOffset="184-203" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" ontology_id="DOID_11162" text="respiratory failure" type="disease"/>
+    <entity charOffset="184-203" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" ontology_id="HP_0002878" text="respiratory failure" type="phenotype"/>
+    <entity charOffset="316-325" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="527-533" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="546-554" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="570-575" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="570-581" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" ontology_id="HP_0011009" text="acute onset" type="phenotype"/>
+    <entity charOffset="576-581" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" ontology_id="HP_0003674" text="onset" type="phenotype"/>
+    <entity charOffset="592-611" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" ontology_id="DOID_11162" text="respiratory failure" type="disease"/>
+    <entity charOffset="592-611" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" ontology_id="HP_0002878" text="respiratory failure" type="phenotype"/>
+    <entity charOffset="618-627" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" ontology_id="HP_0012418" text="hypoxemia" type="phenotype"/>
+    <entity charOffset="700-704" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" ontology_id="CHEBI_53359" text="PEEP" type="chemical"/>
+    <entity charOffset="729-732" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" ontology_id="CHEBI_62107" text="cmH" type="chemical"/>
+    <entity charOffset="742-751" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" ontology_id="HP_0012832" text="bilateral" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p41" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p42" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p43" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p44" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p45" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p46" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p47" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p48" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p49" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p50" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p51" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p52" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p53" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p54" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p55" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p56" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p57" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p58" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p59" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p60" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p61" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p62" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p63" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p64" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p65" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p66" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p67" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p68" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p69" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p70" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p71" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p72" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p73" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p74" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p75" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p76" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p77" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p78" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p79" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p80" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p81" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p82" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p83" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p84" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p85" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p86" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p87" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p88" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p89" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p90" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p91" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p92" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p93" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p94" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p95" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p96" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p97" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p98" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p99" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p100" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p101" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p102" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p103" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p104" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p105" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p106" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p107" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e9" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p108" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p109" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p110" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p111" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p112" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p113" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e10" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p114" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p115" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p116" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p117" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e11" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p118" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p119" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p120" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p121" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e12" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p122" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p123" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p124" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e13" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p125" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p126" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e14" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p127" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e15" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.e16" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c5.p128" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6" text="All samples positive for influenza A/H1N1pdm09 virus were analyzed for the presence of polymorphisms at position 222 of the HA gene. In addition, a group of A/H1N1pdm09-positive patients with mild respiratory syndrome not requiring hospitalization were included in the study as controls.">
+    <entity charOffset="25-34" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="104-112" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e1" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="192-196" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e2" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="209-217" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e3" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c6.p5" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7" text="This retrospective study was performed according to the the Regional Surveillance and Preparedness Plan (DGR IX/1046, 22 Dec. 2010 and DGR 5988, 30 Jun 2011) and to the guidelines of the Institutional Review Board on the use of biological specimens for scientific purposes in keeping with Italian law (art. 13 D.Lgs 196/2003) and was approved by the Ethics Commitee of Fondazione IRCCS Policlinico San Matteo in Pavia, Italy. Diagnostic and clinical management of patients admitted to hospitals in the Lombardy Region with severe and moderate influenza like illness (ILI) included prospective influenza A detection, subtyping and sequencing. The latter two were centralized at two Regional Reference Laboratories. Mild respiratory infection specimens were collected by sentinel practitioners and anonymously analyzed at the reference laboratory in Milan, according to the National Surveillance Plan (Influnet). Informed consent for Influenza A genotyping was not required since patients with severe and mild ILI were included in the Regional diagnostic and clinical management protocol. Data were anonymously analyzed according to the Regional Surveillance and Preparedness Plan; while, mild ILI samples were collected and anonymously analyzed in the framework of the National Surveillance Plan (Influnet).">
+    <entity charOffset="523-529" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="534-542" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" ontology_id="HP_0012826" text="moderate" type="phenotype"/>
+    <entity charOffset="543-552" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="593-602" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="714-718" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" ontology_id="HP_0012825" text="Mild" type="phenotype"/>
+    <entity charOffset="719-740" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" ontology_id="HP_0011947" text="respiratory infection" type="phenotype"/>
+    <entity charOffset="932-941" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="992-998" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="1003-1007" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="1187-1191" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c7.p41" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8" text="Nucleic acids from respiratory samples were extracted using the QIAsymphony 1 instrument with the QIAsymphony 1 DSP Virus/Pathogen-Midi Kit (Complex 400 protocol) according to the manufacturer's instructions (QIAGEN, Qiagen, Hilden, Germany). A panel of laboratory-developed real-time RT-PCR or real-time PCR [14, 15] were used; these are able to detect and quantify the following viruses: influenza virus A and B (including subtype determination), HRV, hPIV3, RSV types A and B, hCoV-OC43, -229E, -NL63, and -HKU1, and human metapneumovirus (hMPV). Bacterial and fungal cultures were performed, with the use of standard techniques, on quantified BAL and Brasp specimens.">
+    <entity charOffset="0-13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e0" ontology_id="CHEBI_33696" text="Nucleic acids" type="chemical"/>
+    <entity charOffset="8-13" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e1" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="390-399" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="647-650" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e3" ontology_id="CHEBI_64198" text="BAL" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c8.p5" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9" text="The complete influenza A/H1N1pdm09 HA gene was amplified directly from clinical specimens using the SuperScriptIII One-Step RT-PCR amplification kit (Invitrogen, Carlsbad, USA) and specific primers (available upon request). Purified PCR products were sequenced using the BigDye Terminator Cycle-Sequencing kit (Applied Biosystems, Foster City, USA) in an ABI Prism 3130xl Genetic Analyzer (Applied Biosystems, Foster City, USA). Sequences were assembled using the Sequencher software, version 4.6 (Gene Codes Corporation, Ann Arbor, USA). Nucleotide alignments were constructed using the ClustalW program embedded in the MEGA version 5 software [16] . Phylogenetic trees were generated by means of the Maximum likelihood method with the Kimura 3-parameter as an evolutionary model using MEGA version 5 software [16] . A bootstrap analysis with 1,000 replicates was performed. Sanger sequences originated in this study have been submitted to GenBank database with accession numbers KY345117-KY345168.">
+    <entity charOffset="13-22" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="539-549" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e1" ontology_id="CHEBI_36976" text="Nucleotide" type="chemical"/>
+    <entity charOffset="621-625" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e2" ontology_id="CHEBI_6617" text="MEGA" type="chemical"/>
+    <entity charOffset="787-791" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e3" ontology_id="CHEBI_6617" text="MEGA" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c9.p4" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10" text="Primers targeting the influenza A HA gene spanning codons 180-286 were used to amplify the region containing codon 222, as previously reported [17] . For synthesis of cDNA, the reaction was carried out using the Transcriptor High Fidelity cDNA synthesis kit (Roche Diangnostics, GmBH) and 5 ul of extracted RNA. Amplifications were performed using the FastStart High-Fidelity PCR System kit (Roche Applied Science) with the following reagent mix: 10 μl of extracted DNA, 5 μl of 10x buffer, 0.25 μl of each primer (10 uM) HA222-for 5'-CACCATC CATCTACTAGTGCTGAC-3' and HA222-rev 5'-ATAGCACCYTTGGGTGTCTG-3', 1 μl of PCR grade nucleotide mix (200μM each dNTP), 0.5 μl of FastStart High-Fidelity enzyme blend (5U/μl) and 28.5 μl PCR grade water. The cycling conditions for the amplification were as follows: 95˚C for 2 min; 45 cycles of 95˚C for 30s, 60˚C for 30s, and 72˚C for 1 min, with a final extension cycle at 72˚C for 5 min.">
+    <entity charOffset="22-31" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="154-163" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e1" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+    <entity charOffset="244-253" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e2" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+    <entity charOffset="434-441" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e3" ontology_id="CHEBI_33893" text="reagent" type="chemical"/>
+    <entity charOffset="624-634" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e4" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c10.p8" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11" text="Amplicons were purified with Agencourt AMPure XP magnetic beads (Beckman Coulter, High Wycombe, UK) and quantified with the Quant-iT PicoGreen dsDNA Assay Kit (Invitrogen, Life Technologies, Paisley, UK) with a TBS-380 Mini-Fluorometer (Turner Biosystems, Sunnyvale, CA). A dilution of 1×10 9 molecules/μl was performed for each amplicon and then pooled in an equimolar concentration. The mixture was further purified with Agencourt AMPure XP magnetic beads (Beckman Coulter, High Wycombe, UK) and diluted to 1×10 6 molecules/ul. The purified pool was clonally amplified by emulsion PCR (emPCR), following the emPCR Amplification Manual for 454 GS Junior Titanium. A total of 500,000 enriched beads were deposited into a PicoTitrePlate (PTP) device and sequenced using the GS Junior 454 system (Roche Diagnostics, West Sussex, UK).">
+    <entity charOffset="133-142" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e0" ontology_id="CHEBI_51467" text="PicoGreen" type="chemical"/>
+    <entity charOffset="389-396" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e1" ontology_id="CHEBI_60004" text="mixture" type="chemical"/>
+    <entity charOffset="737-740" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e2" ontology_id="CHEBI_52242" text="PTP" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c11.p2" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12" text="Sequencing data were obtained as standard flowgram format (SFF) files from the GS run processor after quality-control filtering and read trimming using the manufacturer's default parameters (see 454 Sequencing System software manual version 2.5). The SFF data files were further analyzed using the GS Amplicon Variant Analyzer (AVA) version 2.7 (Roche 454 Life Sciences, Branford, CT). The reads were trimmed using the multiplex identifiers (MIDs) for each sample, and mapped using the reference FASTA HA sequences of the California/07/2009 strain (AY6894). The identification of variants was made using the default AVA settings. We considered all changes whose frequency was at least 0.50% (i.e. three times the insertion error rate) as true variability; this was the highest frequency for procedural/experimental errors. A variant was defined as a virus that had at least one mutated nucleotide in given sites of the nucleotide sequence analyzed.">
+    <entity charOffset="328-331" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e0" ontology_id="CHEBI_22678" text="AVA" type="chemical"/>
+    <entity charOffset="616-619" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e1" ontology_id="CHEBI_22678" text="AVA" type="chemical"/>
+    <entity charOffset="662-671" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e2" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="777-786" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e3" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="886-896" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e4" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="919-929" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e5" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c12.p11" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c13" text="Continuous variables (i.e. viral load, variant numbers) were compared using the Mann-Whitney U test for independent non-parametric data. The Spearman rank correlation coefficient was used for the correlation analysis of non-parametric data. All of the analyses were two tailed, and performed using GraphPad Prism version 5 (GraphPad Software Inc., CA, USA); p-values of 0.05 were considered statistically significant."/>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14" text="A total of 150 respiratory samples from 88 patients admitted to ICUs with severe respiratory syndrome were analyzed. Of these, 90/150 (60.0%) were URT specimens (NS or NPA), while 60/150 (40.0%) were LRT specimens (BAL or Brasp). Sixty-nine out of 88 (78.4%) patients were positive for a respiratory viral infection, while 19/88 (21.6%) were negative (Fig 1) . In 66/69 (95.6%) of the positive episodes, a single virus was observed, while in 3/69 (4.4%) episodes dual viral infections were detected (Fig 1) ">
+    <entity charOffset="74-80" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="93-101" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="215-218" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e2" ontology_id="CHEBI_64198" text="BAL" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c14.p2" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15" text="Among the 41 ICU patients, paired samples (URT and LRT) were available for 10 (24.4%), from 28 (68.3%) only URT specimens were available and from 3 (7.3%) only LRT specimens were available. The median viral load in LRT samples (n = 13) was higher than that observed in the URT samples (n = 38) (2.8x10 6 vs 2.5x10 4 RNA copies/ml; p&lt;0.05). Similarly, the median viral load in URT samples of control patients was slightly higher than that observed in the URT of ICU patients, although this difference did not reach significance (p&gt;0.05). When restricting the analysis to the 10 ICU patients with paired samples, influenza load was significantly higher in LRT secretions (median 9.5x10 6 RNA copies/ml, range 9x10 4 -3.8x10 8 ) compared to URT samples (median 3.9x10 3 RNA copies/ml, range 0-1.1x10 9 ; p&lt;0.05). In addition, the median Log10 difference between LRT and URT samples was +2.3 Log10 copies/ ml ranging from -2.7 to +7.5 Log10 RNA copies/ml. Interestingly, in two cases, the URT samples were negative in the presence of high viral load in the LRT.">
+    <entity charOffset="316-319" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="611-620" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="686-689" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="767-770" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="937-940" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c15.p3" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16" text="A total of 51 (36 NS and 13 BAL or Brasp) respiratory samples from 41 H1N1pdm09-positive ICU patients as well as 21 NS from patients with mild respiratory syndrome were analyzed by Severe influenza A/H1N1pdm09 infections in ICU-admitted patients both Sanger and NGS sequencing. Complete HA sequencing was performed on baseline samples from 26/41 (63.4%) ICU and 21/21 (100.0%) control patients. No sequencing data were obtained in respiratory samples of 15/41 (31.7%) ICU patients due to low viral load. Of these, 14/15 (93.3%) sequence-negative samples were URT specimens. The overall nucleotide identity between HA sequences from this study and the reference vaccine strain (A/California/07/ 2009) ranged from 97.6% to 98.4%. All of the influenza A/H1N1pdm09 strains belonged to subgroup 6B, as observed worldwide (Fig 2) . Subgroup 6B was characterized by constitutional K163Q, A256T, K283E and E374K polymorphisms. Additional amino acid polymorphisms were sporadically observed in HA sequences of a few strains. In detail, the A/Pavia/160/2015 strain carried the G39R and S74R changes, A/Pavia/24/2015 strain the S84R change, A/Pavia/ 45/2015 the T232I change, A/Pavia/23/2015 the P236T change and A/Pavia/180/2015 the E283K change.">
+    <entity charOffset="28-31" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" ontology_id="CHEBI_64198" text="BAL" type="chemical"/>
+    <entity charOffset="138-142" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="155-163" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="181-187" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="188-197" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="586-596" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" ontology_id="CHEBI_36976" text="nucleotide" type="chemical"/>
+    <entity charOffset="739-748" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="930-935" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="930-940" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="936-940" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p38" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p39" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p40" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p41" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p42" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c16.p43" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17" text="Among ICU patients, 22/26 (84.6%) influenza-sequenced strains carried the wild-type 222D codon, while four (15.7%) strains carried mixtures at position 222 (Table 1 ). In detail, two patients had a mixture of 222D/N/G, one the 222D/N/A mixture and the other 222D/N. All of these mixtures were only identified in LRT samples.">
+    <entity charOffset="143-151" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e0" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="198-205" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e1" ontology_id="CHEBI_60004" text="mixture" type="chemical"/>
+    <entity charOffset="236-243" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e2" ontology_id="CHEBI_60004" text="mixture" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c17.p1" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c18" text="NGS was used to analyze the dynamic of Influenza A/H1N1pdm09 population in partial HA region, spanning from 180 to 286 codons. NGS analysis was successfully performed in 31/41 (75.6%) ICU and 21/21 (100.0%) control patients. In 10/41 (31.7%) ICU patients, no NGS data were obtained for URT samples due to the low viral load. A total of 409072 reads were obtained with the NGS platform, and the average of amplicons length was 341 nt. A median of 5506 (range 1966-13083) sequence reads were obtained per sample, which allowed detection and quantification of minority mutations with a cut-off value of 0.50%.">
+    <entity charOffset="39-48" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c18.e0" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c19" text="Among ICU patients (n = 41), the number of variants in the LRT samples (median 14, range 2-30) was significantly higher than that observed in URT samples (median 7, range 2-21; p&lt;0.05) (Fig 3) . Similarly, the number of variants observed in URT samples of ICU patients (median 7, range 2-21) was higher than that observed in URT samples of control patients (median 4, range 2-16; p&lt;0.05). Among ten patients with paired samples (#1-10 in Table 1 ), the number of variants was performed in paired URT and LRT samples for 4/10 (40.0%) patients, while in 6/10 (60.0%) patients it could only be performed in LRT samples, due to the low viral load in URT samples (Table 1) . For three additional patients (#11-13, Table 1 ), the number of variants was determined only in LRT samples."/>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20" text="Overall, mutations (G/N/A) at codon 222 were observed in 4/13 (30.8%) LRT samples (Table 1 ). In these patients, a number of mixed variants (as also suggested by Sanger mixed electropherograms) were detected. All H1N1pdm09 strains detected in the URT of ICU (n = 22) and control (n = 21) patients carried a 222D polymorphism at a 100% frequency. Only in one patient, did NGS identify a 222A change with a frequency lower than 5.0% in a LRT sample. Of note, samples in which the NGS analysis identified only a 222D polymorphism showed an overall lower number of variants (median 9.5, range 2-17 variants) as compared to samples with mixed variants at position 222 (median 19.5, range 12-30 variants; p&lt;0.05).">
+    <entity charOffset="335-344" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e0" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="405-414" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e1" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="650-658" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e2" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c20.p1" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21" text="Follow-up LRT samples were collected in a limited number of patients (n = 4). In these cases, a longitudinal NGS analysis of the viral population was possible. These four patients received anti-influenza treatment during the analyzed period as reported in Fig 4. At baseline, in 3/4 cases (75.0%), a mixture of mutations at codon 222 was observed (Fig 4) . In samples from patients #1 and #2, viral load and the number of variants decreased simultaneously and only the wild-type amino acid (222D) was detected 13 and 8 days after admission. In samples from patient #3, an initial decrease in viral load and number of variants was associated with the presence of wild-type amino acid 222D. However, a sudden increase in viral load and number of variants was associated with the re-emergence of 222A at a low frequency. From patient #4, only LRT samples at days 6 and 10 after onset of symptoms were available and the decrease in both viral load and number of variants was not associated with significant changes in the viral population at position 222.">
+    <entity charOffset="300-307" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" ontology_id="CHEBI_60004" text="mixture" type="chemical"/>
+    <entity charOffset="479-484" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="479-489" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="485-489" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="672-677" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="672-682" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="678-682" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="875-880" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" ontology_id="HP_0003674" text="onset" type="phenotype"/>
+    <entity charOffset="1038-1046" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c21.p32" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22" text="In the present prospective observational study, the incidence of respiratory viruses was investigated in respiratory samples of patients admitted to 16 ICUs during the 2014-2015 influenza season. Influenza viruses were the most commonly detected pathogens. The second most identified virus was HRV with a frequency close to 10%, in keeping with a large prospective study describing the aetiology of community-acquired pneumonia in the US [18] . The clinical relevance of non-influenza viral infections in ICU patients remains controversial [19] [20] [21] . However, the impact of non-influenza viruses appears more important than previously thought; thus, these viruses should be included in the diagnostic panel [3, 22] . In this study, A/H1N1pdm09 strains outnumbered A/H3N2 at a ratio approaching 3:1 in patients admitted to ICUs in Northern Italy. This finding is in contrast with the epidemiological scenario observed by sentinel sources of the World Health Organization and National Influenza Center. In fact, a predominance of influenza A/H3N2 strains in Europe [5] and Italy (http://www.iss.it/binary/fluv/cont/Rapporto_2014_2015.pdf) was observed during the same period.">
+    <entity charOffset="178-187" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="196-205" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="305-314" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="418-427" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" ontology_id="DOID_552" text="pneumonia" type="disease"/>
+    <entity charOffset="418-427" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="449-467" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" ontology_id="HP_0045088" text="clinical relevance" type="phenotype"/>
+    <entity charOffset="989-998" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="1034-1043" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c22.p24" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23" text="Among ICU patients, the median influenza load in LRT samples was significantly higher than that observed in URT samples in the same patient group, in keeping with our previous observations [8, 10] . The difference between viral loads was more evident in paired samples where in all cases except one, viral load was higher in the LRT than URT. Interestingly, in almost 20% of these patients the viral load in the URT was undetectable in the presence of high viral load in the LRT. It is reasonable to hypothesize that in severe infections, the initial replication of influenza in the URT is followed by the spread of influenza in the LRT [23] . At ICU admission, usually several days after the onset of clinical symptoms, the clinical samples are collected for the laboratory diagnosis. At this moment, the influenza virus might have been already cleared from the URT by the immune system, while in the LRT the viral shedding persists [23] . Therefore, our findings underline the importance of appropriate sample collection, especially in patients with severe infection [23, 24] .">
+    <entity charOffset="31-40" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="520-526" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="566-575" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="616-625" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="693-698" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" ontology_id="HP_0003674" text="onset" type="phenotype"/>
+    <entity charOffset="806-815" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="910-924" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" ontology_id="GO_0019076" text="viral shedding" type="gene_function"/>
+    <entity charOffset="1052-1058" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="1052-1068" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" ontology_id="HP_0032169" text="severe infection" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c23.p28" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24" text="Considering the D222G/N mutations in the HA gene of influenza A/H1N1pdm09 strains, which are strictly associated with increased clinical severity [9, [25] [26] [27] , in this study, the presence of polymorphisms at position 222 of A/H1N1pdm09 strains was assessed by both Sanger and NGS sequencing in patients with severe infections and in patients (not hospitalized) with a mild respiratory syndrome. All of the A/H1N1pdm09 strains belonged to the influenza clade circulating in Europe during the period of sample collection [28] .">
+    <entity charOffset="52-61" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="137-145" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="215-223" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="315-321" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="375-379" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="449-458" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e5" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c24.p13" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25" text="Intra-host viral diversity was assessed using NGS in respiratory samples by determining the number of H1N1pdm09 variants. Overall, a greater number of H1N1pdm09 virus variants were observed in the LRT, suggesting different viral kinetic patterns in the URT, as compared to LRT of patients with severe influenza infections. The 222G/N mutations known to be associated with increased clinical severity were observed in 30% of LTR samples of ICU patients. In URT samples (ICU and control patients) only the wild type 222D polymorphism was observed. The frequency of 222G/N changes was in keeping with our previous observations and other reports [8, 10, 17, 29, 30] . Although our data confirm the association between 222G/N mutations and disease severity, over 70% of ICU patients showed no specific HA mutations among viral populations in the lung. Therefore, it is reasonable to hypothesize that more than one virulence determinant is involved in severe influenza infections. Nevertheless, in these patients, comorbidities or per-existing host genetic factors may have contributed to disease severity [31] .">
+    <entity charOffset="294-300" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="301-310" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="391-399" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="550-559" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="735-742" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="743-751" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="946-952" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="953-962" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1083-1090" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1091-1099" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p5" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p6" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p7" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p8" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p9" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p10" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p11" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p12" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p13" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p14" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p15" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p16" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p17" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p18" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p19" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p20" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p21" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p22" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p23" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p24" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e3" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p25" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p26" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p27" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p28" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e4" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p29" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p30" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p31" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e5" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p32" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p33" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p34" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e6" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p35" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p36" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e7" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p37" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e8" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.e9" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c25.p38" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26" text="It has been demonstrated both in vitro and in vivo that strains carrying 222D bind α2-6 sialic acid more efficiently, whereas 222G/N strains have broader tropisms for both α2-6 and α2-3 sialic acids and therefore replicate more efficiently in the LRT [11, 12, 30] . In keeping with this finding, in our series, 222G/N populations were observed only in LRT samples. Unfortunately, no information regarding the quasispecies population of the URT could be obtained due to low virus load. Viral diversity, evaluated in sequential LRT samples, showed several patterns of population evolution. On the basis of these findings and, due to the limited number of cases, no major conclusions can be drawn on viral population dynamic in the LRT.">
+    <entity charOffset="88-99" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e0" ontology_id="CHEBI_26667" text="sialic acid" type="chemical"/>
+    <entity charOffset="95-99" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e1" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="186-198" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e2" ontology_id="CHEBI_26667" text="sialic acids" type="chemical"/>
+    <entity charOffset="193-198" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e3" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p2" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p3" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p4" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e2" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.e3" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c26.p5" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27" text="This study has some limitations: i) the frequency of different respiratory viruses could be biased by the role of our center as a reference laboratory for the diagnosis and confirmation of severe influenza-like illness; ii) the quasispecies analysis focused only on codon 222, while complete genome sequencing would have provided more exhaustive information and iii) in a portion of the ICU patients, only upper respiratory samples were available and therefore the diagnosis was performed on a partially biased group of samples.">
+    <entity charOffset="40-49" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e0" ontology_id="HP_0040279" text="frequency" type="phenotype"/>
+    <entity charOffset="106-110" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e1" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="189-195" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e2" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c27.p2" relation="true"/>
+  </chunk>
+  <chunk id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28" text="In conclusion, this study showed the presence of mutations associated with increased clinical severity (222G/N) in at least 30% of ICU patients with LRT infections. A great number of variants and high viral load were observed in the LRT as compared to URT samples. Finally, intra-host evolution analysis showed the presence of different dynamics of viral population in the LRT of patients hospitalized in ICU with a severe influenza infection.">
+    <entity charOffset="94-102" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e0" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="416-422" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e1" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="423-432" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e1" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.p0" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e0" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.p1" relation="true"/>
+    <pair e1="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e1" e2="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.e2" id="7dd0d85115b61c06ca2cfc389b6dfd2517708011.c28.p2" relation="true"/>
+  </chunk>
+</document>

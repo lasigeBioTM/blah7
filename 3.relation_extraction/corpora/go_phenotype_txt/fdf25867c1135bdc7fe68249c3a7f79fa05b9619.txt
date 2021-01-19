@@ -1,0 +1,43 @@
+0|chunk|Nuclear targeting of the betanodavirus B1 protein via two arginine-rich domains induces G1/S cell cycle arrest mediated by upregulation of p53/p21 OPEN
+0	93	103 cell cycle	Gene_function	GO_0007049
+0	93	110 cell cycle arrest	Gene_function	GO_0007050
+
+1|chunk|The molecular functions of betanodavirus non-structural protein B and its role in host cell survival remain unclear. In the present study, we examined the roles of specific nuclear targeting domains in B1 localization as well as the effect of B1 nuclear localization on the cell cycle and host cell survival. The B1 protein of the Red spotted grouper nervous necrosis virus (RGNNV) was detected in GF-1 grouper cells as early as 24 hours post-infection (hpi). Using an EYFP-B1 fusion construct, we observed nuclear localization of the B1 protein (up to 99%) in GF-1 cells at 48 hpi. The nuclear localization of B1 was mediated by two arginine-rich nuclear targeting domains (B domain: 46 RRSRR 51 ; C domain: 63 RDKRPRR 70 ) and domain C was more important than domain B in this process. B1 nuclear localization correlated with upregulation of p53 and p21 (wef1/cip1) ; downregulation of Cyclin D1, CDK4 and Mdm2; and G1/S cell cycle arrest in GF-1 cells. In conclusion, nuclear targeting of the RGNNV B1 protein via two targeting domains causes cell cycle arrest by up-regulating p53/p21 and down-regulating Mdm2, thereby regulating host cell survival.
+1	82	91 host cell	Gene_function	GO_0043657
+1	205	217 localization	Gene_function	GO_0051179
+1	254	266 localization	Gene_function	GO_0051179
+1	274	284 cell cycle	Gene_function	GO_0007049
+1	289	298 host cell	Gene_function	GO_0043657
+1	359	367 necrosis	Gene_function	GO_0001906
+1	515	527 localization	Gene_function	GO_0051179
+1	595	607 localization	Gene_function	GO_0051179
+1	799	811 localization	Gene_function	GO_0051179
+1	923	933 cell cycle	Gene_function	GO_0007049
+1	923	940 cell cycle arrest	Gene_function	GO_0007050
+1	1046	1056 cell cycle	Gene_function	GO_0007049
+1	1046	1063 cell cycle arrest	Gene_function	GO_0007050
+1	1134	1143 host cell	Gene_function	GO_0043657
+
+2|chunk|RNA viruses belonging to the Nodaviridae family are classified as Alphanoviruses, which primarily infect insects and Betanoviruses, which predominantly infect fish 1-3 . Betanodaviruses belong to the Betanovirus class and cause virus nervous necrosis (VNN) disease, which is characterized by necrosis of the central nervous system (including the brain and retina), abnormal swimming behavior, darkening of the skin and weight loss 4,5 . Mass mortality caused by VNN in larval and juvenile populations of several teleost species has a significant global economic impact 5 . Betanodaviruses are thought to modulate innate/acquired immunity and may be a useful model for understanding the pathogenesis of RNA virus-mediated diseases.
+2	242	250 necrosis	Gene_function	GO_0001906
+2	292	300 necrosis	Gene_function	GO_0001906
+2	308	315 central	Phenotype	HP_0030645
+2	374	382 swimming	Gene_function	GO_0036268
+2	419	430 weight loss	Phenotype	HP_0001824
+2	686	698 pathogenesis	Gene_function	GO_0009405
+2	GO-HP	GO_0001906	HP_0030645
+2	GO-HP	GO_0001906	HP_0001824
+2	HP-GO	HP_0030645	GO_0036268
+2	HP-GO	HP_0030645	GO_0009405
+2	GO-HP	GO_0036268	HP_0001824
+2	HP-GO	HP_0001824	GO_0009405
+
+3|chunk|Nodaviruses are small, non-enveloped, spherical viruses with bipartite positive-sense RNA genomes (RNA1 & RNA2) that are capped but not polyadenylated 3 . RNA1 is the largest genomic segment of the virus and encodes a non-structural protein of approximately 110 kDa, which is designated RNA-dependent RNA polymerase or protein A. This protein is vital for replication of the viral genome. The middle genomic segment, RNA2, encodes a 42-kDa capsid protein that may also function in the induction of cell death 6,7 . RNA3, a sub-genomic RNA species at the 3 terminus of RNA1, comprises 2 ORFs that encode B1 (a 111 amino acid protein) and B2 (a 75 amino acid protein). The B1 gene of the Red spotted grouper nervous necrosis virus (RGNNV) betanodavirus strain has recently been shown to have an anti-necrotic function during early replication 8 , whereas the B2 gene has been found to either suppress host siRNA silencing 9-11 or play a role in necrosis.
+3	498	508 cell death	Gene_function	GO_0008219
+3	715	723 necrosis	Gene_function	GO_0001906
+3	944	952 necrosis	Gene_function	GO_0001906
+
+4|chunk|Many viruses facilitate their own replication by modulating the host cell cycle. DNA viruses, whose primary site of replication is the nucleus, have been studied extensively 12-17 . However, increasing evidence indicates that RNA viruses, whose primary site of replication is normally the cytoplasm, also interfere with the host cell cycle. A
+4	64	73 host cell	Gene_function	GO_0043657
+4	324	333 host cell	Gene_function	GO_0043657
+

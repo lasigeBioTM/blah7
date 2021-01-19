@@ -1,0 +1,24 @@
+0|chunk|The discovery of a novel compound with potent antitumor activity: virtual screening, synthesis, biological evaluation and preliminary mechanism study
+
+1|chunk|Farnesyltransferase has been regarded as a promising drug target against cancer as it is critical for membrane association of several signal transduction proteins. In this study, a novel farnesyltransferase inhibitor (IMB-1406) was identified through virtual screening. It exhibits stronger potency (IC 50 s: 6.92-8.99 M) than Sunitinib against all of the tested cancer cell lines. Preliminary studies on mechanism reveal that IMB-1406 induces apoptosis in HepG2 cells by arresting the cell cycle at the S phase, altering anti-and pro-apoptotic proteins leading to mitochondrial dysfunction and activation of caspase-3. This anti-tumor effect is most probably related to the inhibition of farnesyltransferase as indicated by molecular docking. Overall, IMB-1406 is a novel lead compound with potent antitumor activity and deserves further structural modifications.
+1	73	79 cancer	Phenotype	HP_0002664
+1	102	110 membrane	Gene_function	GO_0016020
+1	134	153 signal transduction	Gene_function	GO_0007165
+1	141	153 transduction	Gene_function	GO_0009293
+1	364	370 cancer	Phenotype	HP_0002664
+1	487	497 cell cycle	Gene_function	GO_0007049
+1	566	579 mitochondrial	Phenotype	HP_0001427
+1	566	591 mitochondrial dysfunction	Phenotype	HP_0003287
+1	HP-GO	HP_0002664	GO_0016020
+1	HP-GO	HP_0002664	GO_0007165
+1	HP-GO	HP_0002664	GO_0009293
+1	HP-GO	HP_0002664	GO_0007049
+1	GO-HP	GO_0016020	HP_0001427
+1	GO-HP	GO_0016020	HP_0003287
+1	GO-HP	GO_0007165	HP_0001427
+1	GO-HP	GO_0007165	HP_0003287
+1	GO-HP	GO_0009293	HP_0001427
+1	GO-HP	GO_0009293	HP_0003287
+1	GO-HP	GO_0007049	HP_0001427
+1	GO-HP	GO_0007049	HP_0003287
+

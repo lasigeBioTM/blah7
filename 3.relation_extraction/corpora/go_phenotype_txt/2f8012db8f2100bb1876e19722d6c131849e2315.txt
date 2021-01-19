@@ -1,0 +1,27 @@
+0|chunk|Coronavirus Papain-like Proteases Negatively Regulate Antiviral Innate Immune Response through Disruption of STING-Mediated Signaling
+0	54	86 Antiviral Innate Immune Response	Gene_function	GO_0140374
+0	64	86 Innate Immune Response	Gene_function	GO_0045087
+0	71	86 Immune Response	Gene_function	GO_0006955
+0	124	133 Signaling	Gene_function	GO_0023052
+
+1|chunk|Viruses have evolved elaborate mechanisms to evade or inactivate the complex system of sensors and signaling molecules that make up the host innate immune response. Here we show that human coronavirus (HCoV) NL63 and severe acute respiratory syndrome (SARS) CoV papain-like proteases (PLP) antagonize innate immune signaling mediated by STING (stimulator of interferon genes, also known as MITA/ERIS/MYPS). STING resides in the endoplasmic reticulum and upon activation, forms dimers which assemble with MAVS, TBK-1 and IKKe, leading to IRF-3 activation and subsequent induction of interferon (IFN). We found that expression of the membrane anchored PLP domain from human HCoV-NL63 (PLP2-TM) or SARS-CoV (PLpro-TM) inhibits STING-mediated activation of IRF-3 nuclear translocation and induction of IRF-3 dependent promoters. Both catalytically active and inactive forms of CoV PLPs co-immunoprecipitated with STING, and viral replicase proteins co-localize with STING in HCoV-NL63-infected cells. Ectopic expression of catalytically active PLP2-TM blocks STING dimer formation and negatively regulates assembly of STING-MAVS-TBK1/IKKe complexes required for activation of IRF-3. STING dimerization was also substantially reduced in cells infected with SARS-CoV. Furthermore, the level of ubiquitinated forms of STING, RIG-I, TBK1 and IRF-3 are reduced in cells expressing wild type or catalytic mutants of PLP2-TM, likely contributing to disruption of signaling required for IFN induction. These results describe a new mechanism used by CoVs in which CoV PLPs negatively regulate antiviral defenses by disrupting the STING-mediated IFN induction.
+1	99	108 signaling	Gene_function	GO_0023052
+1	141	163 innate immune response	Gene_function	GO_0045087
+1	217	223 severe	Phenotype	HP_0012828
+1	224	229 acute	Phenotype	HP_0011009
+1	315	324 signaling	Gene_function	GO_0023052
+1	428	449 endoplasmic reticulum	Gene_function	GO_0005783
+1	632	640 membrane	Gene_function	GO_0016020
+1	1325	1329 TBK1	Gene_function	GO_0008384
+1	1452	1461 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0023052	HP_0012828
+1	GO-HP	GO_0023052	HP_0011009
+1	GO-HP	GO_0045087	HP_0012828
+1	GO-HP	GO_0045087	HP_0011009
+1	HP-GO	HP_0012828	GO_0005783
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0008384
+1	HP-GO	HP_0011009	GO_0005783
+1	HP-GO	HP_0011009	GO_0016020
+1	HP-GO	HP_0011009	GO_0008384
+

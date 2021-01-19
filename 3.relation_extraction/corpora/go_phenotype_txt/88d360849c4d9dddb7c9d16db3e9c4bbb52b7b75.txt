@@ -1,0 +1,25 @@
+0|chunk|Analysis of Memory B Cell Responses and Isolation of Novel Monoclonal Antibodies with Neutralizing Breadth from HIV-1-Infected Individuals
+0	12	18 Memory	Gene_function	GO_0007613
+
+1|chunk|Background: The isolation of human monoclonal antibodies (mAbs) that neutralize a broad spectrum of primary HIV-1 isolates and the characterization of the human neutralizing antibody B cell response to HIV-1 infection are important goals that are central to the design of an effective antibody-based vaccine.
+1	174	182 antibody	Gene_function	GO_0003823
+1	174	182 antibody	Gene_function	GO_0042571
+1	247	254 central	Phenotype	HP_0030645
+1	GO-HP	GO_0003823	HP_0030645
+1	GO-HP	GO_0042571	HP_0030645
+
+2|chunk|Methods and Findings: We immortalized IgG + memory B cells from individuals infected with diverse clades of HIV-1 and selected on the basis of plasma neutralization profiles that were cross-clade and relatively potent. Culture supernatants were screened using various recombinant forms of the envelope glycoproteins (Env) in multiple parallel assays. We isolated 58 mAbs that were mapped to different Env surfaces, most of which showed neutralizing activity. One mAb in particular (HJ16) specific for a novel epitope proximal to the CD4 binding site on gp120 selectively neutralized a multi-clade panel of Tier-2 HIV-1 pseudoviruses, and demonstrated reactivity that was comparable in breadth, but distinct in neutralization specificity, to that of the other CD4 binding site-specific neutralizing mAb b12. A second mAb (HGN194) bound a conserved epitope in the V3 crown and neutralized all Tier-1 and a proportion of Tier-2 pseudoviruses tested, irrespective of clade. A third mAb (HK20) with broad neutralizing activity, particularly as a Fab fragment, recognized a highly conserved epitope in the HR-1 region of gp41, but showed striking assay-dependent selectivity in its activity.
+2	44	50 memory	Gene_function	GO_0007613
+2	293	301 envelope	Gene_function	GO_0031975
+2	517	525 proximal	Phenotype	HP_0012840
+2	537	544 binding	Gene_function	GO_0005488
+2	763	770 binding	Gene_function	GO_0005488
+2	865	870 crown	Gene_function	GO_0070685
+2	GO-HP	GO_0007613	HP_0012840
+2	GO-HP	GO_0031975	HP_0012840
+2	HP-GO	HP_0012840	GO_0005488
+2	HP-GO	HP_0012840	GO_0070685
+
+3|chunk|Conclusions: This study reveals that by using appropriate screening methods, a large proportion of memory B cells can be isolated that produce mAbs with HIV-1 neutralizing activity. Three of these mAbs show unusual breadth of neutralization and therefore add to the current panel of HIV-1 neutralizing antibodies with potential for passive protection and templatebased vaccine design.
+3	99	105 memory	Gene_function	GO_0007613
+

@@ -1,0 +1,98 @@
+0|chunk|Computational Docking Study of p7 Ion Channel from HCV Genotype 3 and Genotype 4 and Its Interaction with Natural Compounds
+0	34	37 Ion	Chemical	CHEBI_24870
+
+1|chunk|The current standard care therapy for hepatitis C virus (HCV) infection consists of two regimes, namely interferon-based and interferon-free treatments. The treatment through the combination of ribavirin and pegylated interferon is expensive, only mildly effective, and is associated with severe side effects. In 2011, two direct-acting antiviral (DAA) drugs, boceprevir and telaprevir, were licensed that have shown enhanced sustained virologic response (SVR) in phase III clinical trial, however, these interferon-free treatments are more sensitive to HCV genotype 1 infection. The variable nature of HCV, and the limited number of inhibitors developed thus aim in expanding the repertoire of available drug targets, resulting in targeting the virus assembly therapeutically.
+1	194	203 ribavirin	Chemical	CHEBI_63580
+1	218	228 interferon	Chemical	CHEBI_52999
+1	337	346 antiviral	Chemical	CHEBI_22587
+1	360	370 boceprevir	Chemical	CHEBI_68621
+1	634	644 inhibitors	Chemical	CHEBI_35222
+1	705	709 drug	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_63580	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_63580	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_63580	CHEBI_68621
+1	CHEBI-CHEBI	CHEBI_63580	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_63580	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_68621
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_68621
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_68621	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_68621	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+
+2|chunk|(isolatek3a) and HCV genotype 4a (GT4) (isolateED43). Furthermore, we conducted a quantitative structure-activity relationship and docking interaction study.
+
+3|chunk|The drug NB-DNJ formed the highest number of hydrogen bond interactions with both modeled p7 proteins with high interaction energy, followed by BIT225. A flavonoid screen demonstrated that Epigallocatechin gallate (EGCG), nobiletin, and quercetin, have more binding modes in GT3 than in GT4. Thus, the predicted p7 protein molecule of HCV from GT3 and GT4 provides a general avenue to target structure-based antiviral compounds.
+3	4	8 drug	Chemical	CHEBI_23888
+3	9	15 NB-DNJ	Chemical	CHEBI_50381
+3	45	53 hydrogen	Chemical	CHEBI_18276
+3	45	53 hydrogen	Chemical	CHEBI_49637
+3	93	101 proteins	Chemical	CHEBI_36080
+3	154	163 flavonoid	Chemical	CHEBI_47916
+3	206	213 gallate	Chemical	CHEBI_16918
+3	315	322 protein	Chemical	CHEBI_16541
+3	323	331 molecule	Chemical	CHEBI_25367
+3	408	417 antiviral	Chemical	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_50381
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_47916
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_47916
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_50381	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_47916
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_47916
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_49637	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_47916
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_47916	CHEBI_16918
+3	CHEBI-CHEBI	CHEBI_47916	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_47916	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_47916	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_16918	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_16918	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_16918	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_25367	CHEBI_22587
+
+4|chunk|We hypothesize that the inhibitors of viral p7 identified in this screen may be a new class of potent agents, but further confirmation in vitro and in vivo is essential. This structure-guided drug design for both GT3 and GT4 can lead to the identification of drug-like natural compounds, confirming p7 as a new target in the rapidly increasing era of HCV.
+4	24	34 inhibitors	Chemical	CHEBI_35222
+4	192	196 drug	Chemical	CHEBI_23888
+4	344	347 era	Chemical	CHEBI_51451
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_51451
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_51451
+
+5|chunk|Computational Docking Study of HCVp7 Ion Channel from Genotype 3 and 4 PLOS ONE |
+5	37	40 Ion	Chemical	CHEBI_24870
+5	76	79 ONE	Chemical	CHEBI_58972
+5	CHEBI-CHEBI	CHEBI_24870	CHEBI_58972
+

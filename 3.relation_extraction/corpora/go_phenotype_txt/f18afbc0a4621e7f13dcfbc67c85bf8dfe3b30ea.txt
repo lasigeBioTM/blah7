@@ -1,0 +1,26 @@
+0|chunk|Tissue Tropism and Target Cells of NSs-Deleted Rift Valley Fever Virus in Live Immunodeficient Mice
+0	7	14 Tropism	Gene_function	GO_0009606
+0	52	64 Valley Fever	Phenotype	HP_0032249
+0	59	64 Fever	Phenotype	HP_0001945
+0	GO-HP	GO_0009606	HP_0032249
+0	GO-HP	GO_0009606	HP_0001945
+
+1|chunk|Background: Rift Valley fever virus (RVFV) causes disease in livestock and humans. It can be transmitted by mosquitoes, inhalation or physical contact with the body fluids of infected animals. Severe clinical cases are characterized by acute hepatitis with hemorrhage, meningoencephalitis and/or retinitis. The dynamics of RVFV infection and the cell types infected in vivo are poorly understood.
+1	17	29 Valley fever	Phenotype	HP_0032249
+1	24	29 fever	Phenotype	HP_0001945
+1	193	199 Severe	Phenotype	HP_0012828
+1	236	241 acute	Phenotype	HP_0011009
+1	236	251 acute hepatitis	Phenotype	HP_0200119
+1	242	251 hepatitis	Phenotype	HP_0012115
+
+2|chunk|Methodology/Principal Findings: RVFV strains expressing humanized Renilla luciferase (hRLuc) or green fluorescent protein (GFP) were generated and inoculated to susceptible Ifnar1-deficient mice. We investigated the tissue tropism in these mice and the nature of the target cells in vivo using whole-organ imaging and flow cytometry. After intraperitoneal inoculation, hRLuc signal was observed primarily in the thymus, spleen and liver. Macrophages infiltrating various tissues, in particular the adipose tissue surrounding the pancreas also expressed the virus. The liver rapidly turned into the major luminescent organ and the mice succumbed to severe hepatitis. The brain remained weakly luminescent throughout infection. FACS analysis in RVFV-GFP-infected mice showed that the macrophages, dendritic cells and granulocytes were main target cells for RVFV. The crucial role of cells of the monocyte/macrophage/dendritic lineage during RVFV infection was confirmed by the slower viral dissemination, decrease in RVFV titers in blood, and prolonged survival of macrophage-and dendritic celldepleted mice following treatment with clodronate liposomes. Upon dermal and nasal inoculations, the viral dissemination was primarily observed in the lymph node draining the injected ear and in the lungs respectively, with a significant increase in survival time.
+2	223	230 tropism	Gene_function	GO_0009606
+2	648	654 severe	Phenotype	HP_0012828
+2	1041	1050 prolonged	Phenotype	HP_0025297
+2	GO-HP	GO_0009606	HP_0012828
+2	GO-HP	GO_0009606	HP_0025297
+
+3|chunk|Conclusions/Significance: These findings reveal the high levels of phagocytic cells harboring RVFV during viral infection in Ifnar1-deficient mice. They demonstrate that bioluminescent and fluorescent viruses can shed new light into the pathogenesis of RVFV infection.
+3	106	121 viral infection	Gene_function	GO_0016032
+3	237	249 pathogenesis	Gene_function	GO_0009405
+

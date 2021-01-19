@@ -1,0 +1,33 @@
+0|chunk|Differential neurodegenerative phenotypes are associated with heterogeneous voiding dysfunction in a coronavirus-induced model of multiple sclerosis
+0	62	75 heterogeneous	Phenotype	HP_0001425
+
+1|chunk|We previously characterized a murine model of neurogenic bladder dysfunction induced by a neurotropic strain of a coronavirus. In the present study, we further study the role of long-lasting neurodegeneration on the development of neurogenic bladder dysfunction in mice with corona-virus induced encephalitis (CIE). Long-term follow up study revealed three phenotypes of neurodegenerative symptom development: recovery (REC group), chronic progression (C-PRO group) and chronic disease with relapsing-remitting episodes (C-RELAP group). The levels of IL-1 in REC group, IL-10 in C-RELAP group, and IL-1, IL-6, IL-10 and TNF- in C-PRO group were diminished in the brain. The levels of TNF- in REC group and INF-, IL-2, TGF- and TNF- in the C-PRO group were also diminished in the urinary bladder. Mice in C-RELAP group showed a delayed recovery of voiding function. In vitro contractility studies determined a decreased basal detrusor tone and reduced amplitude of nervemediated contractions in C-RELAP group, whereas C-PRO group had elevated muscle-mediated contractions. In conclusion, mice with CIE developed three phenotypes of neurologic impairment mimicking different types of MS progression in humans and showed differential mechanisms driving neurogenic bladder dysfunction.
+1	46	64 neurogenic bladder	Phenotype	HP_0000011
+1	191	208 neurodegeneration	Phenotype	HP_0002180
+1	231	249 neurogenic bladder	Phenotype	HP_0000011
+1	296	308 encephalitis	Phenotype	HP_0002383
+1	432	439 chronic	Phenotype	HP_0011010
+1	470	477 chronic	Phenotype	HP_0011010
+1	1257	1275 neurogenic bladder	Phenotype	HP_0000011
+
+2|chunk|Neurogenic bladder dysfunction often develops in patients with neurodegenerative disorders such as multiple sclerosis (MS) causing a great discomfort, and having a negative effect on the quality of the individual's social, occupational and sexual life 1 . Up to 90% of patients with MS experience lower urinary tract symptoms (LUTS) including detrusor overactivity, urgency, frequency of urination, nocturia and dysuria. Prevalence and severity of LUTS increase with disease duration and progression of physical disability in MS patients 2 . In 10-15% of patients, bladder symptoms are present at the onset of MS when there may be few demyelinated lesions in the spinal cord and/or brain detected by the MRI 3 . The most common symptom reported by patients in remission is urgency of micturition followed by urinary frequency 3-6 . Bladder symptoms become prevalent 7 in patients with chronic progression of the disease, and are often accompanied by bowel and sexual dysfunction 8, 9 . Poor understanding of the mechanisms underlying functional interplay between the lower urinary tract (LUT) and the nervous system warrants further translational and clinical research efforts in the field.
+2	0	18 Neurogenic bladder	Phenotype	HP_0000011
+2	375	384 frequency	Phenotype	HP_0040279
+2	399	407 nocturia	Phenotype	HP_0000017
+2	436	444 severity	Phenotype	HP_0012824
+2	601	606 onset	Phenotype	HP_0003674
+2	784	795 micturition	Gene_function	GO_0060073
+2	816	825 frequency	Phenotype	HP_0040279
+2	885	892 chronic	Phenotype	HP_0011010
+2	HP-GO	HP_0000011	GO_0060073
+2	HP-GO	HP_0040279	GO_0060073
+2	HP-GO	HP_0000017	GO_0060073
+2	HP-GO	HP_0012824	GO_0060073
+2	HP-GO	HP_0003674	GO_0060073
+2	GO-HP	GO_0060073	HP_0011010
+
+3|chunk|Experimental autoimmune encephalomyelitis (EAE) is one of the most studied animal models of MS which is induced by inoculation of rats or mice with antibodies against myelin binding protein (MBP), proteolipid protein (PLP) or myelin oligodendrocyte glycoprotein (MOG) 10-12 . After inoculation, animals develop pathological features of inflammation and demyelination in the spinal cord and brain, with infiltration of the spinal Statistics. All data are presented as mean  SE. Results were statistically analyzed using paired t-test to compare the parameters from the same group at different time points, and unpaired t-test to compare the parameters between different groups (Systat Software, Inc. San Jose, CA). Data with p  0.05 difference were considered statistically significant.
+3	174	181 binding	Gene_function	GO_0005488
+3	353	366 demyelination	Phenotype	HP_0011096
+3	GO-HP	GO_0005488	HP_0011096
+

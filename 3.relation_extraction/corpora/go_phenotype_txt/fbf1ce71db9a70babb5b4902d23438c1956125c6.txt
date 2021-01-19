@@ -1,0 +1,15 @@
+0|chunk|Yeast Based Small Molecule Screen for Inhibitors of SARS-CoV
+
+1|chunk|Severe acute respiratory coronavirus (SARS-CoV) emerged in 2002, resulting in roughly 8000 cases worldwide and 10% mortality. The animal reservoirs for SARS-CoV precursors still exist and the likelihood of future outbreaks in the human population is high. The SARS-CoV papain-like protease (PLP) is an attractive target for pharmaceutical development because it is essential for virus replication and is conserved among human coronaviruses. A yeast-based assay was established for PLP activity that relies on the ability of PLP to induce a pronounced slow-growth phenotype when expressed in S. cerevisiae. Induction of the slow-growth phenotype was shown to take place over a 60-hour time course, providing the basis for conducting a screen for small molecules that restore growth by inhibiting the function of PLP. Five chemical suppressors of the slow-growth phenotype were identified from the 2000 member NIH Diversity Set library. One of these, NSC158362, potently inhibited SARS-CoV replication in cell culture without toxic effects on cells, and it specifically inhibited SARS-CoV replication but not influenza virus replication. The effect of NSC158362 on PLP protease, deubiquitinase and anti-interferon activities was investigated but the compound did not alter these activities. Another suppressor, NSC158011, demonstrated the ability to inhibit PLP protease activity in a cell-based assay. The identification of these inhibitors demonstrated a strong functional connection between the PLP-based yeast assay, the inhibitory compounds, and SARS-CoV biology. Furthermore the data with NSC158362 suggest a novel mechanism for inhibition of SARS-CoV replication that may involve an unknown activity of PLP, or alternatively a direct effect on a cellular target that modifies or bypasses PLP function in yeast and mammalian cells.
+1	0	6 Severe	Phenotype	HP_0012828
+1	7	12 acute	Phenotype	HP_0011009
+1	774	780 growth	Gene_function	GO_0040007
+1	1177	1191 deubiquitinase	Gene_function	GO_0004843
+1	1360	1377 protease activity	Gene_function	GO_0008233
+1	HP-GO	HP_0012828	GO_0040007
+1	HP-GO	HP_0012828	GO_0004843
+1	HP-GO	HP_0012828	GO_0008233
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0004843
+1	HP-GO	HP_0011009	GO_0008233
+

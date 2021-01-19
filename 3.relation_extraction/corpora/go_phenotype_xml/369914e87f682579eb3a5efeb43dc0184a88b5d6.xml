@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<document id="369914e87f682579eb3a5efeb43dc0184a88b5d6">
+  <chunk id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c0" text="Combination Kinase Inhibitor Treatment Suppresses Rift Valley Fever Virus Replication">
+    <entity charOffset="55-67" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c0.e0" ontology_id="HP_0032249" text="Valley Fever" type="phenotype"/>
+    <entity charOffset="62-67" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c0.e1" ontology_id="HP_0001945" text="Fever" type="phenotype"/>
+  </chunk>
+  <chunk id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1" text="Viruses must parasitize host cell translational machinery in order to make proteins for viral progeny. In this study, we sought to use this signal transduction conduit against them by inhibiting multiple kinases that influence translation. Previous work indicated that several kinases involved in translation, including p70 S6K, p90RSK, ERK, and p38 MAPK, are phosphorylated following Rift Valley fever virus (RVFV) infection. Furthermore, inhibiting p70 S6K through treatment with the FDA approved drug rapamycin prevents RVFV pathogenesis in a mouse model of infection. We hypothesized that inhibiting either p70 S6K, p90RSK, or p90RSK's upstream kinases, ERK and p38 MAPK, would decrease translation and subsequent viral replication. Treatment with the p70 S6K inhibitor PF-4708671 resulted in decreased phosphorylation of translational proteins and reduced RVFV titers. In contrast, treatment with the p90RSK inhibitor BI-D1870, p38MAPK inhibitor SB203580, or the ERK inhibitor PD0325901 alone had minimal influence on RVFV titers. The combination of PF-4708671 and BI-D1870 treatment resulted in robust inhibition of RVFV replication. Likewise, a synergistic inhibition of RVFV replication was observed with p38MAPK inhibitor SB203580 or the ERK inhibitor PD0325901 combined with rapamycin treatment. These findings serve as a proof of concept regarding combination kinase inhibitor treatment for RVFV infection.">
+    <entity charOffset="24-33" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e0" ontology_id="GO_0043657" text="host cell" type="gene_function"/>
+    <entity charOffset="140-159" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e1" ontology_id="GO_0007165" text="signal transduction" type="gene_function"/>
+    <entity charOffset="147-159" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e2" ontology_id="GO_0009293" text="transduction" type="gene_function"/>
+    <entity charOffset="227-238" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e3" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="297-308" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e4" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="337-340" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e5" ontology_id="GO_0004707" text="ERK" type="gene_function"/>
+    <entity charOffset="390-402" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" ontology_id="HP_0032249" text="Valley fever" type="phenotype"/>
+    <entity charOffset="397-402" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+    <entity charOffset="528-540" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e8" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <entity charOffset="658-661" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e9" ontology_id="GO_0004707" text="ERK" type="gene_function"/>
+    <entity charOffset="691-702" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e10" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="807-822" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e11" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="968-971" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e12" ontology_id="GO_0004707" text="ERK" type="gene_function"/>
+    <entity charOffset="1247-1250" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e13" ontology_id="GO_0004707" text="ERK" type="gene_function"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e0" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p0" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e0" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p1" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e1" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p2" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e1" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p3" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e2" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p4" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e2" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p5" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e3" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p6" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e3" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p7" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e4" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p8" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e4" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p9" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e5" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p10" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e5" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p11" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e8" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p12" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e9" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p13" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e10" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p14" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e11" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p15" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e12" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p16" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e6" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e13" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p17" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e8" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p18" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e9" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p19" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e10" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p20" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e11" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p21" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e12" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p22" relation="true"/>
+    <pair e1="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e7" e2="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.e13" id="369914e87f682579eb3a5efeb43dc0184a88b5d6.c1.p23" relation="true"/>
+  </chunk>
+</document>

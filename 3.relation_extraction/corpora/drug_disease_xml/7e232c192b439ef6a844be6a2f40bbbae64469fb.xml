@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<document id="7e232c192b439ef6a844be6a2f40bbbae64469fb">
+  <chunk id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c0" text="Targeted antigen delivery to dendritic cells elicits robust antiviral T cell-mediated immunity in the liver OPEN">
+    <entity charOffset="9-16" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c0.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="60-69" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c0.e1" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+  <chunk id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1" text="DCs or formulations not involving in vivo DC targeting. As read-outs we used in vivo hepatotropic adenovirus challenge, histology and automated multidimensional fluorescence microscopy (MELC). We show that targeted in vivo antigen delivery to cross-presenting DCs is highly effective in inducing antiviral CTLs capable of eliminating virus-infected hepatocytes, while control vaccine formulation not involving DC targeting failed to induce immunity against hepatotropic virus. Moreover, we observed distinct patterns of CD8 + T cell interaction with virus-infected and apoptotic hepatocytes in the two DC-targeting groups suggesting that the different vaccine formulations may stimulate distinct types of effector functions. Our findings represent an important step toward the future development of vaccines against hepatotropic viruses and the treatment of patients with hepatic virus infection after liver transplantation to avoid reinfection.">
+    <entity charOffset="0-3" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e0" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="223-230" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="260-263" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e2" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="296-305" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e3" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="705-713" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e4" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="880-895" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" ontology_id="DOID_934" text="virus infection" type="disease"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e0" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.p0" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e1" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.p1" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e2" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.p2" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e3" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.p3" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e4" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c1.p4" relation="true"/>
+  </chunk>
+  <chunk id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2" text="The liver is permanently exposed to a plethora of antigens and microbial products with potentially immune-stimulatory capacity. The predominantly tolerogenic microenvironment of the liver usually prevents the induction of immunity to these innocuous antigens while at the same time it favours the establishment of persistent liver infection 1,2 . Next to other hepatotropic viruses, such as cytomegalovirus (CMV) or hepatitis B virus (HBV), a clinically highly relevant example for pathogens capable of establishing life-threatening chronic infections in the liver is the hepatitis C virus (HCV) 3 . Despite extensive research since the discovery of HCV in 1989 4 , an effective vaccine is still not available 5 .">
+    <entity charOffset="50-58" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e0" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="250-258" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e1" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="416-425" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e2" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="416-427" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e3" ontology_id="DOID_2043" text="hepatitis B" type="disease"/>
+    <entity charOffset="572-581" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e4" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="572-583" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e5" ontology_id="DOID_1883" text="hepatitis C" type="disease"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e0" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e2" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p0" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e0" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e3" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p1" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e0" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e4" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p2" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e0" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p3" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e1" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e2" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p4" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e1" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e3" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p5" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e1" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e4" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p6" relation="true"/>
+    <pair e1="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e1" e2="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.e5" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c2.p7" relation="true"/>
+  </chunk>
+  <chunk id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3" text="Dendritic cells (DCs) represent optimal targets for designing effective vaccines 6 . CD8α + DCs are unique with respect to their capacity to effectively cross-present exogenous antigens on MHC-I molecules to induce cytotoxic T cells (CTLs) in addition to Th1 responses 7,8 . Accordingly, CD8α + DCs play a key role in establishing antiviral immunity 9,10 . Increasing knowledge regarding the characteristics of pattern recognition receptor (PRR) expression by different DC subsets has set the basis for a directed targeting of antigen in vivo by means of ligands or antibodies specific for the respective PRRs expressed on DCs. In this context, particularly Toll-like receptors (TLRs) and C-type lectin receptors (CLRs) gained importance 11 . For instance, the TLR2/6 heterodimer agonist S-[2,3-bispalmitoyloxy-(2R)-propyl]-R-cysteinyl-amido-mono-methoxyl polyethylene glycol (BPPcysMPEG), a synthetic derivative of the macrophage-activating lipopeptide (MALP-2), effectively targets cross-presenting CD8α + DCs. Importantly, co-administration of BPPcysMPEG together with soluble ovalbumin (OVA) (OVA + BPPcysMPEG) resulted in the induction of OVA-specific CTLs 12 . Interestingly, BPPcysOVAMPEG, a compound consisting of the immunodominant OVA peptides chemically linked to BPPcysMPEG and therefore specifically delivered to TLR2/6 positive DCs, was even more effective at inducing OVA-specific CTLs 12 .">
+    <entity charOffset="17-20" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e0" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="92-95" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e1" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="177-185" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e2" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="195-204" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e3" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="295-298" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e4" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="310-314" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e5" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="331-340" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e6" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="527-534" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e7" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="555-562" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e8" ontology_id="CHEBI_52214" text="ligands" type="chemical"/>
+    <entity charOffset="623-626" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e9" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="780-787" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e10" ontology_id="CHEBI_48705" text="agonist" type="chemical"/>
+    <entity charOffset="856-868" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e11" ontology_id="CHEBI_53226" text="polyethylene" type="chemical"/>
+    <entity charOffset="856-875" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e12" ontology_id="CHEBI_46793" text="polyethylene glycol" type="chemical"/>
+    <entity charOffset="869-875" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e13" ontology_id="CHEBI_13643" text="glycol" type="chemical"/>
+    <entity charOffset="942-953" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e14" ontology_id="CHEBI_46895" text="lipopeptide" type="chemical"/>
+    <entity charOffset="1008-1011" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e15" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="1245-1253" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e16" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="1342-1345" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c3.e17" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+  </chunk>
+  <chunk id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4" text="Next to the TLR2/6 heterodimer, CD8α + DCs express high levels of the CLR family endocytosis receptor DEC-205 13 . Importantly, receptor-mediated antigen uptake by CD8α + DCs via DEC-205 results in extraordinarily effective antigen cross-presentation to CD8 + T cells [14] [15] [16] [17] [18] . Steinman and colleagues demonstrated that in vivo targeting of antigen to cross-presenting DCs by means of DEC-205-directed antibody-antigen conjugates together with the appropriate adjuvants resulted in a potent induction of specific T cell responses 19, 20 . Follow up studies with viral 14,16,17,21 , bacterial 22,23 and tumour antigens 24,25 proved DEC-205-mediated antigen delivery to CD8α + DCs to elicit protective CD4 + and CD8 + T effector cells. However, no study so far addressed whether antigen delivery to cross-presenting CD8α + DCs is able to induce effector T cell responses and antiviral immunity in the liver. To improve vaccination efficacy against hepatotropic viruses, we compared different vaccine formulations regarding their potency to induce antiviral effector T cell responses in the liver. This included targeted antigen delivery to cross-presenting DCs by α DEC-205 conjugated to the OVA protein (α DEC-205/OVA adjuvanted with Poly(I:C)/CpG) and the less well studied BPPcysOVAMPEG containing the two immunodominant MHC-I and -II OVA peptides. To assess whether antigen targeting to DCs would be required for inducing antiviral effector T cells in the liver, another group that received OVA co-administered with BPPcysMPEG (OVA + BPPcysMPEG) and thus not involving targeted antigen delivery to DCs was included. We show that only immunization with the DC targeting formulation α DEC-205/OVA and BPPcysOVAMPEG but not OVA + BPPcysMPEG vaccination induced CD8 + effector T cells capable of eliminating virus infected hepatocytes. Thus, we conclude that targeted in vivo antigen delivery to cross-presenting DCs represents a promising approach for the induction of antiviral immunity in the liver with potential implications for the development of vaccines against hepatotropic viruses.">
+    <entity charOffset="39-42" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e0" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="146-153" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="171-174" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e2" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="224-231" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e3" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="358-365" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e4" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="386-389" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e5" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="477-486" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e6" ontology_id="CHEBI_60809" text="adjuvants" type="chemical"/>
+    <entity charOffset="626-634" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e7" ontology_id="CHEBI_59132" text="antigens" type="chemical"/>
+    <entity charOffset="665-672" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e8" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="692-695" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e9" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="735-743" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e10" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="794-801" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e11" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="838-841" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e12" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="860-868" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e13" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="890-899" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e14" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1062-1071" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e15" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1072-1080" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e16" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="1135-1142" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e17" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="1172-1175" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e18" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="1211-1218" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e19" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1385-1392" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e20" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="1406-1409" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e21" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="1441-1450" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e22" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1451-1459" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e23" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="1597-1604" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e24" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="1617-1620" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e25" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="1783-1791" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e26" ontology_id="CHEBI_35224" text="effector" type="chemical"/>
+    <entity charOffset="1891-1898" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e27" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="1928-1931" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e28" ontology_id="CHEBI_40009" text="DCs" type="chemical"/>
+    <entity charOffset="1985-1994" id="7e232c192b439ef6a844be6a2f40bbbae64469fb.c4.e29" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+  </chunk>
+</document>

@@ -1,0 +1,109 @@
+0|chunk|Proteomics of Bronchoalveolar Lavage Fluid Reveals a Lung Oxidative Stress Response in Murine Herpesvirus-68 Infection
+
+1|chunk|Murine herpesvirus-68 (MHV-68) productively infects mouse lungs, exhibiting a complex pathology characteristic of both acute viral infections and chronic respiratory diseases. We sought to discover proteins differentially expressed in bronchoalveolar lavage (BAL) from mice infected with MHV-68. Mice were infected intranasally with MHV-68. After nine days, as the lytic phase of infection resolved, differential BAL proteins were identified by two-dimensional (2D) electrophoresis and mass spectrometry. Of 23 unique proteins, acute phase proteins, vitamin A transport, and oxidative stress response factors Pdx6 and EC-SOD (Sod3) were enriched. Correspondingly, iNOS2 was induced in lung tissue by seven days post-infection. Oxidative stress was partly a direct result of MHV-68 infection, as reactive oxygen species (ROS) were induced in cultured murine NIH3T3 fibroblasts and human lung A549 cells infected with MHV-68. Finally, mice infected with a recombinant MHV-68 co-expressing inflammatory cytokine murine interleukin 6 (IL6) showed exacerbated oxidative stress and soluble type I collagen characteristic of tissue recovery. Thus, oxidative stress appears to be a salient feature of MHV-68 pathogenesis, in part caused by lytic replication of the virus and IL6. Proteins and small molecules in lung oxidative stress networks therefore may provide new therapeutic targets to ameliorate respiratory virus infections.
+1	198	206 proteins	Chemical	CHEBI_36080
+1	259	262 BAL	Chemical	CHEBI_64198
+1	413	416 BAL	Chemical	CHEBI_64198
+1	417	425 proteins	Chemical	CHEBI_36080
+1	518	526 proteins	Chemical	CHEBI_36080
+1	540	548 proteins	Chemical	CHEBI_36080
+1	550	557 vitamin	Chemical	CHEBI_33229
+1	550	559 vitamin A	Chemical	CHEBI_12777
+1	795	818 reactive oxygen species	Chemical	CHEBI_26523
+1	804	810 oxygen	Chemical	CHEBI_15379
+1	820	823 ROS	Chemical	CHEBI_26523
+1	1091	1099 collagen	Chemical	CHEBI_3815
+1	1272	1280 Proteins	Chemical	CHEBI_36080
+1	1291	1300 molecules	Chemical	CHEBI_25367
+
+2|chunk|Viruses 2018, 10, 670 2 of 24 idiopathic pulmonary fibrosis (IPF) might have an infectious viral component to their onset and/or pathogenesis. The gammaherpesviruses Kaposi's sarcoma-associated herpesvirus (KSHV/HHV-8) and Epstein-Barr virus (EBV) have been detected in the lung tissue of patients with IPF and acquired immune deficiency syndrome (AIDS)-related lymphocytic interstitial pneumonias [12] [13] [14] . In contrast, a murine gammaherpesvirus is protective in mice challenged with lethal influenza A virus, suggesting immunomodulatory roles for gammaherpesviruses in the pathogenesis of lung infections [14] . Thus, the application of new genomics technologies for understanding respiratory virus infections under isogenic host conditions might yield deeper insight into the pathological changes that occur in virus infection of the mammalian lung, and provide targets for diagnostic biomarkers or therapeutic intervention.
+2	30	59 idiopathic pulmonary fibrosis	Disease	DOID_0050156
+2	41	59 pulmonary fibrosis	Disease	DOID_3770
+2	61	64 IPF	Disease	DOID_2797
+2	303	306 IPF	Disease	DOID_2797
+2	311	346 acquired immune deficiency syndrome	Disease	DOID_635
+2	338	346 syndrome	Disease	DOID_225
+2	499	508 influenza	Disease	DOID_8469
+2	821	836 virus infection	Disease	DOID_934
+
+3|chunk|Murine gammaherpesvirus-68 (MHV-68) infects the lungs of wild and laboratory mice, productively infecting type I and II alveolar epithelial cells, macrophages, and dendritic cells (DCs) [15, 16] . MHV-68 exhibits characteristics of both acute and chronic respiratory pathogens. Even though MHV-68 can inhibit type I interferon secretion by DCs [17], the lungs of mice infected by the virus eventually exhibit discernable pathology, including usual interstitial pneumonia (UIP) with diffuse alveolar damage (DAD), and infiltration of inflammatory cells [16, 18, 19] . MHV-68 infection induces pro-inflammatory chemokines including MCP-1, MIP-1a, MIP-1b, IP-10 and RANTES [20] in the lung, and interleukin-6 (IL6) and type II interferon (IFN-gamma in the draining (mediastinal) lymph nodes) [21] . Acute infection is resolved and lytic replication of the virus is cleared from the lungs in a CD8+ cytotoxic T-lymphocyte (CTL-) and type I alpha/beta-interferon receptor (IFNAR)-dependent manner [22, 23] . Clearance also requires CD80/CD86 antigen presentation [24] , , and some degree of CD4+ T-cell help reliant on PKC [26] . However, as gammaherpesvirus infection progresses into latency, MHV-68 DNA remains detectable in the lung parenchyma, recapitulating a chronic disease characterized by increased interstitial collagen deposition, immune deregulation, and fibroblast proliferative events similar to those thought to occur early in the development of idiopathic pulmonary fibrosis (IPF). This chronic pathology phenotype is more clearly observed under experimental conditions where the lungs have been insulted prior to infection by an agent that induces pulmonary fibrosis [27] , such as fluorescein isothyocyanate (FITC), or in mice deficient in immune responses, such as interferon gamma receptor-null mice [15] .
+3	181	184 DCs	Chemical	CHEBI_40009
+3	316	326 interferon	Chemical	CHEBI_52999
+3	340	343 DCs	Chemical	CHEBI_40009
+3	461	470 pneumonia	Disease	DOID_552
+3	724	734 interferon	Chemical	CHEBI_52999
+3	1037	1044 antigen	Chemical	CHEBI_59132
+3	1197	1200 DNA	Chemical	CHEBI_16991
+3	1269	1276 disease	Disease	DOID_4
+3	1317	1325 collagen	Chemical	CHEBI_3815
+3	1457	1486 idiopathic pulmonary fibrosis	Disease	DOID_0050156
+3	1468	1486 pulmonary fibrosis	Disease	DOID_3770
+3	1661	1679 pulmonary fibrosis	Disease	DOID_3770
+3	1695	1706 fluorescein	Chemical	CHEBI_31624
+3	1780	1790 interferon	Chemical	CHEBI_52999
+3	1791	1796 gamma	Chemical	CHEBI_30212
+3	CHEBI-DOID	CHEBI_40009	DOID_552
+3	CHEBI-DOID	CHEBI_40009	DOID_4
+3	CHEBI-DOID	CHEBI_40009	DOID_0050156
+3	CHEBI-DOID	CHEBI_40009	DOID_3770
+3	CHEBI-DOID	CHEBI_52999	DOID_552
+3	CHEBI-DOID	CHEBI_52999	DOID_4
+3	CHEBI-DOID	CHEBI_52999	DOID_0050156
+3	CHEBI-DOID	CHEBI_52999	DOID_3770
+3	DOID-CHEBI	DOID_552	CHEBI_59132
+3	DOID-CHEBI	DOID_552	CHEBI_16991
+3	DOID-CHEBI	DOID_552	CHEBI_3815
+3	DOID-CHEBI	DOID_552	CHEBI_31624
+3	DOID-CHEBI	DOID_552	CHEBI_30212
+3	CHEBI-DOID	CHEBI_59132	DOID_4
+3	CHEBI-DOID	CHEBI_59132	DOID_0050156
+3	CHEBI-DOID	CHEBI_59132	DOID_3770
+3	CHEBI-DOID	CHEBI_16991	DOID_4
+3	CHEBI-DOID	CHEBI_16991	DOID_0050156
+3	CHEBI-DOID	CHEBI_16991	DOID_3770
+3	DOID-CHEBI	DOID_4	CHEBI_3815
+3	DOID-CHEBI	DOID_4	CHEBI_31624
+3	DOID-CHEBI	DOID_4	CHEBI_30212
+3	CHEBI-DOID	CHEBI_3815	DOID_0050156
+3	CHEBI-DOID	CHEBI_3815	DOID_3770
+3	DOID-CHEBI	DOID_0050156	CHEBI_31624
+3	DOID-CHEBI	DOID_0050156	CHEBI_30212
+3	DOID-CHEBI	DOID_3770	CHEBI_31624
+3	DOID-CHEBI	DOID_3770	CHEBI_30212
+
+4|chunk|The pro-inflammatory cytokine IL6 is thought to be involved in the host response to respiratory infections. IL6 is upregulated in ARDS caused by bacterial pneumonias in human patients [28] , and in LPS-treated human lung cells infected with RSV [29]. While no differences in viral life cycle, cytokine profiles, nor cytotoxic T-cell responses were observed in MHV-68 infection of IL6-deficient mice, IL6 does appear to regulate natural killer (NK) cells responding to MHV-68 infection [30] . Interestingly, KSHV also encodes a viral homologue of IL6 (vIL6) with distinct signaling activity during lytic infection [31, 32] . To study the role of exogenous expression of this cytokine in gammaherpesvirus infection of the lung, we constructed a recombinant MHV-68 virus expressing murine IL6.
+4	130	134 ARDS	Disease	DOID_11394
+4	637	641 role	Chemical	CHEBI_50906
+4	DOID-CHEBI	DOID_11394	CHEBI_50906
+
+5|chunk|Proteomics analysis of bronchoalveolar lavage (BAL) fluid has emerged as a new approach to understand pathophysiological events occurring in acute, infectious, malignant or chronic obstructive lung diseases, both in human patients and animal models [33, 34] . BAL is a rich source of information about lung cytokine and chemokine responses, inflammatory proteins, and immune cells present or infiltrating into the alveolar lumen. In proteomics studies, proteins isolated from BAL fluid have been typically analyzed by isoelectric focusing followed by two-dimensional electrophoresis (IEF/2DE), or by multidimensional protein identification technology (MudPIT), allowing for the identification of differentially-expressed proteins secreted or released via pathological processes into the alveolar lumen. These studies have begun to add a new dimension into the characterization of human or mouse physiological responses to acute lung injury (ALI) [33] , acute respiratory distress syndrome (ARDS) [35, 36] , and diffuse interstitial lung diseases including IPF [37] , COPD [38], and oxidative or toxicological damage to the lung [39, 40] . In animal models of infectious diseases, BAL has revealed lung cytokine and chemokine profiles and immune cell populations in response to virus infections [15, 20, 41] .
+5	47	50 BAL	Chemical	CHEBI_64198
+5	260	263 BAL	Chemical	CHEBI_64198
+5	354	362 proteins	Chemical	CHEBI_36080
+5	453	461 proteins	Chemical	CHEBI_36080
+5	476	479 BAL	Chemical	CHEBI_64198
+5	617	624 protein	Chemical	CHEBI_16541
+5	721	729 proteins	Chemical	CHEBI_36080
+5	831	834 add	Chemical	CHEBI_40799
+5	980	988 syndrome	Disease	DOID_225
+5	990	994 ARDS	Disease	DOID_11394
+5	1056	1059 IPF	Disease	DOID_2797
+5	1067	1071 COPD	Disease	DOID_3083
+5	1180	1183 BAL	Chemical	CHEBI_64198
+5	CHEBI-DOID	CHEBI_64198	DOID_225
+5	CHEBI-DOID	CHEBI_64198	DOID_11394
+5	CHEBI-DOID	CHEBI_64198	DOID_2797
+5	CHEBI-DOID	CHEBI_64198	DOID_3083
+5	CHEBI-DOID	CHEBI_36080	DOID_225
+5	CHEBI-DOID	CHEBI_36080	DOID_11394
+5	CHEBI-DOID	CHEBI_36080	DOID_2797
+5	CHEBI-DOID	CHEBI_36080	DOID_3083
+5	CHEBI-DOID	CHEBI_16541	DOID_225
+5	CHEBI-DOID	CHEBI_16541	DOID_11394
+5	CHEBI-DOID	CHEBI_16541	DOID_2797
+5	CHEBI-DOID	CHEBI_16541	DOID_3083
+5	CHEBI-DOID	CHEBI_40799	DOID_225
+5	CHEBI-DOID	CHEBI_40799	DOID_11394
+5	CHEBI-DOID	CHEBI_40799	DOID_2797
+5	CHEBI-DOID	CHEBI_40799	DOID_3083
+

@@ -1,0 +1,68 @@
+0|chunk|HBV core protein allosteric modulators differentially alter cccDNA biosynthesis from de novo infection and intracellular amplification pathways Citation: Author summary
+0	67	79 biosynthesis	Gene_function	GO_0009058
+0	107	120 intracellular	Gene_function	GO_0005622
+
+1|chunk|Hepatitis B virus (HBV) core protein assembles viral pre-genomic (pg) RNA and DNA polymerase into nucleocapsids for reverse transcriptional DNA replication to take place. Several chemotypes of small molecules, including heteroaryldihydropyrimidines (HAPs) and sulfamoylbenzamides (SBAs), have been discovered to allosterically modulate core protein structure and consequentially alter the kinetics and pathway of core protein assembly, resulting in formation of irregularly-shaped core protein aggregates or "empty" capsids devoid of pre-genomic RNA and viral DNA polymerase. Interestingly, in addition to inhibiting nucleocapsid assembly and subsequent viral genome replication, we have now demonstrated that HAPs and SBAs differentially modulate the biosynthesis of covalently closed circular (ccc) DNA from de novo infection and intracellular amplification pathways by inducing disassembly of nucleocapsids derived from virions as well as double-stranded DNA-containing progeny nucleocapsids in the cytoplasm. Specifically, the mistimed cuing of nucleocapsid uncoating prevents cccDNA formation during de novo infection of hepatocytes, while transiently accelerating cccDNA synthesis from cytoplasmic progeny nucleocapsids. Our studies indicate that elongation of positive-stranded DNA induces structural changes of nucleocapsids, which confers ability of mature nucleocapsids to bind CpAMs and triggers its disassembly. Understanding the molecular mechanism underlying the dual effects of the core protein allosteric modulators on nucleocapsid assembly and disassembly will facilitate the discovery of novel core protein-targeting antiviral agents that can more efficiently suppress cccDNA synthesis and cure chronic hepatitis B.
+1	0	9 Hepatitis	Phenotype	HP_0012115
+1	140	155 DNA replication	Gene_function	GO_0006260
+1	617	629 nucleocapsid	Gene_function	GO_0019013
+1	654	678 viral genome replication	Gene_function	GO_0019079
+1	752	764 biosynthesis	Gene_function	GO_0009058
+1	796	799 ccc	Gene_function	GO_0030896
+1	832	845 intracellular	Gene_function	GO_0005622
+1	1049	1061 nucleocapsid	Gene_function	GO_0019013
+1	1177	1186 synthesis	Gene_function	GO_0009058
+1	1535	1547 nucleocapsid	Gene_function	GO_0019013
+1	1694	1703 synthesis	Gene_function	GO_0009058
+1	1713	1720 chronic	Phenotype	HP_0011010
+1	1713	1730 chronic hepatitis	Phenotype	HP_0200123
+1	1721	1730 hepatitis	Phenotype	HP_0012115
+1	HP-GO	HP_0012115	GO_0006260
+1	HP-GO	HP_0012115	GO_0019013
+1	HP-GO	HP_0012115	GO_0019079
+1	HP-GO	HP_0012115	GO_0009058
+1	HP-GO	HP_0012115	GO_0030896
+1	HP-GO	HP_0012115	GO_0005622
+1	GO-HP	GO_0006260	HP_0011010
+1	GO-HP	GO_0006260	HP_0200123
+1	GO-HP	GO_0019013	HP_0011010
+1	GO-HP	GO_0019013	HP_0200123
+1	GO-HP	GO_0019079	HP_0011010
+1	GO-HP	GO_0019079	HP_0200123
+1	GO-HP	GO_0009058	HP_0011010
+1	GO-HP	GO_0009058	HP_0200123
+1	GO-HP	GO_0030896	HP_0011010
+1	GO-HP	GO_0030896	HP_0200123
+1	GO-HP	GO_0005622	HP_0011010
+1	GO-HP	GO_0005622	HP_0200123
+
+2|chunk|PLOS Pathogens | https://doi.org/10.1371/journal.ppat.
+
+3|chunk|Persistent HBV infection relies on stable maintenance of a nuclear episomal viral genome called covalently closed circular (ccc) DNA, the sole transcriptional template supporting viral replication. The currently available antiviral therapeutics fail to cure chronic HBV infection due to their failure to eradicate or inactivate cccDNA. In addition to packaging viral pregenomic (pg) RNA and DNA polymerase complex into nucleocapsids for reverse transcriptional DNA replication to take place, HBV core protein also participates in and regulates virion particle assembly, capsid uncoating and cccDNA formation. We report herein an intriguing observation that selected core protein allosteric modulators not only inhibit nucleocapsid assembly, but can also act on assembled, nucleus-bound nucleocapsids to promote their uncoating and consequentially interfere with cccDNA biosynthesis. This finding establishes molecular basis for development of novel core protein targeting antiviral agents with improved efficacy of suppressing cccDNA synthesis and curing chronic HBV infection. CpAMs modulate HBV cccDNA biosynthesis PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1006658 September 25, 2017 2 / 24 Competing interests: JTG holds stock and has received sponsored research fund from Arbutus Biopharma Inc. J Chang has received sponsored research fund from Arbutus Biopharma Inc.
+3	35	41 stable	Phenotype	HP_0031915
+3	124	127 ccc	Gene_function	GO_0030896
+3	258	265 chronic	Phenotype	HP_0011010
+3	391	413 DNA polymerase complex	Gene_function	GO_0042575
+3	461	476 DNA replication	Gene_function	GO_0006260
+3	544	550 virion	Gene_function	GO_0019012
+3	718	730 nucleocapsid	Gene_function	GO_0019013
+3	869	881 biosynthesis	Gene_function	GO_0009058
+3	954	971 protein targeting	Gene_function	GO_0006605
+3	1034	1043 synthesis	Gene_function	GO_0009058
+3	1055	1062 chronic	Phenotype	HP_0011010
+3	1104	1116 biosynthesis	Gene_function	GO_0009058
+3	HP-GO	HP_0031915	GO_0030896
+3	HP-GO	HP_0031915	GO_0042575
+3	HP-GO	HP_0031915	GO_0006260
+3	HP-GO	HP_0031915	GO_0019012
+3	HP-GO	HP_0031915	GO_0019013
+3	HP-GO	HP_0031915	GO_0009058
+3	HP-GO	HP_0031915	GO_0006605
+3	GO-HP	GO_0030896	HP_0011010
+3	HP-GO	HP_0011010	GO_0042575
+3	HP-GO	HP_0011010	GO_0006260
+3	HP-GO	HP_0011010	GO_0019012
+3	HP-GO	HP_0011010	GO_0019013
+3	HP-GO	HP_0011010	GO_0009058
+3	HP-GO	HP_0011010	GO_0006605
+

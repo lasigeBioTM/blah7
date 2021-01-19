@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="ba3471e86d6880f42f1df67c9a381e83216d1b45">
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c0" text="From sequence to enzyme mechanism using multi-label machine learning"/>
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1" text="Background: In this work we predict enzyme function at the level of chemical mechanism, providing a finer granularity of annotation than traditional Enzyme Commission (EC) classes. Hence we can predict not only whether a putative enzyme in a newly sequenced organism has the potential to perform a certain reaction, but how the reaction is performed, using which cofactors and with susceptibility to which drugs or inhibitors, details with important consequences for drug and enzyme design. Work that predicts enzyme catalytic activity based on 3D protein structure features limits the prediction of mechanism to proteins already having either a solved structure or a close relative suitable for homology modelling.">
+    <entity charOffset="363-372" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" ontology_id="CHEBI_23357" text="cofactors" type="chemical"/>
+    <entity charOffset="406-411" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e1" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="467-471" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="548-555" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="613-621" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e1" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p0" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e2" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p1" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e3" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p2" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e4" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p3" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e1" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e2" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p4" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e1" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e3" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p5" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e1" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e4" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p6" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e2" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e3" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p7" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e2" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e4" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p8" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e3" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e4" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.p9" relation="true"/>
+  </chunk>
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2" text="In this study, we evaluate whether sequence identity, InterPro or Catalytic Site Atlas sequence signatures provide enough information for bulk prediction of enzyme mechanism. By splitting MACiE (Mechanism, Annotation and Classification in Enzymes database) mechanism labels to a finer granularity, which includes the role of the protein chain in the overall enzyme complex, the method can predict at 96% accuracy (and 96% micro-averaged precision, 99.9% macro-averaged recall) the MACiE mechanism definitions of 248 proteins available in the MACiE, EzCatDb (Database of Enzyme Catalytic Mechanisms) and SFLD (Structure Function Linkage Database) databases using an off-the-shelf K-Nearest Neighbours multi-label algorithm.">
+    <entity charOffset="317-321" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e0" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="329-336" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="516-524" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e1" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.p0" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e0" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e2" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.p1" relation="true"/>
+    <pair e1="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e1" e2="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.e2" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2.p2" relation="true"/>
+  </chunk>
+</document>

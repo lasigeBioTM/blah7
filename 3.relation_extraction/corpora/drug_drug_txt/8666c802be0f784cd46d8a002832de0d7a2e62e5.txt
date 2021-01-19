@@ -1,0 +1,76 @@
+0|chunk|the National Natural Science Foundation of China (31472189), the China National Thousand Youth Talents program (1051-21986001), and the earmarked fund for China Agriculture Research System
+
+1|chunk|The unfolded protein response (UPR) in the endoplasmic reticulum (ER) constitutes a critical component of host innate immunity against microbial infections. In this report, we show that porcine reproductive and respiratory syndrome virus (PRRSV) utilizes the UPR machinery for its own benefit. We provide evidence that the virus targets the UPR central regulator GRP78 for proteasomal degradation via a mechanism that requires viral glycoprotein GP2a, while both IRE1-XBP1s and PERK-eIF2-ATF4 signaling branches of the UPR are turned on at early stage of infection. The activated effector XBP1s was found to enter the nucleus, but ATF4 was unexpectedly diverted to cytoplasmic viral replication complexes by means of nonstructural proteins nsp2/3 to promote viral RNA synthesis. RNAi knockdown of either ATF4 or XBP1s dramatically attenuated virus titers, while overexpression caused increases. These observations reveal attractive host targets (e.g., ATF4 and XBP1s) for antiviral drugs and have implications in vaccine development.
+1	13	20 protein	Chemical	CHEBI_16541
+1	433	445 glycoprotein	Chemical	CHEBI_17089
+1	581	589 effector	Chemical	CHEBI_35224
+1	732	740 proteins	Chemical	CHEBI_36080
+1	765	768 RNA	Chemical	CHEBI_33697
+1	973	982 antiviral	Chemical	CHEBI_22587
+1	973	988 antiviral drugs	Chemical	CHEBI_36044
+1	983	988 drugs	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_17089
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_35224
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_35224
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_35224	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_35224	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_35224	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_35224	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_35224	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36044	CHEBI_23888
+
+2|chunk|Porcine reproductive and respiratory syndrome virus (PRRSV) poses a major threat to the worldwide swine industry, but no effective vaccines or antiviral drugs are available. A better understanding of the pathogen-host interactions that support PRRSV replication is essential for understanding viral pathogenesis and the development of preventive measures. Here we report that PRRSV utilizes unconventional strategies to reprogram the unfolded protein response (UPR) of the host to its own advantage. The virus targets GRP78 for partial degradation to create a favorable environment for UPR induction and hijacks ATF4 into cytoplasmic replication complexes to promote viral RNA synthesis. The data also reveal potential targets (e.g., ATF4 and XBP1s) for antiviral drugs and have implications in vaccine development.
+2	143	152 antiviral	Chemical	CHEBI_22587
+2	143	158 antiviral drugs	Chemical	CHEBI_36044
+2	153	158 drugs	Chemical	CHEBI_23888
+2	443	450 protein	Chemical	CHEBI_16541
+2	673	676 RNA	Chemical	CHEBI_33697
+2	754	763 antiviral	Chemical	CHEBI_22587
+2	754	769 antiviral drugs	Chemical	CHEBI_36044
+2	764	769 drugs	Chemical	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_36044	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_36044	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_36044	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+
+3|chunk|PLOS Pathogens | https://doi.org/10.1371/journal.ppat.
+
+4|chunk|were treated with MG-132 (30 M), Bafilomycin A1 (0.5 M), or Z-VAD-FMK (20 M) for 6 h before being collected for western blot analyses. (H) HEK-293FT cells grown on coverslips in six-well plates were transfected to express GP2a-HA, GP2aE-HA, or E-HA. At 24 h post transfection, the cells were collected for Western blot analyses. Data information: Statistical analyses were performed by two-tailed Student's t-test or one-way ANOVA, and asterisks (  ) indicate the statistical significance: NS, no significance;  , P < 0.05;  , P < 0.01  ; P < 0.001. Data are presented as means  standard deviations (SD) of three independent experiments. https://doi.org/10.1371/journal.ppat.1008169.g001 Fig 2. Knockdown of GRP78 activates ER stress. MARC-145 cells were transfected with siRNA targeting GRP78 (siGRP78) or scrambled siRNA (siNC). At 36 h post transfection, the cells were analyzed for UPR activation. (A) Analysis of knockdown efficiency of GRP78 by Western blot. (B) Detection of XBP1 mRNA splicing in siRNA-treated cells. The XBP1 gene was amplified by RT-PCR followed by enzyme digestion with Pst I and analyzed by separation on a 1.5% agarose gel. (C) Western blot analysis of the expression and phosphorylation status of indicated proteins. (D)
+4	34	48 Bafilomycin A1	Chemical	CHEBI_22689
+4	62	71 Z-VAD-FMK	Chemical	CHEBI_137045
+4	999	1003 mRNA	Chemical	CHEBI_33699
+4	1152	1159 agarose	Chemical	CHEBI_2511
+4	CHEBI-CHEBI	CHEBI_22689	CHEBI_137045
+4	CHEBI-CHEBI	CHEBI_22689	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_22689	CHEBI_2511
+4	CHEBI-CHEBI	CHEBI_137045	CHEBI_33699
+4	CHEBI-CHEBI	CHEBI_137045	CHEBI_2511
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_2511
+
+5|chunk|Effect of GRP78 knockdown effect on the ATF4 activation by IFA staining. The relative fluorescence intensity of nuclear ATF4 were quantified by using image J (N = 50). Oil objective: 63 X; zoom in 1 X. Data information: Statistical analysis was performed by two-tailed Student's t-test, and the data represent means  standard deviations (SD). Asterisks (  ) indicate the statistical significance:  : P < 0.001;  : P<0.0001; NS: no significance.
+

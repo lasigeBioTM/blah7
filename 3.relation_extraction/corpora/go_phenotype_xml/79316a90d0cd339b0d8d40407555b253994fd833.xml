@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="79316a90d0cd339b0d8d40407555b253994fd833">
+  <chunk id="79316a90d0cd339b0d8d40407555b253994fd833.c0" text="Gene Expression Profiling in Cells with Enhanced c-Secretase Activity">
+    <entity charOffset="0-15" id="79316a90d0cd339b0d8d40407555b253994fd833.c0.e0" ontology_id="GO_0010467" text="Gene Expression" type="gene_function"/>
+  </chunk>
+  <chunk id="79316a90d0cd339b0d8d40407555b253994fd833.c1" text="Background: Processing by c-secretase of many type-I membrane protein substrates triggers signaling cascades by releasing intracellular domains (ICDs) that, following nuclear translocation, modulate the transcription of different genes regulating a diverse array of cellular and biological processes. Because the list of c-secretase substrates is growing quickly and this enzyme is a cancer and Alzheimer's disease therapeutic target, the mapping of c-secretase activity susceptible gene transcription is important for sharpening our view of specific affected genes, molecular functions and biological pathways.">
+    <entity charOffset="53-61" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.e0" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <entity charOffset="90-99" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.e1" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="122-135" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.e2" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="384-390" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.e3" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="551-559" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.e4" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e0" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e3" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p0" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e0" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e4" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p1" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e1" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e3" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p2" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e1" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e4" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p3" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e2" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e3" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p4" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c1.e2" e2="79316a90d0cd339b0d8d40407555b253994fd833.c1.e4" id="79316a90d0cd339b0d8d40407555b253994fd833.c1.p5" relation="true"/>
+  </chunk>
+  <chunk id="79316a90d0cd339b0d8d40407555b253994fd833.c2" text="Methodology/Principal Findings: To identify genes and molecular functions transcriptionally affected by c-secretase activity, the cellular transcriptomes of Chinese hamster ovary (CHO) cells with enhanced and inhibited c-secretase activity were analyzed and compared by cDNA microarray. The functional clustering by FatiGO of the 1,981 identified genes revealed over-and under-represented groups with multiple activities and functions. Single genes with the most pronounced transcriptional susceptibility to c-secretase activity were evaluated by real-time PCR. Among the 21 validated genes, the strikingly decreased transcription of PTPRG and AMN1 and increased transcription of UPP1 potentially support data on cell cycle disturbances relevant to cancer, stem cell and neurodegenerative diseases' research. The mapping of interactions of proteins encoded by the validated genes exclusively relied on evidence-based data and revealed broad effects on Wnt pathway members, including WNT3A and DVL3. Intriguingly, the transcription of TERA, a gene of unknown function, is affected by c-secretase activity and was significantly altered in the analyzed human Alzheimer's disease brain cortices.">
+    <entity charOffset="92-100" id="79316a90d0cd339b0d8d40407555b253994fd833.c2.e0" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="713-723" id="79316a90d0cd339b0d8d40407555b253994fd833.c2.e1" ontology_id="GO_0007049" text="cell cycle" type="gene_function"/>
+    <entity charOffset="1071-1079" id="79316a90d0cd339b0d8d40407555b253994fd833.c2.e2" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c2.e0" e2="79316a90d0cd339b0d8d40407555b253994fd833.c2.e1" id="79316a90d0cd339b0d8d40407555b253994fd833.c2.p0" relation="true"/>
+    <pair e1="79316a90d0cd339b0d8d40407555b253994fd833.c2.e1" e2="79316a90d0cd339b0d8d40407555b253994fd833.c2.e2" id="79316a90d0cd339b0d8d40407555b253994fd833.c2.p1" relation="true"/>
+  </chunk>
+  <chunk id="79316a90d0cd339b0d8d40407555b253994fd833.c3" text="Conclusions/Significance: Investigating the effects of c-secretase activity on gene transcription has revealed several affected clusters of molecular functions and, more specifically, 21 genes that hold significant potential for a better understanding of the biology of c-secretase and its roles in cancer and Alzheimer's disease pathology.">
+    <entity charOffset="119-127" id="79316a90d0cd339b0d8d40407555b253994fd833.c3.e0" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="299-305" id="79316a90d0cd339b0d8d40407555b253994fd833.c3.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+  </chunk>
+</document>

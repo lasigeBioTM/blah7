@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<document id="30b285a628c951e7c2d73848be13204f59b2fa73">
+  <chunk id="30b285a628c951e7c2d73848be13204f59b2fa73.c0" text="Transmission characteristics of MERS and SARS in the healthcare setting: a comparative study">
+    <entity charOffset="41-45" id="30b285a628c951e7c2d73848be13204f59b2fa73.c0.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+  <chunk id="30b285a628c951e7c2d73848be13204f59b2fa73.c1" text="Background: The Middle East respiratory syndrome (MERS) coronavirus has caused recurrent outbreaks in the Arabian Peninsula since 2012. Although MERS has low overall human-to-human transmission potential, there is occasional amplification in the healthcare setting, a pattern reminiscent of the dynamics of the severe acute respiratory syndrome (SARS) outbreaks in 2003. Here we provide a head-to-head comparison of exposure patterns and transmission dynamics of large hospital clusters of MERS and SARS, including the most recent South Korean outbreak of MERS in 2015.">
+    <entity charOffset="16-48" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e0" ontology_id="DOID_0080642" text="Middle East respiratory syndrome" type="disease"/>
+    <entity charOffset="40-48" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="311-344" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e2" ontology_id="DOID_2945" text="severe acute respiratory syndrome" type="disease"/>
+    <entity charOffset="336-344" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e3" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="346-350" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e4" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="478-486" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="499-503" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e6" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e0" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p0" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e1" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p1" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e2" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p2" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e3" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p3" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e4" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p4" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e5" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c1.e6" id="30b285a628c951e7c2d73848be13204f59b2fa73.c1.p5" relation="true"/>
+  </chunk>
+  <chunk id="30b285a628c951e7c2d73848be13204f59b2fa73.c2" text="Methods: To assess the unexpected nature of the recent South Korean nosocomial outbreak of MERS and estimate the probability of future large hospital clusters, we compared exposure and transmission patterns for previously reported hospital clusters of MERS and SARS, based on individual-level data and transmission tree information. We carried out simulations of nosocomial outbreaks of MERS and SARS using branching process models rooted in transmission tree data, and inferred the probability and characteristics of large outbreaks.">
+    <entity charOffset="150-158" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e0" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="240-248" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e1" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="261-265" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e2" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="396-400" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e3" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e0" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e2" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.p0" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e0" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e3" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.p1" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e1" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e2" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.p2" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e1" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c2.e3" id="30b285a628c951e7c2d73848be13204f59b2fa73.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="30b285a628c951e7c2d73848be13204f59b2fa73.c3" text="Results: A significant fraction of MERS cases were linked to the healthcare setting, ranging from 43.5 % for the nosocomial outbreak in Jeddah, Saudi Arabia, in 2014 to 100 % for both the outbreak in Al-Hasa, Saudi Arabia, in 2013 and the outbreak in South Korea in 2015. Both MERS and SARS nosocomial outbreaks are characterized by early nosocomial super-spreading events, with the reproduction number dropping below 1 within three to five disease generations. There was a systematic difference in the exposure patterns of MERS and SARS: a majority of MERS cases occurred among patients who sought care in the same facilities as the index case, whereas there was a greater concentration of SARS cases among healthcare workers throughout the outbreak. Exposure patterns differed slightly by disease generation, however, especially for SARS. Moreover, the distributions of secondary cases per single primary case varied highly across individual hospital outbreaks (Kruskal-Wallis test; P &lt; 0.0001), with significantly higher transmission heterogeneity in the distribution of secondary cases for MERS than SARS. Simulations indicate a 2-fold higher probability of occurrence of large outbreaks (&gt;100 cases) for SARS than MERS (2 % versus 1 %); however, owing to higher transmission heterogeneity, the largest outbreaks of MERS are characterized by sharper incidence peaks. The probability of occurrence of MERS outbreaks larger than the South Korean cluster (n = 186) is of the order of 1 %.">
+    <entity charOffset="286-290" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="441-448" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="533-537" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e2" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="691-695" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e3" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="791-798" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="835-839" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e5" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="1104-1108" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e6" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="1209-1213" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e7" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="1448-1455" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" ontology_id="CHEBI_33731" text="cluster" type="chemical"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e0" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p0" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e1" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p1" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e2" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p2" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e3" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p3" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e4" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p4" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e5" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p5" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e6" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p6" relation="true"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e7" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c3.e8" id="30b285a628c951e7c2d73848be13204f59b2fa73.c3.p7" relation="true"/>
+  </chunk>
+  <chunk id="30b285a628c951e7c2d73848be13204f59b2fa73.c4" text="Our study suggests that the South Korean outbreak followed a similar progression to previously described hospital clusters involving coronaviruses, with early super-spreading events generating a disproportionately large number of secondary infections, and the transmission potential diminishing greatly in subsequent generations. Differences in relative exposure patterns and transmission heterogeneity of MERS and SARS could point to changes in hospital practices since 2003 or differences in transmission mechanisms of these coronaviruses.">
+    <entity charOffset="114-122" id="30b285a628c951e7c2d73848be13204f59b2fa73.c4.e0" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="415-419" id="30b285a628c951e7c2d73848be13204f59b2fa73.c4.e1" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <pair e1="30b285a628c951e7c2d73848be13204f59b2fa73.c4.e0" e2="30b285a628c951e7c2d73848be13204f59b2fa73.c4.e1" id="30b285a628c951e7c2d73848be13204f59b2fa73.c4.p0" relation="true"/>
+  </chunk>
+</document>

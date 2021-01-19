@@ -1,0 +1,43 @@
+0|chunk|Outbreak 2019-nCoV (Wuhan virus), a novel Coronavirus: human-to-human transmission, travel-related cases, and vaccine readiness
+
+1|chunk|On 31 December 2019 the Wuhan Health Commission reported a cluster of atypical pneumonia cases that was linked to a wet market in the city of Wuhan, China. The first patients began experiencing symptoms of illness in mid-December 2019. Clinical isolates were found to contain a novel coronavirus with similarity to bat coronaviruses. As of 28 January 2020, there are in excess of 4,500 laboratory-confirmed cases, with > 100 known deaths. As with the SARS-CoV, infections in children appear to be rare. Travel-related cases have been confirmed in multiple countries and regions outside and the United States, as well as Hong Kong and Taiwan. Domestically in China, the virus has also been noted in several cities and provinces with cases in all but one provinence. While zoonotic transmission appears to be the original source of infections, the most alarming development is that humanto-human transmission is now prevelant. Of particular concern is that many healthcare workers have been infected in the current epidemic. There are several critical clinical questions that need to be resolved, including how efficient is human-to-human transmission? What is the animal reservoir? Is there an intermediate animal reservoir? Do the vaccines generated to the SARS-CoV or MERS-CoV or their proteins offer protection against 2019-nCoV? We offer a research perspective on the next steps for the generation of vaccines. We also present data on the use of in silico docking in gaining insight into 2019-nCoV Spike-receptor binding to aid in therapeutic development. Diagnostic PCR protocols can be found at https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus. A novel coronavirus (CoV) has emerged in Wuhan, China (Figure 1 ). This virus causes pneumonia of varying severity and has resulted in a high number of hospitalizations (> 4,500) and at least 105 deaths (casefatality rate (CFR) estimated at 1.5-3%). This virus is currently referred to as 2019-nCoV (also Wuhan virus) and is related to Severe Acute Respiratory Syndrome coronavirus (SARS-CoV), although with only approximately 80% similarity at the nucleotide level. With a seemingly comparable chain of events as the origin of SARS-CoV, the initial infections with 2019-nCoV appears to be linked to contact with animals in wet markets. Even though human-to-human Ralph et al. -2019-nCoV Wuhan and human-to-human transmission J Infect Dev Ctries 2020; 14(1):3-17. Figure S1 . Interaction of RBD residues involved in species specificity and ACE2. The RBD homology models docked to ACE2 are shown with emphasis placed on three residues associated with SARS-CoV species specificity: Leu472, Asn479, and Thr487. ACE2 is shown in grey and ACE2 residues involved with each of the three RBD residues are shown in stick form. The SARS-CoV, WIV1-CoV, and 2019-nCoV RBD homology models are shown in magenta, cyan, and green, respectively. Amino acids involved in ACE2 binding are shown in stick representation in their respective colours. If a SARS-RBD amino acid is mutated in either WIV1-CoV RBD or 2019-nCoV, it is labelled in red. Hydrogen bonds are shown as dashed black lines.
+1	59	66 cluster	Chemical	CHEBI_33731
+1	79	88 pneumonia	Disease	DOID_552
+1	1287	1295 proteins	Chemical	CHEBI_36080
+1	1777	1786 pneumonia	Disease	DOID_552
+1	2028	2061 Severe Acute Respiratory Syndrome	Disease	DOID_2945
+1	2053	2061 Syndrome	Disease	DOID_225
+1	2141	2151 nucleotide	Chemical	CHEBI_36976
+1	2921	2926 Amino	Chemical	CHEBI_46882
+1	2921	2932 Amino acids	Chemical	CHEBI_33704
+1	2927	2932 acids	Chemical	CHEBI_37527
+1	3035	3040 amino	Chemical	CHEBI_46882
+1	3035	3045 amino acid	Chemical	CHEBI_33704
+1	3041	3045 acid	Chemical	CHEBI_37527
+1	3117	3125 Hydrogen	Chemical	CHEBI_18276
+1	3117	3125 Hydrogen	Chemical	CHEBI_49637
+1	CHEBI-DOID	CHEBI_33731	DOID_552
+1	CHEBI-DOID	CHEBI_33731	DOID_2945
+1	CHEBI-DOID	CHEBI_33731	DOID_225
+1	DOID-CHEBI	DOID_552	CHEBI_36080
+1	DOID-CHEBI	DOID_552	CHEBI_36976
+1	DOID-CHEBI	DOID_552	CHEBI_46882
+1	DOID-CHEBI	DOID_552	CHEBI_33704
+1	DOID-CHEBI	DOID_552	CHEBI_37527
+1	DOID-CHEBI	DOID_552	CHEBI_18276
+1	DOID-CHEBI	DOID_552	CHEBI_49637
+1	CHEBI-DOID	CHEBI_36080	DOID_2945
+1	CHEBI-DOID	CHEBI_36080	DOID_225
+1	DOID-CHEBI	DOID_2945	CHEBI_36976
+1	DOID-CHEBI	DOID_2945	CHEBI_46882
+1	DOID-CHEBI	DOID_2945	CHEBI_33704
+1	DOID-CHEBI	DOID_2945	CHEBI_37527
+1	DOID-CHEBI	DOID_2945	CHEBI_18276
+1	DOID-CHEBI	DOID_2945	CHEBI_49637
+1	DOID-CHEBI	DOID_225	CHEBI_36976
+1	DOID-CHEBI	DOID_225	CHEBI_46882
+1	DOID-CHEBI	DOID_225	CHEBI_33704
+1	DOID-CHEBI	DOID_225	CHEBI_37527
+1	DOID-CHEBI	DOID_225	CHEBI_18276
+1	DOID-CHEBI	DOID_225	CHEBI_49637
+

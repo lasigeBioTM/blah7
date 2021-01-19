@@ -1,0 +1,362 @@
+0|chunk|molecules Saponins from Chinese Medicines as Anticancer Agents
+0	0	9 molecules	Chemical	CHEBI_25367
+0	10	18 Saponins	Chemical	CHEBI_26605
+0	45	62 Anticancer Agents	Chemical	CHEBI_35610
+
+1|chunk|Saponins are glycosides with triterpenoid or spirostane aglycones that demonstrate various pharmacological effects against mammalian diseases. To promote the research and development of anticancer agents from saponins, this review focuses on the anticancer properties of several typical naturally derived triterpenoid saponins (ginsenosides and saikosaponins) and steroid saponins (dioscin, polyphyllin, and timosaponin) isolated from Chinese medicines. These saponins exhibit in vitro and in vivo anticancer effects, such as anti-proliferation, anti-metastasis, anti-angiogenesis, anti-multidrug resistance, and autophagy regulation actions. In addition, related signaling pathways and target proteins involved in the anticancer effects of saponins are also summarized in this work. of the saponins ginsenoside, saikosaponin, dioscin, polyphyllin, and timosaponin. This work will hopefully serve as a reference for further development of saponins as anticancer agents.
+1	0	8 Saponins	Chemical	CHEBI_26605
+1	13	23 glycosides	Chemical	CHEBI_24400
+1	29	41 triterpenoid	Chemical	CHEBI_36615
+1	186	203 anticancer agents	Chemical	CHEBI_35610
+1	209	217 saponins	Chemical	CHEBI_26605
+1	305	317 triterpenoid	Chemical	CHEBI_36615
+1	305	326 triterpenoid saponins	Chemical	CHEBI_61778
+1	318	326 saponins	Chemical	CHEBI_26605
+1	328	340 ginsenosides	Chemical	CHEBI_74978
+1	364	371 steroid	Chemical	CHEBI_35341
+1	364	380 steroid saponins	Chemical	CHEBI_61655
+1	372	380 saponins	Chemical	CHEBI_26605
+1	460	468 saponins	Chemical	CHEBI_26605
+1	694	702 proteins	Chemical	CHEBI_36080
+1	741	749 saponins	Chemical	CHEBI_26605
+1	791	799 saponins	Chemical	CHEBI_26605
+1	939	947 saponins	Chemical	CHEBI_26605
+1	951	968 anticancer agents	Chemical	CHEBI_35610
+
+2|chunk|Triterpenoid Saponins
+2	0	12 Triterpenoid	Chemical	CHEBI_36615
+2	0	21 Triterpenoid Saponins	Chemical	CHEBI_61778
+2	13	21 Saponins	Chemical	CHEBI_26605
+
+3|chunk|Ginsenosides are the main active components of Ginseng radix (Renshen in Chinese), which is widespread in northeast China, Korea, and Japan. It has been used in Asian countries for centuries to treat various diseases because of its wide spectrum of pharmacological effects [13] . Additionally, ginsenosides are also found in American ginseng (Xiyangshen in Chinese). More than 100 ginsenosides have been isolated from Ginseng radix and are classified into protopanaxadiol (PPD), protopanaxatriol (PPT), ocotillol, and oleanolic acid types. The main structural difference between the PPD and PPT types is the presence of sugar residues attached to an -OH at C-6 and the absence of -OH at C-3 in the PPT moiety [14] . These compounds have recently received increasing attention due to their anticancer properties. Compared with the PPT-type ginsenosides, the PPD-type ginsenosides exhibit stronger anticancer potentials. Ginsenoside Rg3 ( Figure 1a ) and Rh2 (Figure 1b) are the most well-studied active PPD-type anticancer congeners. Other PPD-type ginsenosides, such as ginsenoside Rb1 [15], Rb2 [16], Rc [17], Rd [18], and Rk1 [19], as well as PPT-type ginsenosides such as Re [20] and Rf [21] have also demonstrated anticancer activities with similar mechanisms as those in ginsenoside Rg3 or Rh2. 2.1.1. Ginsenoside Rg3 Ginsenoside Rg3 demonstrates therapeutic effects in vitro and/or in vivo against various tumors, including leukemia [22], lung cancer [23], esophageal carcinoma [24], gastric cancer [25], colon cancer [26-28], hepatoma [29,30], renal cancer [31], bladder cancer [32], breast cancer [33], ovarian cancer [34], prostate cancer [35,36] and melanoma [37-39]. Moreover, combination therapy of ginsenoside Rg3 with other chemotherapeutic agents has also become the focus of recent research. Ginsenoside Rg3 reinforces the anticancer effects when combined with cyclophosphamide [40-42], capecitabine [43], docetaxel [26,35], gemcitabine [44], cisplatin [32,45], doxorubicin [46], verapamil [47]
+3	0	12 Ginsenosides	Chemical	CHEBI_74978
+3	294	306 ginsenosides	Chemical	CHEBI_74978
+3	381	393 ginsenosides	Chemical	CHEBI_74978
+3	456	471 protopanaxadiol	Chemical	CHEBI_76237
+3	479	495 protopanaxatriol	Chemical	CHEBI_75951
+3	518	532 oleanolic acid	Chemical	CHEBI_37659
+3	528	532 acid	Chemical	CHEBI_37527
+3	583	586 PPD	Chemical	CHEBI_16997
+3	591	594 PPT	Chemical	CHEBI_50305
+3	700	703 PPT	Chemical	CHEBI_50305
+3	841	853 ginsenosides	Chemical	CHEBI_74978
+3	868	880 ginsenosides	Chemical	CHEBI_74978
+3	921	932 Ginsenoside	Chemical	CHEBI_74978
+3	921	936 Ginsenoside Rg3	Chemical	CHEBI_67991
+3	1050	1062 ginsenosides	Chemical	CHEBI_74978
+3	1072	1083 ginsenoside	Chemical	CHEBI_74978
+3	1072	1087 ginsenoside Rb1	Chemical	CHEBI_67989
+3	1156	1168 ginsenosides	Chemical	CHEBI_74978
+3	1278	1289 ginsenoside	Chemical	CHEBI_74978
+3	1278	1293 ginsenoside Rg3	Chemical	CHEBI_67991
+3	1309	1320 Ginsenoside	Chemical	CHEBI_74978
+3	1309	1324 Ginsenoside Rg3	Chemical	CHEBI_67991
+3	1325	1336 Ginsenoside	Chemical	CHEBI_74978
+3	1325	1340 Ginsenoside Rg3	Chemical	CHEBI_67991
+3	1432	1440 leukemia	Disease	DOID_1240
+3	1447	1458 lung cancer	Disease	DOID_1324
+3	1452	1458 cancer	Disease	DOID_162
+3	1465	1485 esophageal carcinoma	Disease	DOID_1107
+3	1476	1485 carcinoma	Disease	DOID_305
+3	1492	1506 gastric cancer	Disease	DOID_10534
+3	1500	1506 cancer	Disease	DOID_162
+3	1513	1525 colon cancer	Disease	DOID_219
+3	1519	1525 cancer	Disease	DOID_162
+3	1535	1543 hepatoma	Disease	DOID_684
+3	1553	1565 renal cancer	Disease	DOID_263
+3	1559	1565 cancer	Disease	DOID_162
+3	1572	1586 bladder cancer	Disease	DOID_11054
+3	1580	1586 cancer	Disease	DOID_162
+3	1593	1606 breast cancer	Disease	DOID_1612
+3	1600	1606 cancer	Disease	DOID_162
+3	1613	1627 ovarian cancer	Disease	DOID_2394
+3	1621	1627 cancer	Disease	DOID_162
+3	1634	1649 prostate cancer	Disease	DOID_10283
+3	1643	1649 cancer	Disease	DOID_162
+3	1662	1670 melanoma	Disease	DOID_1909
+3	1713	1724 ginsenoside	Chemical	CHEBI_74978
+3	1713	1728 ginsenoside Rg3	Chemical	CHEBI_67991
+3	1810	1821 Ginsenoside	Chemical	CHEBI_74978
+3	1810	1825 Ginsenoside Rg3	Chemical	CHEBI_67991
+3	1879	1895 cyclophosphamide	Chemical	CHEBI_4026
+3	1905	1917 capecitabine	Chemical	CHEBI_31348
+3	1924	1933 docetaxel	Chemical	CHEBI_4672
+3	1943	1954 gemcitabine	Chemical	CHEBI_175901
+3	1961	1970 cisplatin	Chemical	CHEBI_27899
+3	1980	1991 doxorubicin	Chemical	CHEBI_28748
+3	1998	2007 verapamil	Chemical	CHEBI_9948
+3	CHEBI-DOID	CHEBI_74978	DOID_1240
+3	CHEBI-DOID	CHEBI_74978	DOID_1324
+3	CHEBI-DOID	CHEBI_74978	DOID_162
+3	CHEBI-DOID	CHEBI_74978	DOID_1107
+3	CHEBI-DOID	CHEBI_74978	DOID_305
+3	CHEBI-DOID	CHEBI_74978	DOID_10534
+3	CHEBI-DOID	CHEBI_74978	DOID_219
+3	CHEBI-DOID	CHEBI_74978	DOID_684
+3	CHEBI-DOID	CHEBI_74978	DOID_263
+3	CHEBI-DOID	CHEBI_74978	DOID_11054
+3	CHEBI-DOID	CHEBI_74978	DOID_1612
+3	CHEBI-DOID	CHEBI_74978	DOID_2394
+3	CHEBI-DOID	CHEBI_74978	DOID_10283
+3	CHEBI-DOID	CHEBI_74978	DOID_1909
+3	CHEBI-DOID	CHEBI_76237	DOID_1240
+3	CHEBI-DOID	CHEBI_76237	DOID_1324
+3	CHEBI-DOID	CHEBI_76237	DOID_162
+3	CHEBI-DOID	CHEBI_76237	DOID_1107
+3	CHEBI-DOID	CHEBI_76237	DOID_305
+3	CHEBI-DOID	CHEBI_76237	DOID_10534
+3	CHEBI-DOID	CHEBI_76237	DOID_219
+3	CHEBI-DOID	CHEBI_76237	DOID_684
+3	CHEBI-DOID	CHEBI_76237	DOID_263
+3	CHEBI-DOID	CHEBI_76237	DOID_11054
+3	CHEBI-DOID	CHEBI_76237	DOID_1612
+3	CHEBI-DOID	CHEBI_76237	DOID_2394
+3	CHEBI-DOID	CHEBI_76237	DOID_10283
+3	CHEBI-DOID	CHEBI_76237	DOID_1909
+3	CHEBI-DOID	CHEBI_75951	DOID_1240
+3	CHEBI-DOID	CHEBI_75951	DOID_1324
+3	CHEBI-DOID	CHEBI_75951	DOID_162
+3	CHEBI-DOID	CHEBI_75951	DOID_1107
+3	CHEBI-DOID	CHEBI_75951	DOID_305
+3	CHEBI-DOID	CHEBI_75951	DOID_10534
+3	CHEBI-DOID	CHEBI_75951	DOID_219
+3	CHEBI-DOID	CHEBI_75951	DOID_684
+3	CHEBI-DOID	CHEBI_75951	DOID_263
+3	CHEBI-DOID	CHEBI_75951	DOID_11054
+3	CHEBI-DOID	CHEBI_75951	DOID_1612
+3	CHEBI-DOID	CHEBI_75951	DOID_2394
+3	CHEBI-DOID	CHEBI_75951	DOID_10283
+3	CHEBI-DOID	CHEBI_75951	DOID_1909
+3	CHEBI-DOID	CHEBI_37659	DOID_1240
+3	CHEBI-DOID	CHEBI_37659	DOID_1324
+3	CHEBI-DOID	CHEBI_37659	DOID_162
+3	CHEBI-DOID	CHEBI_37659	DOID_1107
+3	CHEBI-DOID	CHEBI_37659	DOID_305
+3	CHEBI-DOID	CHEBI_37659	DOID_10534
+3	CHEBI-DOID	CHEBI_37659	DOID_219
+3	CHEBI-DOID	CHEBI_37659	DOID_684
+3	CHEBI-DOID	CHEBI_37659	DOID_263
+3	CHEBI-DOID	CHEBI_37659	DOID_11054
+3	CHEBI-DOID	CHEBI_37659	DOID_1612
+3	CHEBI-DOID	CHEBI_37659	DOID_2394
+3	CHEBI-DOID	CHEBI_37659	DOID_10283
+3	CHEBI-DOID	CHEBI_37659	DOID_1909
+3	CHEBI-DOID	CHEBI_37527	DOID_1240
+3	CHEBI-DOID	CHEBI_37527	DOID_1324
+3	CHEBI-DOID	CHEBI_37527	DOID_162
+3	CHEBI-DOID	CHEBI_37527	DOID_1107
+3	CHEBI-DOID	CHEBI_37527	DOID_305
+3	CHEBI-DOID	CHEBI_37527	DOID_10534
+3	CHEBI-DOID	CHEBI_37527	DOID_219
+3	CHEBI-DOID	CHEBI_37527	DOID_684
+3	CHEBI-DOID	CHEBI_37527	DOID_263
+3	CHEBI-DOID	CHEBI_37527	DOID_11054
+3	CHEBI-DOID	CHEBI_37527	DOID_1612
+3	CHEBI-DOID	CHEBI_37527	DOID_2394
+3	CHEBI-DOID	CHEBI_37527	DOID_10283
+3	CHEBI-DOID	CHEBI_37527	DOID_1909
+3	CHEBI-DOID	CHEBI_16997	DOID_1240
+3	CHEBI-DOID	CHEBI_16997	DOID_1324
+3	CHEBI-DOID	CHEBI_16997	DOID_162
+3	CHEBI-DOID	CHEBI_16997	DOID_1107
+3	CHEBI-DOID	CHEBI_16997	DOID_305
+3	CHEBI-DOID	CHEBI_16997	DOID_10534
+3	CHEBI-DOID	CHEBI_16997	DOID_219
+3	CHEBI-DOID	CHEBI_16997	DOID_684
+3	CHEBI-DOID	CHEBI_16997	DOID_263
+3	CHEBI-DOID	CHEBI_16997	DOID_11054
+3	CHEBI-DOID	CHEBI_16997	DOID_1612
+3	CHEBI-DOID	CHEBI_16997	DOID_2394
+3	CHEBI-DOID	CHEBI_16997	DOID_10283
+3	CHEBI-DOID	CHEBI_16997	DOID_1909
+3	CHEBI-DOID	CHEBI_50305	DOID_1240
+3	CHEBI-DOID	CHEBI_50305	DOID_1324
+3	CHEBI-DOID	CHEBI_50305	DOID_162
+3	CHEBI-DOID	CHEBI_50305	DOID_1107
+3	CHEBI-DOID	CHEBI_50305	DOID_305
+3	CHEBI-DOID	CHEBI_50305	DOID_10534
+3	CHEBI-DOID	CHEBI_50305	DOID_219
+3	CHEBI-DOID	CHEBI_50305	DOID_684
+3	CHEBI-DOID	CHEBI_50305	DOID_263
+3	CHEBI-DOID	CHEBI_50305	DOID_11054
+3	CHEBI-DOID	CHEBI_50305	DOID_1612
+3	CHEBI-DOID	CHEBI_50305	DOID_2394
+3	CHEBI-DOID	CHEBI_50305	DOID_10283
+3	CHEBI-DOID	CHEBI_50305	DOID_1909
+3	CHEBI-DOID	CHEBI_67991	DOID_1240
+3	CHEBI-DOID	CHEBI_67991	DOID_1324
+3	CHEBI-DOID	CHEBI_67991	DOID_162
+3	CHEBI-DOID	CHEBI_67991	DOID_1107
+3	CHEBI-DOID	CHEBI_67991	DOID_305
+3	CHEBI-DOID	CHEBI_67991	DOID_10534
+3	CHEBI-DOID	CHEBI_67991	DOID_219
+3	CHEBI-DOID	CHEBI_67991	DOID_684
+3	CHEBI-DOID	CHEBI_67991	DOID_263
+3	CHEBI-DOID	CHEBI_67991	DOID_11054
+3	CHEBI-DOID	CHEBI_67991	DOID_1612
+3	CHEBI-DOID	CHEBI_67991	DOID_2394
+3	CHEBI-DOID	CHEBI_67991	DOID_10283
+3	CHEBI-DOID	CHEBI_67991	DOID_1909
+3	CHEBI-DOID	CHEBI_67989	DOID_1240
+3	CHEBI-DOID	CHEBI_67989	DOID_1324
+3	CHEBI-DOID	CHEBI_67989	DOID_162
+3	CHEBI-DOID	CHEBI_67989	DOID_1107
+3	CHEBI-DOID	CHEBI_67989	DOID_305
+3	CHEBI-DOID	CHEBI_67989	DOID_10534
+3	CHEBI-DOID	CHEBI_67989	DOID_219
+3	CHEBI-DOID	CHEBI_67989	DOID_684
+3	CHEBI-DOID	CHEBI_67989	DOID_263
+3	CHEBI-DOID	CHEBI_67989	DOID_11054
+3	CHEBI-DOID	CHEBI_67989	DOID_1612
+3	CHEBI-DOID	CHEBI_67989	DOID_2394
+3	CHEBI-DOID	CHEBI_67989	DOID_10283
+3	CHEBI-DOID	CHEBI_67989	DOID_1909
+3	DOID-CHEBI	DOID_1240	CHEBI_4026
+3	DOID-CHEBI	DOID_1240	CHEBI_31348
+3	DOID-CHEBI	DOID_1240	CHEBI_4672
+3	DOID-CHEBI	DOID_1240	CHEBI_175901
+3	DOID-CHEBI	DOID_1240	CHEBI_27899
+3	DOID-CHEBI	DOID_1240	CHEBI_28748
+3	DOID-CHEBI	DOID_1240	CHEBI_9948
+3	DOID-CHEBI	DOID_1324	CHEBI_4026
+3	DOID-CHEBI	DOID_1324	CHEBI_31348
+3	DOID-CHEBI	DOID_1324	CHEBI_4672
+3	DOID-CHEBI	DOID_1324	CHEBI_175901
+3	DOID-CHEBI	DOID_1324	CHEBI_27899
+3	DOID-CHEBI	DOID_1324	CHEBI_28748
+3	DOID-CHEBI	DOID_1324	CHEBI_9948
+3	DOID-CHEBI	DOID_162	CHEBI_4026
+3	DOID-CHEBI	DOID_162	CHEBI_31348
+3	DOID-CHEBI	DOID_162	CHEBI_4672
+3	DOID-CHEBI	DOID_162	CHEBI_175901
+3	DOID-CHEBI	DOID_162	CHEBI_27899
+3	DOID-CHEBI	DOID_162	CHEBI_28748
+3	DOID-CHEBI	DOID_162	CHEBI_9948
+3	DOID-CHEBI	DOID_1107	CHEBI_4026
+3	DOID-CHEBI	DOID_1107	CHEBI_31348
+3	DOID-CHEBI	DOID_1107	CHEBI_4672
+3	DOID-CHEBI	DOID_1107	CHEBI_175901
+3	DOID-CHEBI	DOID_1107	CHEBI_27899
+3	DOID-CHEBI	DOID_1107	CHEBI_28748
+3	DOID-CHEBI	DOID_1107	CHEBI_9948
+3	DOID-CHEBI	DOID_305	CHEBI_4026
+3	DOID-CHEBI	DOID_305	CHEBI_31348
+3	DOID-CHEBI	DOID_305	CHEBI_4672
+3	DOID-CHEBI	DOID_305	CHEBI_175901
+3	DOID-CHEBI	DOID_305	CHEBI_27899
+3	DOID-CHEBI	DOID_305	CHEBI_28748
+3	DOID-CHEBI	DOID_305	CHEBI_9948
+3	DOID-CHEBI	DOID_10534	CHEBI_4026
+3	DOID-CHEBI	DOID_10534	CHEBI_31348
+3	DOID-CHEBI	DOID_10534	CHEBI_4672
+3	DOID-CHEBI	DOID_10534	CHEBI_175901
+3	DOID-CHEBI	DOID_10534	CHEBI_27899
+3	DOID-CHEBI	DOID_10534	CHEBI_28748
+3	DOID-CHEBI	DOID_10534	CHEBI_9948
+3	DOID-CHEBI	DOID_219	CHEBI_4026
+3	DOID-CHEBI	DOID_219	CHEBI_31348
+3	DOID-CHEBI	DOID_219	CHEBI_4672
+3	DOID-CHEBI	DOID_219	CHEBI_175901
+3	DOID-CHEBI	DOID_219	CHEBI_27899
+3	DOID-CHEBI	DOID_219	CHEBI_28748
+3	DOID-CHEBI	DOID_219	CHEBI_9948
+3	DOID-CHEBI	DOID_684	CHEBI_4026
+3	DOID-CHEBI	DOID_684	CHEBI_31348
+3	DOID-CHEBI	DOID_684	CHEBI_4672
+3	DOID-CHEBI	DOID_684	CHEBI_175901
+3	DOID-CHEBI	DOID_684	CHEBI_27899
+3	DOID-CHEBI	DOID_684	CHEBI_28748
+3	DOID-CHEBI	DOID_684	CHEBI_9948
+3	DOID-CHEBI	DOID_263	CHEBI_4026
+3	DOID-CHEBI	DOID_263	CHEBI_31348
+3	DOID-CHEBI	DOID_263	CHEBI_4672
+3	DOID-CHEBI	DOID_263	CHEBI_175901
+3	DOID-CHEBI	DOID_263	CHEBI_27899
+3	DOID-CHEBI	DOID_263	CHEBI_28748
+3	DOID-CHEBI	DOID_263	CHEBI_9948
+3	DOID-CHEBI	DOID_11054	CHEBI_4026
+3	DOID-CHEBI	DOID_11054	CHEBI_31348
+3	DOID-CHEBI	DOID_11054	CHEBI_4672
+3	DOID-CHEBI	DOID_11054	CHEBI_175901
+3	DOID-CHEBI	DOID_11054	CHEBI_27899
+3	DOID-CHEBI	DOID_11054	CHEBI_28748
+3	DOID-CHEBI	DOID_11054	CHEBI_9948
+3	DOID-CHEBI	DOID_1612	CHEBI_4026
+3	DOID-CHEBI	DOID_1612	CHEBI_31348
+3	DOID-CHEBI	DOID_1612	CHEBI_4672
+3	DOID-CHEBI	DOID_1612	CHEBI_175901
+3	DOID-CHEBI	DOID_1612	CHEBI_27899
+3	DOID-CHEBI	DOID_1612	CHEBI_28748
+3	DOID-CHEBI	DOID_1612	CHEBI_9948
+3	DOID-CHEBI	DOID_2394	CHEBI_4026
+3	DOID-CHEBI	DOID_2394	CHEBI_31348
+3	DOID-CHEBI	DOID_2394	CHEBI_4672
+3	DOID-CHEBI	DOID_2394	CHEBI_175901
+3	DOID-CHEBI	DOID_2394	CHEBI_27899
+3	DOID-CHEBI	DOID_2394	CHEBI_28748
+3	DOID-CHEBI	DOID_2394	CHEBI_9948
+3	DOID-CHEBI	DOID_10283	CHEBI_4026
+3	DOID-CHEBI	DOID_10283	CHEBI_31348
+3	DOID-CHEBI	DOID_10283	CHEBI_4672
+3	DOID-CHEBI	DOID_10283	CHEBI_175901
+3	DOID-CHEBI	DOID_10283	CHEBI_27899
+3	DOID-CHEBI	DOID_10283	CHEBI_28748
+3	DOID-CHEBI	DOID_10283	CHEBI_9948
+3	DOID-CHEBI	DOID_1909	CHEBI_4026
+3	DOID-CHEBI	DOID_1909	CHEBI_31348
+3	DOID-CHEBI	DOID_1909	CHEBI_4672
+3	DOID-CHEBI	DOID_1909	CHEBI_175901
+3	DOID-CHEBI	DOID_1909	CHEBI_27899
+3	DOID-CHEBI	DOID_1909	CHEBI_28748
+3	DOID-CHEBI	DOID_1909	CHEBI_9948
+
+4|chunk|, and tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) [48] . Additionally, ginsenoside Rg3 sensitizes cancer cells to -radiation by targeting the nuclear factor-kappa B (NF-B) pathway [49], vascular endothelial growth factor (VEGF), and HIF-1 [34, 50] . In vivo studies have suggested that ginsenoside Rg3 not only reduces tumor growth, but also enhances cellular immunity [51], prolongs the survival time, and improves the quality of life of mice with tumors [41]. Ginsenoside Rg3 treatment affects a broad range of signaling pathways and factors, including downregulation or deactivation of epidermal growth factor receptor (EGFR) [52,53], inactivation of NF-B by reducing phosphorylation of extracellular signal-regulated kinases (ERK) and protein kinase B (AKT) [54], suppression of NF-B/p65 signaling pathway [37], modulation of mitogen-activated protein kinases (MAPK) [36], down-regulation of Wnt/-catenin signaling [27], inhibition of CXC receptor 4 (CXCR4) [55], down-regulation of AQP1 expression through p38 pathway [56], down-regulation of phosphatidylinositol 3-kinase (PI3K)/AKT family proteins and inhibitor of apoptosis protein (IAP) family proteins [22,57], reduction of histone deacetylase 3 expression and enhancement of p53 acetylation [39], inhibition of autophagy [46], suppression of anoikis resistance [58], and suppression of Warburg effect through signal transducer and activator of transcription 3 (STAT3)/HK2 pathway [59]
+4	55	61 ligand	Chemical	CHEBI_52214
+4	91	102 ginsenoside	Chemical	CHEBI_74978
+4	91	106 ginsenoside Rg3	Chemical	CHEBI_67991
+4	118	124 cancer	Disease	DOID_162
+4	194	201 pathway	Chemical	CHEBI_34922
+4	309	320 ginsenoside	Chemical	CHEBI_74978
+4	309	324 ginsenoside Rg3	Chemical	CHEBI_67991
+4	485	496 Ginsenoside	Chemical	CHEBI_74978
+4	485	500 Ginsenoside Rg3	Chemical	CHEBI_67991
+4	763	770 protein	Chemical	CHEBI_16541
+4	827	834 pathway	Chemical	CHEBI_34922
+4	873	880 protein	Chemical	CHEBI_16541
+4	1041	1048 pathway	Chemical	CHEBI_34922
+4	1074	1094 phosphatidylinositol	Chemical	CHEBI_16749
+4	1122	1130 proteins	Chemical	CHEBI_36080
+4	1135	1144 inhibitor	Chemical	CHEBI_35222
+4	1158	1165 protein	Chemical	CHEBI_16541
+4	1179	1187 proteins	Chemical	CHEBI_36080
+4	1210	1217 histone	Chemical	CHEBI_15358
+4	1459	1466 pathway	Chemical	CHEBI_34922
+4	CHEBI-DOID	CHEBI_52214	DOID_162
+4	CHEBI-DOID	CHEBI_74978	DOID_162
+4	CHEBI-DOID	CHEBI_67991	DOID_162
+4	DOID-CHEBI	DOID_162	CHEBI_34922
+4	DOID-CHEBI	DOID_162	CHEBI_16541
+4	DOID-CHEBI	DOID_162	CHEBI_16749
+4	DOID-CHEBI	DOID_162	CHEBI_36080
+4	DOID-CHEBI	DOID_162	CHEBI_35222
+4	DOID-CHEBI	DOID_162	CHEBI_15358
+
+5|chunk|. Furthermore, the anticancer mechanisms of ginsenoside Rg3 is related to the alteration of Bcl-2 family proteins expression, including downregulation of Bcl-2 and Bcl-xL, upregulation or activation of Bax [29, 60] , and activation of caspase cascade [61, 62] . Another study recently found that ginsenoside Rg3 can inhibit the growth and survival of gastric cancer cells via blockade of the activity of transient receptor potential melastatin 7 channel [63], which is essential for cell survival that make it a potential target for gastric cancer treatment. Moreover, ginsenoside Rg3 also exhibits other anticancer properties, such as declination of fucosyltransferase IV
+5	44	55 ginsenoside	Chemical	CHEBI_74978
+5	44	59 ginsenoside Rg3	Chemical	CHEBI_67991
+5	105	113 proteins	Chemical	CHEBI_36080
+5	296	307 ginsenoside	Chemical	CHEBI_74978
+5	296	311 ginsenoside Rg3	Chemical	CHEBI_67991
+5	351	365 gastric cancer	Disease	DOID_10534
+5	359	365 cancer	Disease	DOID_162
+5	533	547 gastric cancer	Disease	DOID_10534
+5	541	547 cancer	Disease	DOID_162
+5	569	580 ginsenoside	Chemical	CHEBI_74978
+5	569	584 ginsenoside Rg3	Chemical	CHEBI_67991
+5	CHEBI-DOID	CHEBI_74978	DOID_10534
+5	CHEBI-DOID	CHEBI_74978	DOID_162
+5	CHEBI-DOID	CHEBI_67991	DOID_10534
+5	CHEBI-DOID	CHEBI_67991	DOID_162
+5	CHEBI-DOID	CHEBI_36080	DOID_10534
+5	CHEBI-DOID	CHEBI_36080	DOID_162
+

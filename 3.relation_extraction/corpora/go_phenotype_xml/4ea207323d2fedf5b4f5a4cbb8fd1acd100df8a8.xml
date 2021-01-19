@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<document id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8">
+  <chunk id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0" text="Mutagenesis of the fusion peptide-like domain of hepatitis C virus E1 glycoprotein: involvement in cell fusion and virus entry">
+    <entity charOffset="49-58" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0.e0" ontology_id="HP_0012115" text="hepatitis" type="phenotype"/>
+    <entity charOffset="99-110" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0.e1" ontology_id="GO_0000747" text="cell fusion" type="gene_function"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0.e1" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1" text="Background: Envelope (E) glycoprotein E2 of the hepatitis C virus (HCV) mediates binding of the virus to target cell receptors. Nevertheless, the precise role of E1 in viral entry remains elusive.">
+    <entity charOffset="12-20" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e0" ontology_id="GO_0031975" text="Envelope" type="gene_function"/>
+    <entity charOffset="48-57" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e1" ontology_id="HP_0012115" text="hepatitis" type="phenotype"/>
+    <entity charOffset="81-88" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e2" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e1" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.p0" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e1" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.e2" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c1.p1" relation="true"/>
+  </chunk>
+  <chunk id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c2" text="To understand the involvement of the fusion peptide-like domain positioned at residues 264 to 290 within envelope glycoprotein E1 in HCV infection, mutants with Ala and Asn substitutions for residues conserved between HCV and E proteins of flaviviruses or the fusion proteins of paramyxoviruses were constructed by site-directed mutagenesis and their effects on membrane fusion and viral infectivity were examined.">
+    <entity charOffset="105-113" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c2.e0" ontology_id="GO_0031975" text="envelope" type="gene_function"/>
+    <entity charOffset="362-370" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c2.e1" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <entity charOffset="362-377" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c2.e2" ontology_id="GO_0061025" text="membrane fusion" type="gene_function"/>
+  </chunk>
+  <chunk id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3" text="Results: None of these mutations affected the synthesis or cell surface expression of envelope proteins, nor did they alter the formation of a non-covalent E1-E2 heterodimer or E2 binding to the large extracellular loop of CD81. The Cys residues located at positions 272 and 281 were unlikely involved in intra-or intermolecular disulfide bond formation. With the exception of the G267A mutant, which showed increased cell fusion, other mutants displayed reduced or marginally inhibited cell fusion capacities compared to the wild-type (WT) E1E2. The G267A mutant was also an exception in human immunodeficiency virus type 1 (HIV-1)/HCV E1E2 pseudotyping analyses, in that it showed higher one-cycle infectivity; all other mutants exhibited greatly or partially reduced viral entry versus the WT pseudotype. All but the G278A and D279N mutants showed a WT-like profile of E1E2 incorporation into HIV-1 particles. Since C272A, C281A, G282A, and G288A pseudotypes bound to Huh7 cells as effectively as did the WT pseudotype, the reduced infectivity of these pseudotypes was due to their ability to inhibit cell fusion.">
+    <entity charOffset="33-41" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="46-55" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e1" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+    <entity charOffset="59-71" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e2" ontology_id="GO_0009986" text="cell surface" type="gene_function"/>
+    <entity charOffset="86-94" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e3" ontology_id="GO_0031975" text="envelope" type="gene_function"/>
+    <entity charOffset="180-187" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e4" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="201-214" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e5" ontology_id="GO_0005576" text="extracellular" type="gene_function"/>
+    <entity charOffset="418-429" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e6" ontology_id="GO_0000747" text="cell fusion" type="gene_function"/>
+    <entity charOffset="487-498" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e7" ontology_id="GO_0000747" text="cell fusion" type="gene_function"/>
+    <entity charOffset="595-611" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" ontology_id="HP_0002721" text="immunodeficiency" type="phenotype"/>
+    <entity charOffset="1104-1115" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e9" ontology_id="GO_0000747" text="cell fusion" type="gene_function"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e1" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p0" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e2" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p1" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e3" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p2" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e4" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p3" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e5" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p4" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e6" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p5" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e7" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p6" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e0" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e9" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p7" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e1" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p8" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e2" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p9" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e3" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p10" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e4" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p11" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e5" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p12" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e6" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p13" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e7" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p14" relation="true"/>
+    <pair e1="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e8" e2="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.e9" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c3.p15" relation="true"/>
+  </chunk>
+  <chunk id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c4" text="Our results indicate that specific residues, but not the structure, of this fusion peptide-like domain are required for mediating cell fusion and viral entry.">
+    <entity charOffset="130-141" id="4ea207323d2fedf5b4f5a4cbb8fd1acd100df8a8.c4.e0" ontology_id="GO_0000747" text="cell fusion" type="gene_function"/>
+  </chunk>
+</document>

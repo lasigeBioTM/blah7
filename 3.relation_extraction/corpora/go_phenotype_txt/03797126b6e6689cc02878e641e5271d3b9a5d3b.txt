@@ -1,0 +1,47 @@
+0|chunk|An anti-Gn glycoprotein antibody from a convalescent patient potently inhibits the infection of severe fever with thrombocytopenia syndrome virus
+0	24	32 antibody	Gene_function	GO_0003823
+0	24	32 antibody	Gene_function	GO_0042571
+0	96	102 severe	Phenotype	HP_0012828
+0	103	108 fever	Phenotype	HP_0001945
+0	114	130 thrombocytopenia	Phenotype	HP_0001873
+0	GO-HP	GO_0003823	HP_0012828
+0	GO-HP	GO_0003823	HP_0001945
+0	GO-HP	GO_0003823	HP_0001873
+0	GO-HP	GO_0042571	HP_0012828
+0	GO-HP	GO_0042571	HP_0001945
+0	GO-HP	GO_0042571	HP_0001873
+
+1|chunk|Severe fever with thrombocytopenia syndrome (SFTS) is an emerging infectious disease localized to China, Japan, and Korea that is characterized by severe hemorrhage and a high fatality rate. Currently, no specific vaccine or treatment has been approved for this disease. To develop a therapeutic agent for SFTS, we isolated antibodies from a phage-displayed antibody library that was constructed from a patient who recovered from SFTS virus (SFTSV) infection. One antibody, designated as Ab10, was reactive to the Gn envelope glycoprotein of SFTSV and protected host cells and A129 mice from infection in both in vitro and in vivo experiments. Notably, Ab10 protected 80% of mice, even when injected 5 days after inoculation with a lethal dose of SFTSV. Using cross-linker assisted mass spectrometry and alanine scanning, we located the non-linear epitope of Ab10 on the Gn glycoprotein domain II and an unstructured stem region, suggesting that Ab10 may inhibit a conformational alteration that is critical for cell membrane fusion between the virus and host cell. Ab10 reacted to recombinant Gn glycoprotein in Gangwon/Korea/2012, HB28, and SD4 strains. Additionally, based on its epitope, we predict that Ab10 binds the Gn glycoprotein in 247 of 272 SFTSV isolates previously reported. Together, these data suggest that Ab10 has potential to be developed into a therapeutic agent that could protect against more than 90% of reported SFTSV isolates.
+1	0	6 Severe	Phenotype	HP_0012828
+1	7	12 fever	Phenotype	HP_0001945
+1	18	34 thrombocytopenia	Phenotype	HP_0001873
+1	85	94 localized	Phenotype	HP_0012838
+1	147	153 severe	Phenotype	HP_0012828
+1	358	366 antibody	Gene_function	GO_0003823
+1	358	366 antibody	Gene_function	GO_0042571
+1	464	472 antibody	Gene_function	GO_0003823
+1	464	472 antibody	Gene_function	GO_0042571
+1	517	525 envelope	Gene_function	GO_0031975
+1	1012	1025 cell membrane	Gene_function	GO_0005886
+1	1017	1025 membrane	Gene_function	GO_0016020
+1	HP-GO	HP_0012828	GO_0003823
+1	HP-GO	HP_0012828	GO_0042571
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0005886
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0001945	GO_0003823
+1	HP-GO	HP_0001945	GO_0042571
+1	HP-GO	HP_0001945	GO_0031975
+1	HP-GO	HP_0001945	GO_0005886
+1	HP-GO	HP_0001945	GO_0016020
+1	HP-GO	HP_0001873	GO_0003823
+1	HP-GO	HP_0001873	GO_0042571
+1	HP-GO	HP_0001873	GO_0031975
+1	HP-GO	HP_0001873	GO_0005886
+1	HP-GO	HP_0001873	GO_0016020
+1	HP-GO	HP_0012838	GO_0003823
+1	HP-GO	HP_0012838	GO_0042571
+1	HP-GO	HP_0012838	GO_0031975
+1	HP-GO	HP_0012838	GO_0005886
+1	HP-GO	HP_0012838	GO_0016020
+

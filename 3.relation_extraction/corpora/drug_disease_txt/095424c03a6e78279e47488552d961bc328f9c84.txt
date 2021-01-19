@@ -1,0 +1,106 @@
+0|chunk|Preclinical evaluation of AT-527, a novel guanosine nucleotide prodrug with potent, pan-genotypic activity against hepatitis C virus
+0	42	51 guanosine	Chemical	CHEBI_16750
+0	52	62 nucleotide	Chemical	CHEBI_36976
+0	63	70 prodrug	Chemical	CHEBI_50266
+0	115	124 hepatitis	Disease	DOID_2237
+0	115	126 hepatitis C	Disease	DOID_1883
+0	CHEBI-DOID	CHEBI_16750	DOID_2237
+0	CHEBI-DOID	CHEBI_16750	DOID_1883
+0	CHEBI-DOID	CHEBI_36976	DOID_2237
+0	CHEBI-DOID	CHEBI_36976	DOID_1883
+0	CHEBI-DOID	CHEBI_50266	DOID_2237
+0	CHEBI-DOID	CHEBI_50266	DOID_1883
+
+1|chunk|Despite the availability of highly effective direct-acting antiviral (DAA) regimens for the treatment of hepatitis C virus (HCV) infections, sustained viral response (SVR) rates remain suboptimal for difficult-to-treat patient populations such as those with HCV genotype 3, cirrhosis or prior treatment experience, warranting development of more potent HCV replication antivirals. AT-527 is the hemi-sulfate salt of AT-511, a novel phosphoramidate prodrug of 2'fluoro-2'-C-methylguanosine-5'-monophosphate that has potent in vitro activity against HCV. The EC 50 of AT-511, determined using HCV laboratory strains and clinical isolates with genotypes 1-5, ranged from 5-28 nM. The active 5'-triphosphate metabolite, AT-9010, specifically inhibited the HCV RNA-dependent RNA polymerase. AT-511 did not inhibit the replication of other selected RNA or DNA viruses in vitro. AT-511 was approximately 10-fold more active than sofosbuvir (SOF) against a panel of laboratory strains and clinical isolates of HCV genotypes 1-5 and remained fully active against S282T resistance-associated variants, with up to 58-fold more potency than SOF. In vitro, AT-511 did not inhibit human DNA polymerases or elicit cytotoxicity or mitochondrial toxicity at concentrations up to 100 M. Unlike the other potent guanosine analogs PSI-938 and PSI-661, no mutagenic O 6 -alkylguanine bases were formed when incubated with cytochrome P450 (CYP) 3A4, and AT-511 had IC 50 values 25 M against a panel of CYP enzymes. In hepatocytes from multiple species, the active triphosphate was the predominant metabolite produced from the prodrug, with a half-life of 10 h in human hepatocytes. When given orally to rats and monkeys, AT-527 preferentially delivered high levels of AT-9010 in the liver in vivo. These favorable preclinical attributes support the ongoing clinical development of AT-527 and suggest that, when used in combination with an HCV DAA from a different class, AT-527 may increase SVR rates, especially for difficult-to-treat patient populations, and could potentially shorten treatment duration for all patients.
+1	59	68 antiviral	Chemical	CHEBI_22587
+1	105	114 hepatitis	Disease	DOID_2237
+1	105	116 hepatitis C	Disease	DOID_1883
+1	274	283 cirrhosis	Disease	DOID_5082
+1	408	412 salt	Chemical	CHEBI_24866
+1	432	447 phosphoramidate	Chemical	CHEBI_29920
+1	448	455 prodrug	Chemical	CHEBI_50266
+1	704	714 metabolite	Chemical	CHEBI_25212
+1	770	773 RNA	Chemical	CHEBI_33697
+1	843	846 RNA	Chemical	CHEBI_33697
+1	850	853 DNA	Chemical	CHEBI_16991
+1	922	932 sofosbuvir	Chemical	CHEBI_85083
+1	1173	1176 DNA	Chemical	CHEBI_16991
+1	1294	1303 guanosine	Chemical	CHEBI_16750
+1	1364	1369 bases	Chemical	CHEBI_22695
+1	1402	1412 cytochrome	Chemical	CHEBI_4056
+1	1402	1417 cytochrome P450	Chemical	CHEBI_38559
+1	1419	1422 CYP	Chemical	CHEBI_38559
+1	1483	1486 CYP	Chemical	CHEBI_38559
+1	1545	1557 triphosphate	Chemical	CHEBI_18036
+1	1578	1588 metabolite	Chemical	CHEBI_25212
+1	1607	1614 prodrug	Chemical	CHEBI_50266
+1	CHEBI-DOID	CHEBI_22587	DOID_2237
+1	CHEBI-DOID	CHEBI_22587	DOID_1883
+1	CHEBI-DOID	CHEBI_22587	DOID_5082
+1	DOID-CHEBI	DOID_2237	CHEBI_24866
+1	DOID-CHEBI	DOID_2237	CHEBI_29920
+1	DOID-CHEBI	DOID_2237	CHEBI_50266
+1	DOID-CHEBI	DOID_2237	CHEBI_25212
+1	DOID-CHEBI	DOID_2237	CHEBI_33697
+1	DOID-CHEBI	DOID_2237	CHEBI_16991
+1	DOID-CHEBI	DOID_2237	CHEBI_85083
+1	DOID-CHEBI	DOID_2237	CHEBI_16750
+1	DOID-CHEBI	DOID_2237	CHEBI_22695
+1	DOID-CHEBI	DOID_2237	CHEBI_4056
+1	DOID-CHEBI	DOID_2237	CHEBI_38559
+1	DOID-CHEBI	DOID_2237	CHEBI_18036
+1	DOID-CHEBI	DOID_1883	CHEBI_24866
+1	DOID-CHEBI	DOID_1883	CHEBI_29920
+1	DOID-CHEBI	DOID_1883	CHEBI_50266
+1	DOID-CHEBI	DOID_1883	CHEBI_25212
+1	DOID-CHEBI	DOID_1883	CHEBI_33697
+1	DOID-CHEBI	DOID_1883	CHEBI_16991
+1	DOID-CHEBI	DOID_1883	CHEBI_85083
+1	DOID-CHEBI	DOID_1883	CHEBI_16750
+1	DOID-CHEBI	DOID_1883	CHEBI_22695
+1	DOID-CHEBI	DOID_1883	CHEBI_4056
+1	DOID-CHEBI	DOID_1883	CHEBI_38559
+1	DOID-CHEBI	DOID_1883	CHEBI_18036
+1	DOID-CHEBI	DOID_5082	CHEBI_24866
+1	DOID-CHEBI	DOID_5082	CHEBI_29920
+1	DOID-CHEBI	DOID_5082	CHEBI_50266
+1	DOID-CHEBI	DOID_5082	CHEBI_25212
+1	DOID-CHEBI	DOID_5082	CHEBI_33697
+1	DOID-CHEBI	DOID_5082	CHEBI_16991
+1	DOID-CHEBI	DOID_5082	CHEBI_85083
+1	DOID-CHEBI	DOID_5082	CHEBI_16750
+1	DOID-CHEBI	DOID_5082	CHEBI_22695
+1	DOID-CHEBI	DOID_5082	CHEBI_4056
+1	DOID-CHEBI	DOID_5082	CHEBI_38559
+1	DOID-CHEBI	DOID_5082	CHEBI_18036
+
+2|chunk|Potency and selectivity of the novel guanosine nucleotide prodrug, AT-527, against hepatitis C virus PLOS ONE | https://doi.org/10.1371/journal.pone.0227104 January 8, 2020 3 / 25
+2	37	46 guanosine	Chemical	CHEBI_16750
+2	47	57 nucleotide	Chemical	CHEBI_36976
+2	83	92 hepatitis	Disease	DOID_2237
+2	83	94 hepatitis C	Disease	DOID_1883
+2	106	109 ONE	Chemical	CHEBI_58972
+2	CHEBI-DOID	CHEBI_16750	DOID_2237
+2	CHEBI-DOID	CHEBI_16750	DOID_1883
+2	CHEBI-DOID	CHEBI_36976	DOID_2237
+2	CHEBI-DOID	CHEBI_36976	DOID_1883
+2	DOID-CHEBI	DOID_2237	CHEBI_58972
+2	DOID-CHEBI	DOID_1883	CHEBI_58972
+
+3|chunk|Putative metabolic pathway for AT-527. When dissolved, AT-527 releases its free base AT-511. Sequential hydrolysis, catalyzed by human cathepsin A (CatA) and/or carboxylesterase 1 (CES1) followed by spontaneous cleavage of the then unstable phenolic moiety, produces the L-alanyl intermediate (M1). Removal of the amino acid moiety by histidine triad nucleotide-binding protein 1 (HINT1) results in metabolite M2 which can then be converted to M3 by adenosine deaminase like protein 1 (ADALP1). M3 is further anabolized sequentially by guanylate kinase 1 (GUK1) and nucleoside diphosphate kinase (NDPK) to the pharmacologically active triphosphate, AT-9010. Both M2 and M3 can be dephosphorylated by 5'-nucleotidase (5'-NTase) to their respective nucleosides M4 and AT-273.
+3	19	26 pathway	Chemical	CHEBI_34922
+3	271	279 L-alanyl	Chemical	CHEBI_32433
+3	314	319 amino	Chemical	CHEBI_46882
+3	314	324 amino acid	Chemical	CHEBI_33704
+3	320	324 acid	Chemical	CHEBI_37527
+3	335	344 histidine	Chemical	CHEBI_15971
+3	335	344 histidine	Chemical	CHEBI_27570
+3	370	377 protein	Chemical	CHEBI_16541
+3	399	409 metabolite	Chemical	CHEBI_25212
+3	450	459 adenosine	Chemical	CHEBI_16335
+3	475	482 protein	Chemical	CHEBI_16541
+3	566	576 nucleoside	Chemical	CHEBI_33838
+3	566	588 nucleoside diphosphate	Chemical	CHEBI_16862
+3	577	588 diphosphate	Chemical	CHEBI_18361
+3	747	758 nucleosides	Chemical	CHEBI_33838
+

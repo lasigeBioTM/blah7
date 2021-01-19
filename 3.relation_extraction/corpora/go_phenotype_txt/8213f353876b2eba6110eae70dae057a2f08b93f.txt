@@ -1,0 +1,45 @@
+0|chunk|Long noncoding RNAs (lncRNAs) dynamics evidence immunomodulation during ISAV- Infected Atlantic salmon (Salmo salar) OPEN
+
+1|chunk|Despite evidence for participation in the host response to infection, the roles of many long non-coding RNAs (lncRNAs) remain unknown. Therefore, the aims of this study were to identify lncRNAs in Atlantic salmon (Salmo salar) and evaluate their transcriptomic regulation during ISA virus (ISAV) infection, an Orthomyxoviridae virus associated with high mortalities in salmonid aquaculture. Using next-generation sequencing, whole-transcriptome analysis of the Salmo salar response to ISAV infection was performed, identifying 5,636 putative lncRNAs with a mean length of 695 base pairs. The transcriptional modulation evidenced a similar number of differentially expressed lncRNAs in the gills (3,294), head-kidney (3,275), and liver (3,325) over the course of the infection. Moreover, analysis of a subset of these lncRNAs showed the following: (i) Most were similarly regulated in response to ISA virus infection; (ii) The transcript subsets were uniquely modulated in each tissue (gills, liver, and head-kidney); and (iii) A subset of lncRNAs were upregulated for each tissue and time analysed, indicating potential markers for ISAV infection. These findings represent the first discovery of widespread differential expression of lncRNAs in response to virus infection in non-model species, suggesting that lncRNAs could be involved in regulating the host response during ISAV infection.
+
+2|chunk|Large-scale transcriptomic studies have led to surprising discoveries, including that <10% of the mammalian genome is dedicated to protein coding and that the genome contains a vast amount of non-protein coding transcripts, which has resulted in debate about the role of non-coding RNAs (ncRNAs) in cell biology 1,2 . In contrast to protein coding genes, it is possible that the non-coding portion of the genome is related to organism complexity and crucial regulatory processes 3,4 . Traditionally, the regulatory functions of RNA were thought limited to roles as ribosomal, messenger, and transfer RNAs. However, ncRNAs have been classified as housekeeping RNAs, microRNAs, small interfering RNAs, PIWI-interacting RNAs, small ncRNAs (< 200 nucleotides [nt] in length), and long ncRNAs (lncRNAs, > 200 nt in length) 5 .
+
+3|chunk|Specifically, lncRNAs are endogenous cellular RNAs that are mRNA-like in length but with an absent or reduced coding potential (open reading frames (ORF) > 30 amino acids). These RNAs include tens of thousands of polyadenylated and non-polyadenylated lncRNAs that are anti-sense, intronic, intergenic, and that overlap with protein coding loci 5 . Once thought to be transcriptional noise, lncRNAs have been shown to regulate a variety of biological processes. While the complex paradigm of RNA-based gene regulation is slowly being revealed, there is a growing body of evidence for a central role of lncRNAs in controlling gene regulation 6,7 . A recent review estimated that the total number of lncRNAs is likely ~20,000 transcripts, but, to date, only ~200 lncRNAs have been characterized 8 .
+3	585	592 central	Phenotype	HP_0030645
+
+4|chunk|Among the most well studied lncRNAs, Xist and Air epigenetically silence transcription by targeting chromatin-modifying complexes of particular genes in trans and cis isomers, respectively 9,10 . Other lncRNAs act at the post-transcriptional level. These include H19, which is the precursor of miR-675, a moderator of cell growth 11 ; and MALAT1, which forms a molecular scaffold for several proteins present in nuclear speckles and which regulates pre-mRNA alternative splicing 12 .
+4	318	329 cell growth	Gene_function	GO_0016049
+4	323	329 growth	Gene_function	GO_0040007
+4	412	428 nuclear speckles	Gene_function	GO_0016607
+
+5|chunk|Although infection and disease are major driving forces of survival and, consequently, adaptation, the potential roles of lncRNAs during the defense response remain unknown. Since the functions of lncRNAs are highly pleiotropic, ranging from gene regulation and small ncRNA precursor development 13 to cell development and cancer growth 14,15 , lncRNAs are very likely involved in virus infection. Early studies of the relationship between ncRNAs and viruses mainly focus on micro RNAs 16,17 , while the roles of lncRNAs are not well studied. However, there is emerging evidence that cellular lncRNA expression can be regulated by virus infection.
+5	141	157 defense response	Gene_function	GO_0006952
+5	302	318 cell development	Gene_function	GO_0048468
+5	323	329 cancer	Phenotype	HP_0002664
+5	330	336 growth	Gene_function	GO_0040007
+5	GO-HP	GO_0006952	HP_0002664
+5	GO-HP	GO_0048468	HP_0002664
+5	HP-GO	HP_0002664	GO_0040007
+
+6|chunk|Differentiated lncRNA expression occurs in response to viral infection 18, 19 . Specifically, transcriptome-wide deep sequencing revealed the differential expression of more than a thousand potential lncRNAs during severe acute respiratory syndrome coronavirus (SARS-CoV) infection in mice 20 , and several of these lncRNAs are similarly regulated during Influenza A Virus (IAV) infection 21 . Moreover, most lncRNAs show comparative regulatory responses between SARS-CoV and Orthomyxoviridae infections, but lncRNAs have kinetic type I interferon receptor and STAT1 expression profiles that are distinct to each infection 22 . These findings suggest a widespread differential expression of lncRNAs in response to virus infection, in addition to the involvement of lncRNAs in regulating the defense response.
+6	55	70 viral infection	Gene_function	GO_0016032
+6	215	221 severe	Phenotype	HP_0012828
+6	222	227 acute	Phenotype	HP_0011009
+6	GO-HP	GO_0016032	HP_0012828
+6	GO-HP	GO_0016032	HP_0011009
+
+7|chunk|Infectious salmon anemia (ISA) is a significant disease affecting farmed Atlantic salmon (Salmo salar L.). This disease, listed by the World Organization for Animal Health, is caused by a negative sense, segmented, single-stranded RNA virus of the Orthomyxoviridae family 23 . This virus family historically consists of five genera (Influenza virus A, B, and C; Isavirus; and Thogotovirus) that differ in their host ranges and transmission routes 24 . Like other Orthomyxoviridae, ISAV mRNAs have capped, heterogeneous 5 -ends, and, due to a need for capped host nuclear RNAs as primers for mRNA synthesis, synthesis is inhibited by amanitin, a specific inhibitor of cellular RNA polymerase II 25 . The outcome of ISAV infection is determined by a complex interaction between the virus and host, which have been characterized by three, ordered waves of gene expression that produce immediate-early, delayed-early, and late responses, as well as replication of the viral genome 26,27 . However, the molecular mechanisms and transcriptional dynamics behind the host response to ISA infection are still unknown. Next-generation sequencing technologies facilitate rapid and cost-effective deep transcriptome studies in non-model species. Despite expanded data, surprisingly little remains known about how lncRNAs function, how many different types of lncRNAs exist, or even if most lncRNAs are biologically significant.
+7	18	24 anemia	Phenotype	HP_0001903
+7	505	518 heterogeneous	Phenotype	HP_0001425
+7	597	606 synthesis	Gene_function	GO_0009058
+7	608	617 synthesis	Gene_function	GO_0009058
+7	854	869 gene expression	Gene_function	GO_0010467
+7	HP-GO	HP_0001903	GO_0009058
+7	HP-GO	HP_0001903	GO_0010467
+7	HP-GO	HP_0001425	GO_0009058
+7	HP-GO	HP_0001425	GO_0010467
+
+8|chunk|In the present study, we hypothesized that ISAV could regulate the expression of lncRNAs in infected fish, thus regulating the antiviral response. To evaluate this, the transcriptomic responses of the gills, liver, and head-kidney of Atlantic salmon infected with the highly virulent HPR7b-ISAV strain were determined through whole RNA-Seq profiling. The results showed a widespread differentiation of lncRNAs in response to ISAV infection, suggesting that these transcripts are involved in regulating the host response to the virus. Moreover, lncRNAs accounted for approximately 5% of all expressed contig during infection. The results of this study contribute to a better understanding of ISAV pathogenesis and the interplay of lncRNAs with the immune response in Atlantic salmon.
+8	696	708 pathogenesis	Gene_function	GO_0009405
+8	747	762 immune response	Gene_function	GO_0006955
+

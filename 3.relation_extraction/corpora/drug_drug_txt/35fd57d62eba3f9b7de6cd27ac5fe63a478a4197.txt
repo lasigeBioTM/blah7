@@ -1,0 +1,32 @@
+0|chunk|The N-Terminal Domain of Spike Protein Is Not the Enteric Tropism Determinant for Transmissible Gastroenteritis Virus in Piglets
+0	31	38 Protein	Chemical	CHEBI_16541
+
+1|chunk|Transmissible gastroenteritis virus (TGEV) is the etiologic agent of transmissible gastroenteritis in pigs, and the N-terminal domain of TGEV spike protein is generally recognized as both the virulence determinant and enteric tropism determinant. Here, we assembled a full-length infectious cDNA clone of TGEV in a bacterial artificial chromosome. Using a novel approach, the clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associated protein 9 (Cas9) systems efficiently and rapidly rescued another recombinant virus with a 224-amino-acid deletion in the N-terminal domain of the TGEV Spike gene (S_NTD224), which is analogous to the N-terminal domain of porcine respiratory coronavirus. S_NTD224 notably affected the TGEV growth kinetics in PK-15 cells but was not essential for recombinant virus survival. In animal experiments with 13 two-day-old piglets, the TGEV recombinant viruses with/without S_NTD224 deletion induced obvious clinical signs and mortality. Together, our results directly demonstrated that S_NTD224 of TGEV mildly influenced TGEV virulence but was not the enteric tropism determinant and provide new insights for the development of a new attenuated vaccine against TGEV. Importantly, the optimized reverse genetics platform used in this study will simplify the construction of mutant infectious clones and help accelerate progress in coronavirus research.
+1	148	155 protein	Chemical	CHEBI_16541
+1	460	467 protein	Chemical	CHEBI_16541
+
+2|chunk|(ORFs), which encode polyprotein 1a (pp1a), polyprotein 1ab (pp1ab), spike (S) glycoprotein, envelope (E) protein, matrix (M) protein, and nucleoprotein (N) [10, 11] .
+
+3|chunk|Transmissible gastroenteritis virus (TGEV), one of the representative CoVs of the Alphacoronavirus genus, is the etiologic agent of transmissible gastroenteritis (TGE) in pigs [12] . TGEV is widespread in the pork industry, causes high mortality in neonatal pigs, and is generally thought to share a common ancestor with porcine respiratory coronavirus (PRCV) [13] . Both TGEV and PRCV have a common cell receptor, aminopeptidase N (APN), but a coreceptor (Neu5Gc) of TGEV is recognized to confer enteric tropism to TGEV [14] [15] [16] [17] . In addition, TGEV always causes severe diarrhea, whereas PRCV usually causes mild or no clinical signs [18] . Compared with TGEV Spike gene, large deletions (200-230 aa) were found in the N-terminal domain of PRCV Spike gene [19] . The N-terminal domain of the S-glycoprotein is considered to be responsible for the different clinical signs of TGEV and PRCV and is generally recognized as not only the virulence determinant but also an enteric tropism determinant [13, 20] . Previous research has shown that PRCVs are likely derived from an N-terminal amino-acid deletion of the TGEV Spike protein [15, 21] , but direct evidence obtained from reverse genetics is still needed to confirm this hypothesis.
+3	457	463 Neu5Gc	Chemical	CHEBI_62084
+3	1133	1140 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_62084	CHEBI_16541
+
+4|chunk|Since the first successful construction of TGEV infectious clones, the various reverse genetic systems that have been developed have made a considerable contribution to CoV research, particularly research in MERS, SARS, TGEV, and PEDV [22] [23] [24] [25] [26] [27] . Among the various reverse genetics methods for CoVs, transfection of the full-length infectious cDNA clone and cotransfection of the full-length RNA and N gene transcripts are the most commonly adopted methods for the rescue of recombinant viruses [25, 26, [28] [29] [30] . However, these methods usually require the manipulation of several cDNA fragments or plasmids for the construction of a new mutant CoV [31] . Although targeted RNA recombination or the Red-mediated recombination strategy might partly accelerate or simplify the process of constructing an infectious recombinant virus, the selection of the correct positive clone is also a time-consuming process [32] [33] [34] [35] . In fact, the limitations of the various currently available traditional reverse genetics methods for CoV genome manipulation, such as ligation with several cDNA fragments in vitro, targeted RNA recombination, division of toxic gene sequence propagation in bacteria, or recombinant vaccinia virus vectors, have severely hampered the speed and efficiency of developing CoV reverse genetics techniques [23, [36] [37] [38] .
+4	412	415 RNA	Chemical	CHEBI_33697
+4	701	704 RNA	Chemical	CHEBI_33697
+4	1148	1151 RNA	Chemical	CHEBI_33697
+
+5|chunk|CRISPR/Cas systems, which constitute a recent new gene editing technology developed from the RNA-mediated adaptive defense systems evolved by bacteria and archaea, have been applied to a wide variety of organisms for the in vivo editing of large genomes [39] [40] [41] . Furthermore, some studies have investigated the in vitro editing of DNA fragments or plasmids [42] [43] [44] . In general, the CRISPR/Cas system from Streptococcus pyogenes, namely, the SpyCas9 protein with a mature single-guide RNA (sgRNA), is used for in vitro DNA cleavage [42] . However, the in vitro editing of RNA virus genomes, particularly viruses with large RNA genomes, such as CoVs, using this method has not been reported.
+5	339	342 DNA	Chemical	CHEBI_16991
+5	465	472 protein	Chemical	CHEBI_16541
+5	500	503 RNA	Chemical	CHEBI_33697
+5	534	537 DNA	Chemical	CHEBI_16991
+5	587	590 RNA	Chemical	CHEBI_33697
+5	638	641 RNA	Chemical	CHEBI_33697
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_16991	CHEBI_33697
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+
+6|chunk|In this study, we successfully constructed a TGEV infectious clone and utilized the molecular scissors of the CRISPR/Cas9 system to rescue another TGEV mutant with S_NTD224 deletion [45] . Through animal experiments involving challenge with two types of rescued recombinant TGEV viruses, we elucidated that TGEV S_NTD224 was not the determinant in viral enteric tropism and pathogenesis.
+

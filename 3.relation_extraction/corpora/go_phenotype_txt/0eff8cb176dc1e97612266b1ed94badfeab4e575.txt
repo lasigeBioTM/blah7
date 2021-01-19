@@ -1,0 +1,33 @@
+0|chunk|Type I Interferon Receptor Deficiency in Dendritic Cells Facilitates Systemic Murine Norovirus Persistence Despite Enhanced Adaptive Immunity
+
+1|chunk|In order for a virus to persist, there must be a balance between viral replication and immune clearance. It is commonly believed that adaptive immunity drives clearance of viral infections and, thus, dysfunction or viral evasion of adaptive immunity is required for a virus to persist. Type I interferons (IFNs) play pleiotropic roles in the antiviral response, including through innate control of viral replication. Murine norovirus (MNoV) replicates in dendritic cells (DCs) and type I IFN signaling in DCs is important for early control of MNoV replication. We show here that the non-persistent MNoV strain CW3 persists systemically when CD11c positive DCs are unable to respond to type I IFN. Persistence in this setting is associated with increased early viral titers, maintenance of DC numbers, increased expression of DC activation markers and an increase in CD8 T cell and antibody responses. Furthermore, CD8 T cell function is maintained during the persistent phase of infection and adaptive immune cells from persistently infected mice are functional when transferred to Rag1 -/recipients. Finally, increased early replication and persistence are also observed in mixed bone marrow chimeras where only half of the CD11c positive DCs are unable to respond to type I IFN. These findings demonstrate that increased early viral replication due to a cellintrinsic innate immune deficiency is sufficient for persistence and a functional adaptive immune response is not sufficient for viral clearance.
+1	492	501 signaling	Gene_function	GO_0023052
+1	881	889 antibody	Gene_function	GO_0003823
+1	881	889 antibody	Gene_function	GO_0042571
+1	1377	1394 immune deficiency	Phenotype	HP_0002721
+1	1442	1466 adaptive immune response	Gene_function	GO_0002250
+1	1451	1466 immune response	Gene_function	GO_0006955
+1	GO-HP	GO_0023052	HP_0002721
+1	GO-HP	GO_0003823	HP_0002721
+1	GO-HP	GO_0042571	HP_0002721
+1	HP-GO	HP_0002721	GO_0002250
+1	HP-GO	HP_0002721	GO_0006955
+
+2|chunk|In vertebrates, innate immunity provides early control of viral infection and initiates adaptive immunity. It is generally thought that a virus must either avoid or evade an adaptive immune response to persist within a vertebrate host. The role of innate immunity in preventing viral persistence, apart from its role in initiating an adaptive response, is not completely understood. Type I interferon (IFN) is a cytokine with pleiotropic roles in the antiviral response, including innate control of viral replication. Murine norovirus (MNoV) replicates in cells of the innate immune system, including dendritic cells (DCs), and IFN signaling in DCs is important for early control of MNoV replication. We found here that MNoV persists when DCs are unable to respond to type I IFN. MNoV persistence is correlated with increased adaptive immune responses, likely reflective of increased early viral replication. MNoV also persists in chimeric mice with a 50% mix of wildtype and type I IFN receptor deficient DCs, consistent with a cell-intrinsic role for IFN responses in preventing MNoV persistence. These findings demonstrate that an innate immune deficiency can result in viral persistence apart from its role in generating an adaptive immune response.
+2	16	31 innate immunity	Gene_function	GO_0045087
+2	58	73 viral infection	Gene_function	GO_0016032
+2	174	198 adaptive immune response	Gene_function	GO_0002250
+2	183	198 immune response	Gene_function	GO_0006955
+2	248	263 innate immunity	Gene_function	GO_0045087
+2	632	641 signaling	Gene_function	GO_0023052
+2	1141	1158 immune deficiency	Phenotype	HP_0002721
+2	1228	1252 adaptive immune response	Gene_function	GO_0002250
+2	1237	1252 immune response	Gene_function	GO_0006955
+2	GO-HP	GO_0045087	HP_0002721
+2	GO-HP	GO_0016032	HP_0002721
+2	GO-HP	GO_0002250	HP_0002721
+2	GO-HP	GO_0006955	HP_0002721
+2	GO-HP	GO_0023052	HP_0002721
+
+3|chunk|Interferon Response in CD11c Positive Cells Determines Persistent Infection PLOS Pathogens |
+

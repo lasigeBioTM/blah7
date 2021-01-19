@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d">
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c0" text="Supporting Information S1. The EBCM approach"/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c1" text="Table S1: Definitions Variable/Parameter Definition β Infection rate or infection probability. γ Recovery rate. t r Recovery time."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c2" text="T Transmissibility."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c3" text="θ t Probability that a neighbor of a root node has not transmitted yet the disease to the root node at time t."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c4" text="Φ S (t) Probability that a neighbor of a root node is susceptible at time t."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c5" text="Φ I (t) Probability that an infected neighbor of a root node has not transmitted the disease to the root node at time t."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c6" text="Φ R (t) Probability that a neighbor is recovered at time t without having transmitted the disease to the root node."/>
+  <chunk id="7a97d30ce4a24ab47740cf3bbddf7cacd554e84d.c7" text="In the EBCM approach, θ t is the probability that a root node has not being infected by a neighbor at time t. This is possible if the neighbor is susceptible, recovered, or infected but has not transmitted the disease yet to the root, which happens with probabilities Φ S (t), Φ R (t) and Φ I (t), respectively. Then, θ t = Φ S (t) + Φ I (t) + Φ R (t). The probability that a root node of connectivity k is susceptible is θ k and the fraction of susceptible nodes is S(t) = k P (k)θ k t = G 0 (θ t ). On the other hand, a neighbor is susceptible with 1"/>
+</document>

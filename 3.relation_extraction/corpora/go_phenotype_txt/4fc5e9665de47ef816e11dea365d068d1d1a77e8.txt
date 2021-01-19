@@ -1,0 +1,40 @@
+0|chunk|Severe Acute Respiratory Syndrome Coronavirus Envelope Protein Ion Channel Activity Promotes Virus Fitness and Pathogenesis
+0	0	6 Severe	Phenotype	HP_0012828
+0	7	12 Acute	Phenotype	HP_0011009
+0	46	54 Envelope	Gene_function	GO_0031975
+0	63	83 Ion Channel Activity	Gene_function	GO_0005216
+0	67	83 Channel Activity	Gene_function	GO_0015267
+0	111	123 Pathogenesis	Gene_function	GO_0009405
+0	HP-GO	HP_0012828	GO_0031975
+0	HP-GO	HP_0012828	GO_0005216
+0	HP-GO	HP_0012828	GO_0015267
+0	HP-GO	HP_0012828	GO_0009405
+0	HP-GO	HP_0011009	GO_0031975
+0	HP-GO	HP_0011009	GO_0005216
+0	HP-GO	HP_0011009	GO_0015267
+0	HP-GO	HP_0011009	GO_0009405
+
+1|chunk|Deletion of Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) envelope (E) gene attenuates the virus. E gene encodes a small multifunctional protein that possesses ion channel (IC) activity, an important function in virus-host interaction. To test the contribution of E protein IC activity in virus pathogenesis, two recombinant mouse-adapted SARS-CoVs, each containing one single amino acid mutation that suppressed ion conductivity, were engineered. After serial infections, mutant viruses, in general, incorporated compensatory mutations within E gene that rendered active ion channels. Furthermore, IC activity conferred better fitness in competition assays, suggesting that ion conductivity represents an advantage for the virus. Interestingly, mice infected with viruses displaying E protein IC activity, either with the wild-type E protein sequence or with the revertants that restored ion transport, rapidly lost weight and died. In contrast, mice infected with mutants lacking IC activity, which did not incorporate mutations within E gene during the experiment, recovered from disease and most survived. Knocking down E protein IC activity did not significantly affect virus growth in infected mice but decreased edema accumulation, the major determinant of acute respiratory distress syndrome (ARDS) leading to death. Reduced edema correlated with lung epithelia integrity and proper localization of Na + /K + ATPase, which participates in edema resolution. Levels of inflammasome-activated IL-1b were reduced in the lung airways of the animals infected with viruses lacking E protein IC activity, indicating that E protein IC function is required for inflammasome activation. Reduction of IL-1b was accompanied by diminished amounts of TNF and IL-6 in the absence of E protein ion conductivity. All these key cytokines promote the progression of lung damage and ARDS pathology. In conclusion, E protein IC activity represents a new determinant for SARS-CoV virulence.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 Acute	Phenotype	HP_0011009
+1	69	77 envelope	Gene_function	GO_0031975
+1	1192	1198 growth	Gene_function	GO_0040007
+1	1230	1235 edema	Phenotype	HP_0000969
+1	1275	1280 acute	Phenotype	HP_0011009
+1	1281	1301 respiratory distress	Phenotype	HP_0002098
+1	1344	1349 edema	Phenotype	HP_0000969
+1	1402	1414 localization	Gene_function	GO_0051179
+1	1458	1463 edema	Phenotype	HP_0000969
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0040007
+1	HP-GO	HP_0012828	GO_0051179
+1	HP-GO	HP_0011009	GO_0031975
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0051179
+1	GO-HP	GO_0031975	HP_0000969
+1	GO-HP	GO_0031975	HP_0002098
+1	GO-HP	GO_0040007	HP_0000969
+1	GO-HP	GO_0040007	HP_0002098
+1	HP-GO	HP_0000969	GO_0051179
+1	HP-GO	HP_0002098	GO_0051179
+

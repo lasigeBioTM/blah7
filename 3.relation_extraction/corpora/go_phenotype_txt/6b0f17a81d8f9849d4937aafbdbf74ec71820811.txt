@@ -1,0 +1,39 @@
+0|chunk|Blockade of the C5a-C5aR axis alleviates lung damage in hDPP4-transgenic mice infected with MERS-CoV
+
+1|chunk|The pathogenesis of highly pathogenic Middle East respiratory syndrome coronavirus (MERS-CoV) remains poorly understood. In a previous study, we established an hDPP4-transgenic (hDPP4-Tg) mouse model in which MERS-CoV infection causes severe acute respiratory failure and high mortality accompanied by an elevated secretion of cytokines and chemokines. Since excessive complement activation is an important factor that contributes to acute lung injury after viral infection, in this study, we investigated the role of complement in MERS-CoV-induced lung damage. Our study showed that complement was excessively activated in MERS-CoV-infected hDPP4-Tg mice through observations of increased concentrations of the C5a and C5b-9 complement activation products in sera and lung tissues, respectively. Interestingly, blocking C5a production by targeting its receptor, C5aR, alleviated lung and spleen tissue damage and reduced inflammatory responses. More importantly, anti-C5aR antibody treatment led to decreased viral replication in lung tissues. Furthermore, compared with the sham treatment control, apoptosis of splenic cells was less pronounced in the splenic white pulp of treated mice, and greater number of proliferating splenic cells, particularly in the red pulp, was observed. These data indicate that (1) dysregulated host immune responses contribute to the severe outcome of MERS; (2) excessive complement activation, triggered by MERS-CoV infection, promote such dysregulation; and (3) blockade of the C5a-C5aR axis lead to the decreased tissue damage induced by MERS-CoV infection, as manifested by reduced apoptosis and T cell regeneration in the spleen. Therefore, the results of this study suggest a new strategy for clinical intervention and adjunctive treatment in MERS-CoV cases.
+1	4	16 pathogenesis	Gene_function	GO_0009405
+1	235	241 severe	Phenotype	HP_0012828
+1	242	247 acute	Phenotype	HP_0011009
+1	248	267 respiratory failure	Phenotype	HP_0002878
+1	314	323 secretion	Gene_function	GO_0046903
+1	369	390 complement activation	Gene_function	GO_0006956
+1	434	439 acute	Phenotype	HP_0011009
+1	726	747 complement activation	Gene_function	GO_0006956
+1	760	764 sera	Gene_function	GO_0004617
+1	974	982 antibody	Gene_function	GO_0003823
+1	974	982 antibody	Gene_function	GO_0042571
+1	1367	1373 severe	Phenotype	HP_0012828
+1	1405	1426 complement activation	Gene_function	GO_0006956
+1	1640	1652 regeneration	Gene_function	GO_0031099
+1	GO-HP	GO_0009405	HP_0012828
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-HP	GO_0009405	HP_0002878
+1	HP-GO	HP_0012828	GO_0046903
+1	HP-GO	HP_0012828	GO_0006956
+1	HP-GO	HP_0012828	GO_0004617
+1	HP-GO	HP_0012828	GO_0003823
+1	HP-GO	HP_0012828	GO_0042571
+1	HP-GO	HP_0012828	GO_0031099
+1	HP-GO	HP_0011009	GO_0046903
+1	HP-GO	HP_0011009	GO_0006956
+1	HP-GO	HP_0011009	GO_0004617
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0011009	GO_0042571
+1	HP-GO	HP_0011009	GO_0031099
+1	HP-GO	HP_0002878	GO_0046903
+1	HP-GO	HP_0002878	GO_0006956
+1	HP-GO	HP_0002878	GO_0004617
+1	HP-GO	HP_0002878	GO_0003823
+1	HP-GO	HP_0002878	GO_0042571
+1	HP-GO	HP_0002878	GO_0031099
+

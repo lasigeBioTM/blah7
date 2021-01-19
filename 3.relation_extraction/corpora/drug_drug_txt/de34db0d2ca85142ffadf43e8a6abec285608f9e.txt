@@ -1,0 +1,26 @@
+0|chunk|Avian infectious bronchitis virus disrupts the melanoma differentiation associated gene 5 (MDA5) signaling pathway by cleavage of the adaptor protein MAVS
+0	107	114 pathway	Chemical	CHEBI_34922
+0	142	149 protein	Chemical	CHEBI_16541
+0	CHEBI-CHEBI	CHEBI_34922	CHEBI_16541
+
+1|chunk|Background: Melanoma differentiation associated gene 5 (MDA5) and retinoic acid-inducible gene-I (RIG-I) selectively sense cytoplasmic viral RNA to induce an antiviral immune response. Infectious bronchitis virus (IBV) is one of the most important infectious agents in chickens, and in chicken cells, it can be recognized by MDA5 to activate interferon production. RIG-I is considered to be absent in chickens. However, the absence of RIG-I in chickens raises the question of whether this protein influences the antiviral immune response against IBV infection.
+1	141	144 RNA	Chemical	CHEBI_33697
+1	158	167 antiviral	Chemical	CHEBI_22587
+1	342	352 interferon	Chemical	CHEBI_52999
+1	489	496 protein	Chemical	CHEBI_16541
+1	512	521 antiviral	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_16541
+
+2|chunk|Here, we showed that chicken cells transfected with domestic goose RIG-I (dgRIG-I) exhibited increased IFN- activity after IBV infection. We also found that IBV can cleave MAVS, an adaptor protein downstream of RIG-I and MDA5 that acts as a platform for antiviral innate immunity at an early stage of infection.
+2	190	197 protein	Chemical	CHEBI_16541
+2	255	264 antiviral	Chemical	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+
+3|chunk|Conclusions: Although chicken MDA5 (chMDA5) is functionally active during IBV infection, the absence of RIG-I may increase the susceptibility of chickens to IBV infection, and IBV may disrupt the activation of the host antiviral response through the cleavage of MAVS.
+3	219	228 antiviral	Chemical	CHEBI_22587
+

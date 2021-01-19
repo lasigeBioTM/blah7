@@ -1,0 +1,58 @@
+0|chunk|Resistance to Rhabdoviridae Infection and Subversion of Antiviral Responses
+
+1|chunk|Interferon (IFN) treatment induces the expression of hundreds of IFN-stimulated genes (ISGs). However, only a selection of their products have been demonstrated to be responsible for the inhibition of rhabdovirus replication in cultured cells; and only a few have been shown to play a role in mediating the antiviral response in vivo using gene knockout mouse models. IFNs inhibit rhabdovirus replication at different stages via the induction of a variety of ISGs. This review will discuss how individual ISG products confer resistance to rhabdoviruses by blocking viral entry, degrading single stranded viral RNA, inhibiting viral translation or preventing release of virions from the cell. Furthermore, this review will highlight how these viruses counteract the host IFN system.
+1	307	325 antiviral response	Gene_function	GO_0051607
+1	626	643 viral translation	Gene_function	GO_0019081
+1	632	643 translation	Gene_function	GO_0006412
+
+2|chunk|Viruses 2015, 7 3676 induction of IFN-stimulated gene (ISG) products. One interesting property of ISG-mediated antiviral activity is the magnitude by which a single IFN effector can inhibit virus replication. In this review, rhabdovirus replication, IFN production, IFN signaling, ISGs conferring resistance to rhabdoviruses and the mechanisms by which these viruses counteract the IFN pathway will be described.
+
+3|chunk|Rhabdoviruses (order Mononegavirales) are pathogens with a particularly broad host range among a great diversity of organisms including plants, insects, fish, mammals, reptiles and crustaceans. They are associated with significant pathogenicity in humans and livestock [1] . The prototypes of this family are vesicular stomatitis virus (VSV), a member of the Vesiculovirus genus, and rabies virus (RABV), a member of the Lyssavirus genus. VSV is an arthropod-borne virus that primarily affects rodents, cattle, swine and horses. It can induce mild symptoms upon infection of humans and other species and may also cause severe foot-and mouth-like disease in cattle and pigs. The closely related Chandipura virus has recently been associated with outbreaks of fatal acute encephalitis in several parts of India (for a review see [2] ). RABV is a prototype neurotropic virus that causes fatal disease in humans and animals. Human rabies is a zoonosis, which still accounts for 50,000 deaths per year worldwide despite the availability of effective vaccines.
+3	319	329 stomatitis	Phenotype	HP_0010280
+3	543	547 mild	Phenotype	HP_0012825
+3	619	625 severe	Phenotype	HP_0012828
+3	764	769 acute	Phenotype	HP_0011009
+3	770	782 encephalitis	Phenotype	HP_0002383
+
+4|chunk|Although VSV and RABV have many similarities, they use different strategies to regulate their replication in the host cell, leading to the various pathologies caused by these viruses. VSV replicates rapidly, developing high levels of progenies in a minimum amount of time and strongly interferes with the host's cell metabolism. VSV inhibits host gene expression and translation [3] [4] [5] , interferes with the host cell's innate immune response and induces apoptosis of infected cells [6] . In contrast, RABV replicates more slowly, has a reduced interference with the host cell metabolism and is less cytopathic than VSV [7] .
+4	113	122 host cell	Gene_function	GO_0043657
+4	317	327 metabolism	Gene_function	GO_0008152
+4	347	362 gene expression	Gene_function	GO_0010467
+4	367	378 translation	Gene_function	GO_0006412
+4	413	422 host cell	Gene_function	GO_0043657
+4	425	447 innate immune response	Gene_function	GO_0045087
+4	432	447 immune response	Gene_function	GO_0006955
+4	572	581 host cell	Gene_function	GO_0043657
+4	582	592 metabolism	Gene_function	GO_0008152
+
+5|chunk|Rhabdovirus virions have a bullet-like shape, conical at one end and flat at the other, with a diameter of 75 nm and a length of 100-300 nm [8, 9] . The genome consists of a negative sense, single stranded RNA molecule of approximately 11 to 16 kb that encodes the five viral proteins common to all mononegavirales in the order of 3 1 -N-P-M-G-L-5 1 . The genome of many rhabdoviruses encodes accessory proteins, whose functions are not yet fully understood. These may occur as alternative or overlapping open reading frames (ORFs) within the major protein genes or as independent ORFs between the genes [10]. The viral RNA is associated with the nucleoprotein (N) to form a helical nucleocapsid (N-RNA). The nucleocapsid contains a significant amount of phosphoprotein (P), some of which is bound to the viral RNA-dependent RNA polymerase (RdRp), the large (L) protein. The N-RNA, together with the viral polymerase complex (P and L proteins) form the ribonucleoprotein (RNP). The RNP is enwrapped in a lipid bilayer, which is acquired from host cell membrane during the budding process. The matrix protein (M) and the glycoprotein (G) are membrane-associated proteins, whereby M is located beneath the viral membrane and maintains the compact structure of the virion by associating with both the nucleocapsid and the lipid bilayer, while the G protein is an integral transmembrane protein involved in viral entry.
+5	683	695 nucleocapsid	Gene_function	GO_0019013
+5	709	721 nucleocapsid	Gene_function	GO_0019013
+5	771	774 Paa	Gene_function	GO_1990295
+5	982	985 RNP	Gene_function	GO_1990904
+5	1042	1051 host cell	Gene_function	GO_0043657
+5	1042	1060 host cell membrane	Gene_function	GO_0033644
+5	1047	1060 cell membrane	Gene_function	GO_0005886
+5	1052	1060 membrane	Gene_function	GO_0016020
+5	1204	1218 viral membrane	Gene_function	GO_0036338
+5	1210	1218 membrane	Gene_function	GO_0016020
+5	1262	1268 virion	Gene_function	GO_0019012
+5	1298	1310 nucleocapsid	Gene_function	GO_0019013
+5	1369	1382 transmembrane	Gene_function	GO_0016021
+
+6|chunk|The life cycle of rhabdoviruses is entirely cytoplasmic (Figure 1 ). After binding to its receptor(s), the virus enters the cell via the endocytic pathway. The acidic environment within early endosomes induces Viruses 2015, 7 3677 a change in the conformation of the G protein that results in the fusion of the viral envelope with the endosomal membrane. After the fusion event, uncoating of the viral genome results in the release of the viral genomic RNA into the cytoplasm. The RNP constitutes the template for transcription of viral genes and the viral RNA polymerase (the L-P complex) is responsible for replication of the viral genome. RABV transcription and replication take place within Negri bodies, which are characteristic cytoplasmic inclusion bodies formed during viral infection [11] . Similar cytoplasmic inclusions have recently been reported in cells infected with VSV; these inclusions also contain the viral replication machinery [12] . During transcription, a positive-stranded leader RNA, uncapped and non-polyadenylated, and five capped and polyadenylated mRNAs encoding the five viral proteins are synthesized. At a later stage of infection, the polymerase switches to replication of the viral genome, which yields nucleocapsids containing the full-length antigenome (sense) RNA, which in turn serves as template for the synthesis of the (antisense) RNA genome. During their synthesis, both the nascent antigenome and the genome are encapsidated by the N protein. Specific transfer of the N protein to viral RNAs rather than to the cellular mRNAs is mediated by the P protein, which acts as a chaperone by binding the N alone (N) and maintaining its solubility [13] . The neo-synthesized genomic RNPs then serve either as templates for additional rounds of transcription and/or replication, or are transported to the cell membrane where they are assembled with the M and G proteins into virions, which are then released from the cell through the budding process.
+6	75	82 binding	Gene_function	GO_0005488
+6	311	325 viral envelope	Gene_function	GO_0019031
+6	317	325 envelope	Gene_function	GO_0031975
+6	345	353 membrane	Gene_function	GO_0016020
+6	481	484 RNP	Gene_function	GO_1990904
+6	734	755 cytoplasmic inclusion	Gene_function	GO_0097413
+6	777	792 viral infection	Gene_function	GO_0016032
+6	1344	1353 synthesis	Gene_function	GO_0009058
+6	1398	1407 synthesis	Gene_function	GO_0009058
+6	1629	1636 binding	Gene_function	GO_0005488
+6	1841	1854 cell membrane	Gene_function	GO_0005886
+6	1846	1854 membrane	Gene_function	GO_0016020
+
+7|chunk|Viruses 2015, 7 3
+

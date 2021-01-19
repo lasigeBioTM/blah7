@@ -1,0 +1,36 @@
+0|chunk|The Hepatitis E virus intraviral interactome
+
+1|chunk|as well as sporadic cases in industrialized countries. The life cycle of HEV is still poorly understood and the lack of efficient cell culture systems and animal models are the principal limitations for a detailed study of the viral replication cycle. Here we exhaustively examine all possible intraviral protein-protein interactions (PPIs) of HEV by systematic Yeast two-hybrid (Y2H) and LuMPIS screens, providing a basis for studying the function of these proteins in the viral replication cycle. Key PPIs correlate with the already published HEV 3D structure. Furthermore, we report 20 novel PPIs including the homodimerization of the RNA dependent RNA polymerase (RdRp), the self-interaction of the papain like protease, and ORF3 interactions with the papain-like protease and putative replicase components: RdRp, methylase and helicase. Furthermore, we determined the dissociation constant (K d ) of ORF3 interactions with the viral helicase, papain-like protease and methylase, which suggest a regulatory function for ORF3 in orchestrating the formation of the replicase complex. These interactions may represent new targets for antiviral drugs.
+1	458	466 proteins	Chemical	CHEBI_36080
+1	638	641 RNA	Chemical	CHEBI_33697
+1	652	655 RNA	Chemical	CHEBI_33697
+1	1135	1144 antiviral	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+
+2|chunk|Hepatitis E virus (HEV) is the causative pathogen of Hepatitis E disease, a major form of acute viral hepatitis worldwide. Four different genotypes are known in various geographical regions 1 : genotype 1 (Asia), genotype 2 (Africa and Mexico), genotype 3 (Europe and North America) and genotype 4 (Asia). The global burden of genotype 1 and 2 infections is substantial and the number of infections is estimated at 20 million per year, leading to 70,000 deaths and 3,000 stillbirths 2 . The Hepatitis E virus is a single strand plus RNA virus belonging to the family Hepeviridae. Approximately 7,200 nucleotides encode for three open reading frames (Fig. 1 ). ORF1 is a nonstructural, functional poly-protein with several defined functions 3,4 . The first functional domain encodes a methyltransferase (Met), which is required for capping the 5 end of the HEV RNA. Next, ORF1 contains a so-called Y domain which shows significant similarities to sequences of Rubella virus and Beet necrotic yellow vein virus but whose function in the viral context remains unknown. Further downstream ORF1 contains a papain-like cysteine protease (Plp) domain. The functionality of the protease domain was often questioned but recently the processing of the ORF1 poly-protein and ORF2 capsid protein by the Plp protease has been confirmed 5 . Next, a hypervariable (V) proline-rich region is located between the putative protease domain and the subsequent so-called X domain (X). For the proline-rich domain an important role in the fine tuning of viral replication through protein-protein interactions (PPIs) has been postulated 6 . The above mentioned X domain is also known as macro-domain or ADP-Ribose binding domain and has been exclusively associated with viral protease domains in other viruses. Towards the 3 end, ORF1 encodes for the well characterized helicase
+2	533	536 RNA	Chemical	CHEBI_33697
+2	600	611 nucleotides	Chemical	CHEBI_36976
+2	861	864 RNA	Chemical	CHEBI_33697
+2	1114	1122 cysteine	Chemical	CHEBI_15356
+2	1133	1136 Plp	Chemical	CHEBI_18405
+2	1277	1284 protein	Chemical	CHEBI_16541
+2	1292	1295 Plp	Chemical	CHEBI_18405
+2	1506	1510 role	Chemical	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36976
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_15356
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_18405
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_36976	CHEBI_15356
+2	CHEBI-CHEBI	CHEBI_36976	CHEBI_18405
+2	CHEBI-CHEBI	CHEBI_36976	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_36976	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_15356	CHEBI_18405
+2	CHEBI-CHEBI	CHEBI_15356	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_15356	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+

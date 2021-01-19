@@ -1,0 +1,22 @@
+0|chunk|viGEN: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
+0	77	80 RNA	Chemical	CHEBI_33697
+
+1|chunk|An estimated 17% of cancers worldwide are associated with infectious causes. The extent and biological significance of viral presence/infection in actual tumor samples is generally unknown but could be measured using human transcriptome (RNA-seq) data from tumor samples. We present an open source bioinformatics pipeline viGEN, which allows for not only the detection and quantification of viral RNA, but also variants in the viral transcripts. The pipeline includes 4 major modules: The first module aligns and filter out human RNA sequences; the second module maps and count (remaining un-aligned) reads against reference genomes of all known and sequenced human viruses; the third module quantifies read counts at the individual viral-gene level thus allowing for downstream differential expression analysis of viral genes between case and controls groups. The fourth module calls variants in these viruses. To the best of our knowledge, there are no publicly available pipelines or packages that would provide this type of complete analysis in one open source package. In this paper, we applied the viGEN pipeline to two case studies. We first demonstrate the working of our pipeline on a large public dataset, the TCGA cervical cancer cohort. In the second case study, we performed an in-depth analysis on a small focused study of TCGA liver cancer patients. In the latter cohort, we performed viral-gene quantification, viral-variant extraction and survival analysis. This allowed us to find differentially expressed viral-transcripts and viral-variants between the groups of patients, and connect them to clinical outcome. From our analyses, we show that we were able to successfully detect the human papilloma virus among the TCGA cervical cancer patients. We compared the viGEN pipeline with two metagenomics tools and demonstrate similar sensitivity/specificity. We were also able to quantify viral-transcripts and extract viral-variants using the liver cancer dataset. The results presented corresponded with published literature in terms of rate of detection, and impact of several known variants of HBV genome. This pipeline is generalizable, and can be used to provide novel biological insights into microbial infections in complex diseases and tumorigeneses. Our viral pipeline could be used in conjunction with additional type of immuno-oncology analysis based on RNA-seq data of host RNA for cancer immunology applications. The source code, with example data and tutorial is available at: https:// github.com/ICBI/viGEN/.
+1	397	400 RNA	Chemical	CHEBI_33697
+1	530	533 RNA	Chemical	CHEBI_33697
+1	1225	1240 cervical cancer	Disease	DOID_4362
+1	1234	1240 cancer	Disease	DOID_162
+1	1342	1354 liver cancer	Disease	DOID_3571
+1	1348	1354 cancer	Disease	DOID_162
+1	1709	1718 papilloma	Disease	DOID_2615
+1	1740	1755 cervical cancer	Disease	DOID_4362
+1	1749	1755 cancer	Disease	DOID_162
+1	1959	1971 liver cancer	Disease	DOID_3571
+1	1965	1971 cancer	Disease	DOID_162
+1	2402	2405 RNA	Chemical	CHEBI_33697
+1	2410	2416 cancer	Disease	DOID_162
+1	CHEBI-DOID	CHEBI_33697	DOID_4362
+1	CHEBI-DOID	CHEBI_33697	DOID_162
+1	CHEBI-DOID	CHEBI_33697	DOID_3571
+1	CHEBI-DOID	CHEBI_33697	DOID_2615
+

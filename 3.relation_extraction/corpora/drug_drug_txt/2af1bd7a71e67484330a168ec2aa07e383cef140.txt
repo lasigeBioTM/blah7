@@ -1,0 +1,52 @@
+0|chunk|Autophagy Promotes Infectious Particle Production of Mopeia and Lassa Viruses
+
+1|chunk|Lassa virus (LASV) and Mopeia virus (MOPV) are two closely related Old-World mammarenaviruses. LASV causes severe hemorrhagic fever with high mortality in humans, whereas no case of MOPV infection has been reported. Comparing MOPV and LASV is a powerful strategy to unravel pathogenic mechanisms that occur during the course of pathogenic arenavirus infection. We used a yeast two-hybrid approach to identify cell partners of MOPV and LASV Z matrix protein in which two autophagy adaptors were identified, NDP52 and TAX1BP1. Autophagy has emerged as an important cellular defense mechanism against viral infections but its role during arenavirus infection has not been shown. Here, we demonstrate that autophagy is transiently induced by MOPV, but not LASV, in infected cells two days after infection. Impairment of the early steps of autophagy significantly decreased the production of MOPV and LASV infectious particles, whereas a blockade of the degradative steps impaired only MOPV infectious particle production. Our study provides insights into the role played by autophagy during MOPV and LASV infection and suggests that this process could partially explain their different pathogenicity.
+1	449	456 protein	Chemical	CHEBI_16541
+1	623	627 role	Chemical	CHEBI_50906
+1	1055	1059 role	Chemical	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+
+2|chunk|(MOPV) also belongs to the Old-World complex of mammarenaviruses and is very closely related to LASV in addition to being hosted by natal rat. However, no human case of MOPV infection has ever been reported [6]. MOPV has even been shown to confer protection against a challenge with LASV in non-human primates and therefore represents a useful platform to generate protective vaccines against Lassa fever [7] [8] [9] . Comparing LASV and MOPV should therefore allow the identification of immune and viral features involved in LF pathogenesis.
+
+3|chunk|The bi-segmented RNA genome of the Arenaviridae family encodes four proteins: the nucleoprotein NP, the surface glycoprotein GP, the polymerase L, and the RING finger protein Z [10] [11] [12] . Although it is the smallest arenavirus protein, the Z-matrix protein has multiple functions in the viral life cycle, including viral assembly [13] [14] [15] [16] [17] [18] and budding [19-21], transcriptional repression [22-24], interferon antagonism [17,25,26] and interactions with multiple host-cell proteins, notably proteins involved in the ESCRT machinery [19,20,27], promyelocytic leukemia protein (PML) [28], ribosomal protein P0 [28], eukaryotic translation initiation factor 4E (eIF4E) [29] and proline-rich homeodomain protein (PRH) [30] . Overall, the arenavirus Z protein is central in the viral life cycle and interacts with a variety of cellular factors that have been partially discovered, but are not yet fully understood. These associations may trigger or hijack numerous cell pathways that facilitate viral replication and could explain the differences in pathogenicity among members of the Arenaviridae family.
+3	17	20 RNA	Chemical	CHEBI_33697
+3	68	76 proteins	Chemical	CHEBI_36080
+3	112	124 glycoprotein	Chemical	CHEBI_17089
+3	167	174 protein	Chemical	CHEBI_16541
+3	233	240 protein	Chemical	CHEBI_16541
+3	255	262 protein	Chemical	CHEBI_16541
+3	423	433 interferon	Chemical	CHEBI_52999
+3	497	505 proteins	Chemical	CHEBI_36080
+3	515	523 proteins	Chemical	CHEBI_36080
+3	591	598 protein	Chemical	CHEBI_16541
+3	621	628 protein	Chemical	CHEBI_16541
+3	724	731 protein	Chemical	CHEBI_16541
+3	771	778 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_52999
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_52999
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_52999
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_52999
+
+4|chunk|Among the cell pathways counteracted by pathogens is autophagy. Autophagy is an evolutionarily conserved catabolic process essential for the maintenance of cellular homeostasis through the elimination of senescent cytosolic components and the recycling of metabolites [31] . The process involves a lysosomal-dependent mechanism initiated by the formation of an isolated membrane, the phagophore, which elongates around cytosolic components to generate a newly-formed vesicle called the autophagosome. The fusion of autophagosomes with lysosomes forms mature autolysosomes in which degradation occurs. The initiation, elongation, and regulation steps of the autophagy process rely on autophagy-related (ATG) proteins. The autophagy machinery is also a part of the host defense system as it contributes to the degradation of invading pathogens by delivering them to the lysosomal compartment [32] . Autophagy may also deliver intracellular pathogen-associated molecular patterns (PAMPs) to endosomal-pattern recognition receptors (PRRs) and MHC-loading compartments, therefore contributing to activate innate [33, 34] and adaptive [35-37] antiviral immune responses. As obligate intracellular pathogens, viruses have evolved various strategies to escape, inhibit, or hijack the autophagic pathway to evade immune responses and favor viral replication [38] . However, the role of autophagy during MOPV and LASV, and more generally during arenavirus infection, is still unknown.
+4	256	267 metabolites	Chemical	CHEBI_25212
+4	1137	1146 antiviral	Chemical	CHEBI_22587
+4	1287	1294 pathway	Chemical	CHEBI_34922
+4	1369	1373 role	Chemical	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_25212	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_25212	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_25212	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_34922	CHEBI_50906
+
+5|chunk|Here, we performed a yeast two-hybrid (Y2H) screening to identify cellular partners of the Z protein of the pathogenic LASV and non-pathogenic MOPV. We identified two autophagy receptors, calcium-binding and coiled-coil domain 2 (CALCOCO 2 or NDP52) and TAX1BP1 (or CALCOCO 3), suggesting a link between autophagy and viral infection. We then monitored autophagy flux in infected cells and observed an increase of this flux in MOPV-but not LASV-infected cells. We show that early steps of autophagy are important in the late stages of replication for LASV and MOPV, whereas the degradation steps of autophagy benefits only MOPV infectious particle production. These data provide insight on the proviral role played by autophagy during LASV and MOPV infection and we discussed how it may contribute to their different pathogenicity.
+5	93	100 protein	Chemical	CHEBI_16541
+5	703	707 role	Chemical	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+

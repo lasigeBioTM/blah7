@@ -1,0 +1,26 @@
+0|chunk|Improving the estimation of the death rate of infected cells from time course data during the acute phase of virus infections: application to acute HIV-1 infection in a humanized mouse model
+0	94	99 acute	Phenotype	HP_0011009
+0	142	147 acute	Phenotype	HP_0011009
+
+1|chunk|Background: Mathematical modeling of virus dynamics has provided quantitative insights into viral infections such as influenza, the simian immunodeficiency virus/ human immunodeficiency virus, hepatitis B, and hepatitis C. Through modeling, we can estimate the half-life of infected cells, the exponential growth rate, and the basic reproduction number (R 0 ). To calculate R 0 from virus load data, the death rate of productively infected cells is required. This can be readily estimated from treatment data collected during the chronic phase, but is difficult to determine from acute infection data. Here, we propose two new models that can reliably estimate the average life span of infected cells from acute-phase data, and apply both methods to experimental data from humanized mice infected with HIV-1. Methods: Both new models, called as the reduced quasi-steady state (RQS) model and the piece-wise regression (PWR) model, are derived by simplification of a standard model for the acute-phase dynamics of target cells, viruses and infected cells. By having only a limited number of parameters, both models allow us to reliably estimate the death rate of productively infected cells. Simulated datasets with plausible parameter values are generated with the standard model to compare the performance of the new models with that of the major previous model (i.e., the simple exponential model). Finally, we fit models to time course data from HIV-1 infected humanized mice to estimate the several important parameters characterizing their acute infection. Results and conclusions: The new models provided much better estimates than the previous model because they more precisely capture the de novo infection process. Both models describe the acute phase of HIV-1 infected humanized mice reasonably well, and we estimated an average death rate of infected cells of 0.61 and 0.61, an average exponential growth rate of 0.69 and 0.76, and an average basic reproduction number of 2.30 and 2.38 in the RQS model and the PWR model, respectively. These estimates are fairly close to those obtained in humans.
+1	139	155 immunodeficiency	Phenotype	HP_0002721
+1	169	185 immunodeficiency	Phenotype	HP_0002721
+1	193	202 hepatitis	Phenotype	HP_0012115
+1	210	219 hepatitis	Phenotype	HP_0012115
+1	306	312 growth	Gene_function	GO_0040007
+1	333	345 reproduction	Gene_function	GO_0000003
+1	530	537 chronic	Phenotype	HP_0011010
+1	580	585 acute	Phenotype	HP_0011009
+1	1545	1550 acute	Phenotype	HP_0011009
+1	1749	1754 acute	Phenotype	HP_0011009
+1	1909	1915 growth	Gene_function	GO_0040007
+1	1960	1972 reproduction	Gene_function	GO_0000003
+1	HP-GO	HP_0002721	GO_0040007
+1	HP-GO	HP_0002721	GO_0000003
+1	HP-GO	HP_0012115	GO_0040007
+1	HP-GO	HP_0012115	GO_0000003
+1	GO-HP	GO_0040007	HP_0011010
+1	GO-HP	GO_0040007	HP_0011009
+1	GO-HP	GO_0000003	HP_0011010
+1	GO-HP	GO_0000003	HP_0011009
+

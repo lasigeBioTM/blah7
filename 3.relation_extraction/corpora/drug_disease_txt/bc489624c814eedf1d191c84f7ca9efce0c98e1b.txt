@@ -1,0 +1,32 @@
+0|chunk|Bi-specific splice-switching PMO oligonucleotides conjugated via a single peptide active in a mouse model of Duchenne muscular dystrophy
+0	33	49 oligonucleotides	Chemical	CHEBI_7754
+0	74	81 peptide	Chemical	CHEBI_16670
+0	109	136 Duchenne muscular dystrophy	Disease	DOID_11723
+0	118	136 muscular dystrophy	Disease	DOID_9884
+0	CHEBI-DOID	CHEBI_7754	DOID_11723
+0	CHEBI-DOID	CHEBI_7754	DOID_9884
+0	CHEBI-DOID	CHEBI_16670	DOID_11723
+0	CHEBI-DOID	CHEBI_16670	DOID_9884
+
+1|chunk|The potential for therapeutic application of spliceswitching oligonucleotides (SSOs) to modulate pre-mRNA splicing is increasingly evident in a number of diseases. However, the primary drawback of this approach is poor cell and in vivo oligonucleotide uptake efficacy. Biological activities can be significantly enhanced through the use of synthetically conjugated cationic cell penetrating peptides (CPPs). Studies to date have focused on the delivery of a single SSO conjugated to a CPP, but here we describe the conjugation of two phosphorodiamidate morpholino oligonucleotide (PMO) SSOs to a single CPP for simultaneous delivery and pre-mRNA targeting of two separate genes, exon 23 of the Dmd gene and exon 5 of the Acvr2b gene, in a mouse model of Duchenne muscular dystrophy. Conjugations of PMOs to a single CPP were carried out through an amide bond in one case and through a triazole linkage ('click chemistry') in the other. The most active bi-specific CPP-PMOs demonstrated comparable exon skipping levels for both pre-mRNA targets when compared to individual CPP-PMO conjugates both in cell culture and in vivo in the mdx mouse model. Thus, two SSOs with different target sequences conjugated to a single CPP are biologically effective and potentially suitable for future therapeutic exploitation.
+1	61	77 oligonucleotides	Chemical	CHEBI_7754
+1	97	105 pre-mRNA	Chemical	CHEBI_139356
+1	236	251 oligonucleotide	Chemical	CHEBI_7754
+1	391	399 peptides	Chemical	CHEBI_16670
+1	485	488 CPP	Chemical	CHEBI_34603
+1	564	579 oligonucleotide	Chemical	CHEBI_7754
+1	603	606 CPP	Chemical	CHEBI_34603
+1	637	645 pre-mRNA	Chemical	CHEBI_139356
+1	754	781 Duchenne muscular dystrophy	Disease	DOID_11723
+1	816	819 CPP	Chemical	CHEBI_34603
+1	848	853 amide	Chemical	CHEBI_29337
+1	885	893 triazole	Chemical	CHEBI_38597
+1	1027	1035 pre-mRNA	Chemical	CHEBI_139356
+1	1218	1221 CPP	Chemical	CHEBI_34603
+1	CHEBI-DOID	CHEBI_7754	DOID_11723
+1	CHEBI-DOID	CHEBI_139356	DOID_11723
+1	CHEBI-DOID	CHEBI_16670	DOID_11723
+1	CHEBI-DOID	CHEBI_34603	DOID_11723
+1	DOID-CHEBI	DOID_11723	CHEBI_29337
+1	DOID-CHEBI	DOID_11723	CHEBI_38597
+

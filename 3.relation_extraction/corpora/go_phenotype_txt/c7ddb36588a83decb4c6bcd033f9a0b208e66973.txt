@@ -1,0 +1,73 @@
+0|chunk|The Amino-Terminal Region of Hepatitis E Virus ORF1 Containing a Methyltransferase (Met) and a Papain-Like Cysteine Protease (PCP) Domain Counteracts Type I Interferon Response
+0	29	38 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Hepatitis E virus (HEV) is responsible for large waterborne epidemics of hepatitis in endemic countries and is an emerging zoonotic pathogen worldwide. In endemic regions, HEV-1 or HEV-2 genotypes are frequently associated with fulminant hepatitis in pregnant women, while with zoonotic HEV (HEV-3 and HEV-4), chronic cases of hepatitis and severe neurological disorders are reported. Hence, it is important to characterize the interactions between HEV and its host. Here, we investigated the ability of the nonstructural polyprotein encoded by the first open reading frame (ORF1) of HEV to modulate the host early antiviral response and, in particular, the type I interferon (IFN-I) system. We found that the amino-terminal region of HEV-3 ORF1 (MetYPCP), containing a putative methyltransferase (Met) and a papain-like cysteine protease (PCP) functional domain, inhibited IFN-stimulated response element (ISRE) promoter activation and the expression of several IFN-stimulated genes (ISGs) in response to IFN-I. We showed that the MetYPCP domain interfered with the Janus kinase (JAK)/signal transducer and activator of the transcription protein (STAT) signalling pathway by inhibiting STAT1 nuclear translocation and phosphorylation after IFN-I treatment. In contrast, MetYPCP had no effect on STAT2 phosphorylation and a limited impact on the activation of the JAK/STAT pathway after IFN-II stimulation. This inhibitory function seemed to be genotype-dependent, as MetYPCP from HEV-1 had no significant effect on the JAK/STAT pathway. Overall, this study provides evidence that the predicted MetYPCP domain of HEV ORF1 antagonises STAT1 activation to modulate the IFN response.
+1	0	9 Hepatitis	Phenotype	HP_0012115
+1	73	82 hepatitis	Phenotype	HP_0012115
+1	228	247 fulminant hepatitis	Phenotype	HP_0004787
+1	238	247 hepatitis	Phenotype	HP_0012115
+1	310	317 chronic	Phenotype	HP_0011010
+1	327	336 hepatitis	Phenotype	HP_0012115
+1	341	347 severe	Phenotype	HP_0012828
+1	615	633 antiviral response	Gene_function	GO_0051607
+1	1154	1164 signalling	Gene_function	GO_0023052
+1	1154	1172 signalling pathway	Gene_function	GO_0007165
+1	1219	1234 phosphorylation	Gene_function	GO_0016310
+1	1302	1317 phosphorylation	Gene_function	GO_0016310
+1	HP-GO	HP_0012115	GO_0051607
+1	HP-GO	HP_0012115	GO_0023052
+1	HP-GO	HP_0012115	GO_0007165
+1	HP-GO	HP_0012115	GO_0016310
+1	HP-GO	HP_0004787	GO_0051607
+1	HP-GO	HP_0004787	GO_0023052
+1	HP-GO	HP_0004787	GO_0007165
+1	HP-GO	HP_0004787	GO_0016310
+1	HP-GO	HP_0011010	GO_0051607
+1	HP-GO	HP_0011010	GO_0023052
+1	HP-GO	HP_0011010	GO_0007165
+1	HP-GO	HP_0011010	GO_0016310
+1	HP-GO	HP_0012828	GO_0051607
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0007165
+1	HP-GO	HP_0012828	GO_0016310
+
+2|chunk|Viruses 2018, 10, 726 2 of 21 reading frames (ORF1 to 3) [2]. ORF1 codes for a nonstructural polyprotein composed of several putative functional domains including a methyltransferase (Met), a domain of unknown function (Y), a papain-like cysteine protease (PCP), a macrodomain (X), a helicase and an RNA-dependent RNA polymerase (RdRp) [3] . It is still unclear whether ORF1 is expressed as a single polyprotein or cleaved to several functional proteins in the context of infection. Multiple studies have suggested that ORF1 is cleaved into several products [4] [5] [6] [7] [8] , whereas a few others have reported a lack of processing of the viral polyprotein [9] [10] [11] . The use of different expression systems may explain these conflicting results. Recently, a paper has suggested that ORF1 is cleaved by thrombin and factor Xa [12] . ORF2 and ORF3 code for the capsid protein and a multifunctional phosphoprotein, respectively. Four genotypes infect humans. Genotypes 1 and 2 (HEV-1 and HEV-2) are transmitted via the faecal-oral route, through the consumption of contaminated water or soiled food in endemic regions. In contrast, genotypes 3 and 4 (HEV-3 and HEV-4) are detected in humans and other animal species worldwide and are transmitted via direct contact with infected animals or the consumption of infected meat [13, 14] . In most human cases, HEV infection causes an acute hepatitis that is self-limited. However, fulminant hepatic failure can occur in pregnant women in endemic regions (HEV-1 or -2), in patients with underlying chronic liver disease, or in the elderly (HEV-3 or -4). More recently, chronic cases of hepatitis E have been reported in immunocompromised patients (HEV-3 or HEV-4) and extrahepatic manifestations including renal, pancreatic and neurological disorders have been linked to HEV infection [15] . With the exception of China, no country has yet commercialized an HEV vaccine, and no treatment against HEV infection is approved.
+2	330	334 RdRp	Gene_function	GO_0003968
+2	1386	1391 acute	Phenotype	HP_0011009
+2	1386	1401 acute hepatitis	Phenotype	HP_0200119
+2	1392	1401 hepatitis	Phenotype	HP_0012115
+2	1433	1458 fulminant hepatic failure	Phenotype	HP_0004448
+2	1443	1458 hepatic failure	Phenotype	HP_0001399
+2	1549	1556 chronic	Phenotype	HP_0011010
+2	1620	1627 chronic	Phenotype	HP_0011010
+2	1637	1646 hepatitis	Phenotype	HP_0012115
+2	GO-HP	GO_0003968	HP_0011009
+2	GO-HP	GO_0003968	HP_0200119
+2	GO-HP	GO_0003968	HP_0012115
+2	GO-HP	GO_0003968	HP_0004448
+2	GO-HP	GO_0003968	HP_0001399
+2	GO-HP	GO_0003968	HP_0011010
+
+3|chunk|Interferons (IFNs) are a group of secreted cytokines that play a key role in the host early antiviral response. Type I IFNs (IFN-I), composed mainly of IFN- and , are produced directly in response to viral infection, upon the sensing of viral molecular signatures by specialized cellular receptors such as retinoic-acid-inducible gene (RIG)-I-like receptors (RLRs) and Toll-like receptors (TLRs). IFN-I subsequently binds to IFN-/ receptors (IFNAR) at the cell surface and activates the Janus kinase (JAK)/signal transducer and activator of transcription protein (STAT) signalling pathway in an autocrine and paracrine manner. The binding of IFN-I to receptors leads to the phosphorylation of tyrosine kinase 2 (TYK2) and JAK1 [16] [17] [18] and the subsequent phosphorylation of the cytoplasmic domain of the IFNAR subunits [18] [19] [20] [21] [22] . STAT1 and STAT2 are then recruited and phosphorylated by the JAK kinases on tyrosine 701 and tyrosine 690, respectively [18, 23] . Phosphorylated STAT1/STAT2 heterodimers are released in the cytoplasm, where they interact with IFN response factor 9 (IRF9) to form IFN-stimulated gene (ISG) factor 3 (ISGF3). This transcription factor translocates to the nucleus, where it binds to specific promoter elements called IFN-stimulated response elements (ISRE), leading to the upregulation of hundreds of IFN-stimulated genes (ISGs) that may display antiviral properties and contribute to the establishment of a rapid and robust antiviral state within the cell [24] . Most cells can produce IFN-I. In contrast, type II IFN (IFN-) is secreted mainly by activated T cells and natural killer cells. The binding of the cytokine to a specific IFN- receptor (IFNGR) leads to the phosphorylation of JAK1 and JAK2 and the subsequent phosphorylation of STAT1. STAT1 homodimers are then formed and translocate to the nucleus where they bind to specific promoters to activate the transcription of a different subset of ISGs [25] .
+3	460	472 cell surface	Gene_function	GO_0009986
+3	574	584 signalling	Gene_function	GO_0023052
+3	574	592 signalling pathway	Gene_function	GO_0007165
+3	635	642 binding	Gene_function	GO_0005488
+3	678	693 phosphorylation	Gene_function	GO_0016310
+3	765	780 phosphorylation	Gene_function	GO_0016310
+3	1210	1217 nucleus	Gene_function	GO_0005634
+3	1651	1658 binding	Gene_function	GO_0005488
+3	1725	1740 phosphorylation	Gene_function	GO_0016310
+3	1777	1792 phosphorylation	Gene_function	GO_0016310
+3	1859	1866 nucleus	Gene_function	GO_0005634
+
+4|chunk|Different reports have suggested that an IFN response is triggered by HEV as the expression of IFN-I, and multiple ISGs have been detected after infection in vivo and in vitro [26] [27] [28] [29] [30] [31] . However, IFN-I seem to have a moderate and delayed antiviral effect on HEV infection in vitro and in patients in comparison, for instance, to the potent effect they exert on the hepatitis C virus (HCV), another hepatotropic RNA virus [32, 33] . Consistently, recent studies have indicated that the host ISG response to IFN-I is inhibited during HEV infection [31] [32] [33] [34] , but the mechanisms involved in this inhibition remain poorly characterized. As a nonstructural polyprotein, HEV ORF1 contains one or several functional domains able to modulate the IFN-I system. The macrodomain, the PCP domain and the Met domain have been described as antagonists of the signalling cascade leading to IFN synthesis [35, 36] . However, nothing is known about the ability of the viral polyprotein to inhibit the response to IFN-I
+4	238	246 moderate	Phenotype	HP_0012826
+4	386	395 hepatitis	Phenotype	HP_0012115
+4	877	887 signalling	Gene_function	GO_0023052
+4	911	920 synthesis	Gene_function	GO_0009058
+4	HP-GO	HP_0012826	GO_0023052
+4	HP-GO	HP_0012826	GO_0009058
+4	HP-GO	HP_0012115	GO_0023052
+4	HP-GO	HP_0012115	GO_0009058
+

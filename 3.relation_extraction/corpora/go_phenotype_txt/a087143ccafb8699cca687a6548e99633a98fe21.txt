@@ -1,0 +1,25 @@
+0|chunk|a section of the journal Frontiers in Microbiology Blocking the PI3K/AKT pathway enhances mammalian reovirus replication by repressing IFN-stimulated genes
+
+1|chunk|Many host cellular signaling pathways were activated and exploited by virus infection for more efficient replication. The PI3K/Akt pathway has recently attracted considerable interest due to its role in regulating virus replication. This study demonstrated for the first time that the mammalian reovirus strains Masked Palm Civet/China/2004 (MPC/04) and Bat/China/2003 (B/03) can induce transient activation of the PI3K/Akt pathway early in infection in vitro. When UV-treated, both viruses activated PI3K/Akt signaling, indicating that the virus/receptor interaction was sufficient to activate PI3K/Akt. Reovirus virions can use both clathrin-and caveolae-mediated endocytosis, but only chlorpromazine, a specific inhibitor of clathrin-mediated endocytosis, or siRNA targeting clathrin suppressed Akt phosphorylation. We also identified the upstream molecules of the PI3K pathway. Virus infection induced phosphorylation of focal adhesion kinase (FAK) but not Gab1, and blockage of FAK phosphorylation suppressed Akt phosphorylation. Blockage of PI3K/Akt activation increased virus RNA synthesis and viral yield. We also found that reovirus infection activated the IFN-stimulated response element (ISRE) in an interferon-independent manner and up-regulated IFN-stimulated genes (ISGs) via the PI3K/Akt/EMSY pathway. Suppression of PI3K/Akt activation impaired the induction of ISRE and down-regulated the expression of ISGs. Overexpression of ISG15 and Viperin inhibited virus replication, and knockdown of either enhanced virus replication. Collectively, these results demonstrate that PI3K/Akt activated by mammalian reovirus serves as a pathway for sensing and then inhibiting virus replication/infection.
+1	19	28 signaling	Gene_function	GO_0023052
+1	387	396 transient	Phenotype	HP_0025153
+1	510	519 signaling	Gene_function	GO_0023052
+1	802	817 phosphorylation	Gene_function	GO_0016310
+1	906	921 phosphorylation	Gene_function	GO_0016310
+1	925	930 focal	Phenotype	HP_0030650
+1	925	939 focal adhesion	Gene_function	GO_0005925
+1	987	1002 phosphorylation	Gene_function	GO_0016310
+1	1018	1033 phosphorylation	Gene_function	GO_0016310
+1	1083	1096 RNA synthesis	Gene_function	GO_0032774
+1	1087	1096 synthesis	Gene_function	GO_0009058
+1	GO-HP	GO_0023052	HP_0025153
+1	GO-HP	GO_0023052	HP_0030650
+1	HP-GO	HP_0025153	GO_0016310
+1	HP-GO	HP_0025153	GO_0005925
+1	HP-GO	HP_0025153	GO_0032774
+1	HP-GO	HP_0025153	GO_0009058
+1	GO-HP	GO_0016310	HP_0030650
+1	HP-GO	HP_0030650	GO_0005925
+1	HP-GO	HP_0030650	GO_0032774
+1	HP-GO	HP_0030650	GO_0009058
+

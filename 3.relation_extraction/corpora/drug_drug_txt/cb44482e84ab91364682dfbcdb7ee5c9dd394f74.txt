@@ -1,0 +1,155 @@
+0|chunk|Characterization of the African Swine Fever Virus Decapping Enzyme during Infection
+
+1|chunk|African swine fever virus (ASFV) infection is characterized by a progressive decrease in cellular protein synthesis with a concomitant increase in viral protein synthesis, though the mechanism by which the virus achieves this is still unknown. Decrease of cellular mRNA is observed during ASFV infection, suggesting that inhibition of cellular proteins is due to an active mRNA degradation process. ASFV carries a gene (Ba71V D250R/Malawi g5R) that encodes a decapping protein (ASFV-DP) that has a Nudix hydrolase motif and decapping activity in vitro. Here, we show that ASFV-DP was expressed from early times and accumulated throughout the infection with a subcellular localization typical of the endoplasmic reticulum, colocalizing with the cap structure and interacting with the ribosomal protein L23a. ASFV-DP was capable of interaction with poly(A) RNA in cultured cells, primarily mediated by the N-terminal region of the protein. ASFV-DP also interacted with viral and cellular RNAs in the context of infection, and its overexpression in infected cells resulted in decreased levels of both types of transcripts. This study points to ASFV-DP as a viral decapping enzyme involved in both the degradation of cellular mRNA and the regulation of viral transcripts. IMPORTANCE Virulent ASFV strains cause a highly infectious and lethal disease in domestic pigs for which there is no vaccine. Since 2007, an outbreak in the Caucasus region has spread to Russia, jeopardizing the European pig population and making it essential to deepen knowledge about the virus. Here, we demonstrate that ASFV-DP is a novel RNA-binding protein implicated in the regulation of mRNA metabolism during infection, making it a good target for vaccine development. Citation Quintas A, Prez-Nez D, Snchez EG, Nogal ML, Hentze MW, Castell A, Revilla Y. 2017. Characterization of the African swine fever virus decapping enzyme during infection. Volume 91 Issue 24 e00990-17
+1	98	105 protein	Chemical	CHEBI_16541
+1	153	160 protein	Chemical	CHEBI_16541
+1	265	269 mRNA	Chemical	CHEBI_33699
+1	344	352 proteins	Chemical	CHEBI_36080
+1	373	377 mRNA	Chemical	CHEBI_33699
+1	469	476 protein	Chemical	CHEBI_16541
+1	793	800 protein	Chemical	CHEBI_16541
+1	855	858 RNA	Chemical	CHEBI_33697
+1	929	936 protein	Chemical	CHEBI_16541
+1	1222	1226 mRNA	Chemical	CHEBI_33699
+1	1622	1629 protein	Chemical	CHEBI_16541
+1	1662	1666 mRNA	Chemical	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_33699	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_33699	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_33697
+
+2|chunk|jvi.asm.org 1 Journal of Virology uses a specific mechanism of decapping related to cap snatching (4), and vaccinia virus (VACV), which possesses two viral decapping enzymes (D9 and D10) (19, 20) . These viral enzymes, which have approximately 25% sequence similarity, possess a Nudix motif, a highly conserved 23-amino-acid sequence (GX 5 EX 5 [UA]XREX 2 EEXGU, where X can be any amino acid and U is a hydrophobic residue). In vitro assays have demonstrated that both recombinant D9 and D10 proteins exhibit decapping activity, which is abrogated in both proteins by single-site mutations of the conserved glutamate residues in the Nudix motif, indicating that it is essential for catalysis (19, 20) .
+2	382	387 amino	Chemical	CHEBI_46882
+2	382	392 amino acid	Chemical	CHEBI_33704
+2	388	392 acid	Chemical	CHEBI_37527
+2	493	501 proteins	Chemical	CHEBI_36080
+2	557	565 proteins	Chemical	CHEBI_36080
+2	608	617 glutamate	Chemical	CHEBI_14321
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_14321
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_14321
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_14321
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_14321
+
+3|chunk|African swine fever virus (ASFV) is a large, cytoplasmic, double-stranded DNA virus that infects different species of swine, including domestic pigs and wild boar (21, 22) . Morphogenesis of the virus takes place in specialized areas of the cytoplasm called viral factories, which are located near the nucleus and the microtubule organization center (MTOC). These structures essentially exclude cellular proteins but are surrounded by endoplasmic reticulum (ER) membranes and enclosed in vimentin cages (23).
+3	58	77 double-stranded DNA	Chemical	CHEBI_4705
+3	74	77 DNA	Chemical	CHEBI_16991
+3	302	309 nucleus	Chemical	CHEBI_33252
+3	404	412 proteins	Chemical	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_4705	CHEBI_16991
+3	CHEBI-CHEBI	CHEBI_4705	CHEBI_33252
+3	CHEBI-CHEBI	CHEBI_4705	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16991	CHEBI_33252
+3	CHEBI-CHEBI	CHEBI_16991	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33252	CHEBI_36080
+
+4|chunk|ASFV exhibits notable transcriptional independence from its host, with 20% of its genome dedicated to genes related to transcription and mRNA modification (24). Consequently, ASFV infection is characterized by a fine-tuned temporal regulation of viral gene expression, which allows transcripts to be classified as immediate early, early, intermediate, or late depending on their distinctive accumulation kinetics and expression in the presence of inhibitors of viral replication, such as cytosine arabinoside (AraC) (25). Interestingly, the virus is able to temporally control the expression of its genes while simultaneously causing strong cellular shutoff (25-27). However, ASFV protein synthesis relies on the cellular translation machinery, with eukaryotic initiation factor 4E (eIF4E) and eIF4G playing a critical role (26).
+4	137	141 mRNA	Chemical	CHEBI_33699
+4	447	457 inhibitors	Chemical	CHEBI_35222
+4	488	496 cytosine	Chemical	CHEBI_16040
+4	488	508 cytosine arabinoside	Chemical	CHEBI_28680
+4	497	508 arabinoside	Chemical	CHEBI_22601
+4	681	688 protein	Chemical	CHEBI_16541
+4	819	823 role	Chemical	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_16040
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_28680
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_22601
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_33699	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_16040
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_28680
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_22601
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_16040	CHEBI_28680
+4	CHEBI-CHEBI	CHEBI_16040	CHEBI_22601
+4	CHEBI-CHEBI	CHEBI_16040	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_16040	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_28680	CHEBI_22601
+4	CHEBI-CHEBI	CHEBI_28680	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_28680	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_22601	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_22601	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+
+5|chunk|ASFV carries a gene (D250R in strain Ba71V and g5R in strain Malawi) that encodes a decapping protein (ASFV-DP) that has a Nudix hydrolase motif and decapping activity in vitro (28). The Nudix motif is essential for catalysis, as single-site mutation of the conserved residues E147, E150, and E151 causes a loss of decapping activity. The Malawi strain isoform, g5Rp, is able to interact directly with RNA, and though its activity is strongly inhibited by uncapped RNAs, it is not affected by cap analogs or methylated nucleotides, suggesting that ASFV-DP preferentially recognizes the RNA moiety on the substrate (28). Nevertheless, the in vivo role of the protein is still unknown.
+5	94	101 protein	Chemical	CHEBI_16541
+5	402	405 RNA	Chemical	CHEBI_33697
+5	586	589 RNA	Chemical	CHEBI_33697
+5	646	650 role	Chemical	CHEBI_50906
+5	658	665 protein	Chemical	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_50906
+
+6|chunk|The Nudix motif of ASFV-DP displays sequence similarity to other decapping enzymes, such as Dcp2 (decapping enzyme 2), the yeast decapping enzyme (29), suggesting its direct involvement in mRNA regulation. Therefore, it is a good candidate to be the viral factor involved in degradation of cellular mRNAs and the temporal regulation of viral mRNAs. In this study, the role of ASFV-DP was investigated in cultured cells and during infection. At late stages of infection, ASFV-DP presents subcellular localization typical of the viral factories, where it colocalizes with the mRNA cap structure. Moreover, we show that it is able to interact with components of the ribosomes, such as the RPL23a protein, and with poly(A) RNA in cells stably expressing the protein. We have determined that this interaction is mediated primarily by the ASFV-DP N-terminal region and that conserved amino acids of the Nudix motif are not required for the interaction. This viral protein also interacts with viral and cellular RNAs in the context of infection, and its overexpression in infected cells results in decreased levels of both species of transcripts.
+6	189	193 mRNA	Chemical	CHEBI_33699
+6	368	372 role	Chemical	CHEBI_50906
+6	574	578 mRNA	Chemical	CHEBI_33699
+6	693	700 protein	Chemical	CHEBI_16541
+6	719	722 RNA	Chemical	CHEBI_33697
+6	754	761 protein	Chemical	CHEBI_16541
+6	878	883 amino	Chemical	CHEBI_46882
+6	878	889 amino acids	Chemical	CHEBI_33704
+6	884	889 acids	Chemical	CHEBI_37527
+6	958	965 protein	Chemical	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_50906
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_33697
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_46882
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_33704
+6	CHEBI-CHEBI	CHEBI_33699	CHEBI_37527
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_46882
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_33704
+6	CHEBI-CHEBI	CHEBI_50906	CHEBI_37527
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_46882
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_33704
+6	CHEBI-CHEBI	CHEBI_33697	CHEBI_37527
+6	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+6	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+6	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+7|chunk|ASFV infection promotes a decrease in cellular mRNA levels. ASFV infection induces a strong cellular shutoff (26, 27) , but the molecular mechanism by which this important regulatory step is achieved remains elusive. In order to determine if a defect in translation is involved, we analyzed the polysome profile of uninfected (mockinfected) and ASFV-infected Vero cells. Polysomes are mRNAs interacting with two or more ribosomes, and de novo protein synthesis is reflected in the number and amount of ribosomes found within the polysomal mRNA fraction (30). Mock-and ASFV-infected Vero cells (multiplicity of infection [MOI]  5 PFU/cell) were lysed at 14 h postinfection Quintas et al. Journal of Virology ASFV Decapping Protein Characterization Journal of Virology FIG 2 ASFV-DP contains a Nudix motif. (A) Partial sequence alignment of the ASFV-DP Nudix motif sequence with other conserved viral and eukaryotic Nudix amino acid sequences. Alignments were performed using Clustal- software (EMBL). The colors represent the different amino acid classes: small and hydrophobic (red); acidic (blue); basic (magenta); hydroxyl, sulfhydryl, amine, or glycine (G) residues (green); and others (gray). The asterisks indicate positions that have a single, fully conserved residue; the colons indicate conservation of strongly similar properties; the periods indicate conservation between groups of weakly similar properties. (B) Structural prediction of the ASFV-DP protein based on Dcp2 of S. pombe. (Left) The ASFV-DP structure is shown in pink, and the SpDcp2 structure is shown in green. (Right) The ASFV-DP structure is represented alone. The N-terminal region, C-terminal region, and Nudix motif are shown in red, blue, and green, respectively. Quintas et al. Journal of Virology ASFV Decapping Protein Characterization Journal of Virology
+7	47	51 mRNA	Chemical	CHEBI_33699
+7	443	450 protein	Chemical	CHEBI_16541
+7	539	543 mRNA	Chemical	CHEBI_33699
+7	723	730 Protein	Chemical	CHEBI_16541
+7	921	926 amino	Chemical	CHEBI_46882
+7	921	931 amino acid	Chemical	CHEBI_33704
+7	927	931 acid	Chemical	CHEBI_37527
+7	1037	1042 amino	Chemical	CHEBI_46882
+7	1037	1047 amino acid	Chemical	CHEBI_33704
+7	1043	1047 acid	Chemical	CHEBI_37527
+7	1150	1157 glycine	Chemical	CHEBI_15428
+7	1462	1469 protein	Chemical	CHEBI_16541
+7	1797	1804 Protein	Chemical	CHEBI_16541
+7	CHEBI-CHEBI	CHEBI_33699	CHEBI_16541
+7	CHEBI-CHEBI	CHEBI_33699	CHEBI_46882
+7	CHEBI-CHEBI	CHEBI_33699	CHEBI_33704
+7	CHEBI-CHEBI	CHEBI_33699	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_33699	CHEBI_15428
+7	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+7	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+7	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_16541	CHEBI_15428
+7	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+7	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_46882	CHEBI_15428
+7	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+7	CHEBI-CHEBI	CHEBI_33704	CHEBI_15428
+7	CHEBI-CHEBI	CHEBI_37527	CHEBI_15428
+

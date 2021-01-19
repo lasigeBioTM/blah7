@@ -1,0 +1,29 @@
+0|chunk|Host Cell Entry of Respiratory Syncytial Virus Involves Macropinocytosis Followed by Proteolytic Activation of the F Protein
+0	0	9 Host Cell	Gene_function	GO_0043657
+0	56	72 Macropinocytosis	Gene_function	GO_0044351
+
+1|chunk|Respiratory Syncytial Virus (RSV) is a highly pathogenic member of the Paramyxoviridae that causes severe respiratory tract infections. Reports in the literature have indicated that to infect cells the incoming viruses either fuse their envelope directly with the plasma membrane or exploit clathrin-mediated endocytosis. To study the entry process in human tissue culture cells (HeLa, A549), we used fluorescence microscopy and developed quantitative, FACS-based assays to follow virus binding to cells, endocytosis, intracellular trafficking, membrane fusion, and infection. A variety of perturbants were employed to characterize the cellular processes involved. We found that immediately after binding to cells RSV activated a signaling cascade involving the EGF receptor, Cdc42, PAK1, and downstream effectors. This led to a series of dramatic actin rearrangements; the cells rounded up, plasma membrane blebs were formed, and there was a significant increase in fluid uptake. If these effects were inhibited using compounds targeting Na + /H + exchangers, myosin II, PAK1, and other factors, no infection was observed. The RSV was rapidly and efficiently internalized by an actin-dependent process that had all hallmarks of macropinocytosis. Rather than fusing with the plasma membrane, the viruses thus entered Rab5-positive, fluidfilled macropinosomes, and fused with the membranes of these on the average 50 min after internalization. Rab5 was required for infection. To find an explanation for the endocytosis requirement, which is unusual among paramyxoviruses, we analyzed the fusion protein, F, and could show that, although already cleaved by a furin family protease once, it underwent a second, critical proteolytic cleavage after internalization. This cleavage by a furin-like protease removed a small peptide from the F1 subunits, and made the virus infectious.
+1	99	105 severe	Phenotype	HP_0012828
+1	237	245 envelope	Gene_function	GO_0031975
+1	264	279 plasma membrane	Gene_function	GO_0005886
+1	271	279 membrane	Gene_function	GO_0016020
+1	309	320 endocytosis	Gene_function	GO_0006897
+1	487	494 binding	Gene_function	GO_0005488
+1	505	516 endocytosis	Gene_function	GO_0006897
+1	518	531 intracellular	Gene_function	GO_0005622
+1	545	553 membrane	Gene_function	GO_0016020
+1	697	704 binding	Gene_function	GO_0005488
+1	730	739 signaling	Gene_function	GO_0023052
+1	892	907 plasma membrane	Gene_function	GO_0005886
+1	899	907 membrane	Gene_function	GO_0016020
+1	1275	1290 plasma membrane	Gene_function	GO_0005886
+1	1282	1290 membrane	Gene_function	GO_0016020
+1	1507	1518 endocytosis	Gene_function	GO_0006897
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0005886
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0006897
+1	HP-GO	HP_0012828	GO_0005488
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0012828	GO_0023052
+

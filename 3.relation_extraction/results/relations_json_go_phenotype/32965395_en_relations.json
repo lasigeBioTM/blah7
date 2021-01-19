@@ -1,0 +1,65 @@
+{
+    "text": "Pro-inflammatory markers play a significant role in the disease severity of patients with COVID-19. Thus, anti-inflammatory therapies are attractive agents for potentially combating the uncontrolled inflammatory cascade in these patients. We designed a trial testing tocilizumab versus standard of care intending to improve the outcomes by inhibiting interleukin-6, an important inflammatory mediator in COVID-19.This open-label multicentre randomized controlled trial will compare clinical outcomes of tocilizumab plus standard of care versus standard of care alone in patients with moderate to severe COVID-19. Two of the following four criteria are required for protocol enrolment: D-dimer > 1,000ng/mL; C reactive protein > 5mg/dL, ferritin > 300mg/dL, and lactate dehydrogenase > upper limit of normal. The primary objective will be to compare the clinical status on day 15, as measured by a 7-point ordinal scale applied in COVID-19 trials worldwide. The primary endpoint will be assessed by an ordinal logistic regression assuming proportional odds ratios adjusted for stratification variables (age and sex).The TOCIBRAS protocol was approved by local and central (national) ethical committees in Brazil following current national and international guidelines/directives. Each participating center had the study protocol approved by their institutional review boards before initiating protocol enrolment. The data derived from this trial will be published regardless of the results. If proven active, this strategy could alleviate the consequences of the inflammatory response in COVID-19 patients and improve their clinical outcomes.",
+    "denotations": [
+        {
+            "id": "HP_0012824",
+            "span": {
+                "begin": 64,
+                "end": 72
+            },
+            "obj": "severity"
+        },
+        {
+            "id": "HP_0012826",
+            "span": {
+                "begin": 584,
+                "end": 592
+            },
+            "obj": "moderate"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 596,
+                "end": 602
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0030645",
+            "span": {
+                "begin": 1163,
+                "end": 1170
+            },
+            "obj": "central"
+        },
+        {
+            "id": "GO_0006954",
+            "span": {
+                "begin": 1562,
+                "end": 1583
+            },
+            "obj": "inflammatory response"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0006954",
+            "pred": "no_relation",
+            "obj": "HP_0012824"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0006954",
+            "pred": "no_relation",
+            "obj": "HP_0012826"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0006954",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        }
+    ]
+}

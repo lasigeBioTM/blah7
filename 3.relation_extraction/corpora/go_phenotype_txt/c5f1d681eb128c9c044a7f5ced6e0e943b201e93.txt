@@ -1,0 +1,37 @@
+0|chunk|A new Schiff base coordinated copper(II) compound induces apoptosis and inhibits tumor growth in gastric cancer
+0	81	86 tumor	Phenotype	HP_0002664
+0	87	93 growth	Gene_function	GO_0040007
+0	97	111 gastric cancer	Phenotype	HP_0012126
+0	105	111 cancer	Phenotype	HP_0002664
+0	HP-GO	HP_0002664	GO_0040007
+0	GO-HP	GO_0040007	HP_0012126
+
+1|chunk|Background: Gastric cancer, as a multifactorial disorders, shows cytological and architectural heterogeneity compared to other gastrointestinal cancers, making it therapeutically challenging. Cisplatin is generally used in clinic for gastric cancer treatment but with toxic side effects and develops resistance. Anti-tumor properties of copper and its coordinated compounds have been explored intensively in recent years.
+1	12	26 Gastric cancer	Phenotype	HP_0012126
+1	20	26 cancer	Phenotype	HP_0002664
+1	95	108 heterogeneity	Phenotype	HP_0001425
+1	234	248 gastric cancer	Phenotype	HP_0012126
+1	242	248 cancer	Phenotype	HP_0002664
+
+2|chunk|In this study, we synthesized a novel Schiff base copper coordinated compound (SBCCC) and examined its antitumor effects in two gastric cancer cell lines SGC-7901 and BGC-823 as well as a mouse model of gastric cancer.
+2	128	142 gastric cancer	Phenotype	HP_0012126
+2	136	142 cancer	Phenotype	HP_0002664
+2	203	217 gastric cancer	Phenotype	HP_0012126
+2	211	217 cancer	Phenotype	HP_0002664
+
+3|chunk|The results show that SBCCC can significantly inhibit the proliferation of gastric cancer cells in a dose-and time-dependent manner. The IC50 of SBCCC in SGC-7901 and BGC-823 cells is 1 M, which is much less than cisplatin's IC50. SBCCC induces apoptosis and causes cell cycle arrest at the G1 phase. SBCCC induces apoptosis via multiple pathways including inhibition of NF-B, ROS production and autophagy.
+3	75	89 gastric cancer	Phenotype	HP_0012126
+3	83	89 cancer	Phenotype	HP_0002664
+3	267	277 cell cycle	Gene_function	GO_0007049
+3	267	284 cell cycle arrest	Gene_function	GO_0007050
+3	HP-GO	HP_0012126	GO_0007049
+3	HP-GO	HP_0012126	GO_0007050
+3	HP-GO	HP_0002664	GO_0007049
+3	HP-GO	HP_0002664	GO_0007050
+
+4|chunk|The synthesized SBCCC induced cancer cell death via inhibition of NF-B, ROS production and autophagy. The multiple cell-killing mechanisms were important to overcome therapeutic failure because of multidrug-resistance of cancer cells. SBCCC, with a lower IC50 compared to cisplatin, could render it the potential to overcome the side-effect for clinical application.
+4	30	36 cancer	Phenotype	HP_0002664
+4	37	47 cell death	Gene_function	GO_0008219
+4	222	228 cancer	Phenotype	HP_0002664
+4	HP-GO	HP_0002664	GO_0008219
+

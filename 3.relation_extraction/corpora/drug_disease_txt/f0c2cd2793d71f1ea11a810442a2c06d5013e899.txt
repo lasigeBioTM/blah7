@@ -1,0 +1,43 @@
+0|chunk|Citation: Clara Cell 10 kDa Protein Alleviates Murine Hepatitis Virus Strain 3-Induced Fulminant Hepatitis by Inhibiting Fibrinogen-Like Protein 2 Expression
+0	28	35 Protein	Chemical	CHEBI_16541
+0	54	63 Hepatitis	Disease	DOID_2237
+0	97	106 Hepatitis	Disease	DOID_2237
+0	137	144 Protein	Chemical	CHEBI_16541
+0	CHEBI-DOID	CHEBI_16541	DOID_2237
+
+1|chunk|Background: Fulminant hepatitis (FH) is a serious threat to human life, accompanied by massive and rapid necroinflammation. Kupffer cells, the major immune cell population involved in innate immune responses, are considered to be central for FH. Fibrinogen-like protein 2 (Fgl2) is a pro-coagulant protein that is substantially induced in macrophages upon viral infection, and Fgl2 depletion represses murine hepatitis virus strain 3 (MHV-3) infection. Clara cell 10 kDa (CC10) protein is a secretory protein with anti-inflammatory properties in allergic rhinitis and asthma. However, its mechanisms of action and pathogenic roles in other disease are still unclear. In this study, we aimed to determine the role of CC10 in FH and the regulation of Fgl2 by CC10.
+1	22	31 hepatitis	Disease	DOID_2237
+1	262	269 protein	Chemical	CHEBI_16541
+1	298	305 protein	Chemical	CHEBI_16541
+1	409	418 hepatitis	Disease	DOID_2237
+1	478	485 protein	Chemical	CHEBI_16541
+1	501	508 protein	Chemical	CHEBI_16541
+1	546	563 allergic rhinitis	Disease	DOID_4481
+1	555	563 rhinitis	Disease	DOID_4483
+1	603	609 action	Chemical	CHEBI_5133
+1	640	647 disease	Disease	DOID_4
+1	708	712 role	Chemical	CHEBI_50906
+1	DOID-CHEBI	DOID_2237	CHEBI_16541
+1	DOID-CHEBI	DOID_2237	CHEBI_5133
+1	DOID-CHEBI	DOID_2237	CHEBI_50906
+1	CHEBI-DOID	CHEBI_16541	DOID_4481
+1	CHEBI-DOID	CHEBI_16541	DOID_4483
+1	CHEBI-DOID	CHEBI_16541	DOID_4
+1	DOID-CHEBI	DOID_4481	CHEBI_5133
+1	DOID-CHEBI	DOID_4481	CHEBI_50906
+1	DOID-CHEBI	DOID_4483	CHEBI_5133
+1	DOID-CHEBI	DOID_4483	CHEBI_50906
+1	CHEBI-DOID	CHEBI_5133	DOID_4
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+
+2|chunk|Methods: A mouse FH model was established by peritoneal injection of MHV-3. The mice received CC10 protein through tail vein injection before viral infection. Survival rate, liver function, liver histology, fibrin deposition, and necrosis were examined. The regulatory effect of CC10 on Fgl2 expression was investigated using THP-1 cells and mouse peritoneal macrophages in vitro.
+2	99	106 protein	Chemical	CHEBI_16541
+2	207	213 fibrin	Chemical	CHEBI_5054
+
+3|chunk|In the mouse FH model induced by MHV-3, the survival rate increased from 0 to 12.5% in the CC10 group compared to that in the saline-only control group. Meanwhile, the levels of ALT and AST in serum were significantly decreased and liver damage was reduced. Furthermore, hepatic Fgl2, TNF-, and IL-1 expression was obviously downregulated together with fibrin deposition, and hepatocyte apoptosis was reduced after administration of CC10 protein. In vitro, CC10 was found to significantly inhibit the expression of Fgl2 in IFN--treated THP-1 cells and MHV-3-infected mouse peritoneal macrophages by western blot and real-time PCR. However, there was no direct interaction between CC10 and Fgl2 as shown by co-immunoprecipitation. Microarray investigations suggested that HMG-box transcription factor 1 (HBP1) was significantly low in CC10-treated and IFN--primed THP-1 cells. HBP1-siRNA treatment abrogated the inhibitory effect of CC10 on Fgl2 expression in Human Umbilical Vein Endothelial cells (HUVECs).
+3	178	181 ALT	Chemical	CHEBI_37708
+3	186	189 AST	Chemical	CHEBI_76649
+3	355	361 fibrin	Chemical	CHEBI_5054
+
+4|chunk|Conclusion: CC10 protects against MHV-3-induced FH via suppression of Fgl2 expression in macrophages. Such effects may be mediated by the transcription factor HBP1.
+

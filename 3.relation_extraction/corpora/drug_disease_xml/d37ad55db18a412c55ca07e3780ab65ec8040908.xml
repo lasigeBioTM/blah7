@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<document id="d37ad55db18a412c55ca07e3780ab65ec8040908">
+  <chunk id="d37ad55db18a412c55ca07e3780ab65ec8040908.c0" text="An Overview of Practical Applications of Protein Disorder Prediction and Drive for Faster, More Accurate Predictions">
+    <entity charOffset="41-48" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c0.e0" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+  </chunk>
+  <chunk id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1" text="Protein disordered regions are segments of a protein chain that do not adopt a stable structure. Thus far, a variety of protein disorder prediction methods have been developed and have been widely used, not only in traditional bioinformatics domains, including protein structure prediction, protein structure determination and function annotation, but also in many other biomedical fields. The relationship between intrinsically-disordered proteins and some human diseases has played a significant role in disorder prediction in disease identification and epidemiological investigations. Disordered proteins can also serve as potential targets for drug discovery with an emphasis on the disordered-to-ordered transition in the disordered binding regions, and this has led to substantial research in drug discovery or design based on protein disordered region prediction. Furthermore, protein disorder prediction has also been applied to healthcare by predicting the disease risk of mutations in patients and studying the mechanistic basis of diseases. As the applications of disorder prediction increase, so too does the need to make quick and accurate predictions. To fill this need, we also present a new approach to predict protein residue disorder using wide sequence windows that is applicable on the genomic scale.">
+    <entity charOffset="0-7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e0" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="45-52" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="120-127" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="261-268" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="291-298" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="440-448" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="498-502" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e6" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="529-536" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="599-607" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="648-652" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e9" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="799-803" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e10" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="833-840" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e11" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="884-891" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="966-973" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1227-1234" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e14" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e0" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p0" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e0" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p1" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e1" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p2" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e1" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p3" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e2" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p4" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e2" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p5" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e3" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p6" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e3" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p7" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e4" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p8" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e4" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p9" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e5" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p10" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e5" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p11" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e6" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p12" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e6" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p13" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e8" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p14" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e9" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p15" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e10" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p16" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e11" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p17" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e12" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p18" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e7" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e14" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p19" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e8" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p20" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e9" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p21" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e10" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p22" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e11" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p23" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e12" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p24" relation="true"/>
+    <pair e1="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e13" e2="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.e14" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c1.p25" relation="true"/>
+  </chunk>
+  <chunk id="d37ad55db18a412c55ca07e3780ab65ec8040908.c2" text="OPEN ACCESS">
+    <entity charOffset="5-11" id="d37ad55db18a412c55ca07e3780ab65ec8040908.c2.e0" ontology_id="CHEBI_34922" text="ACCESS" type="chemical"/>
+  </chunk>
+</document>

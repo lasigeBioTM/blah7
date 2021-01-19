@@ -1,0 +1,43 @@
+{
+    "text": "The COVID-19 pandemic has been most severe in the poorest regions of Brazil, such as the states of the Northeast Region. The lack of national policies for pandemic control forced state and municipal authorities to implement public health measures. The aim of this study is to show the effect of these measures on the epidemic. The highest incidence of COVID-19 among the nine states in the Northeast was recorded in Sergipe, Para\u00edba and Cear\u00e1. Piau\u00ed, Para\u00edba and Cear\u00e1 were the states that most tested. Factors associated with transmission included the high proportion of people in informal work. States with international airports played an important role in the entry of the virus and the initial spread, especially Cear\u00e1. All states applied social distancing measures, banned public events and closed schools. The response was a significant increase in social distancing, especially in Cear\u00e1 and Pernambuco, a decline in the reproduction rate (Rt), and a separation of the curve of observed cases versus expected cases if the non-pharmacological interventions had not been implemented in all states. Poverty, inequality, and the high rates of informal work provide clues to the intensity of COVID-19 in the region. On the other hand, the measures taken early by the governments mitigated the effects of the pandemic.",
+    "denotations": [
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 36,
+                "end": 42
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "GO_0000003",
+            "span": {
+                "begin": 928,
+                "end": 940
+            },
+            "obj": "reproduction"
+        },
+        {
+            "id": "HP_0012824",
+            "span": {
+                "begin": 1181,
+                "end": 1190
+            },
+            "obj": "intensity"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0000003",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0000003",
+            "pred": "no_relation",
+            "obj": "HP_0012824"
+        }
+    ]
+}

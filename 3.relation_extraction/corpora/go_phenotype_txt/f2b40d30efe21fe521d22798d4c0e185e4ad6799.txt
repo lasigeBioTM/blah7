@@ -1,0 +1,56 @@
+0|chunk|PCR based bronchoscopic detection of common respiratory pathogens in chronic cough: a case control study
+0	69	76 chronic	Phenotype	HP_0011010
+
+1|chunk|Background: Viral respiratory tract infection is the most frequent cause of acute cough and is reported at onset in about one third of patients with chronic cough. Persistent infection is therefore one possible explanation for the cough reflex hypersensitivity and pulmonary inflammation reported in chronic cough patients. Methods: Bronchoscopic endobronchial biopsies and bronchoalveolar lavage cell counts were obtained from ten healthy volunteers and twenty treatment resistant chronic cough patients (10 selected for lavage lymphocytosis). A screen for known respiratory pathogens was performed on biopsy tissue. Chronic cough patients also underwent cough reflex sensitivity testing using citric acid.
+1	18	45 respiratory tract infection	Phenotype	HP_0011947
+1	58	66 frequent	Phenotype	HP_0040282
+1	76	81 acute	Phenotype	HP_0011009
+1	82	87 cough	Phenotype	HP_0012735
+1	107	112 onset	Phenotype	HP_0003674
+1	149	156 chronic	Phenotype	HP_0011010
+1	157	162 cough	Phenotype	HP_0012735
+1	231	236 cough	Phenotype	HP_0012735
+1	237	243 reflex	Gene_function	GO_0060004
+1	244	260 hypersensitivity	Gene_function	GO_0002524
+1	300	307 chronic	Phenotype	HP_0011010
+1	308	313 cough	Phenotype	HP_0012735
+1	432	439 healthy	Phenotype	HP_0032322
+1	482	489 chronic	Phenotype	HP_0011010
+1	490	495 cough	Phenotype	HP_0012735
+1	618	625 Chronic	Phenotype	HP_0011010
+1	626	631 cough	Phenotype	HP_0012735
+1	656	661 cough	Phenotype	HP_0012735
+1	662	668 reflex	Gene_function	GO_0060004
+1	HP-GO	HP_0011947	GO_0060004
+1	HP-GO	HP_0011947	GO_0002524
+1	HP-GO	HP_0040282	GO_0060004
+1	HP-GO	HP_0040282	GO_0002524
+1	HP-GO	HP_0011009	GO_0060004
+1	HP-GO	HP_0011009	GO_0002524
+1	HP-GO	HP_0012735	GO_0060004
+1	HP-GO	HP_0012735	GO_0002524
+1	HP-GO	HP_0003674	GO_0060004
+1	HP-GO	HP_0003674	GO_0002524
+1	HP-GO	HP_0011010	GO_0060004
+1	HP-GO	HP_0011010	GO_0002524
+1	GO-HP	GO_0060004	HP_0032322
+1	GO-HP	GO_0002524	HP_0032322
+
+2|chunk|Results: There was no significant difference in incidence of infection between healthy volunteers and chronic cough patients (p = 0.115) or non-lymphocytic and lymphocytic groups (p = 0.404). BAL cell percentages were not significantly different between healthy volunteers and chronic cough patients without lymphocytosis. Lymphocytic patients however had a significantly raised percentage of lymphocytes (p < 0.01), neutrophils (p < 0.05), eosinophils (p < 0.05) and decreased macrophages (p < 0.001) verses healthy volunteers. There was no significant difference in the cough reflex sensitivity between non-lymphocytic and lymphocytic patients (p = 0.536).
+2	79	86 healthy	Phenotype	HP_0032322
+2	102	109 chronic	Phenotype	HP_0011010
+2	110	115 cough	Phenotype	HP_0012735
+2	254	261 healthy	Phenotype	HP_0032322
+2	277	284 chronic	Phenotype	HP_0011010
+2	285	290 cough	Phenotype	HP_0012735
+2	509	516 healthy	Phenotype	HP_0032322
+2	572	577 cough	Phenotype	HP_0012735
+2	578	584 reflex	Gene_function	GO_0060004
+2	HP-GO	HP_0032322	GO_0060004
+2	HP-GO	HP_0011010	GO_0060004
+2	HP-GO	HP_0012735	GO_0060004
+
+3|chunk|Conclusions: This study indicates latent infection in the lung is unlikely to play an important role in chronic cough, but a role for undetected or undetectable pathogens in either the lung or a distal site could not be ruled out.
+3	104	111 chronic	Phenotype	HP_0011010
+3	195	201 distal	Phenotype	HP_0012839
+

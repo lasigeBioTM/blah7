@@ -1,0 +1,15 @@
+0|chunk|iLIR@viral: A web resource for LIR motif-containing proteins in viruses
+
+1|chunk|Macroautophagy/autophagy has been shown to mediate the selective lysosomal degradation of pathogenic bacteria and viruses (xenophagy), and to contribute to the activation of innate and adaptative immune responses. Autophagy can serve as an antiviral defense mechanism but also as a proviral process during infection. Atg8-family proteins play a central role in the autophagy process due to their ability to interact with components of the autophagy machinery as well as selective autophagy receptors and adaptor proteins. Such interactions are usually mediated through LC3-interacting region (LIR) motifs. So far, only one viral protein has been experimentally shown to have a functional LIR motif, leaving open a vast field for investigation. Here, we have developed the iLIR@viral database (http://ilir.uk/virus/) as a freely accessible web resource listing all the putative canonical LIR motifs identified in viral proteins. Additionally, we used a curated text-mining analysis of the literature to identify novel putative LIR motif-containing proteins (LIRCPs) in viruses. We anticipate that iLIR@viral will assist with elucidating the full complement of LIRCPs in viruses.
+1	15	24 autophagy	Gene_function	GO_0006914
+1	75	86 degradation	Gene_function	GO_0009056
+1	214	223 Autophagy	Gene_function	GO_0006914
+1	345	352 central	Phenotype	HP_0030645
+1	365	374 autophagy	Gene_function	GO_0006914
+1	439	448 autophagy	Gene_function	GO_0006914
+1	470	489 selective autophagy	Gene_function	GO_0061912
+1	480	489 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0030645
+1	GO-HP	GO_0009056	HP_0030645
+1	HP-GO	HP_0030645	GO_0061912
+

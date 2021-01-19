@@ -1,0 +1,6 @@
+0|chunk|Arapan-S: a fast and highly accurate whole-genome assembly software for viruses and small genomes
+
+1|chunk|Background: Genome assembly is considered to be a challenging problem in computational biology, and has been studied extensively by many researchers. It is extremely difficult to build a general assembler that is able to reconstruct the original sequence instead of many contigs. However, we believe that creating specific assemblers, for solving specific cases, will be much more fruitful than creating general assemblers.
+
+2|chunk|Findings: In this paper, we present Arapan-S, a whole-genome assembly program dedicated to handling small genomes. It provides only one contig (along with the reverse complement of this contig) in many cases. Although genomes consist of a number of segments, the implemented algorithm can detect all the segments, as we demonstrate for Influenza Virus A. The Arapan-S program is based on the de Bruijn graph. We have implemented a very sophisticated and fast method to reconstruct the original sequence and neglect erroneous k-mers. The method explores the graph by using neither the shortest nor the longest path, but rather a specific and reliable path based on the coverage level or k-mers' lengths. Arapan-S uses short reads, and it was tested on raw data downloaded from the NCBI Trace Archive.
+

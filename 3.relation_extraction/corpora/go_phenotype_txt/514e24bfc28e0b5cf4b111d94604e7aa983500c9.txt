@@ -1,0 +1,68 @@
+0|chunk|MERS-CoV 4b protein interferes with the NF- B-dependent innate immune response during infection Author summary
+0	57	79 innate immune response	Gene_function	GO_0045087
+0	64	79 immune response	Gene_function	GO_0006955
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) is a novel human coronavirus that emerged in 2012, causing severe pneumonia and acute respiratory distress syndrome (ARDS), with a case fatality rate of~36%. When expressed in isolation, CoV accessory proteins have been shown to interfere with innate antiviral signaling pathways. However, there is limited information on the specific contribution of MERS-CoV accessory protein 4b to the repression of the innate antiviral response in the context of infection. We found that MERS-CoV 4b was required to prevent a robust NF-B dependent response during infection. In wild-type virus infected cells, 4b localized to the nucleus, while NF-B was retained in the cytoplasm. In contrast, in the absence of 4b or in the presence of cytoplasmic 4b mutants lacking a nuclear localization signal (NLS), NF-B was translocated to the nucleus leading to the expression of pro-inflammatory cytokines. This indicates that NF-B repression required the nuclear import of 4b mediated by a specific NLS. Interestingly, we also found that both in isolation and during infection, 4b interacted with -karyopherin proteins in an NLS-dependent manner. In particular, 4b had a strong preference for binding karyopherin-4 (KPNA4), which is known to translocate the NF-B protein complex into the nucleus. Binding of 4b to KPNA4 during infection inhibited its interaction with NF-B-p65 subunit. Thereby we propose a model where 4b outcompetes NF-B for KPNA4 binding and translocation into the nucleus as a mechanism of interference with the NF-B-mediated innate immune response.
+1	115	121 severe	Phenotype	HP_0012828
+1	122	131 pneumonia	Phenotype	HP_0002090
+1	136	141 acute	Phenotype	HP_0011009
+1	142	162 respiratory distress	Phenotype	HP_0002098
+1	317	326 signaling	Gene_function	GO_0023052
+1	469	487 antiviral response	Gene_function	GO_0051607
+1	657	666 localized	Phenotype	HP_0012838
+1	674	681 nucleus	Gene_function	GO_0005634
+1	823	835 localization	Gene_function	GO_0051179
+1	880	887 nucleus	Gene_function	GO_0005634
+1	995	1009 nuclear import	Gene_function	GO_0051170
+1	1234	1241 binding	Gene_function	GO_0005488
+1	1331	1338 nucleus	Gene_function	GO_0005634
+1	1340	1347 Binding	Gene_function	GO_0005488
+1	1494	1501 binding	Gene_function	GO_0005488
+1	1529	1536 nucleus	Gene_function	GO_0005634
+1	1592	1614 innate immune response	Gene_function	GO_0045087
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0051607
+1	HP-GO	HP_0012828	GO_0005634
+1	HP-GO	HP_0012828	GO_0051179
+1	HP-GO	HP_0012828	GO_0051170
+1	HP-GO	HP_0012828	GO_0005488
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0002090	GO_0023052
+1	HP-GO	HP_0002090	GO_0051607
+1	HP-GO	HP_0002090	GO_0005634
+1	HP-GO	HP_0002090	GO_0051179
+1	HP-GO	HP_0002090	GO_0051170
+1	HP-GO	HP_0002090	GO_0005488
+1	HP-GO	HP_0002090	GO_0045087
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0051607
+1	HP-GO	HP_0011009	GO_0005634
+1	HP-GO	HP_0011009	GO_0051179
+1	HP-GO	HP_0011009	GO_0051170
+1	HP-GO	HP_0011009	GO_0005488
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0002098	GO_0023052
+1	HP-GO	HP_0002098	GO_0051607
+1	HP-GO	HP_0002098	GO_0005634
+1	HP-GO	HP_0002098	GO_0051179
+1	HP-GO	HP_0002098	GO_0051170
+1	HP-GO	HP_0002098	GO_0005488
+1	HP-GO	HP_0002098	GO_0045087
+1	GO-HP	GO_0023052	HP_0012838
+1	GO-HP	GO_0051607	HP_0012838
+1	HP-GO	HP_0012838	GO_0005634
+1	HP-GO	HP_0012838	GO_0051179
+1	HP-GO	HP_0012838	GO_0051170
+1	HP-GO	HP_0012838	GO_0005488
+1	HP-GO	HP_0012838	GO_0045087
+
+2|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) is a highly pathogenic human CoV that continues to cause lethal human infections, primarily in the Middle East. Virus accessory genes are potential contributors to pathology, possibly by interfering with the innate immune response. However, understanding their interactions with host proteins in the context of infection is rudimentary. Here, we provide evidence that the MERS-CoV accessory protein 4b functioned, at least in part, to prevent a robust NF-B dependent response during infection. This effect depended on the nuclear localization of 4b, which was associated with the cytoplasmic retention of NF-B. We show that 4b interacted with -karyopherin proteins (importins) involved in the nuclear import of NF-B, inhibiting the binding of -karyopherin to NF-B-p65 subunit. We propose that 4b contributes to the evasion of the innate immune response by binding -karyopherin proteins, leading to the inhibition of NF-B nuclear transport. NF-B inhibition by MERS-CoV 4b protein during infection PLOS Pathogens | https://doi.
+2	264	286 innate immune response	Gene_function	GO_0045087
+2	271	286 immune response	Gene_function	GO_0006955
+2	587	599 localization	Gene_function	GO_0051179
+2	752	766 nuclear import	Gene_function	GO_0051170
+2	792	799 binding	Gene_function	GO_0005488
+2	892	914 innate immune response	Gene_function	GO_0045087
+2	899	914 immune response	Gene_function	GO_0006955
+2	918	925 binding	Gene_function	GO_0005488
+

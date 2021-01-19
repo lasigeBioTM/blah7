@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<document id="ba7a60024505cd93efc22344fc0c956bad66d6e8">
+  <chunk id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c0" text="Mouse Hepatitis Virus Infection Upregulates Genes Involved in Innate Immune Responses">
+    <entity charOffset="6-15" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c0.e0" ontology_id="HP_0012115" text="Hepatitis" type="phenotype"/>
+  </chunk>
+  <chunk id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1" text="Neurotropic recombinant strain of Mouse Hepatitis Virus, RSA59, induces meningo-encephalitis, myelitis and demyelination following intracranial inoculation. RSA59 induced neuropathology is partially caused by activation of CNS resident microglia, as demonstrated by changes in cellular morphology and increased expression of a microglia/macrophage specific calcium ion binding factor, Iba1. Affymetrix Microarray analysis for mRNA expression data reveals expression of inflammatory mediators that are known to be released by activated microglia. Microglia-specific cell surface molecules, including CD11b, CD74, CD52 and CD68, are significantly upregulated in contrast to CD4, CD8 and CD19. Protein analysis of spinal cord extracts taken from mice 6 days post-inoculation, the time of peak inflammation, reveals robust expression of IFN-c, IL-12 and mKC. Data suggest that activated microglia and inflammatory mediators contribute to a local CNS microenvironment that regulates viral replication and IFN-c production during the acute phase of infection, which in turn can cause phagolysosome maturation and phagocytosis of the myelin sheath, leading to demyelination.">
+    <entity charOffset="40-49" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" ontology_id="HP_0012115" text="Hepatitis" type="phenotype"/>
+    <entity charOffset="94-102" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" ontology_id="HP_0012486" text="myelitis" type="phenotype"/>
+    <entity charOffset="107-120" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" ontology_id="HP_0011096" text="demyelination" type="phenotype"/>
+    <entity charOffset="357-376" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" ontology_id="GO_0005509" text="calcium ion binding" type="gene_function"/>
+    <entity charOffset="365-376" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" ontology_id="GO_0043167" text="ion binding" type="gene_function"/>
+    <entity charOffset="369-376" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="565-577" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" ontology_id="GO_0009986" text="cell surface" type="gene_function"/>
+    <entity charOffset="1028-1033" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="1078-1091" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" ontology_id="GO_0032010" text="phagolysosome" type="gene_function"/>
+    <entity charOffset="1107-1119" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" ontology_id="GO_0006909" text="phagocytosis" type="gene_function"/>
+    <entity charOffset="1153-1166" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" ontology_id="HP_0011096" text="demyelination" type="phenotype"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p0" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p1" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p2" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p3" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p4" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e0" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p5" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p6" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p7" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p8" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p9" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p10" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e1" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p11" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p12" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p13" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p14" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p15" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p16" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e2" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p17" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p18" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e3" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p19" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p20" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e4" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p21" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p22" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e5" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p23" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p24" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e6" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p25" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p26" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e7" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p27" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e8" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p28" relation="true"/>
+    <pair e1="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e9" e2="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.e10" id="ba7a60024505cd93efc22344fc0c956bad66d6e8.c1.p29" relation="true"/>
+  </chunk>
+</document>

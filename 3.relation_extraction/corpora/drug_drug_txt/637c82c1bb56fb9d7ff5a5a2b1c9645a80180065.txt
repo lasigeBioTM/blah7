@@ -1,0 +1,100 @@
+0|chunk|one-plasmid double-expression His-tag system for rapid production and easy purification of MS2 phage- like particles OPEN
+
+1|chunk|MS2 phage-like particles (MS2 PLP) are artificially constructed pseudo-viral particles derived from bacteriophage MS2. They are able to carry a specific single stranded RNA (ssRNA) sequence of choice inside their capsid, thus protecting it against the effects of ubiquitous nucleases. Such particles are able to mimic ssRNA viruses and, thus, may serve as the process control for molecular detection and quantification of such agents in several kinds of matrices, vaccines and vaccine candidates, drug delivery systems, and systems for the display of immunologically active peptides or nanomachines. Currently, there are several different in vivo plasmid-driven packaging systems for production of MS2 PLP. In order to combine all the advantages of the available systems and to upgrade and simplify the production and purification of MS2 PLP, a one-plasmid double-expression His-tag system was designed. The described system utilizes a unique fusion insertional mutation enabling purification of particles using His-tag affinity. Using this new production system, highly pure MS2 PLP can be quickly produced and purified by a fast performance liquid chromatography (FPLC) approach. The system can be easily adapted to produce other MS2 PLP with different properties.
+1	30	33 PLP	Chemical	CHEBI_18405
+1	169	172 RNA	Chemical	CHEBI_33697
+1	497	501 drug	Chemical	CHEBI_23888
+1	574	582 peptides	Chemical	CHEBI_16670
+1	702	705 PLP	Chemical	CHEBI_18405
+1	838	841 PLP	Chemical	CHEBI_18405
+1	1080	1083 PLP	Chemical	CHEBI_18405
+1	1236	1239 PLP	Chemical	CHEBI_18405
+1	CHEBI-CHEBI	CHEBI_18405	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_18405	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_18405	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_16670
+
+2|chunk|MS2 phage-like particles (MS2 PLP) are artificial pseudo-viral particles whose production is based on knowledge of the familiar bacteriophage MS2 (+ssRNA, Leviviridae) 1 and the ability of its coat protein dimers to pack specific single-stranded RNA (ssRNA) molecules 2-4 . The packaging is driven by dimerization of coat proteins followed by a specific interaction of dimers with a stem-loop structure (called the "pac" site) in ssRNA resulting in spontaneous formation of MS2 PLP. These particles are small in size (about 27 nm), non-enveloped, non-infectious, non-replicative, stable pseudo-viral particles with the ability to protect encapsidated ssRNA molecules against the effects of ubiquitous nucleases. Due to these properties and their morphological and physicochemical characteristics, MS2 PLP carrying specific ssRNA molecules can serve as suitable process control virus (PCV) for the detection and quantification of ssRNA viruses within a wide range of samples; for example, human norovirus (NoV), human enterovirus (EV), hepatitis A virus (HAV), hepatitis E virus (HEV), hepatitis C virus (HCV), and human immunodeficiency virus type 1 (HIV-1) 2,5-8 . Perspectives on the practical use of MS2 PLP as RNA vaccines and vaccine candidates, drug delivery systems, and systems for the display of immunologically active peptides or nanomachines are discussed in a recent review 9 .
+2	30	33 PLP	Chemical	CHEBI_18405
+2	198	205 protein	Chemical	CHEBI_16541
+2	246	249 RNA	Chemical	CHEBI_33697
+2	258	267 molecules	Chemical	CHEBI_25367
+2	322	330 proteins	Chemical	CHEBI_36080
+2	478	481 PLP	Chemical	CHEBI_18405
+2	657	666 molecules	Chemical	CHEBI_25367
+2	801	804 PLP	Chemical	CHEBI_18405
+2	829	838 molecules	Chemical	CHEBI_25367
+2	884	887 PCV	Chemical	CHEBI_7956
+2	1207	1210 PLP	Chemical	CHEBI_18405
+2	1214	1217 RNA	Chemical	CHEBI_33697
+2	1251	1255 drug	Chemical	CHEBI_23888
+2	1328	1336 peptides	Chemical	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_7956
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_18405	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_7956
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_7956
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_7956
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_25367	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_7956
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_7956	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_7956	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_16670
+
+3|chunk|Since the first study at the beginning of the 1990s in which non-bacteriophage RNA was encapsulated by MS2 coat protein dimers, many different methods for the production of MS2 PLP have been developed 4 . Currently, the production of MS2 PLP is based on various in vivo plasmid-driven packaging systems, which exploit the spontaneous assembly of MS2 coat protein dimers in the presence of the pac site inside Escherichia coli (E. coli) 10 . However, while each of these systems have their advantages, they are also characterized by various drawbacks, e.g., limited capacity for packaging of control ssRNA, lower efficiency of packaging, complicated system construction, or complicated and time-consuming purification of produced MS2 PLP. The newest and most advanced plasmid-driven packaging system, the so-called one-plasmid double-expression packaging system, allows construction of MS2 PLP with high efficiency and packaging specificity, and allows a maximum length of encapsidated ssRNA of up to 3,600 nucleotides (nt) 11 . Recently, this packaging system was even used for the construction of MS2 PLP carrying a 4,942-nt-long control sequence for Zika virus 12 . However, this system still does not address a major drawback of current MS2 PLP preparations: the purification procedure. Therefore, produced MS2 PLP must be purified in a time-consuming and laborious ultracentrifugation step, which does not isolate MS2 PLP in the required purity 4, 8, 10, 11, 13 . The problem of purification can be solved by the introduction of an affinity tag (e.g., polyhistidine-tag; His-tag) to the structure of MS2 PLP allowing their purification using the Co 2+ affinity chromatography method 13,14 . This approach enables easy and fast purification of huge amounts of pure MS2 PLP. As the one-plasmid double-expression packaging system had not yet been developed at that time, Cheng et al. used a so-called one-plasmid expression system for production of MS2 PLP. The system has limited capacity for packaging of control sequences (up to 2,000 nt), and the particles contain undesirable sequences from bacteriophage MS2 10,13 . Based on this knowledge, none of the previously used plasmid-driven systems for production of MS2 PLP is ideal. The novelty of the present study lies not only in combination of all the experience acquired so far with the different methods of MS2 PLP construction for developing a new plasmid-driven construction system, which integrates all the advantages and benefits of the previously described systems. This is also the first report about the construction of single-chain version of the coat protein dimer containing the His-tag capable to successfully form intact His-tagged MS2 PLP that can be purified in less than one hour by FPLC. Moreover, presented approach solves the previous problem of introduction of His-tag to structure of the coat protein in parallel with formation of whole intact MS2 PLP.
+3	79	82 RNA	Chemical	CHEBI_33697
+3	112	119 protein	Chemical	CHEBI_16541
+3	177	180 PLP	Chemical	CHEBI_18405
+3	238	241 PLP	Chemical	CHEBI_18405
+3	355	362 protein	Chemical	CHEBI_16541
+3	733	736 PLP	Chemical	CHEBI_18405
+3	889	892 PLP	Chemical	CHEBI_18405
+3	1006	1017 nucleotides	Chemical	CHEBI_36976
+3	1102	1105 PLP	Chemical	CHEBI_18405
+3	1244	1247 PLP	Chemical	CHEBI_18405
+3	1314	1317 PLP	Chemical	CHEBI_18405
+3	1422	1425 PLP	Chemical	CHEBI_18405
+3	1608	1611 PLP	Chemical	CHEBI_18405
+3	1772	1775 PLP	Chemical	CHEBI_18405
+3	1954	1957 PLP	Chemical	CHEBI_18405
+3	2221	2224 PLP	Chemical	CHEBI_18405
+3	2369	2372 PLP	Chemical	CHEBI_18405
+3	2618	2625 protein	Chemical	CHEBI_16541
+3	2706	2709 PLP	Chemical	CHEBI_18405
+3	2871	2878 protein	Chemical	CHEBI_16541
+3	2926	2929 PLP	Chemical	CHEBI_18405
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_18405
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18405
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_18405	CHEBI_36976
+
+4|chunk|Construction of pACYCDuet-1-TM. A specific control sequence derived from the mitochondrial DNA (mtDNA) sequences of two extinct species was cloned into the MCS2 of pACYCDuet-1 to construct the pACYC-Duet-1-TM vector (Fig. 1) . The resulting construct was verified by sequencing (data not shown).
+4	91	94 DNA	Chemical	CHEBI_16991
+
+5|chunk|Construction of pACYCDuet-1-TM-CoatDimer-His. The fragment of maturase and single-chain version of the coat protein dimer containing the His-tag was amplified from de novo-synthesized sequence (Fig. 2) , and cloned into the MCS1 of pACYCDuet-1-TM to create the pACYCDuet-1-TM-CoatDimer-His vector. The construct was verified by sequencing (data not shown). DNA fragments were reliably amplified without changes in nt sequence by a DNA polymerase with proofreading activity.
+5	108	115 protein	Chemical	CHEBI_16541
+5	357	360 DNA	Chemical	CHEBI_16991
+5	431	434 DNA	Chemical	CHEBI_16991
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_16991
+

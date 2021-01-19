@@ -1,0 +1,59 @@
+0|chunk|CD8+ T Cells Responding to the Middle East Respiratory Syndrome Coronavirus Nucleocapsid Protein Delivered by Vaccinia Virus MVA in Mice
+0	76	88 Nucleocapsid	Gene_function	GO_0019013
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV), a novel infectious agent causing severe respiratory disease and death in humans, was first described in 2012. Antibodies directed against the MERS-CoV spike (S) protein are thought to play a major role in controlling MERS-CoV infection and in mediating vaccine-induced protective immunity. In contrast, relatively little is known about the role of T cell responses and the antigenic targets of MERS-CoV that are recognized by CD8+ T cells. In this study, the highly conserved MERS-CoV nucleocapsid (N) protein served as a target immunogen to elicit MERS-CoV-specific cellular immune responses. Modified Vaccinia virus Ankara (MVA), a safety-tested strain of vaccinia virus for preclinical and clinical vaccine research, was used for generating MVA-MERS-N expressing recombinant N protein.
+1	90	96 severe	Phenotype	HP_0012828
+1	542	554 nucleocapsid	Gene_function	GO_0019013
+1	HP-GO	HP_0012828	GO_0019013
+
+2|chunk|Overlapping peptides spanning the whole MERS-CoV N polypeptide were used to identify major histocompatibility complex class I/II-restricted T cell responses in BALB/c mice immunized with MVA-MERS-N. We have identified a H2-d restricted decamer peptide epitope in the MERS-N protein with CD8+ T cell antigenicity. The identification of this epitope, and the availability of the MVA-MERS-N candidate vaccine, will help to evaluate MERS-N-specific immune responses and the potential immune correlates of vaccine-mediated protection in the appropriate murine models of MERS-CoV infection.
+2	85	117 major histocompatibility complex	Gene_function	GO_0046776
+
+3|chunk|At present, there is still relatively little known about the pathogenesis of MERS-CoV. The highest incidence of severe disease is observed in elderly and immunocompromised individuals [11] . Those at general risk for infections are health care workers and people in close contact with dromedary camels [12, 13] . These groups are therefore considered relevant target populations for prophylactic vaccination against MERS-CoV infection and prevention of MERS. The World Health Organization (WHO) and the Coalition for Epidemic Preparedness Innovations (CEPI) have listed MERS as priority target for vaccine development [14] . However, so far, no candidate vaccines have proceeded beyond phase I/IIa clinical testing [15] . One of these candidate vaccines is based on Modified Vaccinia virus Ankara (MVA), a safety-tested and replication-deficient vaccinia virus serving as an advanced viral vector platform for the development of new vaccines against infectious diseases and cancer (for review see [16] ). In that context, we still know relatively little about the correlates of vaccine induced protection against MERS-CoV. It is well-known that virus-neutralizing antibodies directed against the spike glycoprotein (S protein) correlate with protective immunity against coronavirus infections in general [17] [18] [19] [20] . Since the S protein is present on the cell surface, S protein is considered as the major antigen to induce virus neutralizing antibodies and as a key immunogen for the development of MERS-CoV candidate vaccines [21] [22] [23] [24] [25] . However, based on current knowledge from the biology of -coronaviruses, we hypothesize that also other viral proteins warrant consideration as immunogens and targets of virus-specific antibodies and T cells. Among those, the nucleocapsid protein (N protein) is produced at high levels in infected cells and has been proposed as useful candidate protein for clinical diagnosis [26] [27] [28] [29] [30] . The coronavirus N proteins have been associated with multiple functions in the virus life cycle including the regulation of viral RNA synthesis, the packaging of the viral RNA in helical nucleocapsids, and in virion assembly through interaction with the viral M protein [31] [32] [33] [34] . Furthermore, several reports suggest that the severe acute respiratory syndrome coronavirus (SARS-CoV) N protein functions as an immune evasion protein and an antagonist of the host interferon response [35] [36] [37] . Recently, the overexpression of MERS-CoV N in human A549 cells was found to be linked to an up-regulation of antiviral host gene expression including the synthesis of the inflammatory chemokine CXCL10 [38] . Despite this possible immune modulatory activity, SARS-CoV N-specific immune responses are reported to be long-lived and more broadly reactive when compared to SARS-CoV S-specific immunity [39] . Likewise, we were curious as to the suitability of the MERS-CoV N protein to serve as a vaccine antigen. The N protein is not present on the surface of MERS-CoV particles nor is it predicted to be expressed on the surface membrane of MVA infected cells. From this we hypothesized that the most relevant part of MERS-CoV N-specific immunity is based on CD8+ T cell responses relying on the processing and presentation of intracellular antigens. Currently, there is little information about MERS-CoV N-specific immune responses including the in vivo induction of N-specific cellular immunity.
+3	61	73 pathogenesis	Gene_function	GO_0009405
+3	112	118 severe	Phenotype	HP_0012828
+3	974	980 cancer	Phenotype	HP_0002664
+3	1790	1802 nucleocapsid	Gene_function	GO_0019013
+3	2102	2111 synthesis	Gene_function	GO_0009058
+3	2177	2183 virion	Gene_function	GO_0019012
+3	2177	2192 virion assembly	Gene_function	GO_0019068
+3	2306	2312 severe	Phenotype	HP_0012828
+3	2313	2318 acute	Phenotype	HP_0011009
+3	2389	2403 immune evasion	Gene_function	GO_0042783
+3	2603	2618 gene expression	Gene_function	GO_0010467
+3	2633	2642 synthesis	Gene_function	GO_0009058
+3	3105	3113 membrane	Gene_function	GO_0016020
+3	3303	3316 intracellular	Gene_function	GO_0005622
+3	GO-HP	GO_0009405	HP_0012828
+3	GO-HP	GO_0009405	HP_0002664
+3	GO-HP	GO_0009405	HP_0011009
+3	HP-GO	HP_0012828	GO_0019013
+3	HP-GO	HP_0012828	GO_0009058
+3	HP-GO	HP_0012828	GO_0019012
+3	HP-GO	HP_0012828	GO_0019068
+3	HP-GO	HP_0012828	GO_0042783
+3	HP-GO	HP_0012828	GO_0010467
+3	HP-GO	HP_0012828	GO_0016020
+3	HP-GO	HP_0012828	GO_0005622
+3	HP-GO	HP_0002664	GO_0019013
+3	HP-GO	HP_0002664	GO_0009058
+3	HP-GO	HP_0002664	GO_0019012
+3	HP-GO	HP_0002664	GO_0019068
+3	HP-GO	HP_0002664	GO_0042783
+3	HP-GO	HP_0002664	GO_0010467
+3	HP-GO	HP_0002664	GO_0016020
+3	HP-GO	HP_0002664	GO_0005622
+3	GO-HP	GO_0019013	HP_0011009
+3	GO-HP	GO_0009058	HP_0011009
+3	GO-HP	GO_0019012	HP_0011009
+3	GO-HP	GO_0019068	HP_0011009
+3	HP-GO	HP_0011009	GO_0042783
+3	HP-GO	HP_0011009	GO_0010467
+3	HP-GO	HP_0011009	GO_0016020
+3	HP-GO	HP_0011009	GO_0005622
+
+4|chunk|In this study, we investigated the synthesis and delivery of the MERS-CoV N protein as a privileged antigen by a MVA vector virus. The recombinant MVA expressing a synthetic gene sequence of full-length MERS-CoV N (MVA-MERS-N) proved genetically stable and fully replication-competent in chicken embryo fibroblasts, an established cell substrate for MVA vaccine manufacturing. Upon in vitro infection, MVA-MERS-N produced high amounts of the heterologous protein that were detectable with MERS-CoV N-specific antibodies. Furthermore, MVA-MERS-N was tested as an experimental vaccine in BALB/c mice and elicited MERS-CoV N-specific interferon  (IFN-)-producing CD8+ T cells. Using peptide library covering the whole MERS-CoV N polypeptide, we identified new H2-d restricted peptide epitopes of MERS-CoV N in BALB/c mice. This data will be highly relevant for further assessment of N antigen-specific immune responses in the well-established MERS-CoV-BALB/c mouse immunization/challenge model [40] [41] [42] [43] [44] .
+4	35	44 synthesis	Gene_function	GO_0009058
+4	246	252 stable	Phenotype	HP_0031915
+4	GO-HP	GO_0009058	HP_0031915
+

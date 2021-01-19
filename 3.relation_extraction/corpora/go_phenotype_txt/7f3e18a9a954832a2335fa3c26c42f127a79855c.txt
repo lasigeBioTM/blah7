@@ -1,0 +1,59 @@
+0|chunk|MEK/ERK Dependent Activation of STAT1 Mediates Dasatinib-Induced Differentiation of Acute Myeloid Leukemia
+0	84	89 Acute	Phenotype	HP_0011009
+0	84	106 Acute Myeloid Leukemia	Phenotype	HP_0004808
+0	90	106 Myeloid Leukemia	Phenotype	HP_0012324
+0	98	106 Leukemia	Phenotype	HP_0001909
+
+1|chunk|Dasatinib (BMS-354825) is a FDA-approved multitargeted kinase inhibitor of BCR/ABL and Src kinases. It is now used in the treatment of chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapies, including imatinib. Here we report a novel effect of dasatinib on inducing the differentiation of acute myeloid leukemia (AML) cells through MEK/ ERK-dependent activation of signal transducer and activator of transcription 1 (STAT1). We found that dasatinib could induce the differentiation of AML cells as demonstrated by the expression of differentiation marker CD11b, G0/G1 phase arrest and decreased ratio of nucleus to cytoplasm. Of note, dasatinib induced robust phosphorylation of STAT1 both at Tyr701 and Ser727 as well as the redistribution of STAT1 from the cytoplasm to the nucleus, thus leading to the transcription of STAT1-targeted genes. Knocking down STAT1 expression by shRNA significantly attenuated dasatinibinduced differentiation, indicating an important role of STAT1 in myeloid maturation. We further found that dasatinibinduced activation of STAT1 was regulated by the MEK/ERK kinases. The phosporylation of MEK and ERK occurred rapidly upon dasatinib treatment and increased progressively as differentiation was induced. MEK inhibitors PD98059 and U0216 not only inhibited the phosphorylation of STAT1, but also abrogated dasatinib-induced myeloid differentiation, suggesting that MEK/ERK dependent phosphorylation of STAT1 might be indispensable for the differentiating effect of dasatinib in AML cells. Taken together, our study suggests that STAT1 is an important mediator in dasatinib-induced differentiation of AML cells, whose activation requires the activation of MEK/ERK cascades. Citation: Fang Y, Zhong L, Lin M, Zhou X, Jing H, et al. (2013) MEK/ERK Dependent Activation of STAT1 Mediates Dasatinib-Induced Differentiation of Acute Myeloid Leukemia. PLoS ONE 8(6): e66915.
+1	135	142 chronic	Phenotype	HP_0011010
+1	135	163 chronic myelogenous leukemia	Phenotype	HP_0005506
+1	155	163 leukemia	Phenotype	HP_0001909
+1	319	324 acute	Phenotype	HP_0011009
+1	319	341 acute myeloid leukemia	Phenotype	HP_0004808
+1	325	341 myeloid leukemia	Phenotype	HP_0012324
+1	333	341 leukemia	Phenotype	HP_0001909
+1	343	346 AML	Phenotype	HP_0004808
+1	515	518 AML	Phenotype	HP_0004808
+1	634	641 nucleus	Gene_function	GO_0005634
+1	645	654 cytoplasm	Gene_function	GO_0005737
+1	690	705 phosphorylation	Gene_function	GO_0016310
+1	789	798 cytoplasm	Gene_function	GO_0005737
+1	806	813 nucleus	Gene_function	GO_0005634
+1	1118	1121 ERK	Gene_function	GO_0004707
+1	1161	1164 ERK	Gene_function	GO_0004707
+1	1323	1338 phosphorylation	Gene_function	GO_0016310
+1	1431	1434 ERK	Gene_function	GO_0004707
+1	1445	1460 phosphorylation	Gene_function	GO_0016310
+1	1540	1543 AML	Phenotype	HP_0004808
+1	1662	1665 AML	Phenotype	HP_0004808
+1	1721	1724 ERK	Gene_function	GO_0004707
+1	1803	1806 ERK	Gene_function	GO_0004707
+1	1883	1888 Acute	Phenotype	HP_0011009
+1	1883	1905 Acute Myeloid Leukemia	Phenotype	HP_0004808
+1	1889	1905 Myeloid Leukemia	Phenotype	HP_0012324
+1	1897	1905 Leukemia	Phenotype	HP_0001909
+1	HP-GO	HP_0011010	GO_0005634
+1	HP-GO	HP_0011010	GO_0005737
+1	HP-GO	HP_0011010	GO_0016310
+1	HP-GO	HP_0011010	GO_0004707
+1	HP-GO	HP_0005506	GO_0005634
+1	HP-GO	HP_0005506	GO_0005737
+1	HP-GO	HP_0005506	GO_0016310
+1	HP-GO	HP_0005506	GO_0004707
+1	HP-GO	HP_0001909	GO_0005634
+1	HP-GO	HP_0001909	GO_0005737
+1	HP-GO	HP_0001909	GO_0016310
+1	HP-GO	HP_0001909	GO_0004707
+1	HP-GO	HP_0011009	GO_0005634
+1	HP-GO	HP_0011009	GO_0005737
+1	HP-GO	HP_0011009	GO_0016310
+1	HP-GO	HP_0011009	GO_0004707
+1	HP-GO	HP_0004808	GO_0005634
+1	HP-GO	HP_0004808	GO_0005737
+1	HP-GO	HP_0004808	GO_0016310
+1	HP-GO	HP_0004808	GO_0004707
+1	HP-GO	HP_0012324	GO_0005634
+1	HP-GO	HP_0012324	GO_0005737
+1	HP-GO	HP_0012324	GO_0016310
+1	HP-GO	HP_0012324	GO_0004707
+

@@ -1,0 +1,32 @@
+0|chunk|A New Model for Hendra Virus Encephalitis in the Mouse
+0	29	41 Encephalitis	Phenotype	HP_0002383
+
+1|chunk|Hendra virus (HeV) infection in humans is characterized by an influenza like illness, which may progress to pneumonia or encephalitis and lead to death. The pathogenesis of HeV infection is poorly understood, and the lack of a mouse model has limited the opportunities for pathogenetic research. In this project we reassessed the role of mice as an animal model for HeV infection and found that mice are susceptible to HeV infection after intranasal exposure, with aged mice reliably developing encephalitic disease. We propose an anterograde route of neuroinvasion to the brain, possibly along olfactory nerves. This is supported by evidence for the development of encephalitis in the absence of viremia and the sequential distribution of viral antigen along pathways of olfaction in the brain of intranasally challenged animals. In our studies mice developed transient lower respiratory tract infection without progressing to viremia and systemic vasculitis that is common to other animal models. These studies report a new animal model of HeV encephalitis that will allow more detailed studies of the neuropathogenesis of HeV infection, particularly the mode of viral spread and possible sequestration within the central nervous system; investigation of mechanisms that moderate the development of viremia and systemic disease; and inform the development of improved treatment options for human patients.
+1	108	117 pneumonia	Phenotype	HP_0002090
+1	121	133 encephalitis	Phenotype	HP_0002383
+1	157	169 pathogenesis	Gene_function	GO_0009405
+1	666	678 encephalitis	Phenotype	HP_0002383
+1	697	704 viremia	Phenotype	HP_0020071
+1	772	781 olfaction	Gene_function	GO_0007608
+1	861	870 transient	Phenotype	HP_0025153
+1	928	935 viremia	Phenotype	HP_0020071
+1	949	959 vasculitis	Phenotype	HP_0002633
+1	1046	1058 encephalitis	Phenotype	HP_0002383
+1	1216	1223 central	Phenotype	HP_0030645
+1	1273	1281 moderate	Phenotype	HP_0012826
+1	1301	1308 viremia	Phenotype	HP_0020071
+1	HP-GO	HP_0002090	GO_0009405
+1	HP-GO	HP_0002090	GO_0007608
+1	HP-GO	HP_0002383	GO_0009405
+1	HP-GO	HP_0002383	GO_0007608
+1	GO-HP	GO_0009405	HP_0020071
+1	GO-HP	GO_0009405	HP_0025153
+1	GO-HP	GO_0009405	HP_0002633
+1	GO-HP	GO_0009405	HP_0030645
+1	GO-HP	GO_0009405	HP_0012826
+1	HP-GO	HP_0020071	GO_0007608
+1	GO-HP	GO_0007608	HP_0025153
+1	GO-HP	GO_0007608	HP_0002633
+1	GO-HP	GO_0007608	HP_0030645
+1	GO-HP	GO_0007608	HP_0012826
+

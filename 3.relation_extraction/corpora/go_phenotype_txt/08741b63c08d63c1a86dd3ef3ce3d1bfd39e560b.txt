@@ -1,0 +1,65 @@
+0|chunk|Dissection and integration of the autophagy signaling network initiated by bluetongue virus infection: crucial candidates ERK1/2, Akt and AMPK OPEN
+0	34	43 autophagy	Gene_function	GO_0006914
+0	44	53 signaling	Gene_function	GO_0023052
+0	138	142 AMPK	Gene_function	GO_0004691
+
+1|chunk|Bluetongue virus (BTV), a complex double-stranded segmented RNA virus, has been found to initiate cellular autophagy for its own benefit. Here, with a view to understanding the underlying mechanisms, we first systematically dissected the exact signaling network in BTV-induced autophagy. We found that the activity of mTOR, a crucial pivot, was inhibited by BTV1 infection, subsequently leading to downstream p70S6K suppression and autophagy initiation. We then explored the upstream regulators of mTOR and analyzed their activities via a series of assays. We found BTV1-induced autophagy to be independent of the ERK1/2 signaling pathway. However, the BTV1-induced inhibition of PI3K/Akt was found to be partially responsible for mTOR inactivation and subsequent autophagy initiation. Furthermore, we found unexpectedly that AMPK seemed to play a more important role in BTV1induced autophagy. Elevated [Ca 2+ ] cyto -mediated activation of CaMKK exactly managed the activation of AMPK, which then positively regulated autophagy through suppressing mTOR. We must emphasize that TSC2 is a fatal mediator between upstream Akt or AMPK and downstream mTOR through its phosphorylation. Taken together, our data suggested that the BTV1-induced inhibition of the Akt-TSC2-mTOR pathway and the upregulation of the AMPK-TSC2-mTOR pathway both contributed to autophagy initiation and further favored virus replication.
+1	107	116 autophagy	Gene_function	GO_0006914
+1	244	253 signaling	Gene_function	GO_0023052
+1	277	286 autophagy	Gene_function	GO_0006914
+1	432	441 autophagy	Gene_function	GO_0006914
+1	579	588 autophagy	Gene_function	GO_0006914
+1	621	630 signaling	Gene_function	GO_0023052
+1	764	773 autophagy	Gene_function	GO_0006914
+1	826	830 AMPK	Gene_function	GO_0004691
+1	883	892 autophagy	Gene_function	GO_0006914
+1	982	986 AMPK	Gene_function	GO_0004691
+1	1020	1029 autophagy	Gene_function	GO_0006914
+1	1128	1132 AMPK	Gene_function	GO_0004691
+1	1350	1359 autophagy	Gene_function	GO_0006914
+
+2|chunk|to promote viral replication 14 . However, subsequent corresponding mechanisms underlying these observations have not yet been elucidated.
+
+3|chunk|Autophagy is activated in response to extra-or intracellular stimuli and signals such as starvation, hypoxia, ER stress, and pathogen infection. Many efforts have been made in the past few years to decipher the regulatory network of autophagy initiation from yeast to mammals [15] [16] [17] . Several signaling cascades have been reported to regulate autophagy. The major control complex for autophagy is the mammalian target of rapamycin (mTOR), which, when active, inhibits the initiation of the pathway 18-20 . Many diverse cellular signals converge on mTOR complex 1 (mTORC1) to regulate autophagy upstream of the core machinery 21 . The serine/threonine kinase Akt (also known as PKB) has been shown to modulate autophagic activity regulated by the phosphoinositide 3-kinase (PI3K) pathway 22,23 . Mutations causing Akt activation or inactivation would, respectively, suppress and induce autophagy. Molecules upstream of mTOR, such as AMP-activated protein kinase (AMPK) and extracellular signal-regulated kinase 1/2 (ERK1/2), have been shown to inhibit mTORC1 and lead to activation of the autophagic process. AMPK, a crucial factor in sensing cellular energy and ion homeostasis 24,25 , negatively regulates mTOR either by directly inhibiting mTOR or by activating tuberous sclerosis protein 2 (TSC2) protein, an upstream negative effector of mTOR 26-28 . Mitogen-activated protein kinases (MAPKs) are central molecules mediating signaling pathways in innate immunity. To date, seven distinct groups of MAPKs have been characterized in mammalian cells. Of these seven, the most extensively studied are ERK1/2, c-Jun N-terminal kinases (JNKs) and p38 MAPKs (p38  / / / ), which have also been reported to regulate autophagy activity 29 . In addition, endoplasmic reticulum (ER) stress, p53, nuclear factor- B (NF- B) and other mTOR-independent pathways are also involved in the regulatory network of autophagy [30] [31] [32] .
+3	0	9 Autophagy	Gene_function	GO_0006914
+3	47	60 intracellular	Gene_function	GO_0005622
+3	233	242 autophagy	Gene_function	GO_0006914
+3	301	310 signaling	Gene_function	GO_0023052
+3	351	360 autophagy	Gene_function	GO_0006914
+3	392	401 autophagy	Gene_function	GO_0006914
+3	592	601 autophagy	Gene_function	GO_0006914
+3	893	902 autophagy	Gene_function	GO_0006914
+3	970	974 AMPK	Gene_function	GO_0004691
+3	980	993 extracellular	Gene_function	GO_0005576
+3	1116	1120 AMPK	Gene_function	GO_0004691
+3	1170	1185 ion homeostasis	Gene_function	GO_0050801
+3	1174	1185 homeostasis	Gene_function	GO_0042592
+3	1409	1416 central	Phenotype	HP_0030645
+3	1437	1446 signaling	Gene_function	GO_0023052
+3	1724	1733 autophagy	Gene_function	GO_0006914
+3	1761	1782 endoplasmic reticulum	Gene_function	GO_0005783
+3	1912	1921 autophagy	Gene_function	GO_0006914
+3	GO-HP	GO_0006914	HP_0030645
+3	GO-HP	GO_0005622	HP_0030645
+3	GO-HP	GO_0023052	HP_0030645
+3	GO-HP	GO_0004691	HP_0030645
+3	GO-HP	GO_0005576	HP_0030645
+3	GO-HP	GO_0050801	HP_0030645
+3	GO-HP	GO_0042592	HP_0030645
+3	HP-GO	HP_0030645	GO_0005783
+
+4|chunk|There are reports that many viruses can activate and exploit certain signaling pathways related to autophagy for more efficient replication, depending on the virus type or stage of viral infection 33,34 . However, until now, for BTV, the precise mechanisms and signaling pathways of modulating cellular autophagy have remained largely unknown.
+4	69	78 signaling	Gene_function	GO_0023052
+4	99	108 autophagy	Gene_function	GO_0006914
+4	181	196 viral infection	Gene_function	GO_0016032
+4	261	270 signaling	Gene_function	GO_0023052
+4	303	312 autophagy	Gene_function	GO_0006914
+
+5|chunk|Based on this information, we have undertaken a comprehensive investigation to explore the autophagy signaling network initiated by BTV infection, focusing on these vital and canonical candidates. Our results demonstrate that BTV1 induces autophagy in BSR cells by setting off distinct cascade reactions involving Akt, AMPK, and ERK1/2 to repress central mTOR for its own benefits.
+5	91	100 autophagy	Gene_function	GO_0006914
+5	101	110 signaling	Gene_function	GO_0023052
+5	239	248 autophagy	Gene_function	GO_0006914
+5	347	354 central	Phenotype	HP_0030645
+5	GO-HP	GO_0006914	HP_0030645
+5	GO-HP	GO_0023052	HP_0030645
+

@@ -1,0 +1,89 @@
+0|chunk|Broad spectrum antiviral activity for paramyxoviruses is modulated by biophysical properties of fusion inhibitory peptides Human paramyxoviruses include global causes of lower respiratory disease like the OPEN
+0	15	24 antiviral	Chemical	CHEBI_22587
+0	114	122 peptides	Chemical	CHEBI_16670
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_16670
+
+1|chunk|that can be specifically targeted by fusion-inhibitory peptides. Antiviral potency can be improved by sequence modification and lipid conjugation, and by adding linkers between the protein and lipid components. We exploit the uniquely broad spectrum antiviral activity of a parainfluenza F-derived peptide sequence that inhibits both parainfluenza and Nipah viruses, to investigate the influence of peptide orientation and intervening linker length on the peptides' interaction with transitional states of F, solubility, membrane insertion kinetics, and protease sensitivity. We assessed the impact of these features on biodistribution and antiviral efficacy in vitro and in vivo. The engineering approach based on biophysical parameters resulted in a peptide that is a highly effective inhibitor of both paramyxoviruses and a set of criteria to be used for engineering broad spectrum antivirals for emerging paramyxoviruses.
+1	65	74 Antiviral	Chemical	CHEBI_22587
+1	128	133 lipid	Chemical	CHEBI_18059
+1	181	188 protein	Chemical	CHEBI_16541
+1	193	198 lipid	Chemical	CHEBI_18059
+1	250	259 antiviral	Chemical	CHEBI_22587
+1	298	305 peptide	Chemical	CHEBI_16670
+1	399	406 peptide	Chemical	CHEBI_16670
+1	640	649 antiviral	Chemical	CHEBI_22587
+1	752	759 peptide	Chemical	CHEBI_16670
+1	787	796 inhibitor	Chemical	CHEBI_35222
+1	885	895 antivirals	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_18059
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_35222
+
+2|chunk|Human parainfluenza viruses (HPIVs) are paramyxoviruses belonging to the respirovirus (HPIV1 and 3) or rubulavirus (HPIV2 and 4) genera that cause human respiratory diseases including bronchitis, bronchiolitis, and pneumonia in infants, children, or immune-compromised individuals. The HPIV species viruses are responsible for 30-40% of all acute respiratory tract infections in infants and children 1 . Nipah virus (NiV) is a zoonotic paramyxovirus of the henipavirus genus that represents a global health risk with broad, unpredictable pandemic potential. Infection with this virus is devastating, rapidly causing a generalized vasculitis leading to lethal encephalitis and serious respiratory infections. The common natural reservoirs of henipavirus genus members (including NiV, Hendra virus, Cedar virus and numerous newly identified species) are fruit bats 2,3 , but recent identification of rodent-origin henipa-like viruses that cause lethal respiratory disease in humans suggests that the range of natural mammalian hosts may be even broader 4 . Transmitted by air or food, its mechanism of infection is complex, and no drugs exist to prevent or treat infection. The recent human-to-human spread of NiV in Asia has raised the real possibility of global spread. NiV and HPIV, while different in their associated diseases and geography, infect using similar mechanisms and are vulnerable to the same antiviral strategy.
+2	1129	1134 drugs	Chemical	CHEBI_23888
+2	1407	1416 antiviral	Chemical	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_23888	CHEBI_22587
+
+3|chunk|Paramyxovirus infections are initiated by fusion between viral and host cell membranes. For HPIV3, NiV, and other paramyxoviruses, the surface glycoproteins play critical roles in the initial events of viral infection, mediating virion attachment to cells and fusion of the viral and cellular membranes. The viral fusion protein (F), upon insertion of the fusion peptide -formed after cleavage of the precursor F into its final fragment -into the host target cell membrane, forms a transient intermediate to pull the viral and cell membranes together. Two heptad-repeat regions that are present in each ectodomain of F refold to form a highly stable, antiparallel six-helix bundle structure that is coupled to membrane fusion. The structure required for this step can be specifically targeted by fusion-inhibitory peptides. The N-terminal repeat (HRN) is adjacent to the hydrophobic fusion peptide that inserts into the target cell membrane during the fusion process. The C-terminal repeat (HRC) immediately precedes the transmembrane domain. A folding-back of the F ectodomain drives the viral membrane towards the cell-associated fusion peptide to bring the two membranes into proximity, causing membrane fusion and viral entry.
+3	143	156 glycoproteins	Chemical	CHEBI_17089
+3	321	328 protein	Chemical	CHEBI_16541
+3	363	370 peptide	Chemical	CHEBI_16670
+3	847	850 HRN	Chemical	CHEBI_50881
+3	890	897 peptide	Chemical	CHEBI_16670
+3	1139	1146 peptide	Chemical	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_50881
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_50881
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_50881
+
+4|chunk|Peptides derived from the HRC of paramyxovirus F proteins interfere with formation of the six-helix bundle in a dominant-negative manner by binding to the transiently exposed HRN coiled coil in the transient fusion intermediate, thereby inhibiting membrane fusion 5 . We have shown the potential of modified fusion inhibitor peptides as NiV and HPIV antiviral agents, and showed that a sequence corresponding to the HRC domain of HPIV3 effectively inhibits both HPIV3 and NiV 6 . Interhelical packing interactions in the post-fusion core of the NiV and HPIV3 F proteins are important determinants of viral entry and its inhibition. Fusion inhibitor peptides can be engineered at the level of these parameters, for optimal inhibition, increasing potency for both viruses [6] [7] [8] [9] [10] . Conjugating cholesterol to a fusion inhibitor peptide enhances NiV antiviral activity up to 100-fold, by targeting the peptide to the plasma membrane where fusion occurs 8 and endows the fusion inhibitor with the ability to localize to the central nervous system, successfully preventing and treating NiV infection in a golden hamster model of disease 6 . Surprisingly, the most effective antiviral peptides for NiV and the related Hendra virus (HeV) are those derived from the F of HPIV3. The antiviral strategy discussed here exploits the uniquely broad spectrum antiviral activity of these HPIV3 derived inhibitory peptides to treat paramyxovirus infection. In an effort to understand the biophysical properties that correlate with peptide efficacy and thereby improve upon their antiviral utility, we explored biophysical features of the lipid-conjugated peptides that alter aggregation and membrane insertion kinetics. We have identified several properties that correlate with the peptides' potency and permit enhancement of antiviral effect for both HPIV3 and NiV.
+4	0	8 Peptides	Chemical	CHEBI_16670
+4	49	57 proteins	Chemical	CHEBI_36080
+4	175	178 HRN	Chemical	CHEBI_50881
+4	315	324 inhibitor	Chemical	CHEBI_35222
+4	325	333 peptides	Chemical	CHEBI_16670
+4	350	359 antiviral	Chemical	CHEBI_22587
+4	561	569 proteins	Chemical	CHEBI_36080
+4	639	648 inhibitor	Chemical	CHEBI_35222
+4	649	657 peptides	Chemical	CHEBI_16670
+4	805	816 cholesterol	Chemical	CHEBI_16113
+4	829	838 inhibitor	Chemical	CHEBI_35222
+4	839	846 peptide	Chemical	CHEBI_16670
+4	860	869 antiviral	Chemical	CHEBI_22587
+4	912	919 peptide	Chemical	CHEBI_16670
+4	987	996 inhibitor	Chemical	CHEBI_35222
+4	1182	1191 antiviral	Chemical	CHEBI_22587
+4	1192	1200 peptides	Chemical	CHEBI_16670
+4	1287	1296 antiviral	Chemical	CHEBI_22587
+4	1358	1367 antiviral	Chemical	CHEBI_22587
+4	1411	1419 peptides	Chemical	CHEBI_16670
+4	1528	1535 peptide	Chemical	CHEBI_16670
+4	1576	1585 antiviral	Chemical	CHEBI_22587
+4	1652	1660 peptides	Chemical	CHEBI_16670
+4	1779	1787 peptides	Chemical	CHEBI_16670
+4	1823	1832 antiviral	Chemical	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_50881
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_16113
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_50881
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16113
+4	CHEBI-CHEBI	CHEBI_50881	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_50881	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_50881	CHEBI_16113
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_22587
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_16113
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_16113
+

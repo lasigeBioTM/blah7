@@ -1,0 +1,24 @@
+0|chunk|Avian infectious bronchitis virus disrupts the melanoma differentiation associated gene 5 (MDA5) signaling pathway by cleavage of the adaptor protein MAVS
+0	17	27 bronchitis	Phenotype	HP_0012387
+0	47	55 melanoma	Phenotype	HP_0002861
+0	97	106 signaling	Gene_function	GO_0023052
+0	97	114 signaling pathway	Gene_function	GO_0007165
+0	HP-GO	HP_0012387	GO_0023052
+0	HP-GO	HP_0012387	GO_0007165
+0	HP-GO	HP_0002861	GO_0023052
+0	HP-GO	HP_0002861	GO_0007165
+
+1|chunk|Background: Melanoma differentiation associated gene 5 (MDA5) and retinoic acid-inducible gene-I (RIG-I) selectively sense cytoplasmic viral RNA to induce an antiviral immune response. Infectious bronchitis virus (IBV) is one of the most important infectious agents in chickens, and in chicken cells, it can be recognized by MDA5 to activate interferon production. RIG-I is considered to be absent in chickens. However, the absence of RIG-I in chickens raises the question of whether this protein influences the antiviral immune response against IBV infection.
+1	12	20 Melanoma	Phenotype	HP_0002861
+1	168	183 immune response	Gene_function	GO_0006955
+1	196	206 bronchitis	Phenotype	HP_0012387
+1	522	537 immune response	Gene_function	GO_0006955
+1	HP-GO	HP_0002861	GO_0006955
+1	GO-HP	GO_0006955	HP_0012387
+
+2|chunk|Here, we showed that chicken cells transfected with domestic goose RIG-I (dgRIG-I) exhibited increased IFN- activity after IBV infection. We also found that IBV can cleave MAVS, an adaptor protein downstream of RIG-I and MDA5 that acts as a platform for antiviral innate immunity at an early stage of infection.
+2	265	280 innate immunity	Gene_function	GO_0045087
+
+3|chunk|Conclusions: Although chicken MDA5 (chMDA5) is functionally active during IBV infection, the absence of RIG-I may increase the susceptibility of chickens to IBV infection, and IBV may disrupt the activation of the host antiviral response through the cleavage of MAVS.
+3	219	237 antiviral response	Gene_function	GO_0051607
+

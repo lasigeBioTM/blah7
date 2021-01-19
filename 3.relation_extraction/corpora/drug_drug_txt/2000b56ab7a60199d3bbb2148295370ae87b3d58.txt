@@ -1,0 +1,8 @@
+0|chunk|Supplementary Material S1: Real time Bayesian estimation of the epidemic potential of emerging infectious diseases 1 Time between onset of symptoms and death for confirmed cases of H5N1 influenza in humans
+
+1|chunk|Case information on the nation, region, date of onset of symptoms/disease, hospitalization, death/survival and time of death were compiled from World Health Organization "situation update" reports. Some or most of these fields are not reported in many of the updates, especially the epidemiologically important dates of onset of symptoms and clinical recovery or death. Figure S1 shows the histogram of the time between onset of symptoms and death for all cases (number of observations n=44) for which this information is available. Note that Figure S1 bears a close resemblance to Supplementary Information Figure 1 of [1] , for the 1918 H1N1 pandemic influenza (n=94). Also, for these cases, which correspond to hospitalizations in most cases, the mode of the time between onset of symptoms and death is about 9 days.
+
+2|chunk|We calculated the average number of cases per week ( = 0.73) from reported cases, and verified that case introductions of avian influenza, taken as a fixed large fraction of cases, are not well modelled by a homogeneous Poisson process with mean  ( Figure S2 ).
+
+3|chunk|This has important consequences that guided our statistical modeling of introductions. First, we
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="32609142_en">
+  <chunk id="32609142_en.c0" text="Suspected COVID-19 case definition: a narrative review of the most frequent signs and symptoms among confirmed cases.">
+    <entity charOffset="67-75" id="32609142_en.c0.e0" ontology_id="HP_0040282" text="frequent" type="phenotype"/>
+  </chunk>
+  <chunk id="32609142_en.c1" text="to describe the most frequent signs and symptoms of infection by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).this is a narrative literature review carried out in April 2020; the search was performed on electronic databases and complemented with a manual review of the references of the selected papers and Brazilian Ministry of Health publications.the spectrum of clinical disease was wide; fever, coughing and dyspnea were the most frequent signs/symptoms, however, they may not be present, thus hindering case definition; gastrointestinal symptoms and loss of taste or smell have been reported among mild cases; dyspnea was frequent among severe and fatal cases.considering the scarcity of diagnostic tests and the diversity of symptoms, health services should use a sensitive case definition, in order to adopt appropriate surveillance, prevention and treatment actions.">
+    <entity charOffset="21-29" id="32609142_en.c1.e0" ontology_id="HP_0040282" text="frequent" type="phenotype"/>
+    <entity charOffset="65-71" id="32609142_en.c1.e1" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="72-77" id="32609142_en.c1.e2" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="415-423" id="32609142_en.c1.e3" ontology_id="HP_0012735" text="coughing" type="phenotype"/>
+    <entity charOffset="428-435" id="32609142_en.c1.e4" ontology_id="HP_0002094" text="dyspnea" type="phenotype"/>
+    <entity charOffset="450-458" id="32609142_en.c1.e5" ontology_id="HP_0040282" text="frequent" type="phenotype"/>
+    <entity charOffset="579-584" id="32609142_en.c1.e6" ontology_id="GO_0050909" text="taste" type="gene_function"/>
+    <entity charOffset="619-623" id="32609142_en.c1.e7" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="631-638" id="32609142_en.c1.e8" ontology_id="HP_0002094" text="dyspnea" type="phenotype"/>
+    <entity charOffset="643-651" id="32609142_en.c1.e9" ontology_id="HP_0040282" text="frequent" type="phenotype"/>
+    <entity charOffset="658-664" id="32609142_en.c1.e10" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <pair e1="32609142_en.c1.e0" e2="32609142_en.c1.e6" id="32609142_en.c1.p0" relation="true"/>
+    <pair e1="32609142_en.c1.e1" e2="32609142_en.c1.e6" id="32609142_en.c1.p1" relation="true"/>
+    <pair e1="32609142_en.c1.e2" e2="32609142_en.c1.e6" id="32609142_en.c1.p2" relation="true"/>
+    <pair e1="32609142_en.c1.e3" e2="32609142_en.c1.e6" id="32609142_en.c1.p3" relation="true"/>
+    <pair e1="32609142_en.c1.e4" e2="32609142_en.c1.e6" id="32609142_en.c1.p4" relation="true"/>
+    <pair e1="32609142_en.c1.e5" e2="32609142_en.c1.e6" id="32609142_en.c1.p5" relation="true"/>
+    <pair e1="32609142_en.c1.e6" e2="32609142_en.c1.e7" id="32609142_en.c1.p6" relation="true"/>
+    <pair e1="32609142_en.c1.e6" e2="32609142_en.c1.e8" id="32609142_en.c1.p7" relation="true"/>
+    <pair e1="32609142_en.c1.e6" e2="32609142_en.c1.e9" id="32609142_en.c1.p8" relation="true"/>
+    <pair e1="32609142_en.c1.e6" e2="32609142_en.c1.e10" id="32609142_en.c1.p9" relation="true"/>
+  </chunk>
+</document>

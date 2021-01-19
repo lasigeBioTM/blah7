@@ -1,0 +1,39 @@
+0|chunk|Inhibition of Hepatitis E Virus Spread by the Natural Compound Silvestrol
+0	14	23 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Every year, there are about 20 Mio hepatitis E virus (HEV) infections and 60,000 deaths that are associated with HEV worldwide. At the present, there exists no specific therapy for HEV. The natural compound silvestrol has a potent antiviral effect against the ()-strand RNA-virus Ebola virus, and also against the (+)-strand RNA viruses Corona-, Picorna-, and Zika virus. The inhibitory effect on virus spread is due to an inhibition of the DEAD-box RNA helicase eIF4A, which is required to unwind structured 5 -untranslated regions (UTRs). This leads to an impaired translation of viral RNA. The HEV (+)-strand RNA genome contains a 5 -capped, short 5 -UTR. This study aims to analyze the impact of silvestrol on the HEV life cycle. Persistently infected A549 cells were instrumental. This study identifies silvestrol as a potent inhibitor of the release of HEV infectious viral particles. This goes along with a strongly reduced HEV capsid protein translation, retention of viral RNA inside the cytoplasm, and without major cytotoxic effects. Interestingly, in parallel silvestrol affects the activity of the antiviral major vault protein (MVP) by translocation from the cytoplasm to the perinuclear membrane. These data further characterize the complex antiviral activity of silvestrol and show silvestrol's broad spectrum of function, since HEV is a virus without complex secondary structures in its genome, but it is still affected.
+1	35	44 hepatitis	Phenotype	HP_0012115
+1	568	579 translation	Gene_function	GO_0006412
+1	951	962 translation	Gene_function	GO_0006412
+1	998	1007 cytoplasm	Gene_function	GO_0005737
+1	1174	1183 cytoplasm	Gene_function	GO_0005737
+1	HP-GO	HP_0012115	GO_0006412
+1	HP-GO	HP_0012115	GO_0005737
+
+2|chunk|infections, but also patients in need of blood-transfusion [7] . The clinical course of hepatitis developed upon HEV infection bears a mortality rate of 1% in healthy adults, whereas fatality increases to 20% in pregnant women that were infected with genotype 1 [8]. Chronic HEV infections, which may develop to liver cirrhosis, are increasingly recognized in immunosuppressed transplant patients [9, 10] .
+2	69	84 clinical course	Phenotype	HP_0031797
+2	88	97 hepatitis	Phenotype	HP_0012115
+2	159	166 healthy	Phenotype	HP_0032322
+2	267	274 Chronic	Phenotype	HP_0011010
+
+3|chunk|HEV is classified as a (+)-strand ssRNA virus and a member of the Hepeviridae family. Four major human-pathogenic genotypes have been identified, with genotype 1 and 2 being restricted to humans, whereas genotype 3 and 4 are able to infect both human and swine. All genotypes contain a~7.4 kb genome [11] , which is composed of three open reading frames (ORF): ORF1 encodes a non-structural polyprotein (pORF1), which is mainly responsible for efficient virus replication, ORF2 encodes the capsid-forming core protein (pORF2), and ORF3 is the coding region for a protein of unknown function (pORF3) [12] . HEV pORF1 is the only polyprotein that is found in the virus' proteome, which is composed of four different subdomains: a methyltransferase domain, a papain-like cysteine protease domain, an RNA helicase domain, and an RNA dependent RNA polymerase domain, as indicated by homology analyses [13] . There is evidence that this polyprotein is further processed and cleaved into smaller proteins by a cysteine protease, with each fragment showing the proposed catalytic activities [14] . The viral RNA genome further contains a 5 -capped, short 5 -UTR (~26 base pairs) [15] . This indicates a dependency on cap-recognizing proteins and a possible regulation that is based on the untranslated region, since the genome itself serves as a template for protein biosynthesis. Moreover, 3 -poly adenylation is found in the virus' genome. Additional studies on the HEV genome showed that not only the full genome itself serves as the sole template for viral protein synthesis, but also a bicistronic, subgenomic RNA coding for pORF2, and pORF3 [16, 17] . HEV egress, after capsid assembly, is then managed via the exosomal pathway [18], with pORF3 being an important interaction partner of tumor susceptibility gene 101 (TSG101) [19] , possibly tethering the capsid to the endosomal sorting complexes that are required for transport (ESCRT) that mediate the entry into the multivesicular bodies (MVBs). Therefore, viral particles are found as quasi-enveloped particles (surrounded by an exosomal membrane) in both cell culture supernatant and patient serum, while being excreted (via feces) as naked capsid viral particles [18, 20, 21] . Just recently, a form of pORF2 has been described to be secreted as homodimers, in addition to the population found in assembled capsids [22] .
+3	1547	1570 viral protein synthesis	Gene_function	GO_0003746
+3	1785	1790 tumor	Phenotype	HP_0002664
+3	1918	1927 transport	Gene_function	GO_0006810
+3	2091	2099 membrane	Gene_function	GO_0016020
+3	GO-HP	GO_0003746	HP_0002664
+3	HP-GO	HP_0002664	GO_0006810
+3	HP-GO	HP_0002664	GO_0016020
+
+4|chunk|Silvestrol, which is a cyclopenta[b]benzofuran, is a natural compound that is extracted from the plant species Aglaia foveolata [23]. This compound is a potent and selective inhibitor of the eukaryotic initiation factor 4A (eIF4A), an RNA helicase that is required to unwind RNA secondary structures in the 5 -UTRs of mRNAs, thus creating a binding platform for the 43S preinitiation complex. As such, it was first described as a growth-inhibiting agent in human breast and prostate xenograft models by inhibiting translation initiation from 5 -m7GTP capped mRNAs with extended and structured 5 -UTRs, as often found in proto-oncogenes, while being well tolerated by the mice used in the experiments [24] . Furthermore, silvestrol prolongs the survival rate of mice with hepatocellular cancer, and therefore is discussed as a potential, novel anticancer drug [25] , although it has not been used in human clinical trials so far. Just recently, a study has been published showing a potent antiviral effect of silvestrol in cells that are infected with the Ebola virus [26], a ()-strand ssRNA virus that transcribes from its genomic RNA 5 capped mRNAs with relatively long and structured 5 -UTRs, which seemed to be causative for the compound's effect. Other examples for RNA viruses being affected by silvestrol were identified as Coronavirus (CoV), human rhinovirus (HRV) A1, Zika virus (ZIKV), and poliovirus type 1 (PV) [27, 28] . Therefore, silvestrol appeared as an interesting agent to be tested on a (+)-strand ssRNA virus containing only a short 5 -UTR, such as HEV.
+4	341	348 binding	Gene_function	GO_0005488
+4	514	525 translation	Gene_function	GO_0006412
+4	514	536 translation initiation	Gene_function	GO_0006413
+4	1289	1297 affected	Phenotype	HP_0032320
+4	GO-HP	GO_0005488	HP_0032320
+4	GO-HP	GO_0006412	HP_0032320
+4	GO-HP	GO_0006413	HP_0032320
+
+5|chunk|In the course of the study, the Major Vault Protein (MVP) has been discovered to be of a certain importance in the context of HEV and silvestrol. MVP is a 100 kDa cytosolic protein and has been described to build up the main part of ribonucleoprotein particles, called vaults [29] . It has been linked to the drug-resistance of several types of non-viral diseases [30] [31] [32] , as well as to virus-mediated pathogenesis [33] modulating innate antiviral immune-responses [34, 35] .
+5	410	422 pathogenesis	Gene_function	GO_0009405
+

@@ -1,0 +1,26 @@
+0|chunk|Transmissible gastroenteritis virus targets Paneth cells to inhibit the self-renewal and differentiation of Lgr5 intestinal stem cells via Notch signaling
+0	145	154 signaling	Gene_function	GO_0023052
+
+1|chunk|Infection with transmissible gastroenteritis virus (TGEV) has been associated with villous atrophy within 48 h, which seriously disrupts intestinal homeostasis. However, the underlying mechanisms remain elusive. In this study, we found that TGEV infection severely disrupted intestinal homeostasis via inhibition of self-renewal and differentiation in Lgr5 intestinal stem cells (ISCs). Profoundly, TGEV-encoded NSP10/NSP16 protein complex-mediated the inactivation of Notch signaling provided a mechanistic explanation for this phenomenon. Initial invasions by TGEV-targeted Paneth cells through aminopeptidase N (APN) receptor, then inducing mitochondrial damage and ROS generation in them, ultimately causing Paneth cell decrease and loss of Notch factors (DII4 and Hes5), which are essential for Lgr5 ISCs selfrenewal and differentiation. Interestingly, loss of Notch signaling induced goblet cells differentiation at the cost of absorptive enterocytes and promoted mucins secretion, which accelerated TGEV replication. Therefore, the more differentiation of goblet cells, the greater TGEV infection in jejunum. These results provide a detailed mechanistic pathway by which villous atrophy sharply occurs in TGEV-infected jejunum within 48 h. Thus, the pathogenesis of TGEV can be described as a "bottom up scenario", which is contrary to the traditional "top down" hypothesis. Together, our findings provide a potential link between diarrheal virus infection and crypt cells response that regulates Paneth cells function and Lgr5 ISCs fate and could be exploited for therapeutic application.
+1	83	98 villous atrophy	Phenotype	HP_0011473
+1	148	159 homeostasis	Gene_function	GO_0042592
+1	286	297 homeostasis	Gene_function	GO_0042592
+1	475	484 signaling	Gene_function	GO_0023052
+1	644	657 mitochondrial	Phenotype	HP_0001427
+1	669	683 ROS generation	Gene_function	GO_1903409
+1	805	809 ISCs	Gene_function	GO_0031071
+1	872	881 signaling	Gene_function	GO_0023052
+1	1178	1193 villous atrophy	Phenotype	HP_0011473
+1	1257	1269 pathogenesis	Gene_function	GO_0009405
+1	1535	1539 ISCs	Gene_function	GO_0031071
+1	HP-GO	HP_0011473	GO_0042592
+1	HP-GO	HP_0011473	GO_0023052
+1	HP-GO	HP_0011473	GO_1903409
+1	HP-GO	HP_0011473	GO_0031071
+1	HP-GO	HP_0011473	GO_0009405
+1	GO-HP	GO_0042592	HP_0001427
+1	GO-HP	GO_0023052	HP_0001427
+1	HP-GO	HP_0001427	GO_1903409
+1	HP-GO	HP_0001427	GO_0031071
+1	HP-GO	HP_0001427	GO_0009405
+

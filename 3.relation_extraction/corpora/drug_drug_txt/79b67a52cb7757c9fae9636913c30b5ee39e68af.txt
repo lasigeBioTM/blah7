@@ -1,0 +1,77 @@
+0|chunk|Chikungunya virus infectivity, RNA replication and non-structural polyprotein processing depend on the nsP2 protease's active site cysteine residue OPEN
+0	31	34 RNA	Chemical	CHEBI_33697
+0	131	139 cysteine	Chemical	CHEBI_15356
+0	131	147 cysteine residue	Chemical	CHEBI_32460
+0	CHEBI-CHEBI	CHEBI_33697	CHEBI_15356
+0	CHEBI-CHEBI	CHEBI_33697	CHEBI_32460
+0	CHEBI-CHEBI	CHEBI_15356	CHEBI_32460
+
+1|chunk|Chikungunya virus (CHIKV), genus Alphavirus, family Togaviridae, has a positive-stand RNA genome approximately 12 kb in length. In infected cells, the genome is translated into non-structural polyprotein P1234, an inactive precursor of the viral replicase, which is activated by cleavages carried out by the non-structural protease, nsP2. We have characterized CHIKV nsP2 using both cell-free and cell-based assays. First, we show that Cys478 residue in the active site of CHIKV nsP2 is indispensable for P1234 processing. Second, the substrate requirements of CHIKV nsP2 are quite similar to those of nsP2 of related Semliki Forest virus (SFV). Third, substitution of Ser482 residue, recently reported to contribute to the protease activity of nsP2, with Ala has almost no negative effect on the protease activity of CHIKV nsP2. Fourth, Cys478 to Ala as well as Trp479 to Ala mutations in nsP2 completely abolished RNA replication in CHIKV and SFV trans-replication systems. In contrast, trans-replicases with Ser482 to Ala mutation were similar to wild type counterparts. Fifth, Cys478 to Ala as well as Trp479 to Ala mutations in nsP2 abolished the rescue of infectious virus from CHIKV RNA transcripts while Ser482 to Ala mutation had no effect. Thus, CHIKV nsP2 is a cysteine protease.
+1	86	89 RNA	Chemical	CHEBI_33697
+1	756	759 Ala	Chemical	CHEBI_16449
+1	848	851 Ala	Chemical	CHEBI_16449
+1	873	876 Ala	Chemical	CHEBI_16449
+1	916	919 RNA	Chemical	CHEBI_33697
+1	1021	1024 Ala	Chemical	CHEBI_16449
+1	1091	1094 Ala	Chemical	CHEBI_16449
+1	1116	1119 Ala	Chemical	CHEBI_16449
+1	1190	1193 RNA	Chemical	CHEBI_33697
+1	1222	1225 Ala	Chemical	CHEBI_16449
+1	1272	1280 cysteine	Chemical	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16449
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_16449	CHEBI_15356
+
+2|chunk|Chikungunya virus (CHIKV) belongs to genus Alphavirus (family Togaviridae). It is transmitted by Aedes mosquitoes and has caused several massive outbreaks since 2004 1 . CHIKV has a positive-strand RNA genome approximately 12 kb in length. A large 5 open reading frame (ORF), which covers 2/3 of the viral genome, is translated directly from the viral genomic RNA and encodes for a non-structural (ns) polyprotein designated as P1234. The second ORF encodes for the precursors of viral structural proteins and is translated from a specific subgenomic RNA synthesized in virus-infected cells 2 .
+2	198	201 RNA	Chemical	CHEBI_33697
+2	361	364 RNA	Chemical	CHEBI_33697
+2	498	506 proteins	Chemical	CHEBI_36080
+2	552	555 RNA	Chemical	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+
+3|chunk|All virus-specific enzymatic activities, required for viral RNA synthesis, are present in P1234 and its cleavage products 3 . Allthough uncleaved P1234 possesses several enzymatic activities 4 , it is incapable of performing viral RNA replication at detectable levels 5 . To become active, P1234 must first be processed into the early replicase (P123 polyprotein + nsP4). This complex can, in principle, perform all the essential steps of viral RNA synthesis 6 . However, during alphavirus infection the early replicase is converted into the mature (nsP1 + nsP2 + nsP3 + nsP4) form 7 . All these cleavages are performed by a protease located at the C-terminus of nsP2 8-10 and the processing of P1234 is regulated at multiple levels [11] [12] [13] [14] .
+3	60	63 RNA	Chemical	CHEBI_33697
+3	231	234 RNA	Chemical	CHEBI_33697
+3	445	448 RNA	Chemical	CHEBI_33697
+
+4|chunk|The protease part of nsP2 can be easily purified as an active recombinant protein 10,15 . In addition, the protease activity of nsP2 can be studied using in vitro translation and cell culture models 9,16 . Early studies showed that alphavirus nsP2 is similar to papaine-like proteases. The catalytic dyad of Sindbis virus (SINV) nsP2 is represented by Cys481 and His558 residues 8,17,18 ; these correspond to Cys478 and His548 in CHIKV and Semliki Forest virus (SFV) nsP2. Mutation of these residues results in the complete loss of protease activity 19 and abolishes the infectivity of SINV genomes 18 . Different cleavage sites in P1234 are recognized in different ways. Specifically, SFV nsP2 cannot cleave short substrates representing the cleavage site between nsP2 and nsP3 (2/3 site). This cleavage requires both the native N-terminus of nsP2 and a long substrate comprising a few P-side residues followed by approximately 165 N-terminal residues of nsP3 12,15 .
+4	74	81 protein	Chemical	CHEBI_16541
+
+5|chunk|The 3D structures of the proteases from Venezuelan equine encephalitis virus (VEEV) 20 , SINV 21 and CHIKV (Protein Data Bank code 3TRK) reveal that nsP2 protease is a member of MEROPS Clan CN and contains a papain-like protease linked to a C-terminal domain resembling FtsJ-like methyltransferases (MTL domain) 20 . Subsequent molecular modelling revealed the features of the catalytic site and the S1 -S4 subsites 22 . A peptidomimetic inhibitor of nsP2 protease binds at the interface of the protease and MTL domains resulting in conformational change that most probably assists in leaving group departure of either the amine or Cys thiolate during the catalytic cycle 23 ; the binding mode of natural substrates is most likely similar. In addition to the catalytic Cys, Asn475 and Lys480 residues (correspond to residues 476 and 481 of CHIKV nsP2) have been shown to be important for the protease activity of VEEV nsP2 23 . Known 3D structure coupled with the functional importance of nsP2 have made this protein an attractive target for the development of inhibitors of alphavirus infection [23] [24] [25] [26] [27] [28] .
+5	108	115 Protein	Chemical	CHEBI_16541
+5	424	438 peptidomimetic	Chemical	CHEBI_63175
+5	439	448 inhibitor	Chemical	CHEBI_35222
+5	624	629 amine	Chemical	CHEBI_32952
+5	633	636 Cys	Chemical	CHEBI_15356
+5	637	645 thiolate	Chemical	CHEBI_50539
+5	770	773 Cys	Chemical	CHEBI_15356
+5	770	774 Cys,	Chemical	CHEBI_15356
+5	1010	1017 protein	Chemical	CHEBI_16541
+5	1062	1072 inhibitors	Chemical	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_63175
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_32952
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_15356
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_50539
+5	CHEBI-CHEBI	CHEBI_63175	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_63175	CHEBI_32952
+5	CHEBI-CHEBI	CHEBI_63175	CHEBI_15356
+5	CHEBI-CHEBI	CHEBI_63175	CHEBI_50539
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_32952
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_15356
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_50539
+5	CHEBI-CHEBI	CHEBI_32952	CHEBI_15356
+5	CHEBI-CHEBI	CHEBI_32952	CHEBI_50539
+5	CHEBI-CHEBI	CHEBI_15356	CHEBI_50539
+
+6|chunk|CHIKV nsP2 possesses all the enzymatic activities known for nsP2 derived from other alphaviruses 29,30 . However, data concerning the protease activity of CHIKV nsP2 is conflicting. On one hand, studies performed using the purified protease part of nsP2 31 or full length nsP2 with a native N-terminus 16 have demonstrated that CHIKV nsP2 is functionally similar to SFV nsP2. On the other hand, Saisawang and co-authors observed that CHIKV nsP2, derived from East/Central/South African (ECSA) isolate from Thailand, differs from other alphavirus nsP2 proteases in the recognition of small peptide substrates 32 . Recently the same team also reported that the catalytic dyad Cys478 of CHIKV nsP2 could be interchangeable with a proximal Ser482 residue that also contributes to the protease activity of nsP2 33 . Thus, CHIKV nsP2 was reported to have properties very different from those revealed for the ns proteases of other alphaviruses. Indeed, functions of the same ns protein originating from different alphaviruses can be substantially different 34, 35 . However, in this case the data was obtained using only a single short peptide substrate based assay and the conclusion was not directly confirmed by comparing the enzymes from different alphaviruses in the same experiment. Furthermore, this finding has not been verified using cell-based experiments.
+6	589	596 peptide	Chemical	CHEBI_16670
+6	972	979 protein	Chemical	CHEBI_16541
+6	1130	1137 peptide	Chemical	CHEBI_16670
+6	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+
+7|chunk|As unusual properties of CHIKV nsP2 would have implications for the molecular biology of this virus as well as for the development of inhibitors of CHIKV infection, we evaluated the properties of CHIKV nsP2 using multiple verified cell-free and cell-based assays. This analysis revealed that Cys478 residue is indispensable for CHIKV ns polyprotein processing, RNA replication and viral infectivity. Substitution of Ser482 residue did not affect any of these crucial functions. Thus, it must be asserted that CHIKV nsP2 is a classical alphavirus ns protease with properties very similar to those previously revealed for SFV nsP2.
+7	134	144 inhibitors	Chemical	CHEBI_35222
+7	361	364 RNA	Chemical	CHEBI_33697
+7	CHEBI-CHEBI	CHEBI_35222	CHEBI_33697
+

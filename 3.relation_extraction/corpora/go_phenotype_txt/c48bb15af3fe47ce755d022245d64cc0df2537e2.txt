@@ -1,0 +1,18 @@
+0|chunk|UBXN1 interacts with the S1 protein of transmissible gastroenteritis coronavirus and plays a role in viral replication
+
+1|chunk|Transmissible gastroenteritis coronavirus (TGEV) is an enteropathogenic coronavirus that causes diarrhea in pigs and is associated with high morbidity and mortality in sucking piglets. S1 is one of two protein domains in the spike (S) glycoprotein and is responsible for enteric tropism, sialic acid recognition, and host receptor binding. Although there has been extensive research on the S1 protein of TGEV, little is known about the intracellular role of TGEV-S1. In the present study, we used yeast two-hybrid screening of a cDNA library from porcine intestinal cells to identify proteins that interact with TGEV-S1. Among 120 positive clones from the library, 12 intracellular proteins were identified after sequencing and a BLAST search. These intracellular proteins are involved in protein synthesis and degradation, biological signal transduction, and negative control of signaling pathways. Using a glutathione-S-transferase (GST) pulldown assay and Co-IP, we found that UBXN1 interacts with the S1 protein. Here, we observed that TGEV infection led to increased UBXN1 expression levels during the late phase of infection in IPEC-J2 cells. Inhibition of UBXN1 in IPEC-J2 cells via siRNA interference significantly decreased the viral titer and downregulated the expression of S1. UBXN1 overexpression significantly increased the viral copy number. Additionally, we provided data suggesting that UBXN1 negatively regulates IFN- expression after TGEV infection. Finally, our research indicated that UBXN1 plays a vital role in the process of TGEV infection, making it a candidate target for the development of a novel antiviral method.
+1	96	104 diarrhea	Phenotype	HP_0002014
+1	436	449 intracellular	Gene_function	GO_0005622
+1	668	681 intracellular	Gene_function	GO_0005622
+1	750	763 intracellular	Gene_function	GO_0005622
+1	789	806 protein synthesis	Gene_function	GO_0006412
+1	797	806 synthesis	Gene_function	GO_0009058
+1	880	889 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0002014	GO_0005622
+1	HP-GO	HP_0002014	GO_0006412
+1	HP-GO	HP_0002014	GO_0009058
+1	HP-GO	HP_0002014	GO_0023052
+
+2|chunk| The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creat iveco mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+2	229	241 reproduction	Gene_function	GO_0000003
+

@@ -1,0 +1,135 @@
+0|chunk|Modulation of the Host Lipid Landscape to Promote RNA Virus Replication: The Picornavirus Encephalomyocarditis Virus Converges on the Pathway Used by Hepatitis C Virus
+0	23	28 Lipid	Chemical	CHEBI_18059
+0	50	53 RNA	Chemical	CHEBI_33697
+0	134	141 Pathway	Chemical	CHEBI_34922
+0	150	159 Hepatitis	Disease	DOID_2237
+0	150	161 Hepatitis C	Disease	DOID_1883
+0	CHEBI-DOID	CHEBI_18059	DOID_2237
+0	CHEBI-DOID	CHEBI_18059	DOID_1883
+0	CHEBI-DOID	CHEBI_33697	DOID_2237
+0	CHEBI-DOID	CHEBI_33697	DOID_1883
+0	CHEBI-DOID	CHEBI_34922	DOID_2237
+0	CHEBI-DOID	CHEBI_34922	DOID_1883
+
+1|chunk|Cardioviruses, including encephalomyocarditis virus (EMCV) and the human Saffold virus, are small non-enveloped viruses belonging to the Picornaviridae, a large family of positivesense RNA [(+)RNA] viruses. All (+)RNA viruses remodel intracellular membranes into unique structures for viral genome replication. Accumulating evidence suggests that picornaviruses from different genera use different strategies to generate viral replication organelles (ROs). For instance, enteroviruses (e.g. poliovirus, coxsackievirus, rhinovirus) rely on the Golgi-localized phosphatidylinositol 4-kinase III beta (PI4KB), while cardioviruses replicate independently of the kinase. By which mechanisms cardioviruses develop their ROs is currently unknown. Here we show that cardioviruses manipulate another PI4K, namely the ER-localized phosphatidylinositol 4-kinase III alpha (PI4KA), to generate PI4P-enriched ROs. By siRNA-mediated knockdown and pharmacological inhibition, we demonstrate that PI4KA is an essential host factor for EMCV genome replication. We reveal that the EMCV nonstructural protein 3A interacts with and is responsible for PI4KA recruitment to viral ROs. The ensuing phosphatidylinositol 4-phosphate (PI4P) proved important for the recruitment of oxysterol-binding protein (OSBP), which delivers cholesterol to EMCV ROs in a PI4P-dependent manner. PI4P lipids and cholesterol are shown to be required for the global organization of the ROs and for viral genome replication. Consistently, inhibition of OSBP expression or function efficiently blocked EMCV RNA replication. In conclusion, we describe for the first time a cellular pathway involved in the biogenesis of cardiovirus ROs. Remarkably, the same pathway was reported to promote formation of the replication sites of PLOS Pathogens | Organization for Scientific Research (NWO): ALW-820.02.018 and VICI-91812628 (FJMvK), VENI-722.012.006 (JRPMS), and VENI-863.12.005 (HMvdS), the Deutsche Forschungsgemeinschaft (LO 1556/1-2 and TRR77, TPA1) to VL, and the hepatitis C virus, a member of the Flaviviridae family, but not other picornaviruses or flaviviruses. Thus, our results highlight the convergent recruitment by distantly related (+)RNA viruses of a host lipid-modifying pathway underlying formation of viral replication sites.
+1	185	188 RNA	Chemical	CHEBI_33697
+1	559	579 phosphatidylinositol	Chemical	CHEBI_16749
+1	593	597 beta	Chemical	CHEBI_10545
+1	714	717 ROs	Chemical	CHEBI_26523
+1	821	841 phosphatidylinositol	Chemical	CHEBI_16749
+1	855	860 alpha	Chemical	CHEBI_30216
+1	896	899 ROs	Chemical	CHEBI_26523
+1	1082	1089 protein	Chemical	CHEBI_16541
+1	1158	1161 ROs	Chemical	CHEBI_26523
+1	1175	1195 phosphatidylinositol	Chemical	CHEBI_16749
+1	1175	1207 phosphatidylinositol 4-phosphate	Chemical	CHEBI_17526
+1	1273	1280 protein	Chemical	CHEBI_16541
+1	1304	1315 cholesterol	Chemical	CHEBI_16113
+1	1324	1327 ROs	Chemical	CHEBI_26523
+1	1361	1367 lipids	Chemical	CHEBI_18059
+1	1372	1383 cholesterol	Chemical	CHEBI_16113
+1	1444	1447 ROs	Chemical	CHEBI_26523
+1	1563	1566 RNA	Chemical	CHEBI_33697
+1	1637	1644 pathway	Chemical	CHEBI_34922
+1	1687	1690 ROs	Chemical	CHEBI_26523
+1	1713	1720 pathway	Chemical	CHEBI_34922
+1	2022	2031 hepatitis	Disease	DOID_2237
+1	2022	2033 hepatitis C	Disease	DOID_1883
+1	2241	2248 pathway	Chemical	CHEBI_34922
+1	CHEBI-DOID	CHEBI_33697	DOID_2237
+1	CHEBI-DOID	CHEBI_33697	DOID_1883
+1	CHEBI-DOID	CHEBI_16749	DOID_2237
+1	CHEBI-DOID	CHEBI_16749	DOID_1883
+1	CHEBI-DOID	CHEBI_10545	DOID_2237
+1	CHEBI-DOID	CHEBI_10545	DOID_1883
+1	CHEBI-DOID	CHEBI_26523	DOID_2237
+1	CHEBI-DOID	CHEBI_26523	DOID_1883
+1	CHEBI-DOID	CHEBI_30216	DOID_2237
+1	CHEBI-DOID	CHEBI_30216	DOID_1883
+1	CHEBI-DOID	CHEBI_16541	DOID_2237
+1	CHEBI-DOID	CHEBI_16541	DOID_1883
+1	CHEBI-DOID	CHEBI_17526	DOID_2237
+1	CHEBI-DOID	CHEBI_17526	DOID_1883
+1	CHEBI-DOID	CHEBI_16113	DOID_2237
+1	CHEBI-DOID	CHEBI_16113	DOID_1883
+1	CHEBI-DOID	CHEBI_18059	DOID_2237
+1	CHEBI-DOID	CHEBI_18059	DOID_1883
+1	CHEBI-DOID	CHEBI_34922	DOID_2237
+1	CHEBI-DOID	CHEBI_34922	DOID_1883
+
+2|chunk|All positive-sense RNA viruses [(+)RNA viruses] replicate their viral genomes in tight association with reorganized membranous structures. Viruses generate these unique structures, often termed "replication organelles" (ROs), by efficiently manipulating the host lipid metabolism. While the molecular mechanisms underlying RO formation by enteroviruses (e.g. poliovirus) of the family Picornaviridae have been extensively investigated, little is known about other members belonging to this large family. This study provides the first detailed insight into the RO biogenesis of encephalomyocarditis virus (EMCV), a picornavirus from the genus Cardiovirus. We reveal that EMCV hijacks the lipid kinase phosphatidylinositol-4 kinase III (PI4KA) to generate viral ROs enriched in phosphatidylinositol 4-phosphate (PI4P). In EMCV-infected cells, PI4P lipids play an essential role in virus replication by recruiting another cellular protein, oxysterol-binding protein (OSBP), to the ROs. OSBP further impacts the lipid composition of the RO membranes, by mediating the exchange of PI4P with cholesterol. This membrane-modification mechanism of EMCV is remarkably similar to that of the distantly related flavivirus hepatitis C virus (HCV), while distinct from that of the closely related enteroviruses, which recruit OSBP via another PI4K, namely PI4K III (PI4KB). Thus, EMCV and HCV represent a striking case of functional convergence in (+)RNA virus evolution. University (MoBiLe) and the Leiden University Fund to AEG. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+2	19	22 RNA	Chemical	CHEBI_33697
+2	263	268 lipid	Chemical	CHEBI_18059
+2	687	692 lipid	Chemical	CHEBI_18059
+2	761	764 ROs	Chemical	CHEBI_26523
+2	777	797 phosphatidylinositol	Chemical	CHEBI_16749
+2	777	809 phosphatidylinositol 4-phosphate	Chemical	CHEBI_17526
+2	847	853 lipids	Chemical	CHEBI_18059
+2	872	876 role	Chemical	CHEBI_50906
+2	929	936 protein	Chemical	CHEBI_16541
+2	956	963 protein	Chemical	CHEBI_16541
+2	979	982 ROs	Chemical	CHEBI_26523
+2	1009	1014 lipid	Chemical	CHEBI_18059
+2	1211	1220 hepatitis	Disease	DOID_2237
+2	1211	1222 hepatitis C	Disease	DOID_1883
+2	1538	1542 role	Chemical	CHEBI_50906
+2	CHEBI-DOID	CHEBI_33697	DOID_2237
+2	CHEBI-DOID	CHEBI_33697	DOID_1883
+2	CHEBI-DOID	CHEBI_18059	DOID_2237
+2	CHEBI-DOID	CHEBI_18059	DOID_1883
+2	CHEBI-DOID	CHEBI_26523	DOID_2237
+2	CHEBI-DOID	CHEBI_26523	DOID_1883
+2	CHEBI-DOID	CHEBI_16749	DOID_2237
+2	CHEBI-DOID	CHEBI_16749	DOID_1883
+2	CHEBI-DOID	CHEBI_17526	DOID_2237
+2	CHEBI-DOID	CHEBI_17526	DOID_1883
+2	CHEBI-DOID	CHEBI_50906	DOID_2237
+2	CHEBI-DOID	CHEBI_50906	DOID_1883
+2	CHEBI-DOID	CHEBI_16541	DOID_2237
+2	CHEBI-DOID	CHEBI_16541	DOID_1883
+
+3|chunk|Competing Interests: The authors have declared that no competing interests exist.
+
+4|chunk|proteins and co-opted host factors. Enteroviruses, for instance, hijack members of the secretory pathway for replication and formation of ROs [7, 8] . Among the viral nonstructural proteins, 2B, 2C, 3A as well as their precursors 2BC and 3AB contain hydrophobic domains which confer them membrane-modifying properties [9] [10] [11] . Considerable interest has been given to the study of the small viral protein 3A, which is the key viral player involved in membrane rearrangements. 3A interacts with and recruits secretory pathway components GBF1 (Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1) and PI4KB (phosphatidylinositol-4 kinase type III isoform ) to ROs [12] [13] [14] [15] [16] . Despite intensive investigation, the role of GBF1 in enterovirus replication is not yet elucidated (reviewed in [8]). Recruitment of PI4KB to ROs leads to a significant local increase of membranes in its enzymatic product PI4P [15] . This PI4P-rich environment serves to further recruit other essential viral and host factors to replication sites, such as the viral polymerase 3D pol , which is able to specifically bind PI4P in vitro. Recently, we and others revealed that PI4P plays a central role in enterovirus replication by recruiting the oxysterol-binding protein (OSBP) to ROs [17] [18] [19] . In uninfected cells, OSBP bridges the ER and Golgi membranes by binding to the ER integral membrane protein VAP-A and to PI4P and Arf1-GTP at the trans-Golgi [20] . Through its sterol-binding domain, OSBP shuttles cholesterol from ER to the Golgi and PI4P from the Golgi to the ER, thereby generating a lipid counterflow at ER-Golgi membrane contact sites (MCSs). In enterovirus infection, OSBP exchanges PI4P for cholesterol most likely at ER-RO MCSs [18] . The unique lipid and protein composition of enterovirus ROs determines their particular 3D architecture, which consists of a complex tubulo-vesicular network, as shown in cells infected with PV and coxsackievirus B3 (CVB3) [21, 22] .
+4	0	8 proteins	Chemical	CHEBI_36080
+4	97	104 pathway	Chemical	CHEBI_34922
+4	138	141 ROs	Chemical	CHEBI_26523
+4	181	189 proteins	Chemical	CHEBI_36080
+4	403	410 protein	Chemical	CHEBI_16541
+4	523	530 pathway	Chemical	CHEBI_34922
+4	586	593 guanine	Chemical	CHEBI_16235
+4	586	604 guanine nucleotide	Chemical	CHEBI_61292
+4	594	604 nucleotide	Chemical	CHEBI_36976
+4	688	691 ROs	Chemical	CHEBI_26523
+4	756	760 role	Chemical	CHEBI_50906
+4	861	864 ROs	Chemical	CHEBI_26523
+4	1214	1218 role	Chemical	CHEBI_50906
+4	1282	1289 protein	Chemical	CHEBI_16541
+4	1300	1303 ROs	Chemical	CHEBI_26523
+4	1421	1428 protein	Chemical	CHEBI_16541
+4	1535	1546 cholesterol	Chemical	CHEBI_16113
+4	1624	1629 lipid	Chemical	CHEBI_18059
+4	1735	1746 cholesterol	Chemical	CHEBI_16113
+4	1791	1796 lipid	Chemical	CHEBI_18059
+4	1801	1808 protein	Chemical	CHEBI_16541
+4	1836	1839 ROs	Chemical	CHEBI_26523
+
+5|chunk|The lipid transfer function of OSBP at membrane contact sites is not only vital for enteroviruses, but also for HCV [23] . HCV genome replication occurs in association with an ER-derived network of specialized membrane vesicles called the membranous web (MW). Like enterovirus ROs, the HCV MW is enriched in PI4P lipids and cholesterol [23] [24] [25] . In the case of HCV, PI4P are generated through recruitment and activation of the ER-localized enzyme PI4KA (phosphatidylinositol-4-phopshate kinase type III isoform ) by the viral protein NS5A [24, 26] .
+5	4	9 lipid	Chemical	CHEBI_18059
+5	313	319 lipids	Chemical	CHEBI_18059
+5	324	335 cholesterol	Chemical	CHEBI_16113
+5	534	541 protein	Chemical	CHEBI_16541
+
+6|chunk|Thus far, information regarding virus-host interactions that govern the formation of cardiovirus ROs remains scarce. In a report by Zhang et al, it was suggested that autophagy supports EMCV replication [27] . The study showed that EMCV infection triggered an accumulation of autophagosome-like vesicles in the cytoplasm and that EMCV 3A colocalized with the autophagy marker LC3. However, inhibition of autophagy exerted only minor effects on virus replication [27] , which argues against a strong implication of the autophagy pathway in cardiovirus genome replication and/or formation of ROs. Evidence for a role of autophagy in virus replication also exists for enteroviruses and flaviviruses, but rather related to non-lytic virus release or modulation of host innate immune responses than viral genome replication [28] [29] [30] [31] .
+6	97	100 ROs	Chemical	CHEBI_26523
+6	528	535 pathway	Chemical	CHEBI_34922
+6	590	593 ROs	Chemical	CHEBI_26523
+6	610	614 role	Chemical	CHEBI_50906
+
+7|chunk|Based on observations that cardioviruses do not require GBF1 or PI4KB for replication [32] [33] [34] , it is generally believed that cardiovirus replication strategies are distinct from those of enteroviruses. Here, we set out to elucidate whether cardiovirus replication depends on another PI4K isoform. By siRNA-mediated knockdown, we identified PI4KA as a key player in the replication of EMCV. EMCV 3A interacts with and recruits PI4KA to ROs, which increases local PI4P synthesis, eventually leading to downstream recruitment of OSBP. We show that the cholesterol-PI4P shuttling activity of OSBP is important for the global distribution of the ROs and for virus genome replication. Our data reveal that, by exploiting the same cellular pathway, the cardiovirus replication strategy profoundly resembles that of the distantly related HCV and is dissimilar to those of other characterized picornaviruses and flaviviruses in this critical aspect. Thus, the similarity between EMCV and HCV is a striking case of functional convergence in The Picornavirus EMCV Converges on the Host Lipid Pathway Used by HCV PLOS Pathogens |
+7	443	446 ROs	Chemical	CHEBI_26523
+7	649	652 ROs	Chemical	CHEBI_26523
+7	741	748 pathway	Chemical	CHEBI_34922
+7	1083	1088 Lipid	Chemical	CHEBI_18059
+7	1089	1096 Pathway	Chemical	CHEBI_34922
+

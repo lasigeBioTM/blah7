@@ -1,0 +1,87 @@
+0|chunk|viruses Hijacking of the Ubiquitin/Proteasome Pathway by the HIV Auxiliary Proteins
+
+1|chunk|The ubiquitin-proteasome system (UPS) ensures regulation of the protein pool in the cell by ubiquitination of proteins followed by their degradation by the proteasome. It plays a central role in the cell under normal physiological conditions as well as during viral infections. On the one hand, the UPS can be used by the cell to degrade viral proteins, thereby restricting the viral infection. On the other hand, it can also be subverted by the virus to its own advantage, notably to induce degradation of cellular restriction factors. This makes the UPS a central player in viral restriction and counter-restriction. In this respect, the human immunodeficiency viruses (HIV-1 and 2) represent excellent examples. Indeed, many steps of the HIV life cycle are restricted by cellular proteins, some of which are themselves components of the UPS. However, HIV itself hijacks the UPS to mediate defense against several cellular restriction factors. For example, the HIV auxiliary proteins Vif, Vpx and Vpu counteract specific restriction factors by the recruitment of cellular UPS components. In this review, we describe the interplay between HIV and the UPS to illustrate its role in the restriction of viral infections and its hijacking by viral proteins for counter-restriction.
+1	137	148 degradation	Gene_function	GO_0009056
+1	179	186 central	Phenotype	HP_0030645
+1	492	503 degradation	Gene_function	GO_0009056
+1	558	565 central	Phenotype	HP_0030645
+1	646	662 immunodeficiency	Phenotype	HP_0002721
+1	GO-HP	GO_0009056	HP_0030645
+1	GO-HP	GO_0009056	HP_0002721
+
+2|chunk|Viruses 2017, 9, 322 2 of 21 eukaryotic peptide of 76 amino acids, which can be conjugated to proteins, mainly on their lysine residues. The addition of a single ubiquitin or small ubiquitin chains is involved in many regulatory functions, whereas poly-ubiquitination at lysine 48 (K48), corresponding to the addition of chains exceeding four ubiquitins, serves as a signal for degradation [2] [3] [4] [5] . Ubiquitination is dependent on the ubiquitin machinery: the ubiquitin-activating enzyme E1 first forms a high-energy thiol-ester link with ubiquitin in an ATP dependent manner; ubiquitin is then transferred onto a thiol group of the ubiquitin-conjugating enzyme E2; finally, the ubiquitin ligase E3 transfers ubiquitin onto a lysine of its substrate ( Figure 1A ) [6, 7] . In humans, there are two E1 enzymes, around 40 different E2 enzymes, which primarily determine the type of ubiquitin chain that is added, as well as over 700 different E3 ubiquitin ligases, which ensure targeting of various substrates and can be separated into two main families: HECT (Homologous to E6-AP Carboxyl Terminal) and RING (Really Interesting New Gene) ubiquitin ligases. DUBs are equally important for maturation, regulation and recycling of ubiquitin [2] [3] [4] [5] .
+2	162	171 ubiquitin	Gene_function	GO_0031386
+2	181	190 ubiquitin	Gene_function	GO_0031386
+2	378	389 degradation	Gene_function	GO_0009056
+2	443	452 ubiquitin	Gene_function	GO_0031386
+2	547	556 ubiquitin	Gene_function	GO_0031386
+2	585	594 ubiquitin	Gene_function	GO_0031386
+2	687	696 ubiquitin	Gene_function	GO_0031386
+2	717	726 ubiquitin	Gene_function	GO_0031386
+2	888	897 ubiquitin	Gene_function	GO_0031386
+2	952	961 ubiquitin	Gene_function	GO_0031386
+2	1145	1154 ubiquitin	Gene_function	GO_0031386
+2	1235	1244 ubiquitin	Gene_function	GO_0031386
+
+3|chunk|A protein can be conjugated to different types of polyubiquitin chains, depending on which of the seven lysine residues of ubiquitin is used to link ubiquitin moieties in the chain. Proteins ubiquitinated by K48-linked chains are mainly destined for proteasomal degradation [8, 9] . The 20S proteasome is a barrel-shaped structure composed of four rings: two outer rings composed of seven -subunits and two inner rings composed of seven -subunits, which carry the protease activity on the inside of the ring. The 26S proteasome is formed by association of a 20S proteasome with two 19S lids, which ensure specific recognition of ubiquitinated substrates, recycling of ubiquitin through deubiquitination, unfolding of the target protein and translocation through the 20S barrel ( Figure 1B) [2,10-14]. While the proteasome represents the main degradation mechanism used in cells, some membrane-associated proteins are degraded by the endo-lysosomal pathway, which can be induced by mono-ubiquitination or K63-linked polyubiquitination. In this pathway, ubiquitinated membrane proteins are endocytosed and are then recognized by the endosomal sorting complexes required for transport (ESCRT), which mediate invagination of the endosomal membrane surrounding the ubiquitinated protein. The core ESCRT machinery consists of the ESCRT-I, ESCRT-II and ESCRT-III complexes, ALIX (Apoptosis-Linked gene 2-Interactiong protein X) and VPS4 (Vacuolar Protein Sorting-associated 4). This results in the formation of small vesicles inside the endosome, thereby generating what is called a multivesicular body (MVB). This MVB can then fuse to the lysosome, where the internal vesicles and their associated proteins are degraded [3,15-17]. Viruses 2017, 9, 322 2 of 22 components: the proteasome holoenzymes, several ubiquitin ligases and a large variety of deubiquitinating enzymes (DUBs) [1]
+3	123	132 ubiquitin	Gene_function	GO_0031386
+3	149	158 ubiquitin	Gene_function	GO_0031386
+3	262	273 degradation	Gene_function	GO_0009056
+3	466	483 protease activity	Gene_function	GO_0008233
+3	670	679 ubiquitin	Gene_function	GO_0031386
+3	844	855 degradation	Gene_function	GO_0009056
+3	1068	1076 membrane	Gene_function	GO_0016020
+3	1174	1183 transport	Gene_function	GO_0006810
+3	1227	1245 endosomal membrane	Gene_function	GO_0010008
+3	1237	1245 membrane	Gene_function	GO_0016020
+3	1578	1597 multivesicular body	Gene_function	GO_0005771
+3	1610	1613 MVB	Gene_function	GO_0005771
+3	1804	1813 ubiquitin	Gene_function	GO_0031386
+
+4|chunk|. Ubiquitin is a ubiquitously expressed and well-conserved eukaryotic peptide of 76 amino acids, which can be conjugated to proteins, mainly on their lysine residues. The addition of a single ubiquitin or small ubiquitin chains is involved in many regulatory functions, whereas poly-ubiquitination at lysine 48 (K48), corresponding to the addition of chains exceeding four ubiquitins, serves as a signal for degradation [2] [3] [4] [5] . Ubiquitination is dependent on the ubiquitin machinery: the ubiquitin-activating enzyme E1 first forms a high-energy thiol-ester link with ubiquitin in an ATP dependent manner; ubiquitin is then transferred onto a thiol group of the ubiquitin-conjugating enzyme E2; finally, the ubiquitin ligase E3 transfers ubiquitin onto a lysine of its substrate ( Figure 1A ) [6, 7] . In humans, there are two E1 enzymes, around 40 different E2 enzymes, which primarily determine the type of ubiquitin chain that is added, as well as over 700 different E3 ubiquitin ligases, which ensure targeting of various substrates and can be separated into two main families: HECT (Homologous to E6-AP Carboxyl Terminal) and RING (Really Interesting New Gene) ubiquitin ligases. DUBs are equally important for maturation, regulation and recycling of ubiquitin.
+4	2	11 Ubiquitin	Gene_function	GO_0031386
+4	192	201 ubiquitin	Gene_function	GO_0031386
+4	211	220 ubiquitin	Gene_function	GO_0031386
+4	408	419 degradation	Gene_function	GO_0009056
+4	473	482 ubiquitin	Gene_function	GO_0031386
+4	577	586 ubiquitin	Gene_function	GO_0031386
+4	615	624 ubiquitin	Gene_function	GO_0031386
+4	717	726 ubiquitin	Gene_function	GO_0031386
+4	747	756 ubiquitin	Gene_function	GO_0031386
+4	918	927 ubiquitin	Gene_function	GO_0031386
+4	982	991 ubiquitin	Gene_function	GO_0031386
+4	1175	1184 ubiquitin	Gene_function	GO_0031386
+4	1265	1274 ubiquitin	Gene_function	GO_0031386
+
+5|chunk|[2-5].
+
+6|chunk|A protein can be conjugated to different types of polyubiquitin chains, depending on which of the seven lysine residues of ubiquitin is used to link ubiquitin moieties in the chain. Proteins ubiquitinated by K48-linked chains are mainly destined for proteasomal degradation [8, 9] . The 20S proteasome is a barrel-shaped structure composed of four rings: two outer rings composed of seven -subunits and two inner rings composed of seven -subunits, which carry the protease activity on the inside of the ring. The 26S proteasome is formed by association of a 20S proteasome with two 19S lids, which ensure specific recognition of ubiquitinated substrates, recycling of ubiquitin through deubiquitination, unfolding of the target protein and translocation through the 20S barrel ( Figure 1B ) [2, [10] [11] [12] [13] [14] . While the proteasome represents the main degradation mechanism used in cells, some membrane-associated proteins are degraded by the endo-lysosomal pathway, which can be induced by mono-ubiquitination or K63-linked polyubiquitination. In this pathway, ubiquitinated membrane proteins are endocytosed and are then recognized by the endosomal sorting complexes required for transport (ESCRT), which mediate invagination of the endosomal membrane surrounding the ubiquitinated protein. The core ESCRT machinery consists of the ESCRT-I, ESCRT-II and ESCRT-III complexes, ALIX (Apoptosis-Linked gene 2-Interactiong protein X) and VPS4 (Vacuolar Protein Sorting-associated 4). This results in the formation of small vesicles inside the endosome, thereby generating what is called a multivesicular body (MVB). This MVB can then fuse to the lysosome, where the internal vesicles and their associated proteins are degraded [3, [15] [16] [17] . Agency for Research on AIDS and Viral Hepatitis (ANRS) to Jean-Christophe Paillart and by a doctoral fellowship from the French Ministry of Higher Education and Research to Tanja Seissler.
+6	123	132 ubiquitin	Gene_function	GO_0031386
+6	149	158 ubiquitin	Gene_function	GO_0031386
+6	262	273 degradation	Gene_function	GO_0009056
+6	466	483 protease activity	Gene_function	GO_0008233
+6	670	679 ubiquitin	Gene_function	GO_0031386
+6	865	876 degradation	Gene_function	GO_0009056
+6	1089	1097 membrane	Gene_function	GO_0016020
+6	1195	1204 transport	Gene_function	GO_0006810
+6	1248	1266 endosomal membrane	Gene_function	GO_0010008
+6	1258	1266 membrane	Gene_function	GO_0016020
+6	1599	1618 multivesicular body	Gene_function	GO_0005771
+6	1631	1634 MVB	Gene_function	GO_0005771
+6	1790	1805 Viral Hepatitis	Phenotype	HP_0006562
+6	1796	1805 Hepatitis	Phenotype	HP_0012115
+6	GO-HP	GO_0031386	HP_0006562
+6	GO-HP	GO_0031386	HP_0012115
+6	GO-HP	GO_0009056	HP_0006562
+6	GO-HP	GO_0009056	HP_0012115
+6	GO-HP	GO_0008233	HP_0006562
+6	GO-HP	GO_0008233	HP_0012115
+6	GO-HP	GO_0016020	HP_0006562
+6	GO-HP	GO_0016020	HP_0012115
+6	GO-HP	GO_0006810	HP_0006562
+6	GO-HP	GO_0006810	HP_0012115
+6	GO-HP	GO_0010008	HP_0006562
+6	GO-HP	GO_0010008	HP_0012115
+6	GO-HP	GO_0005771	HP_0006562
+6	GO-HP	GO_0005771	HP_0012115
+

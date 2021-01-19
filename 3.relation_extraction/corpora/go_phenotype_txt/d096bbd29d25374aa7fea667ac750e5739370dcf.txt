@@ -1,0 +1,26 @@
+0|chunk|A systematic view on influenza induced host shutoff
+
+1|chunk|Host shutoff is a common strategy used by viruses to repress cellular mRNA translation and concomitantly allow the efficient translation of viral mRNAs. Here we use RNAsequencing and ribosome profiling to explore the mechanisms that are being utilized by the Influenza A virus (IAV) to induce host shutoff. We show that viral transcripts are not preferentially translated and instead the decline in cellular protein synthesis is mediated by viral takeover on the mRNA pool. Our measurements also uncover strong variability in the levels of cellular transcripts reduction, revealing that short transcripts are less affected by IAV. Interestingly, these mRNAs that are refractory to IAV infection are enriched in cell maintenance processes such as oxidative phosphorylation. Furthermore, we show that the continuous oxidative phosphorylation activity is important for viral propagation. Our results advance our understanding of IAV-induced shutoff, and suggest a mechanism that facilitates the translation of genes with important housekeeping functions.
+1	75	86 translation	Gene_function	GO_0006412
+1	125	136 translation	Gene_function	GO_0006412
+1	183	191 ribosome	Gene_function	GO_0005840
+1	408	425 protein synthesis	Gene_function	GO_0006412
+1	416	425 synthesis	Gene_function	GO_0009058
+1	614	622 affected	Phenotype	HP_0032320
+1	667	677 refractory	Phenotype	HP_0031375
+1	746	771 oxidative phosphorylation	Gene_function	GO_0006119
+1	756	771 phosphorylation	Gene_function	GO_0016310
+1	814	839 oxidative phosphorylation	Gene_function	GO_0006119
+1	824	839 phosphorylation	Gene_function	GO_0016310
+1	992	1003 translation	Gene_function	GO_0006412
+1	GO-HP	GO_0006412	HP_0032320
+1	GO-HP	GO_0006412	HP_0031375
+1	GO-HP	GO_0005840	HP_0032320
+1	GO-HP	GO_0005840	HP_0031375
+1	GO-HP	GO_0009058	HP_0032320
+1	GO-HP	GO_0009058	HP_0031375
+1	HP-GO	HP_0032320	GO_0006119
+1	HP-GO	HP_0032320	GO_0016310
+1	HP-GO	HP_0031375	GO_0006119
+1	HP-GO	HP_0031375	GO_0016310
+

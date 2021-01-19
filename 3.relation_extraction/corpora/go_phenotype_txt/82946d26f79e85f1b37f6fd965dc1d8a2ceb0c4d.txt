@@ -1,0 +1,20 @@
+0|chunk|Cyclooxygenase activity is important for efficient replication of mouse hepatitis virus at an early stage of infection
+0	72	81 hepatitis	Phenotype	HP_0012115
+
+1|chunk|Cyclooxygenases (COXs) play a significant role in many different viral infections with respect to replication and pathogenesis. Here we investigated the role of COXs in the mouse hepatitis coronavirus (MHV) infection cycle. Blocking COX activity by different inhibitors or by RNA interference affected MHV infection in different cells. The COX inhibitors reduced MHV infection at a post-binding step, but early in the replication cycle. Both viral RNA and viral protein synthesis were affected with subsequent loss of progeny virus production. Thus, COX activity appears to be required for efficient MHV replication, providing a potential target for anti-coronaviral therapy.
+1	179	188 hepatitis	Phenotype	HP_0012115
+1	276	292 RNA interference	Gene_function	GO_0016246
+1	293	301 affected	Phenotype	HP_0032320
+1	456	479 viral protein synthesis	Gene_function	GO_0003746
+1	462	479 protein synthesis	Gene_function	GO_0006412
+1	470	479 synthesis	Gene_function	GO_0009058
+1	485	493 affected	Phenotype	HP_0032320
+1	HP-GO	HP_0012115	GO_0016246
+1	HP-GO	HP_0012115	GO_0003746
+1	HP-GO	HP_0012115	GO_0006412
+1	HP-GO	HP_0012115	GO_0009058
+1	GO-HP	GO_0016246	HP_0032320
+1	HP-GO	HP_0032320	GO_0003746
+1	HP-GO	HP_0032320	GO_0006412
+1	HP-GO	HP_0032320	GO_0009058
+

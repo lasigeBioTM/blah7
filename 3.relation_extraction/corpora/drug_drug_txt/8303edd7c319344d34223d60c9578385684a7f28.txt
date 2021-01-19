@@ -1,0 +1,51 @@
+0|chunk|Respiratory Syncytial Virus whole- genome sequencing identifies convergent evolution of sequence duplication in the C-terminus of the G gene OPEN
+
+1|chunk|circulate are likely mechanisms contributing to the evasion of herd immunity. Surveillance and largescale whole-genome sequencing of RSV is currently limited but would help identify its evolutionary dynamics and sites of selective immune evasion. In this study, we performed complete-genome nextgeneration sequencing of 92 RSV isolates from infants in central Tennessee during the 2012-2014 RSV seasons. We identified multiple co-circulating clades of RSV from both the A and B groups. Each clade is defined by signature N-and O-linked glycosylation patterns. Analyses of specific RSV genes revealed high rates of positive selection in the attachment (G) gene. We identified RSV-A viruses in circulation with and without a recently reported 72-nucleotide G gene sequence duplication. Furthermore, we show evidence of convergent evolution of G gene sequence duplication and fixation over time, which suggests a potential fitness advantage of RSV with the G sequence duplication.
+
+2|chunk|Human Respiratory Syncytial Virus (RSV) was first isolated in 1955 1-3 and has been associated with mild to severe acute lower respiratory tract infections (ALRIs), especially in infants, premature babies, the elderly, and immunocompromised individuals 4-7 . In 2005, RSV caused an estimated 33.8 million new episodes of ALRIs in children under five worldwide, with 3.4 million cases requiring hospitalization due to severe illness 1,7,8 . Global estimates of disease burden show RSV to account for 30 million ALRIs and 50,000 annual deaths of children < five years of age 1, 7, 8 . Nearly all children have had at least one RSV infection by two years of age 7 . It is well established that RSV infections during infancy (< six months of age) are associated with an increased incidence of subsequent childhood wheezing and asthma 9 . Despite its global public health impact, no licensed vaccines nor effective treatments for acute infection are currently available for RSV 9 . The only approved prophylaxis is passive immunization with palivizumab, a humanized mouse monoclonal antibody against the RSV fusion (F) protein 10,11 . The efficacy trials of palivizumab resulted in a 39-78% decrease in hospitalization rates for RSV in premature infants and children with chronic lung disease 10 ; however, a recent review shows inconsistent cost-effectiveness of palivizumab 12 .
+2	1114	1121 protein	Chemical	CHEBI_16541
+
+3|chunk|RSV is an enveloped virus with a negative-sense, single-stranded, non-segmented RNA genome belonging to the Paramyxoviridae family. The 11 RSV proteins include the polymerase (L), nucleocapsid (N), phosphoprotein (P), transcriptional regulators (M2-1, M2-2), matrix (M), small hydrophobic protein (SH), non-structural proteins (NS1, NS2) and two major surface glycoproteins (F and G) that are responsible for virus entry and are the major target of human immune responses. The F protein is responsible for the fusion of the viral envelop with the host cell membrane for the viral entry into the cell. The attachment G protein has a short cytoplasmic domain followed by a transmembrane domain and two hypervariable mucin-like domains joined by a conserved sequence, which is responsible for cellular attachment. The G protein also has an immune decoy function in its soluble, extracellularly secreted form.
+3	80	83 RNA	Chemical	CHEBI_33697
+3	143	151 proteins	Chemical	CHEBI_36080
+3	194	197 Naa	Chemical	CHEBI_21547
+3	214	217 Paa	Chemical	CHEBI_51133
+3	289	296 protein	Chemical	CHEBI_16541
+3	318	326 proteins	Chemical	CHEBI_36080
+3	360	373 glycoproteins	Chemical	CHEBI_17089
+3	479	486 protein	Chemical	CHEBI_16541
+3	618	625 protein	Chemical	CHEBI_16541
+3	817	824 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_21547
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_51133
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_21547
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_51133
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_21547	CHEBI_51133
+3	CHEBI-CHEBI	CHEBI_21547	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_21547	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_51133	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_51133	CHEBI_17089
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_17089
+
+4|chunk|RSV has an epidemic seasonality similar to the influenza viruses, with increased cases during the winter in temperate climates and during the monsoon season in tropical and sub-tropical climates 1, 9, 13, 14 . RSV can be classified into two antigenic groups (A and B), each containing several distinct subgroups based on antigenic and genomic sequence differences, especially in the G glycoprotein 15-17 . Studies suggest group A viruses cause more severe disease and transmit more readily than group B viruses in infants 9 . These two groups tend to alternate in prevalence between RSV seasons and also show evidence of multiple co-circulating intra-group viral genotypes, or clades, during any given season 9, 13, 16, 18, 19 , resulting in a diverse set of circulating viruses that can adapt to herd immunity. It is unclear if this represents a gradual evolution of viral genomes or stochastic differences in infection rates by co-circulating strains.
+4	385	397 glycoprotein	Chemical	CHEBI_17089
+
+5|chunk|Previous RSV sequencing studies have largely focused on sequencing only complete or partial G gene sequences because the C-terminal, second hypervariable portion of G is sufficient and required for distinguishing the two RSV groups and the various genotypes within each group 13,14 . In 1999, a G gene variant was identified in RSV-B that contained a 60-nucleotide (20 amino acid) duplication in the C-terminal third of G, within the second hypervariable mucin-like domain 20,21 . This genotype has now spread globally 22 . In 2010, a similar G gene variant was identified in RSV-A from several locations around the globe that contained a 72-nucleotide (24 amino acid) duplication in the second mucin-like domain 15,22-24 .
+5	369	374 amino	Chemical	CHEBI_46882
+5	369	379 amino acid	Chemical	CHEBI_33704
+5	375	379 acid	Chemical	CHEBI_37527
+5	657	662 amino	Chemical	CHEBI_46882
+5	657	667 amino acid	Chemical	CHEBI_33704
+5	663	667 acid	Chemical	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+6|chunk|To better understand RSV evolutionary dynamics, we sequenced RSV whole genomes from acutely infected infants from middle Tennessee who were enrolled as part of the Infant Susceptibility to Pulmonary Infections and Asthma Following RSV Exposure (INSPIRE) longitudinal observational birth cohort 25 . The objective of our sequencing efforts was to assess the epidemiological and evolutionary dynamics of RSV from Tennessee within a global context, which is important for identifying RSV strains that feed into the global circulation.
+6	287	293 cohort	Chemical	CHEBI_34935
+

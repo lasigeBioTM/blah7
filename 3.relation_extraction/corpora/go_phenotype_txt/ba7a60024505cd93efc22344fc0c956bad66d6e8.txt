@@ -1,0 +1,40 @@
+0|chunk|Mouse Hepatitis Virus Infection Upregulates Genes Involved in Innate Immune Responses
+0	6	15 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Neurotropic recombinant strain of Mouse Hepatitis Virus, RSA59, induces meningo-encephalitis, myelitis and demyelination following intracranial inoculation. RSA59 induced neuropathology is partially caused by activation of CNS resident microglia, as demonstrated by changes in cellular morphology and increased expression of a microglia/macrophage specific calcium ion binding factor, Iba1. Affymetrix Microarray analysis for mRNA expression data reveals expression of inflammatory mediators that are known to be released by activated microglia. Microglia-specific cell surface molecules, including CD11b, CD74, CD52 and CD68, are significantly upregulated in contrast to CD4, CD8 and CD19. Protein analysis of spinal cord extracts taken from mice 6 days post-inoculation, the time of peak inflammation, reveals robust expression of IFN-c, IL-12 and mKC. Data suggest that activated microglia and inflammatory mediators contribute to a local CNS microenvironment that regulates viral replication and IFN-c production during the acute phase of infection, which in turn can cause phagolysosome maturation and phagocytosis of the myelin sheath, leading to demyelination.
+1	40	49 Hepatitis	Phenotype	HP_0012115
+1	94	102 myelitis	Phenotype	HP_0012486
+1	107	120 demyelination	Phenotype	HP_0011096
+1	357	376 calcium ion binding	Gene_function	GO_0005509
+1	365	376 ion binding	Gene_function	GO_0043167
+1	369	376 binding	Gene_function	GO_0005488
+1	565	577 cell surface	Gene_function	GO_0009986
+1	1028	1033 acute	Phenotype	HP_0011009
+1	1078	1091 phagolysosome	Gene_function	GO_0032010
+1	1107	1119 phagocytosis	Gene_function	GO_0006909
+1	1153	1166 demyelination	Phenotype	HP_0011096
+1	HP-GO	HP_0012115	GO_0005509
+1	HP-GO	HP_0012115	GO_0043167
+1	HP-GO	HP_0012115	GO_0005488
+1	HP-GO	HP_0012115	GO_0009986
+1	HP-GO	HP_0012115	GO_0032010
+1	HP-GO	HP_0012115	GO_0006909
+1	HP-GO	HP_0012486	GO_0005509
+1	HP-GO	HP_0012486	GO_0043167
+1	HP-GO	HP_0012486	GO_0005488
+1	HP-GO	HP_0012486	GO_0009986
+1	HP-GO	HP_0012486	GO_0032010
+1	HP-GO	HP_0012486	GO_0006909
+1	HP-GO	HP_0011096	GO_0005509
+1	HP-GO	HP_0011096	GO_0043167
+1	HP-GO	HP_0011096	GO_0005488
+1	HP-GO	HP_0011096	GO_0009986
+1	HP-GO	HP_0011096	GO_0032010
+1	HP-GO	HP_0011096	GO_0006909
+1	GO-HP	GO_0005509	HP_0011009
+1	GO-HP	GO_0043167	HP_0011009
+1	GO-HP	GO_0005488	HP_0011009
+1	GO-HP	GO_0009986	HP_0011009
+1	HP-GO	HP_0011009	GO_0032010
+1	HP-GO	HP_0011009	GO_0006909
+

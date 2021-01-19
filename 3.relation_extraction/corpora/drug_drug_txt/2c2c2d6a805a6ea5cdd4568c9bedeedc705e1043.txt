@@ -1,0 +1,122 @@
+0|chunk|Gene Regulatory Network Inference of Immunoresponsive Gene 1 (IRG1) Identifies Interferon Regulatory Factor 1 (IRF1) as Its Transcriptional Regulator in Mammalian Macrophages
+0	79	89 Interferon	Chemical	CHEBI_52999
+
+1|chunk|Immunoresponsive gene 1 (IRG1) is one of the highest induced genes in macrophages under pro-inflammatory conditions. Its function has been recently described: it codes for immune-responsive gene 1 protein/cis-aconitic acid decarboxylase (IRG1/CAD), an enzyme catalysing the production of itaconic acid from cis-aconitic acid, a tricarboxylic acid (TCA) cycle intermediate. Itaconic acid possesses specific antimicrobial properties inhibiting isocitrate lyase, the first enzyme of the glyoxylate shunt, an anaplerotic pathway that bypasses the TCA cycle and enables bacteria to survive on limited carbon conditions. To elucidate the mechanisms underlying itaconic acid production through IRG1 induction in macrophages, we examined the transcriptional regulation of IRG1. To this end, we studied IRG1 expression in human immune cells under different inflammatory stimuli, such as TNF and IFN, in addition to lipopolysaccharides. Under these conditions, as previously shown in mouse macrophages, IRG1/CAD accumulates in mitochondria. Furthermore, using literature information and transcription factor prediction models, we re-constructed raw gene regulatory networks (GRNs) for IRG1 in mouse and human macrophages. We further implemented a contextualization algorithm that relies on genome-wide gene expression data to infer putative cell type-specific gene regulatory interactions in mouse and human macrophages, which allowed us to predict potential transcriptional regulators of IRG1. Among the computationally identified regulators, siRNA-mediated gene silencing of interferon regulatory factor 1 (IRF1) in macrophages significantly decreased the expression of IRG1/CAD at the gene and protein level, which correlated with a reduced production of itaconic acid. Using a synergistic approach of both computational and experimental methods, PLOS ONE | we here shed more light on the transcriptional machinery of IRG1 expression and could pave the way to therapeutic approaches targeting itaconic acid levels.
+1	197	204 protein	Chemical	CHEBI_16541
+1	218	222 acid	Chemical	CHEBI_37527
+1	288	301 itaconic acid	Chemical	CHEBI_30838
+1	297	301 acid	Chemical	CHEBI_37527
+1	320	324 acid	Chemical	CHEBI_37527
+1	328	346 tricarboxylic acid	Chemical	CHEBI_27093
+1	342	346 acid	Chemical	CHEBI_37527
+1	348	351 TCA	Chemical	CHEBI_30956
+1	373	386 Itaconic acid	Chemical	CHEBI_30838
+1	382	386 acid	Chemical	CHEBI_37527
+1	406	419 antimicrobial	Chemical	CHEBI_33281
+1	442	452 isocitrate	Chemical	CHEBI_16087
+1	484	494 glyoxylate	Chemical	CHEBI_16891
+1	517	524 pathway	Chemical	CHEBI_34922
+1	543	546 TCA	Chemical	CHEBI_30956
+1	596	602 carbon	Chemical	CHEBI_27594
+1	654	667 itaconic acid	Chemical	CHEBI_30838
+1	663	667 acid	Chemical	CHEBI_37527
+1	1569	1579 interferon	Chemical	CHEBI_52999
+1	1689	1696 protein	Chemical	CHEBI_16541
+1	1750	1763 itaconic acid	Chemical	CHEBI_30838
+1	1759	1763 acid	Chemical	CHEBI_37527
+1	1847	1850 ONE	Chemical	CHEBI_58972
+1	1871	1876 light	Chemical	CHEBI_30212
+1	1988	2001 itaconic acid	Chemical	CHEBI_30838
+1	1997	2001 acid	Chemical	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_30838
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_27093
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_30956
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33281
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_30838
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_27093
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_30956
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_33281
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_27093
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_30956
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_33281
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_30838	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_30956
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_33281
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_27093	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_33281
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_30956	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_16087
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_33281	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_16891
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_16087	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_16891	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_16891	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_16891	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_16891	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_16891	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_27594
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_27594	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_27594	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_27594	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_58972
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_30212
+1	CHEBI-CHEBI	CHEBI_58972	CHEBI_30212
+
+2|chunk|IRF1 Is a Transcriptional Regulator of IRG1 Cells were washed with ice-cold PBS after removing the medium. Proteins were extracted using Mammalian Protein Extraction Reagent (M-PER, Thermo Scientific) which includes lysis buffer and a protease inhibitor. A volume of 150L/well of M-PER complete reagent was added IRF1 Is a Transcriptional Regulator of IRG1
+2	107	115 Proteins	Chemical	CHEBI_36080
+2	147	154 Protein	Chemical	CHEBI_16541
+2	166	173 Reagent	Chemical	CHEBI_33893
+2	222	228 buffer	Chemical	CHEBI_35225
+2	296	303 reagent	Chemical	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_35225
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33893
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_35225
+2	CHEBI-CHEBI	CHEBI_33893	CHEBI_35225
+

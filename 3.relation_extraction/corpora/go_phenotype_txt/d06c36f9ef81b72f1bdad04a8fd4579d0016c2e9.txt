@@ -1,0 +1,22 @@
+0|chunk|Basic Induced CNS expression of CXCL1 augments neurologic disease in a murine model of multiple sclerosis via enhanced neutrophil recruitment
+
+1|chunk|Increasing evidence points to an important role for neutrophils in participating in the pathogenesis of the human demyelinating disease MS and the animal model EAE. Therefore, a better understanding of the signals controlling migration of neutrophils as well as evaluating the role of these cells in demyelination is important to define cellular components that contribute to disease in MS patients. In this study, we examined the functional role of the chemokine CXCL1 in contributing to neuroinflammation and demyelination in EAE. Using transgenic mice in which expression of CXCL1 is under the control of a tetracycline-inducible promoter active within glial fibrillary acidic protein-positive cells, we have shown that sustained CXCL1 expression within the CNS increased the severity of clinical and histologic disease that was independent of an increase in the frequency of encephalitogenic Th1 and Th17 cells. Rather, disease was associated with enhanced recruitment of CD11b + Ly6G + neutrophils into the spinal cord. Targeting neutrophils resulted in a reduction in demyelination arguing for a role for these cells in myelin damage. Collectively, these findings emphasize that CXCL1-mediated attraction of neutrophils into the CNS augments demyelination suggesting that this signaling pathway may offer new targets for therapeutic intervention.
+1	88	100 pathogenesis	Gene_function	GO_0009405
+1	300	313 demyelination	Phenotype	HP_0011096
+1	511	524 demyelination	Phenotype	HP_0011096
+1	779	787 severity	Phenotype	HP_0012824
+1	866	875 frequency	Phenotype	HP_0040279
+1	1074	1087 demyelination	Phenotype	HP_0011096
+1	1248	1261 demyelination	Phenotype	HP_0011096
+1	1283	1292 signaling	Gene_function	GO_0023052
+1	1283	1300 signaling pathway	Gene_function	GO_0007165
+1	GO-HP	GO_0009405	HP_0011096
+1	GO-HP	GO_0009405	HP_0012824
+1	GO-HP	GO_0009405	HP_0040279
+1	HP-GO	HP_0011096	GO_0023052
+1	HP-GO	HP_0011096	GO_0007165
+1	HP-GO	HP_0012824	GO_0023052
+1	HP-GO	HP_0012824	GO_0007165
+1	HP-GO	HP_0040279	GO_0023052
+1	HP-GO	HP_0040279	GO_0007165
+

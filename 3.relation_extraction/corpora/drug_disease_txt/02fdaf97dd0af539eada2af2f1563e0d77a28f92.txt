@@ -1,0 +1,39 @@
+0|chunk|Discovery of an antibody for pan- ebolavirus therapy OPEN
+
+1|chunk|During the latest outbreak of Ebola virus disease in West Africa, monoclonal antibody therapy (e.g., ZMapp) was utilized to treat patients. However, due to the antigenic differences among the five ebolavirus species, the current therapeutic monoclonal antibodies are only effective against viruses of the species Zaire ebolavirus. Although this particular species has indeed caused the majority of human infections in Central and, recently, West Africa, other ebolavirus species (e.g., Sudan ebolavirus and Bundibugyo ebolavirus) have also repeatedly caused outbreaks in Central Africa and thus should not be neglected in the development of countermeasures against ebolaviruses. Here we report the generation of an ebolavirus glycoprotein-specific monoclonal antibody that effectively inhibits cellular entry of representative isolates of all known ebolavirus species in vitro and show its protective efficacy in mouse models of ebolavirus infections. This novel neutralizing monoclonal antibody targets a highly conserved internal fusion loop in the glycoprotein molecule and prevents membrane fusion of the viral envelope with cellular membranes. The discovery of this highly cross-neutralizing antibody provides a promising option for broad-acting ebolavirus antibody therapy and will accelerate the design of improved vaccines that can selectively elicit cross-neutralizing antibodies against multiple species of ebolaviruses.
+1	30	49 Ebola virus disease	Disease	DOID_4325
+1	42	49 disease	Disease	DOID_4
+1	1051	1063 glycoprotein	Chemical	CHEBI_17089
+1	1064	1072 molecule	Chemical	CHEBI_25367
+1	DOID-CHEBI	DOID_4325	CHEBI_17089
+1	DOID-CHEBI	DOID_4325	CHEBI_25367
+1	DOID-CHEBI	DOID_4	CHEBI_17089
+1	DOID-CHEBI	DOID_4	CHEBI_25367
+
+2|chunk|Ebolaviruses, members of the family Filoviridae, cause severe hemorrhagic fever in humans and nonhuman primates, with human case fatality rates of up to 90% 1,2 . As proven by the latest epidemic of Ebola virus disease (EVD) in West Africa, ebolaviruses pose a significant public health concern. However, no effective prophylaxis or treatment for EVD is as yet commercially available. Five distinct species are known in the genus Ebolavirus, Zaire ebolavirus, Sudan ebolavirus, Ta forest ebolavirus, Bundibugyo ebolavirus, and Reston ebolavirus, represented by Ebola virus (EBOV), Sudan virus (SUDV), Ta forest virus (TAFV), Bundibugyo virus (BDBV), and Reston virus (RESTV), respectively 3 . Of these, EBOV, SUDV, and BDBV have caused EVD outbreaks with increased frequency in Central and West Africa in the last decade 1,2,4 .
+2	199	218 Ebola virus disease	Disease	DOID_4325
+2	211	218 disease	Disease	DOID_4
+
+3|chunk|Ebolaviruses express a single transmembrane glycoprotein (GP) that is responsible for both receptor binding and membrane fusion, and thus the only known target of neutralizing antibodies. GP undergoes proteolytic cleavage by host proteases such as furin, resulting in the two subunits, GP1 and GP2, which are linked by a disulfide bond 5,6 . The GP1 subunit (amino acids 33-501) contains the core of the glycoprotein, receptor binding domain (RBD), a glycan cap, and a large mucin-like domain which extends around the RBD 7 . The GP2 (amino acids 502-676) subunit contains the internal fusion loop (IFL), heptad repeats 1 and 2 (HR1 and HR2), the transmembrane region (TM), and the cytoplasmic tail (CT) 8 . During the transport of ebolavirus particles to late endosomes, low pH leads to proteolytic processing of GPs by host cysteine proteases such as cathepsins 9 , and the exposed receptor binding site of the proteolytically digested GP is thought to interact with a host receptor, Niemann Pick C1, followed by membrane fusion 8, 10, 11 .
+3	44	56 glycoprotein	Chemical	CHEBI_17089
+3	321	330 disulfide	Chemical	CHEBI_48343
+3	359	364 amino	Chemical	CHEBI_46882
+3	359	370 amino acids	Chemical	CHEBI_33704
+3	365	370 acids	Chemical	CHEBI_37527
+3	404	416 glycoprotein	Chemical	CHEBI_17089
+3	451	457 glycan	Chemical	CHEBI_18154
+3	535	540 amino	Chemical	CHEBI_46882
+3	535	546 amino acids	Chemical	CHEBI_33704
+3	541	546 acids	Chemical	CHEBI_37527
+3	814	817 GPs	Disease	DOID_0111044
+3	826	834 cysteine	Chemical	CHEBI_15356
+3	CHEBI-DOID	CHEBI_17089	DOID_0111044
+3	CHEBI-DOID	CHEBI_48343	DOID_0111044
+3	CHEBI-DOID	CHEBI_46882	DOID_0111044
+3	CHEBI-DOID	CHEBI_33704	DOID_0111044
+3	CHEBI-DOID	CHEBI_37527	DOID_0111044
+3	CHEBI-DOID	CHEBI_18154	DOID_0111044
+3	DOID-CHEBI	DOID_0111044	CHEBI_15356
+
+4|chunk|Several studies have demonstrated that administration of EBOV GP-specific antibodies protects nonhuman primates from lethal EBOV infection and may constitute a leading treatment option for EVD in humans [12] [13] [14] [15] [16] . During the West African EVD outbreak, EBOV GP-specific monoclonal antibody (MAb) cocktails (e.g., ZMapp) 12 , were used to treat several patients 17-20 . However, most of characterized therapeutic MAbs to date are EBOV GP-specific and cross-neutralizing activity against any other ebolavirus species (e.g., SUDV and
+

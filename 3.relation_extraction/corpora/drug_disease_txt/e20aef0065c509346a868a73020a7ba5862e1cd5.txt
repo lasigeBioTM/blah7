@@ -1,0 +1,19 @@
+0|chunk|Influenza A Virus Assembly Intermediates Fuse in the Cytoplasm
+0	0	9 Influenza	Disease	DOID_8469
+
+1|chunk|Reassortment of influenza viral RNA (vRNA) segments in co-infected cells can lead to the emergence of viruses with pandemic potential. Replication of influenza vRNA occurs in the nucleus of infected cells, while progeny virions bud from the plasma membrane. However, the intracellular mechanics of vRNA assembly into progeny virions is not well understood.
+1	16	25 influenza	Disease	DOID_8469
+1	32	35 RNA	Chemical	CHEBI_33697
+1	150	159 influenza	Disease	DOID_8469
+1	179	186 nucleus	Chemical	CHEBI_33252
+1	DOID-CHEBI	DOID_8469	CHEBI_33697
+1	DOID-CHEBI	DOID_8469	CHEBI_33252
+
+2|chunk|Here we used recent advances in microscopy to explore vRNA assembly and transport during a productive infection. We visualized four distinct vRNA segments within a single cell using fluorescent in situ hybridization (FISH) and observed that foci containing more than one vRNA segment were found at the external nuclear periphery, suggesting that vRNA segments are not exported to the cytoplasm individually. Although many cytoplasmic foci contain multiple vRNA segments, not all vRNA species are present in every focus, indicating that assembly of all eight vRNA segments does not occur prior to export from the nucleus. To extend the observations made in fixed cells, we used a virus that encodes GFP fused to the viral polymerase acidic (PA) protein (WSN PA-GFP) to explore the dynamics of vRNA assembly in live cells during a productive infection. Since WSN PA-GFP colocalizes with viral nucleoprotein and influenza vRNA segments, we used it as a surrogate for visualizing vRNA transport in 3D and at high speed by inverted selective-plane illumination microscopy. We observed cytoplasmic PA-GFP foci colocalizing and traveling together en route to the plasma membrane. Our data strongly support a model in which vRNA segments are exported from the nucleus as complexes that assemble en route to the plasma membrane through dynamic colocalization events in the cytoplasm.
+2	612	619 nucleus	Chemical	CHEBI_33252
+2	744	751 protein	Chemical	CHEBI_16541
+2	909	918 influenza	Disease	DOID_8469
+2	1252	1259 nucleus	Chemical	CHEBI_33252
+2	CHEBI-DOID	CHEBI_33252	DOID_8469
+2	CHEBI-DOID	CHEBI_16541	DOID_8469
+

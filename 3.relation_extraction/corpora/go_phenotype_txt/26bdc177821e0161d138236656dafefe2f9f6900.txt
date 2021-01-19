@@ -1,0 +1,23 @@
+0|chunk|Address: 1 Research Medicine, Veterans Affairs Tennessee Valley Healthcare System
+
+1|chunk|Background: Viruses are obligate intracellular parasites and rely upon the host cell for different steps in their life cycles. The characterization of cellular genes required for virus infection and/or cell killing will be essential for understanding viral life cycles, and may provide cellular targets for new antiviral therapies.
+1	24	32 obligate	Phenotype	HP_0040280
+1	33	46 intracellular	Gene_function	GO_0005622
+1	75	84 host cell	Gene_function	GO_0043657
+1	202	214 cell killing	Gene_function	GO_0001906
+1	HP-GO	HP_0040280	GO_0005622
+1	HP-GO	HP_0040280	GO_0043657
+1	HP-GO	HP_0040280	GO_0001906
+
+2|chunk|Results: A gene entrapment approach was used to identify candidate cellular genes that affect reovirus infection or virus induced cell lysis. Four of the 111 genes disrupted in clones selected for resistance to infection by reovirus type 1 involved the insulin growth factor-2 (IGF-II) pathway, including: the mannose-6-phosphate/IGF2 receptor (Igf2r), a protease associated with insulin growth factor binding protein 5 (Prss11), and the CTCF transcriptional regulator (Ctcf). The disruption of Ctcf, which encodes a repressor of Igf2, was associated with enhanced Igf2 gene expression. Plasmids expressing either the IGF-II pro-hormone or IGF-II without the carboxy terminal extension (E)-peptide sequence independently conferred high levels of cellular resistance to reovirus infection. Forced IGF-II expression results in a block in virus disassembly. In addition, Ctcf disruption and forced Igf2 expression both enabled cells to proliferate in soft agar, a phenotype associated with malignant growth in vivo.
+2	261	267 growth	Gene_function	GO_0040007
+2	388	394 growth	Gene_function	GO_0040007
+2	388	409 growth factor binding	Gene_function	GO_0019838
+2	402	409 binding	Gene_function	GO_0005488
+2	997	1003 growth	Gene_function	GO_0040007
+
+3|chunk|These results indicate that IGF-II, and by inference other components of the IGF-II signalling pathway, can confer resistance to lytic reovirus infection. This report represents the first use of gene entrapment to identify host factors affecting virus infection. Concomitant transformation observed in some virus resistant cells illustrates a potential mechanism of carcinogenesis associated with chronic virus infection.
+3	84	94 signalling	Gene_function	GO_0023052
+3	397	404 chronic	Phenotype	HP_0011010
+3	GO-HP	GO_0023052	HP_0011010
+

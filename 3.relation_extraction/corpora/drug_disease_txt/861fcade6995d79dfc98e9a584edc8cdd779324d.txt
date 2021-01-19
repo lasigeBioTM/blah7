@@ -1,0 +1,53 @@
+0|chunk|cells Regulation of Ribosomal Proteins on Viral Infection
+0	30	38 Proteins	Chemical	CHEBI_36080
+0	42	57 Viral Infection	Disease	DOID_934
+0	CHEBI-DOID	CHEBI_36080	DOID_934
+
+1|chunk|Ribosomal proteins (RPs), in conjunction with rRNA, are major components of ribosomes involved in the cellular process of protein biosynthesis, known as "translation". The viruses, as the small infectious pathogens with limited genomes, must recruit a variety of host factors to survive and propagate, including RPs. At present, more and more information is available on the functional relationship between RPs and virus infection. This review focuses on advancements in my own understanding of critical roles of RPs in the life cycle of viruses. Various RPs interact with viral mRNA and proteins to participate in viral protein biosynthesis and regulate the replication and infection of virus in host cells. Most interactions are essential for viral translation and replication, which promote viral infection and accumulation, whereas the minority represents the defense signaling of host cells by activating immune pathway against virus. RPs provide a new platform for antiviral therapy development, however, at present, antiviral therapeutics with RPs involving in virus infection as targets is limited, and exploring antiviral strategy based on RPs will be the guides for further study.
+1	10	18 proteins	Chemical	CHEBI_36080
+1	122	129 protein	Chemical	CHEBI_16541
+1	415	430 virus infection	Disease	DOID_934
+1	579	583 mRNA	Chemical	CHEBI_33699
+1	588	596 proteins	Chemical	CHEBI_36080
+1	621	628 protein	Chemical	CHEBI_16541
+1	794	809 viral infection	Disease	DOID_934
+1	917	924 pathway	Chemical	CHEBI_34922
+1	971	980 antiviral	Chemical	CHEBI_22587
+1	1023	1032 antiviral	Chemical	CHEBI_22587
+1	1068	1083 virus infection	Disease	DOID_934
+1	1121	1130 antiviral	Chemical	CHEBI_22587
+1	CHEBI-DOID	CHEBI_36080	DOID_934
+1	CHEBI-DOID	CHEBI_16541	DOID_934
+1	DOID-CHEBI	DOID_934	CHEBI_33699
+1	DOID-CHEBI	DOID_934	CHEBI_34922
+1	DOID-CHEBI	DOID_934	CHEBI_22587
+
+2|chunk|The predominant translation initiation pathway of cellular mRNA is cap-dependent, which requires recognition of mRNA 5 cap by the eukaryotic initiation factor 4E (eIF4E). eIF4E interacts with eIF4G and eIF4A to form the cap binding complex (eIF4F), recruiting the 40S subunit to the 5 end of mRNA ( Figure 1A) [11]. However, many viral mRNAs have no 5 cap structures. The cap-snatching from host mRNA is an effective strategy [12, 13] , while some RNA viruses utilize a cap-independent manner to recruit the ribosome, which is mediated by the internal ribosome entry site (IRES) [14] [15] [16] .
+2	39	46 pathway	Chemical	CHEBI_34922
+2	59	63 mRNA	Chemical	CHEBI_33699
+2	112	116 mRNA	Chemical	CHEBI_33699
+2	292	296 mRNA	Chemical	CHEBI_33699
+2	396	400 mRNA	Chemical	CHEBI_33699
+2	448	451 RNA	Chemical	CHEBI_33697
+
+3|chunk|IRES is a cis-element in 5 untranslated region (UTR) of viral mRNA, and it can recruit ribosomes to initiate the synthesis of viral proteins [17, 18] . According to the secondary structure, required initiation factors (eIFs) and location of the start codon relative to IRES, viral IRESs are functionally divided into four groups (IRES 1-4) [19] . IRES-1, from the intergenic region (IGR) of Dicistroviridae family that infects invertebrate, is the most streamlined IRES, because it recruits the 40S and 60S subunits to form functional 80S complexes in the absence of any eIFs [19] [20] [21] . Cricket paralysis virus (CrPV), Plautia stali intestine virus (PSIV) and Taura syndrome virus (TSV) are typical members in this group [19] . IRES-2 needs a subset of the canonical eIFs (eIF3, eIF2) and Met-tRNA to bind to 40S subunit [19] . This group is mainly from Flaviviridae family that infects mammal, with Hepatitis C virus (HCV) and Classical swine fever virus (CSFV) as typical members [19, 22, 23] . For IRES-3 (including Encephalomyocarditis virus and Foot-and-mouth disease virus, etc.) and IRES-4 (including poliovirus and rhinovirus, etc.), besides some canonical eIFs and Met-tRNA, additional proteins named IRES trans-activating factors (ITAFs) are also required to bind ribosome [14, 15, 19, 24] . However, even in the simplest system, an intricate reaction network regulates translation initiation, in which RPs are essential [18, 25] .
+3	132	140 proteins	Chemical	CHEBI_36080
+3	672	680 syndrome	Disease	DOID_225
+3	906	915 Hepatitis	Disease	DOID_2237
+3	906	917 Hepatitis C	Disease	DOID_1883
+3	1071	1078 disease	Disease	DOID_4
+3	1201	1209 proteins	Chemical	CHEBI_36080
+3	CHEBI-DOID	CHEBI_36080	DOID_225
+3	CHEBI-DOID	CHEBI_36080	DOID_2237
+3	CHEBI-DOID	CHEBI_36080	DOID_1883
+3	CHEBI-DOID	CHEBI_36080	DOID_4
+
+4|chunk|Although IRES-1 and IRES-2 both induce a conformational change in the ribosome upon binding [23, 26, 27] , their binding sites to 40S subunit are different. IRES-1 binds to the intersubunit surface of 40S subunit occupying the peptidyl (P) and exit (E) sites [27] , and IRES-2 binds to the solvent side of 40S subunit and occupies E site [28] . The binding to 40S subunit of IRES-2 is regulated by RPS5 with its -hairpin structure, independently of RPS25 (a RPS5 neighbor situated in the head domain of 40S subunit) ( Figure 1D ) [29] [30] [31] [32] [33] . Whereas IRES-1 depends on RPS25 for binding to 40S subunit ( Figure 1C ) [18, 31, 34] , in which RPS5 could maintain the accuracy of translation in eukaryotes [35] . RPS25 is non-essential in viral cap-dependent translation, but it plays a critical role in all viral IRES-mediated translation. The propagation of HCV and poliovirus is impaired in cells depleted of RPS25 [31]. This is because, after 40S subunit recruitment, all groups of IRESs rely on RPS25 for efficient translation ( Figure 1C ,D) [31, 34, 36] . RPS25 likely functions in a downstream step, such as loading of viral mRNA into 40S subunit, start codon recognition, or 60S subunit joining [31, 36] . When cap-dependent translation initiation is hindered, the 5 leader of human immunodeficiency virus type 1 (HIV-1) genomic RNA can fold into IRES to recruit 40S subunit and drive translation initiation of viral Gag protein, in which the activity of IRES is also dependent on RPS25 [37] . RACK1, as ribosome scaffold protein, is also required for viral IRES-2-mediated translation, and the effect of RACK1 may associate with eIF3 to assemble a translation preinitiation complex [38] . In addition, it is demonstrated that the intracellular level of 40S subunit plays a key role in facilitating HCV translation over host translation, and the translation initiation of HCV IRES and host mRNA possess different susceptibility for reduction of 40S subunit [39] . RPS2 (p40), RPS3a, RPS14 and RPS16 can interact with HCV
+4	290	297 solvent	Chemical	CHEBI_46787
+4	807	811 role	Chemical	CHEBI_50906
+4	1144	1148 mRNA	Chemical	CHEBI_33699
+4	1349	1352 RNA	Chemical	CHEBI_33697
+4	1437	1440 Gag	Chemical	CHEBI_143889
+4	1798	1802 role	Chemical	CHEBI_50906
+4	1910	1914 mRNA	Chemical	CHEBI_33699
+

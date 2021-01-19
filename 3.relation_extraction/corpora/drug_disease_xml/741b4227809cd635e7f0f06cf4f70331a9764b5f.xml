@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="741b4227809cd635e7f0f06cf4f70331a9764b5f">
+  <chunk id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0" text="A computational analysis of SARS cysteine proteinase-octapeptide substrate interaction: implication for structure and active site binding mechanism">
+    <entity charOffset="28-32" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="33-41" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0.e1" ontology_id="CHEBI_15356" text="cysteine" type="chemical"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0.e0" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0.e1" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1" text="Background: SARS coronavirus main proteinase (SARS CoVMpro) is an important enzyme for the replication of Severe Acute Respiratory Syndrome virus. The active site region of SARS CoVMpro is divided into 8 subsites. Understanding the binding mode of SARS CoVMpro with a specific substrate is useful and contributes to structural-based drug design. The purpose of this research is to investigate the binding mode between the SARS CoVMpro and two octapeptides, especially in the region of the S3 subsite, through a molecular docking and molecular dynamics (MD) simulation approach.">
+    <entity charOffset="12-16" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="46-50" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e1" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="106-139" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e2" ontology_id="DOID_2945" text="Severe Acute Respiratory Syndrome" type="disease"/>
+    <entity charOffset="131-139" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e3" ontology_id="DOID_225" text="Syndrome" type="disease"/>
+    <entity charOffset="173-177" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e4" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="248-252" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e5" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="333-337" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="422-426" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e7" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e0" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p0" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e1" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p1" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e2" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p2" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e3" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p3" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e4" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p4" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e5" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p5" relation="true"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e6" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.e7" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c1.p6" relation="true"/>
+  </chunk>
+  <chunk id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2" text="The one turn α-helix chain (residues 47-54) of the SARS CoVMpro was directly involved in the induced-fit model of the enzyme-substrate complex. The S3 subsite of the enzyme had a negatively charged region due to the presence of Glu47. During MD simulations, Glu47 of the enzyme was shown to play a key role in electrostatic bonding with the P3Lys of the octapeptide.">
+    <entity charOffset="51-55" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="302-306" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2.e1" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <pair e1="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2.e0" e2="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2.e1" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c2.p0" relation="true"/>
+  </chunk>
+  <chunk id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c3" text="Conclusion: MD simulations were carried out on the SARS CoVMpro-octapeptide complex. The hypothesis proposed that Glu47 of SARS CoVMpro is an important residue in the S3 subsite and is involved in binding with P3Lys of the octapeptide.">
+    <entity charOffset="51-55" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c3.e0" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="123-127" id="741b4227809cd635e7f0f06cf4f70331a9764b5f.c3.e1" ontology_id="DOID_2945" text="SARS" type="disease"/>
+  </chunk>
+</document>

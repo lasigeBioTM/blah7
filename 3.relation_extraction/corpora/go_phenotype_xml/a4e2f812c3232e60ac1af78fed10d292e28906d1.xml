@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="a4e2f812c3232e60ac1af78fed10d292e28906d1">
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c0" text="Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy"/>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1" text="Background: Timely information about disease severity can be central to the detection and management of outbreaks of acute respiratory infections (ARI), including influenza. We asked if two resources: 1) free text, and 2) structured data from an electronic medical record (EMR) could complement each other to identify patients with pneumonia, an ARI severity landmark.">
+    <entity charOffset="45-53" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e0" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <entity charOffset="61-68" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e1" ontology_id="HP_0030645" text="central" type="phenotype"/>
+    <entity charOffset="117-122" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e2" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="123-145" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e3" ontology_id="HP_0011947" text="respiratory infections" type="phenotype"/>
+    <entity charOffset="350-358" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c1.e4" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2" text="Methods: A manual EMR review of 2747 outpatient ARI visits with associated chest imaging identified x-ray reports that could support the diagnosis of pneumonia (kappa score = 0.88 (95% CI 0.82:0.93)), along with attendant cases with Possible Pneumonia (adds either cough, sputum, fever/chills/night sweats, dyspnea or pleuritic chest pain) or with Pneumonia-in-Plan (adds pneumonia stated as a likely diagnosis by the provider). The x-ray reports served as a reference to develop a text classifier using machine-learning software that did not require custom coding. To identify pneumonia cases, the classifier was combined with EMR-based structured data and with text analyses aimed at ARI symptoms in clinical notes.">
+    <entity charOffset="150-159" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e0" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="242-251" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e1" ontology_id="HP_0002090" text="Pneumonia" type="phenotype"/>
+    <entity charOffset="307-314" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e2" ontology_id="HP_0002094" text="dyspnea" type="phenotype"/>
+    <entity charOffset="328-338" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e3" ontology_id="HP_0100749" text="chest pain" type="phenotype"/>
+    <entity charOffset="334-338" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e4" ontology_id="HP_0012531" text="pain" type="phenotype"/>
+    <entity charOffset="372-381" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e5" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="578-587" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c2.e6" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3" text="Results: 370 reference cases with Possible Pneumonia and 250 with Pneumonia-in-Plan were identified. The x-ray report text classifier increased the positive predictive value of otherwise identical EMR-based case-detection algorithms by 20-70%, while retaining sensitivities of 58-75%. These performance gains were independent of the case definitions and of whether patients were admitted to the hospital or sent home. Text analyses seeking ARI symptoms in clinical notes did not add further value.">
+    <entity charOffset="43-52" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c3.e0" ontology_id="HP_0002090" text="Pneumonia" type="phenotype"/>
+  </chunk>
+  <chunk id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4" text="Conclusion: Specialized software development is not required for automated text analyses to help identify pneumonia patients. These results begin to map an efficient, replicable strategy through which EMR data can be used to stratify ARI severity. Citation: DeLisle S, Kim B, Deepak J, Siddiqui T, Gundlapalli A, et al. (2013) Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy. PLoS ONE 8(8): e70944.">
+    <entity charOffset="106-115" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e0" ontology_id="HP_0002090" text="pneumonia" type="phenotype"/>
+    <entity charOffset="394-403" id="a4e2f812c3232e60ac1af78fed10d292e28906d1.c4.e1" ontology_id="HP_0002090" text="Pneumonia" type="phenotype"/>
+  </chunk>
+</document>

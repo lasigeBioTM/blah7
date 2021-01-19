@@ -1,0 +1,31 @@
+0|chunk|Gene silencing of -galactosamide -2,6-sialyltransferase 1 inhibits human influenza virus infection of airway epithelial cells
+0	75	84 influenza	Disease	DOID_8469
+0	85	100 virus infection	Disease	DOID_934
+
+1|chunk|Background: Human influenza virus hemagglutinin prefers to use sialic acid (SA) receptors via -2,6 linkages. The -galactoside -2,6-sialyltransferase I (ST6Gal I) protein is encoded by the ST6GAL1 gene and is responsible for the addition of -2,6 linked SA to the Gal1-4GlcNAc disaccharide of glycans and glycoproteins found on the cellular surface. Therefore, ST6GAL1 could be a potential target for anti-influenza therapeutics. We used specific small interfering RNAs (siRNAs) to block expression of ST6GAL1 and limit distribution of SA receptors on the surface of airway epithelial cells.
+1	18	27 influenza	Disease	DOID_8469
+1	63	74 sialic acid	Chemical	CHEBI_26667
+1	70	74 acid	Chemical	CHEBI_37527
+1	165	172 protein	Chemical	CHEBI_16541
+1	280	292 disaccharide	Chemical	CHEBI_36233
+1	296	303 glycans	Chemical	CHEBI_18154
+1	308	321 glycoproteins	Chemical	CHEBI_17089
+1	DOID-CHEBI	DOID_8469	CHEBI_26667
+1	DOID-CHEBI	DOID_8469	CHEBI_37527
+1	DOID-CHEBI	DOID_8469	CHEBI_16541
+1	DOID-CHEBI	DOID_8469	CHEBI_36233
+1	DOID-CHEBI	DOID_8469	CHEBI_18154
+1	DOID-CHEBI	DOID_8469	CHEBI_17089
+
+2|chunk|Results: The siRNA duplexes we used inhibited ST6GAL1 mRNA expression and subsequent expression of the encoding protein. As a result, synthesis of -2,6 SA galactose was inhibited. Adsorption of influenza virus particles to the surface of cells transfected with appropriate specific siRNAs was significantly reduced. Intracellular viral genome copy number and virus titer within the supernatant of cells transfected with siRNAs was significantly reduced in a dose-dependent manner compared with those for untransfected cells and cells transfected with non-specific siRNAs.
+2	54	58 mRNA	Chemical	CHEBI_33699
+2	156	165 galactose	Chemical	CHEBI_28260
+2	195	204 influenza	Disease	DOID_8469
+2	CHEBI-DOID	CHEBI_33699	DOID_8469
+2	CHEBI-DOID	CHEBI_28260	DOID_8469
+
+3|chunk|Conclusions: We used siRNAs targeting ST6GAL1 to inhibit the expression of certain cell surface receptors, thereby preventing virus adsorption. This resulted in the inhibition of human influenza virus infection. Our findings are a significant development in the identification of potential new anti-influenza drug targets.
+3	185	194 influenza	Disease	DOID_8469
+3	309	313 drug	Chemical	CHEBI_23888
+3	DOID-CHEBI	DOID_8469	CHEBI_23888
+

@@ -1,0 +1,24 @@
+0|chunk|Quantification of the Host Response Proteome after Mammalian Reovirus T1L Infection
+
+1|chunk|All viruses are dependent upon host cells for replication. Infection can induce profound changes within cells, including apoptosis, morphological changes, and activation of signaling pathways. Many of these alterations have been analyzed by gene arrays to measure the cellular ''transcriptome.'' We used SILAC (stable isotope labeling by amino acids in cell culture), combined with high-throughput 2-D HPLC/mass spectrometry, to determine relative quantitative differences in host proteins at 6 and 24 hours after infecting HEK293 cells with reovirus serotype 1 Lang (T1L). 3,076 host proteins were detected at 6hpi, of which 132 and 68 proteins were significantly up or down regulated, respectively. 2,992 cellular proteins, of which 104 and 49 were up or down regulated, respectively, were identified at 24hpi. IPA and DAVID analyses indicated proteins involved in cell death, cell growth factors, oxygen transport, cell structure organization and inflammatory defense response to virus were up-regulated, whereas proteins involved in apoptosis, isomerase activity, and metabolism were down-regulated. These proteins and pathways may be suitable targets for intervention to either attenuate virus infection or enhance oncolytic potential.
+1	80	88 profound	Phenotype	HP_0012829
+1	173	182 signaling	Gene_function	GO_0023052
+1	311	317 stable	Phenotype	HP_0031915
+1	879	890 cell growth	Gene_function	GO_0016049
+1	884	890 growth	Gene_function	GO_0040007
+1	963	979 defense response	Gene_function	GO_0006952
+1	963	988 defense response to virus	Gene_function	GO_0051607
+1	1072	1082 metabolism	Gene_function	GO_0008152
+1	HP-GO	HP_0012829	GO_0023052
+1	HP-GO	HP_0012829	GO_0016049
+1	HP-GO	HP_0012829	GO_0040007
+1	HP-GO	HP_0012829	GO_0006952
+1	HP-GO	HP_0012829	GO_0051607
+1	HP-GO	HP_0012829	GO_0008152
+1	GO-HP	GO_0023052	HP_0031915
+1	HP-GO	HP_0031915	GO_0016049
+1	HP-GO	HP_0031915	GO_0040007
+1	HP-GO	HP_0031915	GO_0006952
+1	HP-GO	HP_0031915	GO_0051607
+1	HP-GO	HP_0031915	GO_0008152
+

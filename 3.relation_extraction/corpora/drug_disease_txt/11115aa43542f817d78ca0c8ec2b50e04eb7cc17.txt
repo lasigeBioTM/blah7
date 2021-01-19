@@ -1,0 +1,112 @@
+0|chunk|A Critical Domain of Ebolavirus Envelope Glycoprotein Determines Glycoform and Infectivity OPEN
+0	41	53 Glycoprotein	Chemical	CHEBI_17089
+
+1|chunk|Ebolaviruses comprises 5 species that exert varying degrees of mortality/infectivity in humans with
+
+2|chunk|showing the highest. However, the molecular basis of this differential mortality/infectivity remains unclear. Here, we report that the structural features of ebolavirus envelope glycoproteins (GPs) and one of their counter receptors, macrophage galactose-type calcium-type lectin (MGL/CD301), play crucial roles in determining viral infectivity. The low infectivity of REBOV mediated by the interaction between GPs and MGL/CD301 dramatically increased when the N-terminal 18 amino acids (33rd through 50th) of GPs were replaced with that of ZEBOV. Furthermore, structural analysis of glycans of GPs revealed that N-glycans were more extended in REBOV than in ZEBOV. N-glycan extension was reversed by the replacement of aforementioned N-terminal 18 amino acid residues. Therefore, these data strongly suggest that extended N-glycans on GPs reduce MGL/CD301-mediated viral infectivity by hindering the interaction between GPs and MGL/CD301 preferentially binds O-glycans.
+2	178	191 glycoproteins	Chemical	CHEBI_17089
+2	193	196 GPs	Disease	DOID_0111044
+2	411	414 GPs	Disease	DOID_0111044
+2	475	480 amino	Chemical	CHEBI_46882
+2	475	486 amino acids	Chemical	CHEBI_33704
+2	481	486 acids	Chemical	CHEBI_37527
+2	510	513 GPs	Disease	DOID_0111044
+2	584	591 glycans	Chemical	CHEBI_18154
+2	595	598 GPs	Disease	DOID_0111044
+2	613	622 N-glycans	Chemical	CHEBI_59520
+2	666	674 N-glycan	Chemical	CHEBI_59520
+2	749	754 amino	Chemical	CHEBI_46882
+2	749	759 amino acid	Chemical	CHEBI_33704
+2	755	759 acid	Chemical	CHEBI_37527
+2	823	832 N-glycans	Chemical	CHEBI_59520
+2	836	839 GPs	Disease	DOID_0111044
+2	921	924 GPs	Disease	DOID_0111044
+2	CHEBI-DOID	CHEBI_17089	DOID_0111044
+2	DOID-CHEBI	DOID_0111044	CHEBI_46882
+2	DOID-CHEBI	DOID_0111044	CHEBI_33704
+2	DOID-CHEBI	DOID_0111044	CHEBI_37527
+2	DOID-CHEBI	DOID_0111044	CHEBI_18154
+2	DOID-CHEBI	DOID_0111044	CHEBI_59520
+
+3|chunk|Involvement of glycan-lectin binding in the initiation of virus-host interactions is widely known, yet the structural basis of the interactions is not fully understood. Lectins on the surfaces of viruses such as influenza virus, and surface glycans such as those present on ebolavirus (EBOV), are supposed to play significant roles. EBOV belongs to the family Filoviridae and causes severe hemorrhagic fevers in humans and nonhuman primates 1-3 . The mechanism of pathogenesis of EBOV infection remains mostly unknown, making it paramount to understand the mechanism of infection, develop effective therapies and solve the biological questions why and how such virulent viral disease gave rise. Since the pathogenesis of EBOV involves inflammation and vascular stability, the glycan-lectin interactions taking place on the surfaces of macrophages and dendritic cells are likely to play crucial roles.
+3	212	221 influenza	Disease	DOID_8469
+3	241	248 glycans	Chemical	CHEBI_18154
+3	670	683 viral disease	Disease	DOID_934
+3	676	683 disease	Disease	DOID_4
+3	DOID-CHEBI	DOID_8469	CHEBI_18154
+3	CHEBI-DOID	CHEBI_18154	DOID_934
+3	CHEBI-DOID	CHEBI_18154	DOID_4
+
+4|chunk|It is known that the degree of pathogenicity depends on the virus species, with 5 species ( Zaire ebolavirus, Sudan ebolavirus, Bundibugyo ebolavirus, Tai Forest ebolavirus, and Reston ebolavirus) identified to date. Ebolaviruses belonging to Reston ebolavirus (REBOV) do no cause symptomatic disease, whereas those belonging Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 SCIenTIFIC REPORTS | (2018) 8:5495 |
+4	151	154 Tai	Chemical	CHEBI_142738
+
+5|chunk|to Zaire ebolavirus (ZEBOV) show the highest mortality in humans 1,3 . However, the molecular basis for the differential virulence between REBOV and ZEBOV has not been fully elucidated. Although it appears that a variety of mechanisms collectively modulate the processes leading to the establishment of infection and pathogenesis 4 , the EBOV envelope glycoproteins (GPs) are known to function as one of the crucial factors that determine the differential virulence.
+5	352	365 glycoproteins	Chemical	CHEBI_17089
+5	367	370 GPs	Disease	DOID_0111044
+5	CHEBI-DOID	CHEBI_17089	DOID_0111044
+
+6|chunk|GPs are type I transmembrane glycoproteins composed of GP1 and GP2. GP1 has a mucin-like motif, highly modified with N-and O-glycans, and GP2 has a transmembrane region tethering the GP1-GP2 complex on the viral surface 2,3 . During the course of infection, GPs are apparently involved in viral attachment and fusion of viral envelope with host membranes, leading to the subsequent entry into cells 2,5,6 . Recent findings that GP-specific neutralizing antibodies and pseudosaccharides, which could be a ligand of lectins expressed on host cell surfaces, were reported to protect experimental animals from lethal EBOV infection also support the notion that GPs function as crucial elements in determining the degree of infection 7-10 . Additionally, the mucin-like domain of ZEBOV GP1 was previously reported to be essential to the infectivity of ZEBOV 11 . C-Type lectins on myeloid and other cells were previously reported to act as entry sites for EBOV through their interaction with GPs [12] [13] [14] [15] [16] [17] [18] . As examples, hepatic asialoglycoprotein receptor was reported to interact with N-glycans promoting viral entry into hepatocytes 14 , and dendritic cell-specific ICAM3 (intercellular adhesion molecule 3)-grabbing non-integrin (DC-SIGN) and DC-SIGN-related receptor (DC-SIGNR) were shown to bind high mannose-type N-glycans to promote entry into dendritic cells 12, 13, 16, 17 . Endothelial LSECtin (liver and lymph node sinusoidal endothelial cell C-type lectin) recognizes N-glycans and enhances viral infection 15 . We previously showed that K562 cells became susceptible to infection by vesicular stomatitis virus that lacks native G protein (VSVG*, hereafter described as VSV) 5 pseudotyped with EBOV GPs when macrophage galactose-type calcium-type lectin (MGL/CD301) was expressed 18 . Since MGL/CD301 preferentially binds O-glycans, mucin-like domain was thought to play important roles in the interaction.
+6	0	3 GPs	Disease	DOID_0111044
+6	29	42 glycoproteins	Chemical	CHEBI_17089
+6	258	261 GPs	Disease	DOID_0111044
+6	504	510 ligand	Chemical	CHEBI_52214
+6	657	660 GPs	Disease	DOID_0111044
+6	681	689 elements	Chemical	CHEBI_33250
+6	987	990 GPs	Disease	DOID_0111044
+6	1107	1116 N-glycans	Chemical	CHEBI_59520
+6	1219	1227 molecule	Chemical	CHEBI_25367
+6	1340	1349 N-glycans	Chemical	CHEBI_59520
+6	1501	1510 N-glycans	Chemical	CHEBI_59520
+6	1524	1539 viral infection	Disease	DOID_934
+6	1627	1637 stomatitis	Disease	DOID_9637
+6	1664	1671 protein	Chemical	CHEBI_16541
+6	1733	1736 GPs	Disease	DOID_0111044
+6	DOID-CHEBI	DOID_0111044	CHEBI_17089
+6	DOID-CHEBI	DOID_0111044	CHEBI_52214
+6	DOID-CHEBI	DOID_0111044	CHEBI_33250
+6	DOID-CHEBI	DOID_0111044	CHEBI_59520
+6	DOID-CHEBI	DOID_0111044	CHEBI_25367
+6	DOID-CHEBI	DOID_0111044	CHEBI_16541
+6	CHEBI-DOID	CHEBI_17089	DOID_934
+6	CHEBI-DOID	CHEBI_17089	DOID_9637
+6	CHEBI-DOID	CHEBI_52214	DOID_934
+6	CHEBI-DOID	CHEBI_52214	DOID_9637
+6	CHEBI-DOID	CHEBI_33250	DOID_934
+6	CHEBI-DOID	CHEBI_33250	DOID_9637
+6	CHEBI-DOID	CHEBI_59520	DOID_934
+6	CHEBI-DOID	CHEBI_59520	DOID_9637
+6	CHEBI-DOID	CHEBI_25367	DOID_934
+6	CHEBI-DOID	CHEBI_25367	DOID_9637
+6	DOID-CHEBI	DOID_934	CHEBI_16541
+6	DOID-CHEBI	DOID_9637	CHEBI_16541
+
+7|chunk|In the present report, we aimed to answer the question why the lethality/pathogenicity of REBOV is lower than that of ZEBOV. To this end, we prepared pseudotyped viruses and virus-like particles (VLPs) 19,20 with ZEBOV GP (ZGP), REBOV GP (RGP), or chimeric GPs using HEK293T cells and compared these GPs with respect to: (1) their binding to recombinant MGL/CD301, (2) the roles of N-glycans and O-glycans of GPs on the binding to recombinant MGL/CD301, and (3) the structures of N-glycans present on the GPs. Our exhaustive structural analysis demonstrated that RGP's N-glycans are more extended than ZGP's N-glycans. When N-glycans were removed from GPs, the difference in the binding capacity to MGL/CD301 observed between RGP and ZGP diminished. It is likely that preferential binding of MGL/CD301 to O-glycans on GPs is interfered by the presence of extended N-glycans. By preparing chimeric GPs between RGP and ZGP, we found that the structural characteristics of RGP and ZGP were biosynthetically determined by a surprisingly short stretch of amino acid residues irrelevant to major glycosylation sites. Our results clearly showed that this short stretch of amino acid residues of GP controls the extension of N-glycans of the entire GP and, in turn, the degree of viral infectivity by modulating the interaction of GPs with MGL/CD301.
+7	257	260 GPs	Disease	DOID_0111044
+7	300	303 GPs	Disease	DOID_0111044
+7	382	391 N-glycans	Chemical	CHEBI_59520
+7	396	405 O-glycans	Chemical	CHEBI_59521
+7	409	412 GPs	Disease	DOID_0111044
+7	480	489 N-glycans	Chemical	CHEBI_59520
+7	505	508 GPs	Disease	DOID_0111044
+7	569	578 N-glycans	Chemical	CHEBI_59520
+7	608	617 N-glycans	Chemical	CHEBI_59520
+7	624	633 N-glycans	Chemical	CHEBI_59520
+7	652	655 GPs	Disease	DOID_0111044
+7	805	814 O-glycans	Chemical	CHEBI_59521
+7	818	821 GPs	Disease	DOID_0111044
+7	864	873 N-glycans	Chemical	CHEBI_59520
+7	897	900 GPs	Disease	DOID_0111044
+7	1050	1055 amino	Chemical	CHEBI_46882
+7	1050	1060 amino acid	Chemical	CHEBI_33704
+7	1056	1060 acid	Chemical	CHEBI_37527
+7	1165	1170 amino	Chemical	CHEBI_46882
+7	1165	1175 amino acid	Chemical	CHEBI_33704
+7	1171	1175 acid	Chemical	CHEBI_37527
+7	1217	1226 N-glycans	Chemical	CHEBI_59520
+7	1323	1326 GPs	Disease	DOID_0111044
+7	DOID-CHEBI	DOID_0111044	CHEBI_59520
+7	DOID-CHEBI	DOID_0111044	CHEBI_59521
+7	DOID-CHEBI	DOID_0111044	CHEBI_46882
+7	DOID-CHEBI	DOID_0111044	CHEBI_33704
+7	DOID-CHEBI	DOID_0111044	CHEBI_37527
+

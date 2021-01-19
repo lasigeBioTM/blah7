@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed">
+  <chunk id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0" text="Interferon-Stimulated Gene 15 Conjugation Stimulates Hepatitis B Virus Production Independent of Type I Interferon Signaling Pathway In Vitro">
+    <entity charOffset="30-41" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e0" ontology_id="GO_0000746" text="Conjugation" type="gene_function"/>
+    <entity charOffset="53-62" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e1" ontology_id="HP_0012115" text="Hepatitis" type="phenotype"/>
+    <entity charOffset="115-124" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e2" ontology_id="GO_0023052" text="Signaling" type="gene_function"/>
+    <entity charOffset="115-132" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e3" ontology_id="GO_0007165" text="Signaling Pathway" type="gene_function"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e0" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e1" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.p0" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e2" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.p1" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.e3" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1" text="Hepatitis B virus (HBV) is an important account of infectious hepatitis and interferon (IFN) remains one of the best treatment options. Activation of type I IFN signaling pathway leads to expressions of IFN-stimulated genes (ISGs) which play important roles in antiviral and immunomodulatory responses to HBV or hepatitis C virus (HCV) infection. Our previous studies indicated that ISG15 and its conjugation (ISGylation) were exploited by HCV to benefit its replication and persistent infection. This study was designed to assess the role of ISG15 and ISGylation in HBV infection in vitro. The levels of ISG15 and ISGylation were upregulated by ISG15 plasmid transfection into HepG2.2.15 cells. Decreased ISGylation was achieved by siRNA targeting UBE1L, the only E1 activating enzyme for ISGylation. Overexpression of ISG15 and subsequent ISGylation significantly increased the levels of HBV DNA in the culture supernatants although the intracellular viral replication remained unaffected. Silencing UBE1L, with decreased ISGylation achieved, abrogated this ISGylation-mediated promoting effect. Our data indicated that overexpression of ISG15 stimulated HBV production in an ISGylation-dependent manner. Identification of ISG15-conjugated proteins (either HBV viral or host proteins) may reveal promising candidates for further antiviral drug development.">
+    <entity charOffset="0-9" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e0" ontology_id="HP_0012115" text="Hepatitis" type="phenotype"/>
+    <entity charOffset="62-71" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e1" ontology_id="HP_0012115" text="hepatitis" type="phenotype"/>
+    <entity charOffset="161-170" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e2" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="161-178" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e3" ontology_id="GO_0007165" text="signaling pathway" type="gene_function"/>
+    <entity charOffset="312-321" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e4" ontology_id="HP_0012115" text="hepatitis" type="phenotype"/>
+    <entity charOffset="397-408" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e5" ontology_id="GO_0000746" text="conjugation" type="gene_function"/>
+    <entity charOffset="939-952" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e6" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e0" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e2" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p0" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e0" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e3" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p1" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e0" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e5" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p2" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e0" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e6" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p3" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e2" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p4" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e3" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p5" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e5" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p6" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e1" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e6" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p7" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e2" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e4" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p8" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e3" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e4" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p9" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e4" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e5" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p10" relation="true"/>
+    <pair e1="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e4" e2="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.e6" id="05e9af5c04c17b89fd8d65d62a381eb22e8316ed.c1.p11" relation="true"/>
+  </chunk>
+</document>

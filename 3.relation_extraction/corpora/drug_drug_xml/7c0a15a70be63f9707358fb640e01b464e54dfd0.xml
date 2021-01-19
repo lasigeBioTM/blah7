@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="7c0a15a70be63f9707358fb640e01b464e54dfd0">
+  <chunk id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0" text="Microbial Cell Factories Strategies for successful recombinant expression of disulfide bond-dependent proteins in Escherichia coli">
+    <entity charOffset="77-86" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0.e0" ontology_id="CHEBI_48343" text="disulfide" type="chemical"/>
+    <entity charOffset="102-110" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0.e0" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0.e1" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1" text="Bacteria are simple and cost effective hosts for producing recombinant proteins. However, their physiological features may limit their use for obtaining in native form proteins of some specific structural classes, such as for instance polypeptides that undergo extensive post-translational modifications. To some extent, also the production of proteins that depending on disulfide bridges for their stability has been considered difficult in E. coli.">
+    <entity charOffset="71-79" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="168-176" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="235-247" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e2" ontology_id="CHEBI_15841" text="polypeptides" type="chemical"/>
+    <entity charOffset="344-352" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="371-380" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e4" ontology_id="CHEBI_48343" text="disulfide" type="chemical"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e0" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e2" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p0" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e0" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e4" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p1" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e1" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e2" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p2" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e1" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e4" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p3" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e2" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e3" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p4" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e2" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e4" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p5" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e3" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.e4" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c1.p6" relation="true"/>
+  </chunk>
+  <chunk id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2" text="Both eukaryotic and prokaryotic organisms keep their cytoplasm reduced and, consequently, disulfide bond formation is impaired in this subcellular compartment. Disulfide bridges can stabilize protein structure and are often present in high abundance in secreted proteins. In eukaryotic cells such bonds are formed in the oxidizing environment of endoplasmic reticulum during the export process. Bacteria do not possess a similar specialized subcellular compartment, but they have both export systems and enzymatic activities aimed at the formation and at the quality control of disulfide bonds in the oxidizing periplasm.">
+    <entity charOffset="90-99" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e0" ontology_id="CHEBI_48343" text="disulfide" type="chemical"/>
+    <entity charOffset="160-169" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e1" ontology_id="CHEBI_48343" text="Disulfide" type="chemical"/>
+    <entity charOffset="192-199" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="578-587" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e3" ontology_id="CHEBI_48343" text="disulfide" type="chemical"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e0" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e1" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.p0" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e0" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e2" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.p1" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e1" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e2" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.p2" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e1" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e3" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.p3" relation="true"/>
+    <pair e1="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e2" e2="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.e3" id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c2.p4" relation="true"/>
+  </chunk>
+  <chunk id="7c0a15a70be63f9707358fb640e01b464e54dfd0.c3" text="This article reviews the available strategies for exploiting the physiological mechanisms of bactera to produce properly folded disulfide-bonded proteins."/>
+</document>

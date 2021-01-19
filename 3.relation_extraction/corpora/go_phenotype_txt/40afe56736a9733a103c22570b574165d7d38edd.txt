@@ -1,0 +1,43 @@
+0|chunk|Antiviral Properties of ISG15
+
+1|chunk|The type I interferon system plays a critical role in limiting the spread of viral infection. Viruses induce the production of interferon (IFN), which after binding to the IFN- receptor (IFNAR), and triggering of the JAK/STAT signaling cascade, results in the induction of interferon-stimulated genes (ISGs). These ISGs function to inhibit viral replication and to regulate the host immune response. Among these ISGs, the ubiquitin-like molecule, ISG15, is one of the most strongly induced proteins. Similar to ubiquitin, through an IFN induced conjugation cascade, ISG15 is covalently linked to a variety of cellular proteins, suggesting regulation of different cellular processes. Studies performed over the past several years have shown that ISG15 plays a central role in the host's antiviral response against many viruses. Mice lacking ISG15 display increased susceptibility to multiple viruses. Furthermore, several viruses have developed immune evasion strategies that directly target the ISG15 pathway. Work is now underway to determine the mechanism by which ISG15 functions as an antiviral molecule, such that therapies targeting this pathway can be developed in the future. Keywords: ISG15; interferon; antiviral; ubiquitin-like molecule 1. Introduction-The ISG15 Pathway ISG15 was first noted in type I interferon(IFN; IFN-, -) treated cell lysates in 1984 and was soon after identified as having sequence homology to ubiquitin (reviewed in reference [1]) [2,3]. The crystal structure of ISG15 revealed that it is composed of two domains, each of which assumes a -grasp fold OPEN ACCESS Viruses 2010, 2 2155 similar to the ubiquitin structure [2]
+1	157	164 binding	Gene_function	GO_0005488
+1	229	238 signaling	Gene_function	GO_0023052
+1	514	523 ubiquitin	Gene_function	GO_0031386
+1	548	559 conjugation	Gene_function	GO_0000746
+1	762	769 central	Phenotype	HP_0030645
+1	789	807 antiviral response	Gene_function	GO_0051607
+1	947	961 immune evasion	Gene_function	GO_0042783
+1	1435	1444 ubiquitin	Gene_function	GO_0031386
+1	1641	1650 ubiquitin	Gene_function	GO_0031386
+1	GO-HP	GO_0005488	HP_0030645
+1	GO-HP	GO_0023052	HP_0030645
+1	GO-HP	GO_0031386	HP_0030645
+1	GO-HP	GO_0000746	HP_0030645
+1	HP-GO	HP_0030645	GO_0051607
+1	HP-GO	HP_0030645	GO_0042783
+
+2|chunk|. ISG15 is one of the most abundantly-induced transcripts upon type I IFN treatment, as well as following TLR ligation and viral infection [3, 4] . It is synthesized as a 17 kDa precursor protein that is proteolytically processed into its mature 15 kDa form [3] . Following stimulation with type I IFN, ISG15 exists in three distinct states-free within the cell, released into the extracellular space, or conjugated to target proteins.
+2	123	138 viral infection	Gene_function	GO_0016032
+2	381	394 extracellular	Gene_function	GO_0005576
+
+3|chunk|Early after its identification, ISG15 was reported to be found in an extracellular form. Stimulation of human monocytes with type I IFN resulted in as much as 50% of the accumulated ISG15 being released into the media [5] . Furthermore, the repeated treatment of patients with interferon- ser resulted in detectable levels of ISG15 in their sera within 48 hours of treatment [5] . ISG15 doesn't contain a signal sequence; therefore, the mechanism by which it is released remains unknown. Several immunomodulatory activities have been attributed to recombinant or extracellular ISG15 including its ability to induce NK cell proliferation, augment lymphokine-activated-killer (LAK) activity, stimulate the production of IFN-, induce DC maturation, and to function as a chemotactic factor for neutrophils [6] [7] [8] . To date no cell surface receptor has been identified that binds to ISG15; therefore the role that its potential cytokine activity plays in vivo is yet to be ascertained.
+3	69	82 extracellular	Gene_function	GO_0005576
+3	290	293 ser	Gene_function	GO_0005790
+3	342	346 sera	Gene_function	GO_0004617
+3	564	577 extracellular	Gene_function	GO_0005576
+3	616	637 NK cell proliferation	Gene_function	GO_0001787
+3	829	841 cell surface	Gene_function	GO_0009986
+3	930	947 cytokine activity	Gene_function	GO_0005125
+
+4|chunk|Similar to ubiquitin, the mature form of ISG15 contains a C-terminal LRLRGG motif that mediates its covalent conjugation to target proteins, termed ISGylation [9,10]. Within two hours after type I IFN treatment, free ISG15 is detectable in cell lysates, followed by conjugate formation 12-16 hours later [9] . ISGylation utilizes a mechanism similar to ubiquitin, requiring three enzymatic steps (Figure 1 ). The activating E1 enzyme, Ube1L, was initially identified by Robert Krug and colleagues and functions only in the ISG15 pathway, forming an ATP-dependent thioester bond with ISG15 [11]. The recent generation of an UbE1L knockout mouse has confirmed its role as the ISG15 E1. These mice express free ISG15, but do not form ISG15 conjugates following LPS stimulation or during viral infection [12] . Following activation, ISG15 is transferred to the active-site cysteine of the conjugating E2 enzyme UbcM8/UbcH8 [13, 14] . This is followed by the transfer of ISG15 to lysine residues on target proteins by the E3 ligases. To date, three E3 ligases have been shown to interact with the ISG15 pathway and include human HERC5 (Ceb1)/mouse HERC6, HHARI,. ISGylation is reversible due to specific removal of ISG15 from conjugated proteins by the deconjugating enzyme Ubp43 (USP18) [21, 22] . A screen for additional deubiquitinating enzymes that could target ISG15 conjugates identified USP2, USP5, USP13, and USP14 as potential candidates, whose significance remain to be determined in vivo [23] . While in many ways the ISG15 pathway parallels the ubiquitin conjugation pathway, there are differences that exist. First, all members of the ISG15 conjugation cascade are upregulated by type I IFNs. Second, unlike ubiquitin, in which hundreds of E3s are responsible for the individual substrate specificity, in the ISG15 pathway, Herc5 appears to be a dominant E3 ligase that coordinates the conjugation of the majority of substrates to ISG15. The inhibition of Herc5 expression with siRNA abrogated greater than 90% of the ISG15 conjugate formation that was induced [15] . A recent study by Durfee and colleagues has shown the Herc5 associates with polyribosomes and appears to target newly synthesized proteins, including viral proteins, for modification by ISG15, helping to explain the broad substrate specificity of Herc5 [24] .
+4	11	20 ubiquitin	Gene_function	GO_0031386
+4	109	120 conjugation	Gene_function	GO_0000746
+4	353	362 ubiquitin	Gene_function	GO_0031386
+4	784	799 viral infection	Gene_function	GO_0016032
+4	1552	1561 ubiquitin	Gene_function	GO_0031386
+4	1562	1573 conjugation	Gene_function	GO_0000746
+4	1649	1660 conjugation	Gene_function	GO_0000746
+4	1716	1725 ubiquitin	Gene_function	GO_0031386
+4	1894	1905 conjugation	Gene_function	GO_0000746
+

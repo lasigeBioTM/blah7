@@ -1,0 +1,16 @@
+0|chunk|Efficient oligonucleotide probe selection for pan-genomic tiling arrays
+0	10	25 oligonucleotide	Chemical	CHEBI_7754
+0	26	31 probe	Chemical	CHEBI_50406
+0	CHEBI-CHEBI	CHEBI_7754	CHEBI_50406
+
+1|chunk|Background: Array comparative genomic hybridization is a fast and cost-effective method for detecting, genotyping, and comparing the genomic sequence of unknown bacterial isolates. This method, as with all microarray applications, requires adequate coverage of probes targeting the regions of interest. An unbiased tiling of probes across the entire length of the genome is the most flexible design approach. However, such a whole-genome tiling requires that the genome sequence is known in advance. For the accurate analysis of uncharacterized bacteria, an array must query a fully representative set of sequences from the species' pan-genome. Prior microarrays have included only a single strain per array or the conserved sequences of gene families. These arrays omit potentially important genes and sequence variants from the pan-genome.
+
+2|chunk|Results: This paper presents a new probe selection algorithm (PanArray) that can tile multiple whole genomes using a minimal number of probes. Unlike arrays built on clustered gene families, PanArray uses an unbiased, probe-centric approach that does not rely on annotations, gene clustering, or multi-alignments. Instead, probes are evenly tiled across all sequences of the pangenome at a consistent level of coverage. To minimize the required number of probes, probes conserved across multiple strains in the pan-genome are selected first, and additional probes are used only where necessary to span polymorphic regions of the genome. The viability of the algorithm is demonstrated by array designs for seven different bacterial pan-genomes and, in particular, the design of a 385,000 probe array that fully tiles the genomes of 20 different Listeria monocytogenes strains with overlapping probes at greater than twofold coverage.
+2	35	40 probe	Chemical	CHEBI_50406
+2	787	792 probe	Chemical	CHEBI_50406
+
+3|chunk|PanArray is an oligonucleotide probe selection algorithm for tiling multiple genome sequences using a minimal number of probes. It is capable of fully tiling all genomes of a species on a single microarray chip. These unique pan-genome tiling arrays provide maximum flexibility for the analysis of both known and uncharacterized strains.
+3	15	30 oligonucleotide	Chemical	CHEBI_7754
+3	31	36 probe	Chemical	CHEBI_50406
+3	CHEBI-CHEBI	CHEBI_7754	CHEBI_50406
+

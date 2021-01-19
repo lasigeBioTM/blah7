@@ -1,0 +1,56 @@
+0|chunk|molecules A Comprehensive In Silico Method to Study the QSTR of the Aconitine Alkaloids for Designing Novel Drugs
+0	0	9 molecules	Chemical	CHEBI_25367
+0	68	77 Aconitine	Chemical	CHEBI_2430
+0	78	87 Alkaloids	Chemical	CHEBI_22315
+0	108	113 Drugs	Chemical	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_2430
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_22315
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_2430	CHEBI_22315
+0	CHEBI-CHEBI	CHEBI_2430	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_22315	CHEBI_23888
+
+1|chunk|A combined in silico method was developed to predict potential protein targets that are involved in cardiotoxicity induced by aconitine alkaloids and to study the quantitative structure-toxicity relationship (QSTR) of these compounds.
+1	63	70 protein	Chemical	CHEBI_16541
+1	126	135 aconitine	Chemical	CHEBI_2430
+1	136	145 alkaloids	Chemical	CHEBI_22315
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_2430
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22315
+1	CHEBI-CHEBI	CHEBI_2430	CHEBI_22315
+
+2|chunk|For the prediction research, a Protein-Protein Interaction (PPI) network was built from the extraction of useful information about protein interactions connected with aconitine cardiotoxicity, based on nearly a decade of literature and the STRING database. The software Cytoscape and the PharmMapper server were utilized to screen for essential proteins in the constructed network. The Calcium-Calmodulin-Dependent Protein Kinase II alpha (CAMK2A) and gamma (CAMK2G) were identified as potential targets. To obtain a deeper insight on the relationship between the toxicity and the structure of aconitine alkaloids, the present study utilized QSAR models built in Sybyl software that possess internal robustness and external high predictions. The molecular dynamics simulation carried out here have demonstrated that aconitine alkaloids possess binding stability for the receptor CAMK2G. In conclusion, this comprehensive method will serve as a tool for following a structural modification of the aconitine alkaloids and lead to a better insight into the cardiotoxicity induced by the compounds that have similar structures to its derivatives. writing-original draft preparation, M.W.; writing-review and editing, K.M.; project administration, F.-H.M.
+2	60	63 PPI	Chemical	CHEBI_18361
+2	131	138 protein	Chemical	CHEBI_16541
+2	167	176 aconitine	Chemical	CHEBI_2430
+2	345	353 proteins	Chemical	CHEBI_36080
+2	415	422 Protein	Chemical	CHEBI_16541
+2	433	438 alpha	Chemical	CHEBI_30216
+2	452	457 gamma	Chemical	CHEBI_30212
+2	594	603 aconitine	Chemical	CHEBI_2430
+2	604	613 alkaloids	Chemical	CHEBI_22315
+2	816	825 aconitine	Chemical	CHEBI_2430
+2	826	835 alkaloids	Chemical	CHEBI_22315
+2	996	1005 aconitine	Chemical	CHEBI_2430
+2	1006	1015 alkaloids	Chemical	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_2430
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_18361	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_2430
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_2430	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_2430	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_2430	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_2430	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_30212
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_22315
+

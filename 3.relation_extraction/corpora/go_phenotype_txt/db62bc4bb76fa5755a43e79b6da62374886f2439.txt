@@ -1,0 +1,12 @@
+0|chunk|Powerful Sequence Similarity Search Methods and In-Depth Manual Analyses Can Identify Remote Homologs in Many Apparently "Orphan" Viral Proteins
+
+1|chunk|The genome sequences of new viruses often contain many "orphan" or "taxon-specific" proteins apparently lacking homologs. However, because viral proteins evolve very fast, commonly used sequence similarity detection methods such as BLAST may overlook homologs. We analyzed a data set of proteins from RNA viruses characterized as "genus specific" by BLAST. More powerful methods developed recently, such as HHblits or HHpred (available through web-based, user-friendly interfaces), could detect distant homologs of a quarter of these proteins, suggesting that these methods should be used to annotate viral genomes. In-depth manual analyses of a subset of the remaining sequences, guided by contextual information such as taxonomy, gene order, or domain cooccurrence, identified distant homologs of another third. Thus, a combination of powerful automated methods and manual analyses can uncover distant homologs of many proteins thought to be orphans. We expect these methodological results to be also applicable to cellular organisms, since they generally evolve much more slowly than RNA viruses. As an application, we reanalyzed the genome of a bee pathogen, Chronic bee paralysis virus (CBPV). We could identify homologs of most of its proteins thought to be orphans; in each case, identifying homologs provided functional clues. We discovered that CBPV encodes a domain homologous to the Alphavirus methyltransferase-guanylyltransferase; a putative membrane protein, SP24, with homologs in unrelated insect viruses and insect-transmitted plant viruses having different morphologies (cileviruses, higreviruses, blunerviruses, negeviruses); and a putative virion glycoprotein, ORF2, also found in negeviruses. SP24 and ORF2 are probably major structural components of the virions.
+1	1163	1170 Chronic	Phenotype	HP_0011010
+1	1175	1184 paralysis	Phenotype	HP_0003470
+1	1455	1463 membrane	Gene_function	GO_0016020
+1	1660	1666 virion	Gene_function	GO_0019012
+1	HP-GO	HP_0011010	GO_0016020
+1	HP-GO	HP_0011010	GO_0019012
+1	HP-GO	HP_0003470	GO_0016020
+1	HP-GO	HP_0003470	GO_0019012
+

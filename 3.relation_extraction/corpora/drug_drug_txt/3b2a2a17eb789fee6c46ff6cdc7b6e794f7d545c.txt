@@ -1,0 +1,16 @@
+0|chunk|Epidemic Surveillance Using an Electronic Medical Record: An Empiric Approach to Performance Improvement
+
+1|chunk|Backgrounds: Electronic medical records (EMR) form a rich repository of information that could benefit public health. We asked how structured and free-text narrative EMR data should be combined to improve epidemic surveillance for acute respiratory infections (ARI).
+
+2|chunk|Methods: Eight previously characterized ARI case detection algorithms (CDA) were applied to historical EMR entries to create authentic time series of daily ARI case counts (background). An epidemic model simulated influenza cases (injection). From the time of the injection, cluster-detection statistics were applied daily on paired background+injection (combined) and background-only time series. This cycle was then repeated with the injection shifted to each week of the evaluation year. We computed: a) the time from injection to the first statistical alarm uniquely found in the combined dataset (Detection Delay); b) how often alarms originated in the background-only dataset (false-alarm rate, or FAR); and c) the number of cases found within these false alarms (Caseload). For each CDA, we plotted the Detection Delay as a function of FAR or Caseload, over a broad range of alarm thresholds.
+2	40	43 ARI	Chemical	CHEBI_35640
+2	71	74 CDA	Chemical	CHEBI_29548
+2	156	159 ARI	Chemical	CHEBI_35640
+2	790	793 CDA	Chemical	CHEBI_29548
+2	CHEBI-CHEBI	CHEBI_35640	CHEBI_29548
+
+3|chunk|Results: CDAs that combined text analyses seeking ARI symptoms in clinical notes with provider-assigned diagnostic codes in order to maximize the precision rather than the sensitivity of case-detection lowered Detection Delay at any given FAR or Caseload.
+3	50	53 ARI	Chemical	CHEBI_35640
+
+4|chunk|Conclusion: An empiric approach can guide the integration of EMR data into case-detection methods that improve both the timeliness and efficiency of epidemic detection.
+

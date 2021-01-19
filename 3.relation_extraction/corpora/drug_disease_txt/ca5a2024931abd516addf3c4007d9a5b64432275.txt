@@ -1,0 +1,24 @@
+0|chunk|Host Determinants of MERS-CoV Transmission and Pathogenesis
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) is a zoonotic pathogen that causes respiratory infection in humans, ranging from asymptomatic to severe pneumonia. In dromedary camels, the virus only causes a mild infection but it spreads efficiently between animals. Differences in the behavior of the virus observed between individuals, as well as between humans and dromedary camels, highlight the role of host factors in MERS-CoV pathogenesis and transmission. One of these host factors, the MERS-CoV receptor dipeptidyl peptidase-4 (DPP4), may be a critical determinant because it is variably expressed in MERS-CoV-susceptible species as well as in humans. This could partially explain inter-and intraspecies differences in the tropism, pathogenesis, and transmissibility of MERS-CoV. In this review, we explore the role of DPP4 and other host factors in MERS-CoV transmission and pathogenesis-such as sialic acids, host proteases, and interferons. Further characterization of these host determinants may potentially offer novel insights to develop intervention strategies to tackle ongoing outbreaks.
+1	0	32 Middle East respiratory syndrome	Disease	DOID_0080642
+1	24	32 syndrome	Disease	DOID_225
+1	408	412 role	Chemical	CHEBI_50906
+1	828	832 role	Chemical	CHEBI_50906
+1	DOID-CHEBI	DOID_0080642	CHEBI_50906
+1	DOID-CHEBI	DOID_225	CHEBI_50906
+
+2|chunk|all examples of potentially critical host factors that have been shown to affect MERS-CoV infection in vitro [23] [24] [25] [26] . This review highlights the role of some MERS-CoV-interacting host factors-especially DPP4-in MERS-CoV pathogenesis and transmission.
+2	158	162 role	Chemical	CHEBI_50906
+
+3|chunk|MERS-CoV infection of a target cell is initiated by the virus attachment to the cell surface [23, 27] . MERS-CoV uses the N-terminal part of its spike (S)-the so called S1 protein ( Figure 1A )-to bind to two host cell surface molecules, dipeptidyl peptidase-4 (DPP4) and 2,3-sialic acids [23, 24] . DPP4 is the functional receptor of MERS-CoV; its absence renders cells resistant to this virus, while its transient expression in non-susceptible cells permits viral replication [23] . DPP4 is a serine exopeptidase, which is either expressed at the cell surface or shed in a soluble form. It has the capacity to cleave-off dipeptides from polypeptides with either L-proline or L-alanine at the penultimate position. Accordingly, DPP4 is capable of cutting various substrates, such as hormones, cytokines, chemokines, and neuropeptides, allowing it to be involved in multiple physiological functions as well as pathophysiological conditions [28] . This enzymatic activity is mediated by the / hydrolase domain of DPP4, while MERS-CoV infection is mediated by the binding of S1 protein to the -propeller domain of this exopeptidase ( Figure 1B ) [28] [29] [30] [31] . There are 11 critical residues within the -propeller domain that directly interact with the S1 protein [29] [30] [31] . These residues are quite conserved in camelids, primates, and rabbits-species shown to be susceptible to [31] [32][33]. In contrast, ferrets, rats, and mice resist MERS-CoV infection due to differences in some critical DPP4 residues [31, [34][35][36]. These data illustrate that DPP4 has the capacity to determine the host range of MERS-CoV.
+3	172	179 protein	Chemical	CHEBI_16541
+3	284	289 acids	Chemical	CHEBI_37527
+3	496	502 serine	Chemical	CHEBI_17115
+3	624	634 dipeptides	Chemical	CHEBI_46761
+3	640	652 polypeptides	Chemical	CHEBI_15841
+3	665	674 L-proline	Chemical	CHEBI_17203
+3	678	687 L-alanine	Chemical	CHEBI_16977
+3	1079	1086 protein	Chemical	CHEBI_16541
+3	1266	1273 protein	Chemical	CHEBI_16541
+

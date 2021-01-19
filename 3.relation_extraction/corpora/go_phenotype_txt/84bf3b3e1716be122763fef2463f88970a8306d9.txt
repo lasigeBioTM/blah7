@@ -1,0 +1,24 @@
+0|chunk|Ebola Virion Attachment and Entry into Human Macrophages Profoundly Effects Early Cellular Gene Expression
+0	6	12 Virion	Gene_function	GO_0019012
+0	91	106 Gene Expression	Gene_function	GO_0010467
+
+1|chunk|Zaire ebolavirus (ZEBOV) infections are associated with high lethality in primates. ZEBOV primarily targets mononuclear phagocytes, which are activated upon infection and secrete mediators believed to trigger initial stages of pathogenesis. The characterization of the responses of target cells to ZEBOV infection may therefore not only further understanding of pathogenesis but also suggest possible points of therapeutic intervention. Gene expression profiles of primary human macrophages exposed to ZEBOV were determined using DNA microarrays and quantitative PCR to gain insight into the cellular response immediately after cell entry. Significant changes in mRNA concentrations encoding for 88 cellular proteins were observed. Most of these proteins have not yet been implicated in ZEBOV infection. Some, however, are inflammatory mediators known to be elevated during the acute phase of disease in the blood of ZEBOV-infected humans. Interestingly, the cellular response occurred within the first hour of Ebola virion exposure, i.e. prior to virus gene expression. This observation supports the hypothesis that virion binding or entry mediated by the spike glycoprotein (GP 1,2 ) is the primary stimulus for an initial response. Indeed, ZEBOV virions, LPS, and virus-like particles consisting of only the ZEBOV matrix protein VP40 and GP 1,2 (VLP VP40-GP ) triggered comparable responses in macrophages, including pro-inflammatory and proapoptotic signals. In contrast, VLP VP40 (particles lacking GP 1,2 ) caused an aberrant response. This suggests that GP 1,2 binding to macrophages plays an important role in the immediate cellular response.
+1	227	239 pathogenesis	Gene_function	GO_0009405
+1	362	374 pathogenesis	Gene_function	GO_0009405
+1	437	452 Gene expression	Gene_function	GO_0010467
+1	878	883 acute	Phenotype	HP_0011009
+1	1017	1023 virion	Gene_function	GO_0019012
+1	1054	1069 gene expression	Gene_function	GO_0010467
+1	1117	1123 virion	Gene_function	GO_0019012
+1	1117	1131 virion binding	Gene_function	GO_0046790
+1	1124	1131 binding	Gene_function	GO_0005488
+1	1349	1352 VLP	Gene_function	GO_0000943
+1	1476	1479 VLP	Gene_function	GO_0000943
+1	1568	1575 binding	Gene_function	GO_0005488
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-HP	GO_0010467	HP_0011009
+1	HP-GO	HP_0011009	GO_0019012
+1	HP-GO	HP_0011009	GO_0046790
+1	HP-GO	HP_0011009	GO_0005488
+1	HP-GO	HP_0011009	GO_0000943
+

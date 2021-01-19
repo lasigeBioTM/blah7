@@ -1,0 +1,31 @@
+0|chunk|Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy
+
+1|chunk|Background: Timely information about disease severity can be central to the detection and management of outbreaks of acute respiratory infections (ARI), including influenza. We asked if two resources: 1) free text, and 2) structured data from an electronic medical record (EMR) could complement each other to identify patients with pneumonia, an ARI severity landmark.
+1	37	44 disease	Disease	DOID_4
+1	346	349 ARI	Chemical	CHEBI_35640
+1	DOID-CHEBI	DOID_4	CHEBI_35640
+
+2|chunk|Methods: A manual EMR review of 2747 outpatient ARI visits with associated chest imaging identified x-ray reports that could support the diagnosis of pneumonia (kappa score = 0.88 (95% CI 0.82:0.93)), along with attendant cases with Possible Pneumonia (adds either cough, sputum, fever/chills/night sweats, dyspnea or pleuritic chest pain) or with Pneumonia-in-Plan (adds pneumonia stated as a likely diagnosis by the provider). The x-ray reports served as a reference to develop a text classifier using machine-learning software that did not require custom coding. To identify pneumonia cases, the classifier was combined with EMR-based structured data and with text analyses aimed at ARI symptoms in clinical notes.
+2	48	51 ARI	Chemical	CHEBI_35640
+2	150	159 pneumonia	Disease	DOID_552
+2	242	251 Pneumonia	Disease	DOID_552
+2	372	381 pneumonia	Disease	DOID_552
+2	578	587 pneumonia	Disease	DOID_552
+2	686	689 ARI	Chemical	CHEBI_35640
+2	CHEBI-DOID	CHEBI_35640	DOID_552
+
+3|chunk|Results: 370 reference cases with Possible Pneumonia and 250 with Pneumonia-in-Plan were identified. The x-ray report text classifier increased the positive predictive value of otherwise identical EMR-based case-detection algorithms by 20-70%, while retaining sensitivities of 58-75%. These performance gains were independent of the case definitions and of whether patients were admitted to the hospital or sent home. Text analyses seeking ARI symptoms in clinical notes did not add further value.
+3	43	52 Pneumonia	Disease	DOID_552
+3	440	443 ARI	Chemical	CHEBI_35640
+3	479	482 add	Chemical	CHEBI_40799
+3	DOID-CHEBI	DOID_552	CHEBI_35640
+3	DOID-CHEBI	DOID_552	CHEBI_40799
+
+4|chunk|Conclusion: Specialized software development is not required for automated text analyses to help identify pneumonia patients. These results begin to map an efficient, replicable strategy through which EMR data can be used to stratify ARI severity. Citation: DeLisle S, Kim B, Deepak J, Siddiqui T, Gundlapalli A, et al. (2013) Using the Electronic Medical Record to Identify Community-Acquired Pneumonia: Toward a Replicable Automated Strategy. PLoS ONE 8(8): e70944.
+4	106	115 pneumonia	Disease	DOID_552
+4	234	237 ARI	Chemical	CHEBI_35640
+4	394	403 Pneumonia	Disease	DOID_552
+4	450	453 ONE	Chemical	CHEBI_58972
+4	DOID-CHEBI	DOID_552	CHEBI_35640
+4	DOID-CHEBI	DOID_552	CHEBI_58972
+

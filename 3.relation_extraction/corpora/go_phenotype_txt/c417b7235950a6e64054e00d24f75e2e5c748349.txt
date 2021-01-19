@@ -1,0 +1,31 @@
+0|chunk|Identification of a novel linear B-cell epitope in nonstructural protein 11 of porcine reproductive and respiratory syndrome virus that are conserved in both genotypes
+
+1|chunk|Porcine reproductive and respiratory syndrome virus (PRRSV) is one of the most economically important pathogens, that hinder the development of global pork industry. Its nonstructural protein 11 (nsp11), with the nidoviral uridylate-specific endoribonuclease (NendoU) domain, is essential for PRRSV genome replication and it also contributes to host innate immunity suppression. However, the immunogenicity and immune structure of PRRSV nsp11 have not been well investigated yet. In this study, a monoclonal antibody (mAb), designated 3F9, that against nsp11 was generated. Subsequently, a series of partially overlapped fragments, covered the nsp11 40-223aa , were expressed to test the reactivity with mAb 3F9, and the 111 DCREY 115 was found to be the core unit of the B-cell epitope recognized by mAb 3F9. Further investigation indicated that both genotype 1 and genotype 2 PRRSV can be recognized by mAb 3F9, due to the 111 DCREY 115 is conserved in both genotype virus. Meanwhile, this epitope, localized at the surface of nsp11 in 3D structure, is confirmed to be able to induce humoral immune response in PRRSV infected pigs. These findings do not only provide an mAb tool to further investigate the function of nsp11, they also indicate the diagnostic potential for this epitope. et al. (2017) Identification of a novel linear B-cell epitope in nonstructural protein 11 of porcine reproductive and respiratory syndrome virus that are conserved in both genotypes. PLoS ONE 12 (11): e0188946. https://doi.org/10.
+1	350	365 innate immunity	Gene_function	GO_0045087
+1	508	516 antibody	Gene_function	GO_0003823
+1	508	516 antibody	Gene_function	GO_0042571
+1	1001	1010 localized	Phenotype	HP_0012838
+1	1086	1109 humoral immune response	Gene_function	GO_0006959
+1	1094	1109 immune response	Gene_function	GO_0006955
+1	GO-HP	GO_0045087	HP_0012838
+1	GO-HP	GO_0003823	HP_0012838
+1	GO-HP	GO_0042571	HP_0012838
+1	HP-GO	HP_0012838	GO_0006959
+1	HP-GO	HP_0012838	GO_0006955
+
+2|chunk|30 years ago, PRRS is initially named as "mystery disease", due to unknowing its pathogen at the early outbreak [32] . Considering many mechanisms of its pathogenesis, replication and immune regulation are unclear, even now, the PRRSV is still a mystery virus. The nonstructural Fig 4. Serological test for PRRSV nsp11 and the identified 111 DCREY 115 epitope. (A) The nsp11 specific antibody in anti-PRRSV sera were detected by reacting with nsp11 40-223aa protein in WB test. (B) The nsp11 specific antibody in anti-PRRSV sera were detected by nsp11 40-223aa coated indirect ELISA. (C)The 111 DCREY 115 epitope specific antibody in anti-PRRSV sera were detected by peptide coated indirect ELISA. Asterisk indicates significant differences between PRRSV positive sera and negative sera, or between control and mAb 3F9 (* P<0.05; ** P<0.01; *** P<0.001).
+2	384	392 antibody	Gene_function	GO_0003823
+2	384	392 antibody	Gene_function	GO_0042571
+2	407	411 sera	Gene_function	GO_0004617
+2	501	509 antibody	Gene_function	GO_0003823
+2	501	509 antibody	Gene_function	GO_0042571
+2	524	528 sera	Gene_function	GO_0004617
+2	622	630 antibody	Gene_function	GO_0003823
+2	622	630 antibody	Gene_function	GO_0042571
+2	645	649 sera	Gene_function	GO_0004617
+2	764	768 sera	Gene_function	GO_0004617
+2	782	786 sera	Gene_function	GO_0004617
+
+3|chunk|Fig 6. Localization and spatial distribution of the identified 111 DCREY 115 epitope. (A) The identified epitope was labeled in the sequence chain view picture of PRRSV nsp11, obtained from the Protein Data Bank (PDB) with the ID 5EYI. (B) Spatial distribution of the identified epitope on the nsp11.
+3	7	19 Localization	Gene_function	GO_0051179
+

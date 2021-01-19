@@ -1,0 +1,83 @@
+{
+    "text": "The current world Covid-19 pandemic has been the most discussed topic in the media and scientific journals. Fear, uncertainty, and lack of knowledge about the disease may be the significant factors that justify such reality. It has been known that the disease presents with a rapidly spreading, it is significantly more severe among the elderly, and it has a substantial global socioeconomic impact. Besides the challenges associated with the unknown, there are other factors, such as the deluge of information. In this regard, the high number of scientific publications, encompassing in vitro, case studies, observational and randomized clinical studies, and even systematic reviews add up to the uncertainty. Such a situation is even worse when considering that most healthcare professionals lack adequate knowledge to critically appraise the scientific method, something that has been previously addressed by some authors. Therefore, it is of utmost importance that expert societies supported by data provided by the World Health Organization and the National Health Department take the lead in spreading trustworthy and reliable information. The Brazilian College of Surgeons suggests in this document various initiatives that may help surgeons, healthcare providers, and patients who will have to face a surgical event under the pandemic.",
+    "denotations": [
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 18,
+                "end": 26
+            },
+            "obj": "Covid-19"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 159,
+                "end": 166
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 252,
+                "end": 259
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "CHEBI_40799",
+            "span": {
+                "begin": 684,
+                "end": 687
+            },
+            "obj": "add"
+        },
+        {
+            "id": "DOID_0111084",
+            "span": {
+                "begin": 1302,
+                "end": 1306
+            },
+            "obj": "face"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "DOID_0111084"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "DOID_0111084"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "DOID_0111084"
+        }
+    ]
+}

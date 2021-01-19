@@ -1,0 +1,39 @@
+0|chunk|inflammatory Responses Regulating Alveolar ion Transport during Pulmonary infections
+0	43	56 ion Transport	Gene_function	GO_0006811
+0	47	56 Transport	Gene_function	GO_0006810
+0	64	84 Pulmonary infections	Phenotype	HP_0006532
+0	GO-HP	GO_0006811	HP_0006532
+0	GO-HP	GO_0006810	HP_0006532
+
+1|chunk|The respiratory epithelium is lined by a tightly balanced fluid layer that allows normal O2 and CO2 exchange and maintains surface tension and host defense. To maintain alveolar fluid homeostasis, both the integrity of the alveolar-capillary barrier and the expression of epithelial ion channels and pumps are necessary to establish a vectorial ion gradient. However, during pulmonary infection, auto-and/or paracrine-acting mediators induce pathophysiological changes of the alveolar-capillary barrier, altered expression of epithelial Na,K-ATPase and of epithelial ion channels including epithelial sodium channel and cystic fibrosis membrane conductance regulator, leading to the accumulation of edema and impaired alveolar fluid clearance. These mediators include classical pro-inflammatory cytokines such as TGF-, TNF-, interferons, or IL-1 that are released upon bacterial challenge with Streptococcus pneumoniae, Klebsiella pneumoniae, or Mycoplasma pneumoniae as well as in viral infection with influenza A virus, pathogenic coronaviruses, or respiratory syncytial virus. Moreover, the pro-apoptotic mediator TNF-related apoptosisinducing ligand, extracellular nucleotides, or reactive oxygen species impair epithelial ion channel expression and function. Interestingly, during bacterial infection, alterations of ion transport function may serve as an additional feedback loop on the respiratory inflammatory profile, further aggravating disease progression. These changes lead to edema formation and impair edema clearance which results in suboptimal gas exchange causing hypoxemia and hypercapnia. Recent preclinical studies suggest that modulation of the alveolar-capillary fluid homeostasis could represent novel therapeutic approaches to improve outcomes in infection-induced lung injury.
+1	184	195 homeostasis	Gene_function	GO_0042592
+1	283	295 ion channels	Gene_function	GO_0022831
+1	567	579 ion channels	Gene_function	GO_0022831
+1	636	644 membrane	Gene_function	GO_0016020
+1	699	704 edema	Phenotype	HP_0000969
+1	985	1000 viral infection	Gene_function	GO_0016032
+1	1158	1171 extracellular	Gene_function	GO_0005576
+1	1325	1338 ion transport	Gene_function	GO_0006811
+1	1329	1338 transport	Gene_function	GO_0006810
+1	1493	1498 edema	Phenotype	HP_0000969
+1	1520	1525 edema	Phenotype	HP_0000969
+1	1564	1567 gas	Gene_function	GO_0034005
+1	1585	1594 hypoxemia	Phenotype	HP_0012418
+1	1695	1706 homeostasis	Gene_function	GO_0042592
+1	GO-HP	GO_0042592	HP_0000969
+1	GO-HP	GO_0042592	HP_0012418
+1	GO-HP	GO_0022831	HP_0000969
+1	GO-HP	GO_0022831	HP_0012418
+1	GO-HP	GO_0016020	HP_0000969
+1	GO-HP	GO_0016020	HP_0012418
+1	HP-GO	HP_0000969	GO_0016032
+1	HP-GO	HP_0000969	GO_0005576
+1	HP-GO	HP_0000969	GO_0006811
+1	HP-GO	HP_0000969	GO_0006810
+1	HP-GO	HP_0000969	GO_0034005
+1	GO-HP	GO_0016032	HP_0012418
+1	GO-HP	GO_0005576	HP_0012418
+1	GO-HP	GO_0006811	HP_0012418
+1	GO-HP	GO_0006810	HP_0012418
+1	GO-HP	GO_0034005	HP_0012418
+

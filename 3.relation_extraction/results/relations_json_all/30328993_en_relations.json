@@ -1,0 +1,241 @@
+{
+    "text": "Platelet transfusion is a common practice to prevent spontaneous bleeding or bleeding due to invasive procedures. Transfusion of allogeneic blood components is associated with increased mortality and a worse clinical outcome. The clot strength is assessed by thromboelastometry and determined by the interaction between platelets and fibrinogen. The compensatory effect of high levels of fibrinogen on clot strength in patients with thrombocytopenia has been demonstrated in different clinical settings including sepsis. We report the case of a patient with severe thrombocytopenia whose thromboelastometry showed clot strength that was compensated for by the increase in plasma fibrinogen levels as an acute phase reactant of septic patients. Here, we report a case of a 62-year-old female diagnosed with bone marrow aplasia admitted in the intensive care unit with septic shock and severe thrombocytopenia. During the first 24 hours in the intensive care unit, she presented acute respiratory insufficiency and circulatory shock. The use of invasive mechanical ventilation and norepinephrine was required. Her chest X-ray showed bilateral lung injury. Thus, bronchoscopy with bronchoalveolar lavage was requested. Thromboelastometry was performed and resulted in a normal coagulable profile. Despite severe thrombocytopenia (1,000/mm3), fibrinogen levels were increased (1,050mg/dL) due to septic shock. Bronchoscopy was performed without any active or further bleeding. Here, we report the use of thromboelastometry in the diagnosis of coagulation disorders, preventing unnecessary prophylactic platelet transfusion.",
+    "denotations": [
+        {
+            "id": "HP_0001873",
+            "span": {
+                "begin": 433,
+                "end": 449
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "DOID_1588",
+            "span": {
+                "begin": 433,
+                "end": 449
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 558,
+                "end": 564
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0001873",
+            "span": {
+                "begin": 565,
+                "end": 581
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "DOID_1588",
+            "span": {
+                "begin": 565,
+                "end": 581
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 703,
+                "end": 708
+            },
+            "obj": "acute"
+        },
+        {
+            "id": "HP_0031273",
+            "span": {
+                "begin": 874,
+                "end": 879
+            },
+            "obj": "shock"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 884,
+                "end": 890
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0001873",
+            "span": {
+                "begin": 891,
+                "end": 907
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "DOID_1588",
+            "span": {
+                "begin": 891,
+                "end": 907
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 977,
+                "end": 982
+            },
+            "obj": "acute"
+        },
+        {
+            "id": "HP_0002093",
+            "span": {
+                "begin": 983,
+                "end": 1008
+            },
+            "obj": "respiratory insufficiency"
+        },
+        {
+            "id": "HP_0031273",
+            "span": {
+                "begin": 1025,
+                "end": 1030
+            },
+            "obj": "shock"
+        },
+        {
+            "id": "CHEBI_18357",
+            "span": {
+                "begin": 1079,
+                "end": 1093
+            },
+            "obj": "norepinephrine"
+        },
+        {
+            "id": "CHEBI_33569",
+            "span": {
+                "begin": 1079,
+                "end": 1093
+            },
+            "obj": "norepinephrine"
+        },
+        {
+            "id": "HP_0012832",
+            "span": {
+                "begin": 1131,
+                "end": 1140
+            },
+            "obj": "bilateral"
+        },
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 1302,
+                "end": 1308
+            },
+            "obj": "severe"
+        },
+        {
+            "id": "HP_0001873",
+            "span": {
+                "begin": 1309,
+                "end": 1325
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "DOID_1588",
+            "span": {
+                "begin": 1309,
+                "end": 1325
+            },
+            "obj": "thrombocytopenia"
+        },
+        {
+            "id": "HP_0031273",
+            "span": {
+                "begin": 1399,
+                "end": 1404
+            },
+            "obj": "shock"
+        },
+        {
+            "id": "GO_0050817",
+            "span": {
+                "begin": 1539,
+                "end": 1550
+            },
+            "obj": "coagulation"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0001873"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0011009"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0031273"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0012832"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0012828"
+        },
+        {
+            "id": "R6",
+            "subj": "GO_0050817",
+            "pred": "no_relation",
+            "obj": "HP_0031273"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_1588",
+            "pred": "no_relation",
+            "obj": "CHEBI_33569"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_1588",
+            "pred": "no_relation",
+            "obj": "CHEBI_33569"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_1588",
+            "pred": "no_relation",
+            "obj": "CHEBI_33569"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_1588",
+            "pred": "effect",
+            "obj": "CHEBI_33569"
+        }
+    ]
+}

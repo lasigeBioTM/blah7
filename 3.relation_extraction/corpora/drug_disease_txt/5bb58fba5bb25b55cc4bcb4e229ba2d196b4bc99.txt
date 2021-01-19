@@ -1,0 +1,42 @@
+0|chunk|Global analysis of polysome-associated mRNA in vesicular stomatitis virus infected cells
+0	39	43 mRNA	Chemical	CHEBI_33699
+0	57	67 stomatitis	Disease	DOID_9637
+0	CHEBI-DOID	CHEBI_33699	DOID_9637
+
+1|chunk|Infection of mammalian cells with vesicular stomatitis virus (VSV) results in the inhibition of cellular translation while viral translation proceeds efficiently. VSV RNA synthesis occurs entirely within the cytoplasm, where during transcription the viral polymerase produces 5 mRNAs that are structurally indistinct to cellular mRNAs with respect to their 5 0 cap-structure and 3 0 -polyadenylate tail. Using the global approach of massively parallel sequencing of total cytoplasmic, monosome-and polysome-associated mRNA, we interrogate the impact of VSV infection of HeLa cells on translation. Analysis of sequence reads in the different fractions shows >60% of total cytoplasmic and polysome-associated reads map to the 5 viral genes by 6 hours post-infection, a time point at which robust host cell translational shutoff is observed. Consistent with an overwhelming abundance of viral mRNA in the polysome fraction, the reads mapping to cellular genes were reduced. The cellular mRNAs that remain most polysome-associated following infection had longer half-lives, were typically larger, and were more AU rich, features that are shared with the viral mRNAs. Several of those mRNAs encode proteins known to positively affect viral replication, and using chemical inhibition and siRNA depletion we confirm that the host chaperone heat shock protein 90 (hsp90) and eukaryotic translation initiation factor 3A (eIF3A)-encoded by 2 such mRNAs -support viral replication. Correspondingly, regulated in development and DNA damage 1 (Redd1) encoded by a host mRNA with reduced polysome association inhibits viral infection. These data underscore the importance of viral mRNA abundance in the shut-off of host translation in VSV infected cells and link the differential translatability of some cellular mRNAs with pro-or antiviral function.
+1	44	54 stomatitis	Disease	DOID_9637
+1	167	170 RNA	Chemical	CHEBI_33697
+1	518	522 mRNA	Chemical	CHEBI_33699
+1	890	894 mRNA	Chemical	CHEBI_33699
+1	1193	1201 proteins	Chemical	CHEBI_36080
+1	1344	1351 protein	Chemical	CHEBI_16541
+1	1517	1520 DNA	Chemical	CHEBI_16991
+1	1556	1560 mRNA	Chemical	CHEBI_33699
+1	1667	1671 mRNA	Chemical	CHEBI_33699
+1	1817	1826 antiviral	Chemical	CHEBI_22587
+1	DOID-CHEBI	DOID_9637	CHEBI_33697
+1	DOID-CHEBI	DOID_9637	CHEBI_33699
+1	DOID-CHEBI	DOID_9637	CHEBI_36080
+1	DOID-CHEBI	DOID_9637	CHEBI_16541
+1	DOID-CHEBI	DOID_9637	CHEBI_16991
+1	DOID-CHEBI	DOID_9637	CHEBI_22587
+
+2|chunk|Viruses co-opt the host translational machinery and frequently suppress host cell protein synthesis. Many positive-strand RNA viruses manipulate initiation factors while bypassing their need for viral protein production using internal ribosome entry sites. Negativestrand RNA viruses and DNA viruses produce mRNAs that contain host-like 5 0 cap-structures and 3 0 polyadenylate tails. Those similarities necessitate a different mechanism for controlling viral versus host protein synthesis. We infected cells with vesicular stomatitis PLOS Pathogens | https://doi.virus and sequenced polysome-associated mRNAs at 2 and 6 hours post-infection providing 2 snapshots of how infection alters translation. We present evidence that the 5 viral mRNAs outcompete cellular mRNAs for ribosomes and demonstrate that individual host mRNAs vary in the extent to which their polysome association is altered by infection. Host mRNAs that are more abundant, have longer half-lives, greater than average length, and a similar AU content to the viral mRNAs were more likely to be enriched among polysome-associated cellular mRNAs. Several of the enriched mRNAs encode proteins that promote viral replication, whereas mRNAs that exhibit the largest decrease in polysome association include those that encode antiviral functions.
+2	82	89 protein	Chemical	CHEBI_16541
+2	122	125 RNA	Chemical	CHEBI_33697
+2	201	208 protein	Chemical	CHEBI_16541
+2	272	275 RNA	Chemical	CHEBI_33697
+2	288	291 DNA	Chemical	CHEBI_16991
+2	472	479 protein	Chemical	CHEBI_16541
+2	524	534 stomatitis	Disease	DOID_9637
+2	1150	1158 proteins	Chemical	CHEBI_36080
+2	1289	1298 antiviral	Chemical	CHEBI_22587
+2	CHEBI-DOID	CHEBI_16541	DOID_9637
+2	CHEBI-DOID	CHEBI_33697	DOID_9637
+2	CHEBI-DOID	CHEBI_16991	DOID_9637
+2	DOID-CHEBI	DOID_9637	CHEBI_36080
+2	DOID-CHEBI	DOID_9637	CHEBI_22587
+
+3|chunk|Control of VSV protein synthesis PLOS Pathogens | https://doi.org/10.
+3	15	22 protein	Chemical	CHEBI_16541
+

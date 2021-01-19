@@ -1,0 +1,69 @@
+0|chunk|Computational prediction and in vitro validation of VEGFR1 as a novel protein target for 2,3,7,8-tetrachlorodibenzo-p- dioxin
+0	70	77 protein	Chemical	CHEBI_16541
+0	119	125 dioxin	Chemical	CHEBI_134044
+
+1|chunk|The toxic manifestations of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), an environmental contaminant, primarily depend on its ability to activate aryl hydrocarbon receptor (AhR), which is a ligand-dependent transcription factor belonging to the superfamily of basic-helix-loop-helix DNAbinding proteins. In the present study, we aimed to identify novel protein receptor targets for TCDD using computational and in vitro validation experiments. Interestingly, results from computational methods predicted that Vascular Endothelial Growth Factor Receptor 1 (VEGFR1) could be one of the potential targets for TCDD in both mouse and humans. Results from molecular docking studies showed that human VEGFR1 (hVEGFR1) has less affinity towards TCDD compared to the mouse VEGFR1 (mVEGFR1). In vitro validation results showed that TCDD can bind and phosphorylate hVEGFR1. Further, results from molecular dynamic simulation studies showed that hVEGFR1 interaction with TCDD is stable throughout the simulation time. Overall, the present study has identified VEGFR1 as a novel target for TCDD, which provides the basis for further elucidating the role of TCDD in angiogenesis.
+1	28	63 2,3,7,8-tetrachlorodibenzo-p-dioxin	Chemical	CHEBI_28119
+1	151	162 hydrocarbon	Chemical	CHEBI_24632
+1	353	360 protein	Chemical	CHEBI_16541
+1	382	386 TCDD	Chemical	CHEBI_28119
+1	606	610 TCDD	Chemical	CHEBI_28119
+1	737	741 TCDD	Chemical	CHEBI_28119
+1	822	826 TCDD	Chemical	CHEBI_28119
+1	959	963 TCDD	Chemical	CHEBI_28119
+1	1077	1081 TCDD	Chemical	CHEBI_28119
+1	1136	1140 role	Chemical	CHEBI_50906
+1	1144	1148 TCDD	Chemical	CHEBI_28119
+
+2|chunk|2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) represents the prototypical ligand for aromatic hydrocarbon environmental contaminants which elicit a wide range of toxicity through activation of the aryl hydrocarbon receptor (AhR) 1 . AhR is a basic helix-loop-helix/PAS transcription factor localized in the cytoplasm. Because AhR is expressed in a variety of tissues, it mediates species-and tissue-dependent toxicities, including chloracne, wasting, teratogenicity, immunotoxicity, liver tumor promotion and carcinogenicity 2-6 . More recent studies have shown that AhR activation can not only cause toxicity but also regulate the immune response, specifically the regulation of T cell differentiation 7-9 .
+2	0	35 2,3,7,8-tetrachlorodibenzo-p-dioxin	Chemical	CHEBI_28119
+2	37	41 TCDD	Chemical	CHEBI_28119
+2	71	77 ligand	Chemical	CHEBI_52214
+2	91	102 hydrocarbon	Chemical	CHEBI_24632
+2	103	129 environmental contaminants	Chemical	CHEBI_78298
+2	117	129 contaminants	Chemical	CHEBI_143130
+2	199	210 hydrocarbon	Chemical	CHEBI_24632
+
+3|chunk|Also, in addition to TCDD, other innocuous ligands for AhR have also been identified such as dietary indoles, indole-3-Carbinol (IC3) that are found in high concentrations in cruciferous vegetables 10-13 . Natural flavonoids present in fruits and vegetables, including apigenin, quercetin, and resveratrol are also known to act as AhR ligands 10,13-15 . There are also known endogenous ligands of AhR that are derived from tryptophan metabolism 16 . The precise mechanisms through which AhR ligands mediate such a wide range of effects following activation of AhR, remain unclear.
+3	43	50 ligands	Chemical	CHEBI_52214
+3	110	127 indole-3-Carbinol	Chemical	CHEBI_24814
+3	214	224 flavonoids	Chemical	CHEBI_47916
+3	294	305 resveratrol	Chemical	CHEBI_27881
+3	335	342 ligands	Chemical	CHEBI_52214
+3	386	393 ligands	Chemical	CHEBI_52214
+3	423	433 tryptophan	Chemical	CHEBI_16828
+3	423	433 tryptophan	Chemical	CHEBI_27897
+3	491	498 ligands	Chemical	CHEBI_52214
+
+4|chunk|The interactions between TCDD and AhR has been very well characterized as follows: i) binding of TCDD or other ligands to AhR leads to dissociation of AhR from the complex of heat shock proteins 90, p23 or heat shock protein 23 and hepatitis B X-associated protein ii) migration of the complex formed by AhR with the TCDD or other ligands to the nucleus iv) in nucleus, AhR builds up a heterodimer with the intranuclear AhR nuclear translocator (ARNT), thereby promoting the transcription of xenobiotic response elements (XRE) for metabolizing TCDD or AhR ligands to render them more hydrophilic facilitating their elimination 17-21 . www.nature.com/scientificreports www.nature.com/scientificreports/ the simulations were analyzed. We used g_rms, g_rmsf, do_dssp built-in functions of GROMACS package to compute the root mean-square deviation (RMSD), radius of gyration (Rg), root mean-square fluctuation (RMSF) and secondary structure fluctuations. Further, smallest distance between residue pairs were calculated based on the distance matrices generated using the g_mdmat built in function in GROMACS package. The relative graphs obtained from molecular dynamics simulation were plotted using GRACE software (http://plasma-gate.weizmann.ac.il/Grace/).
+4	25	29 TCDD	Chemical	CHEBI_28119
+4	97	101 TCDD	Chemical	CHEBI_28119
+4	111	118 ligands	Chemical	CHEBI_52214
+4	186	194 proteins	Chemical	CHEBI_36080
+4	217	224 protein	Chemical	CHEBI_16541
+4	232	241 hepatitis	Disease	DOID_2237
+4	232	243 hepatitis B	Disease	DOID_2043
+4	257	264 protein	Chemical	CHEBI_16541
+4	317	321 TCDD	Chemical	CHEBI_28119
+4	331	338 ligands	Chemical	CHEBI_52214
+4	346	353 nucleus	Chemical	CHEBI_33252
+4	361	368 nucleus	Chemical	CHEBI_33252
+4	492	502 xenobiotic	Chemical	CHEBI_35703
+4	512	520 elements	Chemical	CHEBI_33250
+4	544	548 TCDD	Chemical	CHEBI_28119
+4	556	563 ligands	Chemical	CHEBI_52214
+4	CHEBI-DOID	CHEBI_28119	DOID_2237
+4	CHEBI-DOID	CHEBI_28119	DOID_2043
+4	CHEBI-DOID	CHEBI_52214	DOID_2237
+4	CHEBI-DOID	CHEBI_52214	DOID_2043
+4	CHEBI-DOID	CHEBI_36080	DOID_2237
+4	CHEBI-DOID	CHEBI_36080	DOID_2043
+4	CHEBI-DOID	CHEBI_16541	DOID_2237
+4	CHEBI-DOID	CHEBI_16541	DOID_2043
+4	DOID-CHEBI	DOID_2237	CHEBI_33252
+4	DOID-CHEBI	DOID_2237	CHEBI_35703
+4	DOID-CHEBI	DOID_2237	CHEBI_33250
+4	DOID-CHEBI	DOID_2043	CHEBI_33252
+4	DOID-CHEBI	DOID_2043	CHEBI_35703
+4	DOID-CHEBI	DOID_2043	CHEBI_33250
+

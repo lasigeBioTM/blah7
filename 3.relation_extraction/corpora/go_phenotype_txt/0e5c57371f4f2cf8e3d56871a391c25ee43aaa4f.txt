@@ -1,0 +1,45 @@
+0|chunk|Lycorine induces cell-cycle arrest in the G0/G1 phase in K562 cells via HDAC inhibition
+
+1|chunk|Background: Lycorine, a natural alkaloid extracted from Amaryllidaceae, has shown various pharmacological effects. Recent studies have focused on the potential antitumor activity of lycorine. In our previous study, we found that lycorine decrease the cell viability of leukemia HL-60 cells and multiple myeloma KM3 cells and induces cell apoptosis. However, the effect and molecular mechanism of lycorine on human chronic myelocytic leukemia cells has yet to be determined. Methods: Human chronic myelocytic leukemia cells K562 were treated with lycorine. Cell viability was monitored using the method of CCK-8. The histone deacetylase (HDAC) enzymatic activity was detected by HDAC colorimetric assay, and the cell cycle was analyzed by flow cytometry. The expression of cell-cycle related proteins were identified using Western blot. Results: In the present study, we further revealed that lycorine can inhibit the proliferation of K562 cells. Analysis of HDAC activity showed that lycroine decreases HDAC enzymatic activities in K562 cells in a dose-dependent manner. Inhibition of HDAC activity has been associated with cell-cycle arrest and growth inhibition. We evaluated the cell cycle distribution after lycorine treatment and found that lycorine causes cell-cycle arrest in the G0/G1 phase. To investigate the mechanism behind this cell cycle arrest, G1-related proteins were assayed by Western blot. After lycorine treatment, cyclin D1 and cyclin-dependent kinase 4 expressions were inhibited and retinoblastoma protein phosphorylation was reduced. Lycorine treatment also significantly upregulated the expression of p53 and its target gene product, p21. Conclusions: These results suggest that inhibition of HDAC activity is responsible for at least part of the induction of cell-cycle arrest in the G0/G1 phase by lycorine and provide a mechanistic framework for further exploring the use of lycorine as a novel antitumor agent.
+1	269	277 leukemia	Phenotype	HP_0001909
+1	294	310 multiple myeloma	Phenotype	HP_0006775
+1	414	421 chronic	Phenotype	HP_0011010
+1	414	441 chronic myelocytic leukemia	Phenotype	HP_0005506
+1	433	441 leukemia	Phenotype	HP_0001909
+1	489	496 chronic	Phenotype	HP_0011010
+1	489	516 chronic myelocytic leukemia	Phenotype	HP_0005506
+1	508	516 leukemia	Phenotype	HP_0001909
+1	711	721 cell cycle	Gene_function	GO_0007049
+1	1146	1152 growth	Gene_function	GO_0040007
+1	1182	1192 cell cycle	Gene_function	GO_0007049
+1	1341	1351 cell cycle	Gene_function	GO_0007049
+1	1341	1358 cell cycle arrest	Gene_function	GO_0007050
+1	1507	1521 retinoblastoma	Phenotype	HP_0009919
+1	1522	1545 protein phosphorylation	Gene_function	GO_0006468
+1	1530	1545 phosphorylation	Gene_function	GO_0016310
+1	HP-GO	HP_0001909	GO_0007049
+1	HP-GO	HP_0001909	GO_0040007
+1	HP-GO	HP_0001909	GO_0007050
+1	HP-GO	HP_0001909	GO_0006468
+1	HP-GO	HP_0001909	GO_0016310
+1	HP-GO	HP_0006775	GO_0007049
+1	HP-GO	HP_0006775	GO_0040007
+1	HP-GO	HP_0006775	GO_0007050
+1	HP-GO	HP_0006775	GO_0006468
+1	HP-GO	HP_0006775	GO_0016310
+1	HP-GO	HP_0011010	GO_0007049
+1	HP-GO	HP_0011010	GO_0040007
+1	HP-GO	HP_0011010	GO_0007050
+1	HP-GO	HP_0011010	GO_0006468
+1	HP-GO	HP_0011010	GO_0016310
+1	HP-GO	HP_0005506	GO_0007049
+1	HP-GO	HP_0005506	GO_0040007
+1	HP-GO	HP_0005506	GO_0007050
+1	HP-GO	HP_0005506	GO_0006468
+1	HP-GO	HP_0005506	GO_0016310
+1	GO-HP	GO_0007049	HP_0009919
+1	GO-HP	GO_0040007	HP_0009919
+1	GO-HP	GO_0007050	HP_0009919
+1	HP-GO	HP_0009919	GO_0006468
+1	HP-GO	HP_0009919	GO_0016310
+

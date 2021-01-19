@@ -1,0 +1,27 @@
+0|chunk|Chlamydia trachomatis-infected cells and uninfected-bystander cells exhibit diametrically opposed responses to interferon gamma OPEN
+
+1|chunk|The intracellular bacterial pathogen, Chlamydia trachomatis, is a tryptophan auxotroph. Therefore, induction of the host tryptophan catabolizing enzyme, indoleamine-2,3-dioxgenase-1 (IDO1), by interferon gamma (IFN) is one of the primary protective responses against chlamydial infection. However, despite the presence of a robust IFN response, active and replicating C. trachomatis can be detected in cervical secretions of women. We hypothesized that a primary C. trachomatis infection may evade the IFN response, and that the protective effect of this cytokine results from its activation of tryptophan catabolism in bystander cells. To test this hypothesis, we developed a novel method to separate a pool of cells exposed to C. trachomatis into pure populations of live infected and bystander cells and applied this technique to distinguish between the effects of IFN on infected and bystander cells. Our findings revealed that the protective induction of IDO1 is suppressed specifically within primary infected cells because Chlamydia attenuates the nuclear import of activated STAT1 following IFN exposure, without affecting STAT1 levels or phosphorylation. Critically, the IFN-mediated induction of IDO1 activity is unhindered in bystander cells. Therefore, the IDO1-mediated tryptophan catabolism is functional in these cells, transforming these bystander cells into inhospitable hosts for a secondary C. trachomatis infection.
+1	4	17 intracellular	Gene_function	GO_0005622
+1	598	619 tryptophan catabolism	Gene_function	GO_0006569
+1	609	619 catabolism	Gene_function	GO_0009056
+1	752	756 pure	Gene_function	GO_0034023
+1	1059	1073 nuclear import	Gene_function	GO_0051170
+1	1289	1310 tryptophan catabolism	Gene_function	GO_0006569
+1	1300	1310 catabolism	Gene_function	GO_0009056
+
+2|chunk|Chlamydia trachomatis is the most common sexually transmitted bacterial pathogen, causing a myriad of diseases that can impinge severely on female fertility and the health of neonates. Under permissive physiological conditions, these obligate intracellular bacteria can invade, replicate, and establish long-term infections in the columnar epithelium of the urogenital tract, indicating their capacity to evade host immune responses. C. trachomatis has evolved many evasive strategies to promote its long-term survival within its human host. These include inhibition of apoptosis 1-3 , modulation of NFB signaling 4,5 , downmodulation of CD1d 6 , and inhibition of transcription factors necessary for the expression of MHC classes I and II 7,8 .
+2	234	242 obligate	Phenotype	HP_0040280
+2	243	256 intracellular	Gene_function	GO_0005622
+2	605	614 signaling	Gene_function	GO_0023052
+2	HP-GO	HP_0040280	GO_0005622
+2	HP-GO	HP_0040280	GO_0023052
+
+3|chunk|Evidence from multiple animal studies indicates that a major host defense against C. trachomatis is mediated by IFN that is secreted by NK cells and T cells in the infected microenvironment 9-13 . IFN induces the expression of indoleamine-2,3-dioxygenase 1 (IDO1), an enzyme that catabolizes tryptophan to kynurenine 14,15 . By depleting tryptophan, IDO1 activation curtails the growth of C. trachomatis, which is a tryptophan auxotroph 16 . Under conditions of limited tryptophan availability, the chlamydial life-cycle deviates from normal development to form an aberrant, viable but non-cultivable, growth form termed persistence 17,18 . Renewal of tryptophan availability can reactivate persistent forms to return to normal development 19 . However, when initial levels of tryptophan are already limiting, IFN exposure can block all development, including the onset of persistence 20 . Curiously, although IFN inhibits the growth of C. trachomatis in cells that are pre-depleted of tryptophan in vitro, the developmental cycle of C. trachomatis serovar D exhibits a moderate resistance to the effects of IFN
+3	381	387 growth	Gene_function	GO_0040007
+3	604	610 growth	Gene_function	GO_0040007
+3	867	872 onset	Phenotype	HP_0003674
+3	931	937 growth	Gene_function	GO_0040007
+3	1074	1082 moderate	Phenotype	HP_0012826
+3	GO-HP	GO_0040007	HP_0003674
+3	GO-HP	GO_0040007	HP_0012826
+

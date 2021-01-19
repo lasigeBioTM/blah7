@@ -1,0 +1,365 @@
+{
+    "text": "To evaluate Bacterial Meningitis Score (BMS) on its own and in association with Cerebrospinal Fluid (CSF) lactate dosage in order to distinguish bacterial from aseptic meningitis.Children diagnosed with meningitis at a tertiary hospital between January/2011 and December/2014 were selected. All data were obtained upon admission. BMS was applied and included: CSF Gram staining (2 points); CSF neutrophil count \u22651,000 cells/mm3 (1 point); CSF protein \u226580 mg/dL (1 point); peripheral blood neutrophil count \u226510,000 cells/mm3 (1 point) and seizures upon/before arrival (1 point). Cutoff value for CSF lactate was \u226530 mg/dL. Sensitivity, specificity and negative predictive value of several BMS cutoffs and BMS associated with high CSF lactate were evaluated for prediction of bacterial meningitis.Among 439 eligible patients, 94 did not have all data available to complete the score, and 345 patients were included: 7 in bacterial meningitis group and 338 in aseptic meningitis group. As predictive factors of bacterial meningitis, BMS \u22651 had 100% sensitivity (95%CI 47.3-100), 64.2% specificity (58.8-100) and 100% negative predictive value (97.5-100); BMS \u22652 or BMS \u22651 associated with high CSF lactate also showed 100% sensitivity (47.3-100); but 98.5% specificity (96.6-99.5) and 100% negative predictive value (98.3-100).2 point BMS in association with CSF lactate dosage had the same sensitivity and negative predictive value, with increased specificity for diagnosis of bacterial meningitis when compared with 1-point BMS.",
+    "denotations": [
+        {
+            "id": "DOID_9470",
+            "span": {
+                "begin": 12,
+                "end": 32
+            },
+            "obj": "Bacterial Meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 22,
+                "end": 32
+            },
+            "obj": "Meningitis"
+        },
+        {
+            "id": "CHEBI_24996",
+            "span": {
+                "begin": 106,
+                "end": 113
+            },
+            "obj": "lactate"
+        },
+        {
+            "id": "DOID_12157",
+            "span": {
+                "begin": 160,
+                "end": 178
+            },
+            "obj": "aseptic meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 168,
+                "end": 178
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 203,
+                "end": 213
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "CHEBI_24996",
+            "span": {
+                "begin": 599,
+                "end": 606
+            },
+            "obj": "lactate"
+        },
+        {
+            "id": "CHEBI_24996",
+            "span": {
+                "begin": 733,
+                "end": 740
+            },
+            "obj": "lactate"
+        },
+        {
+            "id": "DOID_9470",
+            "span": {
+                "begin": 774,
+                "end": 794
+            },
+            "obj": "bacterial meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 784,
+                "end": 794
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "DOID_9470",
+            "span": {
+                "begin": 919,
+                "end": 939
+            },
+            "obj": "bacterial meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 929,
+                "end": 939
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "DOID_12157",
+            "span": {
+                "begin": 957,
+                "end": 975
+            },
+            "obj": "aseptic meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 965,
+                "end": 975
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "DOID_9470",
+            "span": {
+                "begin": 1008,
+                "end": 1028
+            },
+            "obj": "bacterial meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 1018,
+                "end": 1028
+            },
+            "obj": "meningitis"
+        },
+        {
+            "id": "CHEBI_24996",
+            "span": {
+                "begin": 1194,
+                "end": 1201
+            },
+            "obj": "lactate"
+        },
+        {
+            "id": "CHEBI_24996",
+            "span": {
+                "begin": 1359,
+                "end": 1366
+            },
+            "obj": "lactate"
+        },
+        {
+            "id": "DOID_9470",
+            "span": {
+                "begin": 1474,
+                "end": 1494
+            },
+            "obj": "bacterial meningitis"
+        },
+        {
+            "id": "DOID_9471",
+            "span": {
+                "begin": 1484,
+                "end": 1494
+            },
+            "obj": "meningitis"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R14",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R15",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R16",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R17",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R18",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R19",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R20",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R21",
+            "subj": "DOID_9470",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R22",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R23",
+            "subj": "DOID_12157",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R24",
+            "subj": "DOID_12157",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R25",
+            "subj": "DOID_12157",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R26",
+            "subj": "DOID_12157",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R27",
+            "subj": "DOID_9471",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R28",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R29",
+            "subj": "DOID_9471",
+            "pred": "effect",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R30",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R31",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        },
+        {
+            "id": "R32",
+            "subj": "DOID_9470",
+            "pred": "no_relation",
+            "obj": "CHEBI_24996"
+        }
+    ]
+}

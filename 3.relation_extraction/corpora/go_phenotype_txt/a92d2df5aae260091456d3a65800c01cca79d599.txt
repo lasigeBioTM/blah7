@@ -1,0 +1,39 @@
+0|chunk|Neutrophil Dysfunction in the Airways of Children with Acute Respiratory Failure Due to Lower Respiratory tract Viral and Bacterial Coinfections
+0	55	60 Acute	Phenotype	HP_0011009
+0	61	80 Respiratory Failure	Phenotype	HP_0002878
+
+1|chunk|where they acquire an activated pro-survival phenotype with an enhanced respiratory burst thought to contribute to ARDs pathophysiology. our in vitro model enables blood neutrophil transepithelial migration into cell-free tracheal aspirate fluid from patients to recapitulate the primary airway neutrophil phenotype observed in vivo. Neutrophils transmigrated through our model toward airway fluid from children with lower respiratory viral infections coinfected with bacteria had elevated levels of neutrophil activation markers but paradoxically exhibited an inability to kill bacteria and a defective respiratory burst compared with children without bacterial coinfection. The airway fluid from children with bacterial coinfections had higher levels of neutrophil elastase activity, as well as myeloperoxidase levels compared to children without bacterial coinfection. Neutrophils transmigrated into the aspirate fluid from children with bacterial coinfection showed decreased respiratory burst and killing activity against H. influenzae and S. aureus compared to those transmigrated into the aspirate fluid from children without bacterial coinfection. Use of a novel transmigration model recapitulates this pathological phenotype in vitro that would otherwise be impossible in a patient, opening avenues for future mechanistic and therapeutic research.
+1	32	44 pro-survival	Gene_function	GO_0043066
+1	72	89 respiratory burst	Gene_function	GO_0045730
+1	500	521 neutrophil activation	Gene_function	GO_0042119
+1	604	621 respiratory burst	Gene_function	GO_0045730
+1	980	997 respiratory burst	Gene_function	GO_0045730
+
+2|chunk|Viral lower airway infections are common in infants and preschool children, and the severity respiratory symptoms can vary from mild cough and congestion to respiratory failure requiring endotracheal intubation and mechanical ventilation. We cannot predict which children will recover quickly versus those who will progress to severe ARDS. No ARDS-specific pharmacological treatments exist, rather treatment is supportive using lung-protective ventilation strategies and the administration of antibiotics for suspected bacterial infection. The study of immune regulation in children is needed because both the lung and immunity are maturing during this critical stage of development and the primary cause of PARDS is direct lung injury due to infection 1,2 .
+2	84	92 severity	Phenotype	HP_0012824
+2	128	132 mild	Phenotype	HP_0012825
+2	133	138 cough	Phenotype	HP_0012735
+2	157	176 respiratory failure	Phenotype	HP_0002878
+2	327	333 severe	Phenotype	HP_0012828
+
+3|chunk|ARDS is characterized by refractory hypoxemia and non-cardiogenic pulmonary edema due to damage to the lung epithelium and pulmonary endothelium. In adults with ARDS increased counts of airway neutrophils are associated with more severe lung injury and mortality 3,4 . Airway neutrophils from adults with ARDS have enhanced survival, a primed respiratory burst response, and increased phagocytic capacity 5 . In patients with pulmonary diseases characterized by chronic bacterial infections, such as cystic fibrosis, airway neutrophils inhibit T-cell function via two pathways -by depletion of arginine following degranulation and activation of Arginase-1 (Arg1), and by activation of the programmed death ligand-1 (PD-L1)/programmed death-1 (PD-1) axis, resulting in reduced proliferation and impaired effector functions 6-15 . By contrast, pulmonary environmental influence on immune cell regulation is poorly characterized in PARDS due to the lack of a model system able to recapitulate the airway neutrophil phenotype in severe paediatric lung injury.
+3	25	35 refractory	Phenotype	HP_0031375
+3	36	45 hypoxemia	Phenotype	HP_0012418
+3	66	81 pulmonary edema	Phenotype	HP_0100598
+3	76	81 edema	Phenotype	HP_0000969
+3	230	236 severe	Phenotype	HP_0012828
+3	343	360 respiratory burst	Gene_function	GO_0045730
+3	462	469 chronic	Phenotype	HP_0011010
+3	1025	1031 severe	Phenotype	HP_0012828
+3	HP-GO	HP_0031375	GO_0045730
+3	HP-GO	HP_0012418	GO_0045730
+3	HP-GO	HP_0100598	GO_0045730
+3	HP-GO	HP_0000969	GO_0045730
+3	HP-GO	HP_0012828	GO_0045730
+3	GO-HP	GO_0045730	HP_0011010
+
+4|chunk|Clinical information obtainable at the bedside is often used to prognosticate yet is insufficient for determining the pathobiology of the lung injury. Understanding the biology of neutrophils recruited to the lung during PARDS is crucial for advancing prognostication, risk stratification, and development of novel therapeutic strategies for children who progress to severe PARDS. Herein we hypothesized that markers of degranulation on the surface of airway neutrophils and in the cell-free airway fluid within 24-hours of intubation would be associated with bacterial respiratory co-infection. We used an in vitro model based on blood neutrophil transepithelial migration into the airway fluid of endotracheally intubated children with suspected or confirmed lower airway viral infections at risk for progressing to or with PARDS 16 . We hypothesized that neutrophils recruited to the cell-free airway fluid of children with bacterial coinfections would have a defective respiratory burst and ability to kill bacteria compared to children with no bacterial coinfection.
+4	367	373 severe	Phenotype	HP_0012828
+4	973	990 respiratory burst	Gene_function	GO_0045730
+4	HP-GO	HP_0012828	GO_0045730
+

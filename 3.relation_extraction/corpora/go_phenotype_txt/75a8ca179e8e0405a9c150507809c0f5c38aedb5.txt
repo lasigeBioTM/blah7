@@ -1,0 +1,38 @@
+0|chunk|Pre-fusion F is absent on the surface of formalin-inactivated respiratory syncytial virus OPEN
+
+1|chunk|To develop an effective vaccine that does not enhance RSV illness, it is important to understand how formalin and heat inactivation affected the antigenicity and immunogenicity of FI-RSV compared to native virus. Informed by atomic structures of RSV fusion (F) glycoprotein in prefusion (pre-F) and postfusion (post-F) conformations, we demonstrate that FI-RSV predominately presents post-F on the virion surface, whereas infectious RSV presents both pre-F and post-F conformations. This significant antigenic distinction has not been previously appreciated. Thus, a stabilized pre-F antigen is more representative of live RSV than F in its post-F conformation, as displayed on the surface of FI-RSV. This finding has major implications for discriminating current pre-F-based immunogens from FI-RSV used in historical vaccine trials.
+1	132	140 affected	Phenotype	HP_0032320
+1	398	404 virion	Gene_function	GO_0019012
+1	HP-GO	HP_0032320	GO_0019012
+
+2|chunk|Respiratory syncytial virus (RSV) is an enveloped, non-segmented negative-sense, single-stranded RNA virus that causes upper and lower respiratory tract infections. Nearly everyone is infected with the virus in the first two years of life; while reinfections occur throughout life, disease severity is highest in infants and the elderly. RSV represents a serious health and economic burden, and is the leading cause of hospitalization in children under the age of 5 (ref. 1).
+2	129	163 lower respiratory tract infections	Phenotype	HP_0002783
+2	290	298 severity	Phenotype	HP_0012824
+
+3|chunk|Despite RSV being discovered nearly 60 years ago, no licensed vaccine is yet available. In part, this delayed development stems from clinical trials using formalin-inactivated RSV (FI-RSV) product that caused an enhanced respiratory disease (ERD) syndrome in children who received the FI-RSV vaccine. The FI-RSV vaccine adjuvanted with alum was evaluated in four separate studies in seronegative infants and young children in 1966 (refs 2-6). Instead of eliciting protective immunity, a greater number of vaccinees developed severe illness compared to control groups. A three dose regimen (0, 1, 4 months) was used in subjects between 2 and 7 months of age, 16 were hospitalized of the 20 infected children in the FI-RSV-vaccinated group (N = 31) compared to only 1 hospitalized of 21 infected in the control groups (N = 40) 3 . Tragically, two of the FI-RSV recipients died at 14 and 16 months of age from bacterial pneumonia complicating their subsequent RSV infection. In the majority of vaccinees, priming with FI-RSV led to pathology upon subsequent RSV infection that ordinarily is only manifest in a small fraction of RSV-nave individuals. The immunological basis for FI-RSV-induced enhanced illness has focused on two major features of the humoral and cellular responses. First, FI-RSV induced high titers of binding antibody with weak neutralizing and fusion-inhibitory activity 7,8 . These antibodies in the context of large antigen load led to immune complex deposition and complement activation in airways upon subsequent RSV infection 9 . Second, natural RSV infection after immunization with FI-RSV was associated with exaggerated peribronchiolar inflammation and infiltration of neutrophils and eosinophils into airways. This is consistent with findings in animal models where FI-RSV has been shown to induce Th2-biased immune responses and airway hypersensitivity characterized by up regulation of IL-4, IL-5, IL-13, and IgE 10 .
+3	102	121 delayed development	Phenotype	HP_0001263
+3	525	531 severe	Phenotype	HP_0012828
+3	917	926 pneumonia	Phenotype	HP_0002090
+3	1318	1325 binding	Gene_function	GO_0005488
+3	1326	1334 antibody	Gene_function	GO_0003823
+3	1326	1334 antibody	Gene_function	GO_0042571
+3	1486	1507 complement activation	Gene_function	GO_0006956
+3	1864	1880 hypersensitivity	Gene_function	GO_0002524
+3	HP-GO	HP_0001263	GO_0005488
+3	HP-GO	HP_0001263	GO_0003823
+3	HP-GO	HP_0001263	GO_0042571
+3	HP-GO	HP_0001263	GO_0006956
+3	HP-GO	HP_0001263	GO_0002524
+3	HP-GO	HP_0012828	GO_0005488
+3	HP-GO	HP_0012828	GO_0003823
+3	HP-GO	HP_0012828	GO_0042571
+3	HP-GO	HP_0012828	GO_0006956
+3	HP-GO	HP_0012828	GO_0002524
+3	HP-GO	HP_0002090	GO_0005488
+3	HP-GO	HP_0002090	GO_0003823
+3	HP-GO	HP_0002090	GO_0042571
+3	HP-GO	HP_0002090	GO_0006956
+3	HP-GO	HP_0002090	GO_0002524
+
+4|chunk|Importantly, FI-RSV vaccination does not result in enhanced RSV disease when individuals are first primed with live virus infection or attenuated replication-competent vaccines are given intranasally or parenterally 11,12 , indicating that immunological priming with the FI-RSV vaccine was responsible for aberrant responses to subsequent infection. Therefore, to develop an effective vaccine that does not enhance RSV illness upon subsequent
+

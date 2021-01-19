@@ -1,0 +1,63 @@
+0|chunk|Resistance to Rhabdoviridae Infection and Subversion of Antiviral Responses
+0	56	65 Antiviral	Chemical	CHEBI_22587
+
+1|chunk|Interferon (IFN) treatment induces the expression of hundreds of IFN-stimulated genes (ISGs). However, only a selection of their products have been demonstrated to be responsible for the inhibition of rhabdovirus replication in cultured cells; and only a few have been shown to play a role in mediating the antiviral response in vivo using gene knockout mouse models. IFNs inhibit rhabdovirus replication at different stages via the induction of a variety of ISGs. This review will discuss how individual ISG products confer resistance to rhabdoviruses by blocking viral entry, degrading single stranded viral RNA, inhibiting viral translation or preventing release of virions from the cell. Furthermore, this review will highlight how these viruses counteract the host IFN system.
+1	0	10 Interferon	Chemical	CHEBI_52999
+1	285	289 role	Chemical	CHEBI_50906
+1	307	316 antiviral	Chemical	CHEBI_22587
+
+2|chunk|Viruses 2015, 7 3676 induction of IFN-stimulated gene (ISG) products. One interesting property of ISG-mediated antiviral activity is the magnitude by which a single IFN effector can inhibit virus replication. In this review, rhabdovirus replication, IFN production, IFN signaling, ISGs conferring resistance to rhabdoviruses and the mechanisms by which these viruses counteract the IFN pathway will be described.
+2	111	120 antiviral	Chemical	CHEBI_22587
+2	169	177 effector	Chemical	CHEBI_35224
+2	386	393 pathway	Chemical	CHEBI_34922
+
+3|chunk|Rhabdoviruses (order Mononegavirales) are pathogens with a particularly broad host range among a great diversity of organisms including plants, insects, fish, mammals, reptiles and crustaceans. They are associated with significant pathogenicity in humans and livestock [1] . The prototypes of this family are vesicular stomatitis virus (VSV), a member of the Vesiculovirus genus, and rabies virus (RABV), a member of the Lyssavirus genus. VSV is an arthropod-borne virus that primarily affects rodents, cattle, swine and horses. It can induce mild symptoms upon infection of humans and other species and may also cause severe foot-and mouth-like disease in cattle and pigs. The closely related Chandipura virus has recently been associated with outbreaks of fatal acute encephalitis in several parts of India (for a review see [2] ). RABV is a prototype neurotropic virus that causes fatal disease in humans and animals. Human rabies is a zoonosis, which still accounts for 50,000 deaths per year worldwide despite the availability of effective vaccines.
+3	319	329 stomatitis	Disease	DOID_9637
+3	384	390 rabies	Disease	DOID_11260
+3	646	653 disease	Disease	DOID_4
+3	770	782 encephalitis	Disease	DOID_9588
+3	890	897 disease	Disease	DOID_4
+3	927	933 rabies	Disease	DOID_11260
+
+4|chunk|Although VSV and RABV have many similarities, they use different strategies to regulate their replication in the host cell, leading to the various pathologies caused by these viruses. VSV replicates rapidly, developing high levels of progenies in a minimum amount of time and strongly interferes with the host's cell metabolism. VSV inhibits host gene expression and translation [3] [4] [5] , interferes with the host cell's innate immune response and induces apoptosis of infected cells [6] . In contrast, RABV replicates more slowly, has a reduced interference with the host cell metabolism and is less cytopathic than VSV [7] .
+
+5|chunk|Rhabdovirus virions have a bullet-like shape, conical at one end and flat at the other, with a diameter of 75 nm and a length of 100-300 nm [8, 9] . The genome consists of a negative sense, single stranded RNA molecule of approximately 11 to 16 kb that encodes the five viral proteins common to all mononegavirales in the order of 3 1 -N-P-M-G-L-5 1 . The genome of many rhabdoviruses encodes accessory proteins, whose functions are not yet fully understood. These may occur as alternative or overlapping open reading frames (ORFs) within the major protein genes or as independent ORFs between the genes [10]. The viral RNA is associated with the nucleoprotein (N) to form a helical nucleocapsid (N-RNA). The nucleocapsid contains a significant amount of phosphoprotein (P), some of which is bound to the viral RNA-dependent RNA polymerase (RdRp), the large (L) protein. The N-RNA, together with the viral polymerase complex (P and L proteins) form the ribonucleoprotein (RNP). The RNP is enwrapped in a lipid bilayer, which is acquired from host cell membrane during the budding process. The matrix protein (M) and the glycoprotein (G) are membrane-associated proteins, whereby M is located beneath the viral membrane and maintains the compact structure of the virion by associating with both the nucleocapsid and the lipid bilayer, while the G protein is an integral transmembrane protein involved in viral entry.
+5	206	209 RNA	Chemical	CHEBI_33697
+5	210	218 molecule	Chemical	CHEBI_25367
+5	276	284 proteins	Chemical	CHEBI_36080
+5	403	411 proteins	Chemical	CHEBI_36080
+5	549	556 protein	Chemical	CHEBI_16541
+5	620	623 RNA	Chemical	CHEBI_33697
+5	771	774 Paa	Chemical	CHEBI_51133
+5	825	828 RNA	Chemical	CHEBI_33697
+5	862	869 protein	Chemical	CHEBI_16541
+5	934	942 proteins	Chemical	CHEBI_36080
+5	1004	1009 lipid	Chemical	CHEBI_18059
+5	1100	1107 protein	Chemical	CHEBI_16541
+5	1120	1132 glycoprotein	Chemical	CHEBI_17089
+5	1161	1169 proteins	Chemical	CHEBI_36080
+5	1319	1324 lipid	Chemical	CHEBI_18059
+5	1346	1353 protein	Chemical	CHEBI_16541
+5	1383	1390 protein	Chemical	CHEBI_16541
+
+6|chunk|The life cycle of rhabdoviruses is entirely cytoplasmic (Figure 1 ). After binding to its receptor(s), the virus enters the cell via the endocytic pathway. The acidic environment within early endosomes induces Viruses 2015, 7 3677 a change in the conformation of the G protein that results in the fusion of the viral envelope with the endosomal membrane. After the fusion event, uncoating of the viral genome results in the release of the viral genomic RNA into the cytoplasm. The RNP constitutes the template for transcription of viral genes and the viral RNA polymerase (the L-P complex) is responsible for replication of the viral genome. RABV transcription and replication take place within Negri bodies, which are characteristic cytoplasmic inclusion bodies formed during viral infection [11] . Similar cytoplasmic inclusions have recently been reported in cells infected with VSV; these inclusions also contain the viral replication machinery [12] . During transcription, a positive-stranded leader RNA, uncapped and non-polyadenylated, and five capped and polyadenylated mRNAs encoding the five viral proteins are synthesized. At a later stage of infection, the polymerase switches to replication of the viral genome, which yields nucleocapsids containing the full-length antigenome (sense) RNA, which in turn serves as template for the synthesis of the (antisense) RNA genome. During their synthesis, both the nascent antigenome and the genome are encapsidated by the N protein. Specific transfer of the N protein to viral RNAs rather than to the cellular mRNAs is mediated by the P protein, which acts as a chaperone by binding the N alone (N) and maintaining its solubility [13] . The neo-synthesized genomic RNPs then serve either as templates for additional rounds of transcription and/or replication, or are transported to the cell membrane where they are assembled with the M and G proteins into virions, which are then released from the cell through the budding process.
+6	269	276 protein	Chemical	CHEBI_16541
+6	453	456 RNA	Chemical	CHEBI_33697
+6	557	560 RNA	Chemical	CHEBI_33697
+6	777	792 viral infection	Disease	DOID_934
+6	1005	1008 RNA	Chemical	CHEBI_33697
+6	1108	1116 proteins	Chemical	CHEBI_36080
+6	1298	1301 RNA	Chemical	CHEBI_33697
+6	1373	1376 RNA	Chemical	CHEBI_33697
+6	1478	1485 protein	Chemical	CHEBI_16541
+6	1514	1521 protein	Chemical	CHEBI_16541
+6	1591	1598 protein	Chemical	CHEBI_16541
+6	1650	1653 Naa	Chemical	CHEBI_21547
+6	1897	1905 proteins	Chemical	CHEBI_36080
+6	CHEBI-DOID	CHEBI_16541	DOID_934
+6	CHEBI-DOID	CHEBI_33697	DOID_934
+6	DOID-CHEBI	DOID_934	CHEBI_36080
+6	DOID-CHEBI	DOID_934	CHEBI_21547
+
+7|chunk|Viruses 2015, 7 3
+

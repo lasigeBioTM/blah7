@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="472602b70bca7504518686f34f5b1b15dbe21725">
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c0" text="Inference of transmission network structure from HIV phylogenetic trees Supplementary information Approximate Bayesian Computation for model choice"/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c1" text="Within the ABC-SMC approach [1], particles are first generated from the prior distribution. Particles are then resampled from the obtained sample, and slightly perturbed. From these resampled particles, a new sample is formed, from which again particles are resampled, etc."/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c2" text="The threshold value for the summary statistic -below which new particles are accepted -is lowered with every newly obtained sample. As a result, the acceptance rate decreases and the acceptance threshold approaches zero with an increase in the number of iterations (resamplings)."/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c3" text="Initial -values were estimated as follows. We generated 100 trees and we calculated the summary statistics (indices) and used the standard deviation of this distribution as the initial values. The -values were decreased in an exponential fashion as the sequential ABC scheme progresses.">
+    <entity charOffset="264-267" id="472602b70bca7504518686f34f5b1b15dbe21725.c3.e0" ontology_id="CHEBI_421707" text="ABC" type="chemical"/>
+  </chunk>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c4" text="• Set the population indicator t = 1"/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c5" text="• Set the particle indicator i = 1"/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c6" text="• If t = 1, sample (m , θ ) from the prior π(m, θ) = π(m)π(θ|m)"/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c7" text="• If t &gt; 1 sample m with probability π t−1 (m ) and perturb m ∼ Km t (m|m ) Sample θ from the previous population {θ(m ) t−1 } with weights w t−1 . Perturb the particle, θ ∼ KP t,m (θ|θ ) where KP t,m is the particle perturbation kernel. If π(m , θ ) = 0, repeat this step. Simulate a candidate dataset x ∼ f (x|m , θ ) If ρ(x , y) &gt; repeat this step."/>
+  <chunk id="472602b70bca7504518686f34f5b1b15dbe21725.c8" text="1/3"/>
+</document>

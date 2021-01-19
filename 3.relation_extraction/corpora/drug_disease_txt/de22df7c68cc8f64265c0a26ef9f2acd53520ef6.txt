@@ -1,0 +1,48 @@
+0|chunk|Chemokine CXCL14 is associated with prognosis in patients with colorectal carcinoma after curative resection
+0	63	83 colorectal carcinoma	Disease	DOID_0080199
+0	74	83 carcinoma	Disease	DOID_305
+
+1|chunk|The chemokine CXCL14 has been reported to play an important role in the progression of many malignancies such as breast cancer and papillary thyroid carcinoma, but the role of CXCL14 in colorectal carcinoma (CRC) remains to be established. The purpose of this study was to investigate the expression pattern and significance of CXCL14 in CRC progression.
+1	60	64 role	Chemical	CHEBI_50906
+1	113	126 breast cancer	Disease	DOID_1612
+1	120	126 cancer	Disease	DOID_162
+1	141	148 thyroid	Chemical	CHEBI_9584
+1	149	158 carcinoma	Disease	DOID_305
+1	168	172 role	Chemical	CHEBI_50906
+1	186	206 colorectal carcinoma	Disease	DOID_0080199
+1	197	206 carcinoma	Disease	DOID_305
+1	CHEBI-DOID	CHEBI_50906	DOID_1612
+1	CHEBI-DOID	CHEBI_50906	DOID_162
+1	CHEBI-DOID	CHEBI_50906	DOID_305
+1	CHEBI-DOID	CHEBI_50906	DOID_0080199
+1	DOID-CHEBI	DOID_1612	CHEBI_9584
+1	DOID-CHEBI	DOID_162	CHEBI_9584
+1	CHEBI-DOID	CHEBI_9584	DOID_305
+1	CHEBI-DOID	CHEBI_9584	DOID_0080199
+
+2|chunk|Method: 265 colorectal carcinoma specimens and 129 matched adjacent normal colorectal mucosa specimens were collected. Expression of CXCL14 in clinical samples was examined by immunostaining. The effect of CXCL14 on colorectal carcinoma cell proliferation was measured by MTT assay, BrdU incorporation assay and colony formation assay. The impact of CXCL14 on migration and invasion of colorectal carcinoma cells was determined by transwell assay and Matrigel invasion assay, respectively.
+2	12	32 colorectal carcinoma	Disease	DOID_0080199
+2	23	32 carcinoma	Disease	DOID_305
+2	216	236 colorectal carcinoma	Disease	DOID_0080199
+2	227	236 carcinoma	Disease	DOID_305
+2	272	275 MTT	Chemical	CHEBI_53233
+2	283	287 BrdU	Chemical	CHEBI_472552
+2	386	406 colorectal carcinoma	Disease	DOID_0080199
+2	397	406 carcinoma	Disease	DOID_305
+2	DOID-CHEBI	DOID_0080199	CHEBI_53233
+2	DOID-CHEBI	DOID_0080199	CHEBI_472552
+2	DOID-CHEBI	DOID_305	CHEBI_53233
+2	DOID-CHEBI	DOID_305	CHEBI_472552
+
+3|chunk|Results: CXCL14 expression was significantly up-regulated in tumor tissues compared with adjacent nontumorous mucosa tissues (P < 0.001). Tumoral CXCL14 expression levels were significantly correlated with TNM (Tumor-nodemetastasis) stage, histodifferentiation, and tumor size. In multivariate Cox regression analysis, high CXCL14 expression in tumor specimens (n = 91) from stage I/II patients was associated with increased risk for disease recurrence (risk ratio, 2.92; 95% CI, 1.15-7.40; P = 0.024). Elevated CXCL14 expression in tumor specimens (n = 135) from stage III/IV patients correlated with worse overall survival (risk ratio, 3.087; 95% CI, 1.866-5.107; P < 0.001). Functional studies demonstrated that enforced expression of CXCL14 in SW620 colorectal carcinoma cells resulted in more aggressive phenotypes. In contrast, knockdown of CXCL14 expression could mitigate the proliferative, migratory and invasive potential of HCT116 colorectal carcinoma cells.
+3	434	441 disease	Disease	DOID_4
+3	754	774 colorectal carcinoma	Disease	DOID_0080199
+3	765	774 carcinoma	Disease	DOID_305
+3	942	962 colorectal carcinoma	Disease	DOID_0080199
+3	953	962 carcinoma	Disease	DOID_305
+
+4|chunk|Conclusion: Taken together, CXCL14 might be a potential novel prognostic factor to predict the disease recurrence and overall survival and could be a potential target of postoperative adjuvant therapy in CRC patients.
+4	95	102 disease	Disease	DOID_4
+4	184	192 adjuvant	Chemical	CHEBI_60809
+4	DOID-CHEBI	DOID_4	CHEBI_60809
+

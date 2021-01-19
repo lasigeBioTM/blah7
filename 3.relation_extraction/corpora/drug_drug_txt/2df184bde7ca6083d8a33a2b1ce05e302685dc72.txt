@@ -1,0 +1,54 @@
+0|chunk|Hepatitis E Virus ORF2 Protein Activates the Pro- Apoptotic Gene CHOP and Anti-Apoptotic Heat Shock Proteins
+0	23	30 Protein	Chemical	CHEBI_16541
+0	45	49 Pro-	Chemical	CHEBI_50342
+0	65	69 CHOP	Chemical	CHEBI_18132
+0	100	108 Proteins	Chemical	CHEBI_36080
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_50342
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_18132
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+0	CHEBI-CHEBI	CHEBI_50342	CHEBI_18132
+0	CHEBI-CHEBI	CHEBI_50342	CHEBI_36080
+0	CHEBI-CHEBI	CHEBI_18132	CHEBI_36080
+
+1|chunk|Background: Hepatitis E virus (HEV) is a non-enveloped plus-strand RNA virus that causes acute hepatitis. The capsid protein open reading frame 2 (ORF2) is known to induce endoplasmic reticulum stress in ORF2 expressing cells.
+1	67	70 RNA	Chemical	CHEBI_33697
+1	117	124 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+
+2|chunk|Methodology/Principal Findings: In this study we found that HEV ORF2 activates the expression of the pro-apoptotic gene C/EBP homologous protein (CHOP). ORF2 stimulates the CHOP promoter mainly through AARE (amino acid response elements) and to a minor extent the ERSE (endoplasmic reticulum stress response elements). Activating transcription factor 4 (ATF4) protein binds and activates the AARE regulatory sites of the CHOP promoter. ORF2 expression also leads to increased phosphorylation of eukaryotic initiation factor 2 alpha (eIF2a) that in turn initiates the translation of ATF4 mRNA. The pro-apoptotic gene CHOP is an important trigger to initiate endoplasmic reticulum stress induced apoptosis. However, the activation of CHOP by ORF2 in this study did not induce apoptosis, nor did BCL2-associated X protein (Bax) translocate to mitochondria. Microarray analysis revealed an ORF2 specific increased expression of chaperones Hsp72, Hsp70B', and cochaperone Hsp40. Co-immunoprecipitation (Co-IP) and in silico molecular docking analysis suggests that HEV ORF2 interacts with Hsp72. In addition, Hsp72 shows nuclear accumulation in ORF2 expressing cells.
+2	137	144 protein	Chemical	CHEBI_16541
+2	173	177 CHOP	Chemical	CHEBI_18132
+2	208	213 amino	Chemical	CHEBI_46882
+2	208	218 amino acid	Chemical	CHEBI_33704
+2	214	218 acid	Chemical	CHEBI_37527
+2	228	236 elements	Chemical	CHEBI_33250
+2	360	367 protein	Chemical	CHEBI_16541
+2	421	425 CHOP	Chemical	CHEBI_18132
+2	526	531 alpha	Chemical	CHEBI_30216
+2	616	620 CHOP	Chemical	CHEBI_18132
+2	732	736 CHOP	Chemical	CHEBI_18132
+2	811	818 protein	Chemical	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_18132
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_18132	CHEBI_46882
+2	CHEBI-CHEBI	CHEBI_18132	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_18132	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_18132	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_18132	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_30216
+
+3|chunk|Conclusions/Significance: These data provide new insight into simultaneously occurring counter-acting effects of HEV ORF2 that may be part of a strategy to prevent host suicide before completion of the viral replication cycle.
+

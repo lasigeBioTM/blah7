@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="e344d21fb68d14bed65d7fbdc97164e61717a0f2">
+  <chunk id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0" text="Biosynthesis of Other Secondary Metabolites">
+    <entity charOffset="22-43" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0.e0" ontology_id="CHEBI_25212" text="Secondary Metabolites" type="chemical"/>
+    <entity charOffset="32-43" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0.e1" ontology_id="CHEBI_25212" text="Metabolites" type="chemical"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0.e1" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1" text="Given a compound, how can we effectively predict its biological function? It is a fundamentally important problem because the information thus obtained may benefit the understanding of many basic biological processes and provide useful clues for drug design. In this study, based on the information of chemical-chemical interactions, a novel method was developed that can be used to identify which of the following eleven metabolic pathway classes a query compound may be involved with: (Xenobiotics Biodegradation and Metabolism. It was observed that the overall success rate obtained by the method via the 5-fold crossvalidation test on a benchmark dataset consisting of 3,137 compounds was 77.97%, which is much higher than 10.45%, the corresponding success rate obtained by the random guesses. Besides, to deal with the situation that some compounds may be involved with more than one metabolic pathway class, the method presented here is featured by the capacity able to provide a series of potential metabolic pathway classes ranked according to the descending order of their likelihood for each of the query compounds concerned. Furthermore, our method was also applied to predict 5,549 compounds whose metabolic pathway classes are unknown. Interestingly, the results thus obtained are quite consistent with the deductions from the reports by other investigators. It is anticipated that, with the continuous increase of the chemical-chemical interaction data, the current method will be further enhanced in its power and accuracy, so as to become a useful complementary vehicle in annotating uncharacterized compounds for their biological functions.">
+    <entity charOffset="246-250" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="432-439" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e1" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="488-499" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" ontology_id="CHEBI_35703" text="Xenobiotics" type="chemical"/>
+    <entity charOffset="899-906" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e3" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="1016-1023" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e4" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="1220-1227" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e5" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e1" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p0" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p1" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e3" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p2" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e4" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p3" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e0" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e5" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p4" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e1" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p5" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e3" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p6" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e4" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p7" relation="true"/>
+    <pair e1="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e2" e2="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.e5" id="e344d21fb68d14bed65d7fbdc97164e61717a0f2.c1.p8" relation="true"/>
+  </chunk>
+</document>

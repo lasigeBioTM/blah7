@@ -1,0 +1,227 @@
+{
+    "text": "Severe Acute Respiratory Infection (SARI) is a notifiable syndrome that must be investigated. This study aimed to analyze the epidemiological profile and factors associated with SARI-related hospitalization and deaths reported in Goi\u00e1s. Retrospective cohort study, with data from the investigation files of the Notifiable Diseases Information System's Influenza Web. Multivariate analysis methods were employed to verify the association between exposure variables with the outcomes of ICU admission and death. A total of 4,832 SARI cases were reported in Goi\u00e1s from 2013 to 2018. The primary etiological diagnosis was Influenza A (22.3%) with the predominant subtype A (H1N1pdm09), followed by the Respiratory Syncytial Virus. A total of 34.6% of the patients required ICU admission, and 19% died. A longer time to start treatment with antivirals was associated with a higher likelihood to have an ICU admission, while a previous non-vaccination against Influenza, longer time to start treatment, and older age were associated with a higher likelihood to suffer death. The study showed a high frequency of respiratory diseases caused by the Influenza virus in Goi\u00e1s and that the severity of the syndrome, characterized by ICU admission and deaths, is associated with the start of antiviral treatment vaccine status, and patient's age.",
+    "denotations": [
+        {
+            "id": "HP_0012828",
+            "span": {
+                "begin": 0,
+                "end": 6
+            },
+            "obj": "Severe"
+        },
+        {
+            "id": "HP_0011009",
+            "span": {
+                "begin": 7,
+                "end": 12
+            },
+            "obj": "Acute"
+        },
+        {
+            "id": "HP_0011947",
+            "span": {
+                "begin": 13,
+                "end": 34
+            },
+            "obj": "Respiratory Infection"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 58,
+                "end": 66
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "CHEBI_34935",
+            "span": {
+                "begin": 251,
+                "end": 257
+            },
+            "obj": "cohort"
+        },
+        {
+            "id": "DOID_8469",
+            "span": {
+                "begin": 352,
+                "end": 361
+            },
+            "obj": "Influenza"
+        },
+        {
+            "id": "DOID_8469",
+            "span": {
+                "begin": 618,
+                "end": 627
+            },
+            "obj": "Influenza"
+        },
+        {
+            "id": "CHEBI_22587",
+            "span": {
+                "begin": 836,
+                "end": 846
+            },
+            "obj": "antivirals"
+        },
+        {
+            "id": "DOID_8469",
+            "span": {
+                "begin": 954,
+                "end": 963
+            },
+            "obj": "Influenza"
+        },
+        {
+            "id": "HP_0040279",
+            "span": {
+                "begin": 1093,
+                "end": 1102
+            },
+            "obj": "frequency"
+        },
+        {
+            "id": "DOID_8469",
+            "span": {
+                "begin": 1141,
+                "end": 1150
+            },
+            "obj": "Influenza"
+        },
+        {
+            "id": "HP_0012824",
+            "span": {
+                "begin": 1179,
+                "end": 1187
+            },
+            "obj": "severity"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 1195,
+                "end": 1203
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "CHEBI_22587",
+            "span": {
+                "begin": 1280,
+                "end": 1289
+            },
+            "obj": "antiviral"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_8469",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R14",
+            "subj": "DOID_8469",
+            "pred": "no_relation",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R15",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_34935"
+        },
+        {
+            "id": "R16",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        },
+        {
+            "id": "R17",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_22587"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c">
+  <chunk id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0" text="3D QSAR Studies, Pharmacophore Modeling and Virtual Screening on a Series of Steroidal Aromatase Inhibitors">
+    <entity charOffset="87-107" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0.e0" ontology_id="CHEBI_50790" text="Aromatase Inhibitors" type="chemical"/>
+    <entity charOffset="97-107" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0.e1" ontology_id="CHEBI_35222" text="Inhibitors" type="chemical"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0.e1" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1" text="Aromatase inhibitors are the most important targets in treatment of estrogen-dependent cancers. In order to search for potent steroidal aromatase inhibitors (SAIs) with lower side effects and overcome cellular resistance, comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were performed on a series of SAIs to build 3D QSAR models. The reliable and predictive CoMFA and CoMSIA models were obtained with statistical results (CoMFA: q 2 = 0.636, r 2 ncv = 0.988, r 2 pred = 0.658; CoMSIA: q 2 = 0.843, r 2 ncv = 0.989, r 2 pred = 0.601). This 3D QSAR approach provides significant insights that can be used to develop novel and potent SAIs. In addition, Genetic algorithm with linear assignment of hypermolecular alignment of database (GALAHAD) was used to derive 3D pharmacophore models. The selected pharmacophore model contains two acceptor atoms and four hydrophobic centers, which was used as a 3D query for virtual screening against NCI2000 database. Six hit compounds were obtained and their biological activities were further predicted by the CoMFA and CoMSIA models, which are expected to design potent and novel SAIs.">
+    <entity charOffset="0-20" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" ontology_id="CHEBI_50790" text="Aromatase inhibitors" type="chemical"/>
+    <entity charOffset="10-20" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e1" ontology_id="CHEBI_35222" text="inhibitors" type="chemical"/>
+    <entity charOffset="136-156" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" ontology_id="CHEBI_50790" text="aromatase inhibitors" type="chemical"/>
+    <entity charOffset="146-156" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e3" ontology_id="CHEBI_35222" text="inhibitors" type="chemical"/>
+    <entity charOffset="891-899" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" ontology_id="CHEBI_15339" text="acceptor" type="chemical"/>
+    <entity charOffset="900-905" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" ontology_id="CHEBI_33250" text="atoms" type="chemical"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e1" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p0" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p1" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e3" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p2" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p3" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e0" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p4" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e1" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p5" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e1" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p6" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e1" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p7" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e3" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p8" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p9" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e2" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p10" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e3" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p11" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e3" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p12" relation="true"/>
+    <pair e1="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e4" e2="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.e5" id="fa5e90f78c7365ea9ad6b8b9cf9b6e43a1ca727c.c1.p13" relation="true"/>
+  </chunk>
+</document>

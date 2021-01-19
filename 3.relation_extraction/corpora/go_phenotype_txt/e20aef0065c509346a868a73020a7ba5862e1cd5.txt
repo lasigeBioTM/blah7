@@ -1,0 +1,21 @@
+0|chunk|Influenza A Virus Assembly Intermediates Fuse in the Cytoplasm
+0	12	26 Virus Assembly	Gene_function	GO_0019068
+0	53	62 Cytoplasm	Gene_function	GO_0005737
+
+1|chunk|Reassortment of influenza viral RNA (vRNA) segments in co-infected cells can lead to the emergence of viruses with pandemic potential. Replication of influenza vRNA occurs in the nucleus of infected cells, while progeny virions bud from the plasma membrane. However, the intracellular mechanics of vRNA assembly into progeny virions is not well understood.
+1	179	186 nucleus	Gene_function	GO_0005634
+1	271	284 intracellular	Gene_function	GO_0005622
+
+2|chunk|Here we used recent advances in microscopy to explore vRNA assembly and transport during a productive infection. We visualized four distinct vRNA segments within a single cell using fluorescent in situ hybridization (FISH) and observed that foci containing more than one vRNA segment were found at the external nuclear periphery, suggesting that vRNA segments are not exported to the cytoplasm individually. Although many cytoplasmic foci contain multiple vRNA segments, not all vRNA species are present in every focus, indicating that assembly of all eight vRNA segments does not occur prior to export from the nucleus. To extend the observations made in fixed cells, we used a virus that encodes GFP fused to the viral polymerase acidic (PA) protein (WSN PA-GFP) to explore the dynamics of vRNA assembly in live cells during a productive infection. Since WSN PA-GFP colocalizes with viral nucleoprotein and influenza vRNA segments, we used it as a surrogate for visualizing vRNA transport in 3D and at high speed by inverted selective-plane illumination microscopy. We observed cytoplasmic PA-GFP foci colocalizing and traveling together en route to the plasma membrane. Our data strongly support a model in which vRNA segments are exported from the nucleus as complexes that assemble en route to the plasma membrane through dynamic colocalization events in the cytoplasm.
+2	72	81 transport	Gene_function	GO_0006810
+2	384	393 cytoplasm	Gene_function	GO_0005737
+2	422	438 cytoplasmic foci	Gene_function	GO_0000932
+2	612	619 nucleus	Gene_function	GO_0005634
+2	981	990 transport	Gene_function	GO_0006810
+2	1156	1171 plasma membrane	Gene_function	GO_0005886
+2	1163	1171 membrane	Gene_function	GO_0016020
+2	1252	1259 nucleus	Gene_function	GO_0005634
+2	1303	1318 plasma membrane	Gene_function	GO_0005886
+2	1310	1318 membrane	Gene_function	GO_0016020
+2	1364	1373 cytoplasm	Gene_function	GO_0005737
+

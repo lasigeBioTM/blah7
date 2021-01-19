@@ -1,0 +1,21 @@
+0|chunk|BMC Genomics Molecular signature of clinical severity in recovering patients with severe acute respiratory syndrome coronavirus (SARS-CoV)
+0	0	3 BMC	Chemical	CHEBI_3392
+0	82	115 severe acute respiratory syndrome	Disease	DOID_2945
+0	107	115 syndrome	Disease	DOID_225
+0	CHEBI-DOID	CHEBI_3392	DOID_2945
+0	CHEBI-DOID	CHEBI_3392	DOID_225
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS), a recent epidemic human disease, is caused by a novel coronavirus (SARS-CoV). First reported in Asia, SARS quickly spread worldwide through international travelling. As of July 2003, the World Health Organization reported a total of 8,437 people afflicted with SARS with a 9.6% mortality rate. Although immunopathological damages may account for the severity of respiratory distress, little is known about how the genome-wide gene expression of the host changes under the attack of SARS-CoV.
+1	12	45 Severe acute respiratory syndrome	Disease	DOID_2945
+1	37	45 syndrome	Disease	DOID_225
+1	156	160 SARS	Disease	DOID_2945
+1	315	319 SARS	Disease	DOID_2945
+
+2|chunk|Results: Based on changes in gene expression of peripheral blood, we identified 52 signature genes that accurately discriminated acute SARS patients from non-SARS controls. While a general suppression of gene expression predominated in SARS-infected blood, several genes including those involved in innate immunity, such as defensins and eosinophil-derived neurotoxin, were upregulated. Instead of employing clustering methods, we ranked the severity of recovering SARS patients by generalized associate plots (GAP) according to the expression profiles of 52 signature genes. Through this method, we discovered a smooth transition pattern of severity from normal
+2	135	139 SARS	Disease	DOID_2945
+2	324	333 defensins	Chemical	CHEBI_82761
+2	465	469 SARS	Disease	DOID_2945
+2	511	514 GAP	Chemical	CHEBI_17138
+2	DOID-CHEBI	DOID_2945	CHEBI_82761
+2	DOID-CHEBI	DOID_2945	CHEBI_17138
+

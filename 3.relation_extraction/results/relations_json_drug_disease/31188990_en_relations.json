@@ -1,0 +1,103 @@
+{
+    "text": "To analyze the association between sociodemographic and behavioral factors with the metabolic syndrome in people living with HIV.A cross-sectional study was carried out in specialized outpatient clinics in Ribeir\u00e3o Preto - SP city, between October 2014 and October 2016. The criteria of the National Cholesterol Education Program Adult Treatment Panel III and the International Diabetes Federation were used for the evaluation of metabolic syndrome. Individual interviews were conducted and the Chi-square and Fisher's exact test was used.340 patients were evaluated, 28.5% (n=97) with metabolic syndrome by the National Cholesterol Education Program Adult Treatment Panel III criterion, and 39.4% (n=134) by the International Diabetes Federation. There was an association between MS and the variables gender (ATP: p<0.001, p=0.002), age (ATP: p<0.001, IDF: p<0.001), schooling (ATP: p=0.003, IDF: p=0.003), marital status (ATP: p=0.003, IDF: p=0.022), work status (ATP: p=0.003; IDF: p=0.024), smoking (ATP: p=0.037, IDF: p=0.033) and leisure activities (ATP: p=0.010, IDF: p=0.006).There are significant associations between the metabolic syndrome, sociodemographic and behavioral factors in people living with HIV.",
+    "denotations": [
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 94,
+                "end": 102
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "CHEBI_16113",
+            "span": {
+                "begin": 300,
+                "end": 311
+            },
+            "obj": "Cholesterol"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 440,
+                "end": 448
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 596,
+                "end": 604
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "CHEBI_16113",
+            "span": {
+                "begin": 621,
+                "end": 632
+            },
+            "obj": "Cholesterol"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 1141,
+                "end": 1149
+            },
+            "obj": "syndrome"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_225",
+            "pred": "no_relation",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_225",
+            "pred": "no_relation",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        }
+    ]
+}

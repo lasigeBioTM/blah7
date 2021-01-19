@@ -1,0 +1,23 @@
+0|chunk|Intravenous immunoglobulin fails to improve ARDS in patients undergoing ECMO therapy
+0	12	26 immunoglobulin	Gene_function	GO_0003823
+
+1|chunk|Background: Acute respiratory distress syndrome (ARDS) is associated with high mortality rates. ARDS patients suffer from severe hypoxemia, and extracorporeal membrane oxygenation (ECMO) therapy may be necessary to ensure oxygenation. ARDS has various etiologies, including trauma, ischemia-reperfusion injury or infections of various origins, and the associated immunological responses may vary. To support the immunological response in this patient collective, we used intravenous IgM immunoglobulin therapy to enhance the likelihood of pulmonary recovery. Methods: ARDS patients admitted to the intensive care unit (ICU) who were placed on ECMO and treated with (IVIG group; n = 29) or without (control group; n = 28) intravenous IgM-enriched immunoglobulins for 3 days in the initial stages of ARDS were analyzed retrospectively.
+1	12	17 Acute	Phenotype	HP_0011009
+1	18	38 respiratory distress	Phenotype	HP_0002098
+1	122	128 severe	Phenotype	HP_0012828
+1	159	167 membrane	Gene_function	GO_0016020
+1	487	501 immunoglobulin	Gene_function	GO_0003823
+1	HP-GO	HP_0011009	GO_0016020
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0002098	GO_0016020
+1	HP-GO	HP_0002098	GO_0003823
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0003823
+
+2|chunk|Results: The baseline characteristics did not differ between the groups, although the IVIG group showed a significantly reduced oxygenation index compared to the control group. We found no differences in the length of ICU stay or ventilation parameters. We did not find a significant difference between the groups for the extent of inflammation or for overall survival.
+
+3|chunk|We conclude that administration of IgM-enriched immunoglobulins as an additional therapy did not have a beneficial effect in patients with severe ARDS requiring ECMO support.
+3	139	145 severe	Phenotype	HP_0012828
+
+4|chunk|Trial registration: Clinical Trials: NCT02961166; retrospectively registered.
+

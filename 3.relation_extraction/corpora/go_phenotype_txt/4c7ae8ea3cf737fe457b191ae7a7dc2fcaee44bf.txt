@@ -1,0 +1,19 @@
+0|chunk|Hepatitis C Virus Non-Structural Protein 3 Interacts with Cytosolic 59(39)-Deoxyribonucleotidase and Partially Inhibits Its Activity
+0	0	9 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Infection with hepatitis C virus (HCV) is etiologically involved in liver cirrhosis, hepatocellular carcinoma and B-cell lymphomas. It has been demonstrated previously that HCV non-structural protein 3 (NS3) is involved in cell transformation. In this study, a yeast two-hybrid screening experiment was conducted to identify cellular proteins interacting with HCV NS3 protein. Cytosolic 59(39)-deoxyribonucleotidase (cdN, dNT-1) was found to interact with HCV NS3 protein. Binding domains of HCV NS3 and cellular cdN proteins were also determined using the yeast two-hybrid system. Interactions between HCV NS3 and cdN proteins were further demonstrated by co-immunoprecipitation and confocal analysis in cultured cells. The cellular cdN activity was partially repressed by NS3 protein in both the transiently-transfected and the stably-transfected systems. Furthermore, HCV partially repressed the cdN activity while had no effect on its protein expression in the systems of HCV sub-genomic replicons and infectious HCV virions. Deoxyribonucleotidases are present in most mammalian cells and involve in the regulation of intracellular deoxyribonucleotides pools by substrate cycles. Control of DNA precursor concentration is essential for the maintenance of genetic stability. Reduction of cdN activity would result in the imbalance of DNA precursor concentrations. Thus, our results suggested that HCV partially reduced the cdN activity via its NS3 protein and this may in turn cause diseases.
+1	15	24 hepatitis	Phenotype	HP_0012115
+1	85	109 hepatocellular carcinoma	Phenotype	HP_0001402
+1	100	109 carcinoma	Phenotype	HP_0030731
+1	473	480 Binding	Gene_function	GO_0005488
+1	1122	1135 intracellular	Gene_function	GO_0005622
+1	1324	1333 imbalance	Phenotype	HP_0002172
+1	HP-GO	HP_0012115	GO_0005488
+1	HP-GO	HP_0012115	GO_0005622
+1	HP-GO	HP_0001402	GO_0005488
+1	HP-GO	HP_0001402	GO_0005622
+1	HP-GO	HP_0030731	GO_0005488
+1	HP-GO	HP_0030731	GO_0005622
+1	GO-HP	GO_0005488	HP_0002172
+1	GO-HP	GO_0005622	HP_0002172
+

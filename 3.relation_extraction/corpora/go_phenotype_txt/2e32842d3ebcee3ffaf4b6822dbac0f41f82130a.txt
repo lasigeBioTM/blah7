@@ -1,0 +1,15 @@
+0|chunk|Associated Virus Vectors
+
+1|chunk|The unfolded protein response (UPR) is a stress-induced cyto-protective mechanism elicited towards an influx of large amount of proteins in the endoplasmic reticulum (ER). In the present study, we evaluated if AAV manipulates the UPR pathways during its infection. We first examined the role of the three major UPR axes, namely, endoribonuclease inositolrequiring enzyme-1 (IRE1a), activating transcription factor 6 (ATF6) and PKR-like ER kinase (PERK) in AAV infected cells. Total RNA from mock or AAV infected HeLa cells were used to determine the levels of 8 different ER-stress responsive transcripts from these pathways. We observed a significant up-regulation of IRE1a (up to 11 fold) and PERK (up to 8 fold) genes 12-48 hours after infection with self-complementary (sc)AAV2 but less prominent with single-stranded (ss)AAV2 vectors. Further studies demonstrated that scAAV1 and scAAV6 also induce cellular UPR in vitro, with AAV1 vectors activating the PERK pathway (3 fold) while AAV6 vectors induced a significant increase on all the three major UPR pathways [6-16 fold]. These data suggest that the type and strength of UPR activation is dependent on the viral capsid. We then examined if transient inhibition of UPR pathways by RNA interference has an effect on AAV transduction. siRNA mediated silencing of PERK and IRE1a had a modest effect on AAV2 and AAV6 mediated gene expression (,1.5-2 fold) in vitro. Furthermore, hepatic gene transfer of scAAV2 vectors in vivo, strongly elevated IRE1a and PERK pathways (2 and 3.5 fold, respectively). However, when animals were pre-treated with a pharmacological UPR inhibitor (metformin) during scAAV2 gene transfer, the UPR signalling and its subsequent inflammatory response was attenuated concomitant to a modest 2.8 fold increase in transgene expression. Collectively, these data suggest that AAV vectors activate the cellular UPR pathways and their selective inhibition may be beneficial during AAV mediated gene transfer.
+1	144	165 endoplasmic reticulum	Gene_function	GO_0005783
+1	1199	1208 transient	Phenotype	HP_0025153
+1	1239	1255 RNA interference	Gene_function	GO_0016246
+1	1380	1395 gene expression	Gene_function	GO_0010467
+1	1681	1691 signalling	Gene_function	GO_0023052
+1	1711	1732 inflammatory response	Gene_function	GO_0006954
+1	GO-HP	GO_0005783	HP_0025153
+1	HP-GO	HP_0025153	GO_0016246
+1	HP-GO	HP_0025153	GO_0010467
+1	HP-GO	HP_0025153	GO_0023052
+1	HP-GO	HP_0025153	GO_0006954
+

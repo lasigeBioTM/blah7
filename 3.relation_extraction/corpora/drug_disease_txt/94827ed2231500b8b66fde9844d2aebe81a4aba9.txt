@@ -1,0 +1,50 @@
+0|chunk|Niclosamide induced cell apoptosis via upregulation of ATF3 and activation of PERK in Hepatocellular carcinoma cells
+0	0	11 Niclosamide	Chemical	CHEBI_7553
+0	78	82 PERK	Chemical	CHEBI_17300
+0	86	110 Hepatocellular carcinoma	Disease	DOID_684
+0	101	110 carcinoma	Disease	DOID_305
+0	CHEBI-DOID	CHEBI_7553	DOID_684
+0	CHEBI-DOID	CHEBI_7553	DOID_305
+0	CHEBI-DOID	CHEBI_17300	DOID_684
+0	CHEBI-DOID	CHEBI_17300	DOID_305
+
+1|chunk|Background: Hepatocellular carcinoma (HCC) is one of most common and aggressive human malignancies in the world, especially, in eastern Asia, and its mortality is very high at any phase. We want to investigate mechanism of niclosamide inducing cell apoptosis in HCC. Methods: Two hepatoma cell lines were used to evaluate activity of niclosamide inducing cell apoptosis and study its mechanism. Quantitative real-time PCR and western blotting were used in analysis of genes expression or protein active regulated by niclosamide.
+1	12	36 Hepatocellular carcinoma	Disease	DOID_684
+1	27	36 carcinoma	Disease	DOID_305
+1	223	234 niclosamide	Chemical	CHEBI_7553
+1	280	288 hepatoma	Disease	DOID_684
+1	334	345 niclosamide	Chemical	CHEBI_7553
+1	488	495 protein	Chemical	CHEBI_16541
+1	516	527 niclosamide	Chemical	CHEBI_7553
+1	DOID-CHEBI	DOID_684	CHEBI_7553
+1	DOID-CHEBI	DOID_684	CHEBI_16541
+1	DOID-CHEBI	DOID_305	CHEBI_7553
+1	DOID-CHEBI	DOID_305	CHEBI_16541
+
+2|chunk|Results: Niclosamide remarkably induced cell apoptosis in hepatoma cells. Furthermore, our study revealed that RNA-dependent protein kinase-like kinase (PERK) is activated and its expression is up-regulated in HCC cells which are exposed to niclosamide. niclosamide also significantly increase activating transcription factor 3 (ATF3), activating transcription factor 4 (ATF4) and CCAAT/enhancer-binding protein-homologous protein (CHOP) expression in HCC cells. It's suggested that the function of niclosamide was abrogated by PERK inhibitor or absent ATF3. Expression of PERK and CHOP is correlated with ATF3 level in the cells.
+2	9	20 Niclosamide	Chemical	CHEBI_7553
+2	58	66 hepatoma	Disease	DOID_684
+2	125	132 protein	Chemical	CHEBI_16541
+2	153	157 PERK	Chemical	CHEBI_17300
+2	241	252 niclosamide	Chemical	CHEBI_7553
+2	254	265 niclosamide	Chemical	CHEBI_7553
+2	423	430 protein	Chemical	CHEBI_16541
+2	432	436 CHOP	Chemical	CHEBI_18132
+2	499	510 niclosamide	Chemical	CHEBI_7553
+2	528	532 PERK	Chemical	CHEBI_17300
+2	528	542 PERK inhibitor	Chemical	CHEBI_139047
+2	533	542 inhibitor	Chemical	CHEBI_35222
+2	573	577 PERK	Chemical	CHEBI_17300
+2	582	586 CHOP	Chemical	CHEBI_18132
+2	CHEBI-DOID	CHEBI_7553	DOID_684
+2	DOID-CHEBI	DOID_684	CHEBI_16541
+2	DOID-CHEBI	DOID_684	CHEBI_17300
+2	DOID-CHEBI	DOID_684	CHEBI_18132
+2	DOID-CHEBI	DOID_684	CHEBI_139047
+2	DOID-CHEBI	DOID_684	CHEBI_35222
+
+3|chunk|Conclusion: Taken together, our results indicate that ATF3 plays an integral role in ER stress activated and cell apoptosis induced by niclosamide in HCC cells. In this study, the new mechanism of niclosamide as anti-cancer we investigated, too.
+3	77	81 role	Chemical	CHEBI_50906
+3	135	146 niclosamide	Chemical	CHEBI_7553
+3	197	208 niclosamide	Chemical	CHEBI_7553
+

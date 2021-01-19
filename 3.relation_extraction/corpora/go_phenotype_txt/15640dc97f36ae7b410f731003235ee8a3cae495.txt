@@ -1,0 +1,30 @@
+0|chunk|Downregulation of Signaling-active IGF-1 by Dipeptidyl Peptidase IV (DPP-IV)
+
+1|chunk|Functioning as an extracellular protease, dipeptidyl peptidase IV (DPP-IV) preferentially cleaves the peptide bond after the penultimate proline residue. We report here that DPP-IV cleaves the first two amino acids from insulin-like growth factor 1 (IGF-1), revealed by mass spectrometry. The kinetic parameters of the proteolytic cleavage indicate that this reaction is physiologically relevant. Interestingly, truncated IGF-1 is less potent than the full-length protein in activating the IGF-1R, but binds more readily to IGF-binding protein 3 (IGFBP3). Quantitative RT-PCR showed that the level of DPP-IV mRNA is dramatically lower in lung squamous cell carcinoma tissues than in adjacent nonneoplastic lung tissues. However, this reduction was not observed in lung adenocarcinoma tissues. Our study suggests a possible link between IGF-1 and DPP-IV in cancer development in a specific tumor niche. A DPP-IV-related pathway may be important in mitigating IGF-1 signaling. Consequently, a robust IGF signaling pathway may accelerate early carcinogenesis in environments lacking DPP-IV. (Int J Biomed Sci 2010; 6 (4): 301-309)
+1	18	31 extracellular	Gene_function	GO_0005576
+1	233	239 growth	Gene_function	GO_0040007
+1	643	666 squamous cell carcinoma	Phenotype	HP_0002860
+1	657	666 carcinoma	Phenotype	HP_0030731
+1	764	783 lung adenocarcinoma	Phenotype	HP_0030078
+1	856	862 cancer	Phenotype	HP_0002664
+1	889	894 tumor	Phenotype	HP_0002664
+1	964	973 signaling	Gene_function	GO_0023052
+1	1002	1011 signaling	Gene_function	GO_0023052
+1	1002	1019 signaling pathway	Gene_function	GO_0007165
+1	GO-HP	GO_0005576	HP_0002860
+1	GO-HP	GO_0005576	HP_0030731
+1	GO-HP	GO_0005576	HP_0030078
+1	GO-HP	GO_0005576	HP_0002664
+1	GO-HP	GO_0040007	HP_0002860
+1	GO-HP	GO_0040007	HP_0030731
+1	GO-HP	GO_0040007	HP_0030078
+1	GO-HP	GO_0040007	HP_0002664
+1	HP-GO	HP_0002860	GO_0023052
+1	HP-GO	HP_0002860	GO_0007165
+1	HP-GO	HP_0030731	GO_0023052
+1	HP-GO	HP_0030731	GO_0007165
+1	HP-GO	HP_0030078	GO_0023052
+1	HP-GO	HP_0030078	GO_0007165
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0007165
+

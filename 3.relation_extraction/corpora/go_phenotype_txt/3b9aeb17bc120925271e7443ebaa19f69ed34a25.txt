@@ -1,0 +1,38 @@
+0|chunk|Constant up-regulation of BiP/GRP78 expression prevents virus-induced apoptosis in BHK-21 cells with Japanese encephalitis virus persistent infection
+0	110	122 encephalitis	Phenotype	HP_0002383
+
+1|chunk|Background: Persistent infection of the Japanese Encephalitis Virus (JEV) has been reported in clinical cases, experimental animals, and various cell culture systems. We previously reported the establishment of spontaneous JEV persistent infection, assisted by defective interfering particle accumulation and/or attenuated helper viruses, in BHK-21 cells devoid of virus-induced apoptosis, cBS6-2 and cBS6-3. However, cell-specific factors may play important roles in controlling JEV replication and have never been assessed for this specific phenomenon. Recent evidence suggests that viruses have evolved various mechanisms to cope with endoplasmic reticulum stress signaling pathways for their efficient amplification and transmission, including the unfolded protein response (UPR). Results: To identify the host cell factors that affect JEV persistence, we investigated the expression of essential UPR factors in cBS6-2 and cBS6-3 cells. Of the selected UPR factors tested, the most noticeable deviations from those of the normal BHK-21 cells with JEV acute infection were as follows: the suppression of C/EBP homologous binding protein (CHOP) and the constant up-regulation of immunoglobulin binding protein (BiP) expression in cBS6-2 and cBS6-3 cells. In JEV acute infection on normal BHK-21 cells, silencing CHOP expression through specific siRNA blocked cell death almost completely. Meanwhile, depletion of BiP by specific siRNA unlocked CHOP expression in cBS6-2 and cBS6-3 cells, resulting in massive cell death. Fulminant apoptotic cell death for both cell clones on tunicamycin treatment revealed that the JEV persistently infected cells still contained functional arms for cell fate decisions. Conclusions: BHK-21 cells with JEV persistent infection strive against virus-induced apoptosis through constant up-regulation of BiP expression, resulting in the complete depletion of CHOP even with apparent virus amplification in the cells. Accordingly, the attenuation of virus replication as well as the modifications to cell metabolism could be additional factors contributing to the development of JEV persistent infection in mammalian cells.
+1	49	61 Encephalitis	Phenotype	HP_0002383
+1	638	659 endoplasmic reticulum	Gene_function	GO_0005783
+1	667	676 signaling	Gene_function	GO_0023052
+1	810	819 host cell	Gene_function	GO_0043657
+1	1055	1060 acute	Phenotype	HP_0011009
+1	1124	1131 binding	Gene_function	GO_0005488
+1	1181	1195 immunoglobulin	Gene_function	GO_0003823
+1	1181	1203 immunoglobulin binding	Gene_function	GO_0019865
+1	1196	1203 binding	Gene_function	GO_0005488
+1	1264	1269 acute	Phenotype	HP_0011009
+1	1361	1371 cell death	Gene_function	GO_0008219
+1	1511	1521 cell death	Gene_function	GO_0008219
+1	1533	1553 apoptotic cell death	Gene_function	GO_0006915
+1	1543	1553 cell death	Gene_function	GO_0008219
+1	2036	2046 metabolism	Gene_function	GO_0008152
+1	HP-GO	HP_0002383	GO_0005783
+1	HP-GO	HP_0002383	GO_0023052
+1	HP-GO	HP_0002383	GO_0043657
+1	HP-GO	HP_0002383	GO_0005488
+1	HP-GO	HP_0002383	GO_0003823
+1	HP-GO	HP_0002383	GO_0019865
+1	HP-GO	HP_0002383	GO_0008219
+1	HP-GO	HP_0002383	GO_0006915
+1	HP-GO	HP_0002383	GO_0008152
+1	GO-HP	GO_0005783	HP_0011009
+1	GO-HP	GO_0023052	HP_0011009
+1	GO-HP	GO_0043657	HP_0011009
+1	HP-GO	HP_0011009	GO_0005488
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0011009	GO_0019865
+1	HP-GO	HP_0011009	GO_0008219
+1	HP-GO	HP_0011009	GO_0006915
+1	HP-GO	HP_0011009	GO_0008152
+

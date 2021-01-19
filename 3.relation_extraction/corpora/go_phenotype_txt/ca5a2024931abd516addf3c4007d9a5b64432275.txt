@@ -1,0 +1,32 @@
+0|chunk|Host Determinants of MERS-CoV Transmission and Pathogenesis
+0	47	59 Pathogenesis	Gene_function	GO_0009405
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) is a zoonotic pathogen that causes respiratory infection in humans, ranging from asymptomatic to severe pneumonia. In dromedary camels, the virus only causes a mild infection but it spreads efficiently between animals. Differences in the behavior of the virus observed between individuals, as well as between humans and dromedary camels, highlight the role of host factors in MERS-CoV pathogenesis and transmission. One of these host factors, the MERS-CoV receptor dipeptidyl peptidase-4 (DPP4), may be a critical determinant because it is variably expressed in MERS-CoV-susceptible species as well as in humans. This could partially explain inter-and intraspecies differences in the tropism, pathogenesis, and transmissibility of MERS-CoV. In this review, we explore the role of DPP4 and other host factors in MERS-CoV transmission and pathogenesis-such as sialic acids, host proteases, and interferons. Further characterization of these host determinants may potentially offer novel insights to develop intervention strategies to tackle ongoing outbreaks.
+1	91	112 respiratory infection	Phenotype	HP_0011947
+1	153	159 severe	Phenotype	HP_0012828
+1	216	220 mild	Phenotype	HP_0012825
+1	294	302 behavior	Gene_function	GO_0007610
+1	441	453 pathogenesis	Gene_function	GO_0009405
+1	749	761 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0011947	GO_0007610
+1	HP-GO	HP_0011947	GO_0009405
+1	HP-GO	HP_0012828	GO_0007610
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0012825	GO_0007610
+1	HP-GO	HP_0012825	GO_0009405
+
+2|chunk|all examples of potentially critical host factors that have been shown to affect MERS-CoV infection in vitro [23] [24] [25] [26] . This review highlights the role of some MERS-CoV-interacting host factors-especially DPP4-in MERS-CoV pathogenesis and transmission.
+2	233	245 pathogenesis	Gene_function	GO_0009405
+
+3|chunk|MERS-CoV infection of a target cell is initiated by the virus attachment to the cell surface [23, 27] . MERS-CoV uses the N-terminal part of its spike (S)-the so called S1 protein ( Figure 1A )-to bind to two host cell surface molecules, dipeptidyl peptidase-4 (DPP4) and 2,3-sialic acids [23, 24] . DPP4 is the functional receptor of MERS-CoV; its absence renders cells resistant to this virus, while its transient expression in non-susceptible cells permits viral replication [23] . DPP4 is a serine exopeptidase, which is either expressed at the cell surface or shed in a soluble form. It has the capacity to cleave-off dipeptides from polypeptides with either L-proline or L-alanine at the penultimate position. Accordingly, DPP4 is capable of cutting various substrates, such as hormones, cytokines, chemokines, and neuropeptides, allowing it to be involved in multiple physiological functions as well as pathophysiological conditions [28] . This enzymatic activity is mediated by the / hydrolase domain of DPP4, while MERS-CoV infection is mediated by the binding of S1 protein to the -propeller domain of this exopeptidase ( Figure 1B ) [28] [29] [30] [31] . There are 11 critical residues within the -propeller domain that directly interact with the S1 protein [29] [30] [31] . These residues are quite conserved in camelids, primates, and rabbits-species shown to be susceptible to [31] [32][33]. In contrast, ferrets, rats, and mice resist MERS-CoV infection due to differences in some critical DPP4 residues [31, [34][35][36]. These data illustrate that DPP4 has the capacity to determine the host range of MERS-CoV.
+3	80	92 cell surface	Gene_function	GO_0009986
+3	209	218 host cell	Gene_function	GO_0043657
+3	209	226 host cell surface	Gene_function	GO_0044228
+3	407	416 transient	Phenotype	HP_0025153
+3	550	562 cell surface	Gene_function	GO_0009986
+3	1065	1072 binding	Gene_function	GO_0005488
+3	GO-HP	GO_0009986	HP_0025153
+3	GO-HP	GO_0043657	HP_0025153
+3	GO-HP	GO_0044228	HP_0025153
+3	HP-GO	HP_0025153	GO_0005488
+

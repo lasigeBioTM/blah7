@@ -1,0 +1,23 @@
+0|chunk|A pilot study on primary cultures of human respiratory tract epithelial cells to predict patients' responses to H7N9 infection
+
+1|chunk|Copyright: Huang et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+1	194	206 reproduction	Gene_function	GO_0000003
+
+2|chunk|Avian influenza A(H7N9) virus infections frequently lead to acute respiratory distress syndrome and death in humans. We aimed to investigate whether primary cultures of human respiratory tract epithelial cells are helpful to understand H7N9 virus pathogenesis and tissue tropism, and to evaluate how patient-related characteristics can affect the host's response to infection. Normal human bronchial epithelial cells (isolated from two different donors) and primary epithelial cells (harvested from 27 patients undergoing airway surgery) were experimentally infected with H7N9 and/or H1N1pdm for 72 h. After virus infection, the culture media were collected for viral RNA quantitation and cytokine detection. Both H7N9 and H1N1pdm viruses replicated and induced a cytokine response differently for each donor in the normal human bronchial epithelial model. H7N9 replicated equivalently in epithelial cells harvested from the inferior turbinate and paranasal sinus, and those from the larynx and bronchus, at 72 h post-infection. Viral RNA quantity at 72 h was significantly higher in patients aged 21-64 years than in patients aged  65 years; however, no effects of sex, medical comorbidities, and obesity were noted. H7N9-infected cultured cells released multiple cytokines within 72 h. Levels of interleukin-1, interleukin-6, interleukin-8, interferon-, and tumor necrosis factor- were associated differently with patient-related characteristics (such as age, sex, obesity, and medical comorbidities). www.impactjournals.com/oncotarget/ In the era of precision medicine, these findings illustrate the potential utility of this primary culture approach to predict a host's response to H7N9 infection or to future infection by newly emerging viral infections, and to dissect viral pathogenesis.
+2	60	65 acute	Phenotype	HP_0011009
+2	66	86 respiratory distress	Phenotype	HP_0002098
+2	247	259 pathogenesis	Gene_function	GO_0009405
+2	1199	1206 obesity	Phenotype	HP_0001513
+2	1363	1368 tumor	Phenotype	HP_0002664
+2	1369	1377 necrosis	Gene_function	GO_0001906
+2	1471	1478 obesity	Phenotype	HP_0001513
+2	1785	1797 pathogenesis	Gene_function	GO_0009405
+2	HP-GO	HP_0011009	GO_0009405
+2	HP-GO	HP_0011009	GO_0001906
+2	HP-GO	HP_0002098	GO_0009405
+2	HP-GO	HP_0002098	GO_0001906
+2	GO-HP	GO_0009405	HP_0001513
+2	GO-HP	GO_0009405	HP_0002664
+2	HP-GO	HP_0001513	GO_0001906
+2	HP-GO	HP_0002664	GO_0001906
+

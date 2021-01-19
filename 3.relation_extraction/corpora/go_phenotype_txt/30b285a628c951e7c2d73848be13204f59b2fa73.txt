@@ -1,0 +1,19 @@
+0|chunk|Transmission characteristics of MERS and SARS in the healthcare setting: a comparative study
+
+1|chunk|Background: The Middle East respiratory syndrome (MERS) coronavirus has caused recurrent outbreaks in the Arabian Peninsula since 2012. Although MERS has low overall human-to-human transmission potential, there is occasional amplification in the healthcare setting, a pattern reminiscent of the dynamics of the severe acute respiratory syndrome (SARS) outbreaks in 2003. Here we provide a head-to-head comparison of exposure patterns and transmission dynamics of large hospital clusters of MERS and SARS, including the most recent South Korean outbreak of MERS in 2015.
+1	79	88 recurrent	Phenotype	HP_0031796
+1	214	224 occasional	Phenotype	HP_0040283
+1	311	317 severe	Phenotype	HP_0012828
+1	318	323 acute	Phenotype	HP_0011009
+
+2|chunk|Methods: To assess the unexpected nature of the recent South Korean nosocomial outbreak of MERS and estimate the probability of future large hospital clusters, we compared exposure and transmission patterns for previously reported hospital clusters of MERS and SARS, based on individual-level data and transmission tree information. We carried out simulations of nosocomial outbreaks of MERS and SARS using branching process models rooted in transmission tree data, and inferred the probability and characteristics of large outbreaks.
+
+3|chunk|Results: A significant fraction of MERS cases were linked to the healthcare setting, ranging from 43.5 % for the nosocomial outbreak in Jeddah, Saudi Arabia, in 2014 to 100 % for both the outbreak in Al-Hasa, Saudi Arabia, in 2013 and the outbreak in South Korea in 2015. Both MERS and SARS nosocomial outbreaks are characterized by early nosocomial super-spreading events, with the reproduction number dropping below 1 within three to five disease generations. There was a systematic difference in the exposure patterns of MERS and SARS: a majority of MERS cases occurred among patients who sought care in the same facilities as the index case, whereas there was a greater concentration of SARS cases among healthcare workers throughout the outbreak. Exposure patterns differed slightly by disease generation, however, especially for SARS. Moreover, the distributions of secondary cases per single primary case varied highly across individual hospital outbreaks (Kruskal-Wallis test; P < 0.0001), with significantly higher transmission heterogeneity in the distribution of secondary cases for MERS than SARS. Simulations indicate a 2-fold higher probability of occurrence of large outbreaks (>100 cases) for SARS than MERS (2 % versus 1 %); however, owing to higher transmission heterogeneity, the largest outbreaks of MERS are characterized by sharper incidence peaks. The probability of occurrence of MERS outbreaks larger than the South Korean cluster (n = 186) is of the order of 1 %.
+3	383	395 reproduction	Gene_function	GO_0000003
+3	1037	1050 heterogeneity	Phenotype	HP_0001425
+3	1280	1293 heterogeneity	Phenotype	HP_0001425
+3	GO-HP	GO_0000003	HP_0001425
+
+4|chunk|Our study suggests that the South Korean outbreak followed a similar progression to previously described hospital clusters involving coronaviruses, with early super-spreading events generating a disproportionately large number of secondary infections, and the transmission potential diminishing greatly in subsequent generations. Differences in relative exposure patterns and transmission heterogeneity of MERS and SARS could point to changes in hospital practices since 2003 or differences in transmission mechanisms of these coronaviruses.
+4	389	402 heterogeneity	Phenotype	HP_0001425
+

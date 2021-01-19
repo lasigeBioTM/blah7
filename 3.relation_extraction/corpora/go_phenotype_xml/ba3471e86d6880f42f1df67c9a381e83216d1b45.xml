@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="ba3471e86d6880f42f1df67c9a381e83216d1b45">
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c0" text="From sequence to enzyme mechanism using multi-label machine learning">
+    <entity charOffset="60-68" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c0.e0" ontology_id="GO_0007612" text="learning" type="gene_function"/>
+  </chunk>
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1" text="Background: In this work we predict enzyme function at the level of chemical mechanism, providing a finer granularity of annotation than traditional Enzyme Commission (EC) classes. Hence we can predict not only whether a putative enzyme in a newly sequenced organism has the potential to perform a certain reaction, but how the reaction is performed, using which cofactors and with susceptibility to which drugs or inhibitors, details with important consequences for drug and enzyme design. Work that predicts enzyme catalytic activity based on 3D protein structure features limits the prediction of mechanism to proteins already having either a solved structure or a close relative suitable for homology modelling.">
+    <entity charOffset="517-535" id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c1.e0" ontology_id="GO_0003824" text="catalytic activity" type="gene_function"/>
+  </chunk>
+  <chunk id="ba3471e86d6880f42f1df67c9a381e83216d1b45.c2" text="In this study, we evaluate whether sequence identity, InterPro or Catalytic Site Atlas sequence signatures provide enough information for bulk prediction of enzyme mechanism. By splitting MACiE (Mechanism, Annotation and Classification in Enzymes database) mechanism labels to a finer granularity, which includes the role of the protein chain in the overall enzyme complex, the method can predict at 96% accuracy (and 96% micro-averaged precision, 99.9% macro-averaged recall) the MACiE mechanism definitions of 248 proteins available in the MACiE, EzCatDb (Database of Enzyme Catalytic Mechanisms) and SFLD (Structure Function Linkage Database) databases using an off-the-shelf K-Nearest Neighbours multi-label algorithm."/>
+</document>

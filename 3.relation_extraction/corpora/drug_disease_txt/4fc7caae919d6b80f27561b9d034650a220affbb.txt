@@ -1,0 +1,15 @@
+0|chunk|Inferring population-level contact heterogeneity from common epidemic data
+
+1|chunk|Models of infectious disease spread that incorporate contact heterogeneity through contact networks are an important tool for epidemiologists studying disease dynamics and assessing intervention strategies. One of the challenges of contact network epidemiology has been the difficulty of collecting individual and population-level data needed to develop an accurate representation of the underlying host population's contact structure. In this study, we evaluate the utility of common epidemiological measures (R 0 , epidemic peak size, duration and final size) for inferring the degree of heterogeneity in a population's unobserved contact structure through a Bayesian approach. We test the method using ground truth data and find that some of these epidemiological metrics are effective at classifying contact heterogeneity. The classification is also consistent across pathogen transmission probabilities, and so can be applied even when this characteristic is unknown. In particular, the reproductive number, R 0 , turns out to be a poor classifier of the degree heterogeneity, while, unexpectedly, final epidemic size is a powerful predictor of network structure across the range of heterogeneity. We also evaluate our framework on empirical epidemiological data from past and recent outbreaks to demonstrate its application in practice and to gather insights about the relevance of particular contact structures for both specific systems and general classes of infectious disease. We thus introduce a simple approach that can shed light on the unobserved connectivity of a host population given epidemic data. Our study has the potential to inform future data-collection efforts and study design by driving our understanding of germane epidemic measures, and highlights a general inferential approach to learning about host contact structure in contemporary or historic populations of humans and animals.
+1	10	28 infectious disease	Disease	DOID_0050117
+1	21	28 disease	Disease	DOID_4
+1	151	158 disease	Disease	DOID_4
+1	1467	1485 infectious disease	Disease	DOID_0050117
+1	1478	1485 disease	Disease	DOID_4
+1	1537	1542 light	Chemical	CHEBI_30212
+1	1734	1741 germane	Chemical	CHEBI_30443
+1	DOID-CHEBI	DOID_0050117	CHEBI_30212
+1	DOID-CHEBI	DOID_0050117	CHEBI_30443
+1	DOID-CHEBI	DOID_4	CHEBI_30212
+1	DOID-CHEBI	DOID_4	CHEBI_30443
+

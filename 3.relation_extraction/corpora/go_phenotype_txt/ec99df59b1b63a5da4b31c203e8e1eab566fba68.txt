@@ -1,0 +1,95 @@
+0|chunk|Mechanism of Fibronectin Binding to Human Trabecular Meshwork Exosomes and Its Modulation by Dexamethasone
+0	13	32 Fibronectin Binding	Gene_function	GO_0001968
+0	25	32 Binding	Gene_function	GO_0005488
+
+1|chunk|Exosomes are emerging as important mediators of cell-matrix interactions by means of specific adhesion proteins. Changes in the tissue-specific exosomal protein expression may underlie pathological conditions whereby extracellular matrix turnover and homeostasis is disrupted. Ocular hypertension due to extracellular matrix accumulation in the trabecular meshwork is a hallmark of glucocorticoid-induced glaucoma. In the trabecular meshwork, exosomal fibronectin mediates cell matrix interactions at cellular structures called "invadosomes". Trabecular meshwork cells use invadosomes to turn over their surrounding matrix and maintain passageways for flow of aqueous humor. In this study, we observed that human trabecular meshwork explants treated with dexamethasone released exosomes with significantly reduced amounts of fibronectin bound per exosome. Further, we found that exosome-fibronectin binding is heparan sulfate-dependent, consistent with our observation that trabecular meshwork exosomes are enriched in the heparin/heparan sulfate binding annexins A2 and A6. In this way, dexamethasone-treated explants released exosomes with a significant reduction in annexin A2 and A6 per exosome. Interestingly, we did not detect exosomal matrix metalloproteinases, but we identified abundant dipeptidyl peptidase 4, a serine protease whose activity was reduced on exosomes isolated from dexamethasone-treated explants. Together, our findings demonstrate mechanistically how corticosteroid-induced alterations in exosomal adhesion cargo and properties can account for the pathological matrix accumulation seen in many glaucoma patients. thought to be critically important in maintaining healthy IOP [3] . Further, aberrant accumulation of ECM is a characteristic of two major forms of glaucoma, primary open-angle glaucoma and corticosteroid-induced glaucoma [4, 5] . Currently there is no cure for glaucoma and the only effective therapy is lowering IOP [6] . Unfortunately, no clinically available IOP lowering drugs directly target the conventional drainage tissues or address the pathological ECM changes thought to impede drainage.
+1	217	230 extracellular	Gene_function	GO_0005576
+1	217	237 extracellular matrix	Gene_function	GO_0031012
+1	251	262 homeostasis	Gene_function	GO_0042592
+1	277	296 Ocular hypertension	Phenotype	HP_0007906
+1	284	296 hypertension	Phenotype	HP_0000822
+1	304	317 extracellular	Gene_function	GO_0005576
+1	304	324 extracellular matrix	Gene_function	GO_0031012
+1	405	413 glaucoma	Phenotype	HP_0000501
+1	899	906 binding	Gene_function	GO_0005488
+1	1039	1054 sulfate binding	Gene_function	GO_0043199
+1	1047	1054 binding	Gene_function	GO_0005488
+1	1534	1539 cargo	Gene_function	GO_0140355
+1	1621	1629 glaucoma	Phenotype	HP_0000501
+1	1690	1697 healthy	Phenotype	HP_0032322
+1	1788	1796 glaucoma	Phenotype	HP_0000501
+1	1817	1825 glaucoma	Phenotype	HP_0000501
+1	1853	1861 glaucoma	Phenotype	HP_0000501
+1	1902	1910 glaucoma	Phenotype	HP_0000501
+1	GO-HP	GO_0005576	HP_0007906
+1	GO-HP	GO_0005576	HP_0000822
+1	GO-HP	GO_0005576	HP_0000501
+1	GO-HP	GO_0005576	HP_0032322
+1	GO-HP	GO_0031012	HP_0007906
+1	GO-HP	GO_0031012	HP_0000822
+1	GO-HP	GO_0031012	HP_0000501
+1	GO-HP	GO_0031012	HP_0032322
+1	GO-HP	GO_0042592	HP_0007906
+1	GO-HP	GO_0042592	HP_0000822
+1	GO-HP	GO_0042592	HP_0000501
+1	GO-HP	GO_0042592	HP_0032322
+1	HP-GO	HP_0007906	GO_0005488
+1	HP-GO	HP_0007906	GO_0043199
+1	HP-GO	HP_0007906	GO_0140355
+1	HP-GO	HP_0000822	GO_0005488
+1	HP-GO	HP_0000822	GO_0043199
+1	HP-GO	HP_0000822	GO_0140355
+1	HP-GO	HP_0000501	GO_0005488
+1	HP-GO	HP_0000501	GO_0043199
+1	HP-GO	HP_0000501	GO_0140355
+1	GO-HP	GO_0005488	HP_0032322
+1	GO-HP	GO_0043199	HP_0032322
+1	GO-HP	GO_0140355	HP_0032322
+
+2|chunk|Turnover of ECM in the TM is vigorous, with some protein half-lives being less than two days [7] . TM cells form highly dynamic, actin-rich organelles called "invadosomes" [8, 9] . In the TM and other tissues these structures are enriched with matrix metalloproteases (MMPs) and act as sites of focal ECM degradation and remodeling [10] . Inhibition or addition of MMPs to perfused human eye models, decreases or increases outflow respectively, demonstrating the critical role matrix degradation plays in regulating normal TM function [11] . However, MMPs are just one important component of these organelles contributing to the complex process of matrix remodeling. Recently, extracellular nanovesicles called exosomes have been localized to invadosome-like structures [12] and shown to be critical in the cell-specific invadosome function, such as invasiveness and migration of cancer cells, who also actively turnover ECM [13] .
+2	295	300 focal	Phenotype	HP_0030650
+2	305	316 degradation	Gene_function	GO_0009056
+2	484	495 degradation	Gene_function	GO_0009056
+2	677	690 extracellular	Gene_function	GO_0005576
+2	730	739 localized	Phenotype	HP_0012838
+2	880	886 cancer	Phenotype	HP_0002664
+2	HP-GO	HP_0030650	GO_0009056
+2	HP-GO	HP_0030650	GO_0005576
+2	GO-HP	GO_0009056	HP_0012838
+2	GO-HP	GO_0009056	HP_0002664
+2	GO-HP	GO_0005576	HP_0012838
+2	GO-HP	GO_0005576	HP_0002664
+
+3|chunk|Exosomes are released from TM cells in culture [14-16], yet their function in outflow physiology is unknown. Proteomic analysis of TM cell exosomes showed that fibronectin (Fn) is an abundant component [16] . This is consistent with a number of reports which have shown exosomal binding of Fn using a number of methods such as flowcytometry [17] , capture of exosomes on immobilized Fn[13] and density gradient ultracentrifugation [18, 19] . These results show exosomal affinity for Fn may be a common property of exosomes shared across a number of cell types. Recently, exosomes have been implicated in a number of cell-ECM interactions, including several that depend on exosomal Fn [18, 20] . These data suggest exosome-bound Fn plays an important role in cell-matrix interactions. Additionally, the amount of Fn bound to exosomes influences the magnitude of the cell-matrix interaction. For example, decreasing the amount of exosomal Fn decreases cell motility [18] .
+3	279	286 binding	Gene_function	GO_0005488
+3	950	963 cell motility	Gene_function	GO_0048870
+
+4|chunk|Experimentally, secretion of Fn from TM cells is dramatically elevated upon treatment with corticosteroids [21] . In fact, treatment of TM cells and tissues with corticosteroids has been used to identify the first glaucoma gene, MYOC [22], and as a reliable model to study ECM turnover by the TM in a controlled fashion. Here we used corticosteroid treatment of TM explants to determine whether released exosomes are altered by this glaucoma-inducing compound. We found that despite a Dexamethasone (Dex)-induced increase in Fn secretion by TM explants, the released exosomes had less bound Fn. Additionally, we show that TM exosome-Fn binding is dependent on the presence of the glycosaminoglycan heparan sulfate. Finally, we found that TM exosomes are enriched in the known heparin/heparan sulfate binding proteins annexin A2 and A6 [23, 24] , and that Dex treatment of the TM explants significantly reduced the amount of these annexins per exosome. Our findings are the first to demonstrate that a drug causing ECM accumulation in the TM [4], ocular hypertension [25] and glaucoma in humans and animal models, alters exosomal cargo and properties in a way that can account for the observed ocular phenotype.
+4	16	25 secretion	Gene_function	GO_0046903
+4	214	222 glaucoma	Phenotype	HP_0000501
+4	528	537 secretion	Gene_function	GO_0046903
+4	636	643 binding	Gene_function	GO_0005488
+4	792	807 sulfate binding	Gene_function	GO_0043199
+4	800	807 binding	Gene_function	GO_0005488
+4	1046	1065 ocular hypertension	Phenotype	HP_0007906
+4	1053	1065 hypertension	Phenotype	HP_0000822
+4	1075	1083 glaucoma	Phenotype	HP_0000501
+4	1129	1134 cargo	Gene_function	GO_0140355
+4	GO-HP	GO_0046903	HP_0000501
+4	GO-HP	GO_0046903	HP_0007906
+4	GO-HP	GO_0046903	HP_0000822
+4	HP-GO	HP_0000501	GO_0005488
+4	HP-GO	HP_0000501	GO_0043199
+4	HP-GO	HP_0000501	GO_0140355
+4	GO-HP	GO_0005488	HP_0007906
+4	GO-HP	GO_0005488	HP_0000822
+4	GO-HP	GO_0043199	HP_0007906
+4	GO-HP	GO_0043199	HP_0000822
+4	HP-GO	HP_0007906	GO_0140355
+4	HP-GO	HP_0000822	GO_0140355
+
+5|chunk|Materials and Methods
+
+6|chunk|De-identified human donor whole globes or corneal rims (following corneal button removal for transplant) were obtained from donors who gave consent for research (Miracles In Sight, Winston-Salem, NC) and the trabecular meshwork was isolated using a blunt dissection Exosome-Fibronectin Binding and Modulation by Dexamethasone PLOS ONE |
+6	286	293 Binding	Gene_function	GO_0005488
+

@@ -1,0 +1,17 @@
+0|chunk|Frequent Respiratory Viral Infections in Children with Febrile Neutropenia -A Prospective Follow-Up Study
+0	0	8 Frequent	Phenotype	HP_0040282
+0	63	74 Neutropenia	Phenotype	HP_0001875
+
+1|chunk|Febrile neutropenia is common in children undergoing chemotherapy for the treatment of malignancies. In the majority of cases, the cause of the fever is unknown. Although respiratory viruses are commonly associated with this condition, the etiologic significance of this finding remains unclear and is therefore the subject of this study.
+1	8	19 neutropenia	Phenotype	HP_0001875
+1	144	149 fever	Phenotype	HP_0001945
+
+2|chunk|Nasopharyngeal aspirates were collected during 87 episodes of febrile neutropenia in children age 0-18 years, being treated at a children's oncology unit between January 2013 and June 2014. Real-time polymerase chain reaction was used to determine the presence of 16 respiratory viruses. Follow-up samples were collected from children who tested positive for one or more respiratory viruses. Rhinoviruses were genotyped by VP4/ VP2 sequencing. Fisher's exact test and Mann-Whitney U test were used for group comparisons.
+2	70	81 neutropenia	Phenotype	HP_0001875
+2	140	148 oncology	Phenotype	HP_0002664
+
+3|chunk|At least one respiratory virus was detected in samples from 39 of 87 episodes of febrile neutropenia (45%), with rhinoviruses the most frequently detected. Follow-up samples were collected after a median of 28 days (range, 9-74 days) in 32 of the 39 virus-positive episodes. The respiratory viral infection had resolved in 25 episodes (78%). The same virus was detected at follow-up in one coronavirus and six rhinovirus episodes. Genotyping revealed a different rhinovirus species in two of the six rhinovirus infections.
+3	89	100 neutropenia	Phenotype	HP_0001875
+3	291	306 viral infection	Gene_function	GO_0016032
+3	HP-GO	HP_0001875	GO_0016032
+

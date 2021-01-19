@@ -1,0 +1,35 @@
+0|chunk|Sustained Egr-1 Response via p38 MAP Kinase Signaling Modulates Early Immune Responses of Dendritic Cells Parasitized by Toxoplasma gondii
+0	44	53 Signaling	Gene_function	GO_0023052
+
+1|chunk|As a response to a diverse array of external stimuli, early growth response protein 1 (Egr-1) plays important roles in the transcriptional regulation of inflammation and the cellular immune response. However, a number of intracellular pathogens colonize immune cells and the implication of Egr-1 in the host-pathogen interplay has remained elusive. Here, we have characterized the Egr-1 responses of primary murine and human dendritic cells (DCs) upon challenge with the obligate intracellular parasite Toxoplasma gondii. We report that live intracellular parasites induce a sustained high expression of Egr-1 in DCs, different from the immediate-early Egr-1 response to parasite lysates, inactivated parasites or LPS. Moreover, a distinct nuclear localization of elevated amounts of Egr-1 protein was detected in infected DCs, but not in by-stander DCs. The ERK1/2 MAPK signaling pathway mediated the canonical immediate-early Egr-1 response to soluble antigens in a MyD88/TLR-dependent fashion. In contrast, a non-canonical extended Egr-1 response that relied primarily on p38 MAPK signaling was induced by intracellular parasites and was exhibited similarly by MyD88-deficient and wildtype DCs. The extended phase Egr-1 response was dramatically reduced upon challenge of DCs with T. gondii parasites deficient in GRA24, a secreted p38-interacting protein.
+1	60	66 growth	Gene_function	GO_0040007
+1	174	198 cellular immune response	Gene_function	GO_0002443
+1	221	234 intracellular	Gene_function	GO_0005622
+1	471	479 obligate	Phenotype	HP_0040280
+1	480	493 intracellular	Gene_function	GO_0005622
+1	542	555 intracellular	Gene_function	GO_0005622
+1	748	760 localization	Gene_function	GO_0051179
+1	866	870 MAPK	Gene_function	GO_0004707
+1	866	880 MAPK signaling	Gene_function	GO_0000165
+1	871	880 signaling	Gene_function	GO_0023052
+1	871	888 signaling pathway	Gene_function	GO_0007165
+1	1079	1083 MAPK	Gene_function	GO_0004707
+1	1079	1093 MAPK signaling	Gene_function	GO_0000165
+1	1084	1093 signaling	Gene_function	GO_0023052
+1	1109	1122 intracellular	Gene_function	GO_0005622
+1	GO-HP	GO_0040007	HP_0040280
+1	GO-HP	GO_0002443	HP_0040280
+1	GO-HP	GO_0005622	HP_0040280
+1	HP-GO	HP_0040280	GO_0051179
+1	HP-GO	HP_0040280	GO_0004707
+1	HP-GO	HP_0040280	GO_0000165
+1	HP-GO	HP_0040280	GO_0023052
+1	HP-GO	HP_0040280	GO_0007165
+
+2|chunk|Further, Egr-1-silenced primary DCs maintained their migratory responses upon T. gondii challenge. Importantly, Egr-1 silencing led to elevated expression of co-stimulatory molecules (CD40, CD80) in Toxoplasma-infected DCs and in LPS-challenged immature DCs, indicating that Egr-1 responses suppressed maturation of DCs. Moreover, the IL-12 and IL-2 responses of Toxoplasma-challenged DCs were modulated in a GRA24-dependent fashion. Jointly, the data show that the Egr-1 responses of DCs to microbial external stimuli and intracellular stimuli can be selectively mediated by ERK1/2 or p38 MAPK signaling, and that Egr-1 can act as an intrinsic negative modulator of maturation in primary DCs.
+2	53	62 migratory	Phenotype	HP_0025279
+2	523	536 intracellular	Gene_function	GO_0005622
+2	590	594 MAPK	Gene_function	GO_0004707
+2	HP-GO	HP_0025279	GO_0005622
+2	HP-GO	HP_0025279	GO_0004707
+

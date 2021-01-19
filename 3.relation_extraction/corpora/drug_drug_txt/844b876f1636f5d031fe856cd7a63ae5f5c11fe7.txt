@@ -1,0 +1,42 @@
+0|chunk|Proteome Science The impact of surfactant protein-A on ozone-induced changes in the mouse bronchoalveolar lavage proteome
+0	31	41 surfactant	Chemical	CHEBI_35195
+
+1|chunk|Background: Ozone is a major component of air pollution. Exposure to this powerful oxidizing agent can cause or exacerbate many lung conditions, especially those involving innate immunity. Surfactant protein-A (SP-A) plays many roles in innate immunity by participating directly in host defense as it exerts opsonin function, or indirectly via its ability to regulate alveolar macrophages and other innate immune cells. The mechanism(s) responsible for ozone-induced pathophysiology, while likely related to oxidative stress, are not well understood.
+1	12	17 Ozone	Chemical	CHEBI_25812
+1	83	98 oxidizing agent	Chemical	CHEBI_63248
+1	189	199 Surfactant	Chemical	CHEBI_35195
+1	CHEBI-CHEBI	CHEBI_25812	CHEBI_63248
+1	CHEBI-CHEBI	CHEBI_25812	CHEBI_35195
+1	CHEBI-CHEBI	CHEBI_63248	CHEBI_35195
+
+2|chunk|We employed 2-dimensional difference gel electrophoresis (2D-DIGE), a discovery proteomics approach, coupled with MALDI-ToF/ToF to compare the bronchoalveolar lavage (BAL) proteomes in wild type (WT) and SP-A knockout (KO) mice and to assess the impact of ozone or filtered air on the expression of BAL proteins. Using the PANTHER database and the published literature most identified proteins were placed into three functional groups.
+2	167	170 BAL	Chemical	CHEBI_64198
+2	256	261 ozone	Chemical	CHEBI_25812
+2	299	302 BAL	Chemical	CHEBI_64198
+2	303	311 proteins	Chemical	CHEBI_36080
+2	385	393 proteins	Chemical	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_64198	CHEBI_25812
+2	CHEBI-CHEBI	CHEBI_64198	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_25812	CHEBI_36080
+
+3|chunk|We identified 66 proteins and focused our analysis on these proteins. Many of them fell into three categories: defense and immunity; redox regulation; and protein metabolism, modification and chaperones. In response to the oxidative stress of acute ozone exposure (2 ppm; 3 hours) there were many significant changes in levels of expression of proteins in these groups. Most of the proteins in the redox group were decreased, the proteins involved in protein metabolism increased, and roughly equal numbers of increases and decreases were seen in the defense and immunity group. Responses between WT and KO mice were similar in many respects. However, the percent change was consistently greater in the KO mice and there were more changes that achieved statistical significance in the KO mice, with levels of expression in filtered airexposed KO mice being closer to ozone-exposed WT mice than to filtered air-exposed WT mice.
+3	17	25 proteins	Chemical	CHEBI_36080
+3	60	68 proteins	Chemical	CHEBI_36080
+3	155	162 protein	Chemical	CHEBI_16541
+3	249	254 ozone	Chemical	CHEBI_25812
+3	344	352 proteins	Chemical	CHEBI_36080
+3	382	390 proteins	Chemical	CHEBI_36080
+3	430	438 proteins	Chemical	CHEBI_36080
+3	451	458 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_25812
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_25812
+
+4|chunk|We postulate that SP-A plays a role in reactive oxidant scavenging in WT mice and that its absence in the KO mice in the presence or absence of ozone exposure results in more pronounced, and presumably chronic, oxidative stress.
+4	31	35 role	Chemical	CHEBI_50906
+4	48	55 oxidant	Chemical	CHEBI_63248
+4	144	149 ozone	Chemical	CHEBI_25812
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_63248
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_25812
+4	CHEBI-CHEBI	CHEBI_63248	CHEBI_25812
+

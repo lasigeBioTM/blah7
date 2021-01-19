@@ -1,0 +1,44 @@
+0|chunk|In Silico Perspectives on the Prediction of the PLP's Epitopes involved in Multiple Sclerosis
+0	75	93 Multiple Sclerosis	Disease	DOID_2377
+
+1|chunk|Background: Multiple sclerosis (MS) is the most common autoimmune disease of the central nervous system (CNS). The main cause of the MS is yet to be revealed, but the most probable theory is based on the molecular mimicry that concludes some infections in the activation of T cells against brain auto-antigens that initiate the disease cascade. Objectives: The Purpose of this research is the prediction of the auto-antigen potency of the myelin proteolipid protein (PLP) in multiple sclerosis. Materials and Methods: As there wasn't any tertiary structure of PLP available in the Protein Data Bank (PDB) and in order to characterize the structural properties of the protein, we modeled this protein using prediction servers. Meta prediction method, as a new perspective in silico, was performed to fi nd PLPs epitopes. For this purpose, several T cell epitope prediction web servers were used to predict PLPs epitopes against Human Leukocyte Antigens (HLA). The overlap regions, as were predicted by most web servers were selected as immunogenic epitopes and were subjected to the BLASTP against microorganisms. Results: Three common regions, AA 58-74 , AA 161-177, and AA 238-254 were detected as immunodominant regions through meta-prediction. Investigating peptides with more than 50% similarity to that of candidate epitope AA 58-74 in bacteria showed a similar peptide in bacteria (mainly consistent with that of clostridium and mycobacterium) and spike protein of Alphacoronavirus 1, Canine coronavirus, and Feline coronavirus. These results suggest that cross reaction of the immune system to PLP may have originated from a bacteria or viral infection, and therefore molecular mimicry might have an important role in the progression of MS. Conclusions: Through reliable and accurate prediction of the consensus epitopes, it is not necessary to synthesize all PLP fragments and examine their immunogenicity experimentally (in vitro). In this study, the best encephalitogenic antigens were predicted based on bioinformatics tools that may provide reliable results for researches in a shorter time and at a lower cost.
+1	12	30 Multiple sclerosis	Disease	DOID_2377
+1	55	73 autoimmune disease	Disease	DOID_417
+1	66	73 disease	Disease	DOID_4
+1	328	335 disease	Disease	DOID_4
+1	458	465 protein	Chemical	CHEBI_16541
+1	467	470 PLP	Chemical	CHEBI_18405
+1	475	493 multiple sclerosis	Disease	DOID_2377
+1	560	563 PLP	Chemical	CHEBI_18405
+1	581	588 Protein	Chemical	CHEBI_16541
+1	667	674 protein	Chemical	CHEBI_16541
+1	692	699 protein	Chemical	CHEBI_16541
+1	853	860 epitope	Chemical	CHEBI_53000
+1	943	951 Antigens	Chemical	CHEBI_59132
+1	1261	1269 peptides	Chemical	CHEBI_16670
+1	1321	1328 epitope	Chemical	CHEBI_53000
+1	1367	1374 peptide	Chemical	CHEBI_16670
+1	1460	1467 protein	Chemical	CHEBI_16541
+1	1601	1604 PLP	Chemical	CHEBI_18405
+1	1717	1721 role	Chemical	CHEBI_50906
+1	1867	1870 PLP	Chemical	CHEBI_18405
+1	1982	1990 antigens	Chemical	CHEBI_59132
+1	DOID-CHEBI	DOID_2377	CHEBI_16541
+1	DOID-CHEBI	DOID_2377	CHEBI_18405
+1	DOID-CHEBI	DOID_2377	CHEBI_53000
+1	DOID-CHEBI	DOID_2377	CHEBI_59132
+1	DOID-CHEBI	DOID_2377	CHEBI_16670
+1	DOID-CHEBI	DOID_2377	CHEBI_50906
+1	DOID-CHEBI	DOID_417	CHEBI_16541
+1	DOID-CHEBI	DOID_417	CHEBI_18405
+1	DOID-CHEBI	DOID_417	CHEBI_53000
+1	DOID-CHEBI	DOID_417	CHEBI_59132
+1	DOID-CHEBI	DOID_417	CHEBI_16670
+1	DOID-CHEBI	DOID_417	CHEBI_50906
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_18405
+1	DOID-CHEBI	DOID_4	CHEBI_53000
+1	DOID-CHEBI	DOID_4	CHEBI_59132
+1	DOID-CHEBI	DOID_4	CHEBI_16670
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+

@@ -1,0 +1,44 @@
+0|chunk|Detection of airborne viruses using electro-aerodynamic deposition and a field-effect transistor OPEN
+
+1|chunk|We report a technique for the detection of aerosolized viruses. Conventional field-effect-transistor (FET)-based techniques use solution-based processes, thus require antibody binding to the detection region of the FET prior to the supply of the analyte. With the method described here, virus-antibodybound particles are delivered to the FET during detection; therefore, neither a pre-treatment antibody binding step on the FET channel nor washing process for virus-antibody-binding are necessary. Our method is based on the concept that virus-antibody-bound particles are larger than the virus or antibody alone, and thus have larger charge numbers following aerosol charging. When these particles are charged by negative ions and electro-aerodynamically deposited on a substrate, there exists a location on the substrate where neither lone virus nor antibody particles land, and where only virus-antibody-bound particles are deposited. If this location coincides with the channel of the FET, the resulting variation in the current can be used to indicate the existence of a virus. By aerosolizing a mixed solution of the virus and the antibody, only the virus-antibody-bound particles were transported to the swCNT-FET, and the electric current in the swCNT-FET decreased to 30% of that measured with no deposited particles.
+1	723	727 ions	Chemical	CHEBI_24870
+1	1107	1115 solution	Chemical	CHEBI_75958
+
+2|chunk|Viruses are among the most important causes of human disease 1-4 and present a growing concern as potential agents for biological warfare and terrorism 4,5 . Rapid, selective and sensitive detection of viruses is central to implementing an effective response to viral infections, such as through medication or quarantine. Established methods for viral analysis include plaque assays, immunological assays, transmission electron microscopy, and polymerase chain reaction (PCR) testing for viral nucleic acids 3,6,7 . These methods, however, cannot achieve rapid detection of a single virus; moreover, they often require a relatively high level of sample manipulation, which is inconvenient with infectious materials. Nevertheless, the ability to rapidly, directly and selectively detect individual virus particles would have a marked impact on healthcare by enabling diagnosis at the earliest stages of replication within a host system. Exposure to biological aerosols (bioaerosols), such as those from H1N1 influenza, severe acute respiratory syndrome (SARS) 8 , bird flu 9 and bioterrorism attacks 10 , has resulted in huge human and economic costs. Furthermore, the sustained growth in international travel increases the risk that an infectious disease may develop into a pandemic. These threats necessitate real-time bioaerosol sensing systems; however, development of such systems remains a challenge. Technologies including bioaerosol mass spectrometry (BAMS) 11 , surface-enhanced Raman spectroscopy (SERS) 12 and flow cytometry with fluorochrome 13 have been developed to detect bioaerosols. Fluorescence-based instruments, such as the ultraviolet aerodynamic particle sizer (UVAPS) 14,15 , BioTrak  16 , and fluorescent microscopy with an inertial impactor 17 can optically measure concentrations of total and/or viable particles in real-time. However, these techniques are not capable of species-level discrimination and/or produce high false-positive rates 18 . Surface plasmon resonance and Mie scattering with aerosol sampling have been also
+2	53	60 disease	Disease	DOID_4
+2	419	427 electron	Chemical	CHEBI_10545
+2	494	507 nucleic acids	Chemical	CHEBI_33696
+2	502	507 acids	Chemical	CHEBI_37527
+2	1018	1051 severe acute respiratory syndrome	Disease	DOID_2945
+2	1043	1051 syndrome	Disease	DOID_225
+2	1053	1057 SARS	Disease	DOID_2945
+2	1063	1071 bird flu	Disease	DOID_4492
+2	1068	1071 flu	Disease	DOID_8469
+2	1236	1254 infectious disease	Disease	DOID_0050117
+2	1247	1254 disease	Disease	DOID_4
+2	1540	1552 fluorochrome	Chemical	CHEBI_51217
+2	DOID-CHEBI	DOID_4	CHEBI_10545
+2	DOID-CHEBI	DOID_4	CHEBI_33696
+2	DOID-CHEBI	DOID_4	CHEBI_37527
+2	DOID-CHEBI	DOID_4	CHEBI_51217
+2	CHEBI-DOID	CHEBI_10545	DOID_2945
+2	CHEBI-DOID	CHEBI_10545	DOID_225
+2	CHEBI-DOID	CHEBI_10545	DOID_4492
+2	CHEBI-DOID	CHEBI_10545	DOID_8469
+2	CHEBI-DOID	CHEBI_10545	DOID_0050117
+2	CHEBI-DOID	CHEBI_33696	DOID_2945
+2	CHEBI-DOID	CHEBI_33696	DOID_225
+2	CHEBI-DOID	CHEBI_33696	DOID_4492
+2	CHEBI-DOID	CHEBI_33696	DOID_8469
+2	CHEBI-DOID	CHEBI_33696	DOID_0050117
+2	CHEBI-DOID	CHEBI_37527	DOID_2945
+2	CHEBI-DOID	CHEBI_37527	DOID_225
+2	CHEBI-DOID	CHEBI_37527	DOID_4492
+2	CHEBI-DOID	CHEBI_37527	DOID_8469
+2	CHEBI-DOID	CHEBI_37527	DOID_0050117
+2	DOID-CHEBI	DOID_2945	CHEBI_51217
+2	DOID-CHEBI	DOID_225	CHEBI_51217
+2	DOID-CHEBI	DOID_4492	CHEBI_51217
+2	DOID-CHEBI	DOID_8469	CHEBI_51217
+2	DOID-CHEBI	DOID_0050117	CHEBI_51217
+

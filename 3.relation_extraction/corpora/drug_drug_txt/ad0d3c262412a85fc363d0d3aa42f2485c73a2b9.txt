@@ -1,0 +1,40 @@
+0|chunk|Alignment-free method for DNA sequence clustering using Fuzzy integral similarity
+0	26	29 DNA	Chemical	CHEBI_16991
+
+1|chunk|A larger amount of sequence data in private and public databases produced by next-generation sequencing put new challenges due to limitation associated with the alignment-based method for sequence comparison. so, there is a high need for faster sequence analysis algorithms. In this study, we developed an alignment-free algorithm for faster sequence analysis. the novelty of our approach is the inclusion of fuzzy integral with Markov chain for sequence analysis in the alignment-free model. the method estimate the parameters of a Markov chain by considering the frequencies of occurrence of all possible nucleotide pairs from each DNA sequence. these estimated Markov chain parameters were used to calculate similarity among all pairwise combinations of DNA sequences based on a fuzzy integral algorithm. this matrix is used as an input for the neighbor program in the pHYLIp package for phylogenetic tree construction. our method was tested on eight benchmark datasets and on inhouse generated datasets (18 s rDNA sequences from 11 arbuscular mycorrhizal fungi (AMF) and 16 s rDNA sequences of 40 bacterial isolates from plant interior). The results indicate that the fuzzy integral algorithm is an efficient and feasible alignment-free method for sequence analysis on the genomic scale.
+1	607	617 nucleotide	Chemical	CHEBI_36976
+1	634	637 DNA	Chemical	CHEBI_16991
+1	757	760 DNA	Chemical	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_16991
+
+2|chunk|Phylogenetic tree analysis and comparative studies of taxa are essential parts of modern molecular biology. Phylogenetic reconstruction and comparative sequence analysis traditionally depend on multiple or pairwise sequence alignments. However, various limitations are encountered when analyzing large datasets using an alignment based approach. Whole genome alignment of higher eukaryotes can exceed computational resources. Moreover, factors such as the combinatorics of genomic rearrangements and duplications make the alignment of entire genomes impossible. Therefore, the alignable homologous segments of the genomes under study have to be identified in the initial steps. Recently, large amounts of sequence data produced by next-generation sequencing techniques have become available in private and public databases, which has created new challenges due to the limitations associated with alignment based approaches. This plethora of sequence information increases the computation and time requirements for genome comparisons in computational biology. Therefore, there is a high need for faster sequence analysis algorithms. For this, various methods have been proposed to overcome the limitations of alignment based approach 1-3 , and is termed as alignment-free methods. The alignment-free methods are not only used in phylogenetic studies 4,5 , but also for metagenomics 6-11 , analysis of regulatory elements 12-14 , protein classification 15,16 , sequence assembly 17 , isoform quantification from transcriptome data 18 , and to identify biomarkers in diagnostic tests 19 . The alignment-free methods fall into two broad categories: methods based on k-mer or word frequency, and methods based on match length 20 . Methods based on k-mer or word frequency are quite popular and studied extensively. The k-mer based methods were developed to compare DNA sequences, in which it counts the frequencies of substrings with k letters occurring in respective sequences 21 . In recent past, a lot of k-mer based methods have been proposed and implemented in sequence analysis and phylogeny, such as, feature frequency profile (FFP) 22 , return time distribution (RTD) 23 , frequency chaos game representation (FCGR) 24 , an improved complete composition vector method (ICCV) 25 , composition vector (CV) 26 and complete composition vector (CCV) 27 . For sequence comparison, ICCV method is more efficient and robust compared to CV and CCV methods. The other category of the alignment-free method is based on match lengths, where it employs the similarity of substrings between two sequences 28-31 . Examples of match length methods are, k-mismatch average common substring 32 , average common substring 28 , K r -method 28 , etc. These methods are commonly used for string processing in computer science. In this study, we propose to use fuzzy integral 33 to analyze DNA sequences based on a Markov chain 34 , which can be categorised as k-mer or word frequency method. The fuzzy integral similarity method 35,36 assigns a similarity score between two DNA sequences based on the estimated parameters of a Markov chain. A DNA sequence consists of four characters (A, T, G and C). By taking the state space as S = {A, T, G, C}, we used the k-th step transition probability matrix, a fuzzy measure 37 and fuzzy integral to describe the DNA sequences. We used the fuzzy integral similarity to obtain a distance matrix, which was used in the neighbor program in the PHYLIP package 38 to construct a phylogenetic tree. The similar fuzzy integral similarity approach was taken by 36 . However in 36 , the method of feature vector extraction from the DNA sequences is different from our method. In both our method and 36 , the extracted features are used as an input for the fuzzy integral similarity analysis. The proposed method is tested on 18S rDNA sequences from 11 Arbuscular mycorrhizal fungi isolates and 16S rDNA sequences from 40 bacterial isolates, and also tested on the following benchmark datasets, 41 mammalian mitochondrial genomes, 59 ebolavirus complete genomes, 30 coronavirus whole genomes, 30 bacterial whole genomes, 48 Hepatitis E virus (HEV) whole genomes, 24 Eutherian mammals sequences, 58 genome datasets from different species and 29 Escherichia/Shigella complete genomes. The method was also tested on large mammalian dataset. In addition, we used receiver operating characteristic (ROC) 39-41 curve for measuring the performance of our method to compare the other alignment-free methods from Alfree repository 2 . The consistency can also be seen from the statistical analysis such as AUC (area under the ROC) values, calculated from ROC curves provided in Supplementary Material.
+2	390	393 can	Chemical	CHEBI_29320
+2	830	833 has	Chemical	CHEBI_73878
+2	1411	1419 elements	Chemical	CHEBI_33250
+2	1428	1435 protein	Chemical	CHEBI_16541
+2	1860	1863 DNA	Chemical	CHEBI_16991
+2	2870	2873 DNA	Chemical	CHEBI_16991
+2	2919	2922 can	Chemical	CHEBI_29320
+2	3055	3058 DNA	Chemical	CHEBI_16991
+2	3124	3127 DNA	Chemical	CHEBI_16991
+2	3178	3181 Caa	Chemical	CHEBI_27869
+2	3225	3228 Caa	Chemical	CHEBI_27869
+2	3336	3339 DNA	Chemical	CHEBI_16991
+2	3646	3649 DNA	Chemical	CHEBI_16991
+2	4555	4558 can	Chemical	CHEBI_29320
+2	CHEBI-CHEBI	CHEBI_29320	CHEBI_73878
+2	CHEBI-CHEBI	CHEBI_29320	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_29320	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_29320	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_29320	CHEBI_27869
+2	CHEBI-CHEBI	CHEBI_73878	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_73878	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_73878	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_73878	CHEBI_27869
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_33250	CHEBI_27869
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_16991
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_27869
+2	CHEBI-CHEBI	CHEBI_16991	CHEBI_27869
+

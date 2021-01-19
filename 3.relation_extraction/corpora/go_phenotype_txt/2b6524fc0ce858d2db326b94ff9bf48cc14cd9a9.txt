@@ -1,0 +1,20 @@
+0|chunk|The c-Terminal effector Domain of non-structural Protein 1 of influenza a Virus Blocks iFn- Production by Targeting TnF receptor-associated Factor 3
+
+1|chunk|Influenza A virus non-structural protein 1 (NS1) antagonizes interferon response through diverse strategies, particularly by inhibiting the activation of interferon regulatory factor 3 (IRF3) and IFN- transcription. However, the underlying mechanisms used by the NS1 C-terminal effector domain (ED) to inhibit the activation of IFN- pathway are not well understood. In this study, we used influenza virus subtype of H5N1 to demonstrate that the NS1 C-terminal ED but not the N-terminal RNA-binding domain, binds TNF receptor-associated factor 3 (TRAF3). This results in an attenuation of the type I IFN signaling pathway. We found that the NS1 C-terminal ED (named NS1/126-225) inhibits the active caspase activation and recruitment domain-containing form of RIG-I [RIG-I(N)]-induced IFN- reporter activity, the phosphorylation of IRF3, and the induction of IFN-. Further analysis showed that NS1/126-225 binds to TRAF3 through the TRAF domain, subsequently decreasing TRAF3 K63-linked ubiquitination. NS1/126-225 binding also disrupted the formation of the mitochondrial antiviral signaling (MAVS)-TRAF3 complex, increasing the recruitment of IKK to MAVS; ultimately shutting down the RIG-I(N)-mediated signal transduction and cellular antiviral responses. This attenuation of cellular antiviral responses leads to evasion of the innate immune response. Taken together, our findings offer an important insight into the interplay between the influenza virus and host innate immunity.
+1	605	614 signaling	Gene_function	GO_0023052
+1	700	718 caspase activation	Gene_function	GO_0006919
+1	815	830 phosphorylation	Gene_function	GO_0016310
+1	1018	1025 binding	Gene_function	GO_0005488
+1	1062	1075 mitochondrial	Phenotype	HP_0001427
+1	1086	1095 signaling	Gene_function	GO_0023052
+1	1209	1228 signal transduction	Gene_function	GO_0007165
+1	1216	1228 transduction	Gene_function	GO_0009293
+1	1336	1358 innate immune response	Gene_function	GO_0045087
+1	GO-HP	GO_0023052	HP_0001427
+1	GO-HP	GO_0006919	HP_0001427
+1	GO-HP	GO_0016310	HP_0001427
+1	GO-HP	GO_0005488	HP_0001427
+1	HP-GO	HP_0001427	GO_0007165
+1	HP-GO	HP_0001427	GO_0009293
+1	HP-GO	HP_0001427	GO_0045087
+

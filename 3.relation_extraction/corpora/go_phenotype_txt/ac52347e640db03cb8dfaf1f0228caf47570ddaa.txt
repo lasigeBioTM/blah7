@@ -1,0 +1,24 @@
+0|chunk|Patient-Based Transcriptome-Wide Analysis Identify Interferon and Ubiquination Pathways as Potential Predictors of Influenza A Disease Severity
+0	135	143 Severity	Phenotype	HP_0012824
+
+1|chunk|Background: The influenza A virus is an RNA virus that is responsible for seasonal epidemics worldwide with up to five million cases of severe illness and 500,000 deaths annually according to the World Health Organization estimates. The factors associated with severe diseases are not well defined, but more severe disease is more often seen among persons aged .65 years, infants, pregnant women, and individuals of any age with underlying health conditions. Methodology/Principal Findings: Using gene expression microarrays, the transcriptomic profiles of influenza-infected patients with severe (N = 11), moderate (N = 40) and mild (N = 83) symptoms were compared with the febrile patients of unknown etiology (N = 73). We found that influenza-infected patients, regardless of their clinical outcomes, had a stronger induction of antiviral and cytokine responses and a stronger attenuation of NK and T cell responses in comparison with those with unknown etiology. More importantly, we found that both interferon and ubiquitination signaling were strongly attenuated in patients with the most severe outcomes in comparison with those with moderate and mild outcomes, suggesting the protective roles of these pathways in disease pathogenesis.
+1	136	142 severe	Phenotype	HP_0012828
+1	261	267 severe	Phenotype	HP_0012828
+1	308	314 severe	Phenotype	HP_0012828
+1	497	512 gene expression	Gene_function	GO_0010467
+1	590	596 severe	Phenotype	HP_0012828
+1	607	615 moderate	Phenotype	HP_0012826
+1	629	633 mild	Phenotype	HP_0012825
+1	1034	1043 signaling	Gene_function	GO_0023052
+1	1095	1101 severe	Phenotype	HP_0012828
+1	1141	1149 moderate	Phenotype	HP_0012826
+1	1154	1158 mild	Phenotype	HP_0012825
+1	HP-GO	HP_0012828	GO_0010467
+1	HP-GO	HP_0012828	GO_0023052
+1	GO-HP	GO_0010467	HP_0012826
+1	GO-HP	GO_0010467	HP_0012825
+1	HP-GO	HP_0012826	GO_0023052
+1	HP-GO	HP_0012825	GO_0023052
+
+2|chunk|Conclusion/Significances: The attenuation of interferon and ubiquitination pathways may associate with the clinical outcomes of influenza patients.
+

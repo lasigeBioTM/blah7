@@ -1,0 +1,28 @@
+0|chunk|Multi-Organ Damage in Human Dipeptidyl Peptidase 4 Transgenic Mice Infected with Middle East Respiratory Syndrome-Coronavirus
+
+1|chunk|The Middle East Respiratory Syndrome Coronavirus (MERS-CoV) causes severe acute respiratory failure and considerable extrapumonary organ dysfuction with substantial high mortality. For the limited number of autopsy reports, small animal models are urgently needed to study the mechanisms of MERS-CoV infection and pathogenesis of the disease and to evaluate the efficacy of therapeutics against MERS-CoV infection. In this study, we developed a transgenic mouse model globally expressing codon-optimized human dipeptidyl peptidase 4 (hDPP4), the receptor for MERS-CoV. After intranasal inoculation with MERS-CoV, the mice rapidly developed severe pneumonia and multi-organ damage, with viral replication being detected in the lungs on day 5 and in the lungs, kidneys and brains on day 9 post-infection. In addition, the mice exhibited systemic inflammation with mild to severe pneumonia accompanied by the injury of liver, kidney and spleen with neutrophil and macrophage infiltration. Importantly, the mice exhibited symptoms of paralysis with high viral burden and viral positive neurons on day 9. Taken together, this study characterizes the tropism of MERS-CoV upon infection. Importantly, this hDPP4-expressing transgenic mouse model will be applicable for studying the pathogenesis of MERS-CoV infection and investigating the efficacy of vaccines and antiviral agents designed to combat MERS-CoV infection.
+1	67	73 severe	Phenotype	HP_0012828
+1	74	79 acute	Phenotype	HP_0011009
+1	80	99 respiratory failure	Phenotype	HP_0002878
+1	314	326 pathogenesis	Gene_function	GO_0009405
+1	640	646 severe	Phenotype	HP_0012828
+1	647	656 pneumonia	Phenotype	HP_0002090
+1	862	866 mild	Phenotype	HP_0012825
+1	870	876 severe	Phenotype	HP_0012828
+1	877	886 pneumonia	Phenotype	HP_0002090
+1	1030	1039 paralysis	Phenotype	HP_0003470
+1	1145	1152 tropism	Gene_function	GO_0009606
+1	1275	1287 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0012828	GO_0009606
+1	HP-GO	HP_0011009	GO_0009405
+1	HP-GO	HP_0011009	GO_0009606
+1	HP-GO	HP_0002878	GO_0009405
+1	HP-GO	HP_0002878	GO_0009606
+1	GO-HP	GO_0009405	HP_0002090
+1	GO-HP	GO_0009405	HP_0012825
+1	GO-HP	GO_0009405	HP_0003470
+1	HP-GO	HP_0002090	GO_0009606
+1	HP-GO	HP_0012825	GO_0009606
+1	HP-GO	HP_0003470	GO_0009606
+

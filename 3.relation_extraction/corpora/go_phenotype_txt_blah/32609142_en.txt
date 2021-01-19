@@ -1,0 +1,22 @@
+0|chunk|Suspected COVID-19 case definition: a narrative review of the most frequent signs and symptoms among confirmed cases.
+0	67	75 frequent	Phenotype	HP_0040282
+
+1|chunk|to describe the most frequent signs and symptoms of infection by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).this is a narrative literature review carried out in April 2020; the search was performed on electronic databases and complemented with a manual review of the references of the selected papers and Brazilian Ministry of Health publications.the spectrum of clinical disease was wide; fever, coughing and dyspnea were the most frequent signs/symptoms, however, they may not be present, thus hindering case definition; gastrointestinal symptoms and loss of taste or smell have been reported among mild cases; dyspnea was frequent among severe and fatal cases.considering the scarcity of diagnostic tests and the diversity of symptoms, health services should use a sensitive case definition, in order to adopt appropriate surveillance, prevention and treatment actions.
+1	21	29 frequent	Phenotype	HP_0040282
+1	65	71 severe	Phenotype	HP_0012828
+1	72	77 acute	Phenotype	HP_0011009
+1	415	423 coughing	Phenotype	HP_0012735
+1	428	435 dyspnea	Phenotype	HP_0002094
+1	450	458 frequent	Phenotype	HP_0040282
+1	579	584 taste	Gene_function	GO_0050909
+1	619	623 mild	Phenotype	HP_0012825
+1	631	638 dyspnea	Phenotype	HP_0002094
+1	643	651 frequent	Phenotype	HP_0040282
+1	658	664 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0040282	GO_0050909
+1	HP-GO	HP_0012828	GO_0050909
+1	HP-GO	HP_0011009	GO_0050909
+1	HP-GO	HP_0012735	GO_0050909
+1	HP-GO	HP_0002094	GO_0050909
+1	GO-HP	GO_0050909	HP_0012825
+

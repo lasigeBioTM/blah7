@@ -1,0 +1,48 @@
+0|chunk|Redox Biology of Respiratory Viral Infections
+
+1|chunk|Respiratory viruses cause infections of the upper or lower respiratory tract and they are responsible for the common cold-the most prevalent disease in the world. In many cases the common cold results in severe illness due to complications, such as fever or pneumonia. Children, old people, and immunosuppressed patients are at the highest risk and require fast diagnosis and therapeutic intervention. However, the availability and efficiencies of existing therapeutic approaches vary depending on the virus. Investigation of the pathologies that are associated with infection by respiratory viruses will be paramount for diagnosis, treatment modalities, and the development of new therapies. Changes in redox homeostasis in infected cells are one of the key events that is linked to infection with respiratory viruses and linked to inflammation and subsequent tissue damage. Our review summarizes current knowledge on changes to redox homeostasis, as induced by the different respiratory viruses.
+1	204	210 severe	Phenotype	HP_0012828
+1	249	254 fever	Phenotype	HP_0001945
+1	357	361 fast	Gene_function	GO_0033867
+1	710	721 homeostasis	Gene_function	GO_0042592
+1	936	947 homeostasis	Gene_function	GO_0042592
+1	HP-GO	HP_0012828	GO_0033867
+1	HP-GO	HP_0012828	GO_0042592
+1	HP-GO	HP_0001945	GO_0033867
+1	HP-GO	HP_0001945	GO_0042592
+
+2|chunk|Viruses 2018, 10, 392 2 of 27 scavenging enzymes and pathways are described further below and in the following comprehensive reviews [7, 8] .
+
+3|chunk|Markers of redox misbalance in blood and tissues are often taken into account in the pathology of various diseases. Chronic viral hepatitis B and C are generally associated with oxidative stress, and levels of ROS and oxidized metabolites correlate with the severity of liver damage and with the risk of the development of related pathologies-fibrosis and hepatocellular carcinoma [9] . Moreover, currently redox biology pays much attention to localization of ROS sources, since local changes in ROS levels may influence signaling pathways by activating "redox switches" [10, 11] . In lungs, redox homeostasis is crucial in the pathology of asthma [12] . Lung infection with respiratory viruses is, in general, associated with cytokine production, inflammation, cell death, and other pathological processes, which could be triggered by enhanced ROS production. Investigation of the influence of these infections on ROS-producing and ROS-scavenging enzymes and systems may allow for the identification of those that are crucial for replication of the pathogens and occurrence of virus-associated disease. Our review aims to summarize the known data on the role of redox biology in the pathologies that are associated with infection with respiratory viruses.
+3	116	123 Chronic	Phenotype	HP_0011010
+3	124	139 viral hepatitis	Phenotype	HP_0006562
+3	130	139 hepatitis	Phenotype	HP_0012115
+3	258	266 severity	Phenotype	HP_0012824
+3	356	380 hepatocellular carcinoma	Phenotype	HP_0001402
+3	371	380 carcinoma	Phenotype	HP_0030731
+3	444	456 localization	Gene_function	GO_0051179
+3	521	530 signaling	Gene_function	GO_0023052
+3	598	609 homeostasis	Gene_function	GO_0042592
+3	641	647 asthma	Phenotype	HP_0002099
+3	HP-GO	HP_0011010	GO_0051179
+3	HP-GO	HP_0011010	GO_0023052
+3	HP-GO	HP_0011010	GO_0042592
+3	HP-GO	HP_0006562	GO_0051179
+3	HP-GO	HP_0006562	GO_0023052
+3	HP-GO	HP_0006562	GO_0042592
+3	HP-GO	HP_0012115	GO_0051179
+3	HP-GO	HP_0012115	GO_0023052
+3	HP-GO	HP_0012115	GO_0042592
+3	HP-GO	HP_0012824	GO_0051179
+3	HP-GO	HP_0012824	GO_0023052
+3	HP-GO	HP_0012824	GO_0042592
+3	HP-GO	HP_0001402	GO_0051179
+3	HP-GO	HP_0001402	GO_0023052
+3	HP-GO	HP_0001402	GO_0042592
+3	HP-GO	HP_0030731	GO_0051179
+3	HP-GO	HP_0030731	GO_0023052
+3	HP-GO	HP_0030731	GO_0042592
+3	GO-HP	GO_0051179	HP_0002099
+3	GO-HP	GO_0023052	HP_0002099
+3	GO-HP	GO_0042592	HP_0002099
+

@@ -1,0 +1,30 @@
+0|chunk|Identifying SARS-CoV Membrane Protein Amino Acid Residues Linked to Virus-Like Particle Assembly
+0	21	29 Membrane	Gene_function	GO_0016020
+0	68	87 Virus-Like Particle	Gene_function	GO_0000943
+
+1|chunk|Severe acute respiratory syndrome coronavirus (SARS-CoV) membrane (M) proteins are capable of self-assembly and release in the form of membrane-enveloped vesicles, and of forming virus-like particles (VLPs) when coexpressed with SARS-CoV nucleocapsid (N) protein. According to previous deletion analyses, M self-assembly involves multiple M sequence regions. To identify important M amino acid residues for VLP assembly, we coexpressed N with multiple M mutants containing substitution mutations at the amino-terminal ectodomain, carboxyl-terminal endodomain, or transmembrane segments.
+1	0	6 Severe	Phenotype	HP_0012828
+1	7	12 acute	Phenotype	HP_0011009
+1	57	65 membrane	Gene_function	GO_0016020
+1	238	250 nucleocapsid	Gene_function	GO_0019013
+1	407	410 VLP	Gene_function	GO_0000943
+1	563	576 transmembrane	Gene_function	GO_0016021
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0019013
+1	HP-GO	HP_0012828	GO_0000943
+1	HP-GO	HP_0012828	GO_0016021
+1	HP-GO	HP_0011009	GO_0016020
+1	HP-GO	HP_0011009	GO_0019013
+1	HP-GO	HP_0011009	GO_0000943
+1	HP-GO	HP_0011009	GO_0016021
+
+2|chunk|Our results indicate that a dileucine motif in the endodomain tail (218LL219) is required for efficient N packaging into VLPs. Results from cross-linking VLP analyses suggest that the cysteine residues 63, 85 and 158 are not in close proximity to the M dimer interface. We noted a significant reduction in M secretion due to serine replacement for C158, but not for C63 or C85. Further analysis suggests that C158 is involved in M-N interaction. In addition to mutations of the highly conserved 107-SWWSFNPE-114 motif, substitutions at codons W19, W57, P58, W91, Y94 or F95 all resulted in significantly reduced VLP yields, largely due to defective M secretion. VLP production was not significantly affected by a tryptophan replacement of Y94 or F95 or a phenylalanine replacement of W19, W57 or W91. Combined, these results indicate the involvement of specific M amino acids during SARS-CoV virus assembly, and suggest that aromatic residue retention at specific positions is critical for M function in terms of directing virus assembly.
+2	154	157 VLP	Gene_function	GO_0000943
+2	308	317 secretion	Gene_function	GO_0046903
+2	612	615 VLP	Gene_function	GO_0000943
+2	651	660 secretion	Gene_function	GO_0046903
+2	662	665 VLP	Gene_function	GO_0000943
+2	699	707 affected	Phenotype	HP_0032320
+2	GO-HP	GO_0000943	HP_0032320
+2	GO-HP	GO_0046903	HP_0032320
+

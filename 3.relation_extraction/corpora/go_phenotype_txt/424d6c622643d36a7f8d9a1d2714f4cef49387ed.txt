@@ -1,0 +1,25 @@
+0|chunk|,6-Penta-O-galloylglucose within Galla Chinensis Inhibits Human LDH-A and Attenuates Cell Proliferation in MDA-MB-231 Breast Cancer Cells
+0	85	103 Cell Proliferation	Gene_function	GO_0008283
+0	118	131 Breast Cancer	Phenotype	HP_0003002
+0	125	131 Cancer	Phenotype	HP_0002664
+0	GO-HP	GO_0008283	HP_0003002
+0	GO-HP	GO_0008283	HP_0002664
+
+1|chunk|A characteristic feature of aggressive malignancy is the overexpression of lactic acid dehydrogenase-(LDH-) A, concomitant to pericellular accumulation of lactate. In a recent high-throughput screening, we identified Rhus chinensis (Mill.) gallnut (RCG) (also known as Galla Chinensis) extract as a potent (IC 50 < 1 g/mL) inhibitor of human LDH-A (hLDH-A). In this study, through bioactivity guided fractionation of the crude extract, the data demonstrate that penta-1,2,3,4,6-O-galloyl--D-glucose (PGG) was a primary constituent responsible for hLDH-A inhibition, present at 9.95  0.34% dry weight. Theoretical molecular docking studies of hLDH-A indicate that PGG acts through competitive binding at the NADH cofactor site, effects confirmed by functional enzyme studies where the IC 50 = 27.32 nM was reversed with increasing concentration of NADH. Moreover, we confirm protein expression of hLDH-A in MDA-231 human breast carcinoma cells and show that PGG was toxic (LC 50 = 94.18 M), parallel to attenuated lactic acid production (IC 50 = 97.81 M). In a 72-hour cell proliferation assay, PGG was found to be a potent cytostatic agent with ability to halt cell division (IC 50 = 1.2 M) relative to paclitaxel (IC 50 < 100 nM). In summary, these findings demonstrate that PGG is a potent hLDH-A inhibitor with significant capacity to halt proliferation of human breast cancer cells.
+1	694	701 binding	Gene_function	GO_0005488
+1	922	938 breast carcinoma	Phenotype	HP_0003002
+1	929	938 carcinoma	Phenotype	HP_0030731
+1	1070	1088 cell proliferation	Gene_function	GO_0008283
+1	1163	1176 cell division	Gene_function	GO_0051301
+1	1368	1381 breast cancer	Phenotype	HP_0003002
+1	1375	1381 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0005488	HP_0003002
+1	GO-HP	GO_0005488	HP_0030731
+1	GO-HP	GO_0005488	HP_0002664
+1	HP-GO	HP_0003002	GO_0008283
+1	HP-GO	HP_0003002	GO_0051301
+1	HP-GO	HP_0030731	GO_0008283
+1	HP-GO	HP_0030731	GO_0051301
+1	GO-HP	GO_0008283	HP_0002664
+1	GO-HP	GO_0051301	HP_0002664
+

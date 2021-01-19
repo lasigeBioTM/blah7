@@ -1,0 +1,36 @@
+0|chunk|A Single Polar Residue and Distinct Membrane Topologies Impact the Function of the Infectious Bronchitis Coronavirus E Protein
+0	36	44 Membrane	Gene_function	GO_0016020
+0	94	104 Bronchitis	Phenotype	HP_0012387
+0	GO-HP	GO_0016020	HP_0012387
+
+1|chunk|The coronavirus E protein is a small membrane protein with a single predicted hydrophobic domain (HD), and has a poorly defined role in infection. The E protein is thought to promote virion assembly, which occurs in the Golgi region of infected cells. It has also been implicated in the release of infectious particles after budding. The E protein has ion channel activity in vitro, although a role for channel activity in infection has not been established. Furthermore, the membrane topology of the E protein is of considerable debate, and the protein may adopt more than one topology during infection. We previously showed that the HD of the infectious bronchitis virus (IBV) E protein is required for the efficient release of infectious virus, an activity that correlated with disruption of the secretory pathway. Here we report that a single residue within the hydrophobic domain, Thr16, is required for secretory pathway disruption. Substitutions of other residues for Thr16 were not tolerated. Mutations of Thr16 did not impact virus assembly as judged by virus-like particle production, suggesting that alteration of secretory pathway and assembly are independent activities. We also examined how the membrane topology of IBV E affected its function by generating mutant versions that adopted either a transmembrane or membrane hairpin topology. We found that a transmembrane topology was required for disrupting the secretory pathway, but was less efficient for virus-like particle production. The hairpin version of E was unable to disrupt the secretory pathway or produce particles. The findings reported here identify properties of the E protein that are important for its function, and provide insight into how the E protein may perform multiple roles during infection.
+1	37	45 membrane	Gene_function	GO_0016020
+1	183	189 virion	Gene_function	GO_0019012
+1	352	372 ion channel activity	Gene_function	GO_0005216
+1	356	372 channel activity	Gene_function	GO_0015267
+1	403	419 channel activity	Gene_function	GO_0015267
+1	476	484 membrane	Gene_function	GO_0016020
+1	656	666 bronchitis	Phenotype	HP_0012387
+1	1035	1049 virus assembly	Gene_function	GO_0019068
+1	1063	1082 virus-like particle	Gene_function	GO_0000943
+1	1209	1217 membrane	Gene_function	GO_0016020
+1	1236	1244 affected	Phenotype	HP_0032320
+1	1310	1323 transmembrane	Gene_function	GO_0016021
+1	1327	1335 membrane	Gene_function	GO_0016020
+1	1370	1383 transmembrane	Gene_function	GO_0016021
+1	1471	1490 virus-like particle	Gene_function	GO_0000943
+1	GO-HP	GO_0016020	HP_0012387
+1	GO-HP	GO_0016020	HP_0032320
+1	GO-HP	GO_0019012	HP_0012387
+1	GO-HP	GO_0019012	HP_0032320
+1	GO-HP	GO_0005216	HP_0012387
+1	GO-HP	GO_0005216	HP_0032320
+1	GO-HP	GO_0015267	HP_0012387
+1	GO-HP	GO_0015267	HP_0032320
+1	HP-GO	HP_0012387	GO_0019068
+1	HP-GO	HP_0012387	GO_0000943
+1	HP-GO	HP_0012387	GO_0016021
+1	GO-HP	GO_0019068	HP_0032320
+1	GO-HP	GO_0000943	HP_0032320
+1	HP-GO	HP_0032320	GO_0016021
+

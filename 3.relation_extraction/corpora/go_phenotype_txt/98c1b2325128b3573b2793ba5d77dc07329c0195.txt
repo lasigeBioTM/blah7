@@ -1,0 +1,14 @@
+0|chunk|Expression of the VP2 Protein of Murine Norovirus by a Translation Termination-Reinitiation Strategy
+0	55	66 Translation	Gene_function	GO_0006412
+
+1|chunk|Background: Expression of the minor virion structural protein VP2 of the calicivirus murine norovirus (MNV) is believed to occur by the unusual mechanism of termination codon-dependent reinitiation of translation. In this process, following translation of an upstream open reading frame (ORF) and termination at the stop codon, a proportion of 40S subunits remain associated with the mRNA and reinitiate at the AUG of a downstream ORF, which is typically in close proximity. Consistent with this, the VP2 start codon (AUG) of MNV overlaps the stop codon of the upstream VP1 ORF (UAA) in the pentanucleotide UAAUG.
+1	36	42 virion	Gene_function	GO_0019012
+1	201	212 translation	Gene_function	GO_0006412
+1	241	252 translation	Gene_function	GO_0006412
+
+2|chunk|Principal Findings: Here, we confirm that MNV VP2 expression is regulated by termination-reinitiation and define the mRNA sequence requirements. Efficient reintiation is dependent upon 43 nt of RNA immediately upstream of the UAAUG site. Chemical and enzymatic probing revealed that the RNA in this region is not highly structured and includes an essential stretch of bases complementary to 18S rRNA helix 26 (Motif 1). The relative position of Motif 1 with respect to the UAAUG site impacts upon the efficiency of the process. Termination-reinitiation in MNV was also found to be relatively insensitive to the initiation inhibitor edeine.
+2	433	441 position	Phenotype	HP_0012830
+
+3|chunk|The termination-reinitiation signal of MNV most closely resembles that of influenza BM2. Similar to other viruses that use this strategy, base-pairing between mRNA and rRNA is likely to play a role in tethering the 40S subunit to the mRNA following termination at the VP1 stop codon. Our data also indicate that accurate recognition of the VP2 ORF AUG is not a pre-requisite for efficient reinitiation of translation in this system.
+3	405	416 translation	Gene_function	GO_0006412
+

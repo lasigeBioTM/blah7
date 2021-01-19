@@ -1,0 +1,22 @@
+0|chunk|Characterization of peritoneal cells from cats with experimentally-induced feline infectious peritonitis (FIP) using RNA-seq
+0	93	104 peritonitis	Phenotype	HP_0002586
+
+1|chunk|Laboratory cats were infected with a serotype I cat-passaged field strain of FIP virus (FIPV) and peritoneal cells harvested 2-3 weeks later at onset of lymphopenia, fever and serositis. Comparison peritoneal cells were collected from four healthy laboratory cats by peritoneal lavage and macrophages predominated in both populations. Differential mRNA expression analysis identified 5621 genes as deregulated in peritoneal cells from FIPV infected versus normal cats; 956 genes showed > 2.0 Log 2 Fold Change (Log 2 FC) and 1589 genes showed < 2.0 Log 2 FC. Eighteen significantly upregulated pathways were identified by InnateDB enrichment analysis. These pathways involved apoptosis, cytokine-cytokine receptor interaction, pathogen recognition, Jak-STAT signaling, NK cell mediated cytotoxicity, several chronic infectious diseases, graft versus host disease, allograft rejection and certain autoimmune disorders. Infected peritoneal macrophages were activated M1 type based on pattern of RNA expression. Apoptosis was found to involve large virus-laden peritoneal macrophages more than less mature macrophages, suggesting that macrophage death played a role in virus dissemination. Gene transcripts for MHC I but not II receptors were upregulated, while mRNA for receptors commonly associated with virus attachment and identified in other coronaviruses were either not detected (APN, L-SIGN), not deregulated (DDP-4) or down-regulated (DC-SIGN). However, the mRNA for FcRIIIA (CD16A/ADCC receptor) was significantly upregulated, supporting entry of virus as an immune complex. Analysis of KEGG associated gene transcripts indicated that Th1 polarization overshadowed Th2 polarization, but the addition of relevant B cell associated genes previously linked to FIP macrophages tended to alter this perception.
+1	144	149 onset	Phenotype	HP_0003674
+1	166	171 fever	Phenotype	HP_0001945
+1	240	247 healthy	Phenotype	HP_0032322
+1	770	799 NK cell mediated cytotoxicity	Gene_function	GO_0042267
+1	809	816 chronic	Phenotype	HP_0011010
+1	1723	1738 cell associated	Gene_function	GO_0009986
+1	HP-GO	HP_0003674	GO_0042267
+1	HP-GO	HP_0003674	GO_0009986
+1	HP-GO	HP_0001945	GO_0042267
+1	HP-GO	HP_0001945	GO_0009986
+1	HP-GO	HP_0032322	GO_0042267
+1	HP-GO	HP_0032322	GO_0009986
+1	GO-HP	GO_0042267	HP_0011010
+1	HP-GO	HP_0011010	GO_0009986
+
+2|chunk| The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creat iveco mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+2	229	241 reproduction	Gene_function	GO_0000003
+

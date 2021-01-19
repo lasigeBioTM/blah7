@@ -1,0 +1,18 @@
+0|chunk|
+
+1|chunk|Reviewer #1: Remarks to the Author: MERS/SARD are deadly coronaviruses and currently there are no antivirals or vaccines available. Thus the study here,iIdentification of a small lipid active molecule AM580 that has broad inhibitory activity against a variety of viruses whose replication is lipid dependent is an important and timely one. The effective dose of this small molecule appears to be well below the doses that are cytotoxic. In vivo data in mice are also quite promising. Collectively these are all exciting findings worthy of publication and further pursuit. One issue is whether the mechanism of action is really through SREBP: siRNA knockdown of SREBP1 or SREBp2 only show a log decrease in viral copy number whereas the infected mice treated with the molecule appear to be cured. Have the authors tried a double knock down of SREBP1 and SREBP2? or CRISPR ?
+
+2|chunk|Reviewer #2: Remarks to the Author: Summary: In this manuscript, the authors use transcriptomics and lipidomics of MERS-CoV infected cells to identify alterations in cellular lipid metabolism. They then screen a bioactive lipid library and identify a lipid (AM850) that has broad spectrum antiviral activity in vitro and in vivo. Characterization of this compound suggests that it targets nSREBP, a common node of viral infection. Docking and binding studies lend support for the AM850-SREBP interaction. This impacts lipid biosynthesis, and they show a role for inhibition of fatty acid synthesis (FAS) in particular.
+2	166	191 cellular lipid metabolism	Gene_function	GO_0044255
+2	443	450 binding	Gene_function	GO_0005488
+2	577	597 fatty acid synthesis	Gene_function	GO_0006633
+2	588	597 synthesis	Gene_function	GO_0009058
+
+3|chunk|I am generally supportive of this manuscript. Although the SREBP/FAS pathways have been implicated as both virally manipulated and a broad-spectrum drug target in previous studies, the identification of a bioactive lipid inhibitor with efficacy in vitro and in vivo plus a good selectivity index is quite interesting. Some experiments lack controls and many are over-interpreted. This needs to be addressed in revision. Specific points:
+
+4|chunk|1. As mentioned above, many studies have identified SREBP/FAS as virally manipulated and that inhibiting them inhibits viral replication (including some of the viruses in this study such as IAV and flaviviruses). These should be referenced and discussed. Fig. 1 transcriptomic/lipidomic analysis is that it is done in a cancer cell line that already has deregulated metabolism. This caveat needs to be mentioned.
+4	320	326 cancer	Phenotype	HP_0002664
+
+5|chunk|3. The abstract is misleading. It suggests that you used an unbiased Click approach to identify SREBP, when in fact you used a heavily biased candidate approach to investigate SREBP. The abstract needs to be edited for accuracy or better, perform the Click-MS proteomics approach to see what AM850 binds to in an unbiased fashion. 4. Fig. 3b,f differences are not overly impressive. Perform statistical analysis and indicate if there is a significant difference in the times prior to sacrifice. 5. Fig. 4A-D and Fig. 6E have issues with controls and interpretation. It is not clear whether the phenotypes result directly from inhibition of a cellular process or indirectly by inhibiting viral Reviewer #1 (Remarks to the Author):
+5	642	658 cellular process	Gene_function	GO_0009987
+

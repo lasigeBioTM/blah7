@@ -1,0 +1,51 @@
+0|chunk|IB-Kinase-epsilon (IKK) over-expression promotes the growth of prostate cancer through the C/EBP- dependent activation of IL-6 gene expression
+0	55	61 growth	Gene_function	GO_0040007
+0	65	80 prostate cancer	Phenotype	HP_0012125
+0	74	80 cancer	Phenotype	HP_0002664
+0	130	145 gene expression	Gene_function	GO_0010467
+0	GO-HP	GO_0040007	HP_0012125
+0	GO-HP	GO_0040007	HP_0002664
+0	HP-GO	HP_0012125	GO_0010467
+0	HP-GO	HP_0002664	GO_0010467
+
+1|chunk|The inflammatory cytokine IL-6 has been shown to induce the nuclear translocation of androgen receptors in prostate cancer cells and to activate the androgen receptors in a ligand-independent manner, suggesting it may contribute to the development of a castrate-resistant phenotype. Elevated IL-6 serum levels have also been associated with metastasis-related morbidity in prostate cancer patients. We have previously established that over-expression of I-kappa-B-kinase-epsilon (IKK also named IKKi or IBK) in hormone-sensitive prostate cancer cell lines induces IL-6 secretion. We have also reported that prostate cancer cell lines lacking androgen receptor expression exhibit high constitutive IKK expression and IL-6 secretion. In the present study, we validated the impact of IKK depletion on the in vitro proliferation of castrate-resistant prostate cancer cells, and characterized how IKK depletion affects tumor growth and IL-6 tumor secretion in vivo through a mouse xenograft-based approach. We observed a significant growth delay in IKKsilenced PC-3 cells injected in SCID mice fed with a doxycycline-supplemented diet in comparison with mice fed with a normal diet. We also found a decrease in IL-6 secretion levels that strongly correlated with tumor growth inhibition. Finally, using constructs with various IL-6-mutated promoters, we demonstrated that IKK overexpression induces a NF-B-independent stimulation of the IL-6 gene promoter through the activation and nuclear accumulation of the transcription factor C/ EBP-. Our study demonstrates the pro-proliferative role of the oncogene IKK in castrate-resistant prostate cancer cell lines, involving the phosphorylation and nuclear translocation of C/EBP- that initiates IL-6 gene expression.
+1	107	122 prostate cancer	Phenotype	HP_0012125
+1	116	122 cancer	Phenotype	HP_0002664
+1	373	388 prostate cancer	Phenotype	HP_0012125
+1	382	388 cancer	Phenotype	HP_0002664
+1	532	547 prostate cancer	Phenotype	HP_0012125
+1	541	547 cancer	Phenotype	HP_0002664
+1	567	581 IL-6 secretion	Gene_function	GO_0072604
+1	572	581 secretion	Gene_function	GO_0046903
+1	610	625 prostate cancer	Phenotype	HP_0012125
+1	619	625 cancer	Phenotype	HP_0002664
+1	720	734 IL-6 secretion	Gene_function	GO_0072604
+1	725	734 secretion	Gene_function	GO_0046903
+1	852	867 prostate cancer	Phenotype	HP_0012125
+1	861	867 cancer	Phenotype	HP_0002664
+1	920	925 tumor	Phenotype	HP_0002664
+1	926	932 growth	Gene_function	GO_0040007
+1	942	947 tumor	Phenotype	HP_0002664
+1	948	957 secretion	Gene_function	GO_0046903
+1	1034	1040 growth	Gene_function	GO_0040007
+1	1034	1046 growth delay	Phenotype	HP_0001510
+1	1213	1227 IL-6 secretion	Gene_function	GO_0072604
+1	1218	1227 secretion	Gene_function	GO_0046903
+1	1265	1270 tumor	Phenotype	HP_0002664
+1	1271	1277 growth	Gene_function	GO_0040007
+1	1639	1654 prostate cancer	Phenotype	HP_0012125
+1	1648	1654 cancer	Phenotype	HP_0002664
+1	1681	1696 phosphorylation	Gene_function	GO_0016310
+1	HP-GO	HP_0012125	GO_0072604
+1	HP-GO	HP_0012125	GO_0046903
+1	HP-GO	HP_0012125	GO_0040007
+1	HP-GO	HP_0012125	GO_0016310
+1	HP-GO	HP_0002664	GO_0072604
+1	HP-GO	HP_0002664	GO_0046903
+1	HP-GO	HP_0002664	GO_0040007
+1	HP-GO	HP_0002664	GO_0016310
+1	GO-HP	GO_0072604	HP_0001510
+1	GO-HP	GO_0046903	HP_0001510
+1	GO-HP	GO_0040007	HP_0001510
+1	HP-GO	HP_0001510	GO_0016310
+

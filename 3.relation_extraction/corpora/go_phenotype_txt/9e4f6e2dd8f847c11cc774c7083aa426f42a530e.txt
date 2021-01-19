@@ -1,0 +1,24 @@
+0|chunk|Detection of Plant DNA in the Bronchoalveolar Lavage of Patients with Ventilator-Associated Pneumonia
+0	92	101 Pneumonia	Phenotype	HP_0002090
+
+1|chunk|Background: Hospital-acquired infections such as nosocomial pneumonia are a serious cause of mortality for hospitalized patients, especially for those admitted to intensive care units (ICUs). Despite the number of the studies reported to date, the causative agents of pneumonia are not completely known. Herein, we found by molecular technique that vegetable and tobacco DNA may be detected in the bronchoalveolar lavage from patients with ventilator-associated pneumonia (VAP).
+1	60	69 pneumonia	Phenotype	HP_0002090
+1	268	277 pneumonia	Phenotype	HP_0002090
+1	462	471 pneumonia	Phenotype	HP_0002090
+
+2|chunk|In the present study, we studied bronchoalveolar lavage (BAL) from patients admitted to ICUs with ventilator-associated pneumonia. BAL fluids were assessed with molecular tests, culture and blood culture. We successfully identified plant DNA in six patients out of 106 (6%) with ventilator-associated pneumonia. Inhalation was confirmed in four cases and suspected in the other two cases. Inhalation was significantly frequent in patients with plant DNA (four out of six patients) than those without plant DNA (three out of 100 patients) (P,0.001). Nicotiana tabacum chloroplast DNA was identified in three patients who were smokers (cases 2, 3 and 6). Cucurbita pepo, Morus bombycis and Triticum aestivum DNA were identified in cases 1, 4 and 5 respectively. Twenty-three different bacterial species, two viruses and five fungal species were identified from among these six patients by using molecular and culture techniques. Several of the pathogenic microorganisms identified are reported to be food-borne or tobacco plant-associated pathogens.
+2	418	426 frequent	Phenotype	HP_0040282
+2	567	578 chloroplast	Gene_function	GO_0009507
+2	HP-GO	HP_0040282	GO_0009507
+
+3|chunk|Conclusions/Significance: Our study shows that plants DNA may be identified in the BAL fluid of pneumonia patients, especially when exploring aspiration pneumonia, but the significance of the presence of plant DNA and its role in the pathogenesis of pneumonia is unknown and remains to be investigated. However, the identification of these plants may be a potential marker of aspiration in patients with pneumonia.
+3	96	105 pneumonia	Phenotype	HP_0002090
+3	142	152 aspiration	Phenotype	HP_0002835
+3	153	162 pneumonia	Phenotype	HP_0002090
+3	234	246 pathogenesis	Gene_function	GO_0009405
+3	250	259 pneumonia	Phenotype	HP_0002090
+3	376	386 aspiration	Phenotype	HP_0002835
+3	404	413 pneumonia	Phenotype	HP_0002090
+3	HP-GO	HP_0002090	GO_0009405
+3	HP-GO	HP_0002835	GO_0009405
+

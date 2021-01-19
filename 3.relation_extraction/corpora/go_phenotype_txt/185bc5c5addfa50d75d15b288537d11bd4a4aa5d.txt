@@ -1,0 +1,67 @@
+0|chunk|CRISPR screening using an expanded toolkit of autophagy reporters identifies TMEM41B as a novel autophagy factor
+0	46	55 autophagy	Gene_function	GO_0006914
+0	96	105 autophagy	Gene_function	GO_0006914
+
+1|chunk|The power of forward genetics in yeast is the foundation on which the field of autophagy research firmly stands. Complementary work on autophagy in higher eukaryotes has revealed both the deep conservation of this process, as well as novel mechanisms by which autophagy is regulated in the context of development, immunity, and neuronal homeostasis. The recent emergence of new clustered regularly interspaced palindromic repeats/ CRISPR-associated protein 9 (CRISPR/Cas9)-based technologies has begun facilitating efforts to define novel autophagy factors and pathways by forward genetic screening in mammalian cells. Here, we set out to develop an expanded toolkit of autophagy reporters amenable to CRISPR/Cas9 screening. Genome-wide screening of our reporters in mammalian cells recovered virtually all known autophagy-related (ATG) factors as well as previously uncharacterized factors, including vacuolar protein sorting 37 homolog A (VPS37A), transmembrane protein 251 (TMEM251), amyotrophic lateral sclerosis 2 (ALS2), and TMEM41B. To validate this data set, we used quantitative microscopy and biochemical analyses to show that 1 novel hit, TMEM41B, is required for phagophore maturation. TMEM41B is an integral endoplasmic reticulum (ER) membrane protein distantly related to the established autophagy factor vacuole membrane protein 1 (VMP1), and our data show that these two factors play related, albeit not fully overlapping, roles in autophagosome biogenesis. In sum, our work uncovers new ATG factors, reveals a malleable network of autophagy receptor genetic interactions, and provides a valuable resource (http://crispr.deniclab.com) for further mining of novel autophagy mechanisms.
+1	79	88 autophagy	Gene_function	GO_0006914
+1	135	144 autophagy	Gene_function	GO_0006914
+1	260	269 autophagy	Gene_function	GO_0006914
+1	539	548 autophagy	Gene_function	GO_0006914
+1	670	679 autophagy	Gene_function	GO_0006914
+1	902	926 vacuolar protein sorting	Gene_function	GO_0006623
+1	950	963 transmembrane	Gene_function	GO_0016021
+1	987	1016 amyotrophic lateral sclerosis	Phenotype	HP_0007354
+1	999	1006 lateral	Phenotype	HP_0025275
+1	1175	1185 phagophore	Gene_function	GO_0034045
+1	1221	1242 endoplasmic reticulum	Gene_function	GO_0005783
+1	1248	1256 membrane	Gene_function	GO_0016020
+1	1302	1311 autophagy	Gene_function	GO_0006914
+1	1319	1326 vacuole	Gene_function	GO_0005773
+1	1327	1335 membrane	Gene_function	GO_0016020
+1	1448	1461 autophagosome	Gene_function	GO_0005776
+1	1548	1557 autophagy	Gene_function	GO_0006914
+1	1679	1688 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0007354
+1	GO-HP	GO_0006914	HP_0025275
+1	GO-HP	GO_0006623	HP_0007354
+1	GO-HP	GO_0006623	HP_0025275
+1	GO-HP	GO_0016021	HP_0007354
+1	GO-HP	GO_0016021	HP_0025275
+1	HP-GO	HP_0007354	GO_0034045
+1	HP-GO	HP_0007354	GO_0005783
+1	HP-GO	HP_0007354	GO_0016020
+1	HP-GO	HP_0007354	GO_0005773
+1	HP-GO	HP_0007354	GO_0005776
+1	HP-GO	HP_0025275	GO_0034045
+1	HP-GO	HP_0025275	GO_0005783
+1	HP-GO	HP_0025275	GO_0016020
+1	HP-GO	HP_0025275	GO_0005773
+1	HP-GO	HP_0025275	GO_0005776
+
+2|chunk|Eukaryotic cells use autophagy to eliminate unwanted structures-such as protein aggregates, intracellular pathogens, and damaged organelles-that are too large to be handled PLOS Biology | https://doi.Citation: Shoemaker CJ, Huang TQ, Weir NR, Polyakov NJ, Schultz SW, Denic V (2019) CRISPR screening using an expanded toolkit of autophagy reporters identifies TMEM41B as a novel autophagy factor. PLoS Biol 17(4): e2007044.
+2	21	30 autophagy	Gene_function	GO_0006914
+2	92	105 intracellular	Gene_function	GO_0005622
+2	329	338 autophagy	Gene_function	GO_0006914
+2	379	388 autophagy	Gene_function	GO_0006914
+
+3|chunk|by the proteasome. This unusual vesicle transport pathway begins with packaging of cytoplasmic targets into a double-membrane vesicle (autophagosome) and ends with their degradation in the lysosome. A deeper understanding of autophagy as a regulated mechanism for protein turnover has the potential to provide new therapies for diverse human pathologies, including neurodegenerative disease, cardiometabolic disease, and cancer.
+3	32	39 vesicle	Gene_function	GO_0031982
+3	32	49 vesicle transport	Gene_function	GO_0016192
+3	40	49 transport	Gene_function	GO_0006810
+3	126	133 vesicle	Gene_function	GO_0031982
+3	135	148 autophagosome	Gene_function	GO_0005776
+3	170	181 degradation	Gene_function	GO_0009056
+3	225	234 autophagy	Gene_function	GO_0006914
+
+4|chunk|Here, we set out to build new reporters for studying mammalian autophagy by genetic screening. This approach allowed us to carry out pooled genome-wide clustered regularly interspaced palindromic repeats (CRISPR) knockout screens and recover virtually all known mammalian autophagy-related (ATG) factors. In addition, we uncovered several uncharacterized proteins, including the endoplasmic reticulum (ER) transmembrane protein 41B (TMEM41B), which we went on to show is required for normal growth of autophagosome precursor membranes around their targets. More broadly, our data set provides a comprehensive resource of genes that affect autophagosome trafficking to the lysosome for further hypothesis testing.
+4	63	72 autophagy	Gene_function	GO_0006914
+4	379	400 endoplasmic reticulum	Gene_function	GO_0005783
+4	406	419 transmembrane	Gene_function	GO_0016021
+4	491	497 growth	Gene_function	GO_0040007
+4	501	514 autophagosome	Gene_function	GO_0005776
+4	639	652 autophagosome	Gene_function	GO_0005776
+4	672	680 lysosome	Gene_function	GO_0005764
+
+5|chunk|Defining the genetic landscape of mammalian autophagy PLOS Biology | https://doi.
+5	44	53 autophagy	Gene_function	GO_0006914
+

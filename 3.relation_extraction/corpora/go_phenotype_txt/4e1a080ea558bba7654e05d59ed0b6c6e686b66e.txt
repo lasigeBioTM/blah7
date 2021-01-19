@@ -1,0 +1,24 @@
+0|chunk|BMC Pulmonary Medicine A new paradigm in respiratory hygiene: increasing the cohesivity of airway secretions to improve cough interaction and reduce aerosol dispersion
+0	120	125 cough	Phenotype	HP_0012735
+
+1|chunk|Background: Infectious respiratory diseases are transmitted to non-infected subjects when an infected person expels pathogenic microorganisms to the surrounding environment when coughing or sneezing. When the airway mucus layer interacts with high-speed airflow, droplets are expelled as aerosol; their concentration and size distribution may each play an important role in disease transmission. Our goal is to reduce the aerosolizability of respiratory secretions while interfering only minimally with normal mucus clearance using agents capable of increasing crosslinking in the mucin glycoprotein network.
+1	178	186 coughing	Phenotype	HP_0012735
+1	216	221 mucus	Gene_function	GO_0070701
+1	216	227 mucus layer	Gene_function	GO_0070701
+1	510	515 mucus	Gene_function	GO_0070701
+1	HP-GO	HP_0012735	GO_0070701
+
+2|chunk|Methods: We exposed mucus simulants (MS) to airflow in a simulated cough machine (SCM). The MS ranged from non-viscous, non-elastic substances (water) to MS of varying degrees of viscosity and elasticity. Mucociliary clearance of the MS was assessed on the frog palate, elasticity in the Filancemeter and the aerosol pattern in a "bulls-eye" target. The sample loaded was weighed before and after each cough maneuver. We tested two mucomodulators: sodium tetraborate (XL"B") and calcium chloride (XL "C").
+2	20	25 mucus	Gene_function	GO_0070701
+2	67	72 cough	Phenotype	HP_0012735
+2	205	226 Mucociliary clearance	Gene_function	GO_0120197
+2	402	407 cough	Phenotype	HP_0012735
+2	GO-HP	GO_0070701	HP_0012735
+2	HP-GO	HP_0012735	GO_0120197
+
+3|chunk|Results: Mucociliary transport was close to normal speed in viscoelastic samples compared to non-elastic, non-viscous or viscous-only samples. Spinnability ranged from 2.5  0.6 to 50.9  6.9 cm, and the amount of MS expelled from the SCM increased from 47 % to 96 % adding 1.5 L to 150 L of XL "B". Concurrently, particles were inversely reduced to almost disappear from the aerosolization pattern.
+3	9	30 Mucociliary transport	Gene_function	GO_0120197
+3	21	30 transport	Gene_function	GO_0006810
+
+4|chunk|The aerosolizability of MS was modified by increasing its cohesivity, thereby reducing the number of particles expelled from the SCM while interfering minimally with its clearance on the frog palate. An unexpected finding is that MS crosslinking increased "expectoration".
+

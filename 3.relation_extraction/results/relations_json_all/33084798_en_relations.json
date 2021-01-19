@@ -1,0 +1,133 @@
+{
+    "text": "To evaluate knowledge and behavior of professionals in Intensive Care Units regarding the actions recommended in the bundle on preventing central venous catheter-related bloodstream infection.Cross-sectional descriptive quantitative study, conducted in three Intensive Care Units. The data were collected through a face-to-face questionnaire applied to health professionals. The software R 3.3.1 was used for data analysis.Two-hundred and ninety-two professionals participated. Regarding knowledge, the hand hygiene item presented a higher level both for the insertion (92.46%) and maintenance (97.27%) moments. Usage of chlorhexidine as an antiseptic, followed by alcohol (47.94%) and providing a date for hub or connectors (19.87%) were the least known items. As for behavior, the professionals reported: using always the correct attire for catheter insertion (84.25%), never waiting for the antiseptic to dry before catheter insertion (25.34%) and never cleaning hub or connectors with 70% alcohol (23.86%).Results show that the professionals' knowledge and behavior regarding the central venous catheter bundle present deficiencies, revealing the importance of promoting training programs for this knowledge domain.",
+    "denotations": [
+        {
+            "id": "GO_0007610",
+            "span": {
+                "begin": 26,
+                "end": 34
+            },
+            "obj": "behavior"
+        },
+        {
+            "id": "HP_0030645",
+            "span": {
+                "begin": 138,
+                "end": 145
+            },
+            "obj": "central"
+        },
+        {
+            "id": "CHEBI_3614",
+            "span": {
+                "begin": 621,
+                "end": 634
+            },
+            "obj": "chlorhexidine"
+        },
+        {
+            "id": "CHEBI_48218",
+            "span": {
+                "begin": 641,
+                "end": 651
+            },
+            "obj": "antiseptic"
+        },
+        {
+            "id": "CHEBI_16236",
+            "span": {
+                "begin": 665,
+                "end": 672
+            },
+            "obj": "alcohol"
+        },
+        {
+            "id": "CHEBI_30879",
+            "span": {
+                "begin": 665,
+                "end": 672
+            },
+            "obj": "alcohol"
+        },
+        {
+            "id": "GO_0007610",
+            "span": {
+                "begin": 769,
+                "end": 777
+            },
+            "obj": "behavior"
+        },
+        {
+            "id": "CHEBI_48218",
+            "span": {
+                "begin": 894,
+                "end": 904
+            },
+            "obj": "antiseptic"
+        },
+        {
+            "id": "CHEBI_16236",
+            "span": {
+                "begin": 993,
+                "end": 1000
+            },
+            "obj": "alcohol"
+        },
+        {
+            "id": "CHEBI_30879",
+            "span": {
+                "begin": 993,
+                "end": 1000
+            },
+            "obj": "alcohol"
+        },
+        {
+            "id": "GO_0007610",
+            "span": {
+                "begin": 1061,
+                "end": 1069
+            },
+            "obj": "behavior"
+        },
+        {
+            "id": "HP_0030645",
+            "span": {
+                "begin": 1084,
+                "end": 1091
+            },
+            "obj": "central"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0030645"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0030645"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0030645"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0030645"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0030645"
+        }
+    ]
+}

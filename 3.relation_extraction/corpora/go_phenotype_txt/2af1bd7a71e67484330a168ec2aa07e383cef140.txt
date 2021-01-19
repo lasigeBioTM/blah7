@@ -1,0 +1,66 @@
+0|chunk|Autophagy Promotes Infectious Particle Production of Mopeia and Lassa Viruses
+0	0	9 Autophagy	Gene_function	GO_0006914
+
+1|chunk|Lassa virus (LASV) and Mopeia virus (MOPV) are two closely related Old-World mammarenaviruses. LASV causes severe hemorrhagic fever with high mortality in humans, whereas no case of MOPV infection has been reported. Comparing MOPV and LASV is a powerful strategy to unravel pathogenic mechanisms that occur during the course of pathogenic arenavirus infection. We used a yeast two-hybrid approach to identify cell partners of MOPV and LASV Z matrix protein in which two autophagy adaptors were identified, NDP52 and TAX1BP1. Autophagy has emerged as an important cellular defense mechanism against viral infections but its role during arenavirus infection has not been shown. Here, we demonstrate that autophagy is transiently induced by MOPV, but not LASV, in infected cells two days after infection. Impairment of the early steps of autophagy significantly decreased the production of MOPV and LASV infectious particles, whereas a blockade of the degradative steps impaired only MOPV infectious particle production. Our study provides insights into the role played by autophagy during MOPV and LASV infection and suggests that this process could partially explain their different pathogenicity.
+1	107	113 severe	Phenotype	HP_0012828
+1	126	131 fever	Phenotype	HP_0001945
+1	470	479 autophagy	Gene_function	GO_0006914
+1	525	534 Autophagy	Gene_function	GO_0006914
+1	702	711 autophagy	Gene_function	GO_0006914
+1	835	844 autophagy	Gene_function	GO_0006914
+1	1070	1079 autophagy	Gene_function	GO_0006914
+1	HP-GO	HP_0012828	GO_0006914
+1	HP-GO	HP_0001945	GO_0006914
+
+2|chunk|(MOPV) also belongs to the Old-World complex of mammarenaviruses and is very closely related to LASV in addition to being hosted by natal rat. However, no human case of MOPV infection has ever been reported [6]. MOPV has even been shown to confer protection against a challenge with LASV in non-human primates and therefore represents a useful platform to generate protective vaccines against Lassa fever [7] [8] [9] . Comparing LASV and MOPV should therefore allow the identification of immune and viral features involved in LF pathogenesis.
+2	399	404 fever	Phenotype	HP_0001945
+
+3|chunk|The bi-segmented RNA genome of the Arenaviridae family encodes four proteins: the nucleoprotein NP, the surface glycoprotein GP, the polymerase L, and the RING finger protein Z [10] [11] [12] . Although it is the smallest arenavirus protein, the Z-matrix protein has multiple functions in the viral life cycle, including viral assembly [13] [14] [15] [16] [17] [18] and budding [19-21], transcriptional repression [22-24], interferon antagonism [17,25,26] and interactions with multiple host-cell proteins, notably proteins involved in the ESCRT machinery [19,20,27], promyelocytic leukemia protein (PML) [28], ribosomal protein P0 [28], eukaryotic translation initiation factor 4E (eIF4E) [29] and proline-rich homeodomain protein (PRH) [30] . Overall, the arenavirus Z protein is central in the viral life cycle and interacts with a variety of cellular factors that have been partially discovered, but are not yet fully understood. These associations may trigger or hijack numerous cell pathways that facilitate viral replication and could explain the differences in pathogenicity among members of the Arenaviridae family.
+3	293	309 viral life cycle	Gene_function	GO_0019058
+3	321	335 viral assembly	Gene_function	GO_0019068
+3	582	590 leukemia	Phenotype	HP_0001909
+3	649	660 translation	Gene_function	GO_0006412
+3	649	671 translation initiation	Gene_function	GO_0006413
+3	782	789 central	Phenotype	HP_0030645
+3	797	813 viral life cycle	Gene_function	GO_0019058
+3	GO-HP	GO_0019058	HP_0001909
+3	GO-HP	GO_0019058	HP_0030645
+3	GO-HP	GO_0019068	HP_0001909
+3	GO-HP	GO_0019068	HP_0030645
+3	HP-GO	HP_0001909	GO_0006412
+3	HP-GO	HP_0001909	GO_0006413
+3	GO-HP	GO_0006412	HP_0030645
+3	GO-HP	GO_0006413	HP_0030645
+
+4|chunk|Among the cell pathways counteracted by pathogens is autophagy. Autophagy is an evolutionarily conserved catabolic process essential for the maintenance of cellular homeostasis through the elimination of senescent cytosolic components and the recycling of metabolites [31] . The process involves a lysosomal-dependent mechanism initiated by the formation of an isolated membrane, the phagophore, which elongates around cytosolic components to generate a newly-formed vesicle called the autophagosome. The fusion of autophagosomes with lysosomes forms mature autolysosomes in which degradation occurs. The initiation, elongation, and regulation steps of the autophagy process rely on autophagy-related (ATG) proteins. The autophagy machinery is also a part of the host defense system as it contributes to the degradation of invading pathogens by delivering them to the lysosomal compartment [32] . Autophagy may also deliver intracellular pathogen-associated molecular patterns (PAMPs) to endosomal-pattern recognition receptors (PRRs) and MHC-loading compartments, therefore contributing to activate innate [33, 34] and adaptive [35-37] antiviral immune responses. As obligate intracellular pathogens, viruses have evolved various strategies to escape, inhibit, or hijack the autophagic pathway to evade immune responses and favor viral replication [38] . However, the role of autophagy during MOPV and LASV, and more generally during arenavirus infection, is still unknown.
+4	53	62 autophagy	Gene_function	GO_0006914
+4	64	73 Autophagy	Gene_function	GO_0006914
+4	105	122 catabolic process	Gene_function	GO_0009056
+4	156	176 cellular homeostasis	Gene_function	GO_0019725
+4	165	176 homeostasis	Gene_function	GO_0042592
+4	467	474 vesicle	Gene_function	GO_0031982
+4	581	592 degradation	Gene_function	GO_0009056
+4	657	666 autophagy	Gene_function	GO_0006914
+4	721	730 autophagy	Gene_function	GO_0006914
+4	808	819 degradation	Gene_function	GO_0009056
+4	897	906 Autophagy	Gene_function	GO_0006914
+4	924	937 intracellular	Gene_function	GO_0005622
+4	1168	1176 obligate	Phenotype	HP_0040280
+4	1177	1190 intracellular	Gene_function	GO_0005622
+4	1377	1386 autophagy	Gene_function	GO_0006914
+4	GO-HP	GO_0006914	HP_0040280
+4	GO-HP	GO_0009056	HP_0040280
+4	GO-HP	GO_0019725	HP_0040280
+4	GO-HP	GO_0042592	HP_0040280
+4	GO-HP	GO_0031982	HP_0040280
+4	GO-HP	GO_0005622	HP_0040280
+
+5|chunk|Here, we performed a yeast two-hybrid (Y2H) screening to identify cellular partners of the Z protein of the pathogenic LASV and non-pathogenic MOPV. We identified two autophagy receptors, calcium-binding and coiled-coil domain 2 (CALCOCO 2 or NDP52) and TAX1BP1 (or CALCOCO 3), suggesting a link between autophagy and viral infection. We then monitored autophagy flux in infected cells and observed an increase of this flux in MOPV-but not LASV-infected cells. We show that early steps of autophagy are important in the late stages of replication for LASV and MOPV, whereas the degradation steps of autophagy benefits only MOPV infectious particle production. These data provide insight on the proviral role played by autophagy during LASV and MOPV infection and we discussed how it may contribute to their different pathogenicity.
+5	167	176 autophagy	Gene_function	GO_0006914
+5	304	313 autophagy	Gene_function	GO_0006914
+5	353	362 autophagy	Gene_function	GO_0006914
+5	489	498 autophagy	Gene_function	GO_0006914
+5	578	589 degradation	Gene_function	GO_0009056
+5	599	608 autophagy	Gene_function	GO_0006914
+5	718	727 autophagy	Gene_function	GO_0006914
+

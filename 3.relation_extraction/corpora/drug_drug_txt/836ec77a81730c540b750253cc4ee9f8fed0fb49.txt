@@ -1,0 +1,20 @@
+0|chunk|Conformational B-Cell Epitope Prediction Method Based on Antigen Preprocessing and Mimotopes Analysis
+0	22	29 Epitope	Chemical	CHEBI_53000
+0	57	64 Antigen	Chemical	CHEBI_59132
+0	CHEBI-CHEBI	CHEBI_53000	CHEBI_59132
+
+1|chunk|Identification of epitopes which invokes strong humoral responses is an essential issue in the field of immunology. Various computational methods that have been developed based on the antigen structures and the mimotopes these years narrow the search for experimental validation. These methods can be divided into two categories: antigen structure-based methods and mimotopebased methods. Though new methods of the two kinds have been proposed in these years, they cannot maintain a high degree of satisfaction in various circumstances. In this paper, we proposed a new conformational B-cell epitope prediction method based on antigen preprocessing and mimotopes analysis. The method classifies the antigen surface residues into "epitopes" and "nonepitopes" by six epitope propensity scales, removing the "nonepitopes" and using the preprocessed antigen for epitope prediction based on mimotope sequences. The proposed method gives out the mean F score of 0.42 on the testing dataset. When compared with other publicly available servers by using the testing dataset, the new method yields better performance. The results demonstrate the proposed method is competent for the conformational B-cell epitope prediction.
+1	184	191 antigen	Chemical	CHEBI_59132
+1	330	337 antigen	Chemical	CHEBI_59132
+1	592	599 epitope	Chemical	CHEBI_53000
+1	627	634 antigen	Chemical	CHEBI_59132
+1	699	706 antigen	Chemical	CHEBI_59132
+1	765	772 epitope	Chemical	CHEBI_53000
+1	846	853 antigen	Chemical	CHEBI_59132
+1	858	865 epitope	Chemical	CHEBI_53000
+1	886	894 mimotope	Chemical	CHEBI_60218
+1	1196	1203 epitope	Chemical	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_60218
+1	CHEBI-CHEBI	CHEBI_53000	CHEBI_60218
+

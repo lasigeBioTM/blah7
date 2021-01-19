@@ -1,0 +1,34 @@
+0|chunk|Profiling of Substrate Specificity of SARS-CoV 3CL pro
+0	51	54 pro	Chemical	CHEBI_50342
+
+1|chunk|Background: The 3C-like protease (3CL pro ) of severe acute respiratory syndrome-coronavirus is required for autoprocessing of the polyprotein, and is a potential target for treating coronaviral infection.
+1	38	41 pro	Chemical	CHEBI_50342
+
+2|chunk|Methodology/Principal Findings: To obtain a thorough understanding of substrate specificity of the protease, a substrate library of 19|8 variants was created by performing saturation mutagenesis on the autocleavage sequence at P5 to P3' positions. The substrate sequences were inserted between cyan and yellow fluorescent proteins so that the cleavage rates were monitored by in vitro fluorescence resonance energy transfer. The relative cleavage rate for different substrate sequences was correlated with various structural properties. P5 and P3 positions prefer residues with high b-sheet propensity; P4 prefers small hydrophobic residues; P2 prefers hydrophobic residues without b-branch. Gln is the best residue at P1 position, but observable cleavage can be detected with His and Met substitutions. P1' position prefers small residues, while P2' and P3' positions have no strong preference on residue substitutions. Noteworthy, solvent exposed sites such as P5, P3 and P3' positions favour positively charged residues over negatively charged one, suggesting that electrostatic interactions may play a role in catalysis. A super-active substrate, which combined the preferred residues at P5 to P1 positions, was found to have 2.8 fold higher activity than the wild-type sequence.
+2	322	330 proteins	Chemical	CHEBI_36080
+2	692	695 Gln	Chemical	CHEBI_30011
+2	785	788 Met	Chemical	CHEBI_16044
+2	785	788 Met	Chemical	CHEBI_16811
+2	933	940 solvent	Chemical	CHEBI_46787
+2	1106	1110 role	Chemical	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_30011
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16044
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16811
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_30011	CHEBI_16044
+2	CHEBI-CHEBI	CHEBI_30011	CHEBI_16811
+2	CHEBI-CHEBI	CHEBI_30011	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_30011	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16044	CHEBI_16811
+2	CHEBI-CHEBI	CHEBI_16044	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_16044	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_16811	CHEBI_46787
+2	CHEBI-CHEBI	CHEBI_16811	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_46787	CHEBI_50906
+
+3|chunk|Conclusions/Significance: Our results demonstrated a strong structure-activity relationship between the 3CL pro and its substrate. The substrate specificity profiled in this study may provide insights into a rational design of peptidomimetic inhibitors.
+3	108	111 pro	Chemical	CHEBI_50342
+3	227	241 peptidomimetic	Chemical	CHEBI_63175
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_63175
+

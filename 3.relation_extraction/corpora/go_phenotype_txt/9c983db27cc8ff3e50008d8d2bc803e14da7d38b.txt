@@ -1,0 +1,51 @@
+0|chunk|Mice with different susceptibility to tick-borne encephalitis virus infection show selective neutralizing antibody response and inflammatory reaction in the central nervous system
+0	49	61 encephalitis	Phenotype	HP_0002383
+0	106	114 antibody	Gene_function	GO_0003823
+0	106	114 antibody	Gene_function	GO_0042571
+0	157	164 central	Phenotype	HP_0030645
+0	HP-GO	HP_0002383	GO_0003823
+0	HP-GO	HP_0002383	GO_0042571
+0	GO-HP	GO_0003823	HP_0030645
+0	GO-HP	GO_0042571	HP_0030645
+
+1|chunk|The clinical course of tick-borne encephalitis (TBE), a disease caused by TBE virus, ranges from asymptomatic or mild influenza-like infection to severe debilitating encephalitis or encephalomyelitis. Despite the medical importance of this disease, some crucial steps in the development of encephalitis remain poorly understood. In particular, the basis of the disease severity is largely unknown. Methods: TBE virus growth, neutralizing antibody response, key cytokine and chemokine mRNA production and changes in mRNA levels of cell surface markers of immunocompetent cells in brain were measured in mice with different susceptibilities to TBE virus infection.
+1	4	19 clinical course	Phenotype	HP_0031797
+1	34	46 encephalitis	Phenotype	HP_0002383
+1	113	117 mild	Phenotype	HP_0012825
+1	146	152 severe	Phenotype	HP_0012828
+1	166	178 encephalitis	Phenotype	HP_0002383
+1	290	302 encephalitis	Phenotype	HP_0002383
+1	369	377 severity	Phenotype	HP_0012824
+1	438	446 antibody	Gene_function	GO_0003823
+1	438	446 antibody	Gene_function	GO_0042571
+1	530	542 cell surface	Gene_function	GO_0009986
+1	HP-GO	HP_0031797	GO_0003823
+1	HP-GO	HP_0031797	GO_0042571
+1	HP-GO	HP_0031797	GO_0009986
+1	HP-GO	HP_0002383	GO_0003823
+1	HP-GO	HP_0002383	GO_0042571
+1	HP-GO	HP_0002383	GO_0009986
+1	HP-GO	HP_0012825	GO_0003823
+1	HP-GO	HP_0012825	GO_0042571
+1	HP-GO	HP_0012825	GO_0009986
+1	HP-GO	HP_0012828	GO_0003823
+1	HP-GO	HP_0012828	GO_0042571
+1	HP-GO	HP_0012828	GO_0009986
+1	HP-GO	HP_0012824	GO_0003823
+1	HP-GO	HP_0012824	GO_0042571
+1	HP-GO	HP_0012824	GO_0009986
+
+2|chunk|showing different severities of the infection in relation to the host genetic background was developed. After subcutaneous inoculation of TBE virus, BALB/c mice showed medium susceptibility to the infection, STS mice were resistant, and CcS-11 mice were highly susceptible. The resistant STS mice showed lower and delayed viremia, lower virus production in the brain and low cytokine/chemokine mRNA production, but had a strong neutralizing antibody response. The most sensitive strain (CcS-11) failed in production of neutralizing antibodies, but exhibited strong cytokine/chemokine mRNA production in the brain. After intracerebral inoculation, all mouse strains were sensitive to the infection and had similar virus production in the brain, but STS mice survived significantly longer than CcS-11 mice. These two strains also differed in the expression of key cytokines/chemokines, particularly interferon gamma-induced protein 10 (IP-10/CXCL10) and monocyte chemotactic protein-1 (MCP-1/CCL2) in the brain.
+2	441	449 antibody	Gene_function	GO_0003823
+2	441	449 antibody	Gene_function	GO_0042571
+
+3|chunk|Our data indicate that the genetic control is an important factor influencing the clinical course of TBE. High neutralizing antibody response might be crucial for preventing host fatality, but high expression of various cytokines/chemokines during TBE can mediate immunopathology and be associated with more severe course of the infection and increased fatality.
+3	82	97 clinical course	Phenotype	HP_0031797
+3	124	132 antibody	Gene_function	GO_0003823
+3	124	132 antibody	Gene_function	GO_0042571
+3	308	314 severe	Phenotype	HP_0012828
+3	HP-GO	HP_0031797	GO_0003823
+3	HP-GO	HP_0031797	GO_0042571
+3	GO-HP	GO_0003823	HP_0012828
+3	GO-HP	GO_0042571	HP_0012828
+

@@ -1,0 +1,33 @@
+0|chunk|Characterizing the PRRSV nsp2 Deubiquitinase Reveals Dispensability of Cis-Activity for Replication and a Link of nsp2 to Inflammation Induction
+
+1|chunk|The papain-like cysteine protease 2 (PLP2) within the N-terminus of the porcine reproductive and respiratory syndrome virus (PRRSV) nsp2 replicase protein specifies a deubiquitinating enzyme (DUB), but its biochemical properties and the role in infection have remained poorly defined. By using in vitro assays, we found that the purified PLP2 could efficiently cleave K63 and K48 linked polyubiquitin chains Ub3-7 in vitro although displaying a differential activity in converting the respective ubiquitin dimers to monomer. The subsequent mutagenesis analyses revealed that the requirement for PLP2 DUB activity surprisingly resembled that for cis-cleavage activity, as several mutations (e.g., D91R, D85R, etc.) that largely ablated the DUB function also blocked the cisbut not trans-proteolytic cleavage of nsp2/3 polyprotein. Moreover, the analyses identified key mutations that could differentiate DUB from PLP2 cisand trans-cleavage activities. Further reverse genetics analyses revealed the following findings: (i) mutations that largely blocked the DUB activity were all lethal to the virus, (ii) a point mutation T88G that selectively blocked the cis-cleavage activity of PLP2 did not affect viral viability in cell culture, and (iii) an E90Q mutation that did not affect either of the PLP2 activities led to rescue of WT-like virus but displayed significantly reduced ability to induce TNF- production. Our findings support the possibility that the PLP2 DUB activity, but not cis-cleavage activity, is essential for PRRSV replication. The data also establish a strong link of nsp2 to pro-inflammatory cytokine induction during infection that operates in a manner independent of PLP2 DUB activity.
+1	16	24 cysteine	Chemical	CHEBI_15356
+1	147	154 protein	Chemical	CHEBI_16541
+1	237	241 role	Chemical	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_15356	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_15356	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+
+2|chunk|Viruses 2019, 11, 896 2 of 22 proteases (USP) (e.g., coronaviruses, herpesviruses, picornaviruses, etc.) [11] [12] [13] [14] [15] and ovarian tumor proteases (OTU) (e.g., arteriviruses, nairoviruses and tymoviruses) [16] [17] [18] [19] [20] [21] [22] [23] . Functionally, most of the viral DUBs have been demonstrated to exhibit an immune suppressive activity in vitro and negatively regulate host innate immunity such as interferon signaling and production of pro-inflammatory cytokines and chemokines [8, 24] , although the biological significance in virus infection remains to be determined for many of them. This report concerns the deubiquitinase of porcine reproductive and respiratory syndrome virus (PRRSV), a positive-stranded RNA virus in the family Arteriviridae of the order Nidovirales [25,26] and a major pathogen of swine that causes colossal annual economic losses to the worldwide swine industry [27] [28] [29] [30] [31] .
+2	422	432 interferon	Chemical	CHEBI_52999
+2	736	739 RNA	Chemical	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_52999	CHEBI_33697
+
+3|chunk|The PRRSV deubiquitinase is specified by the papain-like protease 2 domain (PLP2) that is located within the N-terminus of nonstructural protein 2 (nsp2), a multi-domain and multi-functional replicase protein in the virus life cycle [20, 21, [32] [33] [34] [35] [36] . Phylogenetically, PRRSV PLP2 belongs to the newly identified OTU superfamily that represents a novel class of cysteine proteases [16], its putative catalytic sites (Cys55-His124) ( Figure 1A ) are highly conserved not only among arteriviruses but also among all OTU family members [16, 37, 38] . The core domain of PRRSV PLP2 has a size of about 100 amino acids (nsp2 aa. 47-150) based on the sequence alignment with the equine arteritis virus (EAV) PLP2 and other OTU family members [39, 40] . Different from EAV PLP2, the downstream flanking sequence (aa. 152-240) of PRRSV PLP2 core ( Figure 1A ) is however required for the protease activity [19, 34] . Earlier biochemical studies have demonstrated that the PRRSV PLP2 possesses both cisand trans-cleavage activities that mediate the proteolytic cleavage at nsp2/3 junction [34] . Moreover, these two activities can be decoupled by a point mutation of the residue Asp-89 [34] . A D89N mutation can selectively block the transbut not cis-cleavage activity of PLP2. Consequently, this mutation is lethal to PRRSV [34].
+3	137	144 protein	Chemical	CHEBI_16541
+3	201	208 protein	Chemical	CHEBI_16541
+3	379	387 cysteine	Chemical	CHEBI_15356
+3	619	624 amino	Chemical	CHEBI_46882
+3	619	630 amino acids	Chemical	CHEBI_33704
+3	625	630 acids	Chemical	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_15356
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_15356	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+

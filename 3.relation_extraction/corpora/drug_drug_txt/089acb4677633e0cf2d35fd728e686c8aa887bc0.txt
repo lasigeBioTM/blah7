@@ -1,0 +1,114 @@
+0|chunk|An exploration of conditions proposed to trigger the Ebola virus glycoprotein for fusion Lucie F n ant 1a , Katarzyna M. Szymaska-de Wijs 1b
+0	65	77 glycoprotein	Chemical	CHEBI_17089
+
+1|chunk|Ebolaviruses continue to inflict horrific disease and instill fear. The 2013-2016 outbreak in Western Africa caused unfathomable morbidity and mortality (over 11,000 deaths), and the second largest outbreak is on-going in the Democratic Republic of the Congo. The first stage of an Ebolavirus infection is entry, culminating in delivery of the viral genome into the cytoplasm to initiate replication. Among enveloped viruses, Ebolaviruses use a complex entry pathway: they bind to attachment factors on cell surfaces, are engulfed by macropinocytosis, and traffic through the endosomal system. En route, the receptor binding subunit of the glycoprotein (GP) is reduced from~130 to~19 kDa by cathepsins. This event allows cleaved GP (GP cl ) to bind to Niemann-Pick C1 (NPC1), its endosomal receptor. The virus then fuses with a late endosomal membrane, but how this occurs remains a subject of debate. An early, but standing, observation is that entry of particles bearing GP cl is inhibited by agents that raise endosomal pH or inhibit cysteine proteases, suggesting the need for an additional factor(s). Yet, some have concluded that NPC1 is sufficient to trigger the fusion activity of GP cl . Here, we re-examined this question using sensitive cell-cell and pseudovirus-cell fusion assays. We did not observe detectable GP cl -mediated fusion with NPC1 or its GP cl binding domain at any pH tested, while robust fusion was consistently observed with GP from lymphocytic choriomeningitis virus at low pH. Addition of proposed fusion-enhancing factors-cations (Ca ++ and K + ), a reducing agent, the anionic lipid Bis(Monoacylglycero) Phosphate, and a mixture of cathepsins B and L-did not induce detectable fusion. Our findings are in line with the earlier proposal that an additional factor is required to trigger the full fusion activity of GP cl after binding to NPC1. We discuss caveats to our study and what the missing factor(s) might be.
+1	640	652 glycoprotein	Chemical	CHEBI_17089
+1	1037	1045 cysteine	Chemical	CHEBI_15356
+1	1610	1615 lipid	Chemical	CHEBI_18059
+1	1654	1661 mixture	Chemical	CHEBI_60004
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_18059
+1	CHEBI-CHEBI	CHEBI_17089	CHEBI_60004
+1	CHEBI-CHEBI	CHEBI_15356	CHEBI_18059
+1	CHEBI-CHEBI	CHEBI_15356	CHEBI_60004
+1	CHEBI-CHEBI	CHEBI_18059	CHEBI_60004
+
+2|chunk|Ebola virus (EBOV), the species responsible for the deadliest epidemic [1, 2] . With over 11,000 deaths during the 2013-2016 outbreak in Western Africa and no antiviral drug approved, understanding the biology of this virus is essential to develop specific treatments.
+2	159	168 antiviral	Chemical	CHEBI_22587
+2	159	173 antiviral drug	Chemical	CHEBI_36044
+2	169	173 drug	Chemical	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+2	CHEBI-CHEBI	CHEBI_36044	CHEBI_23888
+
+3|chunk|EBOV enters host cells by binding to attachment factors such as lectins and TIM/TAM family members through interactions, respectively, with the viral glycoprotein (GP) and phospholipids in the viral envelope [3] . GP is a class I fusion protein present at the surface of the virion as a trimer of heterodimers, each comprised of two subunits linked by a disulfide bond: the highly glycosylated receptor-binding subunit (GP1) and the fusion subunit (GP2). After internalization through a macropinocytotic pathway [3, 4] , GP1 is cleaved at low pH by endosomal cysteine-proteases, namely cathepsins B and L, removing the mucin domain and glycan cap and producing a cleaved form of GP1 (~19 kDa) [5] [6] [7] . Then GP1 binds to its intracellular receptor, Niemann-Pick C1 (NPC1), a cholesterol transporter located in late endosomes/lysosomes [8-10]. The utilization of intracellular viral receptors is a fairly new concept in virology, with all known filoviruses employing NPC1 and the arenavirus, Lassa virus (LASV), using Lamp1 [2, [11] [12] [13] [14] [15] . While Lamp1 is thought to raise the pH-threshold for fusion [13, 14] , the exact role of NPC1 in EBOV entry is yet to be determined. It is postulated that after binding to NPC1, cathepsin-cleaved GP (GP cl ) undergoes further conformational changes empowering GP2 to mediate fusion [16] .
+3	150	162 glycoprotein	Chemical	CHEBI_17089
+3	172	185 phospholipids	Chemical	CHEBI_16247
+3	237	244 protein	Chemical	CHEBI_16541
+3	354	363 disulfide	Chemical	CHEBI_48343
+3	504	511 pathway	Chemical	CHEBI_34922
+3	636	642 glycan	Chemical	CHEBI_18154
+3	779	790 cholesterol	Chemical	CHEBI_16113
+3	1139	1143 role	Chemical	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16247
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_34922
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_17089	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_34922
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_16247	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_48343
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_34922
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_48343	CHEBI_34922
+3	CHEBI-CHEBI	CHEBI_48343	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_48343	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_48343	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_34922	CHEBI_18154
+3	CHEBI-CHEBI	CHEBI_34922	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_34922	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_18154	CHEBI_16113
+3	CHEBI-CHEBI	CHEBI_18154	CHEBI_50906
+3	CHEBI-CHEBI	CHEBI_16113	CHEBI_50906
+
+4|chunk|The factors needed to trigger the fusion activity of GP cl remain under debate. Early work showed that host cell entry mediated by GP cl remains sensitive to lysosomotropic agents and the cysteine protease inhibitor E64d [6] . These findings suggested that GP cl requires low pH and an additional activity inhibited by E64d, perhaps additional cathepsin cleavage, to trigger its fusion ability. Additional cell biological [17] [18] [19] [20] and biochemical studies [21-24] supported this concept. Furthermore, findings stated in [10] suggested that low pH and engagement of the C-loop of NPC1, the binding domain for GP cl within NPC1, are not sufficient to trigger fusion. The endosomal two pore calcium channel 2 (TPC2) was subsequently identified as a late entry factor for EBOV [25] , but its exact role in fusion is not known. In contrast to the literature cited above suggesting needs for low pH, NPC1, and an additional factor(s) to support GP cl -mediated fusion, Markosyan et al. [26] proposed that binding to NPC1 is sufficient to induce GP cl to induce fusion, even at neutral pH.
+4	188	196 cysteine	Chemical	CHEBI_15356
+4	188	215 cysteine protease inhibitor	Chemical	CHEBI_64152
+4	197	215 protease inhibitor	Chemical	CHEBI_37670
+4	206	215 inhibitor	Chemical	CHEBI_35222
+4	698	705 calcium	Chemical	CHEBI_22984
+4	804	808 role	Chemical	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_64152
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_37670
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_22984
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_64152	CHEBI_37670
+4	CHEBI-CHEBI	CHEBI_64152	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_64152	CHEBI_22984
+4	CHEBI-CHEBI	CHEBI_64152	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_37670	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_37670	CHEBI_22984
+4	CHEBI-CHEBI	CHEBI_37670	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_22984
+4	CHEBI-CHEBI	CHEBI_35222	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_22984	CHEBI_50906
+
+5|chunk|In the present study, we revisited the question of how the cleaved form of EBOV GP (GP cl) is triggered for fusion by testing the roles of NPC1, low pH, and other potential triggering factors. The assays employed included highly sensitive luciferase-based cell-cell and pseudoviruscell fusion assays, as well as a flow cytometric-based assay for cell-cell hemifusion. Our findings suggest that neither the NPC1-C-loop nor full-length NPC1 are sufficient to trigger significant fusion at any pH tested. Even the presence of additional factors including a reducing agent, a negatively charged lipid abundant in late endosomes/lysosomes, cathepsins, or the cations Ca + + and K + did not elicit detectable fusion. Taken together, our results suggest that cathepsin primed EBOV-GP requires one or more factors in addition to NPC1 and low pH to mediate a fusion reaction sufficiently robust to allow entry of the EBOV genome into the cytoplasm to initiate replication.
+5	591	596 lipid	Chemical	CHEBI_18059
+5	654	661 cations	Chemical	CHEBI_36916
+5	CHEBI-CHEBI	CHEBI_18059	CHEBI_36916
+
+6|chunk|Materials and methods
+
+7|chunk|Dulbecco's modified Eagle's medium (DMEM), phenol-red free DMEM, trypsin-EDTA 0.05%, phenol-red free trypsin-EDTA 0.5%, Hank's Balanced Salt Solution (HBSS), sodium pyruvate, antibiotic/antimycotic, EZ-Link Sulfo-NHS-LC-Biotin, DiI, and DiO were from ThermoFisher Scientific. Phosphate-buffered saline (PBS) was from Corning. Cosmic calf Triggering the Ebola glycoprotein for fusion PLOS ONE | https://doi.
+7	136	140 Salt	Chemical	CHEBI_24866
+7	141	149 Solution	Chemical	CHEBI_75958
+7	158	164 sodium	Chemical	CHEBI_26708
+7	237	240 DiO	Chemical	CHEBI_52032
+7	359	371 glycoprotein	Chemical	CHEBI_17089
+7	388	391 ONE	Chemical	CHEBI_58972
+7	CHEBI-CHEBI	CHEBI_24866	CHEBI_75958
+7	CHEBI-CHEBI	CHEBI_24866	CHEBI_26708
+7	CHEBI-CHEBI	CHEBI_24866	CHEBI_52032
+7	CHEBI-CHEBI	CHEBI_24866	CHEBI_17089
+7	CHEBI-CHEBI	CHEBI_24866	CHEBI_58972
+7	CHEBI-CHEBI	CHEBI_75958	CHEBI_26708
+7	CHEBI-CHEBI	CHEBI_75958	CHEBI_52032
+7	CHEBI-CHEBI	CHEBI_75958	CHEBI_17089
+7	CHEBI-CHEBI	CHEBI_75958	CHEBI_58972
+7	CHEBI-CHEBI	CHEBI_26708	CHEBI_52032
+7	CHEBI-CHEBI	CHEBI_26708	CHEBI_17089
+7	CHEBI-CHEBI	CHEBI_26708	CHEBI_58972
+7	CHEBI-CHEBI	CHEBI_52032	CHEBI_17089
+7	CHEBI-CHEBI	CHEBI_52032	CHEBI_58972
+7	CHEBI-CHEBI	CHEBI_17089	CHEBI_58972
+

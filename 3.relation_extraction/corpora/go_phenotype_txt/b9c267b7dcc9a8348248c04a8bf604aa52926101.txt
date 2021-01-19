@@ -1,0 +1,53 @@
+0|chunk|Intrathecal B Cells in MS Have Significantly Greater Lymphangiogenic Potential Compared to B Cells Derived From Non-MS Subjects
+
+1|chunk|Although B cell depletion is an effective therapy of multiple sclerosis (MS), the pathogenic functions of B cells in MS remain incompletely understood. We asked whether cerebrospinal fluid (CSF) B cells in MS secrete different cytokines than control-subject B cells and whether cytokine secretion affects MS phenotype. We blindly studied CSF B cells after their immortalization by Epstein-Barr Virus (EBV) in prospectivelycollected MS patients and control subjects with other inflammatory-(OIND) or noninflammatory neurological diseases (NIND) and healthy volunteers (HV). The pilot cohort (n = 80) was analyzed using intracellular cytokine staining (n = 101 B cell lines [BCL] derived from 35 out of 80 subjects). We validated differences in cytokine production in newly-generated CSF BCL (n = 207 BCL derived from subsequent 112 prospectively-recruited subjects representing validation cohort), using ELISA enhanced by objective, flow-cytometry-based B cell counting. After unblinding the pilot cohort, the immortalization efficiency was almost 5 times higher in MS patients compared to controls (p < 0.001). MS subjects' BCLs produced significantly more vascular endothelial growth factor (VEGF) compared to control BCLs. Progressive MS patients BCLs produced significantly more tumor necrosis factor (TNF)- and lymphotoxin (LT)- than BCL from relapsing-remitting MS (RRMS) patients. In the validation cohort, we observed lower secretion of IL-1 in RRMS patients, compared to all other diagnostic categories. The validation cohort validated enhanced VEGF-C production by BCL from RRMS patients and higher TNF- and LT- secretion by BCL from progressive MS. No significant differences among diagnostic categories were observed in secretion of IL-6 or GM-CSF. However, B cell secretion of IL-1, TNF-, and GM-CSF correlated significantly with the rate of accumulation of disability measured by MS disease severity scale (MS-DSS). Stein et al.
+1	278	296 cytokine secretion	Gene_function	GO_0050663
+1	287	296 secretion	Gene_function	GO_0046903
+1	548	555 healthy	Phenotype	HP_0032322
+1	618	631 intracellular	Gene_function	GO_0005622
+1	743	762 cytokine production	Gene_function	GO_0001816
+1	1178	1184 growth	Gene_function	GO_0040007
+1	1225	1236 Progressive	Phenotype	HP_0003676
+1	1282	1287 tumor	Phenotype	HP_0002664
+1	1288	1296 necrosis	Gene_function	GO_0001906
+1	1433	1442 secretion	Gene_function	GO_0046903
+1	1621	1625 LTaa	Gene_function	GO_0008732
+1	1626	1635 secretion	Gene_function	GO_0046903
+1	1648	1659 progressive	Phenotype	HP_0003676
+1	1736	1745 secretion	Gene_function	GO_0046903
+1	1781	1790 secretion	Gene_function	GO_0046903
+1	1911	1919 severity	Phenotype	HP_0012824
+1	GO-HP	GO_0050663	HP_0032322
+1	GO-HP	GO_0050663	HP_0003676
+1	GO-HP	GO_0050663	HP_0002664
+1	GO-HP	GO_0050663	HP_0012824
+1	GO-HP	GO_0046903	HP_0032322
+1	GO-HP	GO_0046903	HP_0003676
+1	GO-HP	GO_0046903	HP_0002664
+1	GO-HP	GO_0046903	HP_0012824
+1	HP-GO	HP_0032322	GO_0005622
+1	HP-GO	HP_0032322	GO_0001816
+1	HP-GO	HP_0032322	GO_0040007
+1	HP-GO	HP_0032322	GO_0001906
+1	HP-GO	HP_0032322	GO_0008732
+1	GO-HP	GO_0005622	HP_0003676
+1	GO-HP	GO_0005622	HP_0002664
+1	GO-HP	GO_0005622	HP_0012824
+1	GO-HP	GO_0001816	HP_0003676
+1	GO-HP	GO_0001816	HP_0002664
+1	GO-HP	GO_0001816	HP_0012824
+1	GO-HP	GO_0040007	HP_0003676
+1	GO-HP	GO_0040007	HP_0002664
+1	GO-HP	GO_0040007	HP_0012824
+1	HP-GO	HP_0003676	GO_0001906
+1	HP-GO	HP_0003676	GO_0008732
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0008732
+1	GO-HP	GO_0001906	HP_0012824
+1	GO-HP	GO_0008732	HP_0012824
+
+2|chunk|Finally, all three cytokines with increased secretion in different stages of MS (i.e., VEGF-C, TNF-, and LT-) enhance lymphangiogenesis, suggesting that intrathecal B cells directly facilitate the formation of tertiary lymphoid follicles, thus compartmentalizing inflammation to the central nervous system.
+2	44	53 secretion	Gene_function	GO_0046903
+2	285	292 central	Phenotype	HP_0030645
+2	GO-HP	GO_0046903	HP_0030645
+

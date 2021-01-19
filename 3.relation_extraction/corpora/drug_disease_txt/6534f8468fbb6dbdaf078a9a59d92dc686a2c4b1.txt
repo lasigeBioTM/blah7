@@ -1,0 +1,58 @@
+0|chunk|A cell-based, quantitative and isoform-specific assay for exchange proteins directly activated by cAMP OPEN
+0	67	75 proteins	Chemical	CHEBI_36080
+0	98	102 cAMP	Chemical	CHEBI_17489
+
+1|chunk|Extensive functional studies of the exchange protein directly activated by cAMP (EPAC) family of signaling molecules have demonstrated that EPAC proteins play a fundamental role in several physiological and pathophysiological responses, therefore are attractive drug targets. In this report, the development of a cell-based, medium to high throughput screening assay that is capable of monitoring EPAC-mediated activation of cellular Rap1 in an isoform-specific manner is described. This assay adapts a conventional ELISA format with immobilized RalGDS-RBD as a bait to selectively capture GTP-bound active Rap1. As a result, it fills an urgent need for a cell-based EPAC assay that can be conveniently performed using microtiter plates for the discovery and/or validation of isoform-specific EPAC agonists and antagonists.
+1	45	52 protein	Chemical	CHEBI_16541
+1	75	79 cAMP	Chemical	CHEBI_17489
+1	97	116 signaling molecules	Chemical	CHEBI_62488
+1	107	116 molecules	Chemical	CHEBI_25367
+1	145	153 proteins	Chemical	CHEBI_36080
+1	173	177 role	Chemical	CHEBI_50906
+1	262	266 drug	Chemical	CHEBI_23888
+1	798	806 agonists	Chemical	CHEBI_48705
+
+2|chunk|Exchange proteins directly activated by cAMP (EAPC1 and EPAC2) mediate the intracellular functions of cAMP by acting as guanine nucleotide exchange factors for the Ras-like small GTPases, Rap1 and Rap2 1, 2 . Extensive studies have demonstrated that EPAC proteins are important signaling molecules involved in modulating a myriad of physiological functions 3-5 , ranging from energy homeostasis 6-8 and insulin secretion 9, 10 to learning and memory 11, 12 . In addition, EPAC proteins have also been shown to act as major stress-response mediators and play key roles in the development of human diseases, such as cancer 13-16 , chronic pain 17-19 , cardiovascular diseases 20, 21 and infection 22, 23 . Therefore, developing small molecule EPAC-specific modulators has evolved into an active area of research within the field for the last few years [24] [25] [26] . Several recent studies have reported the effective development of EPAC-specific antagonists using high throughput screening (HTS) biochemical assays 27-29 . However, a robust cell-based assay equipped to measure the activity of EPAC proteins in a medium to high throughput setup is lacking. In this study, the design and execution of an isoform specific cell-based assay capable of measuring cellular activity of EPAC proteins in a microplate format are described.
+2	9	17 proteins	Chemical	CHEBI_36080
+2	40	44 cAMP	Chemical	CHEBI_17489
+2	102	106 cAMP	Chemical	CHEBI_17489
+2	120	127 guanine	Chemical	CHEBI_16235
+2	120	138 guanine nucleotide	Chemical	CHEBI_61292
+2	128	138 nucleotide	Chemical	CHEBI_36976
+2	255	263 proteins	Chemical	CHEBI_36080
+2	278	297 signaling molecules	Chemical	CHEBI_62488
+2	288	297 molecules	Chemical	CHEBI_25367
+2	403	410 insulin	Chemical	CHEBI_145810
+2	477	485 proteins	Chemical	CHEBI_36080
+2	614	620 cancer	Disease	DOID_162
+2	732	740 molecule	Chemical	CHEBI_25367
+2	947	958 antagonists	Chemical	CHEBI_48706
+2	992	995 HTS	Disease	DOID_0110698
+2	1100	1108 proteins	Chemical	CHEBI_36080
+2	1285	1293 proteins	Chemical	CHEBI_36080
+2	CHEBI-DOID	CHEBI_36080	DOID_162
+2	CHEBI-DOID	CHEBI_36080	DOID_0110698
+2	CHEBI-DOID	CHEBI_17489	DOID_162
+2	CHEBI-DOID	CHEBI_17489	DOID_0110698
+2	CHEBI-DOID	CHEBI_16235	DOID_162
+2	CHEBI-DOID	CHEBI_16235	DOID_0110698
+2	CHEBI-DOID	CHEBI_61292	DOID_162
+2	CHEBI-DOID	CHEBI_61292	DOID_0110698
+2	CHEBI-DOID	CHEBI_36976	DOID_162
+2	CHEBI-DOID	CHEBI_36976	DOID_0110698
+2	CHEBI-DOID	CHEBI_62488	DOID_162
+2	CHEBI-DOID	CHEBI_62488	DOID_0110698
+2	CHEBI-DOID	CHEBI_25367	DOID_162
+2	CHEBI-DOID	CHEBI_25367	DOID_0110698
+2	CHEBI-DOID	CHEBI_145810	DOID_162
+2	CHEBI-DOID	CHEBI_145810	DOID_0110698
+2	DOID-CHEBI	DOID_162	CHEBI_48706
+2	CHEBI-DOID	CHEBI_48706	DOID_0110698
+
+3|chunk|Assay design. To develop a cell-based, isoform-specific EPAC activation assay, HEK293 cell lines stably expressing Flag-tagged Rap1A and full-length EPAC1 or EPAC2 are proposed. HEK293 cells express minimal endogenous levels of EPAC1 and EPAC2 and have been used as host cells for evaluating the cellular activities of ectopically expressed EPAC proteins in an isoform-specific manner 28 . Activation of EPAC1 or EPAC2 in these cell lines by cAMP elevating agents leads to the accumulation of Flag-Rap1-GTP, which can be captured by RalGDS-RBD immobilized in a nickel-coated 96-well microplate. The levels of active Flag-Rap1-GTP protein can be quantitatively monitored using a specific anti-FLAG antibody and a HRP conjugated secondary antibody in a manner similar to that of a conventional ELISA assay (Fig. 1) .
+3	346	354 proteins	Chemical	CHEBI_36080
+3	442	446 cAMP	Chemical	CHEBI_17489
+3	630	637 protein	Chemical	CHEBI_16541
+
+4|chunk|Rap-GTP levels, which would decrease signal-to-noise ratio and dynamic range of our proposed assay. To optimize the assay, individual stable clones of HEK293/hEPAC1/Flag-Rap1 or HEK293/mEPAC2/ Flag-Rap1 were first established and tested for their basal Rap1-GTP activates. Overall, HEK293/mEPAC2/ Flag-Rap1 cells had higher basal Rap1-GTP activates than their hEPAC1 counterparts, and the basal activities varied within a range of 3-fold among different stable clones. Stable clones with lowest basal activity for HEK293/hEPAC1/ Flag-Rap1 or HEK293/mEPAC2/ Flag-Rap1 were selected, expanded and used for subsequent studies. After
+

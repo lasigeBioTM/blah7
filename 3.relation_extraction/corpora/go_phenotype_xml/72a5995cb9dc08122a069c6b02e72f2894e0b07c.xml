@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="72a5995cb9dc08122a069c6b02e72f2894e0b07c">
+  <chunk id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c0" text="Decitabine-Induced Changes in Human Myelodysplastic Syndrome Cell Line SKM-1 Are Mediated by FOXO3A Activation">
+    <entity charOffset="36-60" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c0.e0" ontology_id="HP_0002863" text="Myelodysplastic Syndrome" type="phenotype"/>
+  </chunk>
+  <chunk id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1" text="The epigenetic silencing of tumor suppressor genes in myelodysplastic syndromes (MDS) can potentially confer a growth advantage to individual cellular clones. Currently, the recommended treatment for patients with high-risk MDS is the methylation agent decitabine (DAC), a drug that can induce the reexpression of silenced tumor suppressor genes. We investigated the effects of DAC treatment on the myeloid MDS cell line SKM-1 and investigated the role of FOXO3A, a potentially tumor-suppressive transcription factor, by silencing its expression prior to DAC treatment. We found that FOXO3A exists in an inactive, hyperphosphorylated form in SKM-1 cells, but that DAC both induces FOXO3A expression and reactivates the protein by reducing its phosphorylation level. Furthermore, we show that this FOXO3A activation is responsible for the DAC-induced differentiation of SKM-1 cells into monocytes, as well as for SKM-1 cell cycle arrest, apoptosis, and autophagy. Collectively, these results suggest that FOXO3A reactivation may contribute to the therapeutic effects of DAC in MDS.">
+    <entity charOffset="28-33" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="28-44" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e1" ontology_id="GO_0051726" text="tumor suppressor" type="gene_function"/>
+    <entity charOffset="111-117" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e2" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="235-246" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e3" ontology_id="GO_0032259" text="methylation" type="gene_function"/>
+    <entity charOffset="323-328" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="323-339" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e5" ontology_id="GO_0051726" text="tumor suppressor" type="gene_function"/>
+    <entity charOffset="743-758" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e6" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="918-928" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e7" ontology_id="GO_0007049" text="cell cycle" type="gene_function"/>
+    <entity charOffset="918-935" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e8" ontology_id="GO_0007050" text="cell cycle arrest" type="gene_function"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e1" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p0" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e2" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p1" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e3" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p2" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e5" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p3" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e6" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p4" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e7" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p5" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e0" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e8" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p6" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e1" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p7" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e2" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p8" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e3" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p9" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e5" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p10" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e6" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p11" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e7" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p12" relation="true"/>
+    <pair e1="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e4" e2="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.e8" id="72a5995cb9dc08122a069c6b02e72f2894e0b07c.c1.p13" relation="true"/>
+  </chunk>
+</document>

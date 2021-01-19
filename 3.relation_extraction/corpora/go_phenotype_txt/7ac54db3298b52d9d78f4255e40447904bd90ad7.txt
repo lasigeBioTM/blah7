@@ -1,0 +1,28 @@
+0|chunk|Enterovirus 71 Induces Mitochondrial Reactive Oxygen Species Generation That is Required for Efficient Replication
+0	23	36 Mitochondrial	Phenotype	HP_0001427
+0	37	71 Reactive Oxygen Species Generation	Gene_function	GO_1903409
+0	HP-GO	HP_0001427	GO_1903409
+
+1|chunk|Redox homeostasis is an important host factor determining the outcome of infectious disease. Enterovirus 71 (EV71) infection has become an important endemic disease in Southeast Asia and China. We have previously shown that oxidative stress promotes viral replication, and progeny virus induces oxidative stress in host cells. The detailed mechanism for reactive oxygen species (ROS) generation in infected cells remains elusive. In the current study, we demonstrate that mitochondria were a major ROS source in EV71-infected cells. Mitochondria in productively infected cells underwent morphologic changes and exhibited functional anomalies, such as a decrease in mitochondrial electrochemical potential DY m and an increase in oligomycin-insensitive oxygen consumption. Respiratory control ratio of mitochondria from infected cells was significantly lower than that of normal cells. The total adenine nucleotide pool and ATP content of EV71infected cells significantly diminished. However, there appeared to be a compensatory increase in mitochondrial mass. Treatment with mito-TEMPO reduced eIF2a phosphorylation and viral replication, suggesting that mitochondrial ROS act to promote viral replication. It is plausible that EV71 infection induces mitochondrial ROS generation, which is essential to viral replication, at the sacrifice of efficient energy production, and that infected cells up-regulate biogenesis of mitochondria to compensate for their functional defect.
+1	6	17 homeostasis	Gene_function	GO_0042592
+1	224	240 oxidative stress	Phenotype	HP_0025464
+1	295	311 oxidative stress	Phenotype	HP_0025464
+1	472	484 mitochondria	Gene_function	GO_0005739
+1	533	545 Mitochondria	Gene_function	GO_0005739
+1	665	678 mitochondrial	Phenotype	HP_0001427
+1	801	813 mitochondria	Gene_function	GO_0005739
+1	1040	1053 mitochondrial	Phenotype	HP_0001427
+1	1100	1115 phosphorylation	Gene_function	GO_0016310
+1	1155	1168 mitochondrial	Phenotype	HP_0001427
+1	1251	1264 mitochondrial	Phenotype	HP_0001427
+1	1265	1279 ROS generation	Gene_function	GO_1903409
+1	1421	1433 mitochondria	Gene_function	GO_0005739
+1	GO-HP	GO_0042592	HP_0025464
+1	GO-HP	GO_0042592	HP_0001427
+1	HP-GO	HP_0025464	GO_0005739
+1	HP-GO	HP_0025464	GO_0016310
+1	HP-GO	HP_0025464	GO_1903409
+1	GO-HP	GO_0005739	HP_0001427
+1	HP-GO	HP_0001427	GO_0016310
+1	HP-GO	HP_0001427	GO_1903409
+

@@ -1,0 +1,51 @@
+0|chunk|Development of Lectin-Linked Immunomagnetic Separation for the Detection of Hepatitis A Virus
+0	76	85 Hepatitis	Disease	DOID_2237
+0	76	87 Hepatitis A	Disease	DOID_12549
+
+1|chunk|The accuracy and sensitivity of PCR-based methods for detection of hepatitis A virus (HAV) are dependent on the methods used to separate and concentrate the HAV from the infected cells. The pH and ionic strength affect the binding affinity of the virus to cells. In this study, we initially investigated the effects of pH (4.0-10.0) and metal ions (Fe 2+ , Co 2+ , Cu 2+ , Mg 2+ , K + , and Ca 2+ ) on the binding of HAV to oyster digestive cells. The lowest relative binding (RB) of HAV to the cells was found at pH 4.0 and in FeSO 4 solution (64.6% and 68.1%, respectively). To develop an alternative to antibody-dependent immunomagnetic separation prior to detection of HAV using RT-PCR, the binding of HAV to five lectins, peanut agglutinin (PNA), Dolichos biflorus agglutinin (DBA), Helix pomatia agglutinin (HPA), Ulex europaeus agglutinin (UEA-1) and soybean agglutinin (SBA), was evaluated using ELISAs. SBA showed significantly higher RB to HAV than
+1	67	76 hepatitis	Disease	DOID_2237
+1	67	78 hepatitis A	Disease	DOID_12549
+1	343	347 ions	Chemical	CHEBI_24870
+1	535	543 solution	Chemical	CHEBI_75958
+1	DOID-CHEBI	DOID_2237	CHEBI_24870
+1	DOID-CHEBI	DOID_2237	CHEBI_75958
+1	DOID-CHEBI	DOID_12549	CHEBI_24870
+1	DOID-CHEBI	DOID_12549	CHEBI_75958
+
+2|chunk|Viruses 2014, 6 1038 the other lectins tested. In addition, HAV could be concentrated within 30 min using SBA-linked magnetic bead separation (SMS) prior to the RT-PCR assay. Our findings demonstrate the feasibility of using SMS combined with RT-PCR to detect HAV at dilutions ranging from 10 1 -10 4 of a HAV stock (titer: 10 4 TCID 50 /mL).
+
+3|chunk|Keywords: hepatitis A virus; soybean agglutinin linked-magnetic bead separation; lectin; oyster
+3	10	19 hepatitis	Disease	DOID_2237
+3	10	21 hepatitis A	Disease	DOID_12549
+
+4|chunk|Viruses are a major cause of foodborne illness, due in large part to the contamination of shellfish by hepatitis A virus (HAV) [1] . HAV, the prototype of the Hepatovirus genus within the Piconaviridae family, is composed of an icosahedral capsid that contains a positive sense single-stranded RNA genome [2, 3] . HAV infection is associated with the consumption of virus-contaminated bivalves, including oysters, clams, cockles and mussels, which accumulate the virus from seawater as they filter-feed [4] . Moreover, the increasingly widespread incidence of oyster-related HAV infection is attracting greater attention to the mechanisms underlying the interaction between HAV and oyster [5] .
+4	103	112 hepatitis	Disease	DOID_2237
+4	103	114 hepatitis A	Disease	DOID_12549
+4	294	297 RNA	Chemical	CHEBI_33697
+4	DOID-CHEBI	DOID_2237	CHEBI_33697
+4	DOID-CHEBI	DOID_12549	CHEBI_33697
+
+5|chunk|The detection of HAV is influenced by the binding affinity of the virus for receptor cells, which is affected by the pH and ionic strength of the test solution, the presence of compounds competing for sorption, and the properties of the virus [6]. In general, low pH reduces the infectivity of enteroviruses, as it reduces the stability of virus. However, HAV shows greater stability at low pH than other enteroviruses, which increases the possibility of infection to the cells [7]. Exposing a virus to change in pH can affect binding by altering the conformation of viral proteins e.g., hemagglutinin and spike protein, which respectively mediate the binding of influenza and coronaviruses to the target cells [8, 9] . In addition, metal compounds yield specific acids in aqueous solution, so that the ionic strength of a solution will depend on the types of metals present. Consequently, the effects of pH and metal ions on the binding of viruses to cells are considered to be important factors for the detection of viruses in food. To date, however, there have been few studies addressing this issue. Zajac et al. reported that Ca 2+ promotes the interaction between HAV and BS-C-1 cells (monkey kidney cell line) [10], and Bishop et al. showed that low pH and divalent metal ions (Mg 2+ , Ca 2+ and Zn 2+ ) enhance the interaction between HAV and BS-C-1 cells due to changes in the viral capsid conformation [11] . Although these studies provide useful information on the binding of HAV to BS-C-1 cells, much remains to be learned about the effects of pH and metal ions on the binding of HAV to different cell types.
+5	151	159 solution	Chemical	CHEBI_75958
+5	573	581 proteins	Chemical	CHEBI_36080
+5	663	672 influenza	Disease	DOID_8469
+5	764	769 acids	Chemical	CHEBI_37527
+5	781	789 solution	Chemical	CHEBI_75958
+5	823	831 solution	Chemical	CHEBI_75958
+5	860	866 metals	Chemical	CHEBI_33521
+5	918	922 ions	Chemical	CHEBI_24870
+5	1279	1283 ions	Chemical	CHEBI_24870
+5	1569	1573 ions	Chemical	CHEBI_24870
+5	CHEBI-DOID	CHEBI_75958	DOID_8469
+5	CHEBI-DOID	CHEBI_36080	DOID_8469
+5	DOID-CHEBI	DOID_8469	CHEBI_37527
+5	DOID-CHEBI	DOID_8469	CHEBI_33521
+5	DOID-CHEBI	DOID_8469	CHEBI_24870
+
+6|chunk|Methods investigated as potential approaches for the detection of HAV in oysters include various polymerase chain reaction (PCR) techniques, such as nested-PCR [12, 13] , reverse transcription (RT)-PCR [14-17] and real time 19] . However, the detection of HAV is not directly compatible with PCR, because the method requires an appropriate concentration of sample, removal of interfering substances and the ability to distinguish between infectious and non-infectious virus particles [20, 21] . Although methods for concentrating virus, such as acid adsorption-elution, solvent extraction, polyethylene glycol precipitation and adsorption-elution-precipitation, have been developed to improve the efficiency of viral detection [22, 23] , these methods are time consuming and are not
+6	545	549 acid	Chemical	CHEBI_37527
+6	570	577 solvent	Chemical	CHEBI_46787
+6	590	602 polyethylene	Chemical	CHEBI_53226
+6	590	609 polyethylene glycol	Chemical	CHEBI_46793
+6	603	609 glycol	Chemical	CHEBI_13643
+

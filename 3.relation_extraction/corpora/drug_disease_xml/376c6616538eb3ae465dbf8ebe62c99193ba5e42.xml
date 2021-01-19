@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<document id="376c6616538eb3ae465dbf8ebe62c99193ba5e42">
+  <chunk id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0" text="Screening of an FDA-Approved Drug Library with a Two-Tier System Identifies an Entry Inhibitor of Severe Fever with Thrombocytopenia Syndrome Virus">
+    <entity charOffset="29-33" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e0" ontology_id="CHEBI_23888" text="Drug" type="chemical"/>
+    <entity charOffset="85-94" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e1" ontology_id="CHEBI_35222" text="Inhibitor" type="chemical"/>
+    <entity charOffset="116-132" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e2" ontology_id="DOID_1588" text="Thrombocytopenia" type="disease"/>
+    <entity charOffset="133-141" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e3" ontology_id="DOID_225" text="Syndrome" type="disease"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e2" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.p0" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e3" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.p1" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e2" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.p2" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.e3" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c0.p3" relation="true"/>
+  </chunk>
+  <chunk id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1" text="Severe fever with thrombocytopenia syndrome virus (SFTSV) is an emerging tick-borne bunyavirus that causes severe disease in humans with case-fatality rates of up to 30%. There are currently very limited treatment options for SFTSV infection. We conducted a drug repurposing program by establishing a two-tier test system to rapidly screen a Food and Drug Administration-(FDA)-approved drug library for drug compounds with anti-SFTSV activity in vitro. We identified five drug compounds that inhibited SFTSV replication at low micromolar concentrations, including hexachlorophene, triclosan, regorafenib, eltrombopag, and broxyquinoline. Among them, hexachlorophene was the most potent with an IC 50 of 1.3 ± 0.3 µM and a selectivity index of 18.7. Mechanistic studies suggested that hexachlorophene was a virus entry inhibitor, which impaired SFTSV entry into host cells by interfering with cell membrane fusion. Molecular docking analysis predicted that the binding of hexachlorophene with the hydrophobic pocket between domain I and domain III of the SFTSV Gc glycoprotein was highly stable. The novel antiviral activity and mechanism of hexachlorophene in this study would facilitate the use of hexachlorophene as a lead compound to develop more entry inhibitors with higher anti-SFTSV potency and lower toxicity.">
+    <entity charOffset="18-34" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" ontology_id="DOID_1588" text="thrombocytopenia" type="disease"/>
+    <entity charOffset="35-43" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="114-121" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="258-262" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="342-346" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e4" ontology_id="CHEBI_33290" text="Food" type="chemical"/>
+    <entity charOffset="351-355" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e5" ontology_id="CHEBI_23888" text="Drug" type="chemical"/>
+    <entity charOffset="386-390" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e6" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="403-407" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e7" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="472-476" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e8" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="564-579" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e9" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="650-665" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e10" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="784-799" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e11" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="971-986" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e12" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="1063-1075" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e13" ontology_id="CHEBI_17089" text="glycoprotein" type="chemical"/>
+    <entity charOffset="1105-1114" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e14" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1141-1156" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e15" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="1199-1214" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e16" ontology_id="CHEBI_5693" text="hexachlorophene" type="chemical"/>
+    <entity charOffset="1256-1266" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e17" ontology_id="CHEBI_35222" text="inhibitors" type="chemical"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e3" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p0" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e4" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p1" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e5" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p2" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e6" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p3" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e7" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p4" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e8" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p5" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e9" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p6" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e10" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p7" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e11" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p8" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e12" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p9" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e13" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p10" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e14" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p11" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e15" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p12" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e16" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p13" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e0" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e17" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p14" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e3" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p15" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e4" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p16" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e5" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p17" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e6" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p18" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e7" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p19" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e8" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p20" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e9" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p21" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e10" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p22" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e11" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p23" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e12" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p24" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e13" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p25" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e14" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p26" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e15" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p27" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e16" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p28" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e1" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e17" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p29" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e3" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p30" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e4" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p31" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e5" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p32" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e6" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p33" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e7" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p34" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e8" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p35" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e9" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p36" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e10" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p37" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e11" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p38" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e12" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p39" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e13" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p40" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e14" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p41" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e15" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p42" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e16" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p43" relation="true"/>
+    <pair e1="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e2" e2="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.e17" id="376c6616538eb3ae465dbf8ebe62c99193ba5e42.c1.p44" relation="true"/>
+  </chunk>
+</document>

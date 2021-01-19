@@ -1,0 +1,31 @@
+0|chunk|viruses A Bioinformatics View of Glycan-Virus Interactions
+
+1|chunk|Evidence of the mediation of glycan molecules in the interaction between viruses and their hosts is accumulating and is now partially reflected in several online databases. Bioinformatics provides convenient and efficient means of searching, visualizing, comparing, and sometimes predicting, interactions in numerous and diverse molecular biology applications related to the -omics fields. As viromics is gaining momentum, bioinformatics support is increasingly needed. We propose a survey of the current resources for searching, visualizing, comparing, and possibly predicting host-virus interactions that integrate the presence and role of glycans. To the best of our knowledge, we have mapped the specialized and general-purpose databases with the appropriate focus. With an illustration of their potential usage, we also discuss the strong and weak points of the current bioinformatics landscape in the context of understanding viral infection and the immune response to it.
+1	29	35 glycan	Chemical	CHEBI_18154
+1	36	45 molecules	Chemical	CHEBI_25367
+1	634	638 role	Chemical	CHEBI_50906
+1	932	947 viral infection	Disease	DOID_934
+1	CHEBI-DOID	CHEBI_18154	DOID_934
+1	CHEBI-DOID	CHEBI_25367	DOID_934
+1	CHEBI-DOID	CHEBI_50906	DOID_934
+
+2|chunk|Viruses 2019, 11, 374 2 of 14 viruses [11] . In turn, this anti-viral system is exploited by several viruses that target macrophages or dendritic cells for their replication, like the Ebola virus [8] and SARS virus [11] . Another unexpected role of host glycans is to evade immune system recognition of viral molecules. By having their virion surface proteins covered with host glycans, specific viral epitopes are physically hidden under neutral host molecules and cannot be recognized by immune cells. This effect is referred as to the glycan shield and the best example of this feature are the HIV virus, known to have the highest density of glycans attached to its surface proteins [12] , and the Lassa virus [13] .
+2	204	208 SARS	Disease	DOID_2945
+2	241	245 role	Chemical	CHEBI_50906
+2	254	261 glycans	Chemical	CHEBI_18154
+2	309	318 molecules	Chemical	CHEBI_25367
+2	351	359 proteins	Chemical	CHEBI_36080
+2	378	385 glycans	Chemical	CHEBI_18154
+2	452	461 molecules	Chemical	CHEBI_25367
+2	538	544 glycan	Chemical	CHEBI_18154
+2	645	652 glycans	Chemical	CHEBI_18154
+2	677	685 proteins	Chemical	CHEBI_36080
+2	DOID-CHEBI	DOID_2945	CHEBI_50906
+2	DOID-CHEBI	DOID_2945	CHEBI_18154
+2	DOID-CHEBI	DOID_2945	CHEBI_25367
+2	DOID-CHEBI	DOID_2945	CHEBI_36080
+
+3|chunk|All of these functions are critical for viral replication of most pathogenic viruses and could be exploited to create antiviral compounds [14] . Nonetheless this remains a challenge because of the complexity of these interactions involving diverse host-virus hybrid molecules. The cellular machinery produces numerous sugars that can be combined into a broad variety of glycosylation types, allowing an extended heterogeneity of virion surface molecules. Studying such multifaceted interplay between glycans and viruses results in complex data that cannot be thoroughly understood without databases and bioinformatics [15] . The interpretation of large-scale analyses depends on comparative and predictive approaches in which biological databases play a crucial role. This emphasizes the importance of collecting, storing, curating, and making these data searchable online. Next, crosslinking the various specialized databases brings the user a broader view to grasp the complexity of multi-organism interactions. In the present review, we suggest that bioinformatics and databases are key to harnessing the potential for new knowledge discovery in virus and vaccine research. We also show that integrating complementary information from multiple sources is not straightforward.
+3	118	127 antiviral	Chemical	CHEBI_22587
+3	500	507 glycans	Chemical	CHEBI_18154
+

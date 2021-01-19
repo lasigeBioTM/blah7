@@ -1,0 +1,27 @@
+0|chunk|lab-attenuated rabies Virus causes abortive infection and induces cytokine expression in astrocytes by activating Mitochondrial antiviral- signaling Protein signaling Pathway
+0	114	127 Mitochondrial	Phenotype	HP_0001427
+0	139	148 signaling	Gene_function	GO_0023052
+0	157	166 signaling	Gene_function	GO_0023052
+0	157	174 signaling Pathway	Gene_function	GO_0007165
+0	HP-GO	HP_0001427	GO_0023052
+0	HP-GO	HP_0001427	GO_0007165
+
+1|chunk|Rabies is an ancient disease but remains endemic in most parts of the world and causes approximately 59,000 deaths annually. The mechanism through which the causative agent, rabies virus (RABV), evades the host immune response and infects the host central nervous system (CNS) has not been completely elucidated thus far. Our previous studies have shown that lab-attenuated, but not wild-type (wt), RABV activates the innate immune response in the mouse and dog models. In this present study, we demonstrate that lab-attenuated RABV causes abortive infection in astrocytes, the most abundant glial cells in the CNS. Furthermore, we found that lab-attenuated RABV produces more double-stranded RNA (dsRNA) than wt RABV, which is recognized by retinoic acidinducible gene I (RIG-I) or melanoma differentiation-associated protein 5 (MDA5). Activation of mitochondrial antiviral-signaling protein (MAVS), the common adaptor molecule for RIG-I and MDA5, results in the production of type I interferon (IFN) and the expression of hundreds of IFN-stimulated genes, which suppress RABV replication and spread in astrocytes. Notably, lab-attenuated RABV replicates in a manner identical to that of wt RABV in MAVS/ astrocytes. It was also found that lab-attenuated, but not wt, RABV induces the expression of inflammatory cytokines via the MAVS-p38/NF-B signaling pathway. These inflammatory cytokines increase the blood-brain barrier permeability and thus enable immune cells and antibodies infiltrate the CNS parenchyma, resulting in RABV control and elimination. In contrast, wt RABV restricts dsRNA production and thus evades innate recognition by RIG-I/MDA5 in astrocytes, which could be one of the mechanisms by which wt RABV evades the host immune response in resident CNS cells. Our findings suggest that astrocytes play a critical role in limiting the replication of lab-attenuated RABV in the CNS.
+1	211	226 immune response	Gene_function	GO_0006955
+1	248	255 central	Phenotype	HP_0030645
+1	418	440 innate immune response	Gene_function	GO_0045087
+1	425	440 immune response	Gene_function	GO_0006955
+1	783	791 melanoma	Phenotype	HP_0002861
+1	851	864 mitochondrial	Phenotype	HP_0001427
+1	1348	1357 signaling	Gene_function	GO_0023052
+1	1742	1757 immune response	Gene_function	GO_0006955
+1	GO-HP	GO_0006955	HP_0030645
+1	GO-HP	GO_0006955	HP_0002861
+1	GO-HP	GO_0006955	HP_0001427
+1	HP-GO	HP_0030645	GO_0045087
+1	HP-GO	HP_0030645	GO_0023052
+1	GO-HP	GO_0045087	HP_0002861
+1	GO-HP	GO_0045087	HP_0001427
+1	HP-GO	HP_0002861	GO_0023052
+1	HP-GO	HP_0001427	GO_0023052
+

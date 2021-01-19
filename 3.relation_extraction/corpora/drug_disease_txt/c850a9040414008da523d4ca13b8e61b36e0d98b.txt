@@ -1,0 +1,68 @@
+0|chunk|Antagonism of dsRNA-Induced Innate Immune Pathways by NS4a and NS4b Accessory Proteins during MERS Coronavirus Infection
+0	78	86 Proteins	Chemical	CHEBI_36080
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) was first identified in 2012 as a novel etiological agent of severe respiratory disease in humans. As during infection by other viruses, host sensing of viral double-stranded RNA (dsRNA) induces several antiviral pathways. These include interferon (IFN), oligoadenylate synthetase (OAS)-RNase L, and protein kinase R (PKR). Coronaviruses, including MERS-CoV, potently suppress the activation of these pathways, inducing only modest host responses. Our study describes the functions of two accessory proteins unique to MERS-CoV and related viruses, NS4a and NS4b, during infection in human airway epithelium-derived A549 cells. NS4a has been previously characterized as a dsRNA binding protein, while NS4b is a 2=,5=-phosphodiesterase with structural and enzymatic similarity to NS2 encoded by mouse hepatitis virus (MHV). We found that deletion of NS4a results in increased interferon lambda (IFNL1) expression, as does mutation of either the catalytic site or nuclear localization sequence of NS4b. All of the mutant viruses we tested exhibited slight decreases in replication. We previously reported that, like MHV NS2, NS4b antagonizes OAS-RNase L, but suppression of IFN is a previously unidentified function for viral phosphodiesterases. Unexpectedly, deletion of NS4a does not result in robust activation of the PKR or OAS-RNase L pathways. Therefore, MERS-CoV likely encodes other proteins that contribute to suppression or evasion of these antiviral innate immune pathways that should be an important focus of future work. This study provides additional insight into the complex interactions between MERS-CoV and the host immune response.
+1	0	32 Middle East respiratory syndrome	Disease	DOID_0080642
+1	24	32 syndrome	Disease	DOID_225
+1	136	143 disease	Disease	DOID_4
+1	215	234 double-stranded RNA	Chemical	CHEBI_67208
+1	231	234 RNA	Chemical	CHEBI_33697
+1	236	241 dsRNA	Chemical	CHEBI_67208
+1	259	268 antiviral	Chemical	CHEBI_22587
+1	293	303 interferon	Chemical	CHEBI_52999
+1	356	363 protein	Chemical	CHEBI_16541
+1	555	563 proteins	Chemical	CHEBI_36080
+1	727	732 dsRNA	Chemical	CHEBI_67208
+1	741	748 protein	Chemical	CHEBI_16541
+1	855	864 hepatitis	Disease	DOID_2237
+1	930	940 interferon	Chemical	CHEBI_52999
+1	1444	1452 proteins	Chemical	CHEBI_36080
+1	1504	1513 antiviral	Chemical	CHEBI_22587
+1	DOID-CHEBI	DOID_0080642	CHEBI_67208
+1	DOID-CHEBI	DOID_0080642	CHEBI_33697
+1	DOID-CHEBI	DOID_0080642	CHEBI_22587
+1	DOID-CHEBI	DOID_0080642	CHEBI_52999
+1	DOID-CHEBI	DOID_0080642	CHEBI_16541
+1	DOID-CHEBI	DOID_0080642	CHEBI_36080
+1	DOID-CHEBI	DOID_225	CHEBI_67208
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_22587
+1	DOID-CHEBI	DOID_225	CHEBI_52999
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_67208
+1	DOID-CHEBI	DOID_4	CHEBI_33697
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_52999
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	CHEBI-DOID	CHEBI_67208	DOID_2237
+1	CHEBI-DOID	CHEBI_33697	DOID_2237
+1	CHEBI-DOID	CHEBI_22587	DOID_2237
+1	CHEBI-DOID	CHEBI_52999	DOID_2237
+1	CHEBI-DOID	CHEBI_16541	DOID_2237
+1	CHEBI-DOID	CHEBI_36080	DOID_2237
+
+2|chunk|IMPORTANCE Middle East respiratory syndrome coronavirus (MERS-CoV) is the second novel zoonotic coronavirus to emerge in the 21st century and cause outbreaks of severe respiratory disease. More than 2,200 cases and 800 deaths have been reported to date, yet there are no licensed vaccines or treatments. Coronaviruses encode unique accessory proteins that are not required for replication but most likely play roles in immune antagonism and/or pathogenesis. Our study describes the functions of MERS-CoV accessory proteins NS4a and NS4b during infection of a human airway-derived cell line. Loss of these accessory proteins during MERS-CoV infection leads to host antiviral activation and modestly attenuates replication. In the case of both NS4a and NS4b, we have identified roles during infection not previously described, yet the lack of robust activation suggests much remains to be learned about the interactions between MERS-CoV and the infected host. of infection to uncover the full range of their interactions with the innate immune response.
+2	11	43 Middle East respiratory syndrome	Disease	DOID_0080642
+2	35	43 syndrome	Disease	DOID_225
+2	342	350 proteins	Chemical	CHEBI_36080
+2	514	522 proteins	Chemical	CHEBI_36080
+2	615	623 proteins	Chemical	CHEBI_36080
+2	664	673 antiviral	Chemical	CHEBI_22587
+2	DOID-CHEBI	DOID_0080642	CHEBI_36080
+2	DOID-CHEBI	DOID_0080642	CHEBI_22587
+2	DOID-CHEBI	DOID_225	CHEBI_36080
+2	DOID-CHEBI	DOID_225	CHEBI_22587
+
+3|chunk|RESULTS
+
+4|chunk|In order to study the effects of NS4a and NS4b on MERS-CoV interactions with the host innate immune system, we used a panel of recombinant MERS-CoV mutants. Deletion mutants MERS-NS4a and MERS-NS4ab were generated from the MERS-CoV infectious clone derived from the MERS-EMC2012 strain (27) as follows and are described in detail in Materials and Methods and diagrammed in Fig. 1A and B. Briefly, MERS-NS4a was generated by altering the start codon (ATGATT) and adding an in-frame stop codon 10 codons downstream (TGGTGA) to ablate synthesis of the FIG 1 MERS-CoV NS4a and NS4b recombinant mutants. (A) MERS-CoV genome RNA with open reading frames shown. (B) NS4a and NS4b proteins expressed by wild-type and mutant MERS-CoVs. The catalytic His residues of the PDE are shown, and the vertical black bar indicates the NLS of NS4b; the red lettering indicates amino acid substitutions of the catalytic His residue and within the NLS. (C) Expression of viral proteins from recombinant MERS-CoV viruses. A549 DPP4 cells were infected at an MOI of 10 with WT MERS-CoV, MERS-NS4a, MERS-NS4ab, MERS-NS4b H182R , or MERS-NS4b NLSmut or mock infected. Cell lysates were prepared at 24 and 48 h postinfection, analyzed by SDS-PAGE, and probed by Western blotting with rabbit antiserum against NS4a and NS4b or mouse monoclonal antibodies against MERS nucleocapsid protein (N) and GAPDH. The Western blot data are from one representative of three independent infections.
+4	624	627 RNA	Chemical	CHEBI_33697
+4	678	686 proteins	Chemical	CHEBI_36080
+4	863	868 amino	Chemical	CHEBI_46882
+4	863	873 amino acid	Chemical	CHEBI_33704
+4	869	873 acid	Chemical	CHEBI_37527
+4	961	969 proteins	Chemical	CHEBI_36080
+4	1361	1368 protein	Chemical	CHEBI_16541
+

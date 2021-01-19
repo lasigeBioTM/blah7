@@ -1,0 +1,14 @@
+0|chunk|Feature Selection Methods for Identifying Genetic Determinants of Host Species in RNA Viruses
+0	82	85 RNA	Chemical	CHEBI_33697
+
+1|chunk|Despite environmental, social and ecological dependencies, emergence of zoonotic viruses in human populations is clearly also affected by genetic factors which determine cross-species transmission potential. RNA viruses pose an interesting case study given their mutation rates are orders of magnitude higher than any other pathogen -as reflected by the recent emergence of SARS and Influenza for example. Here, we show how feature selection techniques can be used to reliably classify viral sequences by host species, and to identify the crucial minority of host-specific sites in pathogen genomic data. The variability in alleles at those sites can be translated into prediction probabilities that a particular pathogen isolate is adapted to a given host. We illustrate the power of these methods by: 1) identifying the sites explaining SARS coronavirus differences between human, bat and palm civet samples; 2) showing how cross species jumps of rabies virus among bat populations can be readily identified; and 3) de novo identification of likely functional influenza host discriminant markers.
+1	208	211 RNA	Chemical	CHEBI_33697
+1	374	378 SARS	Disease	DOID_2945
+1	383	392 Influenza	Disease	DOID_8469
+1	839	843 SARS	Disease	DOID_2945
+1	949	955 rabies	Disease	DOID_11260
+1	1062	1071 influenza	Disease	DOID_8469
+1	CHEBI-DOID	CHEBI_33697	DOID_2945
+1	CHEBI-DOID	CHEBI_33697	DOID_8469
+1	CHEBI-DOID	CHEBI_33697	DOID_11260
+

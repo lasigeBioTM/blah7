@@ -1,0 +1,35 @@
+0|chunk|Porcine epidemic diarrhea virus E protein causes endoplasmic reticulum stress and up-regulates interleukin-8 expression
+0	17	25 diarrhea	Phenotype	HP_0002014
+0	49	70 endoplasmic reticulum	Gene_function	GO_0005783
+0	HP-GO	HP_0002014	GO_0005783
+
+1|chunk|Background: Porcine epidemic diarrhea virus (PEDV) is an important pathogen in swine and is responsible for substantial economic losses. Previous studies suggest that the PEDV E protein plays an important role in the viral assembly process. However, the subcellular localization and other functions of PEDV E protein still require more research. Methods: The subcellular localization and function of PEDV E protein were investigated by examining its effects on cell growth, cell cycle progression, interleukin-8 (IL-8) expression and cell survival. Results: The results show that plenty of PEDV E protein is localized in the ER, with small quantities localized in the nucleus. The PEDV E protein has no effect on the intestinal epithelial cells (IEC) growth, cell cycle and cyclin A expression. The cells expressing PEDV E protein express higher levels of IL-8 than control cells. Further studies show that PEDV E protein induced endoplasmic reticulum (ER) stress and activated NF-B which is responsible for the up-regulation of IL-8 and Bcl-2 expression. Conclusions: This study shows that the PEDV E protein is localized in the ER and the nucleus and it can cause ER stress. The PEDV E protein had no effect on the IEC growth and cell cycle. In addition, the PEDV E protein is able to up-regulate IL-8 and Bcl-2 expression.
+1	29	37 diarrhea	Phenotype	HP_0002014
+1	217	231 viral assembly	Gene_function	GO_0019068
+1	266	278 localization	Gene_function	GO_0051179
+1	371	383 localization	Gene_function	GO_0051179
+1	466	472 growth	Gene_function	GO_0040007
+1	474	484 cell cycle	Gene_function	GO_0007049
+1	608	617 localized	Phenotype	HP_0012838
+1	651	660 localized	Phenotype	HP_0012838
+1	668	675 nucleus	Gene_function	GO_0005634
+1	751	757 growth	Gene_function	GO_0040007
+1	759	769 cell cycle	Gene_function	GO_0007049
+1	930	951 endoplasmic reticulum	Gene_function	GO_0005783
+1	1114	1123 localized	Phenotype	HP_0012838
+1	1142	1149 nucleus	Gene_function	GO_0005634
+1	1222	1228 growth	Gene_function	GO_0040007
+1	1233	1243 cell cycle	Gene_function	GO_0007049
+1	HP-GO	HP_0002014	GO_0019068
+1	HP-GO	HP_0002014	GO_0051179
+1	HP-GO	HP_0002014	GO_0040007
+1	HP-GO	HP_0002014	GO_0007049
+1	HP-GO	HP_0002014	GO_0005634
+1	HP-GO	HP_0002014	GO_0005783
+1	GO-HP	GO_0019068	HP_0012838
+1	GO-HP	GO_0051179	HP_0012838
+1	GO-HP	GO_0040007	HP_0012838
+1	GO-HP	GO_0007049	HP_0012838
+1	HP-GO	HP_0012838	GO_0005634
+1	HP-GO	HP_0012838	GO_0005783
+

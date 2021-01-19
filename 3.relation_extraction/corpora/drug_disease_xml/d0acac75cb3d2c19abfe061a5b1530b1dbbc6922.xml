@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<document id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922">
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c0" text="Dominating Biological Networks"/>
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1" text="Proteins are essential macromolecules of life that carry out most cellular processes. Since proteins aggregate to perform function, and since protein-protein interaction (PPI) networks model these aggregations, one would expect to uncover new biology from PPI network topology. Hence, using PPI networks to predict protein function and role of protein pathways in disease has received attention.">
+    <entity charOffset="0-8" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e0" ontology_id="CHEBI_36080" text="Proteins" type="chemical"/>
+    <entity charOffset="23-37" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e1" ontology_id="CHEBI_33839" text="macromolecules" type="chemical"/>
+    <entity charOffset="92-100" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="171-174" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e3" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="256-259" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e4" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="291-294" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e5" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="315-322" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="336-340" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e7" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="344-351" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e8" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="364-371" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" ontology_id="DOID_4" text="disease" type="disease"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p0" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e1" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p1" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e2" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p2" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e3" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p3" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e4" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p4" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e5" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p5" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e6" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p6" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e7" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p7" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e8" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.p8" relation="true"/>
+  </chunk>
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2" text="A debate remains open about whether network properties of ''biologically central (BC)'' genes (i.e., their protein products), such as those involved in aging, cancer, infectious diseases, or signaling and drugtargeted pathways, exhibit some topological centrality compared to the rest of the proteins in the human PPI network. To help resolve this debate, we design new network-based approaches and apply them to get new insight into biological function and disease. We hypothesize that BC genes have a topologically central (TC) role in the human PPI network. We propose two different concepts of topological centrality. We design a new centrality measure to capture complex wirings of proteins in the network that identifies as TC those proteins that reside in dense extended network neighborhoods. Also, we use the notion of domination and find dominating sets (DSs) in the PPI network, i.e., sets of proteins such that every protein is either in the DS or is a neighbor of the DS. Clearly, a DS has a TC role, as it enables efficient communication between different network parts. We find statistically significant enrichment in BC genes of TC nodes and outperform the existing methods indicating that genes involved in key biological processes occupy topologically complex and dense regions of the network and correspond to its ''spine'' that connects all other network parts and can thus pass cellular signals efficiently throughout the network. To our knowledge, this is the first study that explores domination in the context of PPI networks.">
+    <entity charOffset="107-114" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="292-300" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="314-317" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e2" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="434-453" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" ontology_id="CHEBI_24432" text="biological function" type="chemical"/>
+    <entity charOffset="530-534" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e4" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="548-551" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e5" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="687-695" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="739-747" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="865-868" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e8" ontology_id="CHEBI_85362" text="DSs" type="chemical"/>
+    <entity charOffset="865-868" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" ontology_id="DOID_0050125" text="DSs" type="disease"/>
+    <entity charOffset="877-880" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e10" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <entity charOffset="904-912" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e11" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="929-936" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e12" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1008-1012" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e13" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="1537-1540" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e14" ontology_id="CHEBI_18361" text="PPI" type="chemical"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p0" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e1" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p1" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e2" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p2" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p3" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e4" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p4" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e5" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p5" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e6" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p6" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e7" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p7" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e10" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p8" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e11" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p9" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e12" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p10" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e13" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p11" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e9" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e14" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p12" relation="true"/>
+  </chunk>
+</document>

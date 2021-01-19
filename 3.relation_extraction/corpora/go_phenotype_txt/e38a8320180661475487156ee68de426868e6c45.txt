@@ -1,0 +1,66 @@
+0|chunk|cancers Endolysosomal Ca 2+ Signalling and Cancer Hallmarks: Two-Pore Channels on the Move, TRPML1 Lags Behind!
+0	28	38 Signalling	Gene_function	GO_0023052
+0	43	49 Cancer	Phenotype	HP_0002664
+0	GO-HP	GO_0023052	HP_0002664
+
+1|chunk|The acidic vesicles of the endolysosomal (EL) system are emerging as an intracellular Ca 2+ store implicated in the regulation of multiple cellular functions. The EL Ca 2+ store releases Ca 2+ through a variety of Ca 2+ -permeable channels, including Transient Receptor Potential (TRP) Mucolipin 1-3 (TRPML1-3) and two-pore channels 1-2 (TPC1-2), whereas EL Ca 2+ refilling is sustained by the proton gradient across the EL membrane and/or by the endoplasmic reticulum (ER). EL Ca 2+ signals may be either spatially restricted to control vesicle trafficking, autophagy and membrane repair or may be amplified into a global Ca 2+ signal through the Ca 2+ -dependent recruitment of ER-embedded channels. Emerging evidence suggested that nicotinic acid adenine dinucleotide phosphate (NAADP)-gated TPCs sustain multiple cancer hallmarks, such as migration, invasiveness and angiogenesis. Herein, we first survey the EL Ca 2+ refilling and release mechanisms and then focus on the oncogenic role of EL Ca 2+ signaling. While the evidence in favor of TRPML1 involvement in neoplastic transformation is yet to be clearly provided, TPCs are emerging as an alternative target for anticancer therapies.
+1	72	85 intracellular	Gene_function	GO_0005622
+1	251	260 Transient	Phenotype	HP_0025153
+1	424	432 membrane	Gene_function	GO_0016020
+1	447	468 endoplasmic reticulum	Gene_function	GO_0005783
+1	538	545 vesicle	Gene_function	GO_0031982
+1	559	568 autophagy	Gene_function	GO_0006914
+1	573	581 membrane	Gene_function	GO_0016020
+1	817	823 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0005622	HP_0025153
+1	GO-HP	GO_0005622	HP_0002664
+1	HP-GO	HP_0025153	GO_0016020
+1	HP-GO	HP_0025153	GO_0005783
+1	HP-GO	HP_0025153	GO_0031982
+1	HP-GO	HP_0025153	GO_0006914
+1	GO-HP	GO_0016020	HP_0002664
+1	GO-HP	GO_0005783	HP_0002664
+1	GO-HP	GO_0031982	HP_0002664
+1	GO-HP	GO_0006914	HP_0002664
+
+2|chunk|Cancers 2019, 11, 27 2 of 28 (SERCA), the mitochondrial Ca 2+ uniporter (MCU) and the Secretory Pathway Ca 2+ -ATPase (SPCA), which sequesters Ca 2+ into the Golgi lumen [1] [2] [3] [4]. An increase in intracellular Ca 2+ concentration ([Ca 2+ ] i ) is produced by the opening of Ca 2+ -permeable channels, which are located either on the PM or on the membrane of endogenous organelles, in response to extracellular stimulation. Typically, extracellular agonists, including growth factors, cytokines, neurotransmitters and hormones, bind to their specific tyrosine kinase receptors (TKRs) or G q -protein coupled receptors (GPCRs), thereby recruiting, respectively, phospholipase C (PLC) and PLC, which in turn cleave phosphatidylinositol-4,5-bisphosphate (PIP 2 ) into inositol-1,4,5-trisphosphate (InsP 3 ) and diacyl-glycerol (DAG) [1]. Subsequently, InsP 3 primes immobile InsP 3 receptors (InsP 3 Rs), which reside at juxtaposed endoplasmic reticulum (ER)-PM junctions, to respond to cytosolic Ca 2+ according to the process of Ca 2+ -induced Ca 2+ release (CICR), which enables to spatially restricted Ca 2+ signals to spread across the cytoplasm as a regenerative Ca 2+ wave [5, 6] . Moreover, InsP 3 -induced Ca 2+ release can be further amplified by the recruitment of adjoining ryanodine receptors (RyRs), which are also sensitive to CICR [7] . Additionally, InsP 3 -induced Ca 2+ release causes a large drop in the ER Ca 2+ concentration ([Ca 2+ ] ER ) which triggers a signaling cascade leading to the opening of a Ca 2+ -permeable pathway on the PM, known as store-operated Ca 2+ entry (SOCE) [8, 9] . SOCE is activated when ER Ca 2+ dissociates from the luminal EF hands domain of STIM1 (Stromal Interaction Molecule 1), the sensor of [Ca 2+ ] ER , which undergoes a dramatic conformational change and sub-cellular repositioning. The depletion of ER Ca 2+ induces STIM1 to oligomerize and translocate from its reticular location in the bulk ER to specialized ER-PM junctions (20 nm) where it forms STIM1 puncta and interacts with the pore-forming subunit of store-operated channels (SOCs), Orai1 [8] . The dynamic interplay between InsP 3 -induced ER Ca 2+ release and SOCE gives raise to distinct spatio-temporally complex Ca 2+ signatures, ranging from local Ca 2+ puffs to repetitive global Ca 2+ oscillations, that selectively regulate different cellular functions [2, 10, 11] .
+2	42	55 mitochondrial	Phenotype	HP_0001427
+2	158	169 Golgi lumen	Gene_function	GO_0005796
+2	202	215 intracellular	Gene_function	GO_0005622
+2	352	360 membrane	Gene_function	GO_0016020
+2	402	415 extracellular	Gene_function	GO_0005576
+2	440	453 extracellular	Gene_function	GO_0005576
+2	474	480 growth	Gene_function	GO_0040007
+2	937	958 endoplasmic reticulum	Gene_function	GO_0005783
+2	1146	1155 cytoplasm	Gene_function	GO_0005737
+2	1484	1493 signaling	Gene_function	GO_0023052
+2	1603	1607 SOCE	Gene_function	GO_0002115
+2	1618	1622 SOCE	Gene_function	GO_0002115
+2	2187	2191 SOCE	Gene_function	GO_0002115
+2	HP-GO	HP_0001427	GO_0005796
+2	HP-GO	HP_0001427	GO_0005622
+2	HP-GO	HP_0001427	GO_0016020
+2	HP-GO	HP_0001427	GO_0005576
+2	HP-GO	HP_0001427	GO_0040007
+2	HP-GO	HP_0001427	GO_0005783
+2	HP-GO	HP_0001427	GO_0005737
+2	HP-GO	HP_0001427	GO_0023052
+2	HP-GO	HP_0001427	GO_0002115
+
+3|chunk|The ER is by far the largest and best studied intracellular Ca 2+ reservoir engaged by extracellular stimuli, possessing a complete repertoire of Ca 2+ pumps, i.e., SERCA, to effect filling, luminal Ca 2+ -binding proteins, e.g., calnexin and calreticulin, to effect buffering and Ca 2+ -permeable channels, i.e., InsP 3 Rs and RyRs, to effect release [7, 12] . Nevertheless, the ER is not the sole endogenous Ca 2+ store in mammalian cells. It has been shown that also the acidic vesicles of the endo-lysosomal (EL) system serve as an additional Ca 2+ reservoir that is recruited by extracellular ligands through the generation of the novel Ca 2+ -releasing second messenger, nicotinic acid adenine dinucleotide phosphate (NAADP) [12] [13] [14] [15] . The battery of Ca 2+ refilling and release mechanisms endowed to acidic EL vesicles is emerging as a crucial signalling network to finely tune local processes, such as membrane fusion and individualized vesicular movements [16] . In addition, the establishment of EL-ER membrane contact sites (MCSs) enables EL Ca 2+ release to trigger cytosolic Ca 2+ waves by recruiting ER-resident InsP 3 Rs and RyRs through the CICR process [17, 18] .
+3	46	59 intracellular	Gene_function	GO_0005622
+3	87	100 extracellular	Gene_function	GO_0005576
+3	584	597 extracellular	Gene_function	GO_0005576
+3	862	872 signalling	Gene_function	GO_0023052
+3	921	929 membrane	Gene_function	GO_0016020
+3	921	936 membrane fusion	Gene_function	GO_0061025
+3	1023	1031 membrane	Gene_function	GO_0016020
+
+4|chunk|Herein, we discuss the emerging role of EL Ca 2+ signalling in tumorigenesis [19] [20] [21] . We first illustrate the basic mechanisms of EL Ca 2+ refilling and release by focusing on the wealth of Ca 2+ -permeable channels that effect EL Ca 2+ mobilization, i.e., Transient Receptor Potential (TRP) Mucolipin 1-3 (TRPML1-3), two-pore channels 1-2 (TPC1-2), TRP Melastatin 2 (TRPM2), TRP Ankyrin 1 (TRPA1), P2X4 receptors and voltage-gated Ca 2+ channels ( Figure 1 ). Then, we describe how TPCs control several cancer hallmarks, including migration, invasiveness and angiogenesis, and the potential tumorigenic function of TRPML1. Finally, we speculate about the possibility to interfere with the EL Ca 2+ signalling machinery to design alternative anticancer treatments, by focusing on TPCs as emerging molecular targets.
+4	49	59 signalling	Gene_function	GO_0023052
+4	265	274 Transient	Phenotype	HP_0025153
+4	512	518 cancer	Phenotype	HP_0002664
+4	707	717 signalling	Gene_function	GO_0023052
+4	GO-HP	GO_0023052	HP_0025153
+4	GO-HP	GO_0023052	HP_0002664
+

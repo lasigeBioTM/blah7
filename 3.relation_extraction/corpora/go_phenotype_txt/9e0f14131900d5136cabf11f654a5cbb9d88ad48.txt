@@ -1,0 +1,18 @@
+0|chunk|Further Characterisation of the Translational Termination-Reinitiation Signal of the Influenza B Virus Segment 7 RNA
+
+1|chunk|Termination-dependent reinitiation is used to co-ordinately regulate expression of the M1 and BM2 open-reading frames (ORFs) of the dicistronic influenza B segment 7 RNA. The start codon of the BM2 ORF overlaps the stop codon of the M1 ORF in the pentanucleotide UAAUG and ,10% of ribosomes terminating at the M1 stop codon reinitiate translation at the overlapping AUG. BM2 synthesis requires the presence of, and translation through, 45 nt of RNA immediately upstream of the UAAUG, known as the 'termination upstream ribosome binding site' (TURBS). This region may tether ribosomal 40S subunits to the mRNA following termination and a short region of the TURBS, motif 1, with complementarity to helix 26 of 18S rRNA has been implicated in this process. Here, we provide further evidence for a direct interaction between mRNA and rRNA using antisense oligonucleotide targeting and functional analysis in yeast cells. The TURBS also binds initiation factor eIF3 and we show here that this protein stimulates reinitiation from both wild-type and defective TURBS when added exogenously, perhaps by stabilising ribosome-mRNA interactions. Further, we show that the position of the TURBS with respect to the UAAUG overlap is crucial, and that termination too far downstream of the 18S complementary sequence inhibits the process, probably due to reduced 40S tethering. However, in reporter mRNAs where the restart codon alone is moved downstream, termination-reinitiation is inhibited but not abolished, thus the site of reinitiation is somewhat flexible. Reinitiation on distant AUGs is not inhibited in eIF4G-depleted RRL, suggesting that the tethered 40S subunit can move some distance without a requirement for linear scanning.
+1	335	346 translation	Gene_function	GO_0006412
+1	375	384 synthesis	Gene_function	GO_0009058
+1	415	426 translation	Gene_function	GO_0006412
+1	519	527 ribosome	Gene_function	GO_0005840
+1	519	535 ribosome binding	Gene_function	GO_0043022
+1	528	535 binding	Gene_function	GO_0005488
+1	957	961 eIF3	Gene_function	GO_0005852
+1	1162	1170 position	Phenotype	HP_0012830
+1	GO-HP	GO_0006412	HP_0012830
+1	GO-HP	GO_0009058	HP_0012830
+1	GO-HP	GO_0005840	HP_0012830
+1	GO-HP	GO_0043022	HP_0012830
+1	GO-HP	GO_0005488	HP_0012830
+1	GO-HP	GO_0005852	HP_0012830
+

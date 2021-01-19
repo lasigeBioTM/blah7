@@ -1,0 +1,29 @@
+0|chunk|Serological Profiling of a Candida albicans Protein Microarray Reveals Permanent Host-Pathogen Interplay and Stage-Specific Responses during Candidemia
+
+1|chunk|Candida albicans in the immunocompetent host is a benign member of the human microbiota. Though, when host physiology is disrupted, this commensal-host interaction can degenerate and lead to an opportunistic infection. Relatively little is known regarding the dynamics of C. albicans colonization and pathogenesis. We developed a C. albicans cell surface protein microarray to profile the immunoglobulin G response during commensal colonization and candidemia. The antibody response from the sera of patients with candidemia and our negative control groups indicate that the immunocompetent host exists in permanent host-pathogen interplay with commensal C. albicans. This report also identifies cell surface antigens that are specific to different phases (i.e. acute, early and mid convalescence) of candidemia. We identified a set of thirteen cell surface antigens capable of distinguishing acute candidemia from healthy individuals and uninfected hospital patients with commensal colonization. Interestingly, a large proportion of these cell surface antigens are involved in either oxidative stress or drug resistance. In addition, we identified 33 antigenic proteins that are enriched in convalescent sera of the candidemia patients. Intriguingly, we found within this subset an increase in antigens associated with heme-associated iron acquisition. These findings have important implications for the mechanisms of C. albicans colonization as well as the development of systemic infection.
+1	342	354 cell surface	Gene_function	GO_0009986
+1	389	403 immunoglobulin	Gene_function	GO_0003823
+1	465	473 antibody	Gene_function	GO_0003823
+1	465	473 antibody	Gene_function	GO_0042571
+1	492	496 sera	Gene_function	GO_0004617
+1	696	708 cell surface	Gene_function	GO_0009986
+1	762	767 acute	Phenotype	HP_0011009
+1	845	857 cell surface	Gene_function	GO_0009986
+1	893	898 acute	Phenotype	HP_0011009
+1	915	922 healthy	Phenotype	HP_0032322
+1	1040	1052 cell surface	Gene_function	GO_0009986
+1	1085	1101 oxidative stress	Phenotype	HP_0025464
+1	1205	1209 sera	Gene_function	GO_0004617
+1	GO-HP	GO_0009986	HP_0011009
+1	GO-HP	GO_0009986	HP_0032322
+1	GO-HP	GO_0009986	HP_0025464
+1	GO-HP	GO_0003823	HP_0011009
+1	GO-HP	GO_0003823	HP_0032322
+1	GO-HP	GO_0003823	HP_0025464
+1	GO-HP	GO_0042571	HP_0011009
+1	GO-HP	GO_0042571	HP_0032322
+1	GO-HP	GO_0042571	HP_0025464
+1	GO-HP	GO_0004617	HP_0011009
+1	GO-HP	GO_0004617	HP_0032322
+1	GO-HP	GO_0004617	HP_0025464
+

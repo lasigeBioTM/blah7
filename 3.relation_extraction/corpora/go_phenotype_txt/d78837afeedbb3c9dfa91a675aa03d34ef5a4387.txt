@@ -1,0 +1,29 @@
+0|chunk|The role of airway macrophages in apoptotic cell clearance following acute and chronic lung inflammation
+0	34	58 apoptotic cell clearance	Gene_function	GO_0043277
+0	69	74 acute	Phenotype	HP_0011009
+0	79	86 chronic	Phenotype	HP_0011010
+0	GO-HP	GO_0043277	HP_0011009
+0	GO-HP	GO_0043277	HP_0011010
+
+1|chunk|Acute and chronic inflammatory responses in the lung are associated with the accumulation of large quantities of immune and structural cells undergoing apoptosis, which need to be engulfed by phagocytes in a process called 'efferocytosis'. Apoptotic cell recognition and removal from the lung is mediated predominantly by airway macrophages, though immature dendritic cells and non-professional phagocytes, such as epithelial cells and mesenchymal cells, can also display this function. Efficient clearance of apoptotic cells from the airways is essential for successful resolution of inflammation and the return to lung homeostasis. Disruption of this process leads to secondary necrosis of accumulating apoptotic cells, release of necrotic cell debris and subsequent uncontrolled inflammatory activation of the innate immune system by the released 'damage associated molecular patterns' (DAMPS). To control the duration of the immune response and prevent autoimmune reactions, anti-inflammatory signalling cascades are initiated in the phagocyte upon apoptotic cell uptake, mediated by a range of receptors that recognise specific phospholipids or proteins externalised on, or secreted by, the apoptotic cell. However, prolonged activation of apoptotic cell recognition receptors, such as the family of receptor tyrosine kinases Tyro3, Axl and MerTK (TAM), may delay or prevent inflammatory responses to subsequent infections. In this review, we will discuss recent advances in our This submission is related to Immunopathology of Lung Diseases -Drs
+1	0	5 Acute	Phenotype	HP_0011009
+1	10	17 chronic	Phenotype	HP_0011010
+1	250	266 cell recognition	Gene_function	GO_0008037
+1	680	688 necrosis	Gene_function	GO_0001906
+1	929	944 immune response	Gene_function	GO_0006955
+1	997	1007 signalling	Gene_function	GO_0023052
+1	1221	1230 prolonged	Phenotype	HP_0025297
+1	1255	1271 cell recognition	Gene_function	GO_0008037
+1	HP-GO	HP_0011009	GO_0008037
+1	HP-GO	HP_0011009	GO_0001906
+1	HP-GO	HP_0011009	GO_0006955
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011010	GO_0008037
+1	HP-GO	HP_0011010	GO_0001906
+1	HP-GO	HP_0011010	GO_0006955
+1	HP-GO	HP_0011010	GO_0023052
+1	GO-HP	GO_0008037	HP_0025297
+1	GO-HP	GO_0001906	HP_0025297
+1	GO-HP	GO_0006955	HP_0025297
+1	GO-HP	GO_0023052	HP_0025297
+

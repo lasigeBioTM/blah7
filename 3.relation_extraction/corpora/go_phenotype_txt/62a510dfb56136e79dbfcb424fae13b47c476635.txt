@@ -1,0 +1,29 @@
+0|chunk|Porcine transmissible gastroenteritis virus inhibits NF-B activity via nonstructural protein 3 to evade host immune system
+
+1|chunk|Background: Transmissible gastroenteritis virus (TGEV), a member of the family Coronaviridae, causes lethal watery diarrhea in piglets. Previous studies have revealed that the coronaviruses develop various strategies to evade the host innate immunity through the inhibition of nuclear factor kappa B (NF-B) signaling pathway. However, the ability of TGEV to inhibit the host innate immune response by modulating the NF-B signaling pathway is not clear.
+1	115	123 diarrhea	Phenotype	HP_0002014
+1	235	250 innate immunity	Gene_function	GO_0045087
+1	308	317 signaling	Gene_function	GO_0023052
+1	308	325 signaling pathway	Gene_function	GO_0007165
+1	376	398 innate immune response	Gene_function	GO_0045087
+1	383	398 immune response	Gene_function	GO_0006955
+1	423	432 signaling	Gene_function	GO_0023052
+1	423	440 signaling pathway	Gene_function	GO_0007165
+1	HP-GO	HP_0002014	GO_0045087
+1	HP-GO	HP_0002014	GO_0023052
+1	HP-GO	HP_0002014	GO_0007165
+1	HP-GO	HP_0002014	GO_0006955
+
+2|chunk|In this study, a dual luciferase reporter assay was used to confirm the inhibition of NF-B by TGEV infection and to identify the major viral proteins involved in the inhibition of NF-B signaling. Real-time quantitative PCR was used to quantify the mRNA expression of inflammatory factors. The deubiquitination of Nsp3 domains and its effect on IB and p65 were analyzed by western blotting. The ubiquitination level of IB was analyzed by immunoprecipitation.
+2	295	311 deubiquitination	Gene_function	GO_0016579
+
+3|chunk|Results: In ST and IPEC-J2 cells, TGEV exhibited a dose-dependent inhibition of NF-B activity. Individual TGEV protein screening revealed the high potential of non-structural protein 3 (Nsp3) to inhibit NF-B signaling, and leading to the downregulation of the NF-B-induced cytokine production. We demonstrated that the inhibitory effect of Nsp3 was mainly mediated through the suppression of IB degradation as well as the inhibition of p65 phosphorylation and nuclear translocation. Furthermore, the amino acid residues at positions 590-1,215 in Nsp3 were demonstrated to inhibit the degradation of IB by inhibiting the IB ubiquitination.
+3	400	411 degradation	Gene_function	GO_0009056
+3	445	460 phosphorylation	Gene_function	GO_0016310
+3	589	600 degradation	Gene_function	GO_0009056
+
+4|chunk|Conclusion: TGEV infection can inhibit the activation of the NF-B signaling pathway, which is mainly mediated by Nsp3 through the canonical pathway. The amino acid residues at positions 590-1,215 in Nsp3 compose the critical domain that mediates NF-B inhibition. We speculate that this inhibitory effect is likely to be related to the structure of PLP2 with deubiquitinating enzyme activity of the amino acid residues at positions 590-1,215 in Nsp3. Our study provides a better understanding of the TGEV-mediated innate immune modulation and lays the basis for studies on the pathogenesis of coronavirus.
+4	67	76 signaling	Gene_function	GO_0023052
+4	377	392 enzyme activity	Gene_function	GO_0003824
+4	578	590 pathogenesis	Gene_function	GO_0009405
+

@@ -1,0 +1,91 @@
+0|chunk|Osteopontin Fragments with Intact Thrombin-Sensitive Site Circulate in Cervical Cancer Patients
+0	71	86 Cervical Cancer	Disease	DOID_4362
+0	80	86 Cancer	Disease	DOID_162
+
+1|chunk|We investigated whether circulating osteopontin (OPN) could be used as a biomarker for cervical cancer. We employed a monoclonal antibody (mAb 659) specific for the unique and intact thrombin-sensitive site in OPN using an inhibition ELISA. We found significantly higher levels of OPN in 33 cervical cancer patients in both the plasma (mean +/-SD, 612 +/-106 ng/ mL) and serum (424 +/-121 ng/mL) compared to healthy subjects [409 +/-56 ng/mL, from 31 plasma samples (P < 0.0001), and 314 +/-98 ng/mL, from 32 serum samples (P = 0.0002), respectively]. Similar results were obtained when the plasma from a bigger group (147 individuals) of cervical cancer patients (560 +/-211 ng/mL) were compared with the same plasma samples of the healthy individuals (P = 0.0014). More significantly, the OPN level was highest in stage III-IV disease (614 +/-210 ng/mL, from 52 individuals; P = 0.0001) and least and nondiscriminatory in stage I (473 +/-110 ng/mL, from 40 individuals; P = 0.5318). No such discrimination was found when a mAb of a different specificity (mAb 446) was used in a similar inhibition ELISA to compare the two groups in the first study; a commercial capture ELISA also failed. The possibility that the target epitope recognized by the antibody probe in these assays was absent from the circulating OPN due to protein truncation was supported by gel fractionation of the OPN found in patients' plasma: 60-64 kDa fragments were found instead of the presumably full-length OPN (68 kDa) seen in healthy people. How these fragments are generated and what possible role they play in cancer biology remain interesting questions.
+1	73	82 biomarker	Chemical	CHEBI_59163
+1	87	102 cervical cancer	Disease	DOID_4362
+1	96	102 cancer	Disease	DOID_162
+1	291	306 cervical cancer	Disease	DOID_4362
+1	300	306 cancer	Disease	DOID_162
+1	639	654 cervical cancer	Disease	DOID_4362
+1	648	654 cancer	Disease	DOID_162
+1	829	836 disease	Disease	DOID_4
+1	1223	1230 epitope	Chemical	CHEBI_53000
+1	1258	1263 probe	Chemical	CHEBI_50406
+1	1323	1330 protein	Chemical	CHEBI_16541
+1	1573	1577 role	Chemical	CHEBI_50906
+1	1591	1597 cancer	Disease	DOID_162
+1	CHEBI-DOID	CHEBI_59163	DOID_4362
+1	CHEBI-DOID	CHEBI_59163	DOID_162
+1	CHEBI-DOID	CHEBI_59163	DOID_4
+1	DOID-CHEBI	DOID_4362	CHEBI_53000
+1	DOID-CHEBI	DOID_4362	CHEBI_50406
+1	DOID-CHEBI	DOID_4362	CHEBI_16541
+1	DOID-CHEBI	DOID_4362	CHEBI_50906
+1	DOID-CHEBI	DOID_162	CHEBI_53000
+1	DOID-CHEBI	DOID_162	CHEBI_50406
+1	DOID-CHEBI	DOID_162	CHEBI_16541
+1	DOID-CHEBI	DOID_162	CHEBI_50906
+1	DOID-CHEBI	DOID_4	CHEBI_53000
+1	DOID-CHEBI	DOID_4	CHEBI_50406
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+
+2|chunk|. As a member of the family of small integrin-binding ligand, N-linked glycophosphoproteins (SIBLINGs), OPN is highly conserved among mammals [3] .
+
+3|chunk|Human OPN has 314 amino acids, including a unique and conserved thrombin-sensitive site. Cleavage of this site by thrombin, which normally occurs in the circulation, fragments the protein roughly into two equal halves, each with different biological activities. The amino-terminal half of the protein binds to a variety of cell surface integrins, such as v1, v3, v5, v6, and 81, through the arginine-glycine-aspartate ( 159 RGD 161 ) motif in the protein, and also with 41 and 91 integrins, through the thrombin-generated site ( 162 SVVYGLR 168 ). The carboxy-terminal half interacts with the CD44 cell surface splice variants, CD44v6 and CD44v3 [4, 5] . Through these various extracellular interactions, thrombin-activated OPN plays pivotal roles in diverse physiological processes, such as bone remodeling, inflammation, and wound healing [6], as well as in various pathologies, including autoimmunity [7-9] and tumor metastasis [10] or progression [11, 12] . Thrombin-activated OPN has also been reported to inhibit the apoptosis in, or promote the survival and proliferation of, cancer cells [3] .
+3	18	23 amino	Chemical	CHEBI_46882
+3	180	187 protein	Chemical	CHEBI_16541
+3	293	300 protein	Chemical	CHEBI_16541
+3	457	464 protein	Chemical	CHEBI_16541
+3	1097	1103 cancer	Disease	DOID_162
+3	CHEBI-DOID	CHEBI_46882	DOID_162
+3	CHEBI-DOID	CHEBI_16541	DOID_162
+
+4|chunk|More recently, OPN was shown to exert an intracellular function which can affect diverse cellular processes such as tumor progression [13] and interferon- production in dendritic cells [14] . Here, too, these functions require the OPN protein to be appropriately cleaved, not by thrombin, but by various caspases [15] or produced as appropriate truncates from RNA splice variants [16] [17] [18] . Extracellularly, various metalloproteinases (MMPs) also cleave OPN into various types of fragments which have various tumorigenic or biological activities [19, 20] .
+4	236	243 protein	Chemical	CHEBI_16541
+4	361	364 RNA	Chemical	CHEBI_33697
+
+5|chunk|Overexpression of OPN in the form of mRNA transcripts or intracellular proteins was observed in tumor tissues derived from breast or lung cancer [21, 22] , ovarian cancer [23] , and cervical cancer [24] [25] [26] [27] . Significantly increased levels of circulating OPN were also reported for several types of cancer including cervical cancer [26] , prostate cancer [28] , and colorectal cancer [29] . However, there were conflicting reports regarding head and neck squamous cell carcinoma [30, 31] . In addition, different diagnostic kits were found to yield quite different results from one another for the same patient samples [32] . We were interested to use this non-invasive method to examine our cervical cancer patients. This type of cancer is very common in Hong Kong [24]; it is highly invasive and lethal since the disease can progress rapidly and asymptomatically from preclinical-lesion to overt cancer. We were disappointed with the results obtained initially using a commercial OPN detection kit, and consequently decided to devise our own detection assays. We herein describe the development of such an assay based on the use of a unique monoclonal antibody and an assay format that is used infrequently-inhibition ELISA.
+5	37	41 mRNA	Chemical	CHEBI_33699
+5	71	79 proteins	Chemical	CHEBI_36080
+5	133	144 lung cancer	Disease	DOID_1324
+5	138	144 cancer	Disease	DOID_162
+5	156	170 ovarian cancer	Disease	DOID_2394
+5	164	170 cancer	Disease	DOID_162
+5	182	197 cervical cancer	Disease	DOID_4362
+5	191	197 cancer	Disease	DOID_162
+5	310	316 cancer	Disease	DOID_162
+5	327	342 cervical cancer	Disease	DOID_4362
+5	336	342 cancer	Disease	DOID_162
+5	350	365 prostate cancer	Disease	DOID_10283
+5	359	365 cancer	Disease	DOID_162
+5	377	394 colorectal cancer	Disease	DOID_9256
+5	388	394 cancer	Disease	DOID_162
+5	466	489 squamous cell carcinoma	Disease	DOID_1749
+5	480	489 carcinoma	Disease	DOID_305
+5	703	718 cervical cancer	Disease	DOID_4362
+5	712	718 cancer	Disease	DOID_162
+5	742	748 cancer	Disease	DOID_162
+5	826	833 disease	Disease	DOID_4
+5	909	915 cancer	Disease	DOID_162
+5	CHEBI-DOID	CHEBI_33699	DOID_1324
+5	CHEBI-DOID	CHEBI_33699	DOID_162
+5	CHEBI-DOID	CHEBI_33699	DOID_2394
+5	CHEBI-DOID	CHEBI_33699	DOID_4362
+5	CHEBI-DOID	CHEBI_33699	DOID_10283
+5	CHEBI-DOID	CHEBI_33699	DOID_9256
+5	CHEBI-DOID	CHEBI_33699	DOID_1749
+5	CHEBI-DOID	CHEBI_33699	DOID_305
+5	CHEBI-DOID	CHEBI_33699	DOID_4
+5	CHEBI-DOID	CHEBI_36080	DOID_1324
+5	CHEBI-DOID	CHEBI_36080	DOID_162
+5	CHEBI-DOID	CHEBI_36080	DOID_2394
+5	CHEBI-DOID	CHEBI_36080	DOID_4362
+5	CHEBI-DOID	CHEBI_36080	DOID_10283
+5	CHEBI-DOID	CHEBI_36080	DOID_9256
+5	CHEBI-DOID	CHEBI_36080	DOID_1749
+5	CHEBI-DOID	CHEBI_36080	DOID_305
+5	CHEBI-DOID	CHEBI_36080	DOID_4
+

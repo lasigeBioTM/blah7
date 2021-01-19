@@ -1,0 +1,15 @@
+0|chunk|ANDES: Statistical tools for the ANalyses of DEep Sequencing
+
+1|chunk|Background: The advancements in DNA sequencing technologies have allowed researchers to progress from the analyses of a single organism towards the deep sequencing of a sample of organisms. With sufficient sequencing depth, it is now possible to detect subtle variations between members of the same species, or between mixed species with shared biomarkers, such as the 16S rRNA gene. However, traditional sequencing analyses of samples from largely homogeneous populations are often still based on multiple sequence alignments (MSA), where each sequence is placed along a separate row and similarities between aligned bases can be followed down each column. While this visual format is intuitive for a small set of aligned sequences, the representation quickly becomes cumbersome as sequencing depths cover loci hundreds or thousands of reads deep.
+1	32	35 DNA	Chemical	CHEBI_16991
+1	373	377 rRNA	Chemical	CHEBI_18111
+1	618	623 bases	Chemical	CHEBI_22695
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_18111
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_22695
+1	CHEBI-CHEBI	CHEBI_18111	CHEBI_22695
+
+2|chunk|We have developed ANDES, a software library and a suite of applications, written in Perl and R, for the statistical ANalyses of DEep Sequencing. The fundamental data structure underlying ANDES is the position profile, which contains the nucleotide distributions for each genomic position resultant from a multiple sequence alignment (MSA). Tools include the root mean square deviation (RMSD) plot, which allows for the visual comparison of multiple samples on a position-by-position basis, and the computation of base conversion frequencies (transition/transversion rates), variation (Shannon entropy), inter-sample clustering and visualization (dendrogram and multidimensional scaling (MDS) plot), threshold-driven consensus sequence generation and polymorphism detection, and the estimation of empirically determined sequencing quality values.
+2	237	247 nucleotide	Chemical	CHEBI_36976
+
+3|chunk|As new sequencing technologies evolve, deep sequencing will become increasingly cost-efficient and the inter and intra-sample comparisons of largely homogeneous sequences will become more common. We have provided a software package and demonstrated its application on various empirically-derived datasets. Investigators may download the software from Sourceforge at https://sourceforge.net/projects/andestools.
+

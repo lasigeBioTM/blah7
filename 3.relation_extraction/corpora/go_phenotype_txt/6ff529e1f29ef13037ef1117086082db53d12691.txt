@@ -1,0 +1,11 @@
+0|chunk|Support vector machine (SVM) based multiclass prediction with basic statistical analysis of plasminogen activators
+
+1|chunk|Background: Plasminogen (Pg), the precursor of the proteolytic and fibrinolytic enzyme of blood, is converted to the active enzyme plasmin (Pm) by different plasminogen activators (tissue plasminogen activators and urokinase), including the bacterial activators streptokinase and staphylokinase, which activate Pg to Pm and thus are used clinically for thrombolysis. The identification of Pg-activators is therefore an important step in understanding their functional mechanism and derives new therapies. Methods: In this study, different computational methods for predicting plasminogen activator peptide sequences with high accuracy were investigated, including support vector machines (SVM) based on amino acid (AC), dipeptide composition (DC), PSSM profile and Hybrid methods used to predict different Pg-activators from both prokaryotic and eukaryotic origins.
+
+2|chunk|Results: Overall maximum accuracy, evaluated using the five-fold cross validation technique, was 88.37%, 84.32%, 87.61%, 85.63% in 0.87, 0.83,0.86 and 0.85 MCC with amino (AC) or dipeptide composition (DC), PSSM profile and Hybrid methods respectively. Through this study, we have found that the different subfamilies of Pg-activators are quite closely correlated in terms of amino, dipeptide, PSSM and Hybrid compositions. Therefore, our prediction results show that plasminogen activators are predictable with a high accuracy from their primary sequence. Prediction performance was also cross-checked by confusion matrix and ROC (Receiver operating characteristics) analysis. A web server to facilitate the prediction of Pg-activators from primary sequence data was implemented.
+2	156	159 MCC	Gene_function	GO_0033597
+2	606	615 confusion	Phenotype	HP_0001289
+2	GO-HP	GO_0033597	HP_0001289
+
+3|chunk|The results show that dipeptide, PSSM profile, and Hybrid based methods perform better than single amino acid composition (AC). Furthermore, we also have developed a web server, which predicts the Pg-activators and their classification (available online at http://mamsap.it.deakin.edu.au/plas_pred/home.html). Our experimental results show that our approaches are faster and achieve generally a good prediction performance.
+

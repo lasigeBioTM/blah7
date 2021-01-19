@@ -1,0 +1,22 @@
+0|chunk|Evidence that Processing of the Severe Fever with Thrombocytopenia Syndrome Virus Gn/Gc Polyprotein Is Critical for Viral Infectivity and Requires an Internal Gc Signal Peptide
+0	32	38 Severe	Phenotype	HP_0012828
+0	39	44 Fever	Phenotype	HP_0001945
+0	50	66 Thrombocytopenia	Phenotype	HP_0001873
+
+1|chunk|The severe fever with thrombocytopenia syndrome virus (SFTSV) is an emerging, highly pathogenic bunyavirus against which neither antivirals nor vaccines are available. The SFTSV glycoproteins, Gn and Gc, facilitate viral entry into host cells. Gn and Gc are generated from a precursor protein, Gn/Gc, but it is currently unknown how the precursor is converted into the single proteins and whether this process is required for viral infectivity. Employing a rhabdoviral pseudotyping system, we demonstrate that a predicted signal sequence at the N-terminus of Gc is required for Gn/Gc processing and viral infectivity while potential proprotein convertase cleavage sites in Gc are dispensable. Moreover, we show that expression of Gn or Gc alone is not sufficient for host cell entry while particles bearing both proteins are infectious, and we provide evidence that Gn facilitates Golgi transport and virion incorporation of Gc. Collectively, these results suggest that signal peptidase liberates mature Gc from the Gn/Gc precursor and that this process is essential for viral infectivity and thus constitutes a potential target for antiviral intervention.
+1	4	10 severe	Phenotype	HP_0012828
+1	11	16 fever	Phenotype	HP_0001945
+1	22	38 thrombocytopenia	Phenotype	HP_0001873
+1	767	776 host cell	Gene_function	GO_0043657
+1	887	896 transport	Gene_function	GO_0006810
+1	901	907 virion	Gene_function	GO_0019012
+1	HP-GO	HP_0012828	GO_0043657
+1	HP-GO	HP_0012828	GO_0006810
+1	HP-GO	HP_0012828	GO_0019012
+1	HP-GO	HP_0001945	GO_0043657
+1	HP-GO	HP_0001945	GO_0006810
+1	HP-GO	HP_0001945	GO_0019012
+1	HP-GO	HP_0001873	GO_0043657
+1	HP-GO	HP_0001873	GO_0006810
+1	HP-GO	HP_0001873	GO_0019012
+

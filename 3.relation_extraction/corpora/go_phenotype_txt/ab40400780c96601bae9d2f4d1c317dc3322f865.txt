@@ -1,0 +1,27 @@
+0|chunk|Characterization of a Structural Intermediate of Flavivirus Membrane Fusion
+0	60	68 Membrane	Gene_function	GO_0016020
+0	60	75 Membrane Fusion	Gene_function	GO_0061025
+
+1|chunk|Viral membrane fusion proceeds through a sequence of steps that are driven by triggered conformational changes of viral envelope glycoproteins, so-called fusion proteins. Although high-resolution structural snapshots of viral fusion proteins in their prefusion and postfusion conformations are available, it has been difficult to define intermediate structures of the fusion pathway because of their transient nature. Flaviviruses possess a class II viral fusion protein (E) mediating fusion at acidic pH that is converted from a dimer to a trimer with a hairpin-like structure during the fusion process. Here we show for tick-borne encephalitis virus that exposure of virions to alkaline instead of acidic pH traps the particles in an intermediate conformation in which the E dimers dissociate and interact with target membranes via the fusion peptide without proceeding to the merger of the membranes. Further treatment to low pH, however, leads to fusion, suggesting that these monomers correspond to an as-yet-elusive intermediate required to convert the prefusion dimer into the postfusion trimer. Thus, the use of nonphysiological conditions allows a dissection of the flavivirus fusion process and the identification of two separate steps, in which membrane insertion of multiple copies of E monomers precedes the formation of hairpin-like trimers. This sequence of events provides important new insights for understanding the dynamic process of viral membrane fusion. Citation: Stiasny K, K ssl C, Lepault J, Rey FA, Heinz FX (2007) Characterization of a structural intermediate of flavivirus membrane fusion. PLoS Pathog 3(2): e20.
+1	0	14 Viral membrane	Gene_function	GO_0036338
+1	6	14 membrane	Gene_function	GO_0016020
+1	114	128 viral envelope	Gene_function	GO_0019031
+1	120	128 envelope	Gene_function	GO_0031975
+1	400	409 transient	Phenotype	HP_0025153
+1	633	645 encephalitis	Phenotype	HP_0002383
+1	1256	1264 membrane	Gene_function	GO_0016020
+1	1453	1467 viral membrane	Gene_function	GO_0036338
+1	1459	1467 membrane	Gene_function	GO_0016020
+1	1602	1610 membrane	Gene_function	GO_0016020
+1	1602	1617 membrane fusion	Gene_function	GO_0061025
+1	GO-HP	GO_0036338	HP_0025153
+1	GO-HP	GO_0036338	HP_0002383
+1	GO-HP	GO_0016020	HP_0025153
+1	GO-HP	GO_0016020	HP_0002383
+1	GO-HP	GO_0019031	HP_0025153
+1	GO-HP	GO_0019031	HP_0002383
+1	GO-HP	GO_0031975	HP_0025153
+1	GO-HP	GO_0031975	HP_0002383
+1	HP-GO	HP_0025153	GO_0061025
+1	HP-GO	HP_0002383	GO_0061025
+

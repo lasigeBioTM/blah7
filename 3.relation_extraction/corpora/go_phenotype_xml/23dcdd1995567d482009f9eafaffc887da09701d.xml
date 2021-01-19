@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<document id="23dcdd1995567d482009f9eafaffc887da09701d">
+  <chunk id="23dcdd1995567d482009f9eafaffc887da09701d.c0" text="Experimental Data-Mining Analyses Reveal New Roles of Low-Intensity Ultrasound in Differentiating Cell Death Regulatome in Cancer and Non-cancer Cells via Potential Modulation of Chromatin Long-Range Interactions">
+    <entity charOffset="98-108" id="23dcdd1995567d482009f9eafaffc887da09701d.c0.e0" ontology_id="GO_0008219" text="Cell Death" type="gene_function"/>
+    <entity charOffset="123-129" id="23dcdd1995567d482009f9eafaffc887da09701d.c0.e1" ontology_id="HP_0002664" text="Cancer" type="phenotype"/>
+    <entity charOffset="179-188" id="23dcdd1995567d482009f9eafaffc887da09701d.c0.e2" ontology_id="GO_0000785" text="Chromatin" type="gene_function"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c0.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c0.e1" id="23dcdd1995567d482009f9eafaffc887da09701d.c0.p0" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c0.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c0.e2" id="23dcdd1995567d482009f9eafaffc887da09701d.c0.p1" relation="true"/>
+  </chunk>
+  <chunk id="23dcdd1995567d482009f9eafaffc887da09701d.c1" text="Background: The mechanisms underlying low intensity ultrasound (LIUS) mediated suppression of inflammation and tumorigenesis remain poorly determined.">
+    <entity charOffset="42-51" id="23dcdd1995567d482009f9eafaffc887da09701d.c1.e0" ontology_id="HP_0012824" text="intensity" type="phenotype"/>
+  </chunk>
+  <chunk id="23dcdd1995567d482009f9eafaffc887da09701d.c2" text="Methods: We used microarray datasets from NCBI GEO Dataset databases and conducted a comprehensive data mining analyses, where we studied the gene expression of 299 cell death regulators that regulate 13 different cell death types (cell death regulatome) in cells treated with LIUS. Results: We made the following findings: (1) LIUS exerts a profound effect on the expression of cell death regulatome in cancer cells and non-cancer cells. Of note, LIUS has the tendency to downregulate the gene expression of cell death regulators in non-cancer cells. Most of the cell death regulator genes downregulated by LIUS in non-cancer cells are responsible for mediating inflammatory signaling pathways; (2) LIUS activates different cell death transcription factors in cancer and non-cancer cells. Transcription factors TP-53 and SRF-were induced by LIUS exposure in cancer cells and non-cancer cells, respectively; (3) As two well-accepted mechanisms of LIUS, mild hyperthermia and oscillatory shear stress induce changes in the expression of cell death regulators, therefore, may be responsible for inducing LIUS mediated changes in gene expression patterns of cell death regulators in cells; (4) LIUS exposure may change the redox status of the cells. LIUS may induce more of antioxidant effects in non-cancer Wang et al. LIUS Suppresses Tumorigenesis and Inhibits Inflammation cells compared to cancer cells; and (5) The genes modulated by LIUS in cancer cells have distinct chromatin long range interaction (CLRI) patterns to that of non-cancer cells.">
+    <entity charOffset="142-157" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="165-175" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="214-224" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="232-242" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="342-350" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" ontology_id="HP_0012829" text="profound" type="phenotype"/>
+    <entity charOffset="379-389" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="404-410" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="490-505" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="509-519" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="564-574" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="676-685" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="725-735" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="761-767" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="859-865" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="953-957" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" ontology_id="HP_0012825" text="mild" type="phenotype"/>
+    <entity charOffset="958-970" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" ontology_id="HP_0001945" text="hyperthermia" type="phenotype"/>
+    <entity charOffset="1036-1046" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="1127-1142" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="1155-1165" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="1391-1397" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1444-1450" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1471-1480" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" ontology_id="GO_0000785" text="chromatin" type="gene_function"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p0" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p1" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p2" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p3" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p4" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p5" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p6" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e0" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p7" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p8" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p9" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p10" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p11" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p12" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p13" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p14" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e1" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p15" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p16" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p17" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p18" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p19" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p20" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p21" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p22" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e2" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p23" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p24" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p25" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p26" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p27" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p28" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p29" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p30" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e3" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p31" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p32" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p33" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p34" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p35" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p36" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p37" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p38" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p39" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p40" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e4" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p41" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p42" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p43" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p44" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p45" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p46" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p47" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e5" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p48" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p49" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p50" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p51" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p52" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p53" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p54" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p55" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p56" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e6" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p57" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p58" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p59" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p60" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p61" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p62" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e7" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p63" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p64" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p65" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p66" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p67" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p68" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e8" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p69" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p70" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p71" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p72" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p73" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p74" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e9" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p75" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p76" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p77" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p78" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p79" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p80" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e10" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p81" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p82" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p83" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p84" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p85" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p86" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e11" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p87" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p88" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p89" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p90" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e12" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p91" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p92" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p93" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p94" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e13" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p95" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p96" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p97" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p98" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e14" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p99" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p100" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p101" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p102" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e15" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p103" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p104" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e16" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p105" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p106" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e17" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p107" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p108" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e18" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p109" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e19" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p110" relation="true"/>
+    <pair e1="23dcdd1995567d482009f9eafaffc887da09701d.c2.e20" e2="23dcdd1995567d482009f9eafaffc887da09701d.c2.e21" id="23dcdd1995567d482009f9eafaffc887da09701d.c2.p111" relation="true"/>
+  </chunk>
+  <chunk id="23dcdd1995567d482009f9eafaffc887da09701d.c3" text="Conclusions: Our analysis suggests novel molecular mechanisms that may be utilized by LIUS to induce tumor suppression and inflammation inhibition. Our findings may lead to development of new treatment protocols for cancers and chronic inflammation.">
+    <entity charOffset="101-106" id="23dcdd1995567d482009f9eafaffc887da09701d.c3.e0" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <entity charOffset="228-235" id="23dcdd1995567d482009f9eafaffc887da09701d.c3.e1" ontology_id="HP_0011010" text="chronic" type="phenotype"/>
+  </chunk>
+</document>

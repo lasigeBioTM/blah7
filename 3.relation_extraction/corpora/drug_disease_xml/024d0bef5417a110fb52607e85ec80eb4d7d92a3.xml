@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<document id="024d0bef5417a110fb52607e85ec80eb4d7d92a3">
+  <chunk id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0" text="Nucleocapsid protein-dependent assembly of the RNA packaging signal of Middle East respiratory syndrome coronavirus">
+    <entity charOffset="47-50" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="71-103" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e1" ontology_id="DOID_0080642" text="Middle East respiratory syndrome" type="disease"/>
+    <entity charOffset="95-103" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e2" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e1" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.p0" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.e2" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c0.p1" relation="true"/>
+  </chunk>
+  <chunk id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1" text="Background: Middle East respiratory syndrome coronavirus (MERS-CoV) consists of a positive-sense, single-stranded RNA genome and four structural proteins: the spike, envelope, membrane, and nucleocapsid protein. The assembly of the viral genome into virus particles involves viral structural proteins and is believed to be mediated through recognition of specific sequences and RNA structures of the viral genome.">
+    <entity charOffset="12-44" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e0" ontology_id="DOID_0080642" text="Middle East respiratory syndrome" type="disease"/>
+    <entity charOffset="36-44" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e1" ontology_id="DOID_225" text="syndrome" type="disease"/>
+    <entity charOffset="114-117" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="145-153" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="292-300" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="378-381" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e2" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p0" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e3" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p1" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e4" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p2" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e5" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p3" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e1" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e2" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p4" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e1" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e3" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p5" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e1" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e4" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p6" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e1" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.e5" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c1.p7" relation="true"/>
+  </chunk>
+  <chunk id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2" text="Methods and Results: A culture system for the production of MERS coronavirus-like particles (MERS VLPs) was determined and established by electron microscopy and the detection of coexpressed viral structural proteins. Using the VLP system, a 258-nucleotide RNA fragment, which spans nucleotides 19,712 to 19,969 of the MERS-CoV genome (designated PS258(19712-19969) ME ), was identified to function as a packaging signal. Assembly of the RNA packaging signal into MERS VLPs is dependent on the viral nucleocapsid protein. In addition, a 45-nucleotide stable stem-loop substructure of the PS258(19712-19969) ME interacted with both the N-terminal domain and the Cterminal domain of the viral nucleocapsid protein. Furthermore, a functional SARS-CoV RNA packaging signal failed to assemble into the MERS VLPs, which indicated virus-specific assembly of the RNA genome.">
+    <entity charOffset="138-146" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e0" ontology_id="CHEBI_10545" text="electron" type="chemical"/>
+    <entity charOffset="208-216" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="257-260" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="283-294" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e3" ontology_id="CHEBI_36976" text="nucleotides" type="chemical"/>
+    <entity charOffset="438-441" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="748-751" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="855-858" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c2.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+  </chunk>
+  <chunk id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3" text="Conclusions: A MERS-oV RNA packaging signal was identified by the detection of GFP expression following an incubation of MERS VLPs carrying the heterologous mRNA GFP-PS258(19712-19969) ME with virus permissive Huh7 cells. The MERS VLP system could help us in understanding virus infection and morphogenesis.">
+    <entity charOffset="23-26" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e0" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="157-161" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e1" ontology_id="CHEBI_33699" text="mRNA" type="chemical"/>
+    <entity charOffset="273-288" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e2" ontology_id="DOID_934" text="virus infection" type="disease"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e0" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e2" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.p0" relation="true"/>
+    <pair e1="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e1" e2="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.e2" id="024d0bef5417a110fb52607e85ec80eb4d7d92a3.c3.p1" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<document id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7">
+  <chunk id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c0" text="Incorporating media data into a model of infectious disease transmission">
+    <entity charOffset="41-59" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c0.e0" ontology_id="DOID_0050117" text="infectious disease" type="disease"/>
+    <entity charOffset="52-59" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c0.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+  <chunk id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1" text="Understanding the effect of media on disease spread can help improve epidemic forecasting and uncover preventive measures to slow the spread of disease. Most previously introduced models have approximated media effect through disease incidence, making media influence dependent on the size of epidemic. We propose an alternative approach, which relies on real data about disease coverage in the news, allowing us to model low incidence/high interest diseases, such as SARS, Ebola or H1N1. We introduce a network-based model, in which disease is transmitted through local interactions between individuals and the probability of transmission is affected by media coverage. We assume that media attention increases self-protection (e.g. hand washing and compliance with social distancing), which, in turn, decreases disease model. We apply the model to the case of H1N1 transmission in Mexico City in 2009 and show how media influence-measured by the time series of the weekly count of news articles published on the outbreak-helps to explain the observed transmission dynamics. We show that incorporating the media attention based on the observed media coverage of the outbreak better estimates the disease dynamics from what would be predicted by using media function that approximate the media impact using the number of cases and rate of spread. Finally, we apply the model to a typical influenza season in Washington, DC and estimate how the transmission pattern would have changed given different levels of media coverage. OPEN ACCESS Citation: Kim L, Fast SM, Markuzon N (2019) Incorporating media data into a model of infectious disease transmission. PLoS ONE 14(2): e0197646.">
+    <entity charOffset="37-44" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="144-151" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e1" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="226-233" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="371-378" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e3" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="534-541" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="813-820" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e5" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1197-1204" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e6" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1388-1397" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e7" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1531-1537" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" ontology_id="CHEBI_34922" text="ACCESS" type="chemical"/>
+    <entity charOffset="1623-1641" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e9" ontology_id="DOID_0050117" text="infectious disease" type="disease"/>
+    <entity charOffset="1634-1641" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e10" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1661-1664" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" ontology_id="CHEBI_58972" text="ONE" type="chemical"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e0" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p0" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e0" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p1" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e1" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p2" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e1" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p3" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e2" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p4" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e2" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p5" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e3" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p6" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e3" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p7" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e4" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p8" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e4" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p9" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e5" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p10" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e5" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p11" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e6" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p12" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e6" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p13" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e7" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p14" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e7" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p15" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e9" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p16" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e8" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e10" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p17" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e9" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p18" relation="true"/>
+    <pair e1="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e10" e2="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.e11" id="17e4de7b95ed440d0df3a87e85e9fca8b64b0de7.c1.p19" relation="true"/>
+  </chunk>
+</document>

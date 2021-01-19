@@ -1,0 +1,76 @@
+0|chunk|Viral Infection of the Central Nervous System Exacerbates Interleukin-10 Receptor Deficiency-Mediated Colitis in SJL Mice
+0	0	15 Viral Infection	Gene_function	GO_0016032
+0	23	30 Central	Phenotype	HP_0030645
+0	102	109 Colitis	Phenotype	HP_0002583
+0	GO-HP	GO_0016032	HP_0030645
+0	GO-HP	GO_0016032	HP_0002583
+
+1|chunk|Theilers murine encephalomyelitis virus (TMEV)-infection is a widely used animal model for studying demyelinating disorders, including multiple sclerosis (MS). The immunosuppressive cytokine Interleukin (IL)-10 counteracts hyperactive immune responses and critically controls immune homeostasis in infectious and autoimmune disorders. In order to investigate the effect of signaling via Interleukin-10 receptor (IL-10R) in infectious neurological diseases, TMEV-infected SJL mice were treated with IL-10R blocking antibody (Ab) in the acute and chronic phase of the disease. The findings demonstrate that (i) Ab-mediated IL-10 neutralization leads to progressive colitis with a reduction in Foxp3 + regulatory T cells and increased numbers of CD8 + CD44 + memory T cells as well as activated CD4 + CD69 + and CD8 + CD69 + T cells in uninfected mice. (ii) Concurrent acute TMEV-infection worsened enteric disease-mediated by IL-10R neutralization. Virus-triggered effects were associated with an enhanced activation of CD4 + T helper cells and CD8 + cytotoxic T lymphocytes and augmented cytokine expression. By contrast, (iii) IL-10R neutralization during chronic TMEV-infection was not associated with enhanced peripheral immunopathology but an increased CD3 + T cell influx in the spinal cord. IL-10R neutralization causes a breakdown in peripheral immune tolerance in genetically predisposed mice, which leads to immune-mediated colitis, resembling inflammatory bowel disease. Hyperactive immune state following IL-10R blockade is enhanced by central nervous system-restricted viral infection in a disease phase-dependent manner.
+1	284	295 homeostasis	Gene_function	GO_0042592
+1	374	383 signaling	Gene_function	GO_0023052
+1	515	523 antibody	Gene_function	GO_0003823
+1	515	523 antibody	Gene_function	GO_0042571
+1	536	541 acute	Phenotype	HP_0011009
+1	546	553 chronic	Phenotype	HP_0011010
+1	652	663 progressive	Phenotype	HP_0003676
+1	664	671 colitis	Phenotype	HP_0002583
+1	757	763 memory	Gene_function	GO_0007613
+1	867	872 acute	Phenotype	HP_0011009
+1	1157	1164 chronic	Phenotype	HP_0011010
+1	1213	1223 peripheral	Phenotype	HP_0030646
+1	1328	1337 breakdown	Gene_function	GO_0009056
+1	1341	1351 peripheral	Phenotype	HP_0030646
+1	1433	1440 colitis	Phenotype	HP_0002583
+1	1453	1479 inflammatory bowel disease	Phenotype	HP_0002037
+1	1547	1554 central	Phenotype	HP_0030645
+1	1581	1596 viral infection	Gene_function	GO_0016032
+1	GO-HP	GO_0042592	HP_0011009
+1	GO-HP	GO_0042592	HP_0011010
+1	GO-HP	GO_0042592	HP_0003676
+1	GO-HP	GO_0042592	HP_0002583
+1	GO-HP	GO_0042592	HP_0030646
+1	GO-HP	GO_0042592	HP_0002037
+1	GO-HP	GO_0042592	HP_0030645
+1	GO-HP	GO_0023052	HP_0011009
+1	GO-HP	GO_0023052	HP_0011010
+1	GO-HP	GO_0023052	HP_0003676
+1	GO-HP	GO_0023052	HP_0002583
+1	GO-HP	GO_0023052	HP_0030646
+1	GO-HP	GO_0023052	HP_0002037
+1	GO-HP	GO_0023052	HP_0030645
+1	GO-HP	GO_0003823	HP_0011009
+1	GO-HP	GO_0003823	HP_0011010
+1	GO-HP	GO_0003823	HP_0003676
+1	GO-HP	GO_0003823	HP_0002583
+1	GO-HP	GO_0003823	HP_0030646
+1	GO-HP	GO_0003823	HP_0002037
+1	GO-HP	GO_0003823	HP_0030645
+1	GO-HP	GO_0042571	HP_0011009
+1	GO-HP	GO_0042571	HP_0011010
+1	GO-HP	GO_0042571	HP_0003676
+1	GO-HP	GO_0042571	HP_0002583
+1	GO-HP	GO_0042571	HP_0030646
+1	GO-HP	GO_0042571	HP_0002037
+1	GO-HP	GO_0042571	HP_0030645
+1	HP-GO	HP_0011009	GO_0007613
+1	HP-GO	HP_0011009	GO_0009056
+1	HP-GO	HP_0011009	GO_0016032
+1	HP-GO	HP_0011010	GO_0007613
+1	HP-GO	HP_0011010	GO_0009056
+1	HP-GO	HP_0011010	GO_0016032
+1	HP-GO	HP_0003676	GO_0007613
+1	HP-GO	HP_0003676	GO_0009056
+1	HP-GO	HP_0003676	GO_0016032
+1	HP-GO	HP_0002583	GO_0007613
+1	HP-GO	HP_0002583	GO_0009056
+1	HP-GO	HP_0002583	GO_0016032
+1	GO-HP	GO_0007613	HP_0030646
+1	GO-HP	GO_0007613	HP_0002037
+1	GO-HP	GO_0007613	HP_0030645
+1	HP-GO	HP_0030646	GO_0009056
+1	HP-GO	HP_0030646	GO_0016032
+1	GO-HP	GO_0009056	HP_0002037
+1	GO-HP	GO_0009056	HP_0030645
+1	HP-GO	HP_0002037	GO_0016032
+1	HP-GO	HP_0030645	GO_0016032
+

@@ -1,0 +1,104 @@
+0|chunk|Activation of the Mitochondrial Apoptotic Signaling Platform during Rubella Virus Infection
+0	18	31 Mitochondrial	Phenotype	HP_0001427
+0	42	51 Signaling	Gene_function	GO_0023052
+0	HP-GO	HP_0001427	GO_0023052
+
+1|chunk|Mitochondria-as well as p53-based signaling pathways are central for the execution of the intrinsic apoptotic cascade. Their contribution to rubella virus (RV)-induced apoptosis was addressed through time-specific evaluation of characteristic parameters such as permeabilization of the mitochondrial membrane and subsequent release of the pro-apoptotic proteins apoptosis-inducing factor (AIF) and cytochrome c from mitochondria. Additionally, expression and localization pattern of p53 and selected members of the multifunctional and stress-inducible cyclophilin family were examined. The application of pifithrin  as an inhibitor of p53 shuttling to mitochondria reduced RV-induced cell death to an extent similar to that of the broad spectrum caspase inhibitor z-VAD-fmk (benzyloxycarbonyl-V-A-D-(OMe)-fmk). However, RV progeny generation was not altered. This indicates that, despite an increased survival rate of its cellular host, induction of apoptosis neither supports nor restricts RV replication. Moreover, some of the examined apoptotic markers were affected in a strain-specific manner and differed between the cell culture-adapted strains: Therien and the HPV77 vaccine on the one hand, and a clinical isolate on the other. In summary, the results presented indicate that the transcription-independent mitochondrial p53 program contributes to RV-induced apoptosis.
+1	34	43 signaling	Gene_function	GO_0023052
+1	57	64 central	Phenotype	HP_0030645
+1	286	299 mitochondrial	Phenotype	HP_0001427
+1	286	308 mitochondrial membrane	Gene_function	GO_0031966
+1	300	308 membrane	Gene_function	GO_0016020
+1	416	428 mitochondria	Gene_function	GO_0005739
+1	459	471 localization	Gene_function	GO_0051179
+1	653	665 mitochondria	Gene_function	GO_0005739
+1	685	695 cell death	Gene_function	GO_0008219
+1	1062	1070 affected	Phenotype	HP_0032320
+1	1316	1329 mitochondrial	Phenotype	HP_0001427
+1	GO-HP	GO_0023052	HP_0030645
+1	GO-HP	GO_0023052	HP_0001427
+1	GO-HP	GO_0023052	HP_0032320
+1	HP-GO	HP_0030645	GO_0031966
+1	HP-GO	HP_0030645	GO_0016020
+1	HP-GO	HP_0030645	GO_0005739
+1	HP-GO	HP_0030645	GO_0051179
+1	HP-GO	HP_0030645	GO_0008219
+1	HP-GO	HP_0001427	GO_0031966
+1	HP-GO	HP_0001427	GO_0016020
+1	HP-GO	HP_0001427	GO_0005739
+1	HP-GO	HP_0001427	GO_0051179
+1	HP-GO	HP_0001427	GO_0008219
+1	GO-HP	GO_0031966	HP_0032320
+1	GO-HP	GO_0016020	HP_0032320
+1	GO-HP	GO_0005739	HP_0032320
+1	GO-HP	GO_0051179	HP_0032320
+1	GO-HP	GO_0008219	HP_0032320
+
+2|chunk|Viruses 2015, 7, 6108-6126 p53-independent [3, 4] as well as p53-dependent mechanisms [5] during RV-induced cell death are conflicting. Additionally, prolonged survival of RV-infected cells is ensured by the induction of the phosphatidylinositol 3 I -kinase (PI3K)/AKT survival pathway [6] and by anti-apoptotic activities of the viral C protein [7, 8] . These viral infection-promoting activities of the C protein involve its localization to mitochondria and its interaction with the pro-apoptotic protein B-cell lymphoma-2 (Bcl-2)-associated X protein (Bax) and the mitochondrial matrix protein p32 (gC1qR), [7, 9] . The p32 protein is required for viral replication [10] and for transport of mitochondria to viral replication complexes [11] . In addition to its interaction with mitochondrial proteins, RV infection has an impact on mitochondrial bioenergetic function [11, 12] .
+2	108	118 cell death	Gene_function	GO_0008219
+2	150	159 prolonged	Phenotype	HP_0025297
+2	427	439 localization	Gene_function	GO_0051179
+2	443	455 mitochondria	Gene_function	GO_0005739
+2	568	581 mitochondrial	Phenotype	HP_0001427
+2	568	588 mitochondrial matrix	Gene_function	GO_0005759
+2	682	691 transport	Gene_function	GO_0006810
+2	695	707 mitochondria	Gene_function	GO_0005739
+2	782	795 mitochondrial	Phenotype	HP_0001427
+2	836	849 mitochondrial	Phenotype	HP_0001427
+2	GO-HP	GO_0008219	HP_0025297
+2	GO-HP	GO_0008219	HP_0001427
+2	HP-GO	HP_0025297	GO_0051179
+2	HP-GO	HP_0025297	GO_0005739
+2	HP-GO	HP_0025297	GO_0005759
+2	HP-GO	HP_0025297	GO_0006810
+2	GO-HP	GO_0051179	HP_0001427
+2	GO-HP	GO_0005739	HP_0001427
+2	HP-GO	HP_0001427	GO_0005759
+2	HP-GO	HP_0001427	GO_0006810
+
+3|chunk|Due to the interdependency of apoptotic and metabolic pathways [13], the mitochondria-based signaling platform might contribute to RV-associated programmed cell death. The intrinsic mitochondrial apoptotic pathway can be induced by cytotoxic stress during ongoing viral replication and is usually accompanied by permeabilization of the inner (IMM) and/or outer (OMM) mitochondrial membrane. Mitochondrial permeabilization is characterized by formation of "death decision pores", such as ceramide lipid pores; the mitochondrial apoptosis-induced channel (MAC) formed in response to OMM permeabilization (MOMP); and the relatively large mitochondrial permeability transition pore (mPTP), which originates at the IMM [14] . MOMP and subsequently MAC formation can result from oligomerization of Bcl-2 family members such as Bax and Bcl-2 homologous antagonist killer (Bak). Through the formation of these death decision pores, mitochondrial function is lost and the apoptotic cascade is further fueled, as metabolites, small ions and apoptogenic factors such as cytochrome c (Cytc), Smac/Diablo, apoptosis-inducing factor (AIF) and/or endonuclease G (Endo G) are released. The coordination of these processes involves the tumor-suppressor protein p53, which executes its function through both a transcription-dependent (nuclear) and transcription-independent (mitochondrial) pathway. The former influences the mRNA level of pro-and anti-apoptotic factors and the latter involves direct regulation of protein functions at mitochondria, e.g., activation of the pro-apoptotic Bax and Bak proteins [15] . Additionally, p53 might also interact directly with mitochondria and induce MOMP by itself [16] .
+3	92	101 signaling	Gene_function	GO_0023052
+3	145	166 programmed cell death	Gene_function	GO_0012501
+3	182	195 mitochondrial	Phenotype	HP_0001427
+3	367	380 mitochondrial	Phenotype	HP_0001427
+3	391	404 Mitochondrial	Phenotype	HP_0001427
+3	513	526 mitochondrial	Phenotype	HP_0001427
+3	554	557 MAC	Gene_function	GO_0005579
+3	635	648 mitochondrial	Phenotype	HP_0001427
+3	673	677 pore	Gene_function	GO_0046930
+3	721	725 MOMP	Gene_function	GO_0097345
+3	743	746 MAC	Gene_function	GO_0005579
+3	743	756 MAC formation	Gene_function	GO_0001905
+3	924	937 mitochondrial	Phenotype	HP_0001427
+3	1357	1370 mitochondrial	Phenotype	HP_0001427
+3	1518	1530 mitochondria	Gene_function	GO_0005739
+3	1650	1662 mitochondria	Gene_function	GO_0005739
+3	1674	1678 MOMP	Gene_function	GO_0097345
+3	GO-HP	GO_0023052	HP_0001427
+3	GO-HP	GO_0012501	HP_0001427
+3	HP-GO	HP_0001427	GO_0005579
+3	HP-GO	HP_0001427	GO_0046930
+3	HP-GO	HP_0001427	GO_0097345
+3	HP-GO	HP_0001427	GO_0001905
+3	HP-GO	HP_0001427	GO_0005739
+
+4|chunk|The focus of the present study is set at disclosing the contribution of mitochondria (namely the mPTP and translocation of mitochondrial pro-apoptotic proteins), p53, and selected members of the stress-inducible cyclophilin family to RV-induced apoptosis. The multifunctional cyclophilins as proteins of the peptidyl-prolyl cis-trans isomerase (PPIase) family are highly conserved molecular chaperons that support protein folding and isomerization and thus participate in the cellular stress response [17] . To study the contribution of apoptosis-promoting parameters to RV-associated cellular aberrations, selected pharmacological compounds were applied to RV-infected cells. Presented data point to a contribution of mitochondrial translocation of p53, partial opening of the mPTP and nuclear shuttling of AIF and cyclophilin 40 (Cyp40) to RV-induced apoptosis, which occurs at least partly in a strain-specific manner.
+4	72	84 mitochondria	Gene_function	GO_0005739
+4	123	136 mitochondrial	Phenotype	HP_0001427
+4	414	429 protein folding	Gene_function	GO_0006457
+4	719	732 mitochondrial	Phenotype	HP_0001427
+4	GO-HP	GO_0005739	HP_0001427
+4	HP-GO	HP_0001427	GO_0006457
+
+5|chunk|Results
+
+6|chunk|Three specific pharmacological inhibitors were used to explore RV-induced apoptotic pathways. The pan caspase inhibitor z-VAD-fmk as an already-described inhibitor of RV-induced apoptosis [7, 18] was applied as a positive control to assess the effectiveness of N-methyl-4-isoleucine cyclosporine (NIM811) and pifithrin (PFT) .
+6	98	101 pan	Gene_function	GO_0022623
+
+7|chunk|The cyclosporine A analog NIM811 is a non-immunosuppressive cyclophilin inhibitor.
+
+8|chunk|PFT is an inhibitor of the mitochondrial translocation of p53, which reduces the binding affinity of p53 to B cell lymphoma-extra large (Bcl-xL) and acts upstream of Bax [19] . Time course experiments were performed to determine the optimal time point for addition of the respective inhibitor. As an indicator for RV-induced cell death, the number of detached cells (the floaters) in the supernatant can be determined [18] . Hence compound
+8	28	41 mitochondrial	Phenotype	HP_0001427
+8	82	89 binding	Gene_function	GO_0005488
+8	HP-GO	HP_0001427	GO_0005488
+

@@ -1,0 +1,16 @@
+0|chunk|Model Selection in Time Series Studies of Influenza- Associated Mortality
+
+1|chunk|Background: Poisson regression modeling has been widely used to estimate influenza-associated disease burden, as it has the advantage of adjusting for multiple seasonal confounders. However, few studies have discussed how to judge the adequacy of confounding adjustment. This study aims to compare the performance of commonly adopted model selection criteria in terms of providing a reliable and valid estimate for the health impact of influenza.
+1	94	101 disease	Disease	DOID_4
+
+2|chunk|Methods: We assessed four model selection criteria: quasi Akaike information criterion (QAIC), quasi Bayesian information criterion (QBIC), partial autocorrelation functions of residuals (PACF), and generalized cross-validation (GCV), by separately applying them to select the Poisson model best fitted to the mortality datasets that were simulated under the different assumptions of seasonal confounding. The performance of these criteria was evaluated by the bias and root-mean-square error (RMSE) of estimates from the pre-determined coefficients of influenza proxy variable. These four criteria were subsequently applied to an empirical hospitalization dataset to confirm the findings of simulation study.
+2	553	562 influenza	Disease	DOID_8469
+
+3|chunk|Results: GCV consistently provided smaller biases and RMSEs for the influenza coefficient estimates than QAIC, QBIC and PACF, under the different simulation scenarios. Sensitivity analysis of different pre-determined influenza coefficients, study periods and lag weeks showed that GCV consistently outperformed the other criteria. Similar results were found in applying these selection criteria to estimate influenza-associated hospitalization.
+3	68	77 influenza	Disease	DOID_8469
+3	217	226 influenza	Disease	DOID_8469
+
+4|chunk|Conclusions: GCV criterion is recommended for selection of Poisson models to estimate influenza-associated mortality and morbidity burden with proper adjustment for confounding. These findings shall help standardize the Poisson modeling approach for influenza disease burden studies.
+4	250	259 influenza	Disease	DOID_8469
+4	260	267 disease	Disease	DOID_4
+

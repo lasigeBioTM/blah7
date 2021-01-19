@@ -1,0 +1,20 @@
+0|chunk|Quantitative prediction of mouse class I MHC peptide binding affinity using support vector machine regression (SVR) models
+0	45	60 peptide binding	Gene_function	GO_0042277
+0	53	60 binding	Gene_function	GO_0005488
+
+1|chunk|The binding between peptide epitopes and major histocompatibility complex proteins (MHCs) is an important event in the cellular immune response. Accurate prediction of the binding between short peptides and the MHC molecules has long been a principal challenge for immunoinformatics. Recently, the modeling of MHC-peptide binding has come to emphasize quantitative predictions: instead of categorizing peptides as "binders" or "non-binders" or as "strong binders" and "weak binders", recent methods seek to make predictions about precise binding affinities.
+1	4	11 binding	Gene_function	GO_0005488
+1	41	73 major histocompatibility complex	Gene_function	GO_0046776
+1	119	143 cellular immune response	Gene_function	GO_0002443
+1	172	179 binding	Gene_function	GO_0005488
+1	322	329 binding	Gene_function	GO_0005488
+1	538	545 binding	Gene_function	GO_0005488
+
+2|chunk|We developed a quantitative support vector machine regression (SVR) approach, called SVRMHC, to model peptide-MHC binding affinities. As a non-linear method, SVRMHC was able to generate models that out-performed existing linear models, such as the "additive method". By adopting a new "11-factor encoding" scheme, SVRMHC takes into account similarities in the physicochemical properties of the amino acids constituting the input peptides. When applied to MHC-peptide binding data for three mouse class I MHC alleles, the SVRMHC models produced more accurate predictions than those produced previously. Furthermore, comparisons based on Receiver Operating Characteristic (ROC) analysis indicated that SVRMHC was able to outperform several prominent methods in identifying strongly binding peptides.
+2	114	121 binding	Gene_function	GO_0005488
+2	467	474 binding	Gene_function	GO_0005488
+2	780	787 binding	Gene_function	GO_0005488
+
+3|chunk|As a method with demonstrated performance in the quantitative modeling of MHCpeptide binding and in identifying strong binders, SVRMHC is a promising immunoinformatics tool with not inconsiderable future potential.
+3	85	92 binding	Gene_function	GO_0005488
+

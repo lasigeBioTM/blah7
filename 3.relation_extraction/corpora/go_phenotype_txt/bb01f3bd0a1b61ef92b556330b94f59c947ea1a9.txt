@@ -1,0 +1,13 @@
+0|chunk|A Functional Role for ADAM10 in Human Immunodeficiency Virus Type-1 Replication
+0	38	54 Immunodeficiency	Phenotype	HP_0002721
+
+1|chunk|Background: Gene trap insertional mutagenesis was used as a high-throughput approach to discover cellular genes participating in viral infection by screening libraries of cells selected for survival from lytic infection with a variety of viruses. Cells harboring a disrupted ADAM10 (A Disintegrin and Metalloprotease 10) allele survived reovirus infection, and subsequently ADAM10 was shown by RNA interference to be important for replication of HIV-1. Results: Silencing ADAM10 expression with small interfering RNA (siRNA) 48 hours before infection significantly inhibited HIV-1 replication in primary human monocyte-derived macrophages and in CD4 + cell lines. In agreement, ADAM10 over-expression significantly increased HIV-1 replication. ADAM10 down-regulation did not inhibit viral reverse transcription, indicating that viral entry and uncoating are also independent of ADAM10 expression. Integration of HIV-1 cDNA was reduced in ADAM10 down-regulated cells; however, concomitant 2-LTR circle formation was not detected, suggesting that HIV-1 does not enter the nucleus. Further, ADAM10 silencing inhibited downstream reporter gene expression and viral protein translation. Interestingly, we found that while the metalloprotease domain of ADAM10 is not required for HIV-1 replication, ADAM15 and -secretase (which proteolytically release the extracellular and intracellular domains of ADAM10 from the plasma membrane, respectively) do support productive infection.
+1	129	144 viral infection	Gene_function	GO_0016032
+1	394	410 RNA interference	Gene_function	GO_0016246
+1	1135	1150 gene expression	Gene_function	GO_0010467
+1	1351	1364 extracellular	Gene_function	GO_0005576
+1	1369	1382 intracellular	Gene_function	GO_0005622
+
+2|chunk|We propose that ADAM10 facilitates replication at the level of nuclear trafficking. Collectively, our data support a model whereby ADAM10 is cleaved by ADAM15 and -secretase and that the ADAM10 intracellular domain directly facilitates HIV-1 nuclear trafficking. Thus, ADAM10 represents a novel cellular target class for development of antiretroviral drugs.
+2	195	208 intracellular	Gene_function	GO_0005622
+

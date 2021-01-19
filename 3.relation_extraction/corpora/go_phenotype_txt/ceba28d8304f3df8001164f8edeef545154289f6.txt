@@ -1,0 +1,40 @@
+0|chunk|CD4 T cells control development and maintenance of brain-resident CD8 T cells during polyomavirus infection
+
+1|chunk|Tissue-resident memory CD8 T (T RM ) cells defend against microbial reinfections at mucosal barriers; determinants driving durable T RM cell responses in non-mucosal tissues, which often harbor opportunistic persistent pathogens, are unknown. JC polyomavirus (JCPyV) is a ubiquitous constituent of the human virome. With altered immunological status, JCPyV can cause the oft-fatal brain demyelinating disease progressive multifocal leukoencephalopathy (PML). JCPyV is a human-only pathogen. Using the mouse polyomavirus (MuPyV) encephalitis model, we demonstrate that CD4 T cells regulate development of functional antiviral brain-resident CD8 T cells (bT RM ) and renders their maintenance refractory to systemic CD8 T cell depletion. Acquired CD4 T cell deficiency, modeled by delaying systemic CD4 T cell depletion until MuPyV-specific CD8 T cells have infiltrated the brain, impacted the stability of CD8 bT RM , impaired their effector response to reinfection, and rendered their maintenance dependent on circulating CD8 T cells. This dependence of CD8 bT RM differentiation on CD4 T cells was found to extend to encephalitis caused by vesicular stomatitis virus. Together, these findings reveal an intimate association between CD4 T cells and homeostasis of functional bT RM to CNS viral infection.
+1	16	22 memory	Gene_function	GO_0007613
+1	409	420 progressive	Phenotype	HP_0003676
+1	421	431 multifocal	Phenotype	HP_0030651
+1	432	451 leukoencephalopathy	Phenotype	HP_0002352
+1	528	540 encephalitis	Phenotype	HP_0002383
+1	691	701 refractory	Phenotype	HP_0031375
+1	1118	1130 encephalitis	Phenotype	HP_0002383
+1	1151	1161 stomatitis	Phenotype	HP_0010280
+1	1249	1260 homeostasis	Gene_function	GO_0042592
+1	GO-HP	GO_0007613	HP_0003676
+1	GO-HP	GO_0007613	HP_0030651
+1	GO-HP	GO_0007613	HP_0002352
+1	GO-HP	GO_0007613	HP_0002383
+1	GO-HP	GO_0007613	HP_0031375
+1	GO-HP	GO_0007613	HP_0010280
+1	HP-GO	HP_0003676	GO_0042592
+1	HP-GO	HP_0030651	GO_0042592
+1	HP-GO	HP_0002352	GO_0042592
+1	HP-GO	HP_0002383	GO_0042592
+1	HP-GO	HP_0031375	GO_0042592
+1	HP-GO	HP_0010280	GO_0042592
+
+2|chunk|disrupted the metabolic homeostasis of CD8 T cells, and reduced CD8 T cell responses upon viral reinfection. Additionally, CD8 T cells in CD4 T cell-deficient mice required resupply from circulating CD8 T cells, directly contrasting the independence from circulation in canonical T RM . Upon delayed CD4 T cell depletion and brain infection with an acutely resolving viral infection, CD8 T cells also had aberrant bT RM development and required resupply from the vasculature. Our findings demonstrate that CD4 T cells are essential for establishing long-lasting, virus-specific CD8 bT RM for antiviral CNS immunosurveillance. Our data also raise important clinical implications for developing therapies to augment CD4 T cell help to bolster protective CD8 bT RM responses.
+2	24	35 homeostasis	Gene_function	GO_0042592
+
+3|chunk|CD4 T cells control homeostasis of brain-resident CD8 T cells during polyomavirus infection PLOS Pathogens | https://doi.A large body of evidence has shown that CD4 T cell deficiency during recruitment of nave CD8 T cells has negative consequences on memory CD8 T cell differentiation [11]. To ask whether availability of CD4 T cell help during priming of virus-specific CD8 T cells affected recruitment and maintenance of CD8 T cells during MuPyV encephalitis, CD4 T cells were depleted by intraperitoneal (i.p.) administration of CD4 mAb before MuPyV infection and CD4 T cells control homeostasis of brain-resident CD8 T cells during polyomavirus infection PLOS Pathogens | https://doi.
+3	20	31 homeostasis	Gene_function	GO_0042592
+3	252	258 memory	Gene_function	GO_0007613
+3	263	285 T cell differentiation	Gene_function	GO_0030217
+3	265	285 cell differentiation	Gene_function	GO_0030154
+3	384	392 affected	Phenotype	HP_0032320
+3	588	599 homeostasis	Gene_function	GO_0042592
+3	GO-HP	GO_0042592	HP_0032320
+3	GO-HP	GO_0007613	HP_0032320
+3	GO-HP	GO_0030217	HP_0032320
+3	GO-HP	GO_0030154	HP_0032320
+

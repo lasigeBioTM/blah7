@@ -1,0 +1,35 @@
+0|chunk|CXCR2 Signaling Protects Oligodendrocytes and Restricts Demyelination in a Mouse Model of Viral-Induced Demyelination
+0	6	15 Signaling	Gene_function	GO_0023052
+0	56	69 Demyelination	Phenotype	HP_0011096
+0	104	117 Demyelination	Phenotype	HP_0011096
+0	GO-HP	GO_0023052	HP_0011096
+
+1|chunk|Background: The functional role of ELR-positive CXC chemokines during viral -induced demyelination was assessed. Inoculation of the neuroattenuated JHM strain of mouse hepatitis virus (JHMV) into the CNS of susceptible mice results in an acute encephalomyelitis that evolves into a chronic demyelinating disease, modeling white matter pathology observed in the human demyelinating disease Multiple Sclerosis.
+1	85	98 demyelination	Phenotype	HP_0011096
+1	168	177 hepatitis	Phenotype	HP_0012115
+1	238	243 acute	Phenotype	HP_0011009
+1	282	289 chronic	Phenotype	HP_0011010
+
+2|chunk|Methodology/Principal Findings: JHMV infection induced the rapid and sustained expression of transcripts specific for the ELR (+) chemokine ligands CXCL1 and CXCL2, as well as their binding receptor CXCR2, which was enriched within the spinal cord during chronic infection. Inhibiting CXCR2 signaling with neutralizing antiserum significantly (p,0.03) delayed clinical recovery. Moreover, CXCR2 neutralization was associated with an increase in the severity of demyelination that was independent of viral recrudescence or modulation of neuroinflammation. Rather, blocking CXCR2 was associated with increased numbers of apoptotic cells primarily within white matter tracts, suggesting that oligodendrocytes were affected. JHMV infection of enriched oligodendrocyte progenitor cell (OPC) cultures revealed that apoptosis was associated with elevated expression of cleaved caspase 3 and muted Bcl-2 expression. Inclusion of CXCL1 within JHMV infected cultures restricted caspase 3 cleavage and increased Bcl-2 expression that was associated with a significant (p,0.001) decrease in apoptosis. CXCR2 deficient oligodendrocytes were refractory to CXCL1 mediated protection from JHMV -induced apoptosis, readily activating caspase 3 and down regulating Bcl-2.
+2	182	189 binding	Gene_function	GO_0005488
+2	255	262 chronic	Phenotype	HP_0011010
+2	291	300 signaling	Gene_function	GO_0023052
+2	449	457 severity	Phenotype	HP_0012824
+2	461	474 demyelination	Phenotype	HP_0011096
+2	1128	1138 refractory	Phenotype	HP_0031375
+2	GO-HP	GO_0005488	HP_0011010
+2	GO-HP	GO_0005488	HP_0012824
+2	GO-HP	GO_0005488	HP_0011096
+2	GO-HP	GO_0005488	HP_0031375
+2	HP-GO	HP_0011010	GO_0023052
+2	GO-HP	GO_0023052	HP_0012824
+2	GO-HP	GO_0023052	HP_0011096
+2	GO-HP	GO_0023052	HP_0031375
+
+3|chunk|Conclusion/Significance: These findings highlight a previously unappreciated role for CXCR2 signaling in protecting oligodendrocyte lineage cells from apoptosis during inflammatory demyelination initiated by viral infection of the CNS.
+3	92	101 signaling	Gene_function	GO_0023052
+3	181	194 demyelination	Phenotype	HP_0011096
+3	208	223 viral infection	Gene_function	GO_0016032
+3	GO-HP	GO_0023052	HP_0011096
+3	HP-GO	HP_0011096	GO_0016032
+

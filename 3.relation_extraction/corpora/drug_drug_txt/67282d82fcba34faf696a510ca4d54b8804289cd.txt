@@ -1,0 +1,66 @@
+0|chunk|Development of a phage Display panning strategy Utilizing Crude Antigens: Isolation of MeRs-CoV Nucleoprotein human antibodies
+
+1|chunk|Antibody phage display has been pivotal in the quest to generate human monoclonal antibodies for biomedical and research applications. target antigen preparation is a main bottleneck associated with the panning process. This includes production complexity, downstream purification, quality and yield. In many instances, purified antigens are preferred for panning but this may not be possible for certain difficult target antigens. Here, we describe an improved procedure of affinity selection against crude or non-purified antigen by saturation of non-binders with blocking agents to promote positive binder enrichment termed as Yin-Yang panning. A nave human scFv library with kappa light chain repertoire with a library size of 10 9 was developed. the improved Yin-Yang biopanning process was able to enrich monoclonal antibodies specific to the MERS-CoV nucleoprotein. Three unique monoclonal antibodies were isolated in the process. the Yin-Yang biopanning method highlights the possibility of utilizing crude antigens for the isolation of monoclonal antibodies by phage display.
+1	142	149 antigen	Chemical	CHEBI_59132
+1	329	337 antigens	Chemical	CHEBI_59132
+1	422	430 antigens	Chemical	CHEBI_59132
+1	524	531 antigen	Chemical	CHEBI_59132
+1	686	691 light	Chemical	CHEBI_30212
+1	1016	1024 antigens	Chemical	CHEBI_59132
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_30212
+
+2|chunk|Phage display technology is regarded as an important tool used for the discovery of novel ligands against various targets of interest 1 . It has since been widely employed for the in vitro development of monoclonal antibodies, trading places with the conventional hybridoma technology which was still mainly animal host dependent 2,3 . A detailed review on antibody phage display is provided by Ponsel, et al. 4 , Tohidkia, et al. 5 and Zhao, et al. 6 . To identify a target specific antibody, an in vitro selection process underlined by the affinity enrichment concept known as biopanning is commonly used 2 . The affinity enrichment process involves several steps: immobilization of target antigen, binding of phage to target antigen, elimination of unbound phage and elution of phage 7 . The target antigens used for biopanning includes recombinant proteins, peptides, tissues and whole cells 8, 9 . The main assurance is that these proteins are mainly prepared with good purity and yield. This is evident with the reports of antibody development for dengue virus 10 , herpes simplex virus 11 , cytomegalovirus 11 , Zika virus 12 , Ebola virus 7,13 , Plasmodium species 14 , Mycobacterium tuberculosis 15 , and nematodes responsible for filariasis 16 .
+2	90	97 ligands	Chemical	CHEBI_52214
+2	802	810 antigens	Chemical	CHEBI_59132
+2	852	860 proteins	Chemical	CHEBI_36080
+2	936	944 proteins	Chemical	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_52214	CHEBI_59132
+2	CHEBI-CHEBI	CHEBI_52214	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+
+3|chunk|Nevertheless, several complications can be anticipated during antigen expression that hinders the availability of a target antigen for biopanning. Initially, solubility of the antigen is governed by the secretion of antigen into the cytoplasm (soluble form), periplasm (soluble form) and as inclusion body (insoluble form due to protein aggregation). Soluble proteins are desirable for protein purification whilst insoluble proteins must be solubilized, purified and re-folded. To overcome this issue, one has to go through a vigorous optimization process which includes cultivation temperature and conditions, expression using different E. coli expression hosts, co-expression with molecular chaperones, folding modulators and fusion partner proteins. A detailed explanation of recombinant protein expression has been reviewed by Gupta and Shukla 17 and Rosano and Ceccarelli 18 . On top of that, another obstacle in the quest for recombinant protein production is the purification process. Protein purification from crude extracts using chromatography approaches caters to different properties of the protein. A common approach to capture the desired protein independent of unwanted proteins is by using affinity tags like His6x and glutathione-S-transferase to facilitate the purification process 19-21 . Even so, the purification scheme also requires tedious optimization in order to acquire a product of highest purity. All in all, the recombinant antigen has to be pure and abundant before it can be used for biopanning. Hence, this presents a major limitation when attempting to develop antibodies against challenging target antigens.
+3	62	69 antigen	Chemical	CHEBI_59132
+3	123	130 antigen	Chemical	CHEBI_59132
+3	176	183 antigen	Chemical	CHEBI_59132
+3	216	223 antigen	Chemical	CHEBI_59132
+3	329	336 protein	Chemical	CHEBI_16541
+3	359	367 proteins	Chemical	CHEBI_36080
+3	386	393 protein	Chemical	CHEBI_16541
+3	424	432 proteins	Chemical	CHEBI_36080
+3	743	751 proteins	Chemical	CHEBI_36080
+3	791	798 protein	Chemical	CHEBI_16541
+3	944	951 protein	Chemical	CHEBI_16541
+3	992	999 Protein	Chemical	CHEBI_16541
+3	1103	1110 protein	Chemical	CHEBI_16541
+3	1153	1160 protein	Chemical	CHEBI_16541
+3	1185	1193 proteins	Chemical	CHEBI_36080
+3	1453	1460 antigen	Chemical	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+
+4|chunk|In light of this, the establishment of a viable procedure for the selection of a desired antigen in crude preparation is of major interest. Herein, we propose a proof of concept panning process coined 'Yin-Yang' panning using antigen preparations devoid of purification for biopanning. We applied the process to isolate monoclonal scFv against the Middle East respiratory syndrome coronavirus (MERS-CoV) nucleoprotein (MERS-NP). The 'Yin-Yang' concept takes its name from the Taoist concept of duality in striking a balance to form a whole. Here, the crude extract consisting of the antigen of interest in its native form alongside the endogenous E. coli proteins are used to achieve a balance between positive and negative selection. Due to the complex microenvironment during target enrichment, reducing non-specific binding interaction to E. coli proteins and blocking agents is paramount to allow effective antigen-antibody interaction to take place. A capture and elimination step was introduced prior to biopanning to remove the influence of binders against the non-target proteins. The complete workflow is outlined in the following schematic diagram (Fig. 1 ). The proposed approach was able to isolate monoclonal scFv clones against the MERS-NP utilizing a crude preparation. The antibodies were verified and identified for specificity against MERS-NP. This approach highlights the possibility of carrying out antibody phage display biopanning using crude antigens to identify antigen specific monoclonal antibodies.
+4	3	8 light	Chemical	CHEBI_30212
+4	89	96 antigen	Chemical	CHEBI_59132
+4	226	233 antigen	Chemical	CHEBI_59132
+4	583	590 antigen	Chemical	CHEBI_59132
+4	655	663 proteins	Chemical	CHEBI_36080
+4	850	858 proteins	Chemical	CHEBI_36080
+4	1079	1087 proteins	Chemical	CHEBI_36080
+4	1465	1473 antigens	Chemical	CHEBI_59132
+4	1486	1493 antigen	Chemical	CHEBI_59132
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_59132
+4	CHEBI-CHEBI	CHEBI_30212	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+
+5|chunk|Antigen preparation. The recombinant ubiquitin (rUbi) protein and its complementary E. coli lysate were prepared for the biopanning simulations while the rMERS-NP and its complementary E. coli lysate were produced for 'Yin-Yang' biopanning. The rUbi and rMERS-NP as well as their complementary E. coli lysates were successfully expressed utilizing similar host strains. The rUbi and rMERS-NP preparations were extracted and analysed with 12% SDS-PAGE. The crude extracts showed the presence of the other non-target proteins with a similar profile to the antigen preparations (Fig. 2a) . The overexpression of rUbi and rMERS-NP were also visible in their respective crude preparations as a thicker band. Purification of the rUbi was carried out and the presence of the antigens were confirmed via Western Blotting using the His 6 -tagged secondary antibodies (Fig. 2b) . The rUbi showed a specific band at the expected size of ~17 kDa with good yield and purity. The expected band size for rMERS-NP protein was ~46 kDa.
+5	0	7 Antigen	Chemical	CHEBI_59132
+5	54	61 protein	Chemical	CHEBI_16541
+5	515	523 proteins	Chemical	CHEBI_36080
+5	554	561 antigen	Chemical	CHEBI_59132
+5	768	776 antigens	Chemical	CHEBI_59132
+5	998	1005 protein	Chemical	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_59132	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+

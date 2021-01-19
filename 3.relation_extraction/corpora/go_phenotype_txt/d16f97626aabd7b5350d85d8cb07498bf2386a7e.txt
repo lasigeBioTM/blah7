@@ -1,0 +1,12 @@
+0|chunk|Methodological supplement for: Quantifying the Risk and Cost of Active Monitoring for Infectious Diseases Estimation of incubation period
+
+1|chunk|All incubation period observations were treated as single interval-censored data, which means that intervals of possible incubation periods were observed rather than exact values (1). The data used for these analyses are publicly available at https://github.com/reichlab/activemonitr (current version of code), or at https: //doi.org/10.5281/zenodo.260135 (static release as of 26 January 2017).
+
+2|chunk|We fitted the observed data for each disease to a gamma probability distribution using Bayesian Markov Chain Monte Carlo (MCMC) methods with the Metropolis-Hastings algorithm. The gamma distribution is one of several "heavy-tailed" distributions often used to describe incubation periods, and aligns with assumptions made by previous researchers. (2) We assumed uninformative, flat priors on the shape and scale parameters of the gamma distribution.
+
+3|chunk|We used a standard procedure to evaluate MCMC convergence for each of the pathogens. First, we adjusted the size of the proposal distributions to obtain acceptance rates between 30% and 40%. Second, we visually inspected the resulting chains to assess convergence. Third, we thinned the posterior samples to reduce auto-correlation between observations. Fourth, we computed the Gelman and RubinR multiple sequence diagnostic to assess convergence across chains (3). Fifth, we specified the appropriate number of samples, burn-in, and thinning rates to obtain 1 million posterior samples for smallpox and MERS-CoV and 3 million for Ebola.
+
+4|chunk|For smallpox, we ran 20 parallel MCMC chains each with 320,000 samples. We discarded the first 20,000 iterations as burn-in and removed every sixth sample. This procedure yielded 1 million samples from the posterior distribution.
+
+5|chunk|For MERS-CoV, we ran 20 parallel MCMC chains each with 120,000 samples, discarding the first 20,000 iterations as burn-in and thinned every other sample. This procedure yielded 1 million samples from the
+

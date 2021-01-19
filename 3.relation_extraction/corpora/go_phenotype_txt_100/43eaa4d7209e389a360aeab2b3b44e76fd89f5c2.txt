@@ -1,0 +1,17 @@
+0|chunk|An evaluation of potential reference genes for stability of expression in two salmonid cell lines after infection with either Piscirickettsia salmonis or IPNV
+
+1|chunk|Background: Due to the limited number of species specific antibodies against fish proteins, differential gene expression analyses are vital for the study of host immune responses. Quantitative real-time reverse transcription PCR (qRT-PCR) is one of the most powerful tools for this purpose. Nevertheless, the accuracy of the method will depend on the careful selection of genes whose expression are stable and can be used as internal controls for a particular experimental setting. Findings: The expression stability of five commonly used housekeeping genes [beta-actin (ACTB), elongation factor 1-alpha (EF1A), ubiquitin (UBQ), glyceraldehyd-3-phosphate dehydrogenase (GAPDH) and tubulin alpha (TUBA)] were monitored in salmonid cell lines CHSE-214 and RTS11 after infection with two of the most fastidious fish pathogens, the facultative bacterium Piscirickettsia salmonis and the aquabirnavirus IPNV (Infectious Pancreatic Necrosis Virus). After geNorm analysis, UBQ and EF1A appeared as the most stable, although EF1A was slightly upregulated at late stages of P. salmonis infection in RTS11. ACTB instead, showed a good performance in each case, being always considered within the three most stable genes of the panel. In contrast, infection-dependent differential regulation of GAPDH and TUBA was also demonstrated.
+1	105	120 gene expression	Gene_function	GO_0010467
+1	203	224 reverse transcription	Gene_function	GO_0001171
+1	399	405 stable	Phenotype	HP_0031915
+1	612	621 ubiquitin	Gene_function	GO_0031386
+1	926	934 Necrosis	Gene_function	GO_0001906
+1	1000	1006 stable	Phenotype	HP_0031915
+1	1197	1203 stable	Phenotype	HP_0031915
+1	GO-HP	GO_0010467	HP_0031915
+1	GO-HP	GO_0001171	HP_0031915
+1	HP-GO	HP_0031915	GO_0031386
+1	HP-GO	HP_0031915	GO_0001906
+
+2|chunk|Conclusion: Based on the data presented here with the cell culture models CHSE-214 and RTS11, we suggest the initial choice of UBQ, ACTB and EF1A as reference genes in qRT-PCR assays for studying the effect of P. salmonis and IPNV on the host immune response.
+

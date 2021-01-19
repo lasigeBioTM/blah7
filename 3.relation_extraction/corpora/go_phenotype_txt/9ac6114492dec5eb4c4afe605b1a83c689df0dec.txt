@@ -1,0 +1,24 @@
+0|chunk|Minimal within-host dengue models highlight the specific roles of the immune response in primary and secondary dengue infections
+0	70	85 immune response	Gene_function	GO_0006955
+
+1|chunk|In recent years, the within-host viral dynamics of dengue infections have been increasingly characterized, and the relationship between aspects of these dynamics and the manifestation of severe disease has been increasingly probed. Despite this progress, there are few mathematical models of within-host dengue dynamics, and the ones that exist focus primarily on the general role of immune cells in the clearance of infected cells, while neglecting other components of the immune response in limiting viraemia. Here, by considering a suite of mathematical within-host dengue models of increasing complexity, we aim to isolate the critical components of the innate and the adaptive immune response that suffice in the reproduction of several well-characterized features of primary and secondary dengue infections. By building up from a simple target cell limited model, we show that only the innate immune response is needed to recover the characteristic features of a primary symptomatic dengue infection, while a higher rate of viral infectivity (indicative of antibody-dependent enhancement) and infected cell clearance by T cells are further needed to recover the characteristic features of a secondary dengue infection. We show that these minimal models can reproduce the increased risk of disease associated with secondary heterologous infections that arises as a result of a cytokine storm, and, further, that they are consistent with virological indicators that predict the onset of severe disease, such as the magnitude of peak viraemia, time to peak viral load, and viral clearance rate. Finally, we show that the effectiveness of these virological indicators to predict the onset of severe disease depends on the contribution of T cells in fuelling the cytokine storm.
+1	187	193 severe	Phenotype	HP_0012828
+1	474	489 immune response	Gene_function	GO_0006955
+1	673	697 adaptive immune response	Gene_function	GO_0002250
+1	682	697 immune response	Gene_function	GO_0006955
+1	718	730 reproduction	Gene_function	GO_0000003
+1	892	914 innate immune response	Gene_function	GO_0045087
+1	899	914 immune response	Gene_function	GO_0006955
+1	1482	1487 onset	Phenotype	HP_0003674
+1	1491	1497 severe	Phenotype	HP_0012828
+1	1685	1690 onset	Phenotype	HP_0003674
+1	1694	1700 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0002250
+1	HP-GO	HP_0012828	GO_0000003
+1	HP-GO	HP_0012828	GO_0045087
+1	GO-HP	GO_0006955	HP_0003674
+1	GO-HP	GO_0002250	HP_0003674
+1	GO-HP	GO_0000003	HP_0003674
+1	GO-HP	GO_0045087	HP_0003674
+

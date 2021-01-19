@@ -1,0 +1,27 @@
+0|chunk|interferon Lambda: Modulating immunity in infectious Diseases
+
+1|chunk|Interferon lambdas (IFN-s; IFNL1-4) modulate immunity in the context of infections and autoimmune diseases, through a network of induced genes. IFN-s act by binding to the heterodimeric IFN- receptor (IFNLR), activating a STAT phosphorylationdependent signaling cascade. Thereby hundreds of IFN-stimulated genes are induced, which modulate various immune functions via complex forward and feedback loops. When compared to the well-characterized IFN- signaling cascade, three important differences have been discovered. First, the IFNLR is not ubiquitously expressed: in particular, immune cells show significant variation in the expression levels of and susceptibilities to IFN-s. Second, the binding affinities of individual IFN-s to the IFNLR varies greatly and are generally lower compared to the binding affinities of IFN- to its receptor. Finally, genetic variation in the form of a series of single-nucleotide polymorphisms (SNPs) linked to genes involved in the IFN- signaling cascade has been described and associated with the clinical course and treatment outcomes of hepatitis B and C virus infection. The clinical impact of IFN- signaling and the SNP variations may, however, reach far beyond viral hepatitis. Recent publications show important roles for IFN-s in a broad range of viral infections such as human T-cell leukemia type-1 virus, rotaviruses, and influenza virus. IFN- also potentially modulates the course of bacterial colonization and infections as shown for Staphylococcus aureus and Mycobacterium tuberculosis. Although the immunological processes involved in controlling viral and bacterial infections are distinct, IFN-s may interfere at various levels: as an innate immune cytokine with direct antiviral effects; or as a modulator of IFN--induced signaling via the suppressor of cytokine signaling 1 and the ubiquitin-specific peptidase 18 inhibitory feedback loops. In addition, the modulation of adaptive immune functions via macrophage and dendritic cell polarization, and subsequent priming, activation, and proliferation of pathogen-specific T-and B-cells may also be important elements associated with infectious disease outcomes. This review summarizes the emerging details of the IFN- immunobiology in the context of the host immune response and viral and bacterial infections.
+1	159	166 binding	Gene_function	GO_0005488
+1	255	264 signaling	Gene_function	GO_0023052
+1	454	463 signaling	Gene_function	GO_0023052
+1	698	705 binding	Gene_function	GO_0005488
+1	806	813 binding	Gene_function	GO_0005488
+1	982	991 signaling	Gene_function	GO_0023052
+1	1043	1058 clinical course	Phenotype	HP_0031797
+1	1085	1094 hepatitis	Phenotype	HP_0012115
+1	1149	1158 signaling	Gene_function	GO_0023052
+1	1219	1228 hepatitis	Phenotype	HP_0012115
+1	1340	1348 leukemia	Phenotype	HP_0001909
+1	1790	1799 signaling	Gene_function	GO_0023052
+1	1831	1840 signaling	Gene_function	GO_0023052
+1	2278	2293 immune response	Gene_function	GO_0006955
+1	GO-HP	GO_0005488	HP_0031797
+1	GO-HP	GO_0005488	HP_0012115
+1	GO-HP	GO_0005488	HP_0001909
+1	GO-HP	GO_0023052	HP_0031797
+1	GO-HP	GO_0023052	HP_0012115
+1	GO-HP	GO_0023052	HP_0001909
+1	HP-GO	HP_0031797	GO_0006955
+1	HP-GO	HP_0012115	GO_0006955
+1	HP-GO	HP_0001909	GO_0006955
+

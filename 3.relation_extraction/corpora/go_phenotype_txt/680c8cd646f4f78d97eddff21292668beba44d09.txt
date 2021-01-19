@@ -1,0 +1,30 @@
+0|chunk|Nrf2 protects human alveolar epithelial cells against injury induced by influenza A virus
+
+1|chunk|Background: Influenza A virus (IAV) infection primarily targets respiratory epithelial cells and produces clinical outcomes ranging from mild upper respiratory infection to severe pneumonia. Recent studies have shown the importance of lung antioxidant defense systems against injury by IAV. Nuclear factor-erythroid 2 related factor 2 (Nrf2) activates the majority of antioxidant genes. Methods: Alveolar type II (ATII) cells and alveolar macrophages (AM) were isolated from human lungs not suitable for transplantation and donated for medical research. In some studies ATII cells were transdifferentiated to alveolar type I-like (ATI-like) cells. Alveolar epithelial cells were infected with A/PR/8/34 (PR8) virus. We analyzed PR8 virus production, influenza A nucleoprotein levels, ROS generation and expression of antiviral genes. Immunocytofluorescence was used to determine Nrf2 translocation and western blotting to detect Nrf2, HO-1 and caspase 1 and 3 cleavage. We also analyzed ingestion of PR8 virus infected apoptotic ATII cells by AM, cytokine levels by ELISA, glutathione levels, necrosis and apoptosis by TUNEL assay. Moreover, we determined the critical importance of Nrf2 using adenovirus Nrf2 (AdNrf2) or Nrf2 siRNA to overexpress or knockdown Nrf2, respectively. Results: We found that IAV induced oxidative stress, cytotoxicity and apoptosis in ATI-like and ATII cells. We also found that AM can ingest PR8 virus-induced apoptotic ATII cells (efferocytosis) but not viable cells, whereas ATII cells did not ingest these apoptotic cells. PR8 virus increased ROS production, Nrf2, HO-1, Mx1 and OAS1 expression and Nrf2 translocation to the nucleus. Nrf2 knockdown with siRNA sensitized ATI-like cells and ATII cells to injury induced by IAV and overexpression of Nrf2 with AdNrf2 protected these cells. Furthermore, Nrf2 overexpression followed by infection with PR8 virus decreased virus replication, influenza A nucleoprotein expression, antiviral response and oxidative stress. However, AdNrf2 did not increase IFN-1 (IL-29) levels.
+1	137	141 mild	Phenotype	HP_0012825
+1	148	169 respiratory infection	Phenotype	HP_0011947
+1	173	179 severe	Phenotype	HP_0012828
+1	784	798 ROS generation	Gene_function	GO_1903409
+1	1093	1101 necrosis	Gene_function	GO_0001906
+1	1462	1475 efferocytosis	Gene_function	GO_0043277
+1	1566	1590 increased ROS production	Phenotype	HP_0025464
+1	1958	1976 antiviral response	Gene_function	GO_0051607
+1	HP-GO	HP_0012825	GO_1903409
+1	HP-GO	HP_0012825	GO_0001906
+1	HP-GO	HP_0012825	GO_0043277
+1	HP-GO	HP_0012825	GO_0051607
+1	HP-GO	HP_0011947	GO_1903409
+1	HP-GO	HP_0011947	GO_0001906
+1	HP-GO	HP_0011947	GO_0043277
+1	HP-GO	HP_0011947	GO_0051607
+1	HP-GO	HP_0012828	GO_1903409
+1	HP-GO	HP_0012828	GO_0001906
+1	HP-GO	HP_0012828	GO_0043277
+1	HP-GO	HP_0012828	GO_0051607
+1	GO-HP	GO_1903409	HP_0025464
+1	GO-HP	GO_0001906	HP_0025464
+1	GO-HP	GO_0043277	HP_0025464
+1	HP-GO	HP_0025464	GO_0051607
+
+2|chunk|Our results indicate that IAV induces alveolar epithelial injury and that Nrf2 protects these cells from the cytopathic effects of IAV likely by increasing the expression of antioxidant genes. Identifying the pathways involved in protecting cells from injury during influenza infection may be particularly important for developing new therapeutic strategies.
+

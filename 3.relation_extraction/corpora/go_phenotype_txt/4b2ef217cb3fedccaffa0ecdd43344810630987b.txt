@@ -1,0 +1,25 @@
+0|chunk|Identification of human leukemia antigen A*0201-restricted epitopes derived from epidermal growth factor pathway substrate number 8
+0	24	32 leukemia	Phenotype	HP_0001909
+0	91	97 growth	Gene_function	GO_0040007
+0	HP-GO	HP_0001909	GO_0040007
+
+1|chunk|T-cell-mediated immunotherapy of hematological malignancies requires selection of targeted tumor-associated antigens and T-cell epitopes contained in these tumor proteins. Epidermal growth factor receptor pathway substrate 8 (EPS8), whose function is pivotal for tumor proliferation, progression and metastasis, has been found to be overexpressed in most human tumor types, while its expression in normal tissue is low. The aim of the present study was to identify human leukemia antigen (HLA)-A*0201-restricted epitopes of EPS8 by using a reverse immunology approach. To achieve this, computer algorithms were used to predict HLA-A*0201 molecular binding, proteasome cleavage patterns as well as translocation of transporters associated with antigen processing. Candidate peptides were experimentally validated by T2 binding affinity assay and brefeldin-A decay assay. The functional avidity of peptide-specific cytotoxic T lymphocytes (CTLs) induced from peripheral blood mononuclear cells of healthy volunteers were evaluated by using an enzyme-linked immunosorbent spot assay and a cytotoxicity assay. Four peptides, designated as P455, P92, P276 and P360, had high affinity and stability of binding towards the HLA-A*0201 molecule, and specific CTLs induced by them significantly responded to the corresponding peptides and secreted IFN-. At the same time, the CTLs were able to specifically lyse EPS8-expressing cell lines in an HLA-A*0201-restricted manner. The present study demonstrated that P455, P92, P276 and P360 were CTL epitopes of EPS8, and were able to be used for epitope-defined adoptive T-cell transfer and multi-epitope-based vaccine design.
+1	156	161 tumor	Phenotype	HP_0002664
+1	182	188 growth	Gene_function	GO_0040007
+1	263	268 tumor	Phenotype	HP_0002664
+1	361	366 tumor	Phenotype	HP_0002664
+1	471	479 leukemia	Phenotype	HP_0001909
+1	648	655 binding	Gene_function	GO_0005488
+1	818	825 binding	Gene_function	GO_0005488
+1	957	967 peripheral	Phenotype	HP_0030646
+1	995	1002 healthy	Phenotype	HP_0032322
+1	1196	1203 binding	Gene_function	GO_0005488
+1	HP-GO	HP_0002664	GO_0040007
+1	HP-GO	HP_0002664	GO_0005488
+1	GO-HP	GO_0040007	HP_0001909
+1	GO-HP	GO_0040007	HP_0030646
+1	GO-HP	GO_0040007	HP_0032322
+1	HP-GO	HP_0001909	GO_0005488
+1	GO-HP	GO_0005488	HP_0030646
+1	GO-HP	GO_0005488	HP_0032322
+

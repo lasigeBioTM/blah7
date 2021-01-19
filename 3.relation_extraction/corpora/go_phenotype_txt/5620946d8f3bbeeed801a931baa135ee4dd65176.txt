@@ -1,0 +1,22 @@
+0|chunk|SARS Coronavirus nsp1 Protein Induces Template- Dependent Endonucleolytic Cleavage of mRNAs: Viral mRNAs Are Resistant to nsp1-Induced RNA Cleavage
+
+1|chunk|SARS coronavirus (SCoV) nonstructural protein (nsp) 1, a potent inhibitor of host gene expression, possesses a unique mode of action: it binds to 40S ribosomes to inactivate their translation functions and induces host mRNA degradation. Our previous study demonstrated that nsp1 induces RNA modification near the 59-end of a reporter mRNA having a short 59 untranslated region and RNA cleavage in the encephalomyocarditis virus internal ribosome entry site (IRES) region of a dicistronic RNA template, but not in those IRES elements from hepatitis C or cricket paralysis viruses. By using primarily cellfree, in vitro translation systems, the present study revealed that the nsp1 induced endonucleolytic RNA cleavage mainly near the 59 untranslated region of capped mRNA templates. Experiments using dicistronic mRNAs carrying different IRESes showed that nsp1 induced endonucleolytic RNA cleavage within the ribosome loading region of type I and type II picornavirus IRES elements, but not that of classical swine fever virus IRES, which is characterized as a hepatitis C virus-like IRES. The nsp1-induced RNA cleavage of template mRNAs exhibited no apparent preference for a specific nucleotide sequence at the RNA cleavage sites. Remarkably, SCoV mRNAs, which have a 59 cap structure and 39 poly A tail like those of typical host mRNAs, were not susceptible to nsp1-mediated RNA cleavage and importantly, the presence of the 59-end leader sequence protected the SCoV mRNAs from nsp1-induced endonucleolytic RNA cleavage. The escape of viral mRNAs from nsp1-induced RNA cleavage may be an important strategy by which the virus circumvents the action of nsp1 leading to the efficient accumulation of viral mRNAs and viral proteins during infection. Citation: Huang C, Lokugamage KG, Rozovics JM, Narayanan K, Semler BL, et al. (2011) SARS Coronavirus nsp1 Protein Induces Template-Dependent Endonucleolytic Cleavage of mRNAs: Viral mRNAs Are Resistant to nsp1-Induced RNA Cleavage. PLoS Pathog 7(12): e1002433.
+1	180	191 translation	Gene_function	GO_0006412
+1	287	303 RNA modification	Gene_function	GO_0009451
+1	437	445 ribosome	Gene_function	GO_0005840
+1	538	547 hepatitis	Phenotype	HP_0012115
+1	561	570 paralysis	Phenotype	HP_0003470
+1	618	629 translation	Gene_function	GO_0006412
+1	909	917 ribosome	Gene_function	GO_0005840
+1	1015	1020 fever	Phenotype	HP_0001945
+1	1061	1070 hepatitis	Phenotype	HP_0012115
+1	GO-HP	GO_0006412	HP_0012115
+1	GO-HP	GO_0006412	HP_0003470
+1	GO-HP	GO_0006412	HP_0001945
+1	GO-HP	GO_0009451	HP_0012115
+1	GO-HP	GO_0009451	HP_0003470
+1	GO-HP	GO_0009451	HP_0001945
+1	GO-HP	GO_0005840	HP_0012115
+1	GO-HP	GO_0005840	HP_0003470
+1	GO-HP	GO_0005840	HP_0001945
+

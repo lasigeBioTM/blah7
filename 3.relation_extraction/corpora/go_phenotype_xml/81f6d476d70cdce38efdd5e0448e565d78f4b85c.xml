@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="81f6d476d70cdce38efdd5e0448e565d78f4b85c">
+  <chunk id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c0" text="Signatures of malaria- associated pathology revealed by high-resolution whole-blood transcriptomics in a rodent model of malaria OPEN"/>
+  <chunk id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1" text="The influence of parasite genetic factors on immune responses and development of severe pathology of malaria is largely unknown. In this study, we performed genome-wide transcriptomic profiling of mouse whole blood during blood-stage infections of two strains of the rodent malaria parasite Plasmodium chabaudi that differ in virulence. We identified several transcriptomic signatures associated with the virulent infection, including signatures for platelet aggregation, stronger and prolonged anemia and lung inflammation. The first two signatures were detected prior to pathology. The anemia signature indicated deregulation of host erythropoiesis, and the lung inflammation signature was linked to increased neutrophil infiltration, more cell death and greater parasite sequestration in the lungs. This comparative whole-blood transcriptomics profiling of virulent and avirulent malaria shows the validity of this approach to inform severity of the infection and provide insight into pathogenic mechanisms.">
+    <entity charOffset="81-87" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="485-494" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e1" ontology_id="HP_0025297" text="prolonged" type="phenotype"/>
+    <entity charOffset="495-501" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e2" ontology_id="HP_0001903" text="anemia" type="phenotype"/>
+    <entity charOffset="588-594" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e3" ontology_id="HP_0001903" text="anemia" type="phenotype"/>
+    <entity charOffset="742-752" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="937-945" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e5" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e0" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.p0" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e1" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.p1" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e2" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.p2" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e3" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.p3" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e4" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.e5" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c1.p4" relation="true"/>
+  </chunk>
+  <chunk id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2" text="According to the latest estimation by WHO, there were 214 million new cases of malaria worldwide in 2015 and 438,000 deaths (World Malaria Report 2015, www.who.int). Most of these deaths were due to complicated symptoms, such as cerebral malaria, severe malarial anemia, acute respiratory distress syndrome and abnormalities in blood coagulation (http://www.cdc.gov/malaria/about/disease. html). Both host and parasite factors influence clinical outcomes of malaria. In a study conducted in a Plasmodium falciparum and P. vivax infected population in Sri Lanka, only 30% of variations in disease severity could be explained by known factors, among which were prior exposure, host genetics and other host non-genetic factors 1 . The fact that 70% remained unexplained suggests a strong contribution of parasite virulence and its interaction with the host.">
+    <entity charOffset="247-253" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="271-276" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e1" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="277-297" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e2" ontology_id="HP_0002098" text="respiratory distress" type="phenotype"/>
+    <entity charOffset="328-345" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e3" ontology_id="GO_0007596" text="blood coagulation" type="gene_function"/>
+    <entity charOffset="334-345" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e4" ontology_id="GO_0050817" text="coagulation" type="gene_function"/>
+    <entity charOffset="596-604" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e5" ontology_id="HP_0012824" text="severity" type="phenotype"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e0" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e3" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p0" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e0" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p1" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e1" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e3" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p2" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e1" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p3" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e2" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e3" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p4" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e2" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e4" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p5" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e3" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e5" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p6" relation="true"/>
+    <pair e1="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e4" e2="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.e5" id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c2.p7" relation="true"/>
+  </chunk>
+  <chunk id="81f6d476d70cdce38efdd5e0448e565d78f4b85c.c3" text="Despite decades of research, we do not know how the host responds to Plasmodium strains of different virulence, or how this leads to different levels of morbidity and mortality. In-depth analyses of immune responses to differently virulent parasites will likely reveal host factors that contribute to disease severity, and provide insight into mechanisms leading to immunoprotection or immunopathogenesis."/>
+</document>

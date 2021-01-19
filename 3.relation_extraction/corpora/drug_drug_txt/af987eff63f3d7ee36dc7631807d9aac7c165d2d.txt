@@ -1,0 +1,19 @@
+0|chunk|Prediction of novel mouse TLR9 agonists using a random forest approach
+0	31	39 agonists	Chemical	CHEBI_48705
+
+1|chunk|Background: Toll-like receptor 9 is a key innate immune receptor involved in detecting infectious diseases and cancer. TLR9 activates the innate immune system following the recognition of single-stranded DNA oligonucleotides (ODN) containing unmethylated cytosine-guanine (CpG) motifs. Due to the considerable number of rotatable bonds in ODNs, high-throughput in silico screening for potential TLR9 activity via traditional structurebased virtual screening approaches of CpG ODNs is challenging. In the current study, we present a machine learning based method for predicting novel mouse TLR9 (mTLR9) agonists based on features including count and position of motifs, the distance between the motifs and graphically derived features such as the radius of gyration and moment of Inertia. We employed an in-house experimentally validated dataset of 396 single-stranded synthetic ODNs, to compare the results of five machine learning algorithms. Since the dataset was highly imbalanced, we used an ensemble learning approach based on repeated random down-sampling.
+1	188	207 single-stranded DNA	Chemical	CHEBI_9160
+1	204	207 DNA	Chemical	CHEBI_16991
+1	208	224 oligonucleotides	Chemical	CHEBI_7754
+1	602	610 agonists	Chemical	CHEBI_48705
+1	CHEBI-CHEBI	CHEBI_9160	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_9160	CHEBI_7754
+1	CHEBI-CHEBI	CHEBI_9160	CHEBI_48705
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_7754
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_48705
+1	CHEBI-CHEBI	CHEBI_7754	CHEBI_48705
+
+2|chunk|Results: Using in-house experimental TLR9 activity data we found that random forest algorithm outperformed other algorithms for our dataset for TLR9 activity prediction. Therefore, we developed a cross-validated ensemble classifier of 20 random forest models. The average Matthews correlation coefficient and balanced accuracy of our ensemble classifier in test samples was 0.61 and 80.0%, respectively, with the maximum balanced accuracy and Matthews correlation coefficient of 87.0% and 0.75, respectively. We confirmed common sequence motifs including 'CC', 'GG','AG', 'CCCG' and 'CGGC' were overrepresented in mTLR9 agonists. Predictions on 6000 randomly generated ODNs were ranked and the top 100 ODNs were synthesized and experimentally tested for activity in a mTLR9 reporter cell assay, with 91 of the 100 selected ODNs showing high activity, confirming the accuracy of the model in predicting mTLR9 activity.
+
+3|chunk|We combined repeated random down-sampling with random forest to overcome the class imbalance problem and achieved promising results. Overall, we showed that the random forest algorithm outperformed other machine learning algorithms including support vector machines, shrinkage discriminant analysis, gradient boosting machine and neural networks. Due to its predictive performance and simplicity, the random forest technique is a useful method for prediction of mTLR9 ODN agonists.
+

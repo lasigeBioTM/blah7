@@ -1,0 +1,24 @@
+0|chunk|Automated analysis of phylogenetic clusters Automated analysis of phylogenetic clusters on behalf of the UK HIV Drug Resistance Database
+0	35	43 clusters	Chemical	CHEBI_33731
+0	79	87 clusters	Chemical	CHEBI_33731
+0	112	116 Drug	Chemical	CHEBI_23888
+
+1|chunk|Background: As sequence data sets used for the investigation of pathogen transmission patterns increase in size, automated tools and standardized methods for cluster analysis have become necessary. We have developed an automated Cluster Picker which identifies monophyletic clades meeting user-input criteria for bootstrap support and maximum genetic distance within large phylogenetic trees. A second tool, the Cluster Matcher, automates the process of linking genetic data to epidemiological or clinical data, and matches clusters between runs of the Cluster Picker.
+1	158	165 cluster	Chemical	CHEBI_33731
+1	229	236 Cluster	Chemical	CHEBI_33731
+1	412	419 Cluster	Chemical	CHEBI_33731
+1	524	532 clusters	Chemical	CHEBI_33731
+1	553	560 Cluster	Chemical	CHEBI_33731
+
+2|chunk|Results: We explore the effect of different bootstrap and genetic distance thresholds on clusters identified in a data set of publicly available HIV sequences, and compare these results to those of a previously published tool for cluster identification. To demonstrate their utility, we then use the Cluster Picker and Cluster Matcher together to investigate how clusters in the data set changed over time. We find that clusters containing sequences from more than one UK location at the first time point (multiple origin) were significantly more likely to grow than those representing only a single location.
+2	89	97 clusters	Chemical	CHEBI_33731
+2	230	237 cluster	Chemical	CHEBI_33731
+2	300	307 Cluster	Chemical	CHEBI_33731
+2	319	326 Cluster	Chemical	CHEBI_33731
+2	363	371 clusters	Chemical	CHEBI_33731
+2	420	428 clusters	Chemical	CHEBI_33731
+
+3|chunk|The Cluster Picker and Cluster Matcher can rapidly process phylogenetic trees containing tens of thousands of sequences. Together these tools will facilitate comparisons of pathogen transmission dynamics between studies and countries.
+3	4	11 Cluster	Chemical	CHEBI_33731
+3	23	30 Cluster	Chemical	CHEBI_33731
+

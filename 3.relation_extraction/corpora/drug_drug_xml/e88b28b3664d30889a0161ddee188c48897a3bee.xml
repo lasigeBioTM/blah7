@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<document id="e88b28b3664d30889a0161ddee188c48897a3bee">
+  <chunk id="e88b28b3664d30889a0161ddee188c48897a3bee.c0" text="SARS-CoV 9b Protein Diffuses into Nucleus, Undergoes Active Crm1 Mediated Nucleocytoplasmic Export and Triggers Apoptosis When Retained in the Nucleus">
+    <entity charOffset="12-19" id="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e0" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="34-41" id="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e1" ontology_id="CHEBI_33252" text="Nucleus" type="chemical"/>
+    <entity charOffset="143-150" id="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e2" ontology_id="CHEBI_33252" text="Nucleus" type="chemical"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e1" id="e88b28b3664d30889a0161ddee188c48897a3bee.c0.p0" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c0.e2" id="e88b28b3664d30889a0161ddee188c48897a3bee.c0.p1" relation="true"/>
+  </chunk>
+  <chunk id="e88b28b3664d30889a0161ddee188c48897a3bee.c1" text="Background: 9b is an accessory protein of the SARS-CoV. It is a small protein of 98 amino acids and its structure has been solved recently. 9b is known to localize in the extra-nuclear region and has been postulated to possess a nuclear export signal (NES), however the role of NES in 9b functioning is not well understood.">
+    <entity charOffset="31-38" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="70-77" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="84-89" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="84-95" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" ontology_id="CHEBI_33704" text="amino acids" type="chemical"/>
+    <entity charOffset="90-95" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" ontology_id="CHEBI_37527" text="acids" type="chemical"/>
+    <entity charOffset="270-274" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p0" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p1" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p2" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p3" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p4" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p5" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p6" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p7" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p8" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p9" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p10" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p11" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e3" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p12" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e4" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c1.e5" id="e88b28b3664d30889a0161ddee188c48897a3bee.c1.p13" relation="true"/>
+  </chunk>
+  <chunk id="e88b28b3664d30889a0161ddee188c48897a3bee.c2" text="Principal Findings/Methodology: In this report, we demonstrate that 9b in the absence of any nuclear localization signal (NLS) enters the nucleus by passive transport. Using various cell cycle inhibitors, we have shown that the nuclear entry of 9b is independent of the cell cycle. Further, we found that 9b interacts with the cellular protein Crm1 and gets exported out of the nucleus using an active NES. We have also revealed that this NES activity influences the half-life of 9b and affects host cell death. We found that an export signal deficient SARS-CoV 9b protein induces apoptosis in transiently transfected cells and showed elevated caspase-3 activity.">
+    <entity charOffset="138-145" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e0" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <entity charOffset="336-343" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="378-385" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e2" ontology_id="CHEBI_33252" text="nucleus" type="chemical"/>
+    <entity charOffset="565-572" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e1" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.p0" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.p1" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e2" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.p2" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c2.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="e88b28b3664d30889a0161ddee188c48897a3bee.c3" text="Conclusion/Significance: Here, we showed that nuclear shuttling of 9b and its interaction with Crm1 are essential for the proper degradation of 9b and blocking the nuclear export of this protein induces apoptosis. This phenomenon may be critical in providing a novel role to the 9b accessory protein of SARS-CoV. Citation: Sharma K, Å kerströ m S, Sharma AK, Chow VTK, Teow S, et al. (2011) SARS-CoV 9b Protein Diffuses into Nucleus, Undergoes Active Crm1 Mediated Nucleocytoplasmic Export and Triggers Apoptosis When Retained in the Nucleus. PLoS ONE 6(5): e19436.">
+    <entity charOffset="187-194" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="267-271" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e1" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="292-299" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="403-410" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e3" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="548-551" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e4" ontology_id="CHEBI_58972" text="ONE" type="chemical"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e1" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p0" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p1" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e0" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p2" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e2" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p3" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p4" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e1" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p5" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e3" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p6" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e2" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p7" relation="true"/>
+    <pair e1="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e3" e2="e88b28b3664d30889a0161ddee188c48897a3bee.c3.e4" id="e88b28b3664d30889a0161ddee188c48897a3bee.c3.p8" relation="true"/>
+  </chunk>
+</document>

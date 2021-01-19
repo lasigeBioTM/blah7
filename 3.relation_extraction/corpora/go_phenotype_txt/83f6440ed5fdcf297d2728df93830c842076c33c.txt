@@ -1,0 +1,26 @@
+0|chunk|Mapping and characterization of G-quadruplexes in Mycobacterium tuberculosis gene promoter regions OPEN
+
+1|chunk|Mycobacterium tuberculosis is the causative agent of tuberculosis (TB), one of the top 10 causes of death worldwide in 2015. The recent emergence of strains resistant to all current drugs urges the development of compounds with new mechanisms of action. G-quadruplexes are nucleic acids secondary structures that may form in G-rich regions to epigenetically regulate cellular functions. Here we implemented a computational tool to scan the presence of putative G-quadruplex forming sequences in the genome of Mycobacterium tuberculosis and analyse their association to transcription start sites. We found that the most stable G-quadruplexes were in the promoter region of genes belonging to definite functional categories. Actual G-quadruplex folding of four selected sequences was assessed by biophysical and biomolecular techniques: all molecules formed stable G-quadruplexes, which were further stabilized by two G-quadruplex ligands. These compounds inhibited Mycobacterium tuberculosis growth with minimal inhibitory concentrations in the low micromolar range. These data support formation of Mycobacterium tuberculosis G-quadruplexes in vivo and their potential regulation of gene transcription, and prompt the use of G4 ligands to develop original antitubercular agents.
+1	619	625 stable	Phenotype	HP_0031915
+1	856	862 stable	Phenotype	HP_0031915
+1	991	997 growth	Gene_function	GO_0040007
+1	HP-GO	HP_0031915	GO_0040007
+
+2|chunk|Mycobacterium tuberculosis (Mtb) is the causative agent of tuberculosis (TB), a disease existing for millennia and still remaining a major global health problem. Primary infection occurs by inhaling aerosol particles containing bacteria. Mtb is able to replicate inside alveolar macrophages and inflammatory cells recruited at the infection site determine formation of a histological pulmonary lesion named granuloma. In most cases Mtb is never cleared and survives inside granulomas in a non-replicative and non-infectious state known as latency 1 . Around one third of the world's population is affected by latent TB. Latently infected individuals have 5-15% probability to develop the active disease during their lifetime. According to the 2016 World Health Organization (WHO) report, 10.4 million new TB cases were estimated worldwide, with 480,000 new cases of multidrug-resistant TB (MDR-TB) and 1.4 million deaths. In addition, the emergence of extensively drug-resistant TB (XDR-TB) and totally drug-resistant TB (TDR-TB) is becoming one of the biggest threats to public health and TB control programs 2 . Therefore, new insights into Mtb physiology are required to better characterize the pathogenesis mechanisms that Mtb exploits to survive and persist in its host, in order to individuate strategies to eradicate this ancient pathogen.
+2	28	31 Mtb	Gene_function	GO_0015627
+2	238	241 Mtb	Gene_function	GO_0015627
+2	432	435 Mtb	Gene_function	GO_0015627
+2	597	605 affected	Phenotype	HP_0032320
+2	1143	1146 Mtb	Gene_function	GO_0015627
+2	1198	1210 pathogenesis	Gene_function	GO_0009405
+2	1227	1230 Mtb	Gene_function	GO_0015627
+2	GO-HP	GO_0015627	HP_0032320
+2	HP-GO	HP_0032320	GO_0009405
+
+3|chunk|G-quadruplexes (G4s) are nucleic acids secondary structures that may form in single-stranded G-rich sequences under physiological conditions 3 . Four Gs bind via Hoogsteen-type hydrogen bonds base-pairing to yield G-quartets, which stack to form the G4. The presence of K + cations specifically supports G4 formation and stability 4 . Based on the strand orientation, G4s can adopt three main topologies: parallel, antiparallel, and hybrid-type structures. Stability studies about the formation of G4s have demonstrated that these non-canonical DNA secondary structures are able to destabilize the double helix, since many G4 structures are thermodynamically more stable than double stranded DNA and their unfolding kinetics are significantly slower 5, 6 . In eukaryotes G4s have been reported to be involved in key regulatory roles, including transcriptional regulation of gene promoters and enhancers, translation, chromatin epigenetic regulation, DNA recombination 6-10 . Expansion of G4-forming motifs has been associated with relevant human neurological disorders 8, 11 . Formation of G4s in vivo has been consolidated by the discovery of cellular proteins that specifically recognize G4s 12, 13 and the Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 5743 |
+3	664	670 stable	Phenotype	HP_0031915
+3	917	926 chromatin	Gene_function	GO_0000785
+3	950	967 DNA recombination	Gene_function	GO_0006310
+3	HP-GO	HP_0031915	GO_0000785
+3	HP-GO	HP_0031915	GO_0006310
+

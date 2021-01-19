@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="eabb427018b4decc5d1e04772814238be2a6d9d6">
+  <chunk id="eabb427018b4decc5d1e04772814238be2a6d9d6.c0" text="Forecasting the 2013-2014 Influenza Season Using Wikipedia">
+    <entity charOffset="26-35" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c0.e0" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+  </chunk>
+  <chunk id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1" text="Infectious diseases are one of the leading causes of morbidity and mortality around the world; thus, forecasting their impact is crucial for planning an effective response strategy. According to the Centers for Disease Control and Prevention (CDC), seasonal influenza affects 5% to 20% of the U.S. population and causes major economic impacts resulting from hospitalization and absenteeism. Understanding influenza dynamics and forecasting its impact is fundamental for developing prevention and mitigation strategies. We combine modern data assimilation methods with Wikipedia access logs and CDC influenza-like illness (ILI) reports to create a weekly forecast for seasonal influenza. The methods are applied to the 2013-2014 influenza season but are sufficiently general to forecast any disease outbreak, given incidence or case count data. We adjust the initialization and parametrization of a disease model and show that this allows us to determine systematic model bias. In addition, we provide a way to determine where the model diverges from observation and evaluate forecast accuracy. Wikipedia article access logs are shown to be highly correlated with historical ILI records and allow for accurate prediction of ILI data several weeks before it becomes available. The results show that prior to the peak of the flu season, our forecasting method produced 50% and 95% credible intervals for the 2013-2014 ILI observations that contained the actual observations for most weeks in the forecast. However, since our model does not account for re-infection or multiple strains of influenza, the tail of the epidemic is not predicted well after the peak of flu season has passed. PLOS Computational Biology |">
+    <entity charOffset="211-218" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e0" ontology_id="DOID_4" text="Disease" type="disease"/>
+    <entity charOffset="258-267" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="405-414" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e2" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="676-685" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e3" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="728-737" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e4" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="790-797" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e5" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="898-905" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e6" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1322-1325" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e7" ontology_id="DOID_8469" text="flu" type="disease"/>
+    <entity charOffset="1585-1594" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e8" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="1661-1664" id="eabb427018b4decc5d1e04772814238be2a6d9d6.c1.e9" ontology_id="DOID_8469" text="flu" type="disease"/>
+  </chunk>
+</document>

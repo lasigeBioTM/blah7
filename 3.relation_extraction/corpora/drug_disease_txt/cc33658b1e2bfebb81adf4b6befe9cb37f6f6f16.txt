@@ -1,0 +1,38 @@
+0|chunk|Profiling of Substrate Specificities of 3C-Like Proteases from Group 1, 2a, 2b, and 3 Coronaviruses
+
+1|chunk|Background: Coronaviruses (CoVs) can be classified into alphacoronavirus (group 1), betacoronavirus (group 2), and gammacoronavirus (group 3) based on diversity of the protein sequences. Their 3C-like protease (3CL pro ), which catalyzes the proteolytic processing of the polyproteins for viral replication, is a potential target for anti-coronaviral infection.
+1	168	175 protein	Chemical	CHEBI_16541
+1	215	218 pro	Chemical	CHEBI_50342
+
+2|chunk|Methodology/Principal Findings: Here, we profiled the substrate specificities of 3CL pro from human CoV NL63 (group 1), human CoV OC43 (group 2a), severe acute respiratory syndrome coronavirus (SARS-CoV) (group 2b) and infectious bronchitis virus (IBV) (group 3), by measuring their activity against a substrate library of 1968 of variants with single substitutions at P5 to P3' positions. The results were correlated with structural properties like side chain volume, hydrophobicity, and secondary structure propensities of substituting residues. All 3CL pro prefer Gln at P1 position, Leu at P2 position, basic residues at P3 position, small hydrophobic residues at P4 position, and small residues at P1' and P2' positions. Despite 3CL pro from different groups of CoVs share many similarities in substrate specificities, differences in substrate specificities were observed at P4 positions, with IBV 3CL pro prefers P4-Pro and SARS-CoV 3CL pro prefers P4-Val. By combining the most favorable residues at P3 to P5 positions, we identified super-active substrate sequences 'VARLQQSGF' that can be cleaved efficiently by all 3CL pro with relative activity of 1.7 to 3.2, and 'VPRLQQSGF' that can be cleaved specifically by IBV 3CL pro with relative activity of 4.3.
+2	85	88 pro	Chemical	CHEBI_50342
+2	147	180 severe acute respiratory syndrome	Disease	DOID_2945
+2	172	180 syndrome	Disease	DOID_225
+2	230	240 bronchitis	Disease	DOID_6132
+2	556	559 pro	Chemical	CHEBI_50342
+2	567	570 Gln	Chemical	CHEBI_30011
+2	587	590 Leu	Chemical	CHEBI_15603
+2	587	590 Leu	Chemical	CHEBI_25017
+2	738	741 pro	Chemical	CHEBI_50342
+2	907	910 pro	Chemical	CHEBI_50342
+2	943	946 pro	Chemical	CHEBI_50342
+2	1129	1132 pro	Chemical	CHEBI_50342
+2	1231	1234 pro	Chemical	CHEBI_50342
+2	CHEBI-DOID	CHEBI_50342	DOID_2945
+2	CHEBI-DOID	CHEBI_50342	DOID_225
+2	CHEBI-DOID	CHEBI_50342	DOID_6132
+2	DOID-CHEBI	DOID_2945	CHEBI_30011
+2	DOID-CHEBI	DOID_2945	CHEBI_15603
+2	DOID-CHEBI	DOID_2945	CHEBI_25017
+2	DOID-CHEBI	DOID_225	CHEBI_30011
+2	DOID-CHEBI	DOID_225	CHEBI_15603
+2	DOID-CHEBI	DOID_225	CHEBI_25017
+2	DOID-CHEBI	DOID_6132	CHEBI_30011
+2	DOID-CHEBI	DOID_6132	CHEBI_15603
+2	DOID-CHEBI	DOID_6132	CHEBI_25017
+
+3|chunk|Conclusions/Significance: The comprehensive substrate specificities of 3CL pro from each of the group 1, 2a, 2b, and 3 CoVs have been profiled in this study, which may provide insights into a rational design of broad-spectrum peptidomimetic inhibitors targeting the proteases.
+3	75	78 pro	Chemical	CHEBI_50342
+3	226	240 peptidomimetic	Chemical	CHEBI_63175
+3	241	251 inhibitors	Chemical	CHEBI_35222
+

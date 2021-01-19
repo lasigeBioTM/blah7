@@ -1,0 +1,159 @@
+{
+    "text": "Among the infections caused by Streptococcus \u03b2 hemolyticus from the Lancefield serogroup A, toxic shock syndrome is perhaps the most severe, and its mortality rate is high. Its clinical similarity to other forms of shock, especially septic shock, can often confuse the evaluator and interfere with the selection of the most appropriate therapy. This report aims to inform readers of the need to add this syndrome as a differential diagnosis in cases of shock, especially those with no well-defined clinical manifestations. For this purpose, we present the case of an infant with common flu-like symptoms who progressed rapidly with a rash, a reduced level of consciousness and clinical and laboratory signs of shock that required intensive support. In addition to cultures indicating the etiological agent, the appearance of exanthema and necrotizing fasciitis led to the diagnosis. However, less than 50% of cases present classic clinical signs of this entity. Penicillins combined with aminoglycosides are still the therapy of choice and are supported by a high level of evidence. Despite the severity of this patient's presentation, the progression was satisfactory.",
+    "denotations": [
+        {
+            "id": "DOID_14115",
+            "span": {
+                "begin": 92,
+                "end": 103
+            },
+            "obj": "toxic shock"
+        },
+        {
+            "id": "DOID_14115",
+            "span": {
+                "begin": 92,
+                "end": 112
+            },
+            "obj": "toxic shock syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 104,
+                "end": 112
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "CHEBI_40799",
+            "span": {
+                "begin": 395,
+                "end": 398
+            },
+            "obj": "add"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 404,
+                "end": 412
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "DOID_0050486",
+            "span": {
+                "begin": 825,
+                "end": 834
+            },
+            "obj": "exanthema"
+        },
+        {
+            "id": "DOID_9602",
+            "span": {
+                "begin": 839,
+                "end": 860
+            },
+            "obj": "necrotizing fasciitis"
+        },
+        {
+            "id": "DOID_9598",
+            "span": {
+                "begin": 851,
+                "end": 860
+            },
+            "obj": "fasciitis"
+        },
+        {
+            "id": "CHEBI_17334",
+            "span": {
+                "begin": 962,
+                "end": 973
+            },
+            "obj": "Penicillins"
+        },
+        {
+            "id": "CHEBI_47779",
+            "span": {
+                "begin": 988,
+                "end": 1003
+            },
+            "obj": "aminoglycosides"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_14115",
+            "pred": "effect",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_14115",
+            "pred": "effect",
+            "obj": "CHEBI_17334"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_14115",
+            "pred": "effect",
+            "obj": "CHEBI_47779"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_225",
+            "pred": "no_relation",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_17334"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_225",
+            "pred": "no_relation",
+            "obj": "CHEBI_47779"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_0050486",
+            "pred": "no_relation",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_0050486",
+            "pred": "effect",
+            "obj": "CHEBI_17334"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_0050486",
+            "pred": "no_relation",
+            "obj": "CHEBI_47779"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_9602",
+            "pred": "effect",
+            "obj": "CHEBI_40799"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_9602",
+            "pred": "effect",
+            "obj": "CHEBI_17334"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_9602",
+            "pred": "effect",
+            "obj": "CHEBI_47779"
+        }
+    ]
+}

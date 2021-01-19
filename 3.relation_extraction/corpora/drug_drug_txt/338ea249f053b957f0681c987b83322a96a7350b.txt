@@ -1,0 +1,17 @@
+0|chunk|iEzy-Drug: A Web Server for Identifying the Interaction between Enzymes and Drugs in Cellular Networking
+0	76	81 Drugs	Chemical	CHEBI_23888
+
+1|chunk|With the features of extremely high selectivity and efficiency in catalyzing almost all the chemical reactions in cells, enzymes play vitally important roles for the life of an organism and hence have become frequent targets for drug design. An essential step in developing drugs by targeting enzymes is to identify drug-enzyme interactions in cells. It is both time-consuming and costly to do this purely by means of experimental techniques alone. Although some computational methods were developed in this regard based on the knowledge of the three-dimensional structure of enzyme, unfortunately their usage is quite limited because threedimensional structures of many enzymes are still unknown. Here, we reported a sequence-based predictor, called "iEzy-Drug, " in which each drug compound was formulated by a molecular fingerprint with 258 feature components, each enzyme by the Chou's pseudo amino acid composition generated via incorporating sequential evolution information and physicochemical features derived from its sequence, and the prediction engine was operated by the fuzzy K-nearest neighbor algorithm. The overall success rate achieved by iEzy-Drug via rigorous cross-validations was about 91%. Moreover, to maximize the convenience for the majority of experimental scientists, a user-friendly web server was established, by which users can easily obtain their desired results.
+1	229	233 drug	Chemical	CHEBI_23888
+1	274	279 drugs	Chemical	CHEBI_23888
+1	779	783 drug	Chemical	CHEBI_23888
+1	897	902 amino	Chemical	CHEBI_46882
+1	897	907 amino acid	Chemical	CHEBI_33704
+1	903	907 acid	Chemical	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+

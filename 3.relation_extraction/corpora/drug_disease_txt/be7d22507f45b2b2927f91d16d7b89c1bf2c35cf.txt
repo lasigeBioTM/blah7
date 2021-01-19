@@ -1,0 +1,71 @@
+0|chunk|Prion-like Domains in Eukaryotic Viruses OPEN
+
+1|chunk|Prions are proteins that can self-propagate, leading to the misfolding of proteins. In addition to the previously demonstrated pathogenic roles of prions during the development of different mammalian diseases, including neurodegenerative diseases, they have recently been shown to represent an important functional component in many prokaryotic and eukaryotic organisms and bacteriophages, confirming the previously unexplored important regulatory and functional roles. However, an indepth analysis of these domains in eukaryotic viruses has not been performed. Here, we examined the presence of prion-like proteins in eukaryotic viruses that play a primary role in different ecosystems and that are associated with emerging diseases in humans. We identified relevant functional associations in different viral processes and regularities in their presence at different taxonomic levels. Using the prion-like amino-acid composition computational algorithm, we detected 2679 unique putative prionlike domains within 2,742,160 publicly available viral protein sequences. Our findings indicate that viral prion-like proteins can be found in different viruses of insects, plants, mammals, and humans. The analysis performed here demonstrated common patterns in the distribution of prion-like domains across viral orders and families, and revealed probable functional associations with different steps of viral replication and interaction with host cells. These data allow the identification of the viral prion-like proteins as potential novel regulators of viral infections.
+1	11	19 proteins	Chemical	CHEBI_36080
+1	74	82 proteins	Chemical	CHEBI_36080
+1	607	615 proteins	Chemical	CHEBI_36080
+1	658	662 role	Chemical	CHEBI_50906
+1	1049	1056 protein	Chemical	CHEBI_16541
+1	1112	1120 proteins	Chemical	CHEBI_36080
+1	1510	1518 proteins	Chemical	CHEBI_36080
+
+2|chunk|Recently, prions and their infectious forms have attracted a lot of research attention 1,2 . The infectious prion forms (PrPSc) represent the misfolded normal proteins (PrPC) and were shown to be infectious, since then can self-propagate and interact with the endogenous PrPC, catalyzing their conversion into pathological PrPSc 3-7 . Previously they had been primarily known as the inducers of transmissible spongiform encephalopathies, however, today they have been shown to be involved in the development of a variety of neurodegenerative diseases [8] [9] [10] .
+2	159	167 proteins	Chemical	CHEBI_36080
+
+3|chunk|Recently, the abnormal conformation of self-propagating PrPScs was found to be associated with the formation of the toxic, misfolded, insoluble, and highly-ordered fibrillar cross- aggregates of -amyloid, tau, and TDP-43 proteins in Alzheimer's disease and amyotrophic lateral sclerosis 11-14 . The follow-up studies demonstrated that the pathological protein conversion and the deposition of the insoluble protein aggregates are associated with the development of other diseases, including Parkinson's, Huntington, fatal familial insomnia, ataxias, diabetes, and others 9,15,16 . However, protein misfolding was shown to play important physiological roles as well in eukaryotes and prokaryotes 17-21 . Self-perpetuating properties of prions are important for the formation of bacterial and fungal biofilms, bacterial bacteriocin functioning, molecular transport and secretion, and the preservation of long-term memory in yeasts 22-25 . Moreover, prions were recently shown to participate in the communication between prokaryotes and eukaryotes, resulting in the alterations in Caenorhabditis elegans amyloid formation following its colonization with amyloid-producing Escherichia coli 26 .
+3	223	231 proteins	Chemical	CHEBI_36080
+3	247	254 disease	Disease	DOID_4
+3	271	288 lateral sclerosis	Disease	DOID_230
+3	354	361 protein	Chemical	CHEBI_16541
+3	409	416 protein	Chemical	CHEBI_16541
+3	518	541 fatal familial insomnia	Disease	DOID_0050433
+3	592	599 protein	Chemical	CHEBI_16541
+3	820	831 bacteriocin	Chemical	CHEBI_48081
+3	CHEBI-DOID	CHEBI_36080	DOID_4
+3	CHEBI-DOID	CHEBI_36080	DOID_230
+3	CHEBI-DOID	CHEBI_36080	DOID_0050433
+3	DOID-CHEBI	DOID_4	CHEBI_16541
+3	DOID-CHEBI	DOID_4	CHEBI_48081
+3	DOID-CHEBI	DOID_230	CHEBI_16541
+3	DOID-CHEBI	DOID_230	CHEBI_48081
+3	CHEBI-DOID	CHEBI_16541	DOID_0050433
+3	DOID-CHEBI	DOID_0050433	CHEBI_48081
+
+4|chunk|Although the molecular mechanisms underlying de novo prion formation remains elusive, the aggregation of PrPs is an amino-acid sequence-dependent process. Most prions contain specific domains enriched in asparagine (Q) and glutamine (N), which, together with the average residue hydrophobicity and net sequence charge, allowed the development of algorithms for the identification of candidate prionogenic domains (PrDs) based on the hidden Markov model (HMM) 20,27-30 .
+4	204	214 asparagine	Chemical	CHEBI_17196
+4	223	232 glutamine	Chemical	CHEBI_18050
+4	223	232 glutamine	Chemical	CHEBI_28300
+4	234	237 Naa	Chemical	CHEBI_21547
+4	454	457 HMM	Chemical	CHEBI_24564
+
+5|chunk|The HMM is currently used in many bioinformatic approaches for the statistical representation of prion domains, which allow, using the probabilistic sequence model of maximum likelihood estimation, to evaluate the compositional similarity of proteins and prions. One of these approaches is prion-like amino acid composition (PLAAC) analysis, which allows the evaluation of proteins containing PrDs, defined as domains with the compositional similarity to yeast prion domains, based on amino-acid interactions 27,31 .
+5	4	7 HMM	Chemical	CHEBI_24564
+5	242	250 proteins	Chemical	CHEBI_36080
+5	301	306 amino	Chemical	CHEBI_46882
+5	301	311 amino acid	Chemical	CHEBI_33704
+5	307	311 acid	Chemical	CHEBI_37527
+5	373	381 proteins	Chemical	CHEBI_36080
+
+6|chunk|Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific REPoRTS | (2018) 8:8931 | ratio (LLR) indicates the possibility that the analyzed protein is a prion. Using PLAAC algorithms, PrDs defined as domains shown to contain at least a domain compositionally similar to yeast prions, have recently been investigated in different eukaryotic and prokaryotic species, confirming their important regulatory and functional roles 20,32-34 . There are other algorithms, such as PAPA and PrionW, using an experimentally derived prion propensity score combined with explicit consideration of the intrinsic disorder, that help to predict prion domains bioinformatically [35] [36] [37] [38] . Recently, we investigated the PrDs in phagobiota and determined that these domains can be found in bacterial and archaeal virus families, which increased our understanding of their possible interplay with microbiota and implication for human health 39 .
+6	156	163 protein	Chemical	CHEBI_16541
+6	487	491 PAPA	Chemical	CHEBI_131579
+
+7|chunk|Similar to the bacterial viruses, eukaryotic viruses are found in nearly all ecosystems and they infect different types of organisms, including animals, insects, protists, and plants, but their life cycle is similar in different organisms, comprising the attachment, entry, biosynthesis of viral nucleic acids and proteins, maturation, and release of progeny 40 . The nature of the viral replication cycle leads to their pathogenicity, although certain viral species induce persistent infections 41 . Viruses are efficiently disseminated by horizontal and vertical transmission, and they are the causative agents of many devastating diseases, such as flu and some cancers 42, 43 . However, the detailed molecular mechanisms underlying the pathological processes have not be completely elucidated yet 14, 44 .
+7	296	309 nucleic acids	Chemical	CHEBI_33696
+7	304	309 acids	Chemical	CHEBI_37527
+7	651	654 flu	Disease	DOID_8469
+7	CHEBI-DOID	CHEBI_33696	DOID_8469
+7	CHEBI-DOID	CHEBI_37527	DOID_8469
+
+8|chunk|Moreover, despite previous efforts, the presence of PrDs in eukaryotic viruses has not been described very well and the PrDs have been identified in only several viral families 19, 34 . Therefore, the PrDs distribution in different viral families and species and their functionalities have not been determined to date.
+
+9|chunk|Here, we performed a detailed study of the putative prion domains in all known eukaryotic viruses. Using an HMM algorithm, we retrieved all available eukaryotic viral protein sequences from the UniProt KB database 44 . To the best of our knowledge, this is the most extensive effort aimed at the identification of candidate PrD sequences among eukaryotic viruses. Furthermore, we analyzed the regularities in the distribution of PrDs in different viral taxes, correlation of this distribution with viral structure, viral hosts, and protein functions. The PrDs were identified using different algorithms, including Gene Ontology (GO) 45 . Our results may contribute to the better understanding of the host-viral interactions and the relationship between viral prions and pathogenicity.
+9	108	111 HMM	Chemical	CHEBI_24564
+9	167	174 protein	Chemical	CHEBI_16541
+9	532	539 protein	Chemical	CHEBI_16541
+
+10|chunk|Protein sequences. To identify the PrDs present in viral proteomes, protein sequences were obtained from the UniProt KnowledgeBase (Swiss-Prot and TrEMBL). Protein functions were predicted using the GO terms and manually curated using the information from the UniProt database, the National Center for Biotechnology Information (NCBI), and the literature data 46 .
+10	0	7 Protein	Chemical	CHEBI_16541
+10	68	75 protein	Chemical	CHEBI_16541
+10	156	163 Protein	Chemical	CHEBI_16541
+

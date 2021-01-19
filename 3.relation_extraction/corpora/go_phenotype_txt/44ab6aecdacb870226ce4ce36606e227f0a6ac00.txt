@@ -1,0 +1,35 @@
+0|chunk|Electron Tomography Reveals the Steps in Filovirus Budding
+
+1|chunk|The filoviruses, Marburg and Ebola, are non-segmented negative-strand RNA viruses causing severe hemorrhagic fever with high mortality rates in humans and nonhuman primates. The sequence of events that leads to release of filovirus particles from cells is poorly understood. Two contrasting mechanisms have been proposed, one proceeding via a ''submarine-like'' budding with the helical nucleocapsid emerging parallel to the plasma membrane, and the other via perpendicular ''rocketlike'' protrusion. Here we have infected cells with Marburg virus under BSL-4 containment conditions, and reconstructed the sequence of steps in the budding process in three dimensions using electron tomography of plastic-embedded cells. We find that highly infectious filamentous particles are released at early stages in infection. Budding proceeds via lateral association of intracellular nucleocapsid along its whole length with the plasma membrane, followed by rapid envelopment initiated at one end of the nucleocapsid, leading to a protruding intermediate. Scission results in local membrane instability at the rear of the virus. After prolonged infection, increased vesiculation of the plasma membrane correlates with changes in shape and infectivity of released viruses. Our observations demonstrate a cellular determinant of virus shape. They reconcile the contrasting models of filovirus budding and allow us to describe the sequence of events taking place during budding and release of Marburg virus. We propose that this represents a general sequence of events also followed by other filamentous and rod-shaped viruses.
+1	90	96 severe	Phenotype	HP_0012828
+1	109	114 fever	Phenotype	HP_0001945
+1	387	399 nucleocapsid	Gene_function	GO_0019013
+1	425	440 plasma membrane	Gene_function	GO_0005886
+1	432	440 membrane	Gene_function	GO_0016020
+1	837	844 lateral	Phenotype	HP_0025275
+1	860	873 intracellular	Gene_function	GO_0005622
+1	874	886 nucleocapsid	Gene_function	GO_0019013
+1	919	934 plasma membrane	Gene_function	GO_0005886
+1	926	934 membrane	Gene_function	GO_0016020
+1	994	1006 nucleocapsid	Gene_function	GO_0019013
+1	1072	1080 membrane	Gene_function	GO_0016020
+1	1125	1134 prolonged	Phenotype	HP_0025297
+1	1176	1191 plasma membrane	Gene_function	GO_0005886
+1	1183	1191 membrane	Gene_function	GO_0016020
+1	HP-GO	HP_0012828	GO_0019013
+1	HP-GO	HP_0012828	GO_0005886
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0005622
+1	HP-GO	HP_0001945	GO_0019013
+1	HP-GO	HP_0001945	GO_0005886
+1	HP-GO	HP_0001945	GO_0016020
+1	HP-GO	HP_0001945	GO_0005622
+1	GO-HP	GO_0019013	HP_0025275
+1	GO-HP	GO_0019013	HP_0025297
+1	GO-HP	GO_0005886	HP_0025275
+1	GO-HP	GO_0005886	HP_0025297
+1	GO-HP	GO_0016020	HP_0025275
+1	GO-HP	GO_0016020	HP_0025297
+1	HP-GO	HP_0025275	GO_0005622
+1	GO-HP	GO_0005622	HP_0025297
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="198ed53d956a2707716d175cc6516bb720f52d82">
+  <chunk id="198ed53d956a2707716d175cc6516bb720f52d82.c0" text="Integration of the Gene Ontology into an object-oriented architecture"/>
+  <chunk id="198ed53d956a2707716d175cc6516bb720f52d82.c1" text="To standardize gene product descriptions, a formal vocabulary defined as the Gene Ontology (GO) has been developed. GO terms have been categorized into biological processes, molecular functions, and cellular components. However, there is no single representation that integrates all the terms into one cohesive model. Furthermore, GO definitions have little information explaining the underlying architecture that forms these terms, such as the dynamic and static events occurring in a process. In contrast, object-oriented models have been developed to show dynamic and static events. A portion of the TGF-beta signaling pathway, which is involved in numerous cellular events including cancer, differentiation and development, was used to demonstrate the feasibility of integrating the Gene Ontology into an object-oriented model.">
+    <entity charOffset="612-621" id="198ed53d956a2707716d175cc6516bb720f52d82.c1.e0" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+  </chunk>
+  <chunk id="198ed53d956a2707716d175cc6516bb720f52d82.c2" text="Using object-oriented models we have captured the static and dynamic events that occur during a representative GO process, &quot;transforming growth factor-beta (TGF-beta) receptor complex assembly&quot; (GO:0007181).">
+    <entity charOffset="137-143" id="198ed53d956a2707716d175cc6516bb720f52d82.c2.e0" ontology_id="GO_0040007" text="growth" type="gene_function"/>
+    <entity charOffset="167-183" id="198ed53d956a2707716d175cc6516bb720f52d82.c2.e1" ontology_id="GO_0043235" text="receptor complex" type="gene_function"/>
+  </chunk>
+  <chunk id="198ed53d956a2707716d175cc6516bb720f52d82.c3" text="We demonstrate that the utility of GO terms can be enhanced by object-oriented technology, and that the GO terms can be integrated into an object-oriented model by serving as a basis for the generation of object functions and attributes."/>
+</document>

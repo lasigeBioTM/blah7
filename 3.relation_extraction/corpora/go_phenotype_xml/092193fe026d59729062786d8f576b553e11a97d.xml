@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<document id="092193fe026d59729062786d8f576b553e11a97d">
+  <chunk id="092193fe026d59729062786d8f576b553e11a97d.c0" text="Network-based analysis of comorbidities risk during an infection: SARS and HIV case studies"/>
+  <chunk id="092193fe026d59729062786d8f576b553e11a97d.c1" text="Background: Infections are often associated to comorbidity that increases the risk of medical conditions which can lead to further morbidity and mortality. SARS is a threat which is similar to MERS virus, but the comorbidity is the key aspect to underline their different impacts. One UK doctor says &quot;I'd rather have HIV than diabetes&quot; as life expectancy among diabetes patients is lower than that of HIV. However, HIV has a comorbidity impact on the diabetes. Results: We present a quantitative framework to compare and explore comorbidity between diseases. By using neighbourhood based benchmark and topological methods, we have built comorbidity relationships network based on the OMIM and our identified significant genes. Then based on the gene expression, PPI and signalling pathways data, we investigate the comorbidity association of these 2 infective pathologies with other 7 diseases (heart failure, kidney disorder, breast cancer, neurodegenerative disorders, bone diseases, Type 1 and Type 2 diabetes). Phenotypic association is measured by calculating both the Relative Risk as the quantified measures of comorbidity tendency of two disease pairs and the φ-correlation to measure the robustness of the comorbidity associations. The differential gene expression profiling strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response and statistically dysregulates a large number of genes, pathways and PPIs subnetworks in different pathologies such as chronic heart failure (21 genes), breast cancer (16 genes) and bone diseases (11 genes). HIV-1 induces comorbidities relationship with many other diseases, particularly strong correlation with the neurological, cancer, metabolic and immunological diseases. Similar comorbidities risk is observed from the clinical information. Moreover, SARS and HIV infections dysregulate 4 genes (ANXA3, GNS, HIST1H1C, RASA3) and 3 genes (HBA1, TFRC, GHITM) respectively that affect the ageing process. It is notable that HIV and SARS similarly dysregulated 11 genes and 3 pathways. Only 4 significantly dysregulated genes are common between SARS-CoV and MERS-CoV, including NFKBIA that is a key regulator of immune responsiveness implicated in susceptibility to infectious and inflammatory diseases.">
+    <entity charOffset="745-760" id="092193fe026d59729062786d8f576b553e11a97d.c1.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="762-765" id="092193fe026d59729062786d8f576b553e11a97d.c1.e1" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="770-780" id="092193fe026d59729062786d8f576b553e11a97d.c1.e2" ontology_id="GO_0023052" text="signalling" type="gene_function"/>
+    <entity charOffset="895-908" id="092193fe026d59729062786d8f576b553e11a97d.c1.e3" ontology_id="HP_0001635" text="heart failure" type="phenotype"/>
+    <entity charOffset="927-940" id="092193fe026d59729062786d8f576b553e11a97d.c1.e4" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="934-940" id="092193fe026d59729062786d8f576b553e11a97d.c1.e5" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1258-1273" id="092193fe026d59729062786d8f576b553e11a97d.c1.e6" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="1328-1336" id="092193fe026d59729062786d8f576b553e11a97d.c1.e7" ontology_id="HP_0032320" text="affected" type="phenotype"/>
+    <entity charOffset="1375-1396" id="092193fe026d59729062786d8f576b553e11a97d.c1.e8" ontology_id="GO_0006954" text="inflammatory response" type="gene_function"/>
+    <entity charOffset="1516-1523" id="092193fe026d59729062786d8f576b553e11a97d.c1.e9" ontology_id="HP_0011010" text="chronic" type="phenotype"/>
+    <entity charOffset="1516-1537" id="092193fe026d59729062786d8f576b553e11a97d.c1.e10" ontology_id="HP_0001635" text="chronic heart failure" type="phenotype"/>
+    <entity charOffset="1524-1537" id="092193fe026d59729062786d8f576b553e11a97d.c1.e11" ontology_id="HP_0001635" text="heart failure" type="phenotype"/>
+    <entity charOffset="1550-1563" id="092193fe026d59729062786d8f576b553e11a97d.c1.e12" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="1557-1563" id="092193fe026d59729062786d8f576b553e11a97d.c1.e13" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1727-1733" id="092193fe026d59729062786d8f576b553e11a97d.c1.e14" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="1988-1994" id="092193fe026d59729062786d8f576b553e11a97d.c1.e15" ontology_id="GO_0007568" text="ageing" type="gene_function"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e3" id="092193fe026d59729062786d8f576b553e11a97d.c1.p0" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e4" id="092193fe026d59729062786d8f576b553e11a97d.c1.p1" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e5" id="092193fe026d59729062786d8f576b553e11a97d.c1.p2" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e7" id="092193fe026d59729062786d8f576b553e11a97d.c1.p3" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e9" id="092193fe026d59729062786d8f576b553e11a97d.c1.p4" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e10" id="092193fe026d59729062786d8f576b553e11a97d.c1.p5" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e11" id="092193fe026d59729062786d8f576b553e11a97d.c1.p6" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e12" id="092193fe026d59729062786d8f576b553e11a97d.c1.p7" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e13" id="092193fe026d59729062786d8f576b553e11a97d.c1.p8" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e0" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e14" id="092193fe026d59729062786d8f576b553e11a97d.c1.p9" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e3" id="092193fe026d59729062786d8f576b553e11a97d.c1.p10" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e4" id="092193fe026d59729062786d8f576b553e11a97d.c1.p11" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e5" id="092193fe026d59729062786d8f576b553e11a97d.c1.p12" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e7" id="092193fe026d59729062786d8f576b553e11a97d.c1.p13" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e9" id="092193fe026d59729062786d8f576b553e11a97d.c1.p14" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e10" id="092193fe026d59729062786d8f576b553e11a97d.c1.p15" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e11" id="092193fe026d59729062786d8f576b553e11a97d.c1.p16" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e12" id="092193fe026d59729062786d8f576b553e11a97d.c1.p17" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e13" id="092193fe026d59729062786d8f576b553e11a97d.c1.p18" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e1" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e14" id="092193fe026d59729062786d8f576b553e11a97d.c1.p19" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e3" id="092193fe026d59729062786d8f576b553e11a97d.c1.p20" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e4" id="092193fe026d59729062786d8f576b553e11a97d.c1.p21" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e5" id="092193fe026d59729062786d8f576b553e11a97d.c1.p22" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e7" id="092193fe026d59729062786d8f576b553e11a97d.c1.p23" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e9" id="092193fe026d59729062786d8f576b553e11a97d.c1.p24" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e10" id="092193fe026d59729062786d8f576b553e11a97d.c1.p25" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e11" id="092193fe026d59729062786d8f576b553e11a97d.c1.p26" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e12" id="092193fe026d59729062786d8f576b553e11a97d.c1.p27" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e13" id="092193fe026d59729062786d8f576b553e11a97d.c1.p28" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e2" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e14" id="092193fe026d59729062786d8f576b553e11a97d.c1.p29" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e3" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e6" id="092193fe026d59729062786d8f576b553e11a97d.c1.p30" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e3" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e8" id="092193fe026d59729062786d8f576b553e11a97d.c1.p31" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e3" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p32" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e4" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e6" id="092193fe026d59729062786d8f576b553e11a97d.c1.p33" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e4" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e8" id="092193fe026d59729062786d8f576b553e11a97d.c1.p34" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e4" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p35" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e5" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e6" id="092193fe026d59729062786d8f576b553e11a97d.c1.p36" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e5" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e8" id="092193fe026d59729062786d8f576b553e11a97d.c1.p37" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e5" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p38" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e7" id="092193fe026d59729062786d8f576b553e11a97d.c1.p39" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e9" id="092193fe026d59729062786d8f576b553e11a97d.c1.p40" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e10" id="092193fe026d59729062786d8f576b553e11a97d.c1.p41" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e11" id="092193fe026d59729062786d8f576b553e11a97d.c1.p42" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e12" id="092193fe026d59729062786d8f576b553e11a97d.c1.p43" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e13" id="092193fe026d59729062786d8f576b553e11a97d.c1.p44" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e6" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e14" id="092193fe026d59729062786d8f576b553e11a97d.c1.p45" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e7" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e8" id="092193fe026d59729062786d8f576b553e11a97d.c1.p46" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e7" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p47" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e9" id="092193fe026d59729062786d8f576b553e11a97d.c1.p48" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e10" id="092193fe026d59729062786d8f576b553e11a97d.c1.p49" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e11" id="092193fe026d59729062786d8f576b553e11a97d.c1.p50" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e12" id="092193fe026d59729062786d8f576b553e11a97d.c1.p51" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e13" id="092193fe026d59729062786d8f576b553e11a97d.c1.p52" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e8" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e14" id="092193fe026d59729062786d8f576b553e11a97d.c1.p53" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e9" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p54" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e10" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p55" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e11" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p56" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e12" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p57" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e13" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p58" relation="true"/>
+    <pair e1="092193fe026d59729062786d8f576b553e11a97d.c1.e14" e2="092193fe026d59729062786d8f576b553e11a97d.c1.e15" id="092193fe026d59729062786d8f576b553e11a97d.c1.p59" relation="true"/>
+  </chunk>
+  <chunk id="092193fe026d59729062786d8f576b553e11a97d.c2" text="Our method presents a ripe opportunity to use data-driven approaches for advancing our current knowledge on disease mechanism and predicting disease comorbidities in a quantitative way."/>
+</document>

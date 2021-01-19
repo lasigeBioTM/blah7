@@ -1,0 +1,129 @@
+{
+    "text": "The aim of this study was to analyze the Severe Acute Respiratory Syndrome (SARS) pattern in Pernambuco before and during a COVID-19 pandemic. Ecological study conducted from January to June, 2015 to 2019 and from January 1 to June 15, 2020. The detection rates by municipality and by Regional Health of residence were calculated. The spatial area of SARS was estimated through the risk ratio. Before the pandemic, there were 5,617 cases of SARS, 187 cases/month and 23.8 cases/100 thousand inhabitants, while during the pandemic there were 15,100 cases, 2,516 cases/month and 320.3 cases/100 thousand inhabitants, which represents a 13-fold increase in detection. The following expanded (p < 0,001): the occurrence in elderly people, the collection of samples and the identification of SARS etiological agent with predominance of SARS by COVID-19. Most municipalities experienced a 20-fold higher detection than expected, suggesting a process of virus spread to the hinterlands. The excess risk associate with lower IDHM, the condition of the municipality being the headquarters of the Regional Health and the presence of a highway in the municipality. The change in the pattern of occurrence of SRAG, combined with Spatial analysis may contribute to action planning at different levels of management.",
+    "denotations": [
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 41,
+                "end": 74
+            },
+            "obj": "Severe Acute Respiratory Syndrome"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 66,
+                "end": 74
+            },
+            "obj": "Syndrome"
+        },
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 76,
+                "end": 80
+            },
+            "obj": "SARS"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 124,
+                "end": 132
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 351,
+                "end": 355
+            },
+            "obj": "SARS"
+        },
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 441,
+                "end": 445
+            },
+            "obj": "SARS"
+        },
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 787,
+                "end": 791
+            },
+            "obj": "SARS"
+        },
+        {
+            "id": "DOID_2945",
+            "span": {
+                "begin": 831,
+                "end": 835
+            },
+            "obj": "SARS"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 839,
+                "end": 847
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "CHEBI_5133",
+            "span": {
+                "begin": 1252,
+                "end": 1258
+            },
+            "obj": "action"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_2945",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_2945",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_2945",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_2945",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_2945",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_5133"
+        }
+    ]
+}

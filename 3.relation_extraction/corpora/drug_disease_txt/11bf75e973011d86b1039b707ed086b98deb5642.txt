@@ -1,0 +1,127 @@
+0|chunk|Human Monoclonal Antibodies as Adjuvant Treatment of Chronic Hepatitis B Virus Infection
+0	31	39 Adjuvant	Chemical	CHEBI_60809
+0	53	70 Chronic Hepatitis	Disease	DOID_2237
+0	53	72 Chronic Hepatitis B	Disease	DOID_2043
+0	61	70 Hepatitis	Disease	DOID_2237
+0	73	88 Virus Infection	Disease	DOID_934
+0	CHEBI-DOID	CHEBI_60809	DOID_2237
+0	CHEBI-DOID	CHEBI_60809	DOID_2043
+0	CHEBI-DOID	CHEBI_60809	DOID_934
+
+1|chunk|Despite the availability of an effective prophylactic vaccine leading to sterilizing immunity, hepatitis B virus (HBV) is responsible for chronic liver disease in more than 250 million individuals, potentially leading to cirrhosis and hepatocellular carcinoma. Antiviral drugs able to completely suppress virus replication are indeed available but they are, by and large, unable to eradicate the virus. Several alternative new treatment approaches are currently being developed but none have so far captured the interest of clinicians for possible clinical development. A constant feature of chronic HBV infection is T-cell exhaustion resulting from persistent exposure to high antigen concentrations as shown by the high expression of programmed cell death protein 1 (PD-1) by HBV-specific CD8 T cells. One way of tackling this problem is to develop HBV-specific neutralizing antibodies that would clear excess envelope proteins from the circulation, allowing for nucleos(t)ide analogs or other antiviral drugs now in preclinical and early clinical development to take advantage of a reconstituted adaptive immunity. Several fully human monoclonal antibodies (mAb) have been developed from HBV-vaccinated and subjects convalescent from acute hepatitis B that show different properties and specificities. It is envisaged that such neutralizing mAb may be used as adjuvant treatment to reduce viral protein load, thus rescuing adaptive immunity in an effort to optimize the effect of antiviral drugs.
+1	95	104 hepatitis	Disease	DOID_2237
+1	95	106 hepatitis B	Disease	DOID_2043
+1	146	159 liver disease	Disease	DOID_409
+1	152	159 disease	Disease	DOID_4
+1	221	230 cirrhosis	Disease	DOID_5082
+1	261	270 Antiviral	Chemical	CHEBI_22587
+1	261	276 Antiviral drugs	Chemical	CHEBI_36044
+1	271	276 drugs	Chemical	CHEBI_23888
+1	678	685 antigen	Chemical	CHEBI_59132
+1	758	765 protein	Chemical	CHEBI_16541
+1	921	929 proteins	Chemical	CHEBI_36080
+1	975	978 ide	Chemical	CHEBI_64366
+1	996	1005 antiviral	Chemical	CHEBI_22587
+1	996	1011 antiviral drugs	Chemical	CHEBI_36044
+1	1006	1011 drugs	Chemical	CHEBI_23888
+1	1237	1252 acute hepatitis	Disease	DOID_2237
+1	1243	1252 hepatitis	Disease	DOID_2237
+1	1363	1371 adjuvant	Chemical	CHEBI_60809
+1	1398	1405 protein	Chemical	CHEBI_16541
+1	1483	1492 antiviral	Chemical	CHEBI_22587
+1	1483	1498 antiviral drugs	Chemical	CHEBI_36044
+1	1493	1498 drugs	Chemical	CHEBI_23888
+1	DOID-CHEBI	DOID_2237	CHEBI_22587
+1	DOID-CHEBI	DOID_2237	CHEBI_36044
+1	DOID-CHEBI	DOID_2237	CHEBI_23888
+1	DOID-CHEBI	DOID_2237	CHEBI_59132
+1	DOID-CHEBI	DOID_2237	CHEBI_16541
+1	DOID-CHEBI	DOID_2237	CHEBI_36080
+1	DOID-CHEBI	DOID_2237	CHEBI_64366
+1	DOID-CHEBI	DOID_2237	CHEBI_60809
+1	DOID-CHEBI	DOID_2043	CHEBI_22587
+1	DOID-CHEBI	DOID_2043	CHEBI_36044
+1	DOID-CHEBI	DOID_2043	CHEBI_23888
+1	DOID-CHEBI	DOID_2043	CHEBI_59132
+1	DOID-CHEBI	DOID_2043	CHEBI_16541
+1	DOID-CHEBI	DOID_2043	CHEBI_36080
+1	DOID-CHEBI	DOID_2043	CHEBI_64366
+1	DOID-CHEBI	DOID_2043	CHEBI_60809
+1	DOID-CHEBI	DOID_409	CHEBI_22587
+1	DOID-CHEBI	DOID_409	CHEBI_36044
+1	DOID-CHEBI	DOID_409	CHEBI_23888
+1	DOID-CHEBI	DOID_409	CHEBI_59132
+1	DOID-CHEBI	DOID_409	CHEBI_16541
+1	DOID-CHEBI	DOID_409	CHEBI_36080
+1	DOID-CHEBI	DOID_409	CHEBI_64366
+1	DOID-CHEBI	DOID_409	CHEBI_60809
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_36044
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+1	DOID-CHEBI	DOID_4	CHEBI_59132
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_64366
+1	DOID-CHEBI	DOID_4	CHEBI_60809
+1	DOID-CHEBI	DOID_5082	CHEBI_22587
+1	DOID-CHEBI	DOID_5082	CHEBI_36044
+1	DOID-CHEBI	DOID_5082	CHEBI_23888
+1	DOID-CHEBI	DOID_5082	CHEBI_59132
+1	DOID-CHEBI	DOID_5082	CHEBI_16541
+1	DOID-CHEBI	DOID_5082	CHEBI_36080
+1	DOID-CHEBI	DOID_5082	CHEBI_64366
+1	DOID-CHEBI	DOID_5082	CHEBI_60809
+
+2|chunk|Hepatitis B virus (HBV) is responsible for acute and chronic hepatitis, potentially leading to cirrhosis and hepatocellular carcinoma [reviewed in (1)]. Hepatitis B can be effectively prevented by a prophylactic vaccine (2), whereas, antiviral drugs are virtually unable to eradicate the virus in chronically infected individuals despite efficient suppression of HBV DNA replication (3). Adaptive immunity plays a major role to provide long-term control of infection; however, the very low frequency of circulating HBV-specific T cells in chronic infection contributes to the inability to clear the virus (4). Indeed, HBV may settle for life in occult form in the nuclei of hepatocytes as minichromosome (covalently closed circular DNA, cccDNA), despite apparent recovery, potentially reactivating in case of immune suppression (5). The persistence of cccDNA in hepatocytes is the main hurdle to eradicate HBV infection. The problem is further compounded by the rapid decline of T-cell and B-cell responses as a result of exhaustion induced by production of large amounts of excess HBV envelope proteins (6), largely resulting from integration of HBV
+2	0	9 Hepatitis	Disease	DOID_2237
+2	0	11 Hepatitis B	Disease	DOID_2043
+2	61	70 hepatitis	Disease	DOID_2237
+2	95	104 cirrhosis	Disease	DOID_5082
+2	109	133 hepatocellular carcinoma	Disease	DOID_684
+2	124	133 carcinoma	Disease	DOID_305
+2	153	162 Hepatitis	Disease	DOID_2237
+2	153	164 Hepatitis B	Disease	DOID_2043
+2	234	243 antiviral	Chemical	CHEBI_22587
+2	234	249 antiviral drugs	Chemical	CHEBI_36044
+2	244	249 drugs	Chemical	CHEBI_23888
+2	367	370 DNA	Chemical	CHEBI_16991
+2	420	424 role	Chemical	CHEBI_50906
+2	664	670 nuclei	Chemical	CHEBI_33252
+2	732	735 DNA	Chemical	CHEBI_16991
+2	1095	1103 proteins	Chemical	CHEBI_36080
+2	DOID-CHEBI	DOID_2237	CHEBI_22587
+2	DOID-CHEBI	DOID_2237	CHEBI_36044
+2	DOID-CHEBI	DOID_2237	CHEBI_23888
+2	DOID-CHEBI	DOID_2237	CHEBI_16991
+2	DOID-CHEBI	DOID_2237	CHEBI_50906
+2	DOID-CHEBI	DOID_2237	CHEBI_33252
+2	DOID-CHEBI	DOID_2237	CHEBI_36080
+2	DOID-CHEBI	DOID_2043	CHEBI_22587
+2	DOID-CHEBI	DOID_2043	CHEBI_36044
+2	DOID-CHEBI	DOID_2043	CHEBI_23888
+2	DOID-CHEBI	DOID_2043	CHEBI_16991
+2	DOID-CHEBI	DOID_2043	CHEBI_50906
+2	DOID-CHEBI	DOID_2043	CHEBI_33252
+2	DOID-CHEBI	DOID_2043	CHEBI_36080
+2	DOID-CHEBI	DOID_5082	CHEBI_22587
+2	DOID-CHEBI	DOID_5082	CHEBI_36044
+2	DOID-CHEBI	DOID_5082	CHEBI_23888
+2	DOID-CHEBI	DOID_5082	CHEBI_16991
+2	DOID-CHEBI	DOID_5082	CHEBI_50906
+2	DOID-CHEBI	DOID_5082	CHEBI_33252
+2	DOID-CHEBI	DOID_5082	CHEBI_36080
+2	DOID-CHEBI	DOID_684	CHEBI_22587
+2	DOID-CHEBI	DOID_684	CHEBI_36044
+2	DOID-CHEBI	DOID_684	CHEBI_23888
+2	DOID-CHEBI	DOID_684	CHEBI_16991
+2	DOID-CHEBI	DOID_684	CHEBI_50906
+2	DOID-CHEBI	DOID_684	CHEBI_33252
+2	DOID-CHEBI	DOID_684	CHEBI_36080
+2	DOID-CHEBI	DOID_305	CHEBI_22587
+2	DOID-CHEBI	DOID_305	CHEBI_36044
+2	DOID-CHEBI	DOID_305	CHEBI_23888
+2	DOID-CHEBI	DOID_305	CHEBI_16991
+2	DOID-CHEBI	DOID_305	CHEBI_50906
+2	DOID-CHEBI	DOID_305	CHEBI_33252
+2	DOID-CHEBI	DOID_305	CHEBI_36080
+

@@ -1,0 +1,47 @@
+0|chunk|A new Schiff base coordinated copper(II) compound induces apoptosis and inhibits tumor growth in gastric cancer
+0	6	17 Schiff base	Chemical	CHEBI_50229
+0	30	36 copper	Chemical	CHEBI_28694
+0	97	111 gastric cancer	Disease	DOID_10534
+0	105	111 cancer	Disease	DOID_162
+0	CHEBI-DOID	CHEBI_50229	DOID_10534
+0	CHEBI-DOID	CHEBI_50229	DOID_162
+0	CHEBI-DOID	CHEBI_28694	DOID_10534
+0	CHEBI-DOID	CHEBI_28694	DOID_162
+
+1|chunk|Background: Gastric cancer, as a multifactorial disorders, shows cytological and architectural heterogeneity compared to other gastrointestinal cancers, making it therapeutically challenging. Cisplatin is generally used in clinic for gastric cancer treatment but with toxic side effects and develops resistance. Anti-tumor properties of copper and its coordinated compounds have been explored intensively in recent years.
+1	12	26 Gastric cancer	Disease	DOID_10534
+1	20	26 cancer	Disease	DOID_162
+1	192	201 Cisplatin	Chemical	CHEBI_27899
+1	234	248 gastric cancer	Disease	DOID_10534
+1	242	248 cancer	Disease	DOID_162
+1	337	343 copper	Chemical	CHEBI_28694
+1	DOID-CHEBI	DOID_10534	CHEBI_27899
+1	DOID-CHEBI	DOID_10534	CHEBI_28694
+1	DOID-CHEBI	DOID_162	CHEBI_27899
+1	DOID-CHEBI	DOID_162	CHEBI_28694
+
+2|chunk|In this study, we synthesized a novel Schiff base copper coordinated compound (SBCCC) and examined its antitumor effects in two gastric cancer cell lines SGC-7901 and BGC-823 as well as a mouse model of gastric cancer.
+2	38	49 Schiff base	Chemical	CHEBI_50229
+2	50	56 copper	Chemical	CHEBI_28694
+2	128	142 gastric cancer	Disease	DOID_10534
+2	136	142 cancer	Disease	DOID_162
+2	203	217 gastric cancer	Disease	DOID_10534
+2	211	217 cancer	Disease	DOID_162
+2	CHEBI-DOID	CHEBI_50229	DOID_10534
+2	CHEBI-DOID	CHEBI_50229	DOID_162
+2	CHEBI-DOID	CHEBI_28694	DOID_10534
+2	CHEBI-DOID	CHEBI_28694	DOID_162
+
+3|chunk|The results show that SBCCC can significantly inhibit the proliferation of gastric cancer cells in a dose-and time-dependent manner. The IC50 of SBCCC in SGC-7901 and BGC-823 cells is 1 M, which is much less than cisplatin's IC50. SBCCC induces apoptosis and causes cell cycle arrest at the G1 phase. SBCCC induces apoptosis via multiple pathways including inhibition of NF-B, ROS production and autophagy.
+3	75	89 gastric cancer	Disease	DOID_10534
+3	83	89 cancer	Disease	DOID_162
+3	379	382 ROS	Chemical	CHEBI_26523
+3	DOID-CHEBI	DOID_10534	CHEBI_26523
+3	DOID-CHEBI	DOID_162	CHEBI_26523
+
+4|chunk|The synthesized SBCCC induced cancer cell death via inhibition of NF-B, ROS production and autophagy. The multiple cell-killing mechanisms were important to overcome therapeutic failure because of multidrug-resistance of cancer cells. SBCCC, with a lower IC50 compared to cisplatin, could render it the potential to overcome the side-effect for clinical application.
+4	30	36 cancer	Disease	DOID_162
+4	73	76 ROS	Chemical	CHEBI_26523
+4	222	228 cancer	Disease	DOID_162
+4	DOID-CHEBI	DOID_162	CHEBI_26523
+

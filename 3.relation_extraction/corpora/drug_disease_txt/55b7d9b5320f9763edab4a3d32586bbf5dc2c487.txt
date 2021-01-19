@@ -1,0 +1,22 @@
+0|chunk|The Potential of Metatranscriptomics for Identifying Screening Targets for Bacterial Vaginosis
+0	75	94 Bacterial Vaginosis	Disease	DOID_3385
+
+1|chunk|Background: The ribosomal RNA content of a sample collected from a woman with bacterial vaginosis (BV) was analysed to determine the active microbial community, and to identify potential targets for further screening.
+1	16	29 ribosomal RNA	Chemical	CHEBI_18111
+1	26	29 RNA	Chemical	CHEBI_33697
+1	78	97 bacterial vaginosis	Disease	DOID_3385
+1	CHEBI-DOID	CHEBI_18111	DOID_3385
+1	CHEBI-DOID	CHEBI_33697	DOID_3385
+
+2|chunk|Methodology/Principal Findings: The sample from the BV patient underwent total RNA extraction, followed by physical subtraction of human rRNA and whole transcriptome amplification. The metatranscriptome was sequenced using Roche 454 titanium chemistry. The bioinformatics pipeline MG-RAST and desktop DNA analysis platforms were utilised to analyse results. Bacteria of the genus Prevotella (predominately P. amnii) constituted 36% of the 16S rRNA reads, followed by Megasphaera (19%), Leptotrichia/Sneathia (8%) and Fusobacterium (8%). Comparison of the abundances of several bacteria to quantitative PCR (qPCR) screening of extracted DNA revealed comparable relative abundances. This suggests a correlation between what was present and transcriptionally active in this sample: however distinct differences were seen when compared to the microbiome determined by 16S rRNA gene amplicon sequencing. To assess the presence of P. amnii in a larger pool of samples, 90 sexually active women were screened using qPCR. This bacterium was found to be strongly associated with BV (P,0.001, OR 23.3 (95%CI:2.9-190.7)) among the 90 women.
+2	79	82 RNA	Chemical	CHEBI_33697
+2	137	141 rRNA	Chemical	CHEBI_18111
+2	233	241 titanium	Chemical	CHEBI_33341
+2	301	304 DNA	Chemical	CHEBI_16991
+2	443	447 rRNA	Chemical	CHEBI_18111
+2	636	639 DNA	Chemical	CHEBI_16991
+2	868	872 rRNA	Chemical	CHEBI_18111
+
+3|chunk|Conclusions/Significance: This study highlighted the potential of metatranscriptomics as a tool for characterising metabolically active microbiota and identifying targets for further screening. Prevotella amnii was chosen as an example target, being the most metabolically active species present in the single patient with BV, and was found to be detected at a high concentration by qPCR in 31% of cohort with BV, with an association with both oral and penile-vaginal sex.
+3	398	404 cohort	Chemical	CHEBI_34935
+

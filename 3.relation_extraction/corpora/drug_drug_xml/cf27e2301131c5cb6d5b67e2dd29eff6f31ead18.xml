@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18">
+  <chunk id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18.c0" text="S3 Appendix: Fitting an edge-triangle model to snowball sampled data"/>
+  <chunk id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18.c1" text="We describe here a novel method to fit an edge-triangle model to snowball sample data. Let D u , S u and T u be the node degree, number of stubs and triangle corners at node u from an observed snowball sample. Without additional node roles we must have D u = S u +2T u . Our approach is to use an estimator p(d) of the network degree distribution"/>
+  <chunk id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18.c2" text="where M is the maximum node degree in the network, and an estimatorp j|d of the conditional triangle corner distribution p j|d = P (T u = j|D u = d)."/>
+  <chunk id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18.c3" text="We use a distribution conditional on node degree because empirical networks have been shown to exhibit negative correlation between a node's degree and its number of incident triangles [1]."/>
+  <chunk id="cf27e2301131c5cb6d5b67e2dd29eff6f31ead18.c4" text="To simulate an edge-triangle network with N nodes we perform the following steps."/>
+</document>

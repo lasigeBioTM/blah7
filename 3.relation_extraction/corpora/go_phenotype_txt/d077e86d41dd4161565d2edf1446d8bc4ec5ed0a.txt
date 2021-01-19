@@ -1,0 +1,48 @@
+0|chunk|Genetic Variation in the TNF Gene Is Associated with Susceptibility to Severe Sepsis, but Not with Mortality
+0	71	77 Severe	Phenotype	HP_0012828
+
+1|chunk|Background: Tumor necrosis factor (TNF) and TNF receptor superfamily (TNFR)-mediated immune response play an essential role in the pathogenesis of severe sepsis. Studies examining associations of TNF and lymphotoxin-a (LTA) single nucleotide polymorphisms (SNPs) with severe sepsis have produced conflicting results. The objective of this study was to investigate whether genetic variation in TNF, LTA, TNFRSF1A and TNFRSF1B was associated with susceptibility to or death from severe sepsis in Chinese Han population.
+1	12	17 Tumor	Phenotype	HP_0002664
+1	18	26 necrosis	Gene_function	GO_0001906
+1	85	100 immune response	Gene_function	GO_0006955
+1	131	143 pathogenesis	Gene_function	GO_0009405
+1	147	153 severe	Phenotype	HP_0012828
+1	154	160 sepsis	Phenotype	HP_0100806
+1	268	274 severe	Phenotype	HP_0012828
+1	275	281 sepsis	Phenotype	HP_0100806
+1	477	483 severe	Phenotype	HP_0012828
+1	484	490 sepsis	Phenotype	HP_0100806
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0006955
+1	HP-GO	HP_0002664	GO_0009405
+1	GO-HP	GO_0001906	HP_0012828
+1	GO-HP	GO_0001906	HP_0100806
+1	GO-HP	GO_0006955	HP_0012828
+1	GO-HP	GO_0006955	HP_0100806
+1	GO-HP	GO_0009405	HP_0012828
+1	GO-HP	GO_0009405	HP_0100806
+
+2|chunk|Methodology/Principal Findings: Ten SNPs in TNF, LTA, TNFRSF1A and TNFRSF1B were genotyped in samples of patients with severe sepsis (n = 432), sepsis (n = 384) and healthy controls (n = 624). Our results showed that rs1800629, a SNP in the promoter region of TNF, was significantly associated with risk for severe sepsis. The minor allele frequency of rs1800629 was significantly higher in severe sepsis patients than that in both healthy controls (P adj = 0.00046, odds ratio (OR) adj = 1.92) and sepsis patients (P adj = 0.002, OR adj = 1.56). Further, we investigated the correlation between rs1800629 genotypes and TNF-a concentrations in peripheral blood mononuclear cells (PBMCs) of healthy volunteers exposed to lipopolysaccharides (LPS) ex vivo, and the association between rs1800629 and TNF-a serum levels in severe sepsis patients. After exposure to LPS, the TNF-a concentration in culture supernatants of PBMCs was significantly higher in the subjects with AA+AG genotypes than that with GG genotype (P = 0.007). Moreover, in patients with severe sepsis, individuals with AA+AG genotypes had significantly higher TNF-a serum concentrations than those with GG genotype (P adj = 0.02). However, there were no significant associations between SNPs in the four candidate genes and 30 day mortality for patients with severe sepsis.
+2	119	125 severe	Phenotype	HP_0012828
+2	126	132 sepsis	Phenotype	HP_0100806
+2	144	150 sepsis	Phenotype	HP_0100806
+2	165	172 healthy	Phenotype	HP_0032322
+2	308	314 severe	Phenotype	HP_0012828
+2	315	321 sepsis	Phenotype	HP_0100806
+2	340	349 frequency	Phenotype	HP_0040279
+2	391	397 severe	Phenotype	HP_0012828
+2	398	404 sepsis	Phenotype	HP_0100806
+2	432	439 healthy	Phenotype	HP_0032322
+2	499	505 sepsis	Phenotype	HP_0100806
+2	644	654 peripheral	Phenotype	HP_0030646
+2	690	697 healthy	Phenotype	HP_0032322
+2	819	825 severe	Phenotype	HP_0012828
+2	826	832 sepsis	Phenotype	HP_0100806
+2	1052	1058 severe	Phenotype	HP_0012828
+2	1059	1065 sepsis	Phenotype	HP_0100806
+2	1324	1330 severe	Phenotype	HP_0012828
+2	1331	1337 sepsis	Phenotype	HP_0100806
+
+3|chunk|Conclusions/Significance: Our findings suggested that the functional TNF gene SNP rs1800629 was strongly associated with susceptibility to severe sepsis, but not with lethality in Chinese Han population.
+3	139	145 severe	Phenotype	HP_0012828
+

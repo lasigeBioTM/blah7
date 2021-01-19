@@ -1,0 +1,30 @@
+0|chunk|Genome-Wide Transcriptional Profiling Reveals Two Distinct Outcomes in Central Nervous System Infections of Rabies Virus
+0	71	78 Central	Phenotype	HP_0030645
+
+1|chunk|Rabies remains a major public health concern in many developing countries. The precise neuropathogenesis of rabies is unknown, though it is hypothesized to be due to neuronal death or dysfunction. Mice that received intranasal inoculation of an attenuated rabies virus (RABV) strain HEP-Flury exhibited subtle clinical signs, and eventually recovered, which is different from the fatal encephalitis caused by the virulent RABV strain CVS-11. To understand the neuropathogenesis of rabies and the mechanisms of viral clearance, we applied RNA sequencing (RNA-Seq) to compare the brain transcriptomes of normal mice vs. HEP-Flury or CVS-11 intranasally inoculated mice. Our results revealed that both RABV strains altered positively and negatively the expression levels of many host genes, including genes associated with innate and adaptive immunity, inflammation and cell death. It is found that HEP-Flury infection can activate the innate immunity earlier through the RIG-I/MDA-5 signaling, and the innate immunity pre-activated by HEP-Flury or Newcastle disease virus (NDV) infection can effectively prevent the CVS-11 to invade central nervous system (CNS), but fails to clear the CVS-11 after its entry into the CNS. In addition, following CVS-11 infection, genes implicated in cell adhesion, blood vessel morphogenesis and coagulation were mainly up-regulated, while the genes involved in synaptic transmission and ion transport were significantly down-regulated. On the other hand, several genes involved in the MHC class II-mediated antigen presentation pathway were activated to a greater extent after the HEP-Flury infection as compared with the CVS-11 infection suggesting that the collaboration of CD4 + T cells and MHC class II-mediated antigen presentation is critical for the clearance of attenuated RABV from the CNS. The differentially regulated genes reported here are likely to include potential therapeutic targets for expanding the post-exposure treatment window for RABV infection.
+1	386	398 encephalitis	Phenotype	HP_0002383
+1	933	948 innate immunity	Gene_function	GO_0045087
+1	1000	1015 innate immunity	Gene_function	GO_0045087
+1	1131	1138 central	Phenotype	HP_0030645
+1	1297	1323 blood vessel morphogenesis	Gene_function	GO_0048514
+1	1310	1323 morphogenesis	Gene_function	GO_0009653
+1	1328	1339 coagulation	Gene_function	GO_0050817
+1	1420	1433 ion transport	Gene_function	GO_0006811
+1	1424	1433 transport	Gene_function	GO_0006810
+1	1540	1560 antigen presentation	Gene_function	GO_0019882
+1	1749	1769 antigen presentation	Gene_function	GO_0019882
+1	HP-GO	HP_0002383	GO_0045087
+1	HP-GO	HP_0002383	GO_0048514
+1	HP-GO	HP_0002383	GO_0009653
+1	HP-GO	HP_0002383	GO_0050817
+1	HP-GO	HP_0002383	GO_0006811
+1	HP-GO	HP_0002383	GO_0006810
+1	HP-GO	HP_0002383	GO_0019882
+1	GO-HP	GO_0045087	HP_0030645
+1	HP-GO	HP_0030645	GO_0048514
+1	HP-GO	HP_0030645	GO_0009653
+1	HP-GO	HP_0030645	GO_0050817
+1	HP-GO	HP_0030645	GO_0006811
+1	HP-GO	HP_0030645	GO_0006810
+1	HP-GO	HP_0030645	GO_0019882
+

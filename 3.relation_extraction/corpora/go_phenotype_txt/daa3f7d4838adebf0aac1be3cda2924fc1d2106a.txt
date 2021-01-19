@@ -1,0 +1,42 @@
+0|chunk|Circulating Levels of Tumor Necrosis Factor-Alpha Receptor 2 Are Increased in Heart Failure with Preserved Ejection Fraction Relative to Heart Failure with Reduced Ejection Fraction: Evidence for a Divergence in Pathophysiology
+0	22	27 Tumor	Phenotype	HP_0002664
+0	28	36 Necrosis	Gene_function	GO_0001906
+0	78	91 Heart Failure	Phenotype	HP_0001635
+0	137	150 Heart Failure	Phenotype	HP_0001635
+0	156	181 Reduced Ejection Fraction	Phenotype	HP_0012664
+0	HP-GO	HP_0002664	GO_0001906
+0	GO-HP	GO_0001906	HP_0001635
+0	GO-HP	GO_0001906	HP_0012664
+
+1|chunk|Background: Various pathways have been implicated in the pathogenesis of heart failure (HF) with preserved ejection fraction (HFPEF). Inflammation in response to comorbid conditions, such as hypertension and diabetes, may play a proportionally larger role in HFPEF as compared to HF with reduced ejection fraction (HFREF).
+1	57	69 pathogenesis	Gene_function	GO_0009405
+1	73	86 heart failure	Phenotype	HP_0001635
+1	191	203 hypertension	Phenotype	HP_0000822
+1	288	313 reduced ejection fraction	Phenotype	HP_0012664
+1	GO-HP	GO_0009405	HP_0001635
+1	GO-HP	GO_0009405	HP_0000822
+1	GO-HP	GO_0009405	HP_0012664
+
+2|chunk|This study investigated inflammation mediated by the tumor necrosis factor-alpha (TNFa) axis in community-based cohorts of HFPEF patients (n = 100), HFREF patients (n = 100) and healthy controls (n = 50). Enzyme-linked immunosorbent assays were used to investigate levels of TNFa, its two receptors (TNFR1 and TNFR2), and a non-TNFa cytokine, interleukin-6 (IL-6), in plasma derived from peripheral blood samples. Plasma levels of TNFa and TNFR1 were significantly elevated in HFPEF relative to controls, while levels of TNFR2 were significantly higher in HFPEF than both controls and HFREF. TNFa, TNFR1 and TNFR2 were each significantly associated with at least two of the following: age, estimated glomerular filtration rate, hypertension, diabetes, smoking, peripheral vascular disease or history of atrial fibrillation. TNFR2 levels were also significantly associated with increasing grade of diastolic dysfunction and severity of symptoms in HFPEF.
+2	53	58 tumor	Phenotype	HP_0002664
+2	59	67 necrosis	Gene_function	GO_0001906
+2	178	185 healthy	Phenotype	HP_0032322
+2	388	398 peripheral	Phenotype	HP_0030646
+2	700	721 glomerular filtration	Gene_function	GO_0003094
+2	761	771 peripheral	Phenotype	HP_0030646
+2	761	788 peripheral vascular disease	Phenotype	HP_0004950
+2	923	931 severity	Phenotype	HP_0012824
+2	HP-GO	HP_0002664	GO_0001906
+2	HP-GO	HP_0002664	GO_0003094
+2	GO-HP	GO_0001906	HP_0032322
+2	GO-HP	GO_0001906	HP_0030646
+2	GO-HP	GO_0001906	HP_0004950
+2	GO-HP	GO_0001906	HP_0012824
+2	HP-GO	HP_0032322	GO_0003094
+2	HP-GO	HP_0030646	GO_0003094
+2	GO-HP	GO_0003094	HP_0004950
+2	GO-HP	GO_0003094	HP_0012824
+
+3|chunk|Conclusions: Inflammation mediated through TNFa and its receptors, TNFR1 and TNFR2, may represent an important component of a comorbidity-induced inflammatory response that partially drives the pathophysiology of HFPEF.
+3	146	167 inflammatory response	Gene_function	GO_0006954
+

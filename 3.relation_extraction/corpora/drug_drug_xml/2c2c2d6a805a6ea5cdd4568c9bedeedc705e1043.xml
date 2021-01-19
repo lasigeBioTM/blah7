@@ -1,0 +1,340 @@
+<?xml version="1.0" ?>
+<document id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043">
+  <chunk id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c0" text="Gene Regulatory Network Inference of Immunoresponsive Gene 1 (IRG1) Identifies Interferon Regulatory Factor 1 (IRF1) as Its Transcriptional Regulator in Mammalian Macrophages">
+    <entity charOffset="79-89" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c0.e0" ontology_id="CHEBI_52999" text="Interferon" type="chemical"/>
+  </chunk>
+  <chunk id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1" text="Immunoresponsive gene 1 (IRG1) is one of the highest induced genes in macrophages under pro-inflammatory conditions. Its function has been recently described: it codes for immune-responsive gene 1 protein/cis-aconitic acid decarboxylase (IRG1/CAD), an enzyme catalysing the production of itaconic acid from cis-aconitic acid, a tricarboxylic acid (TCA) cycle intermediate. Itaconic acid possesses specific antimicrobial properties inhibiting isocitrate lyase, the first enzyme of the glyoxylate shunt, an anaplerotic pathway that bypasses the TCA cycle and enables bacteria to survive on limited carbon conditions. To elucidate the mechanisms underlying itaconic acid production through IRG1 induction in macrophages, we examined the transcriptional regulation of IRG1. To this end, we studied IRG1 expression in human immune cells under different inflammatory stimuli, such as TNFα and IFNγ, in addition to lipopolysaccharides. Under these conditions, as previously shown in mouse macrophages, IRG1/CAD accumulates in mitochondria. Furthermore, using literature information and transcription factor prediction models, we re-constructed raw gene regulatory networks (GRNs) for IRG1 in mouse and human macrophages. We further implemented a contextualization algorithm that relies on genome-wide gene expression data to infer putative cell type-specific gene regulatory interactions in mouse and human macrophages, which allowed us to predict potential transcriptional regulators of IRG1. Among the computationally identified regulators, siRNA-mediated gene silencing of interferon regulatory factor 1 (IRF1) in macrophages significantly decreased the expression of IRG1/CAD at the gene and protein level, which correlated with a reduced production of itaconic acid. Using a synergistic approach of both computational and experimental methods, PLOS ONE | we here shed more light on the transcriptional machinery of IRG1 expression and could pave the way to therapeutic approaches targeting itaconic acid levels.">
+    <entity charOffset="197-204" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="218-222" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="288-301" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" ontology_id="CHEBI_30838" text="itaconic acid" type="chemical"/>
+    <entity charOffset="297-301" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="320-324" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="328-346" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" ontology_id="CHEBI_27093" text="tricarboxylic acid" type="chemical"/>
+    <entity charOffset="342-346" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="348-351" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" ontology_id="CHEBI_30956" text="TCA" type="chemical"/>
+    <entity charOffset="373-386" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" ontology_id="CHEBI_30838" text="Itaconic acid" type="chemical"/>
+    <entity charOffset="382-386" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="406-419" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" ontology_id="CHEBI_33281" text="antimicrobial" type="chemical"/>
+    <entity charOffset="442-452" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" ontology_id="CHEBI_16087" text="isocitrate" type="chemical"/>
+    <entity charOffset="484-494" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" ontology_id="CHEBI_16891" text="glyoxylate" type="chemical"/>
+    <entity charOffset="517-524" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" ontology_id="CHEBI_34922" text="pathway" type="chemical"/>
+    <entity charOffset="543-546" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" ontology_id="CHEBI_30956" text="TCA" type="chemical"/>
+    <entity charOffset="596-602" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" ontology_id="CHEBI_27594" text="carbon" type="chemical"/>
+    <entity charOffset="654-667" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" ontology_id="CHEBI_30838" text="itaconic acid" type="chemical"/>
+    <entity charOffset="663-667" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="1569-1579" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="1689-1696" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1750-1763" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" ontology_id="CHEBI_30838" text="itaconic acid" type="chemical"/>
+    <entity charOffset="1759-1763" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="1847-1850" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" ontology_id="CHEBI_58972" text="ONE" type="chemical"/>
+    <entity charOffset="1871-1876" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" ontology_id="CHEBI_30212" text="light" type="chemical"/>
+    <entity charOffset="1988-2001" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" ontology_id="CHEBI_30838" text="itaconic acid" type="chemical"/>
+    <entity charOffset="1997-2001" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p0" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p1" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p2" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p3" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p4" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p5" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p6" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p7" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p8" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p9" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p10" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p11" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p12" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p13" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p14" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p15" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p16" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p17" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p18" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p19" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p20" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p21" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p22" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p23" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p24" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p25" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p26" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p27" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p28" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p29" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p30" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p31" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p32" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p33" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p34" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p35" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p36" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p37" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p38" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p39" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p40" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p41" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p42" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p43" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p44" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p45" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p46" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p47" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p48" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p49" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p50" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p51" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p52" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p53" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p54" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p55" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p56" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p57" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p58" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p59" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p60" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p61" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p62" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p63" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p64" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p65" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p66" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p67" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p68" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p69" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p70" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p71" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p72" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p73" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p74" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p75" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p76" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p77" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p78" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p79" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p80" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p81" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p82" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p83" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p84" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p85" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p86" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p87" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p88" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p89" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p90" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p91" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e4" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p92" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p93" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p94" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p95" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p96" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p97" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p98" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p99" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p100" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p101" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p102" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p103" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p104" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p105" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p106" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p107" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p108" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p109" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p110" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p111" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e5" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p112" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p113" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p114" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p115" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p116" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p117" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p118" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p119" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p120" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p121" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p122" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p123" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p124" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p125" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p126" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e6" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p127" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p128" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p129" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p130" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p131" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p132" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p133" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p134" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p135" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p136" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p137" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p138" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p139" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p140" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p141" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p142" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p143" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e7" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p144" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p145" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p146" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p147" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p148" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p149" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p150" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p151" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p152" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p153" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p154" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p155" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p156" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p157" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p158" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p159" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p160" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e8" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p161" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p162" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p163" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p164" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p165" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p166" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p167" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p168" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p169" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p170" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p171" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p172" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p173" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e9" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p174" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p175" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p176" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p177" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p178" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p179" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p180" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p181" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p182" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p183" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p184" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p185" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p186" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p187" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p188" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e10" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p189" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p190" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p191" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p192" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p193" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p194" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p195" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p196" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p197" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p198" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p199" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p200" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p201" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p202" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e11" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p203" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p204" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p205" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p206" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p207" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p208" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p209" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p210" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p211" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p212" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p213" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p214" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p215" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e12" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p216" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p217" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p218" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p219" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p220" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p221" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p222" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p223" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p224" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p225" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p226" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p227" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e13" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p228" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p229" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p230" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p231" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p232" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p233" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p234" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p235" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p236" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p237" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p238" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e14" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p239" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p240" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p241" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p242" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p243" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p244" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p245" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p246" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p247" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p248" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e15" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p249" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p250" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p251" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p252" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p253" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p254" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p255" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e16" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p256" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p257" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p258" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p259" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p260" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p261" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e17" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p262" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p263" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p264" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p265" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p266" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p267" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p268" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e18" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p269" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p270" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p271" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p272" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p273" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p274" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e19" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p275" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p276" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p277" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p278" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e20" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p279" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p280" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p281" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e21" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p282" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p283" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p284" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e22" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p285" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p286" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e23" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p287" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e24" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.e25" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c1.p288" relation="true"/>
+  </chunk>
+  <chunk id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2" text="IRF1 Is a Transcriptional Regulator of IRG1 Cells were washed with ice-cold PBS after removing the medium. Proteins were extracted using Mammalian Protein Extraction Reagent (M-PER, Thermo Scientific) which includes lysis buffer and a protease inhibitor. A volume of 150μL/well of M-PER complete reagent was added IRF1 Is a Transcriptional Regulator of IRG1">
+    <entity charOffset="107-115" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e0" ontology_id="CHEBI_36080" text="Proteins" type="chemical"/>
+    <entity charOffset="147-154" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e1" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="166-173" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e2" ontology_id="CHEBI_33893" text="Reagent" type="chemical"/>
+    <entity charOffset="222-228" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e3" ontology_id="CHEBI_35225" text="buffer" type="chemical"/>
+    <entity charOffset="296-303" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e4" ontology_id="CHEBI_33893" text="reagent" type="chemical"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e1" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p0" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e2" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p1" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e3" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p2" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e0" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p3" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e2" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p4" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e3" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p5" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e1" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p6" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e3" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p7" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e2" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p8" relation="true"/>
+    <pair e1="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e3" e2="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.e4" id="2c2c2d6a805a6ea5cdd4568c9bedeedc705e1043.c2.p9" relation="true"/>
+  </chunk>
+</document>

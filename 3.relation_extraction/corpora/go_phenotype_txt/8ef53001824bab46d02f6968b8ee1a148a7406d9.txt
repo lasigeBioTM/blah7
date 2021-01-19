@@ -1,0 +1,17 @@
+0|chunk|Establishment of Viral Latency
+0	17	30 Viral Latency	Gene_function	GO_0019042
+
+1|chunk|During a lytic gammaherpesvirus infection, host gene expression is severely restricted by the global degradation and altered 39 end processing of mRNA. This host shutoff phenotype is orchestrated by the viral SOX protein, yet its functional significance to the viral lifecycle has not been elucidated, in part due to the multifunctional nature of SOX. Using an unbiased mutagenesis screen of the murine gammaherpesvirus 68 (MHV68) SOX homolog, we isolated a single amino acid point mutant that is selectively defective in host shutoff activity. Incorporation of this mutation into MHV68 yielded a virus with significantly reduced capacity for mRNA turnover. Unexpectedly, the MHV68 mutant showed little defect during the acute replication phase in the mouse lung. Instead, the virus exhibited attenuation at later stages of in vivo infections suggestive of defects in both trafficking and latency establishment. Specifically, mice intranasally infected with the host shutoff mutant accumulated to lower levels at 10 days post infection in the lymph nodes, failed to develop splenomegaly, and exhibited reduced viral DNA levels and a lower frequency of latently infected splenocytes. Decreased latency establishment was also observed upon infection via the intraperitoneal route. These results highlight for the first time the importance of global mRNA degradation during a gammaherpesvirus infection and link an exclusively lytic phenomenon with downstream latency establishment.
+1	48	63 gene expression	Gene_function	GO_0010467
+1	101	112 degradation	Gene_function	GO_0009056
+1	721	726 acute	Phenotype	HP_0011009
+1	1139	1148 frequency	Phenotype	HP_0040279
+1	1347	1363 mRNA degradation	Gene_function	GO_0006402
+1	1352	1363 degradation	Gene_function	GO_0009056
+1	GO-HP	GO_0010467	HP_0011009
+1	GO-HP	GO_0010467	HP_0040279
+1	GO-HP	GO_0009056	HP_0011009
+1	GO-HP	GO_0009056	HP_0040279
+1	HP-GO	HP_0011009	GO_0006402
+1	HP-GO	HP_0040279	GO_0006402
+

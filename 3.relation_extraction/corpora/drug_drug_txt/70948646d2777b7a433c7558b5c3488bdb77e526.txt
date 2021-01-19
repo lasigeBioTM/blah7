@@ -1,0 +1,123 @@
+0|chunk|viruses Roles of the Picornaviral 3C Proteinase in the Viral Life Cycle and Host Cells
+
+1|chunk|The Picornaviridae family comprises a large group of non-enveloped viruses that have a major impact on human and veterinary health. The viral genome contains one open reading frame encoding a single polyprotein that can be processed by viral proteinases. The crucial 3C proteinases (3C pro s) of picornaviruses share similar spatial structures and it is becoming apparent that 3C pro plays a significant role in the viral life cycle and virus host interaction. Importantly, the proteinase and RNA-binding activity of 3C pro are involved in viral polyprotein processing and the initiation of viral RNA synthesis. In addition, 3C pro can induce the cleavage of certain cellular factors required for transcription, translation and nucleocytoplasmic trafficking to modulate cell physiology for viral replication. Due to interactions between 3C pro and these essential factors, 3C pro is also involved in viral pathogenesis to support efficient infection. Furthermore, based on the structural conservation, the development of irreversible inhibitors and discovery of non-covalent inhibitors for 3C pro are ongoing and a better understanding of the roles played by 3C pro may provide insights into the development of potential antiviral treatments. In this review, the current knowledge regarding the structural features, multiple functions in the viral life cycle, pathogen host interaction, and development of antiviral compounds for 3C pro is summarized.
+1	286	289 pro	Chemical	CHEBI_50342
+1	380	383 pro	Chemical	CHEBI_50342
+1	404	408 role	Chemical	CHEBI_50906
+1	520	523 pro	Chemical	CHEBI_50342
+1	597	600 RNA	Chemical	CHEBI_33697
+1	628	631 pro	Chemical	CHEBI_50342
+1	840	843 pro	Chemical	CHEBI_50342
+1	876	879 pro	Chemical	CHEBI_50342
+1	1034	1044 inhibitors	Chemical	CHEBI_35222
+1	1075	1085 inhibitors	Chemical	CHEBI_35222
+1	1093	1096 pro	Chemical	CHEBI_50342
+1	1162	1165 pro	Chemical	CHEBI_50342
+1	1221	1230 antiviral	Chemical	CHEBI_22587
+1	1406	1415 antiviral	Chemical	CHEBI_22587
+1	1433	1436 pro	Chemical	CHEBI_50342
+1	CHEBI-CHEBI	CHEBI_50342	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_50342	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_50342	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_50342	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_22587
+
+2|chunk|for initiating viral RNA replication (Figure 1 ). The release of mature and functional proteins from the polyprotein is primarily mediated by viral proteinases including 3C pro , 2A pro and leader proteinase. Most processing is performed by 3C pro and the 3CD precursor.
+2	21	24 RNA	Chemical	CHEBI_33697
+2	87	95 proteins	Chemical	CHEBI_36080
+2	173	176 pro	Chemical	CHEBI_50342
+2	182	185 pro	Chemical	CHEBI_50342
+2	244	247 pro	Chemical	CHEBI_50342
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_50342
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_50342
+
+3|chunk|In this review, we summarize how 3C pro is involved in polyprotein processing, protein-primed RNA synthesis initiation and the switch from viral translation to replication. We discuss the multiple roles that 3C pro plays in the host cells, including shutting off transcription, inhibiting protein synthesis, blocking nucleocytoplasmic transport and inducing cell death. In addition, we also compare the functions of 3C pro in the pathogenesis process of different picornaviruses. Discoveries have recently been made concerning effective and broad-spectrum inhibitors of picornaviruses. As a protease inhibitor for rhinovirus (RV) 3C pro , rupintrivir (AG7088) has been the subject of clinical trials [7], however, AG7088 failed in a natural infection study [8] . Efforts to develop effective antiviral compounds are still ongoing. The synthesis of AG7088 analogues, the exploration of non-covalent inhibitors and research on natural medicine are the main strategies currently being used to develop 3C pro inhibitors (3CPIs). Viruses 2016, 8, 82 2 of 21
+3	36	39 pro	Chemical	CHEBI_50342
+3	94	97 RNA	Chemical	CHEBI_33697
+3	211	214 pro	Chemical	CHEBI_50342
+3	289	296 protein	Chemical	CHEBI_16541
+3	419	422 pro	Chemical	CHEBI_50342
+3	556	566 inhibitors	Chemical	CHEBI_35222
+3	591	609 protease inhibitor	Chemical	CHEBI_37670
+3	600	609 inhibitor	Chemical	CHEBI_35222
+3	633	636 pro	Chemical	CHEBI_50342
+3	792	801 antiviral	Chemical	CHEBI_22587
+3	898	908 inhibitors	Chemical	CHEBI_35222
+3	933	941 medicine	Chemical	CHEBI_23888
+3	1001	1004 pro	Chemical	CHEBI_50342
+3	1005	1015 inhibitors	Chemical	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_37670
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_50342	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_37670
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_37670
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_37670
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_37670	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_37670	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+
+4|chunk|is necessary for initiating viral RNA replication (Figure 1 ). The release of mature and functional proteins from the polyprotein is primarily mediated by viral proteinases including 3C pro , 2A pro and leader proteinase. Most processing is performed by 3C pro and the 3CD precursor.
+4	34	37 RNA	Chemical	CHEBI_33697
+4	100	108 proteins	Chemical	CHEBI_36080
+4	186	189 pro	Chemical	CHEBI_50342
+4	195	198 pro	Chemical	CHEBI_50342
+4	257	260 pro	Chemical	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_50342
+
+5|chunk|In this review, we summarize how 3C pro is involved in polyprotein processing, protein-primed RNA synthesis initiation and the switch from viral translation to replication. We discuss the multiple roles that 3C pro plays in the host cells, including shutting off transcription, inhibiting protein synthesis, blocking nucleocytoplasmic transport and inducing cell death. In addition, we also compare the functions of 3C pro in the pathogenesis process of different picornaviruses. Discoveries have recently been made concerning effective and broad-spectrum inhibitors of picornaviruses. As a protease inhibitor for rhinovirus (RV) 3C pro , rupintrivir (AG7088) has been the subject of clinical trials [7], however, AG7088 failed in a natural infection study [8] . Efforts to develop effective antiviral compounds are still ongoing. The synthesis of AG7088 analogues, the exploration of non-covalent inhibitors and research on natural medicine are the main strategies currently being used to develop 3C pro inhibitors (3CPIs).
+5	36	39 pro	Chemical	CHEBI_50342
+5	94	97 RNA	Chemical	CHEBI_33697
+5	211	214 pro	Chemical	CHEBI_50342
+5	289	296 protein	Chemical	CHEBI_16541
+5	419	422 pro	Chemical	CHEBI_50342
+5	556	566 inhibitors	Chemical	CHEBI_35222
+5	591	609 protease inhibitor	Chemical	CHEBI_37670
+5	600	609 inhibitor	Chemical	CHEBI_35222
+5	633	636 pro	Chemical	CHEBI_50342
+5	792	801 antiviral	Chemical	CHEBI_22587
+5	898	908 inhibitors	Chemical	CHEBI_35222
+5	933	941 medicine	Chemical	CHEBI_23888
+5	1001	1004 pro	Chemical	CHEBI_50342
+5	1005	1015 inhibitors	Chemical	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_33697
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_37670
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_50342	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_37670
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_33697	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_37670
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_37670
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_37670	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_37670	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+

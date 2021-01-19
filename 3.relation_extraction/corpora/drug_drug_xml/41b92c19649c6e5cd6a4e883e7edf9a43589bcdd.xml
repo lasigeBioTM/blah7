@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd">
+  <chunk id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c0" text="Proteome Science Identification of protein functions using a machine-learning approach based on sequence-derived properties">
+    <entity charOffset="35-42" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c0.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+  <chunk id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c1" text="Background: Predicting the function of an unknown protein is an essential goal in bioinformatics. Sequence similarity-based approaches are widely used for function prediction; however, they are often inadequate in the absence of similar sequences or when the sequence similarity among known protein sequences is statistically weak. This study aimed to develop an accurate prediction method for identifying protein function, irrespective of sequence and structural similarities.">
+    <entity charOffset="50-57" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="291-298" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="406-413" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c1.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+  <chunk id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2" text="A highly accurate prediction method capable of identifying protein function, based solely on protein sequence properties, is described. This method analyses and identifies specific features of the protein sequence that are highly correlated with certain protein functions and determines the combination of protein sequence features that best characterises protein function. Thirty-three features that represent subtle differences in local regions and full regions of the protein sequences were introduced. On the basis of 484 features extracted solely from the protein sequence, models were built to predict the functions of 11 different proteins from a broad range of cellular components, molecular functions, and biological processes. The accuracy of protein function prediction using random forests with feature selection ranged from 94.23% to 100%. The local sequence information was found to have a broad range of applicability in predicting protein function.">
+    <entity charOffset="59-66" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="93-100" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="197-204" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="254-261" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="306-313" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="356-363" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e5" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="471-478" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="561-568" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e7" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="638-646" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="753-760" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e9" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="947-954" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e10" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e0" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p0" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e1" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p1" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e2" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p2" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e3" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p3" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e4" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p4" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e5" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p5" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e6" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p6" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e7" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p7" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e9" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p8" relation="true"/>
+    <pair e1="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e8" e2="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.e10" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c2.p9" relation="true"/>
+  </chunk>
+  <chunk id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c3" text="We present an accurate prediction method using a machine-learning approach based solely on protein sequence properties. The primary contribution of this paper is to propose new PNPRD features representing global and/or local differences in sequences, based on positively and/ or negatively charged residues, to assist in predicting protein function. In addition, we identified a compact and useful feature subset for predicting the function of various proteins. Our results indicate that sequence-based classifiers can provide good results among a broad range of proteins, that the proposed features are useful in predicting several functions, and that the combination of our and traditional features may support the creation of a discriminative feature set for specific protein functions.">
+    <entity charOffset="91-98" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c3.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="332-339" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c3.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="771-778" id="41b92c19649c6e5cd6a4e883e7edf9a43589bcdd.c3.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+  </chunk>
+</document>

@@ -1,0 +1,21 @@
+0|chunk|eIF2-CHOP-BCl-2/JNK and IRE1-XBP1/JNK signaling promote apoptosis and inflammation and support the proliferation of Newcastle disease virus
+0	118	135 Newcastle disease	Disease	DOID_2929
+0	128	135 disease	Disease	DOID_4
+
+1|chunk|Newcastle disease virus (NDV) causes severe infectious disease in poultry and selectively kills tumor cells, by inducing apoptosis and cytokines secretion. In this report, we study the mechanisms underlying NDV-induced apoptosis by investigating the unfolded protein response (UPR). We found that NDV infection activated all three branches of the UPR signaling (PERK-eIF2, ATF6, and IRE1) and triggered apoptosis, in avian cells (DF-1 and CEF) and in various human cancer cell types (HeLa, Cal27, HN13, A549, H1299, Huh7, and HepG2). Interestingly, the suppression of either apoptosis or UPR led to impaired NDV proliferation. Meanwhile, the inhibition of UPR by 4-PBA protected cells from NDV-induced apoptosis. Further study revealed that activation of PERK-eIF2 induced the expression of transcription factor CHOP, which subsequently promoted apoptosis by downregulating BCL-2/MCL-1, promoting JNK signaling and suppressing AKT signaling. In parallel, IRE1 mediated the splicing of XBP1 mRNA and resulted in the translation and nuclear translocation of XBP1s, thereby promoting the transcription of ER chaperones and components of ERassociated degradation (ERAD). Furthermore, IRE1 promoted apoptosis and cytokines secretion via the activation of JNK signaling. Knock down and overexpression studies showed that CHOP, IRE1, XBP1, and JNK supported efficient virus proliferation. Our study demonstrates that the induction of eIF2-CHOP-BCL-2/JNK and IRE1-XBP1/JNK signaling cascades promote apoptosis and cytokines secretion, and these signaling cascades support NDV proliferation.
+1	0	17 Newcastle disease	Disease	DOID_2929
+1	10	17 disease	Disease	DOID_4
+1	44	62 infectious disease	Disease	DOID_0050117
+1	55	62 disease	Disease	DOID_4
+1	259	266 protein	Chemical	CHEBI_16541
+1	467	473 cancer	Disease	DOID_162
+1	994	998 mRNA	Chemical	CHEBI_33699
+1	DOID-CHEBI	DOID_2929	CHEBI_16541
+1	DOID-CHEBI	DOID_2929	CHEBI_33699
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_33699
+1	DOID-CHEBI	DOID_0050117	CHEBI_16541
+1	DOID-CHEBI	DOID_0050117	CHEBI_33699
+1	CHEBI-DOID	CHEBI_16541	DOID_162
+1	DOID-CHEBI	DOID_162	CHEBI_33699
+

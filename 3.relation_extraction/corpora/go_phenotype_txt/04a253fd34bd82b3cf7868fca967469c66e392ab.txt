@@ -1,0 +1,23 @@
+0|chunk|RO 90-7501 Enhances TLR3 and RLR Agonist Induced Antiviral Response
+0	49	67 Antiviral Response	Gene_function	GO_0051607
+
+1|chunk|Recognition of virus infection by innate pattern recognition receptors (PRRs), including membrane-associated toll-like receptors (TLR) and cytoplasmic RIG-I-like receptors (RLR), activates cascades of signal transduction pathways leading to production of type I interferons (IFN) and proinflammatory cytokines that orchestrate the elimination of the viruses. Although it has been demonstrated that PRR-mediated innate immunity plays an essential role in defending virus from infection, it also occasionally results in overwhelming production of proinflammatory cytokines that cause severe inflammation, blood vessel leakage and tissue damage. In our efforts to identify small molecules that selectively enhance PRR-mediated antiviral, but not the detrimental inflammatory response, we discovered a compound, RO 90-7501 ('2'-(4-Aminophenyl)-[2,59-bi-1H-benzimidazol]-5-amine), that significantly promoted both TLR3 and RLR ligand-induced IFNb gene expression and antiviral response, most likely via selective activation of p38 mitogen-activated protein kinase (MAPK) pathway. Our results thus imply that pharmacological modulation of PRR signal transduction pathways in favor of the induction of a beneficial antiviral response can be a novel therapeutic strategy.
+1	201	220 signal transduction	Gene_function	GO_0007165
+1	208	220 transduction	Gene_function	GO_0009293
+1	411	426 innate immunity	Gene_function	GO_0045087
+1	582	588 severe	Phenotype	HP_0012828
+1	942	957 gene expression	Gene_function	GO_0010467
+1	962	980 antiviral response	Gene_function	GO_0051607
+1	1060	1064 MAPK	Gene_function	GO_0004707
+1	1133	1136 PRR	Gene_function	GO_0038187
+1	1137	1156 signal transduction	Gene_function	GO_0007165
+1	1144	1156 transduction	Gene_function	GO_0009293
+1	1208	1226 antiviral response	Gene_function	GO_0051607
+1	GO-HP	GO_0007165	HP_0012828
+1	GO-HP	GO_0009293	HP_0012828
+1	GO-HP	GO_0045087	HP_0012828
+1	HP-GO	HP_0012828	GO_0010467
+1	HP-GO	HP_0012828	GO_0051607
+1	HP-GO	HP_0012828	GO_0004707
+1	HP-GO	HP_0012828	GO_0038187
+

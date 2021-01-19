@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="f5133d66a71eb5add9881ec5f254fc0757a7ee06">
+  <chunk id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c0" text="A dynamic estimation of the daily cumulative cases during infectious disease surveillance: application to dengue fever">
+    <entity charOffset="113-118" id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c0.e0" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+  </chunk>
+  <chunk id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c1" text="Background: In infectious disease surveillance, when the laboratory confirmation of the cases is time-consuming, there is often a time lag between the number of suspect cases and the number of confirmed cases. This study proposes a dynamic statistical model to estimate the daily number of new cases and the daily cumulative number of infected cases, which was then applied to historic dengue fever data.">
+    <entity charOffset="393-398" id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c1.e0" ontology_id="HP_0001945" text="fever" type="phenotype"/>
+  </chunk>
+  <chunk id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c2" text="The duration between the date of disease onset and date of laboratory confirmation was assumed to follow a gamma distribution or a nonparametric distribution. A conditional probability of a case being a real case among the unconfirmed cases on a given date was then calculated. This probability along with the observed confirmed cases was integrated to estimate the daily number of new cases and the cumulative number of infected cases.">
+    <entity charOffset="41-46" id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c2.e0" ontology_id="HP_0003674" text="onset" type="phenotype"/>
+  </chunk>
+  <chunk id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c3" text="The distribution of the onset-to-confirmation time for the positive cases was different from that of the negative cases. The daily new cases and cumulative epidemic curves estimated by the proposed method have a lower absolute relative bias than the values estimated solely based on the available daily-confirmed cases."/>
+  <chunk id="f5133d66a71eb5add9881ec5f254fc0757a7ee06.c4" text="The proposed method provides a more accurate real-time estimation of the daily new cases and daily cumulative number of infected cases. The model makes use of the most recent &quot;moving window&quot; of information relative to suspect cases and dynamically updates the parameters. The proposed method will be useful for the realtime evaluation of a disease outbreak when case classification requires a time-consuming laboratory process to identify a confirmed case."/>
+</document>

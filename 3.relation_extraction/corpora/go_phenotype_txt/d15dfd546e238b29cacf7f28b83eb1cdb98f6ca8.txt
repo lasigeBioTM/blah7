@@ -1,0 +1,33 @@
+0|chunk|Human complement receptor type 1 (CR1) protein levels and genetic variants in chronic Chagas Disease
+0	78	85 chronic	Phenotype	HP_0011010
+
+1|chunk|Complement is an essential element in both innate and acquired immunity contributing to the immunopathogenesis of many disorders, including Chagas Disease (CD). Human complement receptor 1 (CR1) plays a role in the clearance of complement opsonized molecules and may facilitate the entry of pathogens into host cells. Distinct CR1 exon 29 variants have been found associated with CR1 expression levels, increased susceptibility and pathophysiology of several diseases. In this study, CR1 plasma levels were assessed by ELISA and CR1 variants in exon 29 by sequencing in a Brazilian cohort of 232 chronic CD patients and 104 healthy controls. CR1 levels were significantly decreased in CD patients compared to controls (p < 0.0001). The CR1 rs1704660G, rs17047661G and rs6691117G variants were significantly associated with CD and in high linkage disequilibrium. The CR1*AGAGTG haplotype was associated with T. cruzi infection (p = 0.035, OR 3.99, CI 1.1-14.15) whereas CR1*AGGGTG was related to the risk of chagasic cardiomyopathy (p = 0.028, OR 12.15, CI 1.13-113). This is the first study that provides insights on the role of CR1 in development and clinical presentation of chronic CD.
+1	596	603 chronic	Phenotype	HP_0011010
+1	624	631 healthy	Phenotype	HP_0032322
+1	1016	1030 cardiomyopathy	Phenotype	HP_0001638
+1	1177	1184 chronic	Phenotype	HP_0011010
+
+2|chunk|Chagas Disease (CD) is a neglected infectious disease caused by the intracellular protozoan parasite Trypanosoma cruzi. CD affects more than five million people in Latin America and another 20 million are at risk of acquiring the infection 1 . Approximately 300,000 new cases are reported to occur each year, and approximately 21,000 patients die annually 2 . Human migration has contributed substantially to the current global scenario of CD increasing the number of cases in non-endemic countries with epidemiological, economic and social implications, which challenge control of the spread of T. cruzi 3 . The annual cost due to CD globally is US$ 7.19 billion and has a lifetime cost of US$ 27,684 per infected individual 4 .
+2	68	81 intracellular	Gene_function	GO_0005622
+
+3|chunk|Although most individuals infected with T. cruzi remain asymptomatic all lifelong, approximately 2-5% of infected individuals progress each year to a symptomatic form of the disease, developing either chronic chagasic cardiomyopathy (CCC) or digestive megasyndromes, or both 5 . About 10% of patients develop lethal cardiomyopathy, with heart transplantation remaining the ultimate treatment available 6 . CCC is an inflammatory condition characterized by intense Th1-type immune response 7 . After initial infection, Th1 proinflammatory cytokines are produced and this production continues along chronic phase, likely due to parasite persistence among others 6 . Persistent Th1-type response can lead to cardiac commitment, starting with myocarditis and then progressing to CCC 8 .
+3	201	208 chronic	Phenotype	HP_0011010
+3	218	232 cardiomyopathy	Phenotype	HP_0001638
+3	234	237 CCC	Gene_function	GO_0030896
+3	316	330 cardiomyopathy	Phenotype	HP_0001638
+3	406	409 CCC	Gene_function	GO_0030896
+3	473	488 immune response	Gene_function	GO_0006955
+3	597	604 chronic	Phenotype	HP_0011010
+3	739	750 myocarditis	Phenotype	HP_0012819
+3	775	778 CCC	Gene_function	GO_0030896
+3	HP-GO	HP_0011010	GO_0030896
+3	HP-GO	HP_0011010	GO_0006955
+3	HP-GO	HP_0001638	GO_0030896
+3	HP-GO	HP_0001638	GO_0006955
+3	GO-HP	GO_0030896	HP_0012819
+3	GO-HP	GO_0006955	HP_0012819
+
+4|chunk|After transmission of the pathogen by the triatomine insect vector (subfamily Triatominae), T. cruzi uses several mechanisms to escape host immune responses, among which is the evasion from complement attack 9-11 . The infective form of T. cruzi, the metacyclic trypomastigotes, can invade almost all nucleated cells 12 by involving a wide diversity of receptors such as kinins, receptor tyrosine kinases, transforming and epidermal growth factor receptors, the lectin receptor Gallectin-3, fibronectin, and Toll-like receptors 13, 14 . In addition to these receptors, T. cruzi utilizes the complement molecules such as C1q to promote C1-dependent phagocytosis and the lectin proteins mannose-binding lectin (MBL) and ficolin-2 to evade host immune attack and promote infection 10,15 . Evans-Osses and collaborators (2014) suggested that the deposition of MBL on T. cruzi parasite surface plays a
+4	433	439 growth	Gene_function	GO_0040007
+4	648	660 phagocytosis	Gene_function	GO_0006909
+

@@ -1,0 +1,12 @@
+0|chunk|An efficient simulated annealing algorithm for the RNA secondary structure prediction with Pseudoknots
+0	51	54 RNA	Chemical	CHEBI_33697
+
+1|chunk|Background: RNA pseudoknot structures play an important role in biological processes. However, existing RNA secondary structure prediction algorithms cannot predict the pseudoknot structure efficiently. Although random matching can improve the number of base pairs, these non-consecutive base pairs cannot make contributions to reduce the free energy. Result: In order to improve the efficiency of searching procedure, our algorithm take consecutive base pairs as the basic components. Firstly, our algorithm calculates and archive all the consecutive base pairs in triplet data structure, if the number of consecutive base pairs is greater than given minimum stem length. Secondly, the annealing schedule is adapted to select the optimal solution that has minimum free energy. Finally, the proposed algorithm is evaluated with the real instances in PseudoBase.
+1	12	15 RNA	Chemical	CHEBI_33697
+1	56	60 role	Chemical	CHEBI_50906
+1	104	107 RNA	Chemical	CHEBI_33697
+1	739	747 solution	Chemical	CHEBI_75958
+
+2|chunk|The experimental results have been demonstrated to provide a competitive and oftentimes better performance when compared against some chosen state-of-the-art RNA structure prediction algorithms.
+2	158	161 RNA	Chemical	CHEBI_33697
+

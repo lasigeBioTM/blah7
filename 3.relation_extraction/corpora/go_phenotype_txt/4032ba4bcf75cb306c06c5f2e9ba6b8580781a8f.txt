@@ -1,0 +1,33 @@
+0|chunk|predictors of Initial smear- Negative Active pulmonary tuberculosis with Acute early stage Lung Injury by High-Resolution Computed tomography and Clinical Manifestations: An Auxiliary Model in Critical patients
+0	45	67 pulmonary tuberculosis	Phenotype	HP_0032262
+0	73	78 Acute	Phenotype	HP_0011009
+
+1|chunk|[non-aPTB-PD] (G2, n = 233) groups. Lung morphology, number, and lobar (segmental) distribution were evaluated using CXR and HRCt. A multivariate analysis was performed to identify independent variables associated with G1, which were used to generate predictive score models for G1. The predictive model was validated in a separate population of patients (n = 372) with [iSN-PD] and (ALI). the validated model for [HRCt (CXR + Hypoalbuminemia)] had 93.5% (25.8%) sensitivity, 99.5% (89.4%) specificity, and a negative predictive value of 99.5% (93.0%). For [iSN-aPTB], the posttest probability in the derivation cohort (prevalence = 10%), validation cohort (prevalence = 8.3%), and the given prevalence (prevalence = 1%) was 88.7%, 94.4%, and 41.5%, respectively. The HRCT model effectively identified the [iSN-aPTB] subjects among the [iSN-PD] with ALI, regardless of CM. The [non-aPTB-PD] were also correctly classified by the HRCT and [CXR + Hypoalbuminemia] models.
+
+2|chunk|Tuberculosis (TB) is a major health problem around the world, and early diagnosis is critical for control of TB. Although TB can affect multiple organs, it primarily involves the respiratory system. Highly contagious active pulmonary TB (aPTB) commonly presents with vague clinical symptoms such as fever, weight loss, chronic productive cough, and occasional dyspnea and hemoptysis 1 . These signs can be mistaken for community-acquired pneumonia and can be missed on the initial diagnosis in the emergency department, thereby increasing the risk of nosocomial infection and additional transmission of the disease to the general population 2 .
+2	224	236 pulmonary TB	Phenotype	HP_0032262
+2	319	326 chronic	Phenotype	HP_0011010
+2	349	359 occasional	Phenotype	HP_0040283
+2	360	367 dyspnea	Phenotype	HP_0002094
+2	372	382 hemoptysis	Phenotype	HP_0002105
+2	438	447 pneumonia	Phenotype	HP_0002090
+
+3|chunk|The acid-fast bacilli (AFB) smear of respiratory sputum is used for the rapid diagnosis of aPTB; however, this test is noted to have poor sensitivity (between 30% and 70%) 3 . The Center for Disease Control and Prevention (CDC) 4 recommends that nucleic acid amplification (NAA), including polymerase chain reaction (PCR), should be performed on at least one respiratory specimen from each patient with signs and symptoms of pulmonary TB for whom a diagnosis of TB is being considered but has not yet been established 5 . However, the sensitivity of PCR is variable (ie, 74% to 85%) and the sensitivity for smear-negative (SN) is poor (e.g. 53% to 73%) 6 . Routine implementation of PCR on all first specimens submitted for mycobacterial culture without consideration of the clinical history is impractical and costly 4 . Results of PCR may be available within 1 day after taking a respiratory specimen; however, the rapid PCR-based assessment is dependent upon the ability to obtain a respiratory specimen. Therefore, if the initial sputum is negative (iSN), more than one day may be needed to obtain another sample and subsequent smear-positive (SP) sputum using PCR. Patients and/or family members may refuse or hesitate to receive the bronchoscopy procedure; thus, specimens cannot be obtained this way. Recent reports suggest that high-resolution computed tomography (HRCT) may be a useful tool for identifying PTB and pneumonia 7,8 , and may be performed before bronchoscopy, especially in patients with iSN 9 . If bronchoscopy cannot be performed or patients have a tendency to bleed, HRCT can be used to classify the most infectious patients (PTB) and the patients can be isolated. HRCT plays an important role in the identification of Severe Acute Respiratory Syndrome (SARS). In addition, bronchoscopy is also limited by the necessity of waiting for the results of cultures, particularly when the smear-from bronchoscopy specimens is (, , ).
+3	425	437 pulmonary TB	Phenotype	HP_0032262
+3	1424	1433 pneumonia	Phenotype	HP_0002090
+3	1744	1750 Severe	Phenotype	HP_0012828
+3	1751	1756 Acute	Phenotype	HP_0011009
+
+4|chunk|The most common reason for admitting an aPTB patient into the intensive care unit (ICU) is the development of acute lung injury (ALI), such as acute respiratory distress syndrome (ARDS) or severe organ failure 10 . Acute respiratory failure due to aPTB often necessitates mechanical ventilation and is associated with mortality rates of approximately 14.9% to 85.5% 11,12 .
+4	110	115 acute	Phenotype	HP_0011009
+4	143	148 acute	Phenotype	HP_0011009
+4	149	169 respiratory distress	Phenotype	HP_0002098
+4	189	195 severe	Phenotype	HP_0012828
+4	215	220 Acute	Phenotype	HP_0011009
+4	221	240 respiratory failure	Phenotype	HP_0002878
+
+5|chunk|The use of chest-X-ray (CXR) 1 and computed tomography (CT) 13 have been investigated to determine their effectiveness in the diagnosis of aPTB in ICU patients. A case control study found that CXR was not predictive of aPTB and did not significantly contribute to the diagnosis of aPTB in the ICU 1 . One study found that the extent of disease as determined by HRCT correlated with positive smears 14 . A prior study also found that HRCT had both high sensitivity (>95.0%) and specificity (>90.0%) for predicting the presence of SP-aPTB 15 . However, the accuracy of HRCT and CXR in patients with ALI (eg, such as ARDS) for diagnosing initial smear-negative active pulmonary tuberculosis (iSN-aPTB) in early stage ALI is not well understood.
+5	665	687 pulmonary tuberculosis	Phenotype	HP_0032262
+
+6|chunk|Prior studies used CXR and symptoms/signs to identify patients with SN-aPTB 16 and aPTB 17 . The aim of the current study was to assess the diagnostic accuracy of CXR/HRCT with clinical manifestations in detecting [iSN-aPTB] and classifying [non-aPTB-PD] among patients in early stage ALI 18 with iSN-pulmonary diseases [iSN-PD] before ICU admission or within 24 hours after ICU admission.
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922">
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c0" text="Dominating Biological Networks"/>
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1" text="Proteins are essential macromolecules of life that carry out most cellular processes. Since proteins aggregate to perform function, and since protein-protein interaction (PPI) networks model these aggregations, one would expect to uncover new biology from PPI network topology. Hence, using PPI networks to predict protein function and role of protein pathways in disease has received attention.">
+    <entity charOffset="171-174" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e0" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="256-259" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e1" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="291-294" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c1.e2" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+  </chunk>
+  <chunk id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2" text="A debate remains open about whether network properties of ''biologically central (BC)'' genes (i.e., their protein products), such as those involved in aging, cancer, infectious diseases, or signaling and drugtargeted pathways, exhibit some topological centrality compared to the rest of the proteins in the human PPI network. To help resolve this debate, we design new network-based approaches and apply them to get new insight into biological function and disease. We hypothesize that BC genes have a topologically central (TC) role in the human PPI network. We propose two different concepts of topological centrality. We design a new centrality measure to capture complex wirings of proteins in the network that identifies as TC those proteins that reside in dense extended network neighborhoods. Also, we use the notion of domination and find dominating sets (DSs) in the PPI network, i.e., sets of proteins such that every protein is either in the DS or is a neighbor of the DS. Clearly, a DS has a TC role, as it enables efficient communication between different network parts. We find statistically significant enrichment in BC genes of TC nodes and outperform the existing methods indicating that genes involved in key biological processes occupy topologically complex and dense regions of the network and correspond to its ''spine'' that connects all other network parts and can thus pass cellular signals efficiently throughout the network. To our knowledge, this is the first study that explores domination in the context of PPI networks.">
+    <entity charOffset="73-80" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" ontology_id="HP_0030645" text="central" type="phenotype"/>
+    <entity charOffset="191-200" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e1" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="314-317" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e2" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="517-524" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" ontology_id="HP_0030645" text="central" type="phenotype"/>
+    <entity charOffset="548-551" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e4" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="877-880" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e5" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <entity charOffset="1537-1540" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e6" ontology_id="GO_0060134" text="PPI" type="gene_function"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e1" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p0" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e2" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p1" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e4" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p2" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e5" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p3" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e0" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e6" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p4" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e1" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p5" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e2" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p6" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e4" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p7" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e5" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p8" relation="true"/>
+    <pair e1="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e3" e2="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.e6" id="d0acac75cb3d2c19abfe061a5b1530b1dbbc6922.c2.p9" relation="true"/>
+  </chunk>
+</document>

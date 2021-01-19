@@ -1,0 +1,36 @@
+0|chunk|Factors associated with chronic obstructive pulmonary disease exacerbation, based on big data analysis
+0	24	61 chronic obstructive pulmonary disease	Disease	DOID_3083
+0	54	61 disease	Disease	DOID_4
+
+1|chunk|preventing exacerbation in chronic obstructive pulmonary disease (CopD) patients is crucial, but requires identification of the exacerbating factors. To date, no integrated analysis of patient-derived and external factors has been reported. To identify factors associated with COPD exacerbation, we collected data, including smoking status, lung function, and COPD assessment test scores, from 594 CopD patients in the Korean CopD subgroup study (KoCoss), and merged these data with patients' Korean Health Insurance Review and Assessment Service data for 2007-2012. We also collected primary weather variables, including levels of particulate matter <10 microns in diameter, daily minimum ambient temperature, as well as respiratory virus activities, and the logs of web queries on COPDrelated issues. We then assessed the associations between these patient-derived and external factors and COPD exacerbations. Univariate analysis showed that patient factors, air pollution, various types of viruses, temperature, and the number of COPD-related web queries were associated with COPD exacerbation. Multivariate analysis revealed that the number of exacerbations in the preceding year, female sex, COPD grade, and influenza virus detection rate, and lowest temperature showed significant association with exacerbation. Our findings may help COPD patients predict when exacerbations are likely, and provide intervention as early as possible.
+1	27	64 chronic obstructive pulmonary disease	Disease	DOID_3083
+1	57	64 disease	Disease	DOID_4
+1	66	70 CopD	Disease	DOID_3083
+1	277	281 COPD	Disease	DOID_3083
+1	360	364 COPD	Disease	DOID_3083
+1	398	402 CopD	Disease	DOID_3083
+1	426	430 CopD	Disease	DOID_3083
+1	892	896 COPD	Disease	DOID_3083
+1	1079	1083 COPD	Disease	DOID_3083
+1	1197	1201 COPD	Disease	DOID_3083
+1	1213	1222 influenza	Disease	DOID_8469
+1	1340	1344 COPD	Disease	DOID_3083
+
+2|chunk|Korea has a compulsory universal health insurance system that includes medical reimbursement records for the entire Korean population. All hospitals, clinics, public health centres, and pharmacies are registered with the Korean National Health Insurance. The Korean Health Insurance Review and Assessment Service (HIRA) database contains detailed information about diagnosis, health care use, and medication, and is a reliable source for nationwide epidemiological evaluations 10 . Merging these claims data with cohort data provides a powerful research resource. Cohort data contain very detailed and accurate information regarding COPD, such as lung function, quality of life, and smoking status, which are usually lacking in claims data. Furthermore, in Korea, big data on factors that can potentially influence acute exacerbations, such as air pollution, social network services, weather data, and respiratory virus detection rates, are available.
+2	513	519 cohort	Chemical	CHEBI_34935
+2	564	570 Cohort	Chemical	CHEBI_34935
+
+3|chunk|However, no previous study has collected and integrated all these potential factors in COPD research. We therefore analysed such combined big data in order to identify factors associated with acute exacerbation of COPD. Table S1 shows the baseline characteristics of the COPD patients who were included in this study. Their average age was 65.0  7.5 years, and most were male (n = 538, 90.6%). Almost all patients (98.8%) were current or former smokers. The post-bronchodilator FEV1 was 55.9  17.2% predicted, and the FEV1/FVC ratio was 48.3  12.0. The mean CAT score was 15.8  7.4 and the CAT score was 10 in 79.0% of the patients. Of the total study population, the percentages of patients in GOLD stages I, II, III, and IV were 6.7 (n = 38), 53.9 (n = 305), 33.9 (n = 192), and 5.5 (n = 31).
+3	87	91 COPD	Disease	DOID_3083
+3	214	218 COPD	Disease	DOID_3083
+3	271	275 COPD	Disease	DOID_3083
+3	561	564 CAT	Chemical	CHEBI_149681
+3	594	597 CAT	Chemical	CHEBI_149681
+3	700	704 GOLD	Chemical	CHEBI_29287
+3	DOID-CHEBI	DOID_3083	CHEBI_149681
+3	DOID-CHEBI	DOID_3083	CHEBI_29287
+
+4|chunk|Results
+
+5|chunk|Baseline patient characteristics. Supplementary
+

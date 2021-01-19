@@ -1,0 +1,38 @@
+0|chunk|Probiotic Lactobacillus rhamnosus GG mono-association suppresses human rotavirus-induced autophagy in the gnotobiotic piglet intestine
+
+1|chunk|Background: Human rotavirus (HRV) is the most important cause of severe diarrhea in infants and young children. Probiotic Lactobacillus rhamnosus GG (LGG) reduces rotavirus infection and diarrhea. However, the molecular mechanisms of LGG-mediated protection from rotavirus infection are poorly understood. Autophagy plays an essential role in responses to microbial pathogens. However, the role of autophagy in HRV infection and LGG treatment is unknown. We hypothesize that rotavirus gastroenteritis activates autophagy and that LGG suppresses virus-induced autophagy and prevents intestinal damage in infected piglets.
+1	72	80 diarrhea	Disease	DOID_13250
+1	150	153 LGG	Chemical	CHEBI_74538
+1	187	195 diarrhea	Disease	DOID_13250
+1	335	339 role	Chemical	CHEBI_50906
+1	390	394 role	Chemical	CHEBI_50906
+1	429	432 LGG	Chemical	CHEBI_74538
+1	485	500 gastroenteritis	Disease	DOID_2326
+1	530	533 LGG	Chemical	CHEBI_74538
+1	DOID-CHEBI	DOID_13250	CHEBI_74538
+1	DOID-CHEBI	DOID_13250	CHEBI_50906
+1	CHEBI-DOID	CHEBI_74538	DOID_2326
+1	CHEBI-DOID	CHEBI_50906	DOID_2326
+
+2|chunk|We used LGG feeding to combat viral gastroenteritis in the gnotobiotic pig model of virulent HRV infection.
+2	8	11 LGG	Chemical	CHEBI_74538
+2	36	51 gastroenteritis	Disease	DOID_2326
+2	CHEBI-DOID	CHEBI_74538	DOID_2326
+
+3|chunk|Results: We found that LGG feeding did not increase autophagy, whereas virus infection induced autophagy in the piglet intestine. Virus infection increased the protein levels of the autophagy markers ATG16L1 and Beclin-1 and the autophagy regulator mTOR. LGG treatment during viral gastroenteritis reduced autophagy marker expression to normal levels, induced apoptosis and partially prevented virus-induced tissue damage.
+3	23	26 LGG	Chemical	CHEBI_74538
+3	71	86 virus infection	Disease	DOID_934
+3	130	145 Virus infection	Disease	DOID_934
+3	160	167 protein	Chemical	CHEBI_16541
+3	255	258 LGG	Chemical	CHEBI_74538
+3	282	297 gastroenteritis	Disease	DOID_2326
+3	CHEBI-DOID	CHEBI_74538	DOID_934
+3	CHEBI-DOID	CHEBI_74538	DOID_2326
+3	DOID-CHEBI	DOID_934	CHEBI_16541
+3	CHEBI-DOID	CHEBI_16541	DOID_2326
+
+4|chunk|Our study provides new insights into virus-induced autophagy and LGG suppression of uncontrolled autophagy and intestinal injury. A better understanding of the antiviral activity of LGG will lead to novel therapeutic strategies for infant infectious diseases.
+4	65	68 LGG	Chemical	CHEBI_74538
+4	160	169 antiviral	Chemical	CHEBI_22587
+4	182	185 LGG	Chemical	CHEBI_74538
+

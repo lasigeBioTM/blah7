@@ -1,0 +1,40 @@
+0|chunk|The hookworm Ancylostoma ceylanicum intestinal transcriptome provides a platform for selecting drug and vaccine candidates
+0	95	99 drug	Chemical	CHEBI_23888
+
+1|chunk|Background: The intestine of hookworms contains enzymes and proteins involved in the blood-feeding process of the parasite and is therefore a promising source of possible vaccine antigens. One such antigen, the hemoglobin-digesting intestinal aspartic protease known as Na-APR-1 from the human hookworm Necator americanus, is currently a lead candidate antigen in clinical trials, as is Na-GST-1 a heme-detoxifying glutathione S-transferase.
+1	60	68 proteins	Chemical	CHEBI_36080
+1	179	187 antigens	Chemical	CHEBI_59132
+1	198	205 antigen	Chemical	CHEBI_59132
+1	353	360 antigen	Chemical	CHEBI_59132
+1	415	426 glutathione	Chemical	CHEBI_16856
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_59132
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16856
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_16856
+
+2|chunk|Methods: In order to discover additional hookworm vaccine antigens, messenger RNA was obtained from the intestine of male hookworms, Ancylostoma ceylanicum, maintained in hamsters. RNA-seq was performed using Illumina high-throughput sequencing technology. The genes expressed in the hookworm intestine were compared with those expressed in the whole worm and those genes overexpressed in the parasite intestine transcriptome were further analyzed.
+2	68	81 messenger RNA	Chemical	CHEBI_33699
+2	78	81 RNA	Chemical	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_33699	CHEBI_33697
+
+3|chunk|Results: Among the lead transcripts identified were genes encoding for proteolytic enzymes including an A. ceylanicum APR-1, but the most common proteases were cysteine-, serine-, and metallo-proteases. Also in abundance were specific transporters of key breakdown metabolites, including amino acids, glucose, lipids, ions and water; detoxifying and heme-binding glutathione S-transferases; a family of cysteine-rich/antigen 5/pathogenesis-related 1 proteins (CAP) previously found in high abundance in parasitic nematodes; C-type lectins; and heat shock proteins. These candidates will be ranked for downstream antigen target selection based on key criteria including abundance, uniqueness in the parasite versus the vertebrate host, as well as solubility and yield of expression.
+3	288	293 amino	Chemical	CHEBI_46882
+3	318	322 ions	Chemical	CHEBI_24870
+3	363	374 glutathione	Chemical	CHEBI_16856
+3	417	424 antigen	Chemical	CHEBI_59132
+3	450	458 proteins	Chemical	CHEBI_36080
+3	555	563 proteins	Chemical	CHEBI_36080
+3	612	619 antigen	Chemical	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_24870
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_16856
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_24870	CHEBI_16856
+3	CHEBI-CHEBI	CHEBI_24870	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_24870	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_16856	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_16856	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_36080
+
+4|chunk|The intestinal transcriptome of A. ceylanicum provides useful information for the identification of proteins involved in the blood-feeding process, representing a first step towards a reverse vaccinology approach to a human hookworm vaccine.
+4	100	108 proteins	Chemical	CHEBI_36080
+

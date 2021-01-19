@@ -1,0 +1,34 @@
+0|chunk|molecules Design and Synthesis of Novel Anti-Proliferative Emodin Derivatives and Studies on their Cell Cycle Arrest, Apoptosis Pathway and Migration
+0	21	30 Synthesis	Gene_function	GO_0009058
+0	99	109 Cell Cycle	Gene_function	GO_0007049
+0	99	116 Cell Cycle Arrest	Gene_function	GO_0007050
+
+1|chunk|Emodin is a cell arrest and apoptosis-inducing compound that is widely distributed in different plants (rhubarb, aloe), lichens and terrestrial fungi, and also isolated from marine-derived fungi and marine sponge-associated fungi. In this study, we designed and synthesized a novel series of emodin derivatives by binding emodin to an amino acid using linkers of varying lengths and composition, and evaluated their anti-proliferative activities using HepG2 cells (human hepatic carcinoma), MCF-7 cells (human breast cancer) and human normal liver L02 cells. Most of these derivatives showed moderate to potent anti-proliferative activities. Notably, compound 7a exhibited potent anti-proliferative activity against HepG2 cells with the half maximal inhibitory concentration (IC 50 ) value of 4.95 M, which was enhanced 8.8-fold compared to the parent compound emodin (IC 50 = 43.87 M), and it also exhibited better selective anti-proliferative activity and specificity than emodin. Moreover, further experiments demonstrated that compound 7a displayed a significant efficacy of inducing apoptosis through mitochondrial pathway via release of cytochrome c from mitochondria and subsequent activation of caspase-9 and caspase-3, inducing cell arrest at G0/G1 phase, as well as suppression of cell migration of tumor cells. The preliminary results suggested that compound 7a could be a promising lead compound for the discovery of novel anti-tumor drugs and has the potential for further investigations as an anti-cancer drug.
+1	314	321 binding	Gene_function	GO_0005488
+1	510	523 breast cancer	Phenotype	HP_0003002
+1	517	523 cancer	Phenotype	HP_0002664
+1	592	600 moderate	Phenotype	HP_0012826
+1	1108	1121 mitochondrial	Phenotype	HP_0001427
+1	1163	1175 mitochondria	Gene_function	GO_0005739
+1	1293	1307 cell migration	Gene_function	GO_0016477
+1	1311	1316 tumor	Phenotype	HP_0002664
+1	GO-HP	GO_0005488	HP_0003002
+1	GO-HP	GO_0005488	HP_0002664
+1	GO-HP	GO_0005488	HP_0012826
+1	GO-HP	GO_0005488	HP_0001427
+1	HP-GO	HP_0003002	GO_0005739
+1	HP-GO	HP_0003002	GO_0016477
+1	HP-GO	HP_0002664	GO_0005739
+1	HP-GO	HP_0002664	GO_0016477
+1	HP-GO	HP_0012826	GO_0005739
+1	HP-GO	HP_0012826	GO_0016477
+1	HP-GO	HP_0001427	GO_0005739
+1	HP-GO	HP_0001427	GO_0016477
+
+2|chunk|Molecules 2019, 24, 884 2 of 23 activity is the most widely reported. In recent decades, pharmacological studies have shown that emodin is capable of inhibiting cellular proliferation [20] , inducing of cell differentiation [21] and apoptosis [22] , and activating of caspase cascade pathway [23, 24] and mitochondrial death pathway [25, 26] in different cancer cells.
+2	203	223 cell differentiation	Gene_function	GO_0030154
+2	305	318 mitochondrial	Phenotype	HP_0001427
+2	355	361 cancer	Phenotype	HP_0002664
+2	GO-HP	GO_0030154	HP_0001427
+2	GO-HP	GO_0030154	HP_0002664
+

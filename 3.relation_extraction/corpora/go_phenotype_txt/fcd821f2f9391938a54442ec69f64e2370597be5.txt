@@ -1,0 +1,26 @@
+0|chunk|Rotavirus VP3 targets MAVS for degradation to inhibit type III interferon expression in intestinal epithelial cells
+0	31	42 degradation	Gene_function	GO_0009056
+
+1|chunk|Rotaviruses (RVs), a leading cause of severe diarrhea in young children and many mammalian species, have evolved multiple strategies to counteract the host innate immunity, specifically interferon (IFN) signaling through RV non-structural protein 1 (NSP1). However, whether RV structural components also subvert antiviral response remains under-studied. Here, we found that MAVS, critical for the host RNA sensing pathway upstream of IFN induction, is degraded by the RV RNA methyl-and guanylyl-transferase (VP3) in a host-range-restricted manner. Mechanistically, VP3 localizes to the mitochondria and mediates the phosphorylation of a previously unidentified SPLTSS motif within the MAVS proline-rich region, leading to its proteasomal degradation and blockade of IFN-l production in RV-infected intestinal epithelial cells. Importantly, VP3 inhibition of MAVS activity contributes to enhanced RV replication and to viral pathogenesis in vivo. Collectively, our findings establish RV VP3 as a viral antagonist of MAVS function in mammals and uncover a novel pathogen-mediated inhibitory mechanism of MAVS signaling.
+1	38	44 severe	Phenotype	HP_0012828
+1	45	53 diarrhea	Phenotype	HP_0002014
+1	203	212 signaling	Gene_function	GO_0023052
+1	312	330 antiviral response	Gene_function	GO_0051607
+1	586	598 mitochondria	Gene_function	GO_0005739
+1	616	631 phosphorylation	Gene_function	GO_0016310
+1	738	749 degradation	Gene_function	GO_0009056
+1	924	936 pathogenesis	Gene_function	GO_0009405
+1	1107	1116 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0051607
+1	HP-GO	HP_0012828	GO_0005739
+1	HP-GO	HP_0012828	GO_0016310
+1	HP-GO	HP_0012828	GO_0009056
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0002014	GO_0023052
+1	HP-GO	HP_0002014	GO_0051607
+1	HP-GO	HP_0002014	GO_0005739
+1	HP-GO	HP_0002014	GO_0016310
+1	HP-GO	HP_0002014	GO_0009056
+1	HP-GO	HP_0002014	GO_0009405
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43">
+  <chunk id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0" text="Hepatitis C virus modelled as an indirectly transmitted infection highlights the centrality of injection drug equipment in disease dynamics">
+    <entity charOffset="0-9" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e0" ontology_id="DOID_2237" text="Hepatitis" type="disease"/>
+    <entity charOffset="0-11" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e1" ontology_id="DOID_1883" text="Hepatitis C" type="disease"/>
+    <entity charOffset="105-109" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="123-130" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e3" ontology_id="DOID_4" text="disease" type="disease"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e0" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e2" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.p0" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e1" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e2" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.p1" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e2" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.e3" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c0.p2" relation="true"/>
+  </chunk>
+  <chunk id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1" text="The hepatitis C virus (HCV) epidemic often occurs through the persistence of injection drug use. Mathematical models have been useful in understanding various aspects of the HCV epidemic, and especially, the importance of new treatment measures. Until now, however, few models have attempted to understand HCV in terms of an interaction between the various actors in an HCV outbreak-hosts, viruses and the needle injection equipment. In this study, we apply perspectives from the ecology of infectious diseases to model the transmission of HCV among a population of injection drug users. The products of our model suggest that modelling HCV as an indirectly transmitted infection-where the injection equipment serves as an environmental reservoir for infection-facilitates a more nuanced understanding of disease dynamics, by animating the underappreciated actors and interactions that frame disease. This lens may allow us to understand how certain public health interventions (e.g. needle exchange programmes) influence HCV epidemics. Lastly, we argue that this model is of particular importance in the light of the modern opioid epidemic, which has already been associated with outbreaks of viral diseases.">
+    <entity charOffset="4-13" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e0" ontology_id="DOID_2237" text="hepatitis" type="disease"/>
+    <entity charOffset="4-15" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e1" ontology_id="DOID_1883" text="hepatitis C" type="disease"/>
+    <entity charOffset="87-91" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e2" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="576-580" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="805-812" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e4" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="892-899" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e5" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="1105-1110" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e6" ontology_id="CHEBI_30212" text="light" type="chemical"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e0" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e2" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p0" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e0" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e3" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p1" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e0" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e6" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p2" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e1" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e2" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p3" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e1" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e3" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p4" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e1" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e6" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p5" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e2" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e4" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p6" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e2" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e5" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p7" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e3" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e4" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p8" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e3" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e5" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p9" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e4" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e6" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p10" relation="true"/>
+    <pair e1="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e5" e2="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.e6" id="ff2a6501716b8ff2b5e96ef3034f15309ce90c43.c1.p11" relation="true"/>
+  </chunk>
+</document>

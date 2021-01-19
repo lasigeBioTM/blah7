@@ -1,0 +1,15 @@
+0|chunk|Free-Form Deformation Approach for Registration of Visible and Infrared Facial Images in Fever Screening 
+0	89	94 Fever	Phenotype	HP_0001945
+
+1|chunk|Fever screening based on infrared (IR) thermographs (IRTs) is an approach that has been implemented during infectious disease pandemics, such as Ebola and Severe Acute Respiratory Syndrome. A recently published international standard indicates that regions medially adjacent to the inner canthi provide accurate estimates of core body temperature and are preferred sites for fever screening. Therefore, rapid, automated identification of the canthi regions within facial IR images may greatly facilitate rapid fever screening of asymptomatic travelers. However, it is more difficult to accurately identify the canthi regions from IR images than from visible images that are rich with exploitable features. In this study, we developed and evaluated techniques for multi-modality image registration (MMIR) of simultaneously captured visible and IR facial images for fever screening. We used free form deformation (FFD) models based on edge maps to improve registration accuracy after an affine transformation. Two widely used FFD models in medical image registration based on the Demons and cubic B-spline algorithms were qualitatively compared. The results showed that the Demons algorithm outperformed the cubic B-spline algorithm, likely due to overfitting of outliers by the latter method. The quantitative measure of registration accuracy, obtained through selected control point correspondence, was within 2.8  1.2 mm, which enables accurate and automatic localization of canthi regions in the IR images for temperature measurement.
+1	0	5 Fever	Phenotype	HP_0001945
+1	155	161 Severe	Phenotype	HP_0012828
+1	162	167 Acute	Phenotype	HP_0011009
+1	375	380 fever	Phenotype	HP_0001945
+1	510	515 fever	Phenotype	HP_0001945
+1	864	869 fever	Phenotype	HP_0001945
+1	1461	1473 localization	Gene_function	GO_0051179
+1	HP-GO	HP_0001945	GO_0051179
+1	HP-GO	HP_0012828	GO_0051179
+1	HP-GO	HP_0011009	GO_0051179
+

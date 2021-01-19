@@ -1,0 +1,36 @@
+0|chunk|IRAK-M alters the polarity of macrophages to facilitate the survival of Mycobacterium tuberculosis
+
+1|chunk|Background: Intracellular bacterium, Mycobacterium tuberculosis (M. tb), infects specifically macrophages as host cells. IRAK-M, a member of IRAK family, is a negative regulator in TLR signaling and specifically expresses in monocytes and macrophages. The role of IRAK-M in intracellular growth of M. tb and macrophage polarization was explored, for deeply understanding the pathogenesis of M. tb, the significance of IRAK-M to innate immunity and pathogen-host interaction. Methods: IRAK-M expression was detected in M. tb infected macrophages and in human lung tissue of pulmonary tuberculosis with immunofluorescence staining, Western blot and immunohistochemistry. IRAK-M knock-down and over-expressing cell strains were constructed and intracellular survival of M. tb was investigated by acid-fast staining and colony forming units. Molecular markers of M1-type (pSTAT1 and iNOS) and M2-type (pSTAT6 and Arg-1) macrophages were detected using Western blot in IRAK-M knockdown U937 cells infected with M. tb H37Rv. U937 cells were stimulated with immunostimulant CpG7909 into M1 status and then infected with M. tb H37Rv. Expression of IRAK-M, IRAK-4 and iNOS was detected with immunofluorescence staining and Western blot, to evaluate the effect of IRAK-M to CpG directed M1-type polarization of macrophages during M. tb infection. Molecules related with macrophage's bactericidal ability such as Hif-1 and phosphorylated ERK1/2 were detected with immunohistochemistry and Western blot. Results: IRAK-M increased in M. tb infected macrophage cells and also in human lung tissue of pulmonary tuberculosis. IRAK-M over-expression resulted in higher bacterial load, while IRAK-M interference resulted in lower bacterial load in M. tb infected cells. During M. tb infection, IRAK-M knockdown induced M1-type, while inhibited M2-type polarization of macrophage. M1-type polarization of U937 cells induced by CpG7909 was inhibited by M. tb infection, which was reversed by IRAK-M knockdown in U937 cells. IRAK-M affected Hif-1 and MAPK signaling cascade during M. tb infection. Conclusions: Conclusively, IRAK-M might alter the polarity of macrophages, to facilitate intracellular survival of M. tb and affect Th1-type immunity of the host, which is helpful to understanding the pathogenesis of M. tb.
+1	12	25 Intracellular	Gene_function	GO_0005622
+1	185	194 signaling	Gene_function	GO_0023052
+1	274	287 intracellular	Gene_function	GO_0005622
+1	288	294 growth	Gene_function	GO_0040007
+1	308	331 macrophage polarization	Gene_function	GO_0042116
+1	375	387 pathogenesis	Gene_function	GO_0009405
+1	428	443 innate immunity	Gene_function	GO_0045087
+1	573	595 pulmonary tuberculosis	Phenotype	HP_0032262
+1	741	754 intracellular	Gene_function	GO_0005622
+1	1586	1608 pulmonary tuberculosis	Phenotype	HP_0032262
+1	2011	2019 affected	Phenotype	HP_0032320
+1	2030	2034 MAPK	Gene_function	GO_0004707
+1	2030	2044 MAPK signaling	Gene_function	GO_0000165
+1	2035	2044 signaling	Gene_function	GO_0023052
+1	2166	2179 intracellular	Gene_function	GO_0005622
+1	2278	2290 pathogenesis	Gene_function	GO_0009405
+1	GO-HP	GO_0005622	HP_0032262
+1	GO-HP	GO_0005622	HP_0032320
+1	GO-HP	GO_0023052	HP_0032262
+1	GO-HP	GO_0023052	HP_0032320
+1	GO-HP	GO_0040007	HP_0032262
+1	GO-HP	GO_0040007	HP_0032320
+1	GO-HP	GO_0042116	HP_0032262
+1	GO-HP	GO_0042116	HP_0032320
+1	GO-HP	GO_0009405	HP_0032262
+1	GO-HP	GO_0009405	HP_0032320
+1	GO-HP	GO_0045087	HP_0032262
+1	GO-HP	GO_0045087	HP_0032320
+1	HP-GO	HP_0032262	GO_0004707
+1	HP-GO	HP_0032262	GO_0000165
+1	HP-GO	HP_0032320	GO_0004707
+1	HP-GO	HP_0032320	GO_0000165
+

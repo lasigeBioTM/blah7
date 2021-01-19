@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="ac52347e640db03cb8dfaf1f0228caf47570ddaa">
+  <chunk id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0" text="Patient-Based Transcriptome-Wide Analysis Identify Interferon and Ubiquination Pathways as Potential Predictors of Influenza A Disease Severity">
+    <entity charOffset="51-61" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e0" ontology_id="CHEBI_52999" text="Interferon" type="chemical"/>
+    <entity charOffset="115-124" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e1" ontology_id="DOID_8469" text="Influenza" type="disease"/>
+    <entity charOffset="127-134" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e2" ontology_id="DOID_4" text="Disease" type="disease"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e1" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.p0" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.e2" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c0.p1" relation="true"/>
+  </chunk>
+  <chunk id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1" text="Background: The influenza A virus is an RNA virus that is responsible for seasonal epidemics worldwide with up to five million cases of severe illness and 500,000 deaths annually according to the World Health Organization estimates. The factors associated with severe diseases are not well defined, but more severe disease is more often seen among persons aged .65 years, infants, pregnant women, and individuals of any age with underlying health conditions. Methodology/Principal Findings: Using gene expression microarrays, the transcriptomic profiles of influenza-infected patients with severe (N = 11), moderate (N = 40) and mild (N = 83) symptoms were compared with the febrile patients of unknown etiology (N = 73). We found that influenza-infected patients, regardless of their clinical outcomes, had a stronger induction of antiviral and cytokine responses and a stronger attenuation of NK and T cell responses in comparison with those with unknown etiology. More importantly, we found that both interferon and ubiquitination signaling were strongly attenuated in patients with the most severe outcomes in comparison with those with moderate and mild outcomes, suggesting the protective roles of these pathways in disease pathogenesis.">
+    <entity charOffset="16-25" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e0" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <entity charOffset="40-43" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="315-322" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e2" ontology_id="DOID_4" text="disease" type="disease"/>
+    <entity charOffset="832-841" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e3" ontology_id="CHEBI_22587" text="antiviral" type="chemical"/>
+    <entity charOffset="1004-1014" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e4" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="1222-1229" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e5" ontology_id="DOID_4" text="disease" type="disease"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e1" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p0" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e3" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p1" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e4" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p2" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e1" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e2" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p3" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e1" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e5" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p4" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e2" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e3" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p5" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e2" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e4" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p6" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e3" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e5" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p7" relation="true"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e4" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.e5" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c1.p8" relation="true"/>
+  </chunk>
+  <chunk id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2" text="Conclusion/Significances: The attenuation of interferon and ubiquitination pathways may associate with the clinical outcomes of influenza patients.">
+    <entity charOffset="45-55" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2.e0" ontology_id="CHEBI_52999" text="interferon" type="chemical"/>
+    <entity charOffset="128-137" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2.e1" ontology_id="DOID_8469" text="influenza" type="disease"/>
+    <pair e1="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2.e0" e2="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2.e1" id="ac52347e640db03cb8dfaf1f0228caf47570ddaa.c2.p0" relation="true"/>
+  </chunk>
+</document>

@@ -1,0 +1,27 @@
+0|chunk|The impact of virus infections on pneumonia mortality is complex in adults: a prospective multicentre observational study
+0	34	43 pneumonia	Phenotype	HP_0002090
+
+1|chunk|Background: Various viruses are known to be associated with pneumonia. However, the impact of viral infections on adult pneumonia mortality remains unclear. This study aimed to clarify the effect of virus infection on pneumonia mortality among adults stratified by virus type and patient comorbidities.
+1	60	69 pneumonia	Phenotype	HP_0002090
+1	120	129 pneumonia	Phenotype	HP_0002090
+1	218	227 pneumonia	Phenotype	HP_0002090
+
+2|chunk|Methods: This multicentre prospective study enrolled pneumonia patients aged 15 years from September 2011 to August 2014. Sputum samples were tested by in-house multiplex polymerase chain reaction assays to identify 13 respiratory viruses. Viral infection status and its effect on in-hospital mortality were examined by age group and comorbidity status. Results: A total of 2617 patients were enrolled in the study and 77.8% was aged 65 years. 574 (21.9%) did not have comorbidities, 790 (30.2%) had chronic respiratory disease, and 1253 (47.9%) had other comorbidities. Viruses were detected in 605 (23.1%) patients. Human rhinovirus (9.8%) was the most frequently identified virus, followed by influenza A (3.9%) and respiratory syncytial virus (3.9%). Respiratory syncytial virus was more frequently identified in patients with chronic respiratory disease (4.7%) than those with other comorbidities (4.2%) and without comorbidities (2.1%) (p = 0.037). The frequencies of other viruses were almost identical between the three groups. Virus detection overall was not associated with increased mortality (adjusted risk ratio (ARR) 0.76, 95% CI 0.53-1.09). However, influenza virus A and B were associated with three-fold higher mortality in patients with chronic respiratory disease but not with other comorbidities (ARR 3.38, 95% CI 1.54-7.42). Intriguingly, paramyxoviruses were associated with dramatically lower mortality in patients with other comorbidities (ARR 0.10, 95% CI 0.01-0.70) but not with chronic respiratory disease. These effects were not affected by age group. Conclusions: The impact of virus infections on pneumonia mortality varies by virus type and comorbidity status in adults.
+2	53	62 pneumonia	Phenotype	HP_0002090
+2	241	256 Viral infection	Gene_function	GO_0016032
+2	502	509 chronic	Phenotype	HP_0011010
+2	833	840 chronic	Phenotype	HP_0011010
+2	1128	1131 ARR	Gene_function	GO_0090644
+2	1257	1264 chronic	Phenotype	HP_0011010
+2	1319	1322 ARR	Gene_function	GO_0090644
+2	1466	1469 ARR	Gene_function	GO_0090644
+2	1507	1514 chronic	Phenotype	HP_0011010
+2	1559	1567 affected	Phenotype	HP_0032320
+2	1629	1638 pneumonia	Phenotype	HP_0002090
+2	HP-GO	HP_0002090	GO_0016032
+2	HP-GO	HP_0002090	GO_0090644
+2	GO-HP	GO_0016032	HP_0011010
+2	GO-HP	GO_0016032	HP_0032320
+2	HP-GO	HP_0011010	GO_0090644
+2	GO-HP	GO_0090644	HP_0032320
+

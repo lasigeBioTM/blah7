@@ -1,0 +1,189 @@
+{
+    "text": "The Helicobacter pylori infection (HP) is related to the development of gastric lesions and lymphoma; however, it is not known if there is a relation with gastroesophageal reflux disease and reflux esophagitis.To evaluate HP's relationship with esophagitis in patients undergoing upper endoscopy.Observational, retrospective and cross-sectional study, being evaluated 9576 patients undergoing outpatient endoscopic examination during the period between January and December 2015. Were included patients with any esophageal alteration at the examination; greater than 18; of both genders; independent of the complaint or the reason for the examination, illness or drug use. Were excluded those with active bleeding during the examination and in use of anticoagulants. The variables gender, age, esophagitis and result of the urease test, were studied. For statistical analysis was used the Epi Info software 7.1.5.2.Most of the samples consisted of women and the overall average age was 46.54\u00b116.32 years. The presence of infection was balanced for gender: 1204 (12.56%) women and 952 (13.92%) men. Relating degree of esophagitis HP- and HP+ was observed that the type A was the most common (58.79%, n=1460); 604 (24.32%) had grade B; 334 (13.45%) grade C, and 85 (3.42%) grade D. In the relation between the grade of esophagitis with gender, esophagitis A was predominant in women and present in 929 (63.33%), followed by type B, 282 (46.68%), 136 C (40.71%) and D 30 (35.29%). In men 531 (36.36%) showed type A, 322 (53.31%) B, 198 (59.28%) C, and 55 (64.70%) D. Among the groups 40-50 and over 60 years there was a significant difference in whether have or not have HP+.There is no significant difference between HP infection and the different grades of esophagitis.",
+    "denotations": [
+        {
+            "id": "HP_0005202",
+            "span": {
+                "begin": 4,
+                "end": 33
+            },
+            "obj": "Helicobacter pylori infection"
+        },
+        {
+            "id": "HP_0002020",
+            "span": {
+                "begin": 155,
+                "end": 178
+            },
+            "obj": "gastroesophageal reflux"
+        },
+        {
+            "id": "HP_0002020",
+            "span": {
+                "begin": 155,
+                "end": 186
+            },
+            "obj": "gastroesophageal reflux disease"
+        },
+        {
+            "id": "DOID_8534",
+            "span": {
+                "begin": 155,
+                "end": 178
+            },
+            "obj": "gastroesophageal reflux"
+        },
+        {
+            "id": "DOID_8534",
+            "span": {
+                "begin": 155,
+                "end": 186
+            },
+            "obj": "gastroesophageal reflux disease"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 179,
+                "end": 186
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 198,
+                "end": 209
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 198,
+                "end": 209
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 245,
+                "end": 256
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 245,
+                "end": 256
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "CHEBI_23888",
+            "span": {
+                "begin": 663,
+                "end": 667
+            },
+            "obj": "drug"
+        },
+        {
+            "id": "HP_0040285",
+            "span": {
+                "begin": 678,
+                "end": 686
+            },
+            "obj": "excluded"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 794,
+                "end": 805
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 794,
+                "end": 805
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 1117,
+                "end": 1128
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 1117,
+                "end": 1128
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 1317,
+                "end": 1328
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 1317,
+                "end": 1328
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 1342,
+                "end": 1353
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 1342,
+                "end": 1353
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "HP_0100633",
+            "span": {
+                "begin": 1756,
+                "end": 1767
+            },
+            "obj": "esophagitis"
+        },
+        {
+            "id": "DOID_11963",
+            "span": {
+                "begin": 1756,
+                "end": 1767
+            },
+            "obj": "esophagitis"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_11963",
+            "pred": "effect",
+            "obj": "CHEBI_23888"
+        }
+    ]
+}

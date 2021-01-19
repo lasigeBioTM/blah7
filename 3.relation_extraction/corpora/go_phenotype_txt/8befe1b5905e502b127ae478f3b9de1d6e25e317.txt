@@ -1,0 +1,76 @@
+0|chunk|viruses Arms Race between Enveloped Viruses and the Host ERAD Machinery
+
+1|chunk|Enveloped viruses represent a significant category of pathogens that cause serious diseases in animals. These viruses express envelope glycoproteins that are singularly important during the infection of host cells by mediating fusion between the viral envelope and host cell membranes. Despite low homology at protein levels, three classes of viral fusion proteins have, as of yet, been identified based on structural similarities. Their incorporation into viral particles is dependent upon their proper sub-cellular localization after being expressed and folded properly in the endoplasmic reticulum (ER). However, viral protein expression can cause stress in the ER, and host cells respond to alleviate the ER stress in the form of the unfolded protein response (UPR); the effects of which have been observed to potentiate or inhibit viral infection. One important arm of UPR is to elevate the capacity of the ER-associated protein degradation (ERAD) pathway, which is comprised of host quality control machinery that ensures proper protein folding. In this review, we provide relevant details regarding viral envelope glycoproteins, UPR, ERAD, and their interactions in host cells.
+1	126	134 envelope	Gene_function	GO_0031975
+1	246	260 viral envelope	Gene_function	GO_0019031
+1	252	260 envelope	Gene_function	GO_0031975
+1	265	274 host cell	Gene_function	GO_0043657
+1	517	529 localization	Gene_function	GO_0051179
+1	579	600 endoplasmic reticulum	Gene_function	GO_0005783
+1	926	945 protein degradation	Gene_function	GO_0030163
+1	934	945 degradation	Gene_function	GO_0009056
+1	1106	1120 viral envelope	Gene_function	GO_0019031
+1	1112	1120 envelope	Gene_function	GO_0031975
+
+2|chunk|synapses to provide a means by which the virus can cross the biophysical and immunological obstacles to infection [4] . The membrane penetration mechanism differs fundamentally in non-enveloped viruses, but similar strategies are used for their entry [5] . In general, enveloped animal viruses possess greater adaptability than non-enveloped animal viruses, and consequently, cause a number of severe diseases, such as acquired immunodeficiency syndrome (AIDS), influenza, severe acute respiratory syndrome (SARS), hemorrhagic fever, hepatitis, encephalitis, and microcephaly.
+2	124	132 membrane	Gene_function	GO_0016020
+2	394	400 severe	Phenotype	HP_0012828
+2	428	444 immunodeficiency	Phenotype	HP_0002721
+2	473	479 severe	Phenotype	HP_0012828
+2	480	485 acute	Phenotype	HP_0011009
+2	GO-HP	GO_0016020	HP_0012828
+2	GO-HP	GO_0016020	HP_0002721
+2	GO-HP	GO_0016020	HP_0011009
+
+3|chunk|The fusion between viral envelope and cell membranes is absolutely critical for the entry of enveloped viruses, which is usually triggered by the insertion of a viral envelope glycoprotein's (Env) fusion peptide into the host membrane. The vast majority of viral fusion proteins are type I transmembrane proteins, which have a single transmembrane domain (TMD), with their N-terminus outside cells and C-terminus inside cells. Most viral envelope proteins have been modeled as existing in a less stable pre-fusion state or a stable post-fusion state. Many of these proteins also oligomerize into trimeric fusogenic complexes in their post-fusion states, forming trimeric hairpin structures on the viral envelope.
+3	19	33 viral envelope	Gene_function	GO_0019031
+3	25	33 envelope	Gene_function	GO_0031975
+3	161	175 viral envelope	Gene_function	GO_0019031
+3	167	175 envelope	Gene_function	GO_0031975
+3	290	303 transmembrane	Gene_function	GO_0016021
+3	334	347 transmembrane	Gene_function	GO_0016021
+3	432	446 viral envelope	Gene_function	GO_0019031
+3	438	446 envelope	Gene_function	GO_0031975
+3	496	502 stable	Phenotype	HP_0031915
+3	525	531 stable	Phenotype	HP_0031915
+3	697	711 viral envelope	Gene_function	GO_0019031
+3	703	711 envelope	Gene_function	GO_0031975
+3	GO-HP	GO_0019031	HP_0031915
+3	GO-HP	GO_0031975	HP_0031915
+3	GO-HP	GO_0016021	HP_0031915
+
+4|chunk|Based on their structural and mechanistic properties, viral fusion proteins have been classified into three distinct classes [6] . Class I fusion proteins are found in influenza viruses, paramyxoviruses, retroviruses, and filoviruses. These envelope proteins are first expressed as a polypeptide precursor and then cleaved by cellular proteases, yielding a transmembrane protein with an amino-terminal fusion peptide and a surface protein, which are attached either non-covalently or by a disulfide-bond. The core of the class I protein fusogenic domain is predominantly composed of -helices, which contain an N-terminally located fusion peptide. These proteins trimerize and form a central coiled-coil structure with a three--helix bundle in the pre-fusion state, which refolds into a six--helix bundle in the post-fusion state.
+4	241	249 envelope	Gene_function	GO_0031975
+4	357	370 transmembrane	Gene_function	GO_0016021
+4	684	691 central	Phenotype	HP_0030645
+4	GO-HP	GO_0031975	HP_0030645
+4	GO-HP	GO_0016021	HP_0030645
+
+5|chunk|Class II fusion proteins are found in flaviviruses, hepaciviruses, alphaviruses, togaviruses, and Rift Valley fever viruses. They depend on a viral chaperone for folding, which is produced from the same polypeptide precursor where they are arrayed in tandem. When the chaperone is cleaved off, the fusion protein gains the fusogenic activity. These fusion proteins are mostly made of -sheets and exist as homo-or hetero-dimers with the fusion peptides buried in internal loops in the pre-fusion state. In the post-fusion state, these proteins undergo self-rearrangement into stable trimeric hairpins, exposing the fusion peptide and resulting in viral and host membrane fusion.
+5	103	115 Valley fever	Phenotype	HP_0032249
+5	110	115 fever	Phenotype	HP_0001945
+5	576	582 stable	Phenotype	HP_0031915
+5	662	670 membrane	Gene_function	GO_0016020
+5	HP-GO	HP_0032249	GO_0016020
+5	HP-GO	HP_0001945	GO_0016020
+5	HP-GO	HP_0031915	GO_0016020
+
+6|chunk|Class III fusion proteins are found in rhabdoviruses, herpesviruses, and baculoviruses. These proteins are directly translated as a single protein from viral mRNA without protease cleavage, and trimerize in both pre-and post-fusion states. Notably, they combine structural signatures found in both classes I and II, which include a central trimeric coiled coil, three domains predominantly made of -sheets, and internal fusion peptides in the pre-fusion state. However, unlike in class I and II fusion proteins, the pre-fusion and post-fusion states are reversible in class III fusion proteins.
+6	332	339 central	Phenotype	HP_0030645
+
+7|chunk|In addition to these structural features, viral fusion proteins are subject to N-glycosylation at varying degrees. Although some viral envelope proteins such as the dengue virus (DENV) E protein are glycosylated at relatively low levels [7] , most of the other important human viruses are subject to heavy glycosylation. For example, human immunodeficiency virus type 1 (HIV-1) Env precursor gp160 has~34 potential N-linked glycosylation sites (PNGSs):~30 in gp120 and~4 in gp41 [8]; influenza hemagglutinin (HA) molecules have 5 to 11 PNGSs depending on subtypes, with the majority of sites residing in the globular head of the molecule [9]; hepatitis C virus (HCV) E1 has 4 PNGSs and E2 has 9 PNGSs [10]; and Ebola virus envelope glycoprotein (GP) has 17 PNGSs (15 in GP1 and 2 in GP2) [11] . HIV-1 Env and HCV E1 and E2 are so heavily glycosylated that~50% of their respective molar masses are derived from N-linked glycans. Most of the critical sites in these viral glycoproteins are conserved during viral evolution, suggesting the important function of glycosylation in viral infections.
+7	129	143 viral envelope	Gene_function	GO_0019031
+7	135	143 envelope	Gene_function	GO_0031975
+7	306	319 glycosylation	Gene_function	GO_0070085
+7	340	356 immunodeficiency	Phenotype	HP_0002721
+7	424	437 glycosylation	Gene_function	GO_0070085
+7	643	652 hepatitis	Phenotype	HP_0012115
+7	723	731 envelope	Gene_function	GO_0031975
+7	1059	1072 glycosylation	Gene_function	GO_0070085
+7	GO-HP	GO_0019031	HP_0002721
+7	GO-HP	GO_0019031	HP_0012115
+7	GO-HP	GO_0031975	HP_0002721
+7	GO-HP	GO_0031975	HP_0012115
+7	GO-HP	GO_0070085	HP_0002721
+7	GO-HP	GO_0070085	HP_0012115
+

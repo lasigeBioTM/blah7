@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<document id="e741dab28c2359000a1069189b3879c97f2f83ad">
+  <chunk id="e741dab28c2359000a1069189b3879c97f2f83ad.c0" text="viruses Alphavirus Nucleocapsid Packaging and Assembly"/>
+  <chunk id="e741dab28c2359000a1069189b3879c97f2f83ad.c1" text="Alphavirus nucleocapsids are assembled in the cytoplasm of infected cells from 240 copies of the capsid protein and the approximately 11 kb positive strand genomic RNA. However, the challenge of how the capsid specifically selects its RNA package and assembles around it has remained an elusive one to solve. In this review, we will summarize what is known about the alphavirus capsid protein, the packaging signal, and their roles in the mechanism of packaging and assembly. We will review the discovery of the packaging signal and how there is as much evidence for, as well as against, its requirement to specify packaging of the genomic RNA. Finally, we will compare this model with those of other viral systems including particular reference to a relatively new idea of RNA packaging based on the presence of multiple minimal packaging signals throughout the genome known as the two stage mechanism. This review will provide a basis for further investigating the fundamental ways of how RNA viruses are able to select their own cargo from the relative chaos that is the cytoplasm. Viruses 2018, 10, 138 2 of 15">
+    <entity charOffset="104-111" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="164-167" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="235-238" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="385-392" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="640-643" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="774-777" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="991-994" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e1" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p0" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e2" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p1" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e4" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p2" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p3" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p4" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p5" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p6" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e4" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p7" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p8" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c1.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c1.p9" relation="true"/>
+  </chunk>
+  <chunk id="e741dab28c2359000a1069189b3879c97f2f83ad.c2" text="with the C-terminus of E2 (cdE2), is the nucleocapsid core (NC), made up of 240 copies of the capsid protein (CP) and the genomic RNA [25, 26] . Pentameric and hexameric arrangements of CPs make up the NC and are referred to as capsomers within the T = 4 NC structure [10] . It is unclear whether the 11 kb single stranded RNA genome assumes a single specific structure within the NC (see Figure 1 ). The first stage of NC assembly is the association between the CP and the RNA genome. This also defines the process of packaging since no empty cores have been identified during the alphavirus infection, which suggests that RNA plays an active role in the assembly process. RNA appears to be required for the process since in vitro assembly of NC, although promiscuous, does not continue without some form of nucleic acid [27] . It is therefore difficult to make a clear distinction between packaging and assembly since interaction with an RNA molecule serves to make the particle itself. In addition, it has been shown in multiple studies that many different packaging substrates can serve to create a NC particle. Furthermore, it has been difficult to derive an assembly model since very few NC intermediates have been reported. This review will focus on packaging and assembly of the NC and make little mention of how the core derives, its lipid envelope and glycoproteins as this topic will be covered by Margaret Kielian and co-workers in a related review.">
+    <entity charOffset="101-108" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="130-133" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="323-326" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="474-477" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="624-627" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="644-648" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="674-677" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="809-821" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" ontology_id="CHEBI_33696" text="nucleic acid" type="chemical"/>
+    <entity charOffset="817-821" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="940-943" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="944-952" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="1343-1348" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" ontology_id="CHEBI_18059" text="lipid" type="chemical"/>
+    <entity charOffset="1362-1375" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" ontology_id="CHEBI_17089" text="glycoproteins" type="chemical"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p0" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p1" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p2" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p3" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p4" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p5" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p6" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p7" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p8" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p9" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p10" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p11" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p12" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p13" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p14" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p15" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p16" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p17" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p18" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p19" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p20" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p21" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p22" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p23" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p24" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p25" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p26" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p27" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p28" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p29" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p30" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p31" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p32" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p33" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p34" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p35" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p36" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p37" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p38" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p39" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p40" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p41" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p42" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p43" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p44" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p45" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p46" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p47" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p48" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p49" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p50" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p51" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p52" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p53" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p54" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p55" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p56" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p57" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p58" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p59" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p60" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e10" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p61" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e11" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c2.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c2.p62" relation="true"/>
+  </chunk>
+  <chunk id="e741dab28c2359000a1069189b3879c97f2f83ad.c3" text="Viruses 2018, 10, x 2 of 15 incorporated onto the virion surface [22] [23] [24] . Underneath the glycoprotein envelope and in contact with the C-terminus of E2 (cdE2), is the nucleocapsid core (NC), made up of 240 copies of the capsid protein (CP) and the genomic RNA [25, 26] . Pentameric and hexameric arrangements of CPs make up the NC and are referred to as capsomers within the T = 4 NC structure [10] . It is unclear whether the 11 kb single stranded RNA genome assumes a single specific structure within the NC (see Figure 1 ). The first stage of NC assembly is the association between the CP and the RNA genome. This also defines the process of packaging since no empty cores have been identified during the alphavirus infection, which suggests that RNA plays an active role in the assembly process. RNA appears to be required for the process since in vitro assembly of NC, although promiscuous, does not continue without some form of nucleic acid [27] . It is therefore difficult to make a clear distinction between packaging and assembly since interaction with an RNA molecule serves to make the particle itself. In addition, it has been shown in multiple studies that many different packaging substrates can serve to create a NC particle. Furthermore, it has been difficult to derive an assembly model since very few NC intermediates have been reported. This review will focus on packaging and assembly of the NC and make little mention of how the core derives, its lipid envelope and glycoproteins as this topic will be covered by Margaret Kielian and co-workers in a related review.">
+    <entity charOffset="97-109" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" ontology_id="CHEBI_17089" text="glycoprotein" type="chemical"/>
+    <entity charOffset="235-242" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="264-267" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="457-460" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="608-611" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="758-761" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="778-782" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="808-811" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="943-955" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" ontology_id="CHEBI_33696" text="nucleic acid" type="chemical"/>
+    <entity charOffset="951-955" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="1074-1077" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="1078-1086" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" ontology_id="CHEBI_25367" text="molecule" type="chemical"/>
+    <entity charOffset="1477-1482" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" ontology_id="CHEBI_18059" text="lipid" type="chemical"/>
+    <entity charOffset="1496-1509" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" ontology_id="CHEBI_17089" text="glycoproteins" type="chemical"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p0" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p1" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p2" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p3" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p4" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p5" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p6" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p7" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p8" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p9" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p10" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p11" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e0" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p12" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p13" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p14" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p15" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p16" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p17" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p18" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p19" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p20" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p21" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p22" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p23" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e1" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p24" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p25" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p26" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p27" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p28" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p29" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e2" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p30" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p31" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p32" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p33" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p34" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p35" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e3" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p36" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p37" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p38" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p39" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p40" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p41" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e4" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p42" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p43" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p44" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p45" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p46" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p47" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e5" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p48" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p49" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p50" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p51" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p52" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p53" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p54" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e6" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p55" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p56" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p57" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p58" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p59" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e7" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p60" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p61" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p62" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p63" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p64" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e8" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p65" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p66" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p67" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p68" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e9" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p69" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p70" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p71" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e10" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p72" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p73" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e11" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p74" relation="true"/>
+    <pair e1="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e12" e2="e741dab28c2359000a1069189b3879c97f2f83ad.c3.e13" id="e741dab28c2359000a1069189b3879c97f2f83ad.c3.p75" relation="true"/>
+  </chunk>
+</document>

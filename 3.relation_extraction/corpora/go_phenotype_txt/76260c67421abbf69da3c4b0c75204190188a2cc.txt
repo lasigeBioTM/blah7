@@ -1,0 +1,37 @@
+0|chunk|Nucleocapsid Interacts with NPM1 and Protects it from Proteolytic Cleavage, Enhancing Cell Survival, and is Involved in PEDV Growth OPEN
+0	0	12 Nucleocapsid	Gene_function	GO_0019013
+0	125	131 Growth	Gene_function	GO_0040007
+
+1|chunk|(N) protein localizes specifically to the nucleolus. The mechanism of nuclear translocation, and whether N protein associates with particular nucleolar components, is unknown. In this study, we confirm that a nucleolar phosphoprotein nucleophosmin (NPM1) interacts and co-localizes with the N protein in the nucleolus. In vitro binding studies indicated that aa 148-294 of N and aa 118-188 of NPM1 were required for binding. Interestingly, N protein importation into the nucleolus is independent of the ability of NPM1 to shuttle between the nucleus and the cytoplasm. Furthermore, overexpression of NPM1 promoted PEDV growth, while knockdown of NPM1 suppressed PEDV growth. In addition, binding of N protein to NPM1 protects it from proteolytic degradation by caspase-3, leading to increased cell survival. Taken together, our studies demonstrate a specific interaction of the N protein with the host cell protein NPM1 in the nucleolus. The results suggest potential linkages among viral strategies for the regulation of cell survival activities, possibly through an interaction of N protein with NPM1 which prevents its proteolytic cleavage and enhances cell survival, thus ultimately promoting the replication of PEDV.
+1	42	51 nucleolus	Gene_function	GO_0005730
+1	308	317 nucleolus	Gene_function	GO_0005730
+1	328	335 binding	Gene_function	GO_0005488
+1	416	423 binding	Gene_function	GO_0005488
+1	471	480 nucleolus	Gene_function	GO_0005730
+1	542	549 nucleus	Gene_function	GO_0005634
+1	688	695 binding	Gene_function	GO_0005488
+1	746	757 degradation	Gene_function	GO_0009056
+1	897	906 host cell	Gene_function	GO_0043657
+1	927	936 nucleolus	Gene_function	GO_0005730
+
+2|chunk|Porcine epidemic diarrhea (PED) is an acute, highly contagious, and devastating viral enteric disease with a high mortality rate in sucking pigs. PED was first reported as a clinical entity in England in 1971 and was shown to be distinct from porcine transmissible gastroenteritis (TGE) in 1977 1 . Since then, outbreaks of PED have been reported in many European countries. Currently, PED occurs mainly in Asia, and these outbreaks are more acute and severe than those observed in Europe 2 . In 2010, a large-scale outbreak of PED occurred on swine farms in China and afterwards, in May 2013, this PED virus (PEDV) emerged and spread rapidly in the United States, posing significant economic and public health concerns 3 . The causal agent, PEDV, is a member of the Coronavirinae, which are single-stranded, positive-sense RNA viruses with the largest genome known. They infect humans, other mammals, and birds, usually causing subclinical or respiratory and gastrointestinal diseases. The PEDV genome is composed of a 5 untranslated region (UTR), at least seven open reading frames (ORF1a, ORF1b, and ORF2 through 6), and a 3 UTR 4 . ORF1a and ORF1b are located downstream of the 5 UTR and encode the viral replicase polyproteins 1a and 1b. The remaining ORFs in the 3 terminal region code for four major structural proteins, the spike (S, 180-220 kDa), envelope (E, 7 kDa), membrane (M, 27-32 kDa), and nucleocapsid (N, 55-58 kDa) proteins, respectively, and ORF3 encodes an accessory protein that is thought to be associated with virulence 5 .
+2	17	25 diarrhea	Phenotype	HP_0002014
+2	38	43 acute	Phenotype	HP_0011009
+2	442	447 acute	Phenotype	HP_0011009
+2	452	458 severe	Phenotype	HP_0012828
+2	1360	1368 envelope	Gene_function	GO_0031975
+2	1381	1389 membrane	Gene_function	GO_0016020
+2	1410	1422 nucleocapsid	Gene_function	GO_0019013
+2	HP-GO	HP_0002014	GO_0031975
+2	HP-GO	HP_0002014	GO_0016020
+2	HP-GO	HP_0002014	GO_0019013
+2	HP-GO	HP_0011009	GO_0031975
+2	HP-GO	HP_0011009	GO_0016020
+2	HP-GO	HP_0011009	GO_0019013
+2	HP-GO	HP_0012828	GO_0031975
+2	HP-GO	HP_0012828	GO_0016020
+2	HP-GO	HP_0012828	GO_0019013
+
+3|chunk|Although there has been much progress in understanding how PEDV causes disease, there remains a paucity of information on the ways in which these pathogens interact with host cells during virus replication and spread. Specifically, we know comparatively little about how individual PEDV proteins interact with host cell factors and
+3	310	319 host cell	Gene_function	GO_0043657
+

@@ -1,0 +1,36 @@
+0|chunk|The PDZ-Binding Motif of Severe Acute Respiratory Syndrome Coronavirus Envelope Protein Is a Determinant of Viral Pathogenesis
+0	25	31 Severe	Phenotype	HP_0012828
+0	32	37 Acute	Phenotype	HP_0011009
+0	71	79 Envelope	Gene_function	GO_0031975
+0	114	126 Pathogenesis	Gene_function	GO_0009405
+0	HP-GO	HP_0012828	GO_0031975
+0	HP-GO	HP_0012828	GO_0009405
+0	HP-GO	HP_0011009	GO_0031975
+0	HP-GO	HP_0011009	GO_0009405
+
+1|chunk|A recombinant severe acute respiratory syndrome coronavirus (SARS-CoV) lacking the envelope (E) protein is attenuated in vivo. Here we report that E protein PDZ-binding motif (PBM), a domain involved in protein-protein interactions, is a major determinant of virulence. Elimination of SARS-CoV E protein PBM by using reverse genetics caused a reduction in the deleterious exacerbation of the immune response triggered during infection with the parental virus and virus attenuation. Cellular protein syntenin was identified to bind the E protein PBM during SARS-CoV infection by using three complementary strategies, yeast two-hybrid, reciprocal coimmunoprecipitation and confocal microscopy assays. Syntenin redistributed from the nucleus to the cell cytoplasm during infection with viruses containing the E protein PBM, activating p38 MAPK and leading to the overexpression of inflammatory cytokines. Silencing of syntenin using siRNAs led to a decrease in p38 MAPK activation in SARS-CoV infected cells, further reinforcing their functional relationship. Active p38 MAPK was reduced in lungs of mice infected with SARS-CoVs lacking E protein PBM as compared with the parental virus, leading to a decreased expression of inflammatory cytokines and to virus attenuation. Interestingly, administration of a p38 MAPK inhibitor led to an increase in mice survival after infection with SARS-CoV, confirming the relevance of this pathway in SARS-CoV virulence. Therefore, the E protein PBM is a virulence domain that activates immunopathology most likely by using syntenin as a mediator of p38 MAPK induced inflammation.
+1	14	20 severe	Phenotype	HP_0012828
+1	21	26 acute	Phenotype	HP_0011009
+1	83	91 envelope	Gene_function	GO_0031975
+1	392	407 immune response	Gene_function	GO_0006955
+1	731	738 nucleus	Gene_function	GO_0005634
+1	751	760 cytoplasm	Gene_function	GO_0005737
+1	836	840 MAPK	Gene_function	GO_0004707
+1	962	966 MAPK	Gene_function	GO_0004707
+1	962	977 MAPK activation	Gene_function	GO_0000187
+1	1068	1072 MAPK	Gene_function	GO_0004707
+1	1310	1314 MAPK	Gene_function	GO_0004707
+1	1589	1593 MAPK	Gene_function	GO_0004707
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0005634
+1	HP-GO	HP_0012828	GO_0005737
+1	HP-GO	HP_0012828	GO_0004707
+1	HP-GO	HP_0012828	GO_0000187
+1	HP-GO	HP_0011009	GO_0031975
+1	HP-GO	HP_0011009	GO_0006955
+1	HP-GO	HP_0011009	GO_0005634
+1	HP-GO	HP_0011009	GO_0005737
+1	HP-GO	HP_0011009	GO_0004707
+1	HP-GO	HP_0011009	GO_0000187
+

@@ -1,0 +1,108 @@
+0|chunk|cells Deubiquitinating Enzymes Related to Autophagy: New Therapeutic Opportunities?
+
+1|chunk|Autophagy is an evolutionary conserved catabolic process that allows for the degradation of intracellular components by lysosomes. This process can be triggered by nutrient deprivation, microbial infections or other challenges to promote cell survival under these stressed conditions. However, basal levels of autophagy are also crucial for the maintenance of proper cellular homeostasis by ensuring the selective removal of protein aggregates and dysfunctional organelles. A tight regulation of this process is essential for cellular survival and organismal health. Indeed, deregulation of autophagy is associated with a broad range of pathologies such as neuronal degeneration, inflammatory diseases, and cancer progression. Ubiquitination and deubiquitination of autophagy substrates, as well as components of the autophagic machinery, are critical regulatory mechanisms of autophagy. Here, we review the main evidence implicating deubiquitinating enzymes (DUBs) in the regulation of autophagy. We also discuss how they may constitute new therapeutic opportunities in the treatment of pathologies such as cancers, neurodegenerative diseases or infections.
+1	0	9 Autophagy	Gene_function	GO_0006914
+1	39	56 catabolic process	Gene_function	GO_0009056
+1	77	88 degradation	Gene_function	GO_0009056
+1	92	105 intracellular	Gene_function	GO_0005622
+1	310	319 autophagy	Gene_function	GO_0006914
+1	367	387 cellular homeostasis	Gene_function	GO_0019725
+1	376	387 homeostasis	Gene_function	GO_0042592
+1	591	600 autophagy	Gene_function	GO_0006914
+1	707	713 cancer	Phenotype	HP_0002664
+1	746	762 deubiquitination	Gene_function	GO_0016579
+1	766	775 autophagy	Gene_function	GO_0006914
+1	877	886 autophagy	Gene_function	GO_0006914
+1	987	996 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0002664
+1	GO-HP	GO_0009056	HP_0002664
+1	GO-HP	GO_0005622	HP_0002664
+1	GO-HP	GO_0019725	HP_0002664
+1	GO-HP	GO_0042592	HP_0002664
+1	HP-GO	HP_0002664	GO_0016579
+
+2|chunk|Cells 2018, 7, 112 2 of 24 conformation or the activity of the targeted protein or direct proteins for degradation by either the proteasome or the autophagy process [16, 17] . Ubiquitin linkage is involved in most, if not all, cellular processes and signaling pathways. As for autophagy, defects in ubiquitination and deregulation of DUBs are associated with human disorders [18] [19] [20] .
+2	103	114 degradation	Gene_function	GO_0009056
+2	147	156 autophagy	Gene_function	GO_0006914
+2	176	185 Ubiquitin	Gene_function	GO_0031386
+2	250	259 signaling	Gene_function	GO_0023052
+2	277	286 autophagy	Gene_function	GO_0006914
+
+3|chunk|Here, we chose to focus on the role of DUBs related to the regulation of autophagy and cargo lysosomal degradation. We extended our review to the recent development of small-molecule inhibitors modulating DUBs' activity on autophagy, thus highlighting their potential as therapeutic targets.
+3	73	82 autophagy	Gene_function	GO_0006914
+3	87	92 cargo	Gene_function	GO_0140355
+3	223	232 autophagy	Gene_function	GO_0006914
+
+4|chunk|Autophagy and Ubiquitin System: A Brief Overview
+4	0	9 Autophagy	Gene_function	GO_0006914
+4	14	23 Ubiquitin	Gene_function	GO_0031386
+
+5|chunk|Autophagy was first described in 1966 by C. de Duve and R. Wattiaux based on observations from mammalian cells deprived of serum and amino acids [21] . The name autophagy was coined later, after electron microscopy observations that revealed the presence of double-membrane vesicles containing part of the cytoplasm. Autophagy can be induced in response to various stressors such as lack of nutrients or growth factors, hypoxia, or infection [22] . As such, autophagy was initially described as a survival mechanism in response to various stresses. However, it is now widely recognized that basal levels of autophagy also operate independently of any stress, contributing to the maintenance of cellular homeostasis by the removal of dysfunctional or unnecessary proteins and organelles (for instance, mitochondria) and ribosomes [2] .
+5	0	9 Autophagy	Gene_function	GO_0006914
+5	161	170 autophagy	Gene_function	GO_0006914
+5	317	326 Autophagy	Gene_function	GO_0006914
+5	404	410 growth	Gene_function	GO_0040007
+5	458	467 autophagy	Gene_function	GO_0006914
+5	607	616 autophagy	Gene_function	GO_0006914
+5	694	714 cellular homeostasis	Gene_function	GO_0019725
+5	703	714 homeostasis	Gene_function	GO_0042592
+5	801	813 mitochondria	Gene_function	GO_0005739
+
+6|chunk|One can distinguish three types of autophagy: macroautophagy (mostly referred to as autophagy), chaperone-mediated autophagy and microautophagy. These autophagy processes differ by the way substrates are being delivered to the lysosome for degradation. In macroautophagy, autophagy substrates are isolated from the cytoplasm through their engulfment in double-membrane vesicles called autophagosomes [23] . Autophagosomes are formed by the elongation of an isolation membrane derived from the endoplasmic reticulum [24] . The autophagosomes eventually mature and fuse with the lysosomes where hydrolases degrade the substrates (Figure 1 ). In chaperone-mediated autophagy, soluble cytosolic proteins are recruited by the chaperone HSC70/HSP8A and directly translocated into the lysosome through pores made of LAMP2A multimers. Substrate translocation into the lysosome requires a second HSC70 chaperone resident in the lysosomal lumen [25] [26] [27] . In microautophagy, cytosolic substrates are transferred to the lysosome through direct invagination of the lysosomal membrane (in yeast) or from the late endosomes (in mammals and Drosophila, referred to as endosomal-microautophagy) that eventually fuse with the lysosomes [28] [29] [30] . As for chaperone-mediated autophagy, endosomal-microautophagy requires the chaperone protein HSC70 for the selection of the substrates [28, 30, 31] .
+6	35	44 autophagy	Gene_function	GO_0006914
+6	46	60 macroautophagy	Gene_function	GO_0016236
+6	96	124 chaperone-mediated autophagy	Gene_function	GO_0061684
+6	115	124 autophagy	Gene_function	GO_0006914
+6	151	160 autophagy	Gene_function	GO_0006914
+6	227	235 lysosome	Gene_function	GO_0005764
+6	256	270 macroautophagy	Gene_function	GO_0016236
+6	272	281 autophagy	Gene_function	GO_0006914
+6	315	324 cytoplasm	Gene_function	GO_0005737
+6	457	475 isolation membrane	Gene_function	GO_0034045
+6	467	475 membrane	Gene_function	GO_0016020
+6	493	514 endoplasmic reticulum	Gene_function	GO_0005783
+6	643	671 chaperone-mediated autophagy	Gene_function	GO_0061684
+6	662	671 autophagy	Gene_function	GO_0006914
+6	778	786 lysosome	Gene_function	GO_0005764
+6	860	868 lysosome	Gene_function	GO_0005764
+6	919	934 lysosomal lumen	Gene_function	GO_0043202
+6	1015	1023 lysosome	Gene_function	GO_0005764
+6	1059	1077 lysosomal membrane	Gene_function	GO_0005765
+6	1069	1077 membrane	Gene_function	GO_0016020
+6	1249	1277 chaperone-mediated autophagy	Gene_function	GO_0061684
+6	1268	1277 autophagy	Gene_function	GO_0006914
+
+7|chunk|The major components of the autophagy machinery are the ATG (autophagy-related gene) proteins, which are required for the formation and maturation of the autophagosome (Figure 1 ). ATG proteins form specific macromolecular complexes acting at several steps of autophagosome formation and regulating different stages of the autophagy process [23] . Autophagy induction by starvation is controlled by the TOR (target of rapamycin) complex 1, which is an essential signaling pathway for the sensing of nutrient availability [32] . Lack of nutrients leads to the down-regulation of TOR activity, resulting in the activation of the ULK1/ATG1 complex. The activation of the ULK1 complex then initiates autophagy by recruiting other ATG proteins to the nascent autophagosome. Downstream ULK1 complex, the class III PtdIns3K (PI3K-III) complex, is responsible for the production of phosphatidylinositol-3-phosphate (PtdIns3P), which triggers the proper localization and membrane association of other ATG proteins [33] . Beclin1, a multivalent adaptor, is one major component of the PI3K-III complex. The expansion of the autophagosomal membrane requires two ubiquitin-like conjugation cascades: the Atg12-conjugation system and the Atg8/LC3-conjugation system. The modification of the Atg8 protein by lipidation and its anchorage in the autophagosome membrane is a hallmark of autophagy induction [34] [35] [36] . After completion and closure, the autophagosome is Cells 2018, 7, 112 3 of 24 targeted to and fuses with the lysosome, leading to the degradation of its content. Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses. If attention is focused first on phosphorylation, a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome, and modifying the activity of ULK1 and PI3K-III complexes [11, 37, 38] .
+7	28	37 autophagy	Gene_function	GO_0006914
+7	154	167 autophagosome	Gene_function	GO_0005776
+7	260	273 autophagosome	Gene_function	GO_0005776
+7	260	283 autophagosome formation	Gene_function	GO_0000045
+7	323	332 autophagy	Gene_function	GO_0006914
+7	348	357 Autophagy	Gene_function	GO_0006914
+7	462	471 signaling	Gene_function	GO_0023052
+7	462	479 signaling pathway	Gene_function	GO_0007165
+7	668	680 ULK1 complex	Gene_function	GO_1990316
+7	696	705 autophagy	Gene_function	GO_0006914
+7	754	767 autophagosome	Gene_function	GO_0005776
+7	780	792 ULK1 complex	Gene_function	GO_1990316
+7	945	957 localization	Gene_function	GO_0051179
+7	962	970 membrane	Gene_function	GO_0016020
+7	1128	1136 membrane	Gene_function	GO_0016020
+7	1165	1176 conjugation	Gene_function	GO_0000746
+7	1329	1342 autophagosome	Gene_function	GO_0005776
+7	1329	1351 autophagosome membrane	Gene_function	GO_0000421
+7	1343	1351 membrane	Gene_function	GO_0016020
+7	1369	1378 autophagy	Gene_function	GO_0006914
+7	1440	1453 autophagosome	Gene_function	GO_0005776
+7	1540	1551 degradation	Gene_function	GO_0009056
+7	1603	1612 autophagy	Gene_function	GO_0006914
+7	1850	1859 autophagy	Gene_function	GO_0006914
+7	1895	1908 autophagosome	Gene_function	GO_0005776
+
+8|chunk|Cells 2018, 7, x FOR PEER REVIEW 3 of 23 autophagosome is targeted to and fuses with the lysosome, leading to the degradation of its content. Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses. If attention is focused first on phosphorylation, a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome, and modifying the activity of ULK1 and PI3K-III complexes [11, 37, 38] .
+8	41	54 autophagosome	Gene_function	GO_0005776
+8	114	125 degradation	Gene_function	GO_0009056
+8	177	186 autophagy	Gene_function	GO_0006914
+8	424	433 autophagy	Gene_function	GO_0006914
+8	469	482 autophagosome	Gene_function	GO_0005776
+

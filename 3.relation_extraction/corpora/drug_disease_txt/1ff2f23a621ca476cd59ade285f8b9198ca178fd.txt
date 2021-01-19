@@ -1,0 +1,59 @@
+0|chunk|Arthritis suppression by NADPH activation operates through an interferon- pathway
+0	0	9 Arthritis	Disease	DOID_848
+0	25	30 NADPH	Chemical	CHEBI_16474
+0	75	82 pathway	Chemical	CHEBI_34922
+0	DOID-CHEBI	DOID_848	CHEBI_16474
+0	DOID-CHEBI	DOID_848	CHEBI_34922
+
+1|chunk|Background: A polymorphism in the activating component of the nicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex, neutrophil cytosolic factor 1 (NCF1), has previously been identified as a regulator of arthritis severity in mice and rats. This discovery resulted in a search for NADPH oxidase-activating substances as a potential new approach to treat autoimmune disorders such as rheumatoid arthritis (RA). We have recently shown that compounds inducing NCF1-dependent oxidative burst, e.g. phytol, have a strong ameliorating effect on arthritis in rats. However, the underlying molecular mechanism is still not clearly understood. The aim of this study was to use gene-expression profiling to understand the protective effect against arthritis of activation of NADPH oxidase in the immune system.
+1	62	74 nicotinamide	Chemical	CHEBI_17154
+1	62	105 nicotinamide adenine dinucleotide phosphate	Chemical	CHEBI_18009
+1	75	82 adenine	Chemical	CHEBI_16708
+1	83	95 dinucleotide	Chemical	CHEBI_47885
+1	96	105 phosphate	Chemical	CHEBI_18367
+1	107	112 NADPH	Chemical	CHEBI_16474
+1	218	227 arthritis	Disease	DOID_848
+1	295	300 NADPH	Chemical	CHEBI_16474
+1	397	417 rheumatoid arthritis	Disease	DOID_7148
+1	408	417 arthritis	Disease	DOID_848
+1	553	562 arthritis	Disease	DOID_848
+1	752	761 arthritis	Disease	DOID_848
+1	779	784 NADPH	Chemical	CHEBI_16474
+1	CHEBI-DOID	CHEBI_17154	DOID_848
+1	CHEBI-DOID	CHEBI_17154	DOID_7148
+1	CHEBI-DOID	CHEBI_18009	DOID_848
+1	CHEBI-DOID	CHEBI_18009	DOID_7148
+1	CHEBI-DOID	CHEBI_16708	DOID_848
+1	CHEBI-DOID	CHEBI_16708	DOID_7148
+1	CHEBI-DOID	CHEBI_47885	DOID_848
+1	CHEBI-DOID	CHEBI_47885	DOID_7148
+1	CHEBI-DOID	CHEBI_18367	DOID_848
+1	CHEBI-DOID	CHEBI_18367	DOID_7148
+1	CHEBI-DOID	CHEBI_16474	DOID_848
+1	CHEBI-DOID	CHEBI_16474	DOID_7148
+
+2|chunk|Results: Subcutaneous administration of phytol leads to an accumulation of the compound in the inguinal lymph nodes, with peak levels being reached approximately 10 days after administration. Hence, global gene-expression profiling on inguinal lymph nodes was performed 10 days after the induction of pristaneinduced arthritis (PIA) and phytol administration. The differentially expressed genes could be divided into two pathways, consisting of genes regulated by different interferons. IFN- regulated the pathway associated with arthritis development, whereas IFN- regulated the pathway associated with disease protection through phytol. Importantly, these two molecular pathways were also confirmed to differentiate between the arthritis-susceptible dark agouti (DA) rat, (with an Ncf-1 DA allele that allows only low oxidative burst), and the arthritis-protected DA.Ncf-1 E3 rat (with an Ncf1 E3 allele that allows a stronger oxidative burst).
+2	40	46 phytol	Chemical	CHEBI_17327
+2	317	326 arthritis	Disease	DOID_848
+2	337	343 phytol	Chemical	CHEBI_17327
+2	507	514 pathway	Chemical	CHEBI_34922
+2	531	540 arthritis	Disease	DOID_848
+2	582	589 pathway	Chemical	CHEBI_34922
+2	606	613 disease	Disease	DOID_4
+2	633	639 phytol	Chemical	CHEBI_17327
+2	759	765 agouti	Chemical	CHEBI_80317
+2	CHEBI-DOID	CHEBI_17327	DOID_848
+2	CHEBI-DOID	CHEBI_17327	DOID_4
+2	DOID-CHEBI	DOID_848	CHEBI_34922
+2	DOID-CHEBI	DOID_848	CHEBI_80317
+2	CHEBI-DOID	CHEBI_34922	DOID_4
+2	DOID-CHEBI	DOID_4	CHEBI_80317
+
+3|chunk|Conclusion: Naturally occurring genetic polymorphisms in the Ncf-1 gene modulate the activity of the NADPH oxidase complex, which strongly regulates the severity of arthritis. We now show that the Ncf-1 allele that enhances oxidative burst and protects against arthritis is operating through an IFN-associated pathway, whereas the arthritis-driving allele operates through an IFN--associated pathway. Treatment of arthritis-susceptible rats with an NADPH oxidase-activating substance, phytol, protects against arthritis. Interestingly, the treatment led to a restoration of the oxidative-burst effect and induction of a strikingly similar IFN--dependent pathway, as seen with the disease-protective Ncf1 polymorphism.
+3	101	106 NADPH	Chemical	CHEBI_16474
+3	165	174 arthritis	Disease	DOID_848
+3	261	270 arthritis	Disease	DOID_848
+3	451	456 NADPH	Chemical	CHEBI_16474
+3	512	521 arthritis	Disease	DOID_848
+3	CHEBI-DOID	CHEBI_16474	DOID_848
+

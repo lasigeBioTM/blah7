@@ -1,0 +1,44 @@
+0|chunk|Single Fluorescence Channel- based Multiplex Detection of Avian Influenza Virus by Quantitative PCR with Intercalating Dye OPEN
+0	58	73 Avian Influenza	Disease	DOID_4492
+0	64	73 Influenza	Disease	DOID_8469
+0	119	122 Dye	Chemical	CHEBI_37958
+0	DOID-CHEBI	DOID_4492	CHEBI_37958
+0	DOID-CHEBI	DOID_8469	CHEBI_37958
+
+1|chunk|Since its invention in 1985 the polymerase chain reaction (PCR) has become a well-established method for amplification and detection of segments of double-stranded DNA. Incorporation of fluorogenic probe or DNA intercalating dyes (such as SYBR Green) into the PCR mixture allowed real-time reaction monitoring and extraction of quantitative information (qPCR). Probes with different excitation spectra enable multiplex qPCR of several DNA segments using multi-channel optical detection systems. Here we show multiplex qPCR using an economical EvaGreen-based system with single optical channel detection. Previously reported non quantitative multiplex realtime PCR techniques based on intercalating dyes were conducted once the PCR is completed by performing melting curve analysis (MCA). The technique presented in this paper is both qualitative and quantitative as it provides information about the presence of multiple DNA strands as well as the number of starting copies in the tested sample. Besides important internal control, multiplex qPCR also allows detecting concentrations of more than one DNA strand within the same sample. Detection of the avian influenza virus H7N9 by PCR is a well established method. Multiplex qPCR greatly enhances its specificity as it is capable of distinguishing both haemagglutinin (HA) and neuraminidase (NA) genes as well as their ratio.
+1	164	167 DNA	Chemical	CHEBI_16991
+1	198	203 probe	Chemical	CHEBI_50406
+1	207	210 DNA	Chemical	CHEBI_16991
+1	225	229 dyes	Chemical	CHEBI_37958
+1	264	271 mixture	Chemical	CHEBI_60004
+1	435	438 DNA	Chemical	CHEBI_16991
+1	698	702 dyes	Chemical	CHEBI_37958
+1	921	924 DNA	Chemical	CHEBI_16991
+1	1101	1104 DNA	Chemical	CHEBI_16991
+1	1153	1168 avian influenza	Disease	DOID_4492
+1	1159	1168 influenza	Disease	DOID_8469
+1	CHEBI-DOID	CHEBI_16991	DOID_4492
+1	CHEBI-DOID	CHEBI_16991	DOID_8469
+1	CHEBI-DOID	CHEBI_50406	DOID_4492
+1	CHEBI-DOID	CHEBI_50406	DOID_8469
+1	CHEBI-DOID	CHEBI_37958	DOID_4492
+1	CHEBI-DOID	CHEBI_37958	DOID_8469
+1	CHEBI-DOID	CHEBI_60004	DOID_4492
+1	CHEBI-DOID	CHEBI_60004	DOID_8469
+
+2|chunk|The influenza A virus is composed of eight RNA segments of negative-sense single-stranded RNA where segment 4 encodes the haemagglutinin (HA) gene, and segment 6 the neuraminidase (NA) gene. In order to increase specificity of H7N9 detection, besides the detection of the virus itself, one should also detect both HA and NA individually as well as their ratio. PCR is the method of choice to detect the virus as it can deliver results in tens of minutes compared to traditional methods such as ELISA where the testing takes a few days.
+2	4	13 influenza	Disease	DOID_8469
+2	43	46 RNA	Chemical	CHEBI_33697
+2	90	93 RNA	Chemical	CHEBI_33697
+2	DOID-CHEBI	DOID_8469	CHEBI_33697
+
+3|chunk|The polymerase chain reaction (PCR) was invented in 1985 1,2 to amplify double stranded DNA segments. Adding fluorogenic probe or DNA intercalating dyes (such as SYBR Green) allowed real-time 3 reaction progress monitoring and extracting of quantitative information (qPCR) 4,5 . A typical PCR process consists of three steps conducted at different temperatures: denaturation at 95 C, annealing at 50-60 C and extension at 72 C. Using the Taqman probe-based PCR system the annealing and extension steps are combined into one and performed at a temperature of about 60 C 5 . The presence of end-point PCR products can be confirmed by agarose gel electrophoresis or by capillary electrophoresis (CE) 6 . However, an end-point measurement does not necessarily correlate with the original number of copies of the amplified DNA sequence. Real-time PCR allows precise quantitative information to be extracted from the exponential phase of the reaction 4,7 . The Taqman probe-based assay format, for example the FAM TM (fluorophore) and TAMRA TM (quencher) labeled probe, is specific to its target gene, whereas the 1 Kist-Europe,
+3	88	91 DNA	Chemical	CHEBI_16991
+3	121	126 probe	Chemical	CHEBI_50406
+3	130	133 DNA	Chemical	CHEBI_16991
+3	148	152 dyes	Chemical	CHEBI_37958
+3	636	643 agarose	Chemical	CHEBI_2511
+3	822	825 DNA	Chemical	CHEBI_16991
+3	1033	1038 TAMRA	Chemical	CHEBI_52282
+3	1061	1066 probe	Chemical	CHEBI_50406
+

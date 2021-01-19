@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="d33624f8b27d81d663f54d3e167aaf15968ff8a4">
+  <chunk id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c0" text="An OpenMP-based tool for finding longest common subsequence in bioinformatics"/>
+  <chunk id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c1" text="Objective: Finding the longest common subsequence (LCS) among sequences is NP-hard. This is an important problem in bioinformatics for DNA sequence alignment and pattern discovery. In this research, we propose new CPU-based parallel implementations that can provide significant advantages in terms of execution times, monetary cost, and pervasiveness in finding LCS of DNA sequences in an environment where Graphics Processing Units are not available. For general purpose use, we also make the OpenMP-based tool publicly available to end users.">
+    <entity charOffset="135-138" id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c1.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+    <entity charOffset="369-372" id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c1.e1" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+  </chunk>
+  <chunk id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c2" text="In this study, we develop three novel parallel versions of the LCS algorithm on: (i) distributed memory machine using message passing interface (MPI); (ii) shared memory machine using OpenMP, and (iii) hybrid platform that utilizes both distributed and shared memory using MPI-OpenMP. The experimental results with both simulated and real DNA sequence data show that the shared memory OpenMP implementation provides at least two-times absolute speedup than the best sequential version of the algorithm and a relative speedup of almost 7. We provide a detailed comparison of the execution times among the implementations on different platforms with different versions of the algorithm. We also show that removing branch conditions negatively affects the performance of the CPU-based parallel algorithm on OpenMP platform.">
+    <entity charOffset="339-342" id="d33624f8b27d81d663f54d3e167aaf15968ff8a4.c2.e0" ontology_id="CHEBI_16991" text="DNA" type="chemical"/>
+  </chunk>
+</document>

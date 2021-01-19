@@ -1,0 +1,38 @@
+0|chunk|Molecular Sciences Review STAT3 in Skeletal Muscle Function and Disorders
+
+1|chunk|Signal transducer and activator of transcription 3 (STAT3) signaling plays critical roles in regulating skeletal muscle mass, repair, and diseases. In this review, we discuss the upstream activators of STAT3 in skeletal muscles, with a focus on interleukin 6 (IL6) and transforming growth factor beta 1 (TGF-1). We will also discuss the double-edged effect of STAT3 activation in the muscles, including the role of STAT3 signaling in muscle hypertrophy induced by exercise training or muscle wasting in cachectic diseases and muscular dystrophies. STAT3 is a critical regulator of satellite cell self-renewal after muscle injury. STAT3 knock out affects satellite cell myogenic progression by impairing proliferation and inducing premature differentiation. Recent studies in STAT3 signaling demonstrated its direct role in controlling myogenic capacity of myoblasts and satellite cells, as well as the potential benefit in using STAT3 inhibitors to treat muscle diseases. However, prolonged STAT3 activation in muscles has been shown to be responsible for muscle wasting by activating protein degradation pathways. It is important to balance the extent of STAT3 activation and the duration and location (cell types) of the STAT3 signaling when developing therapeutic interventions. STAT3 signaling in other tissues and organs that can directly or indirectly affects skeletal muscle health are also discussed.
+1	59	68 signaling	Gene_function	GO_0023052
+1	282	288 growth	Gene_function	GO_0040007
+1	361	377 STAT3 activation	Gene_function	GO_0004675
+1	422	431 signaling	Gene_function	GO_0023052
+1	435	453 muscle hypertrophy	Gene_function	GO_0014896
+1	435	453 muscle hypertrophy	Phenotype	HP_0003712
+1	486	500 muscle wasting	Phenotype	HP_0003202
+1	782	791 signaling	Gene_function	GO_0023052
+1	982	991 prolonged	Phenotype	HP_0025297
+1	992	1008 STAT3 activation	Gene_function	GO_0004675
+1	1057	1071 muscle wasting	Phenotype	HP_0003202
+1	1086	1105 protein degradation	Gene_function	GO_0030163
+1	1094	1105 degradation	Gene_function	GO_0009056
+1	1157	1173 STAT3 activation	Gene_function	GO_0004675
+1	1230	1239 signaling	Gene_function	GO_0023052
+1	1289	1298 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0023052	HP_0003712
+1	GO-HP	GO_0023052	HP_0003202
+1	GO-HP	GO_0023052	HP_0025297
+1	GO-HP	GO_0040007	HP_0003712
+1	GO-HP	GO_0040007	HP_0003202
+1	GO-HP	GO_0040007	HP_0025297
+1	GO-HP	GO_0004675	HP_0003712
+1	GO-HP	GO_0004675	HP_0003202
+1	GO-HP	GO_0004675	HP_0025297
+1	GO-HP	GO_0014896	HP_0003712
+1	GO-HP	GO_0014896	HP_0003202
+1	GO-HP	GO_0014896	HP_0025297
+1	HP-GO	HP_0003712	GO_0030163
+1	HP-GO	HP_0003712	GO_0009056
+1	HP-GO	HP_0003202	GO_0030163
+1	HP-GO	HP_0003202	GO_0009056
+1	HP-GO	HP_0025297	GO_0030163
+1	HP-GO	HP_0025297	GO_0009056
+

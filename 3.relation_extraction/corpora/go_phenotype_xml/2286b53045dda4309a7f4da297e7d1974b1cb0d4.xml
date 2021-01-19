@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="2286b53045dda4309a7f4da297e7d1974b1cb0d4">
+  <chunk id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c0" text="Acral melanoma detection using a convolutional neural network for dermoscopy images">
+    <entity charOffset="0-5" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c0.e0" ontology_id="HP_0025292" text="Acral" type="phenotype"/>
+    <entity charOffset="6-14" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c0.e1" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+  </chunk>
+  <chunk id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1" text="Acral melanoma is the most common type of melanoma in Asians, and usually results in a poor prognosis due to late diagnosis. We applied a convolutional neural network to dermoscopy images of acral melanoma and benign nevi on the hands and feet and evaluated its usefulness for the early diagnosis of these conditions.">
+    <entity charOffset="0-5" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e0" ontology_id="HP_0025292" text="Acral" type="phenotype"/>
+    <entity charOffset="6-14" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e1" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+    <entity charOffset="42-50" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e2" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+    <entity charOffset="191-196" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e3" ontology_id="HP_0025292" text="acral" type="phenotype"/>
+    <entity charOffset="197-205" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e4" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+    <entity charOffset="217-221" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c1.e5" ontology_id="HP_0003764" text="nevi" type="phenotype"/>
+  </chunk>
+  <chunk id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c2" text="A total of 724 dermoscopy images comprising acral melanoma (350 images from 81 patients) and benign nevi (374 images from 194 patients), and confirmed by histopathological examination, were analyzed in this study. To perform the 2-fold cross validation, we split them into two mutually exclusive subsets: half of the total image dataset was selected for training and the rest for testing, and we calculated the accuracy of diagnosis comparing it with the dermatologist's and non-expert's evaluation.">
+    <entity charOffset="44-49" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c2.e0" ontology_id="HP_0025292" text="acral" type="phenotype"/>
+    <entity charOffset="50-58" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c2.e1" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+    <entity charOffset="100-104" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c2.e2" ontology_id="HP_0003764" text="nevi" type="phenotype"/>
+  </chunk>
+  <chunk id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c3" text="The accuracy (percentage of true positive and true negative from all images) of the convolutional neural network was 83.51% and 80.23%, which was higher than the non-expert's evaluation (67.84%, 62.71%) and close to that of the expert (81.08%, 81.64%). Moreover, the convolutional neural network showed area-under-the-curve values like 0.8, 0.84 and Youden's index like 0.6795, 0.6073, which were similar score with the expert. Lee SW, et al. (2018) Acral melanoma detection using a convolutional neural network for dermoscopy images. PLoS ONE 13(3): e0193321.">
+    <entity charOffset="450-455" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c3.e0" ontology_id="HP_0025292" text="Acral" type="phenotype"/>
+    <entity charOffset="456-464" id="2286b53045dda4309a7f4da297e7d1974b1cb0d4.c3.e1" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+  </chunk>
+</document>

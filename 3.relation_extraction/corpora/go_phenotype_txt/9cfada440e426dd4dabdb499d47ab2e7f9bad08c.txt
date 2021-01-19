@@ -1,0 +1,34 @@
+0|chunk|Antiviral Innate Immune Response Interferes with the Formation of Replication-Associated Membrane Structures Induced by a Positive- Strand RNA Virus
+0	0	32 Antiviral Innate Immune Response	Gene_function	GO_0140374
+0	10	32 Innate Immune Response	Gene_function	GO_0045087
+0	17	32 Immune Response	Gene_function	GO_0006955
+0	89	97 Membrane	Gene_function	GO_0016020
+
+1|chunk|to accommodate the viral replication machinery and protect it from innate immune detection. We hypothesized that the innate immune response has tools to counteract the formation of these virus-induced replication organelles in order to inhibit virus replication. Here we have investigated the effect of type I interferon (IFN) treatment on the formation of arterivirus-induced membrane structures. Our approach involved ectopic expression of arterivirus nonstructural proteins nsp2 and nsp3, which induce DMV formation in the absence of other viral triggers of the interferon response, such as replicating viral RNA. Thus, this setup can be used to identify immune effectors that specifically target the (formation of) virus-induced membrane structures. Using large-scale electron microscopy mosaic maps, we found that IFN- treatment significantly reduced the formation of the membrane structures. Strikingly, we also observed abundant stretches of double-membrane sheets (a proposed intermediate of DMV formation) in IFN--treated samples, suggesting the disruption of DMV biogenesis. Three interferon-stimulated gene products, two of which have been reported to target the hepatitis C virus replication structures, were tested for their possible involvement, but none of them affected membrane structure formation. Our study reveals the existence of a previously unknown innate immune mechanism that antagonizes the viral hijacking of host membranes.
+1	117	139 innate immune response	Gene_function	GO_0045087
+1	124	139 immune response	Gene_function	GO_0006955
+1	377	385 membrane	Gene_function	GO_0016020
+1	733	741 membrane	Gene_function	GO_0016020
+1	878	886 membrane	Gene_function	GO_0016020
+1	1176	1185 hepatitis	Phenotype	HP_0012115
+1	1279	1287 affected	Phenotype	HP_0032320
+1	1288	1296 membrane	Gene_function	GO_0016020
+1	GO-HP	GO_0045087	HP_0012115
+1	GO-HP	GO_0045087	HP_0032320
+1	GO-HP	GO_0006955	HP_0012115
+1	GO-HP	GO_0006955	HP_0032320
+1	GO-HP	GO_0016020	HP_0012115
+1	GO-HP	GO_0016020	HP_0032320
+
+2|chunk|IMPORTANCE Viruses with a positive-strand RNA genome establish a membrane-associated replication organelle by hijacking and remodeling intracellular host membranes, a process deemed essential for their efficient replication. It is unknown whether the cellular innate immune system can detect and/or inhibit the formation of these membrane structures, which could be an effective mechanism to delay viral RNA replication. In this study, using an expression system that closely mimics the formation of arterivirus replication structures, we show for the first time that IFN- treatment clearly reduces the amount of induced membrane structures. Moreover, drastic morphological changes were observed among the remaining structures, suggesting that their biogenesis was impaired. Follow-up experiments suggested that host cells contain a hitherto unknown innate antiviral mechanism, which targets this common feature of positive-strand RNA virus replication. Our study provides a strong basis for further research into the interaction of the innate immune system with membranous viral replication organelles.
+2	97	106 organelle	Gene_function	GO_0043226
+2	135	148 intracellular	Gene_function	GO_0005622
+2	330	338 membrane	Gene_function	GO_0016020
+2	622	630 membrane	Gene_function	GO_0016020
+
+3|chunk|Citation Oudshoorn D, van der Hoeven B, Limpens RWAL, Beugeling C, Snijder EJ, Brcena M, Kikkert M. 2016. Antiviral innate immune response interferes with the formation of replication-associated membrane structures induced by a positive-strand RNA virus. mBio 7(6):e01991-16.
+3	107	139 Antiviral innate immune response	Gene_function	GO_0140374
+3	117	139 innate immune response	Gene_function	GO_0045087
+3	124	139 immune response	Gene_function	GO_0006955
+3	196	204 membrane	Gene_function	GO_0016020
+

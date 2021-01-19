@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<document id="65c5b049ad6a45d3533e0fee55018ba631d338b0">
+  <chunk id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0" text="The enemy within: Targeting host-parasite interaction for antileishmanial drug discovery">
+    <entity charOffset="58-78" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0.e0" ontology_id="CHEBI_70868" text="antileishmanial drug" type="chemical"/>
+    <entity charOffset="74-78" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0.e1" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0.e1" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1" text="The state of antileishmanial chemotherapy is strongly compromised by the emergence of drug-resistant Leishmania. The evolution of drug-resistant phenotypes has been linked to the parasites' intrinsic genome instability, with frequent gene and chromosome amplifications causing fitness gains that are directly selected by environmental factors, including the presence of antileishmanial drugs. Thus, even though the unique eukaryotic biology of Leishmania and its dependence on parasite-specific virulence factors provide valid opportunities for chemotherapeutical intervention, all strategies that target the parasite in a direct fashion are likely prone to select for resistance. Here, we review the current state of antileishmanial chemotherapy and discuss the limitations of ongoing drug discovery efforts. We finally propose new strategies that target Leishmania viability indirectly via mechanisms of host-parasite interaction, including parasite-released ectokinases and host epigenetic regulation, which modulate host cell signaling and transcriptional regulation, respectively, to establish permissive conditions for intracellular Leishmania survival.">
+    <entity charOffset="495-512" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1.e0" ontology_id="CHEBI_72316" text="virulence factors" type="chemical"/>
+    <entity charOffset="786-790" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1.e1" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1.e1" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c1.p0" relation="true"/>
+  </chunk>
+  <chunk id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c2" text="Leishmania has evolved mechanisms to subvert both innate and adaptive immune responses that cause immune dysregulation and the pathologies characteristic of CL and VL and ultimately allow parasite proliferation and persistent infection inside the mammalian host [8] [9] [10] . Surprisingly, even though it is very well established that Leishmania reprograms its host cell to subvert the immune response and to meet the nutritional and metabolic needs for intracellular parasite survival and proliferation [11, 12], there is only little effort to exploit these crucial effects of the parasite on the host cell for antiparasitic drug discovery. Here, we review the current literature on antileishmanial therapy and Leishmania host-pathogen interaction and discuss novel strategies to target host cell rather than parasite biology for drug discovery-a strategy that likely will be more refractory to the emergence of drug-resistant parasites.">
+    <entity charOffset="627-631" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c2.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="832-836" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c2.e1" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3" text="Recent strategies to replace antimonials as first-line treatment to circumvent their limitations with respect to toxicity [13] and drug resistance [14] largely rely on repurposing of existing drugs [15]. These include the antifungal drug amphotericin B, the off-patent antibiotic paromomycin, the oral anticancer drug miltefosine, and the antimalarial drug sitamaquine, all of which were shown efficient for treating leishmaniases. Despite the success of this repurposing strategy, all these therapies have important limitations: (1) miltefosine is teratogenic, can provoke acute gastrointestinal side effects, and the length of the treatment (several weeks) causes poor treatment compliance with the risk of relapse [16], (2) conventional amphotericin B deoxycholate is not only nephrotoxic but also costly and cannot be stored at high temperature, rendering it unaffordable in some countries [17], and (3) paromomycin needs long parenteral regimens, involving qualified personnel and hospitalization [18].">
+    <entity charOffset="131-135" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="192-197" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="222-232" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" ontology_id="CHEBI_35718" text="antifungal" type="chemical"/>
+    <entity charOffset="222-237" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" ontology_id="CHEBI_35718" text="antifungal drug" type="chemical"/>
+    <entity charOffset="233-237" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="238-252" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" ontology_id="CHEBI_2682" text="amphotericin B" type="chemical"/>
+    <entity charOffset="269-279" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" ontology_id="CHEBI_33281" text="antibiotic" type="chemical"/>
+    <entity charOffset="280-291" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" ontology_id="CHEBI_7934" text="paromomycin" type="chemical"/>
+    <entity charOffset="313-317" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="318-329" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" ontology_id="CHEBI_75283" text="miltefosine" type="chemical"/>
+    <entity charOffset="339-351" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" ontology_id="CHEBI_38068" text="antimalarial" type="chemical"/>
+    <entity charOffset="352-356" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="534-545" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" ontology_id="CHEBI_75283" text="miltefosine" type="chemical"/>
+    <entity charOffset="740-754" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" ontology_id="CHEBI_2682" text="amphotericin B" type="chemical"/>
+    <entity charOffset="755-767" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" ontology_id="CHEBI_23614" text="deoxycholate" type="chemical"/>
+    <entity charOffset="908-919" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" ontology_id="CHEBI_7934" text="paromomycin" type="chemical"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p0" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p1" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p2" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p3" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p4" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p5" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p6" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p7" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p8" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p9" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p10" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p11" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p12" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p13" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p14" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p15" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p16" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p17" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p18" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p19" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p20" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p21" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p22" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p23" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p24" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e1" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p25" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p26" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p27" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p28" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p29" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p30" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p31" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p32" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p33" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p34" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p35" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p36" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p37" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e2" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p38" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p39" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p40" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p41" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p42" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p43" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p44" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p45" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p46" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p47" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p48" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p49" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e3" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p50" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p51" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p52" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p53" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p54" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p55" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p56" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p57" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p58" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e4" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p59" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p60" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p61" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p62" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p63" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p64" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p65" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p66" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p67" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e5" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p68" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p69" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p70" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p71" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p72" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p73" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p74" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p75" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p76" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e6" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p77" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p78" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p79" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p80" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p81" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p82" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p83" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e7" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p84" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p85" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p86" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p87" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p88" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p89" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e8" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p90" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p91" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p92" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p93" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p94" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e9" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p95" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p96" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p97" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p98" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p99" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e10" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p100" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p101" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p102" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p103" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e11" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p104" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p105" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p106" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e12" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p107" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p108" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e13" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p109" relation="true"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e14" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.e15" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c3.p110" relation="true"/>
+  </chunk>
+  <chunk id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4" text="In addition, depending on Leishmania species and geographical area, the parasite response to the drugs can vary substantially, with, for example, a cure rate of paromomycin treatment for VL ranging from 14.3% to 93.1% in Sudanese and Ethiopian patients, respectively [19]. Relapse can occur, and post-kala-azar dermal leishmaniasis can appear even months after the Fig 1. Different aspects of macrophage-Leishmania interaction. Leishmania responds to the intramacrophagic environment by adaptive differentiation (left panel) and hijacks vital macrophage functions via release of parasite ectoproteins (such as the ectokinase casein kinase 1 isoform 2 [CK1.2]), which affect host defense mechanisms, causing immune subversion (middle panel), and modulate host metabolic pathways, promoting parasite growth (right panel).">
+    <entity charOffset="97-102" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4.e0" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="161-172" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4.e1" ontology_id="CHEBI_7934" text="paromomycin" type="chemical"/>
+    <pair e1="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4.e0" e2="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4.e1" id="65c5b049ad6a45d3533e0fee55018ba631d338b0.c4.p0" relation="true"/>
+  </chunk>
+</document>

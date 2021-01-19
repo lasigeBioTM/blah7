@@ -1,0 +1,23 @@
+0|chunk|RNA sequencing-based analysis of the spleen transcriptome following infectious bronchitis virus infection of chickens selected for different mannose-binding lectin serum concentrations
+0	79	89 bronchitis	Phenotype	HP_0012387
+
+1|chunk|Background: Avian infectious bronchitis is a highly contagious disease of the upper-respiratory tract caused by infectious bronchitis virus (IBV). Understanding the molecular mechanisms involved in the interaction between innate and adaptive immune responses to IBV infection is a crucial element for further improvements in strategies to control IB. To this end, two chicken lines, selected for high (L10H line) and low (L10L line) serum concentration of mannose-binding lectin (MBL) were studied. In total, 32 birds from each line were used. Sixteen birds from each line were infected with IBV and sixteen were left uninfected. Eight uninfected and infected birds from each line were euthanized at 1 and 3 weeks post infection. RNA sequencing was performed on spleen samples from all 64 birds and differential gene expression analysis was performed for four comparisons: L10L line versus L10H line for uninfected birds at weeks 1 and 3, respectively, and in the same way for infected birds. Functional analysis was performed using Gene Ontology (GO) Immune System Process terms specific for Gallus gallus. Results: Comparing uninfected L10H and L10L birds, we identified 1698 and 1424 differentially expressed (DE) genes at weeks 1 and 3, respectively. For the IBV-infected birds, 1934 and 866 DE genes were identified between the two lines at weeks 1 and 3, respectively. The two most enriched GO terms emerging from the comparison of uninfected birds between the two lines were "Lymphocyte activation involved in immune response" and "Somatic recombination of immunoglobulin genes involved in immune response" at weeks 1 and 3, respectively. When comparing IBV-infected birds between the two lines, the most enriched GO terms were "Alpha-beta T cell activation" and "Positive regulation of leukocyte activation" at weeks 1 and 3, respectively.
+1	29	39 bronchitis	Phenotype	HP_0012387
+1	123	133 bronchitis	Phenotype	HP_0012387
+1	613	617 left	Phenotype	HP_0012835
+1	812	827 gene expression	Gene_function	GO_0010467
+1	1052	1073 Immune System Process	Gene_function	GO_0002376
+1	1059	1073 System Process	Gene_function	GO_0003008
+1	1564	1578 immunoglobulin	Gene_function	GO_0003823
+1	1747	1764 T cell activation	Gene_function	GO_0042110
+1	HP-GO	HP_0012387	GO_0010467
+1	HP-GO	HP_0012387	GO_0002376
+1	HP-GO	HP_0012387	GO_0003008
+1	HP-GO	HP_0012387	GO_0003823
+1	HP-GO	HP_0012387	GO_0042110
+1	HP-GO	HP_0012835	GO_0010467
+1	HP-GO	HP_0012835	GO_0002376
+1	HP-GO	HP_0012835	GO_0003008
+1	HP-GO	HP_0012835	GO_0003823
+1	HP-GO	HP_0012835	GO_0042110
+

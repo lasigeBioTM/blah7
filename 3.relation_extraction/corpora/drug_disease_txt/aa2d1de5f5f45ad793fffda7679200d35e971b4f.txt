@@ -1,0 +1,13 @@
+0|chunk|BUHO: A MATLAB Script for the Study of Stress Granules and Processing Bodies by High-Throughput Image Analysis
+
+1|chunk|The spontaneous and reversible formation of foci and filaments that contain proteins involved in different metabolic processes is common in both the nucleus and the cytoplasm. Stress granules (SGs) and processing bodies (PBs) belong to a novel family of cellular structures collectively known as mRNA silencing foci that harbour repressed mRNAs and their associated proteins. SGs and PBs are highly dynamic and they form upon stress and dissolve thus releasing the repressed mRNAs according to changes in cell physiology. In addition, aggregates containing abnormal proteins are frequent in neurodegenerative disorders. In spite of the growing relevance of these supramolecular aggregates to diverse cellular functions a reliable automated tool for their systematic analysis is lacking. Here we report a MATLAB Script termed BUHO for the high-throughput image analysis of cellular foci. We used BUHO to assess the number, size and distribution of distinct objects with minimal deviation from manually obtained parameters. BUHO successfully addressed the induction of both SGs and PBs in mammalian and insect cells exposed to different stress stimuli. We also used BUHO to assess the dynamics of specific mRNA-silencing foci termed Smaug 1 foci (S-foci) in primary neurons upon synaptic stimulation. Finally, we used BUHO to analyze the role of candidate genes on SG formation in an RNAi-based experiment. We found that FAK56D, GCN2 and PP1 govern SG formation. The role of PP1 is conserved in mammalian cells as judged by the effect of the PP1 inhibitor salubrinal, and involves dephosphorylation of the translation factor eIF2a. All these experiments were analyzed manually and by BUHO and the results differed in less than 5% of the average value. The automated analysis by this user-friendly method will allow high-throughput image processing in short times by providing a robust, flexible and reliable alternative to the laborious and sometimes unfeasible visual scrutiny. Citation: Perez-Pepe M, Slomiansky V, Loschi M, Luchelli L, Neme M, et al. (2012) BUHO: A MATLAB Script for the Study of Stress Granules and Processing Bodies by High-Throughput Image Analysis. PLoS ONE 7(12): e51495.
+1	76	84 proteins	Chemical	CHEBI_36080
+1	149	156 nucleus	Chemical	CHEBI_33252
+1	296	300 mRNA	Chemical	CHEBI_33699
+1	366	374 proteins	Chemical	CHEBI_36080
+1	566	574 proteins	Chemical	CHEBI_36080
+1	1336	1340 role	Chemical	CHEBI_50906
+1	1465	1469 role	Chemical	CHEBI_50906
+1	1544	1553 inhibitor	Chemical	CHEBI_35222
+1	2176	2179 ONE	Chemical	CHEBI_58972
+

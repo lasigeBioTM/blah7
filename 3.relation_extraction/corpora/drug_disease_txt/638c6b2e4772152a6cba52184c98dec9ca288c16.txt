@@ -1,0 +1,84 @@
+0|chunk|A case of bronchiolitis obliterans organizing pneumonia in an HIV-infected Korean patient successfully treated with clarithromycin
+0	10	23 bronchiolitis	Disease	DOID_2942
+0	10	34 bronchiolitis obliterans	Disease	DOID_2799
+0	10	55 bronchiolitis obliterans organizing pneumonia	Disease	DOID_0050157
+0	46	55 pneumonia	Disease	DOID_552
+0	116	130 clarithromycin	Chemical	CHEBI_3732
+0	DOID-CHEBI	DOID_2942	CHEBI_3732
+0	DOID-CHEBI	DOID_2799	CHEBI_3732
+0	DOID-CHEBI	DOID_0050157	CHEBI_3732
+0	DOID-CHEBI	DOID_552	CHEBI_3732
+
+1|chunk|Background: Bronchiolitis obliterans organizing pneumonia (BOOP) is a type of diffuse interstitial lung disease characterized by the pathology of fibroblastic plugs in the lumens of the respiratory bronchioles, alveolar ducts, and alveoli. The occurrence of BOOP in human immunodeficiency virus (HIV)-infected patients has rarely been described, and there have been no clinical case reports in Korea. Case presentation: A 24-year-old female who had been diagnosed with HIV ten years prior was admitted due to a 1-year history of cough and sputum production and a 3-day history of fever. She had poor adherence to anti-retroviral therapy (ART) due to gastrointestinal troubles. At the time of admission, her CD4 T-cell count was 5 cells/mm 3 . A high resolution computed tomography (CT) scan showed tiny centrilobular nodules with a tree-in-bud pattern in both lungs. Bacterial culture, Pneumocystis jirovecii polymerase chain reaction (PCR), Aspergillus galactomannan antigen (Ag) assay, and respiratory virus PCR were negative. Rapid chest x-ray improvement was seen after a 7-day treatment with anti-tuberculosis medication, ceftriaxone, and clarithromycin. Miliary tuberculosis seemed unlikely considering the rapid radiologic improvement and negative tuberculosis PCR results. Due to the unknown etiology, we performed video-assisted thoracoscopic surgery (VATS) to determine the cause of the diffuse lung infiltration. Pathologic findings were consistent with BOOP, while tissue acid-fast bacilli (AFB) stain and tuberculosis PCR results were negative. Tuberculosis medication and intravenous ceftriaxone were discontinued, while treatment with clarithromycin monotherapy was sustained. Five months after discharge, the patient was asymptomatic with a normal chest x-ray and as her adherence to ART improved, her CD4 T-cell count rose to 181 cells/mm 3 . Clarithromycin was discontinued at that time and the patient is currently receiving regular outpatient follow-up. Conclusion: This case suggests that macrolides are a potential treatment option in HIV-infected patients with mild BOOP. In cases that are otherwise unexplained or unresponsive to treatment, BOOP should be taken into consideration and surgical biopsy performed to confirm a diagnosis of BOOP.
+1	12	25 Bronchiolitis	Disease	DOID_2942
+1	12	36 Bronchiolitis obliterans	Disease	DOID_2799
+1	12	57 Bronchiolitis obliterans organizing pneumonia	Disease	DOID_0050157
+1	48	57 pneumonia	Disease	DOID_552
+1	59	63 BOOP	Disease	DOID_0050157
+1	86	111 interstitial lung disease	Disease	DOID_3082
+1	99	111 lung disease	Disease	DOID_850
+1	104	111 disease	Disease	DOID_4
+1	258	262 BOOP	Disease	DOID_0050157
+1	954	967 galactomannan	Chemical	CHEBI_27680
+1	968	975 antigen	Chemical	CHEBI_59132
+1	1127	1138 ceftriaxone	Chemical	CHEBI_29007
+1	1144	1158 clarithromycin	Chemical	CHEBI_3732
+1	1160	1180 Miliary tuberculosis	Disease	DOID_9861
+1	1168	1180 tuberculosis	Disease	DOID_399
+1	1255	1267 tuberculosis	Disease	DOID_399
+1	1465	1469 BOOP	Disease	DOID_0050157
+1	1518	1530 tuberculosis	Disease	DOID_399
+1	1558	1570 Tuberculosis	Disease	DOID_399
+1	1598	1609 ceftriaxone	Chemical	CHEBI_29007
+1	1650	1664 clarithromycin	Chemical	CHEBI_3732
+1	1860	1874 Clarithromycin	Chemical	CHEBI_3732
+1	2010	2020 macrolides	Chemical	CHEBI_25106
+1	2089	2093 BOOP	Disease	DOID_0050157
+1	2165	2169 BOOP	Disease	DOID_0050157
+1	2261	2265 BOOP	Disease	DOID_0050157
+1	DOID-CHEBI	DOID_2942	CHEBI_27680
+1	DOID-CHEBI	DOID_2942	CHEBI_59132
+1	DOID-CHEBI	DOID_2942	CHEBI_29007
+1	DOID-CHEBI	DOID_2942	CHEBI_3732
+1	DOID-CHEBI	DOID_2942	CHEBI_25106
+1	DOID-CHEBI	DOID_2799	CHEBI_27680
+1	DOID-CHEBI	DOID_2799	CHEBI_59132
+1	DOID-CHEBI	DOID_2799	CHEBI_29007
+1	DOID-CHEBI	DOID_2799	CHEBI_3732
+1	DOID-CHEBI	DOID_2799	CHEBI_25106
+1	DOID-CHEBI	DOID_0050157	CHEBI_27680
+1	DOID-CHEBI	DOID_0050157	CHEBI_59132
+1	DOID-CHEBI	DOID_0050157	CHEBI_29007
+1	DOID-CHEBI	DOID_0050157	CHEBI_3732
+1	DOID-CHEBI	DOID_0050157	CHEBI_25106
+1	DOID-CHEBI	DOID_552	CHEBI_27680
+1	DOID-CHEBI	DOID_552	CHEBI_59132
+1	DOID-CHEBI	DOID_552	CHEBI_29007
+1	DOID-CHEBI	DOID_552	CHEBI_3732
+1	DOID-CHEBI	DOID_552	CHEBI_25106
+1	DOID-CHEBI	DOID_3082	CHEBI_27680
+1	DOID-CHEBI	DOID_3082	CHEBI_59132
+1	DOID-CHEBI	DOID_3082	CHEBI_29007
+1	DOID-CHEBI	DOID_3082	CHEBI_3732
+1	DOID-CHEBI	DOID_3082	CHEBI_25106
+1	DOID-CHEBI	DOID_850	CHEBI_27680
+1	DOID-CHEBI	DOID_850	CHEBI_59132
+1	DOID-CHEBI	DOID_850	CHEBI_29007
+1	DOID-CHEBI	DOID_850	CHEBI_3732
+1	DOID-CHEBI	DOID_850	CHEBI_25106
+1	DOID-CHEBI	DOID_4	CHEBI_27680
+1	DOID-CHEBI	DOID_4	CHEBI_59132
+1	DOID-CHEBI	DOID_4	CHEBI_29007
+1	DOID-CHEBI	DOID_4	CHEBI_3732
+1	DOID-CHEBI	DOID_4	CHEBI_25106
+1	CHEBI-DOID	CHEBI_27680	DOID_9861
+1	CHEBI-DOID	CHEBI_27680	DOID_399
+1	CHEBI-DOID	CHEBI_59132	DOID_9861
+1	CHEBI-DOID	CHEBI_59132	DOID_399
+1	CHEBI-DOID	CHEBI_29007	DOID_9861
+1	CHEBI-DOID	CHEBI_29007	DOID_399
+1	CHEBI-DOID	CHEBI_3732	DOID_9861
+1	CHEBI-DOID	CHEBI_3732	DOID_399
+1	DOID-CHEBI	DOID_9861	CHEBI_25106
+1	DOID-CHEBI	DOID_399	CHEBI_25106
+

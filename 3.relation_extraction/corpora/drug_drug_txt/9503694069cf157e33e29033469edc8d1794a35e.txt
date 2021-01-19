@@ -1,0 +1,16 @@
+0|chunk|Accounting for Programmed Ribosomal Frameshifting in the Computation of Codon Usage Bias Indices
+
+1|chunk|Experimental evidence shows that synonymous mutations can have important consequences on genetic fitness. Many organisms display codon usage bias (CUB), where synonymous codons that are translated into the same amino acid appear with distinct frequency. Within genomes, CUB is thought to arise from selection for translational efficiency and accuracy, termed the translational efficiency hypothesis (TEH). Indeed, CUB indices correlate with protein expression levels, which is widely interpreted as evidence for translational selection. However, these tests neglect -1 programmed ribosomal frameshifting (-1 PRF), an important translational disruption effect found across all organisms of the tree of life. Genes that contain -1 PRF signals should cost more to express than genes without. Thus, CUB indices that do not consider -1 PRF may overestimate genes' true adaptation to translational efficiency and accuracy constraints. Here, we first investigate whether -1 PRF signals do indeed carry such translational cost. We then propose two corrections for CUB indices for genes containing -1 PRF signals. We retest the TEH in Saccharomyces cerevisiae under these corrections. We find that the correlation between corrected CUB index and protein expression remains intact for most levels of uniform -1 PRF efficiencies, and tends to increase when these efficiencies decline with protein expression. We conclude that the TEH is strengthened and that -1 PRF events constitute a promising and useful tool to examine the relationships between CUB and selection for translation efficiency and accuracy.
+1	211	216 amino	Chemical	CHEBI_46882
+1	211	221 amino acid	Chemical	CHEBI_33704
+1	217	221 acid	Chemical	CHEBI_37527
+1	441	448 protein	Chemical	CHEBI_16541
+1	1237	1244 protein	Chemical	CHEBI_16541
+1	1378	1385 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+

@@ -1,0 +1,24 @@
+0|chunk|Activating transcription factor 3 is crucial for antitumor activity and to strengthen the antiviral properties of Onconase
+
+1|chunk|Onconase is a ribonuclease that presents both antitumor and antiviral properties linked to its ribonucleolytic activity and represents a new class of RNA-damaging drugs. It has reached clinical trials for the treatment of several cancers and human papilloma virus warts. Onconase targets different RNAs in the cell cytosol but Onconase-treated cells present features that are different from a simple arrest of protein synthesis. We have used microarray-derived transcriptional profiling to identify Onconase-regulated genes in two ovarian cancer cell lines (NCI/ADR-RES and OVCAR-8). RT-qPCR analyses have confirmed the microarray findings. We have identified a network of up-regulated genes implicated in different signaling pathways that may explain the cytotoxic effects exerted by Onconase. Among these genes, activating transcription factor 3 (ATF3) plays a central role in the key events triggered by Onconase in treated cancer cells that finally lead to apoptosis. This mechanism, mediated by ATF3, is cell-type independent. Up-regulation of ATF3 may also explain the antiviral properties of this ribonuclease because this factor is involved in halting viral genome replication, keeping virus latency or preventing viral oncogenesis. Finally, Onconase-regulated genes are different from those affected by nucleardirected ribonucleases.
+1	248	257 papilloma	Phenotype	HP_0012740
+1	315	322 cytosol	Gene_function	GO_0005829
+1	539	545 cancer	Phenotype	HP_0002664
+1	716	725 signaling	Gene_function	GO_0023052
+1	863	870 central	Phenotype	HP_0030645
+1	927	933 cancer	Phenotype	HP_0002664
+1	1160	1184 viral genome replication	Gene_function	GO_0019079
+1	1300	1308 affected	Phenotype	HP_0032320
+1	HP-GO	HP_0012740	GO_0005829
+1	HP-GO	HP_0012740	GO_0023052
+1	HP-GO	HP_0012740	GO_0019079
+1	GO-HP	GO_0005829	HP_0002664
+1	GO-HP	GO_0005829	HP_0030645
+1	GO-HP	GO_0005829	HP_0032320
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0019079
+1	GO-HP	GO_0023052	HP_0030645
+1	GO-HP	GO_0023052	HP_0032320
+1	HP-GO	HP_0030645	GO_0019079
+1	GO-HP	GO_0019079	HP_0032320
+

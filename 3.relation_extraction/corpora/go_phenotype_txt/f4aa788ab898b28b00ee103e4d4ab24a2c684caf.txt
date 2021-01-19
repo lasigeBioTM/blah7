@@ -1,0 +1,41 @@
+0|chunk|Venezuelan Equine Encephalitis Virus Induces Apoptosis through the Unfolded Protein Response Activation of EGR1
+0	18	30 Encephalitis	Phenotype	HP_0002383
+
+1|chunk|Venezuelan equine encephalitis virus (VEEV) is a previously weaponized arthropod-borne virus responsible for causing acute and fatal encephalitis in animal and human hosts. The increased circulation and spread in the Americas of VEEV and other encephalitic arboviruses, such as eastern equine encephalitis virus and West Nile virus, underscore the need for research aimed at characterizing the pathogenesis of viral encephalomyelitis for the development of novel medical countermeasures. The hostpathogen dynamics of VEEV Trinidad donkey-infected human astrocytoma U87MG cells were determined by carrying out RNA sequencing (RNA-Seq) of poly(A) and mRNAs. To identify the critical alterations that take place in the host transcriptome following VEEV infection, samples were collected at 4, 8, and 16 h postinfection and RNA-Seq data were acquired using an Ion Torrent PGM platform. Differential expression of interferon response, stress response factors, and components of the unfolded protein response (UPR) was observed. The protein kinase RNA-like endoplasmic reticulum kinase (PERK) arm of the UPR was activated, as the expression of both activating transcription factor 4 (ATF4) and CHOP (DDIT3), critical regulators of the pathway, was altered after infection. Expression of the transcription factor early growth response 1 (EGR1) was induced in a PERKdependent manner. EGR1 / mouse embryonic fibroblasts (MEFs) demonstrated lower susceptibility to VEEV-induced cell death than isogenic wild-type MEFs, indicating that EGR1 modulates proapoptotic pathways following VEEV infection. The influence of EGR1 is of great importance, as neuronal damage can lead to long-term sequelae in individuals who have survived VEEV infection.
+1	18	30 encephalitis	Phenotype	HP_0002383
+1	117	122 acute	Phenotype	HP_0011009
+1	133	145 encephalitis	Phenotype	HP_0002383
+1	293	305 encephalitis	Phenotype	HP_0002383
+1	394	406 pathogenesis	Gene_function	GO_0009405
+1	553	564 astrocytoma	Phenotype	HP_0009592
+1	868	871 PGM	Gene_function	GO_0004619
+1	1051	1072 endoplasmic reticulum	Gene_function	GO_0005783
+1	1312	1318 growth	Gene_function	GO_0040007
+1	1470	1480 cell death	Gene_function	GO_0008219
+1	HP-GO	HP_0002383	GO_0009405
+1	HP-GO	HP_0002383	GO_0004619
+1	HP-GO	HP_0002383	GO_0005783
+1	HP-GO	HP_0002383	GO_0040007
+1	HP-GO	HP_0002383	GO_0008219
+1	HP-GO	HP_0011009	GO_0009405
+1	HP-GO	HP_0011009	GO_0004619
+1	HP-GO	HP_0011009	GO_0005783
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0008219
+1	GO-HP	GO_0009405	HP_0009592
+1	HP-GO	HP_0009592	GO_0004619
+1	HP-GO	HP_0009592	GO_0005783
+1	HP-GO	HP_0009592	GO_0040007
+1	HP-GO	HP_0009592	GO_0008219
+
+2|chunk|IMPORTANCE
+
+3|chunk|Here we utilized next-generation RNA sequencing to identify differential alterations in VEEV-infected astrocytes. Our results indicated that the abundance of transcripts associated with the interferon and the unfolded protein response pathways was altered following infection and demonstrated that early growth response 1 (EGR1) contributed to VEEV-induced cell death. . 2016. Venezuelan equine encephalitis virus induces apoptosis through the unfolded protein response activation of EGR1. J Virol 90:3558 -3572. FIG 7 EGR1 is upregulated in infected cells and localizes to the nucleus. (A) U87MG cells were mock, VEEV, or UV-VEEV infected (MOI, 5), and protein lysates were collected at 4, 8, and 16 hpi (as indicated above each lane). Western blot analysis was performed using antibodies against EGR1, capsid, and actin. Results are representative of those from two independent experiments. (B) U87MG cells were mock or VEEV infected (MOI, 5). At 16 h after infection, cells were fixed and probed with DAPI, anti-VEEV capsid, and anti-EGR1 primary antibodies and Alexa Fluor 488-and Alexa Fluor 568-labeled secondary antibodies. Slides were imaged on a Nikon Eclipse TE2000-U fluorescence microscope after immunofluorescence staining. Results are representative of those from two independent experiments. (C) U87MG cells were pretreated with DMSO or a PERKi, infected with VEEV TrD (MOI, 5), and posttreated with drug-containing medium.
+3	304	310 growth	Gene_function	GO_0040007
+3	395	407 encephalitis	Phenotype	HP_0002383
+3	701	704 hpi	Gene_function	GO_0009978
+3	GO-HP	GO_0040007	HP_0002383
+3	HP-GO	HP_0002383	GO_0009978
+
+4|chunk|Protein lysates were collected at 16 hpi. Western blot analysis was performed using antibodies against EGR1, capsid, and actin.
+

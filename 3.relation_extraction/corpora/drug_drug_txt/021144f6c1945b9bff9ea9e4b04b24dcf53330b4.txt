@@ -1,0 +1,69 @@
+0|chunk|Identification and Comparison of Receptor Binding Characteristics of the Spike Protein of Two Porcine Epidemic Diarrhea Virus Strains
+0	79	86 Protein	Chemical	CHEBI_16541
+
+1|chunk|Porcine epidemic diarrhea virus (PEDV), a member of Alphacoronavirus, has caused huge economic losses for the global pork industry recently. The spike (S) protein mediates PEDV entry into host cells. Herein, we investigated the interactions between the S protein and its receptor porcine aminopeptidase N (pAPN) or co-receptor sugars. The C-terminal domain (CTD) of the S1 domain is bound to pAPN. The prototype strain demonstrated similar receptor-binding activity compared with the variant field isolate. Three loops at the tips of the -barrel domains did not play crucial roles in the PEDV S-pAPN association, indicating that PEDV conforms to a different receptor recognition model compared with transmissible gastroenteritis virus (TGEV), porcine respiratory CoV (PRCV), and human coronavirus NL63 (HCoV-NL63). The N-terminal domain (NTD) of the PEDV S1 domain could bind sugar, a possible co-receptor for PEDV. The prototype strain exhibited weaker sugar-binding activity compared with the variant field isolate. Strategies targeting the receptor binding domain (RBD) may be helpful for developing vaccines or antiviral drugs for PEDV. Understanding the differences in receptor binding between the prototype and the variant strains may provide insight into PEDV pathogenesis. Viruses 2016, 8, 55 2 of 15
+1	155	162 protein	Chemical	CHEBI_16541
+1	255	262 protein	Chemical	CHEBI_16541
+1	1116	1125 antiviral	Chemical	CHEBI_22587
+1	1116	1131 antiviral drugs	Chemical	CHEBI_36044
+1	1126	1131 drugs	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36044	CHEBI_23888
+
+2|chunk|the Betacoronavirus genus uses angiotensin-converting enzyme 2 (ACE2) as its receptor, and its receptor-binding domain (RBD) is located within CTD of the S1 domain [3] . ACE2 is also a receptor for human coronavirus NL63 (HCoV-NL63), in which three discontinuous fragments located within CTD of the S1 domain are responsible for receptor binding [4] . No structural homology has been found between the SARS and HCoV-NL63 RBDs, but they recognize the same receptor (ACE2). Meanwhile, their RBDs share the same receptor recognition hotspots [5] . The RBD of transmissible gastroenteritis virus (TGEV) is located within CTD of the S1 domain. The RBD crystal structures of TGEV and HCoV-NL63 show similarities, but they use different receptors [2] . The RBDs of murine hepatitis virus (MHV) and bovine coronavirus (BCoV) in the same genus of Betacoronaviruses are located in the N-terminus of the S1 domain. However, carcinoembryonic antigen cell adhesion molecule (CEACAM) and sugar serve as the receptors for MHV and BCoV, respectively, despite their high sequence homology [6, 7] .
+2	930	937 antigen	Chemical	CHEBI_59132
+2	952	960 molecule	Chemical	CHEBI_25367
+2	CHEBI-CHEBI	CHEBI_59132	CHEBI_25367
+
+3|chunk|PEDV belongs to the Alphacoronavirus genus and can cause an acute and highly contagious enteric disease. Its clinical symptoms include watery diarrhea, severe enteritis, vomiting, and weight loss; the mortality rate can reach 50%-90% in suckling piglets [8] [9] [10] . In 1977, Pensaert isolated a new coronavirus-like particle associated with diarrhea from Belgian swine breeding farms. This virus was different from TGEV and was designated CV777 [11] . Subsequently, the disease was reported in the United . Since 2010, massive PED outbreaks have been reported in Asia. In April 2013, there was a sudden occurrence of PED disease that rapidly spread across the United States, causing high rates of death among piglets [8] . Currently, PED is considered a pandemic disease that causes substantial economic losses to pork producers all over the world.
+
+4|chunk|The genome of PEDV contains 28 kb which encodes the polyproteins ORF1a and ORF1b, S, open reading frame 3 (ORF3), envelope (E), membrane (M), and nucleocapsid (N) proteins [12, 13] . The PEDV S protein is a homotrimeric membrane glycoprotein that contains a signal peptide (residues 1-20); an S1 region (residues 21-793) that mediates the attachment of virus particles to the cell surface receptor; an S2 region (residues 794-1385) that mediates virus fusion to host cells; a transmembrane domain (residues 1335-1358) and a cytoplasmic tail (residues 1359-1385); the S1 region contains two subdomains, an NTD (residues 21-324) and a CTD (residues 253-638) [14, 15] ( Figure 1A ). Previous studies have confirmed that porcine aminopeptidase N (pAPN) acts as a receptor for PEDV entry into target cells [16] [17] [18] . All characterized coronavirus S1 domain contain an RBD that is responsible for interactions with the cellular receptors for viral attachment. Lee determined that the N-terminus of the PEDV S1 domain was necessary for receptor binding using a co-immunoprecipitation assay; the minimal binding region was confirmed to be located within residues 25-88 [14]. To date, there are no conclusive data concerning the exact location of the PEDV RBD and the key amino acids that participate in receptor binding.
+4	163	171 proteins	Chemical	CHEBI_36080
+4	194	201 protein	Chemical	CHEBI_16541
+4	229	241 glycoprotein	Chemical	CHEBI_17089
+4	265	272 peptide	Chemical	CHEBI_16670
+4	1269	1274 amino	Chemical	CHEBI_46882
+4	1269	1280 amino acids	Chemical	CHEBI_33704
+4	1275	1280 acids	Chemical	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+5|chunk|The major genetic variations of coronaviruses have been reported to be concentrated in the S1 portion of the S gene. Even a single amino acid mutation can change the virulence of a given virus [7, 19] . The sequences of the PEDV S1 domain differ between the prototype and variant strains, especially at the N-terminus ( Figure 1B) . For example, a six-amino-acid insertion was identified in the variant strain (residues 56-60 and 141) [20, 21] . Amino acid deletions have also been identified within the S1 domain (residues 155, 156, 163, and 164) [13,22]. Whether the mutated amino acids are located within the RBD and are capable of affecting the binding affinity to its receptor and then affecting the virulence or pathogenicity is unknown.
+5	131	136 amino	Chemical	CHEBI_46882
+5	131	141 amino acid	Chemical	CHEBI_33704
+5	137	141 acid	Chemical	CHEBI_37527
+5	446	451 Amino	Chemical	CHEBI_46882
+5	446	456 Amino acid	Chemical	CHEBI_33704
+5	452	456 acid	Chemical	CHEBI_37527
+5	577	582 amino	Chemical	CHEBI_46882
+5	577	588 amino acids	Chemical	CHEBI_33704
+5	583	588 acids	Chemical	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+5	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+5	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+6|chunk|In this study, the RBD of the PEDV S1 domain was identified, and the receptor-binding activity was compared between the variant strain CHGD-01 and the prototype CV777 strain. The motifs responsible for receptor binding were predicted and verified using mutagenesis. Finally, the sugar-binding domain of PEDV was determined, and the binding activity was compared between the CHGD-01 and CV777 strains.
+

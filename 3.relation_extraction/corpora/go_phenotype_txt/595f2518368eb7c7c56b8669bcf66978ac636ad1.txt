@@ -1,0 +1,44 @@
+0|chunk|Antibody-Validated Proteins in Inflamed Islets of Fulminant Type 1 Diabetes Profiled by Laser-Capture Microdissection Followed by Mass Spectrometry
+0	60	75 Type 1 Diabetes	Phenotype	HP_0100651
+
+1|chunk|Background: There are no reports of proteomic analyses of inflamed islets in type 1 diabetes.
+1	77	92 type 1 diabetes	Phenotype	HP_0100651
+
+2|chunk|Procedures: Proteins expressed in the islets of enterovirus-associated fulminant type 1 diabetes (FT1DM) with extensive insulitis were identified by laser-capture microdissection mass spectrometry using formalin-fixed paraffin-embedded pancreatic tissues.
+2	81	96 type 1 diabetes	Phenotype	HP_0100651
+
+3|chunk|Results: Thirty-eight proteins were identified solely in FT1DM islets, most of which have not been previously linked to type 1 diabetes. Five protein-protein interacting clusters were identified, and the cellular localization of selected proteins was validated immunohistochemically. Migratory activity-related proteins, including plastin-2 (LCP1), moesin (MSN), lamin-B1 (LMNB1), Ras GTPase-activating-like protein (IQGAP1) and others, were identified in CD8 + T cells and CD68 + macrophages infiltrated to inflamed FT1DM islets. Proteins involved in successive signaling in innate/adaptive immunity were identified, including SAM domain and HD domain-containing protein 1 (SAMHD1), Ras GTPase-activating-like protein (IQGAP1), proteasome activator complex subunit 1 (PSME1), HLA class I histocompatibility antigen (HLA-C), and signal transducer and activator of transcription 1-alpha/beta (STAT1). Angiogenic (thymidine phosphorylase (TYMP)) and anti-angiogenic (tryptophan-tRNA ligase (WARS)) factors were identified in migrating CD8 + T cells and CD68 + macrophages. Proteins related to virus replication and cell proliferation, including probable ATP-dependent RNA helicase DEAD box helicase 5 (DDX5) and heterogeneous nuclear ribonucleoprotein H (HNRNPH1), were identified. The anti-apoptotic protein T-complex protein 1 subunit epsilon (CCT5), the anti-oxidative enzyme 6-phosphogluconate dehydrogenase (PDG), and the anti-viral and antiapoptotic proteins serpin B6 (SERPINB6) and heat shock 70 kDa protein1-like (HSPA1L), were identified in FT1DM-affected islet cells.
+3	120	135 type 1 diabetes	Phenotype	HP_0100651
+3	204	225 cellular localization	Gene_function	GO_0051641
+3	213	225 localization	Gene_function	GO_0051179
+3	284	293 Migratory	Phenotype	HP_0025279
+3	563	572 signaling	Gene_function	GO_0023052
+3	729	757 proteasome activator complex	Gene_function	GO_0008537
+3	1210	1223 heterogeneous	Phenotype	HP_0001425
+3	1493	1498 shock	Phenotype	HP_0031273
+3	HP-GO	HP_0100651	GO_0051641
+3	HP-GO	HP_0100651	GO_0051179
+3	HP-GO	HP_0100651	GO_0023052
+3	HP-GO	HP_0100651	GO_0008537
+3	GO-HP	GO_0051641	HP_0025279
+3	GO-HP	GO_0051641	HP_0001425
+3	GO-HP	GO_0051641	HP_0031273
+3	GO-HP	GO_0051179	HP_0025279
+3	GO-HP	GO_0051179	HP_0001425
+3	GO-HP	GO_0051179	HP_0031273
+3	HP-GO	HP_0025279	GO_0023052
+3	HP-GO	HP_0025279	GO_0008537
+3	GO-HP	GO_0023052	HP_0001425
+3	GO-HP	GO_0023052	HP_0031273
+3	GO-HP	GO_0008537	HP_0001425
+3	GO-HP	GO_0008537	HP_0031273
+
+4|chunk|The identified FT1DM-characterizing proteins include those involved in aggressive beta cell destruction through massive immune cell migration and proteins involved in angiogenesis and islet vasculature bleeding, cell repair, and anti-inflammatory processes. Several target proteins for future type 1 diabetes interventions were identified.
+4	120	141 immune cell migration	Gene_function	GO_0050900
+4	127	141 cell migration	Gene_function	GO_0016477
+4	167	179 angiogenesis	Gene_function	GO_0001525
+4	293	308 type 1 diabetes	Phenotype	HP_0100651
+4	GO-HP	GO_0050900	HP_0100651
+4	GO-HP	GO_0016477	HP_0100651
+4	GO-HP	GO_0001525	HP_0100651
+

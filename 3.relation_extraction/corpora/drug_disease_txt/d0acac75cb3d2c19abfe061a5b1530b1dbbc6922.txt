@@ -1,0 +1,42 @@
+0|chunk|Dominating Biological Networks
+
+1|chunk|Proteins are essential macromolecules of life that carry out most cellular processes. Since proteins aggregate to perform function, and since protein-protein interaction (PPI) networks model these aggregations, one would expect to uncover new biology from PPI network topology. Hence, using PPI networks to predict protein function and role of protein pathways in disease has received attention.
+1	0	8 Proteins	Chemical	CHEBI_36080
+1	23	37 macromolecules	Chemical	CHEBI_33839
+1	92	100 proteins	Chemical	CHEBI_36080
+1	171	174 PPI	Chemical	CHEBI_18361
+1	256	259 PPI	Chemical	CHEBI_18361
+1	291	294 PPI	Chemical	CHEBI_18361
+1	315	322 protein	Chemical	CHEBI_16541
+1	336	340 role	Chemical	CHEBI_50906
+1	344	351 protein	Chemical	CHEBI_16541
+1	364	371 disease	Disease	DOID_4
+1	CHEBI-DOID	CHEBI_36080	DOID_4
+1	CHEBI-DOID	CHEBI_33839	DOID_4
+1	CHEBI-DOID	CHEBI_18361	DOID_4
+1	CHEBI-DOID	CHEBI_16541	DOID_4
+1	CHEBI-DOID	CHEBI_50906	DOID_4
+
+2|chunk|A debate remains open about whether network properties of ''biologically central (BC)'' genes (i.e., their protein products), such as those involved in aging, cancer, infectious diseases, or signaling and drugtargeted pathways, exhibit some topological centrality compared to the rest of the proteins in the human PPI network. To help resolve this debate, we design new network-based approaches and apply them to get new insight into biological function and disease. We hypothesize that BC genes have a topologically central (TC) role in the human PPI network. We propose two different concepts of topological centrality. We design a new centrality measure to capture complex wirings of proteins in the network that identifies as TC those proteins that reside in dense extended network neighborhoods. Also, we use the notion of domination and find dominating sets (DSs) in the PPI network, i.e., sets of proteins such that every protein is either in the DS or is a neighbor of the DS. Clearly, a DS has a TC role, as it enables efficient communication between different network parts. We find statistically significant enrichment in BC genes of TC nodes and outperform the existing methods indicating that genes involved in key biological processes occupy topologically complex and dense regions of the network and correspond to its ''spine'' that connects all other network parts and can thus pass cellular signals efficiently throughout the network. To our knowledge, this is the first study that explores domination in the context of PPI networks.
+2	107	114 protein	Chemical	CHEBI_16541
+2	292	300 proteins	Chemical	CHEBI_36080
+2	314	317 PPI	Chemical	CHEBI_18361
+2	434	453 biological function	Chemical	CHEBI_24432
+2	530	534 role	Chemical	CHEBI_50906
+2	548	551 PPI	Chemical	CHEBI_18361
+2	687	695 proteins	Chemical	CHEBI_36080
+2	739	747 proteins	Chemical	CHEBI_36080
+2	865	868 DSs	Chemical	CHEBI_85362
+2	865	868 DSs	Disease	DOID_0050125
+2	877	880 PPI	Chemical	CHEBI_18361
+2	904	912 proteins	Chemical	CHEBI_36080
+2	929	936 protein	Chemical	CHEBI_16541
+2	1008	1012 role	Chemical	CHEBI_50906
+2	1537	1540 PPI	Chemical	CHEBI_18361
+2	CHEBI-DOID	CHEBI_16541	DOID_0050125
+2	CHEBI-DOID	CHEBI_36080	DOID_0050125
+2	CHEBI-DOID	CHEBI_18361	DOID_0050125
+2	CHEBI-DOID	CHEBI_24432	DOID_0050125
+2	CHEBI-DOID	CHEBI_50906	DOID_0050125
+2	CHEBI-DOID	CHEBI_85362	DOID_0050125
+

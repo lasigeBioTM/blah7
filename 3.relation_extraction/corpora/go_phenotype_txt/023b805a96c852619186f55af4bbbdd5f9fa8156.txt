@@ -1,0 +1,54 @@
+0|chunk|Gene Variations in Cis-Acting Elements between the Taiwan and Prototype Strains of Porcine Epidemic Diarrhea Virus Alter Viral Gene Expression
+0	100	108 Diarrhea	Phenotype	HP_0002014
+0	121	142 Viral Gene Expression	Gene_function	GO_0019080
+0	127	142 Gene Expression	Gene_function	GO_0010467
+0	HP-GO	HP_0002014	GO_0019080
+0	HP-GO	HP_0002014	GO_0010467
+
+1|chunk|In 2013, the outbreak of porcine epidemic diarrhea (PED) in Taiwan caused serious economic losses. In this study, we examined whether the variations of the cis-acting elements between the porcine epidemic diarrhea virus (PEDV) Taiwan (TW) strain and the prototype strain CV777 alter gene expression. For this aim, we analyzed the variations of the cis-acting elements in the 5 and 3 untranslated regions (UTRs) between the PEDV TW, CV777, and other reference strains. We also determined the previously unidentified transcription regulatory sequence (TRS), a sequence motif required for coronavirus transcription, and found that a nucleotide deletion in the TW strain, in comparison with CV777 strain, immediately downstream of the leader core sequence alters the identity between the leader TRS and the body TRS. Functional analyses using coronavirus defective interfering (DI) RNA revealed that such variations in cis-acting elements for the TW strain compared with the CV777 strain have an influence on the efficiency of gene expression. The current data show for the first time the evolution of PEDV in terms of cis-acting elements and their effects on gene expression, and thus may contribute to our understanding of recent PED outbreaks worldwide.
+1	42	50 diarrhea	Phenotype	HP_0002014
+1	205	213 diarrhea	Phenotype	HP_0002014
+1	791	794 TRS	Gene_function	GO_0004829
+1	808	811 TRS	Gene_function	GO_0004829
+1	HP-GO	HP_0002014	GO_0004829
+
+2|chunk|Genes 2018, 9, 591 2 of 16 upstream of each ORF in the 3 -proximal genome region [5] . An upstream open reading frame (uORF) located in the 5 UTR of coronaviruses has been shown to be important for virus fitness [6] .
+
+3|chunk|Analyses of Alphacoronavirus 5 UTRs have revealed four conserved RNA secondary structures, including stem-loops (SLs) 1, 2, 4, and 5, which are also conserved for Betacoronavirus [4, 7] . Moreover, studies in Betacoronavirus have determined a requirement of these 5 secondary structures for coronaviral RNA synthesis [8] . RNA structures and their functions in coronaviral RNA synthesis and pathogenesis have also been identified in Betacoronavirus 3 UTRs, including the 5 -most bulged stem-loop (BSL) [9,10], hair-pin pseudoknot (PK) [11] , and 3 -most hypervariable region (HVR) [12] . However, structural analyses by Madhugiri et al. have suggested the absence of a BSL equivalent in Alphacoronavirus [4]. Both Alphacoronavirus and Betacoronavirus contain the conserved octanucleotide sequence 5 -GGAAGAGC-3 within the HVR [4].
+3	303	316 RNA synthesis	Gene_function	GO_0032774
+3	307	316 synthesis	Gene_function	GO_0009058
+3	373	386 RNA synthesis	Gene_function	GO_0032774
+3	377	386 synthesis	Gene_function	GO_0009058
+3	391	403 pathogenesis	Gene_function	GO_0009405
+
+4|chunk|Synthesis of sgmRNA in coronaviruses requires a conserved TRS sequence motif, which is located at the 3 end of the leader sequence (TRS-L) and precedes each 3 proximal gene (TRS-B) . The TRS contains a conserved sequence (CS) flanked by variable sequences at its 5 (5 TRS) and 3 (3 TRS) ends [5, 13] . During negative-strand sgmRNA synthesis, coronaviral polymerase along with negative-strand sgmRNA attenuates at the TRS-B, switches the template to the TRS-L, as guided by basepairing between the TRS-B and TRS-L, and then resumes to complete synthesis by copying the leader sequence [14, 15] . In comparison with the 5 TRS, the 3 TRS has a more decisive influence on sgmRNA synthesis [16, 17] . It has been proposed that a one-nucleotide (nt) (A) deletion immediately downstream of the CS-L may influence PEDV sgmRNA synthesis [3, 18, 19] , though an in-depth examination to support this hypothesis has not been conducted.
+4	0	9 Synthesis	Gene_function	GO_0009058
+4	58	61 TRS	Gene_function	GO_0004829
+4	159	167 proximal	Phenotype	HP_0012840
+4	187	190 TRS	Gene_function	GO_0004829
+4	268	271 TRS	Gene_function	GO_0004829
+4	282	285 TRS	Gene_function	GO_0004829
+4	332	341 synthesis	Gene_function	GO_0009058
+4	544	553 synthesis	Gene_function	GO_0009058
+4	621	624 TRS	Gene_function	GO_0004829
+4	632	635 TRS	Gene_function	GO_0004829
+4	676	685 synthesis	Gene_function	GO_0009058
+4	819	828 synthesis	Gene_function	GO_0009058
+4	GO-HP	GO_0009058	HP_0012840
+4	GO-HP	GO_0004829	HP_0012840
+
+5|chunk|The PEDV prototype strain CV777 was first identified in 1978, and suckling piglets infected with this strain exhibited only mild diarrhea [20] [21] [22] . In 2013, the sudden appearance of porcine epidemic diarrhea (PED) with more severe diarrhea in the USA and a subsequent reoccurrence in Asian countries including Taiwan caused serious economic losses [3, 23, 24] . PED has since been one of the most devastating swine diseases worldwide. With such outbreaks, a crucial question is whether the pathogenicity of PEDV has been altered, leading to serious disease outbreaks. Because the coronavirus spike (S) protein interacts with a cellular receptor during virus entry [25, 26] and functions by inducing neutralizing antibodies in the natural host [27] [28] [29] , many studies have focused on a sequence comparison of the S protein between emergent or re-emergent PEDV strains and the prototype strain CV777 to seek a possible answer for PED outbreaks [18, 24, 30, 31] . In addition to S protein, whether other factors play roles in the outbreak remain to be elucidated.
+5	124	128 mild	Phenotype	HP_0012825
+5	129	137 diarrhea	Phenotype	HP_0002014
+5	206	214 diarrhea	Phenotype	HP_0002014
+5	231	237 severe	Phenotype	HP_0012828
+5	238	246 diarrhea	Phenotype	HP_0002014
+
+6|chunk|The evolution of cis-acting elements in PEDV has not been previously analyzed. In this study, we determined whether the cis-acting elements that are required for gene expression are altered in the PEDV Taiwan (TW) strain in comparison with those of the PEDV prototype strain CV777. Functional analyses were also performed to determine whether the identified variations in cis-acting elements between the two strains alter the efficiency of translation, replication (genomic RNA synthesis), and transcription (sgmRNA synthesis) of the virus. The results may extend our understanding for the recent PED outbreaks in Taiwan and other countries.
+6	162	177 gene expression	Gene_function	GO_0010467
+6	516	525 synthesis	Gene_function	GO_0009058
+
+7|chunk|Materials and Methods
+
+8|chunk|Fecal and intestinal samples were collected from the Animal Disease
+

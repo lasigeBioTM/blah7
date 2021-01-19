@@ -1,0 +1,54 @@
+0|chunk|The nucleolar protein GLTSCR2 is required for efficient viral replication OPEN
+
+1|chunk|In the investigation of the role of GLTSCR2 that played in the cellular innate immune response to viral infection, we found GLTSCR2 supported viral replication of rhabdovirus, paramyxovirus, and coronavirus in cells. Viral infection induced translocation of GLTSCR2 from nucleus to cytoplasm that enabled GLTSCR2 to attenuate type I interferon IFN- and support viral replication. Cytoplasmic GLTSCR2 was able to interact with retinoic acid-inducible gene I (RIG-I) and the ubiquitin-specific protease 15 (USP15), and the triple interaction induced USP15 activity to remove K63-linked ubiquitination of RIG-I, leading to attenuation of RIG-I and IFN-. Blocking cytoplasmic translocation of GLTSCR2, by deletion of its nuclear export sequence (NES), abrogated its ability to attenuate IFN- and support viral replication. GLTSCR2-mediated attenuation of RIG-I and IFN- led to alleviation of host cell innate immune response to viral infection. Our findings suggested that GLTSCR2 contributed to efficient viral replication, and GLTSCR2 should be considered as a potential target for therapeutic control of viral infection.
+1	72	94 innate immune response	Gene_function	GO_0045087
+1	79	94 immune response	Gene_function	GO_0006955
+1	98	113 viral infection	Gene_function	GO_0016032
+1	217	232 Viral infection	Gene_function	GO_0016032
+1	271	278 nucleus	Gene_function	GO_0005634
+1	282	291 cytoplasm	Gene_function	GO_0005737
+1	719	733 nuclear export	Gene_function	GO_0051168
+1	892	901 host cell	Gene_function	GO_0043657
+1	902	924 innate immune response	Gene_function	GO_0045087
+1	909	924 immune response	Gene_function	GO_0006955
+1	928	943 viral infection	Gene_function	GO_0016032
+1	1107	1122 viral infection	Gene_function	GO_0016032
+
+2|chunk|Innate immunity is critical for defending the host from pathogens, and type I interferon (IFN) is the core of cellular antiviral response 1-5 . Upon viral infection, host pattern recognition receptors (PRRs), such as the retinoic acid-induced gene I (RIG-I)-like receptors (RLRs), are able to detect viral nucleic acids and initiate a series of cell signals, leading to induction of type I IFN and proinflammatory cytokines 2-5 . RIG-I, a family member of RLRs, interacts with viral RNA and recruits mitochondrial-associated virus stimulator (MAVS, also known as IPS-1, Cardif, and VISA) 6,7 . MAVS recruits tumor necrosis receptor-associated factor 3 (TRAF3) that results in TRAF3 lysine 63 (K63)-linked auto-ubiquitination to provide docking sites for TANK binding kinase 1/I kappa-B kinase epsilon (TBK1/IKK ) complex 8-10 . This complex undergoes auto-phosphorylation-mediated activation, resulting in phosphorylating and activating the type I IFN regulatory factor IRF3 or/and IRF7 to form homodimers or heterodimers that translocate into the nucleus for induction of type I IFN 10,11 . The complex also activates canonical IKK for NF- B activation to induce proinflammatory cytokines 12 . Studies also showed that dephosphorylation (Thr170) of RIG-I by the phosphatase PP1  / 13 and K63-linked ubiquitination (Lys172) of RIG-I by the ubiquitin E3 ligase tripartite motif proteins TRIM25 14 and TRIM4 15 lead to RIG-I activation and type I IFN production. Studies have shown that viral infection, including rhabdovirus, paramyxovirus, coronavirus, and herpesvirus, may counteract RIG-I-dependent IFN antiviral response 16 . Rabies virus is a member of the Rhabdoviridae family, and Rabies virus (Ni strain)-expressed N protein has a function to evade the activation of RIG-I and RIG-I-mediated innate immunity 17 . Respiratory syncytial virus (RSV) is a member of the Paramyxoviridae family, and RSV-expressed nonstructural NS2 protein inhibits IFN transcription induced by binding RIG-I and inhibiting its interaction with the downstream component MAVS 18 . Porcine epidemic diarrhea virus (PEDV) is a member of the Coronaviridae family, and PEDV-expressed papain-like protease 2 (PLP2), which has deubiqutinase (DUB) activity, reduces both K48-linked and K63-linked polyubiquitin chains and inhibits RIG-I-activated IFN expression 19 . Herpes simplex virus type 1 (HSV-1)-expressed US11 protein antagonizes IFN- production by binding RIG-I 20 . Kaposi's sarcoma-associated herpesvirus (KSHV)-expressed ORF64, which is a tegument protein with DUB activity, suppresses type I IFN signaling by blocking the ubiquitination of RIG-I 21 . Cellular ubiquitin-specific proteases (USPs), a subfamily of DUB 22 , regulate ubiquitination of RIG-I 23 . USP21 and USP15 remove K63-linked polyubiquitin chains from RIG-I and block the ability of RIG-I to induce IFN- 24,25 . USP15
+2	0	15 Innate immunity	Gene_function	GO_0045087
+2	119	137 antiviral response	Gene_function	GO_0051607
+2	608	613 tumor	Phenotype	HP_0002664
+2	614	622 necrosis	Gene_function	GO_0001906
+2	759	766 binding	Gene_function	GO_0005488
+2	1049	1056 nucleus	Gene_function	GO_0005634
+2	1130	1133 IKK	Gene_function	GO_0008384
+2	1222	1239 dephosphorylation	Gene_function	GO_0016311
+2	1265	1276 phosphatase	Gene_function	GO_0016791
+2	1344	1353 ubiquitin	Gene_function	GO_0031386
+2	1609	1627 antiviral response	Gene_function	GO_0051607
+2	1803	1818 innate immunity	Gene_function	GO_0045087
+2	1983	1990 binding	Gene_function	GO_0005488
+2	2085	2093 diarrhea	Phenotype	HP_0002014
+2	2438	2445 binding	Gene_function	GO_0005488
+2	2590	2599 signaling	Gene_function	GO_0023052
+2	GO-HP	GO_0045087	HP_0002664
+2	GO-HP	GO_0045087	HP_0002014
+2	GO-HP	GO_0051607	HP_0002664
+2	GO-HP	GO_0051607	HP_0002014
+2	HP-GO	HP_0002664	GO_0001906
+2	HP-GO	HP_0002664	GO_0005488
+2	HP-GO	HP_0002664	GO_0005634
+2	HP-GO	HP_0002664	GO_0008384
+2	HP-GO	HP_0002664	GO_0016311
+2	HP-GO	HP_0002664	GO_0016791
+2	HP-GO	HP_0002664	GO_0031386
+2	HP-GO	HP_0002664	GO_0023052
+2	GO-HP	GO_0001906	HP_0002014
+2	GO-HP	GO_0005488	HP_0002014
+2	GO-HP	GO_0005634	HP_0002014
+2	GO-HP	GO_0008384	HP_0002014
+2	GO-HP	GO_0016311	HP_0002014
+2	GO-HP	GO_0016791	HP_0002014
+2	GO-HP	GO_0031386	HP_0002014
+2	HP-GO	HP_0002014	GO_0023052
+

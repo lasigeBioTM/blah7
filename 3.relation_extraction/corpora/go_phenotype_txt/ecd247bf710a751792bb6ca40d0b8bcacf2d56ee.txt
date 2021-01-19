@@ -1,0 +1,19 @@
+0|chunk|ciliaFA: a research tool for automated, high-throughput measurement of ciliary beat frequency using freely available software
+0	84	93 frequency	Phenotype	HP_0040279
+
+1|chunk|Background: Analysis of ciliary function for assessment of patients suspected of primary ciliary dyskinesia (PCD) and for research studies of respiratory and ependymal cilia requires assessment of both ciliary beat pattern and beat frequency. While direct measurement of beat frequency from high-speed video recordings is the most accurate and reproducible technique it is extremely time consuming. The aim of this study was to develop a freely available automated method of ciliary beat frequency analysis from digital video (AVI) files that runs on open-source software (ImageJ) coupled to Microsoft Excel, and to validate this by comparison to the direct measuring high-speed video recordings of respiratory and ependymal cilia. These models allowed comparison to cilia beating between 3 and 52 Hz.
+1	89	107 ciliary dyskinesia	Phenotype	HP_0012265
+1	97	107 dyskinesia	Phenotype	HP_0100660
+1	109	112 PCD	Gene_function	GO_0012501
+1	232	241 frequency	Phenotype	HP_0040279
+1	276	285 frequency	Phenotype	HP_0040279
+1	488	497 frequency	Phenotype	HP_0040279
+1	HP-GO	HP_0012265	GO_0012501
+1	HP-GO	HP_0100660	GO_0012501
+1	GO-HP	GO_0012501	HP_0040279
+
+2|chunk|Methods: Digital video files of motile ciliated ependymal (frequency range 34 to 52 Hz) and respiratory epithelial cells (frequency 3 to 18 Hz) were captured using a high-speed digital video recorder. To cover the range above between 18 and 37 Hz the frequency of ependymal cilia were slowed by the addition of the pneumococcal toxin pneumolysin. Measurements made directly by timing a given number of individual ciliary beat cycles were compared with those obtained using the automated ciliaFA system.
+2	59	68 frequency	Phenotype	HP_0040279
+2	122	131 frequency	Phenotype	HP_0040279
+2	251	260 frequency	Phenotype	HP_0040279
+

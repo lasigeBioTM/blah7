@@ -1,0 +1,31 @@
+0|chunk|Ionizing air affects influenza virus infectivity and prevents airborne- transmission OPEN
+0	21	30 influenza	Disease	DOID_8469
+
+1|chunk|Active ionizer prevented 100% (4/4) of guinea pigs from infection. Moreover, the device effectively captured airborne transmitted calicivirus, rotavirus and influenza virus, with recovery rates up to 21% after 40 min in a 19 m 3 room. The ionizer generates negative ions, rendering airborne particles/ aerosol droplets negatively charged and electrostatically attracts them to a positively charged collector plate. Trapped viruses are then identified by reverse transcription quantitative real-time PCR. The device enables unique possibilities for rapid and simple removal of virus from air and offers possibilities to simultaneously identify and prevent airborne transmission of viruses.
+1	157	166 influenza	Disease	DOID_8469
+
+2|chunk|There is an urgent need for simple, portable and sensitive devices to collect, eliminate and identify viruses from air, to rapidly detect and prevent outbreaks and spread of infectious diseases 1 . Each year, infectious diseases cause millions of deaths around the world and many of the most common infectious pathogens are spread by droplets or aerosols caused by cough, sneeze, vomiting etc. 2-5 . Knowledge of aerosol transmission mechanisms are limited for most pathogens, although spread by air is an important transmission route for many pathogens including viruses 6 .
+
+3|chunk|Today no simple validated technology exists which can rapidly and easily collect viruses from air and identify them. The problem is not the analyzing technique, since molecular biological methods such as real-time PCR enable a sensitive detection system of most pathogens 7-9 . The difficulty is to develop an effective sampling method to rapidly collect small airborne particles including viruses from large volumes of air. Furthermore, the sampling method should be robust with easy handling to enable a wide distribution and application in many types of environment. At present, the most commonly used techniques aimed to collect pathogens from air are airflow and liquid models 10-15 . These systems are complex, and their efficiency has not been thoroughly evaluated.
+
+4|chunk|Spread of infectious diseases in hospitals can be most significant [16] [17] [18] . In many situations there is a need for a pathogen-and particle-free environment, e.g. in operation wards, environments for immunosuppressed patients as well as for patients with serious allergies. This makes it desirable to have a method not only for collection and identification 19 , but also for eliminating virus and other pathogens from air 20 . Ozone gas has been shown to inactivate norovirus and may be used in empty rooms to decontaminate surfaces, however in rooms with patients ozone should not been used due to its toxicity 21 . Generation of negative ions has previously been shown to reduce transmission of Newcastle disease virus 22,23 and several kind of bacteria 24,25 in animal experimental set-ups.
+4	435	440 Ozone	Chemical	CHEBI_25812
+4	573	578 ozone	Chemical	CHEBI_25812
+4	648	652 ions	Chemical	CHEBI_24870
+4	705	722 Newcastle disease	Disease	DOID_2929
+4	715	722 disease	Disease	DOID_4
+4	CHEBI-DOID	CHEBI_25812	DOID_2929
+4	CHEBI-DOID	CHEBI_25812	DOID_4
+4	CHEBI-DOID	CHEBI_24870	DOID_2929
+4	CHEBI-DOID	CHEBI_24870	DOID_4
+
+5|chunk|The ionizing device used in this study operates at 12 V and generates negative ionizations in an electric field, which collide with and charge the aerosol particles. Those are then captured by a positively charged collector plate. For safety reasons, the collector plate has a very low current, less than 80 A, however the ionizer accelerates a voltage of more than 200,000 eV, which enables high production of several billion electrons per second. Moreover, this device does not produce detectable levels of ozone and can thus be safely used in all environments.
+5	346	353 voltage	Chemical	CHEBI_38876
+5	510	515 ozone	Chemical	CHEBI_25812
+
+6|chunk|This technique is known to effectively collect and eliminate cat-allergens from air 26 . Aerosolized rotavirus, calicivirus and influenza virus particles exposed to the ionizing device were attracted to the collector plate and subsequently identified by electron microscopy and reverse transcription quantitative real-time PCR techniques. Most importantly, we demonstrate that this technology can be used to prevent airborne-transmitted influenza virus infections.
+6	128	137 influenza	Disease	DOID_8469
+6	254	262 electron	Chemical	CHEBI_10545
+6	437	446 influenza	Disease	DOID_8469
+6	DOID-CHEBI	DOID_8469	CHEBI_10545
+

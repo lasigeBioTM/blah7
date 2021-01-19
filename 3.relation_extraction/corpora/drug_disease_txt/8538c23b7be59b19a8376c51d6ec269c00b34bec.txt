@@ -1,0 +1,29 @@
+0|chunk|2 Division of Global Health Protection
+
+1|chunk|Worldwide, the number of emerging and re-emerging infectious diseases is increasing, highlighting the importance of global disease pathogen surveillance. Traditional populationbased methods may fail to capture important events, particularly in settings with limited access to health care, such as urban informal settlements. In such environments, a mixture of surface water runoff and human feces containing pathogenic microorganisms could be used as a surveillance surrogate.
+1	123	130 disease	Disease	DOID_4
+1	349	356 mixture	Chemical	CHEBI_60004
+1	368	373 water	Chemical	CHEBI_15377
+1	DOID-CHEBI	DOID_4	CHEBI_60004
+1	DOID-CHEBI	DOID_4	CHEBI_15377
+
+2|chunk|We conducted a temporal metagenomic analysis of urban sewage from Kibera, an urban informal settlement in Nairobi, Kenya, to detect and quantify bacterial and associated antimicrobial resistance (AMR) determinants, viral and parasitic pathogens. Data were examined in conjunction with data from ongoing clinical infectious disease surveillance.
+2	170	183 antimicrobial	Chemical	CHEBI_33281
+2	312	330 infectious disease	Disease	DOID_0050117
+2	323	330 disease	Disease	DOID_4
+2	CHEBI-DOID	CHEBI_33281	DOID_0050117
+2	CHEBI-DOID	CHEBI_33281	DOID_4
+
+3|chunk|A large variation of read abundances related to bacteria, viruses, and parasites of medical importance, as well as bacterial associated antimicrobial resistance genes over time were detected. Significant increased abundances were observed for a number of bacterial pathogens coinciding with higher abundances of AMR genes. Vibrio cholerae as well as rotavirus A, among other virus peaked in several weeks during the study period whereas Cryptosporidium spp. and Giardia spp, varied more over time.
+3	136	149 antimicrobial	Chemical	CHEBI_33281
+3	323	338 Vibrio cholerae	Disease	DOID_1498
+3	CHEBI-DOID	CHEBI_33281	DOID_1498
+
+4|chunk|The metagenomic surveillance approach for monitoring circulating pathogens in sewage was able to detect putative pathogen and resistance loads in an urban informal settlement. Thus, valuable if generated in real time to serve as a comprehensive infectious disease agent surveillance system with the potential to guide disease prevention and treatment. The approach may lead to a paradigm shift in conducting real-time global genomics-based surveillance in settings with limited access to health care.
+4	245	263 infectious disease	Disease	DOID_0050117
+4	256	263 disease	Disease	DOID_4
+4	318	325 disease	Disease	DOID_4
+
+5|chunk|Metagenomic surveillance in an informal settlement PLOS ONE | https://doi.org/10.
+5	56	59 ONE	Chemical	CHEBI_58972
+

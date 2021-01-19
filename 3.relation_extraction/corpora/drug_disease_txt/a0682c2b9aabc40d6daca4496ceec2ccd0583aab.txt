@@ -1,0 +1,30 @@
+0|chunk|Epitope-based peptide vaccine design and target site depiction against Middle East Respiratory Syndrome Coronavirus: an immune-informatics study
+0	14	21 peptide	Chemical	CHEBI_16670
+0	71	103 Middle East Respiratory Syndrome	Disease	DOID_0080642
+0	95	103 Syndrome	Disease	DOID_225
+0	CHEBI-DOID	CHEBI_16670	DOID_0080642
+0	CHEBI-DOID	CHEBI_16670	DOID_225
+
+1|chunk|Background: Middle East Respiratory Syndrome Coronavirus (MERS-COV) is the main cause of lung and kidney infections in developing countries such as Saudi Arabia and South Korea. This infectious single-stranded, positive (+) sense RNA virus enters the host by binding to dipeptidyl-peptide receptors. Since no vaccine is yet available for MERS-COV, rapid case identification, isolation, and infection prevention strategies must be used to combat the spreading of MERS-COV infection. Additionally, there is a desperate need for vaccines and antiviral strategies.
+1	12	44 Middle East Respiratory Syndrome	Disease	DOID_0080642
+1	36	44 Syndrome	Disease	DOID_225
+1	230	233 RNA	Chemical	CHEBI_33697
+1	539	548 antiviral	Chemical	CHEBI_22587
+1	DOID-CHEBI	DOID_0080642	CHEBI_33697
+1	DOID-CHEBI	DOID_0080642	CHEBI_22587
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_22587
+
+2|chunk|The present study used immuno-informatics and computational approaches to identify conserved Band T cell epitopes for the MERS-COV spike (S) protein that may perform a significant role in eliciting the resistance response to MERS-COV infection.
+2	141	148 protein	Chemical	CHEBI_16541
+2	180	184 role	Chemical	CHEBI_50906
+
+3|chunk|Many conserved cytotoxic T-lymphocyte epitopes and discontinuous and linear B-cell epitopes were predicted for the MERS-COV S protein, and their antigenicity and interactions with the human leukocyte antigen (HLA) B7 allele were estimated. Among B-cell epitopes, QLQMGFGITVQYGT displayed the highest antigenicity-score, and was immensely immunogenic. Among T-cell epitopes, MHC class-I peptide YKLQPLTFL and MHC class-II peptide YCILEPRSG were identified as highly antigenic. Furthermore, docking analyses revealed that the predicted peptides engaged in strong bonding with the HLA-B7 allele.
+3	200	207 antigen	Chemical	CHEBI_59132
+3	386	393 peptide	Chemical	CHEBI_16670
+3	421	428 peptide	Chemical	CHEBI_16670
+3	534	542 peptides	Chemical	CHEBI_16670
+
+4|chunk|The present study identified several MERS-COV S protein epitopes that are conserved among various isolates from different countries. The putative antigenic epitopes may prove effective as novel vaccines for eradication and combating of MERS-COV infection.
+4	48	55 protein	Chemical	CHEBI_16541
+

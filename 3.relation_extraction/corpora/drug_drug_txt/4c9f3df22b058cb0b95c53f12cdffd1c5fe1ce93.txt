@@ -1,0 +1,133 @@
+0|chunk|Structural insights into the Middle East respiratory syndrome coronavirus 4a protein and its dsRNA binding mechanism OPEN
+0	77	84 protein	Chemical	CHEBI_16541
+0	93	98 dsRNA	Chemical	CHEBI_67208
+0	CHEBI-CHEBI	CHEBI_16541	CHEBI_67208
+
+1|chunk|Middle East respiratory syndrome coronavirus (MERS-CoV) has evolved to navigate through the sophisticated network of a host's immune system. The immune evasion mechanism including type 1 interferon and protein kinase R-mediated antiviral stress responses has been recently attributed to the involvement of MERS-CoV protein 4a (p4a) that masks the viral dsRNA. However, the structural mechanism of how p4a recognizes and establishes contacts with dsRNA is not well explained. In this study, we report a dynamic mechanism deployed by p4a to engage the viral dsRNA and make it unavailable to the host immune system. Multiple variants of p4a-dsRNA were created and investigated through extensive molecular dynamics procedures to highlight crucial interfacial residues that may be used as potential pharmacophores for future drug development. The structural analysis revealed that p4a exhibits a typical  fold structure, as found in other dsRNA-binding proteins. The 1 helix and the 1-2 loop play a crucial role in recognizing and establishing contacts with the minor grooves of dsRNA. Further, mutational and binding free energy analyses suggested that in addition to K63 and K67, two other residues, K27 and W45, might also be crucial for p4a-dsRNA stability.
+1	187	197 interferon	Chemical	CHEBI_52999
+1	202	209 protein	Chemical	CHEBI_16541
+1	228	237 antiviral	Chemical	CHEBI_22587
+1	315	322 protein	Chemical	CHEBI_16541
+1	353	358 dsRNA	Chemical	CHEBI_67208
+1	446	451 dsRNA	Chemical	CHEBI_67208
+1	556	561 dsRNA	Chemical	CHEBI_67208
+1	820	824 drug	Chemical	CHEBI_23888
+1	1010	1014 role	Chemical	CHEBI_50906
+1	1082	1087 dsRNA	Chemical	CHEBI_67208
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_67208
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_67208
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_67208
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_67208	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_67208	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_50906
+
+2|chunk|The innate immunity of host cells is the first line of defense that initiates a protective response against pathogenic microorganisms and viruses 1 . Germline-encoded receptors of the innate immune system protect the host cells from infection by pathogenic intruders 2 , while pathogens constantly evolve various strategies to circumvent the host's protective responses 3 . Host cells are equipped with counter mechanisms to detect virus-encoded molecular patterns and propagate an antiviral response. Viral double-stranded RNA (dsRNA) is a well-characterized pathogen-associated molecular pattern recognized by cytosolic pattern recognition receptors retinoic acid inducible gene-1 (RIG-1), melanoma differentiation-associated protein 5 (MDA5), and endosomal toll-like receptor 3 (TLR3), resulting in type 1 interferon (IFN1) production 4 . Viruses employ a unique evasion mechanism by synthesizing proteins that hinder the IFN1 production and secretion pathways. For instance, influenza A virus uses non-structural protein 1 to bind dsRNA 5 , inhibiting RIG-1-like receptors and TLR3-dependent IFN1 synthesis. Dengue virus, on the other hand, prevents IRF3 phosphorylation through the non-structural protein 2B3 protease complex 6 . Similarly, Middle East respiratory syndrome coronavirus (MERS-CoV) implements a mechanism to evade dsRNA sensors including RIG-1, MDA5, and endosomal TLR3 of the host immune system. Subsequent studies have found that MERS-CoV is much more sensitive to IFN1 treatment than severe acute respiratory syndrome coronavirus (SARS-CoV) 7-10 . This viral interference in the host innate immune pathway enhances virus-induced disease progression and elevates the mortality rate to 60% 11, 12 .
+2	482	491 antiviral	Chemical	CHEBI_22587
+2	508	527 double-stranded RNA	Chemical	CHEBI_67208
+2	524	527 RNA	Chemical	CHEBI_33697
+2	529	534 dsRNA	Chemical	CHEBI_67208
+2	652	665 retinoic acid	Chemical	CHEBI_15367
+2	661	665 acid	Chemical	CHEBI_37527
+2	728	735 protein	Chemical	CHEBI_16541
+2	809	819 interferon	Chemical	CHEBI_52999
+2	900	908 proteins	Chemical	CHEBI_36080
+2	1017	1024 protein	Chemical	CHEBI_16541
+2	1035	1040 dsRNA	Chemical	CHEBI_67208
+2	1202	1209 protein	Chemical	CHEBI_16541
+2	1334	1339 dsRNA	Chemical	CHEBI_67208
+2	1621	1628 pathway	Chemical	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_67208
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_15367
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_22587	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_15367
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_67208	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_15367
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_15367	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_15367	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_15367	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_15367	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_15367	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_52999
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_52999	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_52999	CHEBI_34922
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_34922
+
+3|chunk|MERS-CoV is a major cause of chronic respiratory diseases and the first case was reported in Jeddah in 2012 13 . The natural habitat of the virus is not known; however, phylogenetic analyses show that bat coronaviruses bCoV-HKU4 and bCoV-HKU5 are the closest neighbors to MERS-CoV, suggesting that the virus can be spread by bats 14 . The genome organization of MERS-CoV is similar to SARS-CoV, in which non-structural proteins responsible for genome replication cover two-thirds of the genome. The remaining parts of the genome encode structural (membrane, spike, nucleocapsid, and envelope proteins) and accessory proteins 15, 16 . Once MERS-CoV enters the cells with the help of dipeptidyl peptidase-4 receptors 17 , it starts replicating by manipulating and modulating the host cells' metabolism 18 , including antigen presentation, apoptosis, mitogen-activated protein kinase, Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific REPORTS | 7: 11362 | and innate immune response. MERS-CoV interrupts IFN1 response of the cell and may encode certain proteins that help the virus to escape from the host immune system. The accessory proteins 3, 4a, 4b, 5, and 8b, encoded by various open reading frames, inhibit IFN1 production in the infected cells, mainly in dendritic cells 19 . Viral-dsRNA is the principal agent that triggers the host immune response mediated by RIG-1, MDA5 20, 21 , and endosomal TLR3. RIG-1 recognizes dsRNA through its dsRNA-binding domain (dsRBD) and undergoes conformational changes to expose its caspase activation and recruitment domain. Activated RIG-1 initiates a downstream signaling cascade involving mitochondrial antiviral signaling adaptor protein and kinases TBK1 and IKK, leading to the activation and nuclear translocation of transcription factors IRF3 and IRF7, which facilitate IFN1 promoter activity 22 .
+3	419	427 proteins	Chemical	CHEBI_36080
+3	592	600 proteins	Chemical	CHEBI_36080
+3	616	624 proteins	Chemical	CHEBI_36080
+3	815	822 antigen	Chemical	CHEBI_59132
+3	866	873 protein	Chemical	CHEBI_16541
+3	1074	1082 proteins	Chemical	CHEBI_36080
+3	1156	1164 proteins	Chemical	CHEBI_36080
+3	1449	1454 dsRNA	Chemical	CHEBI_67208
+3	1671	1680 antiviral	Chemical	CHEBI_22587
+3	1699	1706 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_59132
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_67208
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_67208
+3	CHEBI-CHEBI	CHEBI_59132	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_67208
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_67208	CHEBI_22587
+
+4|chunk|MERS-CoV utilizes protein 4a (p4a) to ensure its replication without being detected by the RIG-1 and MDA5 receptors 23 . Further, p4a contains a dsRNA-binding motif (DSRM), which binds directly to the viral dsRNA and masks its recognition by TLR3 and RIG-1 23 . Mutational studies have shown that two amino acids, K63 and K67, in the p4a-DRSM play crucial role in RNA association and p4a-dsRNA complex stability 22 . Other studies also provided consistent results that p4a antagonizes IFN1 induction in host cells 23 . Thus, the inhibition of p4a would allow the host cells to restore anti-MERS-CoV immune response.
+4	18	25 protein	Chemical	CHEBI_16541
+4	207	212 dsRNA	Chemical	CHEBI_67208
+4	301	306 amino	Chemical	CHEBI_46882
+4	356	360 role	Chemical	CHEBI_50906
+4	364	367 RNA	Chemical	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_67208
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_67208	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33697
+4	CHEBI-CHEBI	CHEBI_50906	CHEBI_33697
+
+5|chunk|Several research groups have been trying to formulate an effective anti-MERS-CoV vaccine or drug to prevent future epidemics [24] [25] [26] [27] [28] [29] . Recently, a few drugs have been suggested to inhibit viral replication; however, these have not been tested in vivo [30] [31] [32] [33] . In this study, we conducted computational studies and constructed a three-dimensional (3D) model of p4a to understand the structural aspects and its dsRNA recognition mechanism. Based on the experimental knowledge learned and our analyses, we created multiple variants of p4a through in silico mutagenesis and vetted them for their underlying effects on p4a-dsRNA binding stability. The results from this study may be useful as a guide for future studies on developing high-affinity p4a inhibitors through rational drug design approaches.
+5	92	96 drug	Chemical	CHEBI_23888
+5	173	178 drugs	Chemical	CHEBI_23888
+5	444	449 dsRNA	Chemical	CHEBI_67208
+5	782	792 inhibitors	Chemical	CHEBI_35222
+5	810	814 drug	Chemical	CHEBI_23888
+5	CHEBI-CHEBI	CHEBI_23888	CHEBI_67208
+5	CHEBI-CHEBI	CHEBI_23888	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_67208	CHEBI_35222
+

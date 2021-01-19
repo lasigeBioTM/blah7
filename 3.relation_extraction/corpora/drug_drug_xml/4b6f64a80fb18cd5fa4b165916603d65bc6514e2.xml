@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2">
+  <chunk id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0" text="molecules QSAR-Assisted Virtual Screening of Lead-Like Molecules from Marine and Microbial Natural Sources for Antitumor and Antibiotic Drug Discovery">
+    <entity charOffset="0-9" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e0" ontology_id="CHEBI_25367" text="molecules" type="chemical"/>
+    <entity charOffset="55-64" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e1" ontology_id="CHEBI_25367" text="Molecules" type="chemical"/>
+    <entity charOffset="125-135" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e2" ontology_id="CHEBI_33281" text="Antibiotic" type="chemical"/>
+    <entity charOffset="136-140" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e3" ontology_id="CHEBI_23888" text="Drug" type="chemical"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e1" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p0" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e2" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p1" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p2" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e2" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p3" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p4" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e2" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c0.p5" relation="true"/>
+  </chunk>
+  <chunk id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1" text="A Quantitative Structure-Activity Relationship (QSAR) approach for classification was used for the prediction of compounds as active/inactive relatively to overall biological activity, antitumor and antibiotic activities using a data set of 1746 compounds from PubChem with empirical CDK descriptors and semi-empirical quantum-chemical descriptors. A data set of 183 active pharmaceutical ingredients was additionally used for the external validation of the best models. The best classification models for antibiotic and antitumor activities were used to screen a data set of marine and microbial natural products from the AntiMarin database-25 and four lead compounds for antibiotic and antitumor drug design were proposed, respectively. The present work enables the presentation of a new set of possible lead like bioactive compounds and corroborates the results of our previous investigations. By other side it is shown the usefulness of quantum-chemical descriptors in the discrimination of biologically active and inactive compounds. None of the compounds suggested by our approach have assigned non-antibiotic and non-antitumor activities in the AntiMarin database and almost all were lately reported as being active in the literature.">
+    <entity charOffset="199-209" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e0" ontology_id="CHEBI_33281" text="antibiotic" type="chemical"/>
+    <entity charOffset="374-388" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" ontology_id="CHEBI_52217" text="pharmaceutical" type="chemical"/>
+    <entity charOffset="506-516" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e2" ontology_id="CHEBI_33281" text="antibiotic" type="chemical"/>
+    <entity charOffset="654-668" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" ontology_id="CHEBI_33585" text="lead compounds" type="chemical"/>
+    <entity charOffset="673-683" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e4" ontology_id="CHEBI_33281" text="antibiotic" type="chemical"/>
+    <entity charOffset="698-702" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p0" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p1" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e0" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p2" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e2" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p3" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p4" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e4" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p5" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e1" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p6" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e2" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p7" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e2" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p8" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e4" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p9" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e3" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p10" relation="true"/>
+    <pair e1="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e4" e2="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.e5" id="4b6f64a80fb18cd5fa4b165916603d65bc6514e2.c1.p11" relation="true"/>
+  </chunk>
+</document>

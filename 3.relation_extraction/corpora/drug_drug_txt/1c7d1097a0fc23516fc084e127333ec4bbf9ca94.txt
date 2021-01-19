@@ -1,0 +1,117 @@
+0|chunk|viruses Ebola Virus Entry: From Molecular Characterization to Drug Discovery
+0	62	66 Drug	Chemical	CHEBI_23888
+
+1|chunk|Ebola Virus Disease (EVD) is one of the most lethal transmissible infections, characterized by a high fatality rate, and caused by a member of the Filoviridae family. The recent large outbreak of EVD in Western Africa (2013)(2014)(2015)(2016) highlighted the worldwide threat represented by the disease and its impact on global public health and the economy. The development of highly needed anti-Ebola virus antivirals has been so far hampered by the shortage of tools to study their life cycle in vitro, allowing to screen for potential active compounds outside a biosafety level-4 (BSL-4) containment. Importantly, the development of surrogate models to study Ebola virus entry in a BSL-2 setting, such as viral pseudotypes and Ebola virus-like particles, tremendously boosted both our knowledge of the viral life cycle and the identification of promising antiviral compounds interfering with viral entry. In this context, the combination of such surrogate systems with large-scale small molecule compounds and haploid genetic screenings, as well as rational drug design and drug repurposing approaches will prove priceless in our quest for the development of a treatment for EVD.
+1	409	419 antivirals	Chemical	CHEBI_22587
+1	859	868 antiviral	Chemical	CHEBI_22587
+1	991	999 molecule	Chemical	CHEBI_25367
+1	1062	1066 drug	Chemical	CHEBI_23888
+1	1078	1082 drug	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+
+2|chunk|Until 2014, EVD was considered a neglected disease, causing small outbreaks in remote African villages. EBOV research was focused mainly on biology aspects of viral infection or preparedness due to its potential use as bioweapon, and was limited to few laboratories equipped with biosafety level-4 (BSL-4) facilities. However, the recent large outbreak of EVD (Western Africa, 2013-2016) characterized by 28,616 cases and 11,310 deaths, highlighted the worldwide danger of this disease and its impact on global public health and economy [5] .
+
+3|chunk|Thus, research on the molecular dissection of EBOV life cycle received a strong stimulus and financial support with the ultimate goal of developing effective preventive and therapeutic approaches. In this review, we summarize the current knowledge of a specific step of the EBOV life cycle, the entry process, and the compounds identified so far capable of interfering with it, as well as the molecular models used to these purposes.
+
+4|chunk|EBOV is an enveloped, negative-stranded RNA virus characterized by a virion of 80 nm of diameter and a length ranging from hundreds of nanometers to micrometers. The genome encodes for seven structural proteins: the nucleoprotein (N), the virion protein (VP) 24, VP35, VP30, VP40, the glycoprotein (GP), and the RNA-dependent RNA polymerase (L) [6]. Inside the viral particle, the ribonucleoprotein complex consists of the genomic RNA encapsidated by N, which binds to VP35, VP30 and L. The ribonucleoprotein complex interacts with the envelope, containing the GP, through the matrix protein VP40 and the minor matrix protein VP24. Viral tropism is determined by GP that allows the interaction with target cells. EBOV productively infects a broad range of cell types such as monocytes, macrophages, dendritic cells, endothelial cells, fibroblasts, hepatocytes, and adrenal cortical cells [1] . Following host cell attachment (Figure 1) , the virus is internalized by macropinocytosis, a non-selective process of engulfment [7] [8] [9] . Binding to target cells is mediated by different attaching factors, i.e., C-type lectins, T-cell immunoglobulin and mucin domain 1, and Tyrosine kinase receptor Axl [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] . Furthermore, it has been shown that binding efficiency is related to the activity of acid Sphingomyelinase (aSMase) and to the presence of plasma membrane sphingomyelin [23] . On the viral side, EBOV attachment and entry are mediated by the surface glycoprotein GP, a class I fusion protein. In its native state, GP is a triplet of heterodimers, each composed of a receptor binding subunit (GP1) and a fusion subunit (GP2). The GP1 and GP2 subunits originate by the cleavage within the Golgi complex of a single precursor peptide, and remain associated through a disulfide bond and non-covalent interactions [17, 24] . After initial internalization (Figure 1), virus particle trafficking into the endo-lysosomal pathway ends up into late endosomes, where the low-pH-dependent cysteine proteases cathepsins B and L process GP1 into a 19 kDa fusogenic form [19, 23, [25] [26] [27] [28] , exposing the putative receptor binding domain [29] . Subsequently, the interaction between the processed GP1 and the late endosomal/lysosomal protein Neimann-Pick C1 (NPC-1) leads to GP2-dependent fusion of the viral envelope with the endosomal limiting membrane [30] [31] [32] . Furthermore, it has been shown that the fusion step also requires the Two-Pore Channel 2 (TPC2) activity [33] , although the specific role of TPC2 in viral entry is not entirely clear yet [34] . Finally, the viral nucleocapsid is released into the cytoplasm leading to transcription and replication of the viral genome, followed by assembly and budding of the viral progeny [35] . After the infection of primary cell targets, the viral progeny spreads to a variety of cell types and tissues, eventually resulting into a generalized organ failure [1].
+4	40	43 RNA	Chemical	CHEBI_33697
+4	203	211 proteins	Chemical	CHEBI_36080
+4	232	235 Naa	Chemical	CHEBI_21547
+4	247	254 protein	Chemical	CHEBI_16541
+4	286	298 glycoprotein	Chemical	CHEBI_17089
+4	327	330 RNA	Chemical	CHEBI_33697
+4	432	435 RNA	Chemical	CHEBI_33697
+4	585	592 protein	Chemical	CHEBI_16541
+4	619	626 protein	Chemical	CHEBI_16541
+4	1174	1182 Tyrosine	Chemical	CHEBI_17895
+4	1174	1182 Tyrosine	Chemical	CHEBI_18186
+4	1355	1359 acid	Chemical	CHEBI_37527
+4	1425	1438 sphingomyelin	Chemical	CHEBI_17636
+4	1519	1531 glycoprotein	Chemical	CHEBI_17089
+4	1553	1560 protein	Chemical	CHEBI_16541
+4	1833	1842 disulfide	Chemical	CHEBI_48343
+4	1982	1989 pathway	Chemical	CHEBI_34922
+4	2046	2054 cysteine	Chemical	CHEBI_15356
+4	2298	2305 protein	Chemical	CHEBI_16541
+4	2570	2574 role	Chemical	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_21547
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_17895
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_33697	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_21547
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17895
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_17895
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_21547	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_17895
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_17895
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_18186
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_17895	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_18186	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_17636
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_17636	CHEBI_48343
+4	CHEBI-CHEBI	CHEBI_17636	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_17636	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_17636	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_48343	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_48343	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_48343	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_34922	CHEBI_15356
+4	CHEBI-CHEBI	CHEBI_34922	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_15356	CHEBI_50906
+

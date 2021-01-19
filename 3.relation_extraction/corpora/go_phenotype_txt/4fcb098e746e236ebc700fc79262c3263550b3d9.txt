@@ -1,0 +1,20 @@
+0|chunk|Novel Chemical Ligands to Ebola Virus and Marburg Virus Nucleoproteins Identified by Combining Affinity Mass Spectrometry and Metabolomics Approaches OPEN
+
+1|chunk|of the viral ribonucleoprotein complex and significantly impacts replication and transcription of the viral RNA genome. Although NP is regarded as a promising antiviral druggable target, no chemical ligands have been reported to interact with EBOV NP or MARV NP. We identified two compounds from a traditional Chinese medicine Gancao (licorice root) that can bind both NPs by combining affinity mass spectrometry and metabolomics approaches. These two ligands, 18-glycyrrhetinic acid and licochalcone A, were verified by defined compound mixture screens and further characterized with individual ligand binding assays. Accompanying biophysical analyses demonstrate that binding of 18-glycyrrhetinic acid to EBOV NP significantly reduces protein thermal stability, induces formation of large NP oligomers, and disrupts the critical association of viral ssRNA with NP complexes whereas the compound showed no such activity on MARV NP. Our study has revealed the substantial potential of new analytical techniques in ligand discovery from natural herb resources. In addition, identification of a chemical ligand that influences the oligomeric state and RNA-binding function of EBOV NP sheds new light on antiviral drug development.
+1	13	38 ribonucleoprotein complex	Gene_function	GO_1990904
+1	604	611 binding	Gene_function	GO_0005488
+1	671	678 binding	Gene_function	GO_0005488
+
+2|chunk|Marburg viruses (MARV) that cause severe hemorrhagic fever with case fatality rates approaching 90% during some outbreaks are undoubtedly significant threats to global human health 1,2 . The recent largest filovirus epidemic in Western Africa caused by EBOV Makona variant, and the import of EBOV to non-African countries highlights the public health impact of these pathogens.
+2	34	40 severe	Phenotype	HP_0012828
+2	53	58 fever	Phenotype	HP_0001945
+
+3|chunk|EBOV has a single-stranded RNA (ssRNA) genome that is transcribed upon virus entry into the host cytosol before generation of at least eight distinct viral proteins 3-6 . Viral genome replication and mRNA transcription are carried out by the viral RNA-dependent RNA polymerase complex (RDRP) 4 . This complex consists of the viral polymerase (L), the viral nucleoprotein (NP), along with polymerase cofactors VP35 and VP30. For all members in the filovirus family, the single-stranded viral genomic RNAs are encapsidated by NPs so that the viral genome can be protected from recognition by the cellular innate immune system or degradation by ribonucleases 7,8 .
+3	92	104 host cytosol	Gene_function	GO_0044164
+3	97	104 cytosol	Gene_function	GO_0005829
+3	171	195 Viral genome replication	Gene_function	GO_0019079
+3	200	218 mRNA transcription	Gene_function	GO_0009299
+3	262	284 RNA polymerase complex	Gene_function	GO_0030880
+3	286	290 RDRP	Gene_function	GO_0003968
+3	627	638 degradation	Gene_function	GO_0009056
+

@@ -1,0 +1,43 @@
+0|chunk|Carcinoembryonic antigen (CEA)-related cell adhesion molecules are co-expressed in the human lung and their expression can be modulated in bronchial epithelial cells by non-typable Haemophilus influenzae, Moraxella catarrhalis, TLR3, and type I and II interferons
+0	17	24 antigen	Chemical	CHEBI_59132
+0	53	62 molecules	Chemical	CHEBI_25367
+0	CHEBI-CHEBI	CHEBI_59132	CHEBI_25367
+
+1|chunk|Background: The carcinoembryonic antigen (CEA)-related cell adhesion molecules CEACAM1 (BGP, CD66a), CEACAM5 (CEA, CD66e) and CEACAM6 (NCA, CD66c) are expressed in human lung. They play a role in innate and adaptive immunity and are targets for various bacterial and viral adhesins. Two pathogens that colonize the normally sterile lower respiratory tract in patients with chronic obstructive pulmonary disease (COPD) are non-typable Haemophilus influenzae (NTHI) and Moraxella catarrhalis. Both pathogens bind to CEACAMs and elicit a variety of cellular reactions, including bacterial internalization, cell adhesion and apoptosis.
+1	33	40 antigen	Chemical	CHEBI_59132
+1	69	78 molecules	Chemical	CHEBI_25367
+1	188	192 role	Chemical	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_50906
+
+2|chunk|Methods: To analyze the (co-) expression of CEACAM1, CEACAM5 and CEACAM6 in different lung tissues with respect to COPD, smoking status and granulocyte infiltration, immunohistochemically stained paraffin sections of 19 donors were studied. To address short-term effects of cigarette smoke and acute inflammation, transcriptional regulation of CEACAM5, CEACAM6 and different CEACAM1 isoforms by cigarette smoke extract, interferons, Toll-like receptor agonists, and bacteria was tested in normal human bronchial epithelial (NHBE) cells by quantitative PCR. Corresponding CEACAM protein levels were determined by flow cytometry.
+2	578	585 protein	Chemical	CHEBI_16541
+
+3|chunk|Results: Immunohistochemical analysis of lung sections showed the most frequent and intense staining for CEACAM1, CEACAM5 and CEACAM6 in bronchial and alveolar epithelium, but revealed no significant differences in connection with COPD, smoking status and granulocyte infiltration. In NHBE cells, mRNA expression of CEACAM1 isoforms CEACAM1-4L, CEACAM1-4S, CEACAM1-3L and CEACAM1-3S were up-regulated by interferons alpha, beta and gamma, as well as the TLR3 agonist polyinosinic:polycytidylic acid (poly I:C). Interferon-gamma also increased CEACAM5 expression. These results were confirmed on protein level by FACS analysis. Importantly, also NTHI and M. catarrhalis increased CEACAM1 mRNA levels. This effect was independent of the ability to bind to CEACAM1. The expression of CEACAM6 was not affected by any treatment or bacterial infection.
+3	297	301 mRNA	Chemical	CHEBI_33699
+3	423	427 beta	Chemical	CHEBI_10545
+3	459	466 agonist	Chemical	CHEBI_48705
+3	467	498 polyinosinic:polycytidylic acid	Chemical	CHEBI_84491
+3	494	498 acid	Chemical	CHEBI_37527
+3	595	602 protein	Chemical	CHEBI_16541
+3	687	691 mRNA	Chemical	CHEBI_33699
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_48705
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_84491
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_48705
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_84491
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_48705	CHEBI_84491
+3	CHEBI-CHEBI	CHEBI_48705	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_48705	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_84491	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_84491	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+
+4|chunk|Conclusions: While we did not find a direct correlation between CEACAM1 expression and COPD, the COPD-associated bacteria NTHi and M. catarrhalis were able to increase the expression of their own receptor on host cells. Further, the data suggest a role for CEACAM1 and CEACAM5 in the phenomenon of increased host susceptibility to bacterial infection upon viral challenge in the human respiratory tract.
+4	248	252 role	Chemical	CHEBI_50906
+

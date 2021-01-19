@@ -1,0 +1,28 @@
+0|chunk|Cytokine cascade and networks among MSM HIV seroconverters: implications for early immunotherapy OPEN
+
+1|chunk|The timing, intensity and duration of the cytokine cascade and reorganized interrelations in cytokine networks are not fully understood during acute HIV-1 infection (AHI). Using sequential plasma samples collected over three years post-infection in a cohort of MSM HIV-1 seroconvertors, we determined the early kinetics of cytokine levels during FiebigI-IV stages using Luminex-based multiplex assays. Cytokines were quantified and relationships between cytokines were assessed by Spearman correlation. Compared with HIV-negative MSM, HIV-infected individuals had significantly increased multiple plasma cytokines, including GM-CSF, IFN-2, IL-12p70, IP-10 and VEGF, during both acute and chronic stages of infection. Furthermore, rapid disease progressors (RDPs) had earlier and more robust cytokine storms, compared with slow disease progressors (SDPs) (49.6 days vs. 74.9 days, respectively; 6.7-fold vs. 3.7-fold change of cytokines, respectively), suggesting the faster and stronger cytokine storm during AHI could promote disease progression. On the other hand, HIV-1 infection induced more interlocked cytokines network, establishing new strong correlations and imposing a higher rigidity. There were, respectively, 146 (44.9%) statistically significant correlations of cytokines in RDPs and 241 (74.2%) in SDPs (p < 0.001). This study suggests that immunomodulatory interventions aimed at controlling cytokine storm in AHI may be beneficial to slow eventual disease progression. When the immune system is fighting pathogens, cytokines activate immune cells such as T cells and macrophages, stimulating them to produce more cytokines resulting in so-called cytokine storms or cascades 1,2 . There is growing evidence that the immune responses initiated during acute HIV infection can play critical roles in modulating of disease progression. Several studies investigated the cascade of cytokine production in the periphery and show an initial rapid production of IFN- , followed by tumor necrosis factor (TNF)- , inducible protein (IP)-10, and interleukin (IL)-18, IL-10 and IFN- production, while others have not observed these changes or have reported opposing findings 3-8 . The discrepancies likely reflect the diversity and unity of dynamics during AHI but also could be due in part to the variation in the timing of sample collection among studies. Some studies were cross-sectional, while others focused on time points relatively late in AHI 9,10 . The cytokine storms during AHI can act as a double-edged sword, as they have the potential to cause significant damage to virus-specific immunity but also inhibit infection by reducing T cell recruitment and activation 11 . Some studies show that type I-IFN plays a role in slowing disease progression by inducing multiple antiviral genes and limiting initial viral replication, while others have reported that type I-IFN signaling is linked to immune activation and viral persistence and blocking of type I-IFN during LCMV infection enhances viral clearance 12-14 . These contradictory reports suggest that there is a need to investigate the dynamic of cytokines in natural HIV-1 infection.
+1	12	21 intensity	Phenotype	HP_0012824
+1	143	148 acute	Phenotype	HP_0011009
+1	679	684 acute	Phenotype	HP_0011009
+1	689	696 chronic	Phenotype	HP_0011010
+1	1767	1772 acute	Phenotype	HP_0011009
+1	1893	1912 cytokine production	Gene_function	GO_0001816
+1	1990	1995 tumor	Phenotype	HP_0002664
+1	1996	2004 necrosis	Gene_function	GO_0001906
+1	2888	2897 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0012824	GO_0001816
+1	HP-GO	HP_0012824	GO_0001906
+1	HP-GO	HP_0012824	GO_0023052
+1	HP-GO	HP_0011009	GO_0001816
+1	HP-GO	HP_0011009	GO_0001906
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011010	GO_0001816
+1	HP-GO	HP_0011010	GO_0001906
+1	HP-GO	HP_0011010	GO_0023052
+1	GO-HP	GO_0001816	HP_0002664
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0023052
+
+2|chunk|HIV-1 infection does not only increase cytokine levels, but also reorganizes cytokine networks, establishes new strong correlations between various cytokines and thus imposes a high rigidity to the cytokine network 15,16 .
+2	182	190 rigidity	Phenotype	HP_0002063
+

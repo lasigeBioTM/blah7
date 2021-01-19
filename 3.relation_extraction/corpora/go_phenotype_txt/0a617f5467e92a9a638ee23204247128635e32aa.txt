@@ -1,0 +1,154 @@
+0|chunk|Role of extracellular matrix and microenvironment in regulation of tumor growth and LAR-mediated invasion in glioblastoma
+0	8	21 extracellular	Gene_function	GO_0005576
+0	8	28 extracellular matrix	Gene_function	GO_0031012
+0	67	72 tumor	Phenotype	HP_0002664
+0	73	79 growth	Gene_function	GO_0040007
+0	109	121 glioblastoma	Phenotype	HP_0012174
+0	GO-HP	GO_0005576	HP_0002664
+0	GO-HP	GO_0005576	HP_0012174
+0	GO-HP	GO_0031012	HP_0002664
+0	GO-HP	GO_0031012	HP_0012174
+0	HP-GO	HP_0002664	GO_0040007
+0	GO-HP	GO_0040007	HP_0012174
+
+1|chunk|The cellular dispersion and therapeutic control of glioblastoma, the most aggressive type of primary brain cancer, depends critically on the migration patterns after surgery and intracellular responses of the individual cancer cells in response to external biochemical cues in the microenvironment. Recent studies have shown that miR-451 regulates downstream molecules including AMPK/CAB39/MARK and mTOR to determine the balance between rapid proliferation and invasion in response to metabolic stress in the harsh tumor microenvironment. Surgical removal of the main tumor is inevitably followed by recurrence of the tumor due to inaccessibility of dispersed tumor cells in normal brain tissue. In order to address this complex process of cell proliferation and invasion and its response to conventional treatment, we propose a mathematical model that analyzes the intracellular dynamics of the miR-451-AMPK-mTOR-cell cycle signaling pathway within a cell. The model identifies a key mechanism underlying the molecular switches between proliferative phase and migratory phase in response to metabolic stress in response to fluctuating glucose levels. We show how up-or down-regulation of components in these pathways affects the key cellular decision to infiltrate or proliferate in a complex microenvironment in the absence and presence of time delays and stochastic noise. Glycosylated chondroitin sulfate proteoglycans (CSPGs), a major component of the extracellular matrix (ECM) in the brain, contribute to the physical structure of the local brain microenvironment but also induce or inhibit glioma invasion by regulating the dynamics of the CSPG receptor LAR as well as the spatiotemporal activation status of resident astrocytes and tumor-associated microglia. Using a multi-scale mathematical model, we investigate a CSPG-induced switch between invasive and noninvasive tumors through the coordination of ECM-cell adhesion and dynamic changes in stromal cells. We show that the CSPG-rich microenvironment is associated with non-PLOS ONE | https://doi.invasive tumor lesions through LAR-CSGAG binding while the absence of glycosylated CSPGs induce the critical glioma invasion. We illustrate how high molecular weight CSPGs can regulate the exodus of local reactive astrocytes from the main tumor lesion, leading to encapsulation of non-invasive tumor and inhibition of tumor invasion. These different CSPG conditions also change the spatial profiles of ramified and activated microglia. The complex distribution of CSPGs in the tumor microenvironment can determine the nonlinear invasion behaviors of glioma cells, which suggests the need for careful therapeutic strategies. Role of CSPG and microenvironment in regulation of glioma invasion PLOS ONE | https://doi.org/10.1371/journal.pone.0204865 October 4, 2018 2 / 40
+1	107	113 cancer	Phenotype	HP_0002664
+1	178	191 intracellular	Gene_function	GO_0005622
+1	220	226 cancer	Phenotype	HP_0002664
+1	515	520 tumor	Phenotype	HP_0002664
+1	568	573 tumor	Phenotype	HP_0002664
+1	618	623 tumor	Phenotype	HP_0002664
+1	660	665 tumor	Phenotype	HP_0002664
+1	740	758 cell proliferation	Gene_function	GO_0008283
+1	866	879 intracellular	Gene_function	GO_0005622
+1	925	934 signaling	Gene_function	GO_0023052
+1	925	942 signaling pathway	Gene_function	GO_0007165
+1	1061	1070 migratory	Phenotype	HP_0025279
+1	1124	1135 fluctuating	Phenotype	HP_0031914
+1	1457	1470 extracellular	Gene_function	GO_0005576
+1	1457	1477 extracellular matrix	Gene_function	GO_0031012
+1	1598	1604 glioma	Phenotype	HP_0009733
+1	2069	2074 tumor	Phenotype	HP_0002664
+1	2101	2108 binding	Gene_function	GO_0005488
+1	2169	2175 glioma	Phenotype	HP_0009733
+1	2299	2304 tumor	Phenotype	HP_0002664
+1	2354	2359 tumor	Phenotype	HP_0002664
+1	2378	2383 tumor	Phenotype	HP_0002664
+1	2537	2542 tumor	Phenotype	HP_0002664
+1	2610	2616 glioma	Phenotype	HP_0009733
+1	2735	2741 glioma	Phenotype	HP_0009733
+1	HP-GO	HP_0002664	GO_0005622
+1	HP-GO	HP_0002664	GO_0008283
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0007165
+1	HP-GO	HP_0002664	GO_0005576
+1	HP-GO	HP_0002664	GO_0031012
+1	HP-GO	HP_0002664	GO_0005488
+1	GO-HP	GO_0005622	HP_0025279
+1	GO-HP	GO_0005622	HP_0031914
+1	GO-HP	GO_0005622	HP_0009733
+1	GO-HP	GO_0008283	HP_0025279
+1	GO-HP	GO_0008283	HP_0031914
+1	GO-HP	GO_0008283	HP_0009733
+1	GO-HP	GO_0023052	HP_0025279
+1	GO-HP	GO_0023052	HP_0031914
+1	GO-HP	GO_0023052	HP_0009733
+1	GO-HP	GO_0007165	HP_0025279
+1	GO-HP	GO_0007165	HP_0031914
+1	GO-HP	GO_0007165	HP_0009733
+1	HP-GO	HP_0025279	GO_0005576
+1	HP-GO	HP_0025279	GO_0031012
+1	HP-GO	HP_0025279	GO_0005488
+1	HP-GO	HP_0031914	GO_0005576
+1	HP-GO	HP_0031914	GO_0031012
+1	HP-GO	HP_0031914	GO_0005488
+1	GO-HP	GO_0005576	HP_0009733
+1	GO-HP	GO_0031012	HP_0009733
+1	HP-GO	HP_0009733	GO_0005488
+
+2|chunk|complex, which induces elevated proliferation and decreased cell polarity/migration and (ii) glucose withdrawal leads to down-regulation of miR-451 and up-regulation of AMPK activity, which in turn induces increased cell polarity/migration and reduced cell proliferation. See Fig  1 for a schematic summary of miR-451-AMPK-mTOR core control system [1, 22] . Chondroitin sulfate proteoglycans (CSPGs), major components of the brain extracellular matrix (ECM) in the brain [23] , are reported to play a pivotal role in inhibiting axon growth and regeneration process in scars after CNS damage [24] . CSPGs are also known to serve as biophysical barriers, preventing brain cells from migrating across the boundary of two adjacent structures during CNS development [25] [26] [27] [28] [29] [30][31][32]. In CNS tumors, CSPGs may provide a structural foundation and guidance for tumor invasion [33] as well as a physical barrier for cell infiltration like other ECMs. Not surprisingly, this heavy chain of CSPGs has been associated with tumor growth, penetration into neighboring tissues, and angiogenesis [34]. The accumulating interstitial pressure and severe tortuosity in the extracellular space within the tumor [1] due to the high concentration of CSPG ECM are a severe limiting factor for efficient delivery of large therapeutic drugs [35]. Therefore, lowering the CSPG levels by an digestive enzyme was suggested as a way of promoting intratumoral transport of larger therapeutic compounds, making this ECM a potential target for adjuvant therapy [36, 37]. For example, tumor growth and invasion was reduced when these ECM molecules were digested by blocking antibodies against versican [36] or manipulating RNA against phosphacan [38]. CSPG degradation by classical proteases such as MMP-1 and MMP-8 also results in an increase in diffusion and hydraulic conductivity in solid tumors [39]. In oncolytic virus therapy, the diffusion-limiting properties of CSPGs are blamed for low therapeutic anti-tumor efficacy due to the inefficient intratumoral spread of oncolytic viruses within the compact glioma [40, 41]. The CSPG receptor LAR was shown to be involved in promoting or inhibiting tumor invasion [33, 42]. In recent work [42], CSPGs were suggested to be a biochemical indicator of non-invasive tumor and diffusely infiltrating tumor. In the study, they found that (i) a CSPG-rich microenvironment was associated with a strong cell-ECM adhesion and stimulated resident astrocytes to actively escape the CSPG-dense lesions, leading to the self-contained non-invasive tumor surrounded by astrocytes. (ii) Glycosylated CSPGs were not found in invasive GBM [42] and no collective migration of astrocytes was observed. (iii) These CSPG conditions also changed the profile of ramified and activated microglia within and outside the tumor. (iv) CSPG-induced cell-ECM bonding was mediated by its receptor LAR and LAR-CSGAG complex [42]. Integrins usually mediate the cell-matrix interactions by tethering the cell to its surrounding ECM and activating intracellular signalling cascades [43, 44].
+2	169	173 AMPK	Gene_function	GO_0004691
+2	431	444 extracellular	Gene_function	GO_0005576
+2	431	451 extracellular matrix	Gene_function	GO_0031012
+2	528	532 axon	Gene_function	GO_0030424
+2	533	539 growth	Gene_function	GO_0040007
+2	544	556 regeneration	Gene_function	GO_0031099
+2	745	760 CNS development	Gene_function	GO_0007417
+2	874	879 tumor	Phenotype	HP_0002664
+2	1032	1037 tumor	Phenotype	HP_0002664
+2	1038	1044 growth	Gene_function	GO_0040007
+2	1088	1100 angiogenesis	Gene_function	GO_0001525
+2	1150	1156 severe	Phenotype	HP_0012828
+2	1175	1188 extracellular	Gene_function	GO_0005576
+2	1175	1194 extracellular space	Gene_function	GO_0005615
+2	1206	1211 tumor	Phenotype	HP_0002664
+2	1264	1270 severe	Phenotype	HP_0012828
+2	1451	1460 transport	Gene_function	GO_0006810
+2	1573	1578 tumor	Phenotype	HP_0002664
+2	1579	1585 growth	Gene_function	GO_0040007
+2	1745	1756 degradation	Gene_function	GO_0009056
+2	2099	2105 glioma	Phenotype	HP_0009733
+2	2190	2195 tumor	Phenotype	HP_0002664
+2	2303	2308 tumor	Phenotype	HP_0002664
+2	2336	2341 tumor	Phenotype	HP_0002664
+2	2574	2579 tumor	Phenotype	HP_0002664
+2	2834	2839 tumor	Phenotype	HP_0002664
+2	3052	3065 intracellular	Gene_function	GO_0005622
+2	3066	3076 signalling	Gene_function	GO_0023052
+2	GO-HP	GO_0004691	HP_0002664
+2	GO-HP	GO_0004691	HP_0012828
+2	GO-HP	GO_0004691	HP_0009733
+2	GO-HP	GO_0005576	HP_0002664
+2	GO-HP	GO_0005576	HP_0012828
+2	GO-HP	GO_0005576	HP_0009733
+2	GO-HP	GO_0031012	HP_0002664
+2	GO-HP	GO_0031012	HP_0012828
+2	GO-HP	GO_0031012	HP_0009733
+2	GO-HP	GO_0030424	HP_0002664
+2	GO-HP	GO_0030424	HP_0012828
+2	GO-HP	GO_0030424	HP_0009733
+2	GO-HP	GO_0040007	HP_0002664
+2	GO-HP	GO_0040007	HP_0012828
+2	GO-HP	GO_0040007	HP_0009733
+2	GO-HP	GO_0031099	HP_0002664
+2	GO-HP	GO_0031099	HP_0012828
+2	GO-HP	GO_0031099	HP_0009733
+2	GO-HP	GO_0007417	HP_0002664
+2	GO-HP	GO_0007417	HP_0012828
+2	GO-HP	GO_0007417	HP_0009733
+2	HP-GO	HP_0002664	GO_0001525
+2	HP-GO	HP_0002664	GO_0005615
+2	HP-GO	HP_0002664	GO_0006810
+2	HP-GO	HP_0002664	GO_0009056
+2	HP-GO	HP_0002664	GO_0005622
+2	HP-GO	HP_0002664	GO_0023052
+2	GO-HP	GO_0001525	HP_0012828
+2	GO-HP	GO_0001525	HP_0009733
+2	HP-GO	HP_0012828	GO_0005615
+2	HP-GO	HP_0012828	GO_0006810
+2	HP-GO	HP_0012828	GO_0009056
+2	HP-GO	HP_0012828	GO_0005622
+2	HP-GO	HP_0012828	GO_0023052
+2	GO-HP	GO_0005615	HP_0009733
+2	GO-HP	GO_0006810	HP_0009733
+2	GO-HP	GO_0009056	HP_0009733
+2	HP-GO	HP_0009733	GO_0005622
+2	HP-GO	HP_0009733	GO_0023052
+
+3|chunk|Chondroitinase ABC I (Chase-ABC) is an enzyme that can eliminate Chondroitin sulfate glycosoamino glycans from proteoglycans without harmful effects in vivo [40] and has been widely tested for its effect on neuronal regeneration after CNS injury. This bacterial enzyme is known for its 'loosening' effect on the ECM scaffold [24, 45] and studied for enhancement of regeneration of injured axonal tracts. Chase-ABC was also suggested as an attractive target to enhance oncolytic virus (OV) spread in in vivo [40] and in silico [41] experiments and its anti-tumor effect has been proposed in Phase I/II trials for patients treated in Asia [46].
+3	216	228 regeneration	Gene_function	GO_0031099
+3	365	377 regeneration	Gene_function	GO_0031099
+
+4|chunk|A glioma interacts with its microenvironment such as stromal cells (astrocytes, neurons, microglia, macrophages), ECM, vessels, and chemokines/cytokines by direct and indirect contacts in the tumor-stroma network [42, 43, 47, 48]. M1 and M2 types of microglia were shown to promote glioma cell invasion by exchanging signaling molecules such as CSF-1, . Astrocytes also play a significant role in the progression, aggression, and angiogenesis of CNS tumors [53, 54] . Mutual crosstalk between glioma cells and astrocytes plays a central role in cell infiltration through blood vessels through regulation of H + /Ca 2 Role of CSPG and microenvironment in regulation of glioma invasion PLOS ONE | https://doi.org/10.
+4	2	8 glioma	Phenotype	HP_0009733
+4	282	288 glioma	Phenotype	HP_0009733
+4	317	326 signaling	Gene_function	GO_0023052
+4	430	442 angiogenesis	Gene_function	GO_0001525
+4	493	499 glioma	Phenotype	HP_0009733
+4	529	536 central	Phenotype	HP_0030645
+4	668	674 glioma	Phenotype	HP_0009733
+4	HP-GO	HP_0009733	GO_0023052
+4	HP-GO	HP_0009733	GO_0001525
+4	GO-HP	GO_0023052	HP_0030645
+4	GO-HP	GO_0001525	HP_0030645
+

@@ -1,0 +1,46 @@
+0|chunk|BMC Infectious Diseases A human in vitro model system for investigating genome-wide host responses to SARS coronavirus infection
+
+1|chunk|The molecular basis of severe acute respiratory syndrome (SARS) coronavirus (CoV) induced pathology is still largely unclear. Many SARS patients suffer respiratory distress brought on by interstitial infiltration and frequently show peripheral blood lymphopenia and occasional leucopenia. One possible cause of this could be interstitial inflammation, following a localized host response. In this study, we therefore examine the immune response of SARS-CoV in human peripheral blood mononuclear cells (PBMCs) over the first 24 hours.
+1	23	29 severe	Phenotype	HP_0012828
+1	30	35 acute	Phenotype	HP_0011009
+1	152	172 respiratory distress	Phenotype	HP_0002098
+1	233	243 peripheral	Phenotype	HP_0030646
+1	250	261 lymphopenia	Phenotype	HP_0001888
+1	266	276 occasional	Phenotype	HP_0040283
+1	364	373 localized	Phenotype	HP_0012838
+1	429	444 immune response	Gene_function	GO_0006955
+1	466	476 peripheral	Phenotype	HP_0030646
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0011009	GO_0006955
+1	HP-GO	HP_0002098	GO_0006955
+1	HP-GO	HP_0030646	GO_0006955
+1	HP-GO	HP_0001888	GO_0006955
+1	HP-GO	HP_0040283	GO_0006955
+1	HP-GO	HP_0012838	GO_0006955
+
+2|chunk|Methods: PBMCs from normal healthy donors were inoculated in vitro with SARS-CoV and the viral replication kinetics was studied by real-time quantitative assays. SARS-CoV specific gene expression changes were examined by high-density oligonucleotide array analysis.
+2	27	34 healthy	Phenotype	HP_0032322
+2	180	195 gene expression	Gene_function	GO_0010467
+2	HP-GO	HP_0032322	GO_0010467
+
+3|chunk|We observed that SARS-CoV was capable of infecting and replicating in PBMCs and the kinetics of viral replication was variable among the donors. SARS-CoV antibody binding assays indicated that SARS specific antibodies inhibited SARS-CoV viral replication. Array data showed monocyte-macrophage cell activation, coagulation pathway upregulation and cytokine production together with lung trafficking chemokines such as IL8 and IL17, possibly activated through the TLR9 signaling pathway; that mimicked clinical features of the disease.
+3	154	162 antibody	Gene_function	GO_0003823
+3	154	162 antibody	Gene_function	GO_0042571
+3	163	170 binding	Gene_function	GO_0005488
+3	311	322 coagulation	Gene_function	GO_0050817
+3	348	367 cytokine production	Gene_function	GO_0001816
+3	463	485 TLR9 signaling pathway	Gene_function	GO_0034162
+3	468	477 signaling	Gene_function	GO_0023052
+
+4|chunk|The identification of human blood mononuclear cells as a direct target of SARS-CoV in the model system described here provides a new insight into disease pathology and a tool for investigating the host response and mechanisms of pathogenesis.
+
+5|chunk|Methods
+
+6|chunk|PBMCs were obtained by Ficoll-Hypaque separation of whole blood. 2  10 5 PBMCs were seeded into each well of a 24-well culture plate, 0.5 ml of complete RPMI-1640 (Life Technologies-Invitrogen, USA) added to each and cultured overnight at 37C (5% CO 2 ). A seed stock of SARS-CoV (strain SIN 2774) passaged in Vero E6 cells was used for infection. Vero E6 culture supernatants were added to each well in 50 l volume at a concentration of 0.1 or 0.01 MOI (based on plaque forming units) and a control plate (media only). Each culture was set up in duplicate. After 4 hours of incubation, one set of the duplicate wells of the control plate and a 4 hours incubation plate were harvested while the rest received 0.5 ml media top-up and incubated for a further 2, 4, 6 and 8 days.
+6	290	293 SIN	Gene_function	GO_0031028
+
+7|chunk|Harvesting was performed by gently flushing the wells with a Pasteur pipette to removed non-adherent cells, followed by a rinse of 1 ml RPMI. The rinsed fraction was pooled with the first harvest aliquot and spun at 1500 rpm. The cell pellet was washed twice with 2 ml RPMI to remove virus in the supernatant. 1.5 ml Trizol (Invitrogen, USA) was then added to the adherent cell fraction as well as the non-adherent cell fraction to lyse cells and stabilize the RNA. Extraction of total RNA was then performed following manufacturer's protocol and the resultant RNA dissolved in 40 l water.
+7	35	43 flushing	Phenotype	HP_0031284
+
+8|chunk|The amount of SARS-CoV in each cell fraction was measured by real-time quantitative PCR assay. 2 l of RNA was reverse transcribed and amplified in 20 l using 0.9 M BMC Infectious Diseases 2004, 4:34
+

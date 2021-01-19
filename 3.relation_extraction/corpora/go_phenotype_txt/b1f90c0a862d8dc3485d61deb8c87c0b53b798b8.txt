@@ -1,0 +1,21 @@
+0|chunk|Hantaan Virus Infection Induces CXCL10 Expression through TLR3, RIG-I, and MDA-5 Pathways Correlated with the Disease Severity
+0	118	126 Severity	Phenotype	HP_0012824
+
+1|chunk|Hantaan virus (HTNV) is a major agent causing hemorrhagic fever with renal syndrome (HFRS). Although the pathogenesis of HFRS is unclear, some reports have suggested that the abundant production of proinflammatory cytokines and uncontrolled inflammatory responses may contribute to the development of HFRS. CXCL10 is one of these cytokines and is found to be involved in the pathogenesis of many virus infectious diseases. However, the role of CXCL10 in the pathogenesis of HFRS and the molecular regulation mechanism of CXCL10 in HTNV infection remain unknown. In this study, we report that CXCL10 expresses highly in the HFRS patients' sera and the elevated CXCL10 is positively correlated with the severity of HFRS. We find that HTNV, a single-strand RNA virus, can act as a double-strand RNA to activate the TLR3, RIG-I, and MDA-5 signaling pathways. Through the downstream transcription factors of these pathways, NF-B and IRF7, which bind directly to the CXCL10's promoter, the expression of CXCL10 is increased. Our results may help to better understand the role of CXCL10 in the development of HFRS and may provide some novel insights into the immune response of HTNV infection.
+1	58	63 fever	Phenotype	HP_0001945
+1	105	117 pathogenesis	Gene_function	GO_0009405
+1	375	387 pathogenesis	Gene_function	GO_0009405
+1	458	470 pathogenesis	Gene_function	GO_0009405
+1	638	642 sera	Gene_function	GO_0004617
+1	701	709 severity	Phenotype	HP_0012824
+1	835	844 signaling	Gene_function	GO_0023052
+1	1152	1167 immune response	Gene_function	GO_0006955
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0001945	GO_0004617
+1	HP-GO	HP_0001945	GO_0023052
+1	HP-GO	HP_0001945	GO_0006955
+1	GO-HP	GO_0009405	HP_0012824
+1	GO-HP	GO_0004617	HP_0012824
+1	HP-GO	HP_0012824	GO_0023052
+1	HP-GO	HP_0012824	GO_0006955
+

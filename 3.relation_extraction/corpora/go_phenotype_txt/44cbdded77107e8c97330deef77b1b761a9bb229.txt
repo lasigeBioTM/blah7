@@ -1,0 +1,21 @@
+0|chunk|Differential expression of lncRNAs during the HIV replication cycle: an underestimated layer in the HIV- host interplay OPEN
+
+1|chunk|Studying the effects of HIV infection on the host transcriptome has typically focused on protein-coding genes. However, recent advances in the field of RNA sequencing revealed that long non-coding RNAs (lncRNAs) add an extensive additional layer to the cell's molecular network. Here, we performed transcriptome profiling throughout a primary HIV infection in vitro to investigate lncRNA expression at the different HIV replication cycle processes (reverse transcription, integration and particle production). Subsequently, guilt-by-association, transcription factor and co-expression analysis were performed to infer biological roles for the lncRNAs identified in the HIV-host interplay. Many lncRNAs were suggested to play a role in mechanisms relying on proteasomal and ubiquitination pathways, apoptosis, DNA damage responses and cell cycle regulation. Through transcription factor binding analysis, we found that lncRNAs display a distinct transcriptional regulation profile as compared to protein coding mRNAs, suggesting that mRNAs and lncRNAs are independently modulated. In addition, we identified five differentially expressed lncRNA-mRNA pairs with mRNA involvement in HIV pathogenesis with possible cis regulatory lncRNAs that control nearby mRNA expression and function. Altogether, the present study demonstrates that lncRNAs add a new dimension to the HIV-host interplay and should be further investigated as they may represent targets for controlling HIV replication.
+1	834	844 cell cycle	Gene_function	GO_0007049
+1	834	855 cell cycle regulation	Gene_function	GO_0051726
+1	865	893 transcription factor binding	Gene_function	GO_0008134
+1	886	893 binding	Gene_function	GO_0005488
+1	1184	1196 pathogenesis	Gene_function	GO_0009405
+
+2|chunk|The interplay between the human immunodeficiency virus (HIV) and the host's cellular defenses has been broadly studied to elucidate the underlying viral and antiviral molecular mechanisms. These studies typically focused on protein-coding genes and successfully identified several host factors involved in HIV pathogenesis and intracellular defense 1-6 . However, over the past decade it has become evident from genome-wide tiling arrays and RNA sequencing studies that the human genome is pervasively transcribed and that the majority of these transcribed genomic sequences are associated with non-coding RNAs (ncRNAs) rather than protein coding RNAs, underpinning their widespread presence in the cellular environment and adding a new layer of complexity to the cell's molecular network 7-10 .
+2	32	48 immunodeficiency	Phenotype	HP_0002721
+2	310	322 pathogenesis	Gene_function	GO_0009405
+2	327	340 intracellular	Gene_function	GO_0005622
+2	HP-GO	HP_0002721	GO_0009405
+2	HP-GO	HP_0002721	GO_0005622
+
+3|chunk|The class of ncRNAs is subdivided by length into small (< 200 nt) and long (> 200 nt) non-coding RNAs (lncRNAs). The lncRNAs constitute the bulk of ncRNAs with current databases describing up to ~62 000 long non-coding RNA genes compared to the ~20 000 known protein coding genes 11,12 . LncRNAs form a diverse group of molecules that can bind to DNA, RNA or proteins and are mainly involved in the regulation of gene expression, chromatin organization, nucleus-to-cytoplasm trafficking, RNA maturation and protein synthesis 9 . In addition, lncRNAs are frequently co-expressed with neighboring genes and show nuclear and/or cytoplasmic
+3	430	439 chromatin	Gene_function	GO_0000785
+3	507	524 protein synthesis	Gene_function	GO_0006412
+3	515	524 synthesis	Gene_function	GO_0009058
+

@@ -1,0 +1,29 @@
+0|chunk|Systematic Identification of Spontaneous Preterm Birth-Associated RNA Transcripts in Maternal Plasma
+
+1|chunk|Background: Spontaneous preterm birth (SPB, before 37 gestational weeks) is a major cause of perinatal mortality and morbidity, but its pathogenesis remains unclear. Studies on SPB have been hampered by the limited availability of markers for SPB in predelivery clinical samples that can be easily compared with gestational age-matched normal controls. We hypothesize that SPB involves aberrant placental RNA expression, and that such RNA transcripts can be detected in predelivery maternal plasma samples, which can be compared with gestational age-matched controls.
+1	39	42 SPB	Gene_function	GO_0005816
+1	136	148 pathogenesis	Gene_function	GO_0009405
+1	177	180 SPB	Gene_function	GO_0005816
+1	243	246 SPB	Gene_function	GO_0005816
+1	373	376 SPB	Gene_function	GO_0005816
+
+2|chunk|Principal Findings: Using gene expression microarray to profile essentially all human genes, we observed that 426 probe signals were changed by .2.9-fold in the SPB placentas, compared with the spontaneous term birth (STB) placentas. Among the genes represented by those probes, we observed an over-representation of functions in RNA stabilization, extracellular matrix binding, and acute inflammatory response. Using RT-quantitative PCR, we observed differences in the RNA concentrations of certain genes only between the SPB and STB placentas, but not between the STB and term elective cesarean delivery placentas. Notably, 36 RNA transcripts were observed at placental microarray signals higher than a threshold, which indicated the possibility of their detection in maternal plasma. Among them, the IL1RL1 mRNA was tested in plasma samples taken from 37 women. It was detected in 6 of 10 (60%) plasma samples collected during the presentation of preterm labor (#32.9 weeks) in women eventually giving SPB, but was detected in only 1 of 27 (4%) samples collected during matched gestational weeks from women with no preterm labor (Fisher exact test, p = 0.00056).
+2	26	41 gene expression	Gene_function	GO_0010467
+2	161	164 SPB	Gene_function	GO_0005816
+2	349	362 extracellular	Gene_function	GO_0005576
+2	349	369 extracellular matrix	Gene_function	GO_0031012
+2	349	377 extracellular matrix binding	Gene_function	GO_0050840
+2	383	388 acute	Phenotype	HP_0011009
+2	383	410 acute inflammatory response	Gene_function	GO_0002526
+2	523	526 SPB	Gene_function	GO_0005816
+2	1005	1008 SPB	Gene_function	GO_0005816
+2	GO-HP	GO_0010467	HP_0011009
+2	GO-HP	GO_0005816	HP_0011009
+2	GO-HP	GO_0005576	HP_0011009
+2	GO-HP	GO_0031012	HP_0011009
+2	GO-HP	GO_0050840	HP_0011009
+2	HP-GO	HP_0011009	GO_0002526
+
+3|chunk|We have identified 36 SPB-associated RNA transcripts, which are possibly detectable in maternal plasma. We have illustrated that the IL1RL1 mRNA was more frequently detected in predelivery maternal plasma samples collected from women resulting in SPB than the gestational-age matched controls.
+3	247	250 SPB	Gene_function	GO_0005816
+

@@ -1,0 +1,24 @@
+0|chunk|H1N1pdm Influenza Infection in Hospitalized Cancer Patients: Clinical Evolution and Viral Analysis
+0	44	50 Cancer	Phenotype	HP_0002664
+
+1|chunk|Background: The novel influenza A pandemic virus (H1N1pdm) caused considerable morbidity and mortality worldwide in 2009. The aim of the present study was to evaluate the clinical course, duration of viral shedding, H1N1pdm evolution and emergence of antiviral resistance in hospitalized cancer patients with severe H1N1pdm infections during the winter of 2009 in Brazil.
+1	288	294 cancer	Phenotype	HP_0002664
+1	309	315 severe	Phenotype	HP_0012828
+
+2|chunk|We performed a prospective single-center cohort study in a cancer center in Rio de Janeiro, Brazil. Hospitalized patients with cancer and a confirmed diagnosis of influenza A H1N1pdm were evaluated. The main outcome measures in this study were in-hospital mortality, duration of viral shedding, viral persistence and both functional and molecular analyses of H1N1pdm susceptibility to oseltamivir.
+2	59	65 cancer	Phenotype	HP_0002664
+2	127	133 cancer	Phenotype	HP_0002664
+
+3|chunk|Results: A total of 44 hospitalized patients with suspected influenza-like illness were screened. A total of 24 had diagnosed H1N1pdm infections. The overall hospital mortality in our cohort was 21%. Thirteen (54%) patients required intensive care. The median age of the studied cohort was 14.5 years (3-69 years). Eighteen (75%) patients had received chemotherapy in the previous month, and 14 were neutropenic at the onset of influenza. A total of 10 patients were evaluated for their duration of viral shedding, and 5 (50%) displayed prolonged viral shedding (median 23, range = 11-63 days); however, this was not associated with the emergence of a resistant H1N1pdm virus. Viral evolution was observed in sequentially collected samples.
+3	419	424 onset	Phenotype	HP_0003674
+3	499	513 viral shedding	Gene_function	GO_0019076
+3	537	546 prolonged	Phenotype	HP_0025297
+3	547	561 viral shedding	Gene_function	GO_0019076
+3	HP-GO	HP_0003674	GO_0019076
+3	GO-HP	GO_0019076	HP_0025297
+
+4|chunk|Conclusions: Prolonged influenza A H1N1pdm shedding was observed in cancer patients. However, oseltamivir resistance was not detected. Taken together, our data suggest that severely ill cancer patients may constitute a pandemic virus reservoir with major implications for viral propagation.
+4	13	22 Prolonged	Phenotype	HP_0025297
+4	68	74 cancer	Phenotype	HP_0002664
+4	186	192 cancer	Phenotype	HP_0002664
+

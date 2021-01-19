@@ -1,0 +1,29 @@
+{
+    "text": "To assess the frequency of primary multiple organ failure and the role of sepsis as a causative agent in critically ill pediatric patients; and calculate and evaluate the accuracy of the Pediatric Risk of Mortality III (PRISM III) and Pediatric Logistic Organ Dysfunction (PELOD) scores to predict the outcomes of critically ill children.Retrospective study, which evaluated data from patients admitted from January to December 2011 in the pediatric intensive care unit of the Children's Hospital of the University of Cairo.Out of 237 patients in the study, 72% had multiple organ dysfunctions, and 45% had sepsis with multiple organ dysfunctions. The mortality rate in patients with multiple organ dysfunction was 73%. Independent risk factors for death were mechanical ventilation and neurological failure [OR: 36 and 3.3, respectively]. The PRISM III score was more accurate than the PELOD score in predicting death, with a Hosmer-Lemeshow X2 (Chi-square value) of 7.3 (df = 8, p = 0.5). The area under the curve was 0.723 for PRISM III and 0.78 for PELOD.A multiple organ dysfunctions was associated with high mortality. Sepsis was the major cause. Pneumonia, diarrhea and central nervous system infections were the major causes of sepsis. PRISM III had a better calibration than the PELOD for prognosis of the patients, despite the high frequency of the multiple organ dysfunction syndrome.",
+    "denotations": [
+        {
+            "id": "CHEBI_50906",
+            "span": {
+                "begin": 66,
+                "end": 70
+            },
+            "obj": "role"
+        },
+        {
+            "id": "DOID_13250",
+            "span": {
+                "begin": 1164,
+                "end": 1172
+            },
+            "obj": "diarrhea"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_13250",
+            "pred": "effect",
+            "obj": "CHEBI_50906"
+        }
+    ]
+}

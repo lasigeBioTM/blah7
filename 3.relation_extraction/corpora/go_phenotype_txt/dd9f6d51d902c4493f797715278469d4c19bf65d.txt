@@ -1,0 +1,98 @@
+0|chunk|The NLRP3 Inflammasome and IL-1 Accelerate Immunologically Mediated Pathology in Experimental Viral Fulminant Hepatitis
+0	101	120 Fulminant Hepatitis	Phenotype	HP_0004787
+0	111	120 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Viral fulminant hepatitis (FH) is a severe disease with high mortality resulting from excessive inflammation in the infected liver. Clinical interventions have been inefficient due to the lack of knowledge for inflammatory pathogenesis in the virus-infected liver. We show that wildtype mice infected with murine hepatitis virus strain-3 (MHV-3), a model for viral FH, manifest with severe disease and high mortality in association with a significant elevation in IL-1 expression in the serum and liver. Whereas, the viral infection in IL-1 receptor-I deficient (IL-1R1 -/-) or IL-1R antagonist (IL-1Ra) treated mice, show reductions in virus replication, disease progress and mortality. IL-1R1 deficiency appears to debilitate the virusinduced fibrinogen-like protein-2 (FGL2) production in macrophages and CD45 + Gr-1 high neutrophil infiltration in the liver. The quick release of reactive oxygen species (ROS) by the infected macrophages suggests a plausible viral initiation of NLRP3 inflammasome activation. Further experiments show that mice deficient of p47 phox , a nicotinamide adenine dinucleotide phosphate (NADPH) oxidase subunit that controls acute ROS production, present with reductions in NLRP3 inflammasome activation and subsequent IL-1 secretion during viral infection, which appears to be responsible for acquiring resilience to viral FH. Moreover, viral infected animals in deficiencies of NLRP3 and Caspase-1, two essential components of the inflammasome complex, also have reduced IL-1 induction along with ameliorated hepatitis. Our results demonstrate that the ROS/NLRP3/IL-1 axis institutes an essential signaling pathway, which is over activated and directly causes the severe liver disease during viral infection, which sheds light on development of efficient treatments for human viral FH and other severe inflammatory diseases.
+1	6	25 fulminant hepatitis	Phenotype	HP_0004787
+1	16	25 hepatitis	Phenotype	HP_0012115
+1	36	42 severe	Phenotype	HP_0012828
+1	223	235 pathogenesis	Gene_function	GO_0009405
+1	313	322 hepatitis	Phenotype	HP_0012115
+1	383	389 severe	Phenotype	HP_0012828
+1	518	533 viral infection	Gene_function	GO_0016032
+1	985	1014 NLRP3 inflammasome activation	Gene_function	GO_0044546
+1	1159	1164 acute	Phenotype	HP_0011009
+1	1208	1237 NLRP3 inflammasome activation	Gene_function	GO_0044546
+1	1259	1268 secretion	Gene_function	GO_0046903
+1	1276	1291 viral infection	Gene_function	GO_0016032
+1	1547	1556 hepatitis	Phenotype	HP_0012115
+1	1636	1645 signaling	Gene_function	GO_0023052
+1	1703	1709 severe	Phenotype	HP_0012828
+1	1710	1723 liver disease	Phenotype	HP_0001392
+1	1731	1746 viral infection	Gene_function	GO_0016032
+1	1834	1840 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0004787	GO_0009405
+1	HP-GO	HP_0004787	GO_0016032
+1	HP-GO	HP_0004787	GO_0044546
+1	HP-GO	HP_0004787	GO_0046903
+1	HP-GO	HP_0004787	GO_0023052
+1	HP-GO	HP_0012115	GO_0009405
+1	HP-GO	HP_0012115	GO_0016032
+1	HP-GO	HP_0012115	GO_0044546
+1	HP-GO	HP_0012115	GO_0046903
+1	HP-GO	HP_0012115	GO_0023052
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0012828	GO_0016032
+1	HP-GO	HP_0012828	GO_0044546
+1	HP-GO	HP_0012828	GO_0046903
+1	HP-GO	HP_0012828	GO_0023052
+1	GO-HP	GO_0009405	HP_0011009
+1	GO-HP	GO_0009405	HP_0001392
+1	GO-HP	GO_0016032	HP_0011009
+1	GO-HP	GO_0016032	HP_0001392
+1	GO-HP	GO_0044546	HP_0011009
+1	GO-HP	GO_0044546	HP_0001392
+1	HP-GO	HP_0011009	GO_0046903
+1	HP-GO	HP_0011009	GO_0023052
+1	GO-HP	GO_0046903	HP_0001392
+1	GO-HP	GO_0023052	HP_0001392
+
+2|chunk|The NLRP3 inflammasome and IL-1 play essential roles in mediating the primary inflammatory responses against pathogen invasions in the host. Hyperactivation of this signaling pathway can lead to life-threatening diseases under certain circumstances. However, it is not clear if NLRP3 inflammasome activation participates in the pathogenesis of viral fulminant hepatitis (FH), a clinical severe syndrome characterized by acute inflammation in the liver along with massive necrosis of hepatocytes and hepatic encephalopathy during viral infection. Using a mouse viral FH model by infection with murine hepatitis virus strain-3 (MHV-3), we observed a significant macrophage induction and the serum and liver massive accumulation of IL-1. Conversely, interruption of IL-1 signals results in attenuation of the MHV-3-induced hepatitis and mortality. Blocking IL-1 activity reduces the virus-induced expression of fibrinogen-like protein-2 (FGL2) in macrophages, and limits the liver recruitment of CD45 + Gr-1 high neutrophils upon the virus infection. We further show that proIL-1 is bioprocessed by NLRP3 inflammasome. Deletion of the components in the inflammasome complex, including NLRP3 and Caspase-1, leads to reduction in the virus-induced IL-1 production and lessening of disease progression. Further studies show that macrophages in deficiency of nicotinamide adenine dinucleotide phosphate (NADPH) oxidase subunit p47 phox , a protein that controls acute ROS production, prevents NLRP3 inflammasome activation and IL-1 secretion, suggesting that the virus-induced ROS production can directly initiate NLRP3 inflammasome activation. Therefore, p47 phox-/mice exhibited certain degrees of MHV-3 resistance. Taken together, these results demonstrate that ROS/NLRP3/IL-1 is the key pathway signaling exacerbated inflammatory responses that cause viral FH in mice, suggesting that mediation of this signal cascade may benefit on the disease treatment.
+2	166	175 signaling	Gene_function	GO_0023052
+2	166	183 signaling pathway	Gene_function	GO_0007165
+2	279	308 NLRP3 inflammasome activation	Gene_function	GO_0044546
+2	329	341 pathogenesis	Gene_function	GO_0009405
+2	351	370 fulminant hepatitis	Phenotype	HP_0004787
+2	361	370 hepatitis	Phenotype	HP_0012115
+2	388	394 severe	Phenotype	HP_0012828
+2	421	426 acute	Phenotype	HP_0011009
+2	472	480 necrosis	Gene_function	GO_0001906
+2	500	522 hepatic encephalopathy	Phenotype	HP_0002480
+2	508	522 encephalopathy	Phenotype	HP_0001298
+2	601	610 hepatitis	Phenotype	HP_0012115
+2	823	832 hepatitis	Phenotype	HP_0012115
+2	1461	1466 acute	Phenotype	HP_0011009
+2	1492	1521 NLRP3 inflammasome activation	Gene_function	GO_0044546
+2	1614	1643 NLRP3 inflammasome activation	Gene_function	GO_0044546
+2	1800	1809 signaling	Gene_function	GO_0023052
+2	GO-HP	GO_0023052	HP_0004787
+2	GO-HP	GO_0023052	HP_0012115
+2	GO-HP	GO_0023052	HP_0012828
+2	GO-HP	GO_0023052	HP_0011009
+2	GO-HP	GO_0023052	HP_0002480
+2	GO-HP	GO_0023052	HP_0001298
+2	GO-HP	GO_0007165	HP_0004787
+2	GO-HP	GO_0007165	HP_0012115
+2	GO-HP	GO_0007165	HP_0012828
+2	GO-HP	GO_0007165	HP_0011009
+2	GO-HP	GO_0007165	HP_0002480
+2	GO-HP	GO_0007165	HP_0001298
+2	GO-HP	GO_0044546	HP_0004787
+2	GO-HP	GO_0044546	HP_0012115
+2	GO-HP	GO_0044546	HP_0012828
+2	GO-HP	GO_0044546	HP_0011009
+2	GO-HP	GO_0044546	HP_0002480
+2	GO-HP	GO_0044546	HP_0001298
+2	GO-HP	GO_0009405	HP_0004787
+2	GO-HP	GO_0009405	HP_0012115
+2	GO-HP	GO_0009405	HP_0012828
+2	GO-HP	GO_0009405	HP_0011009
+2	GO-HP	GO_0009405	HP_0002480
+2	GO-HP	GO_0009405	HP_0001298
+2	HP-GO	HP_0004787	GO_0001906
+2	HP-GO	HP_0012115	GO_0001906
+2	HP-GO	HP_0012828	GO_0001906
+2	HP-GO	HP_0011009	GO_0001906
+2	GO-HP	GO_0001906	HP_0002480
+2	GO-HP	GO_0001906	HP_0001298
+

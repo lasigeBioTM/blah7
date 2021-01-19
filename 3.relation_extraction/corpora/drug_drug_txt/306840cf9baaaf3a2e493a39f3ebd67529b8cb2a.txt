@@ -1,0 +1,137 @@
+0|chunk|Allosteric inhibition of aminopeptidase N functions related to tumor growth and virus infection OPEN
+
+1|chunk|ectodomains defined the dynamic conformation of the protein. These structures offered snapshots of closed, intermediate and open APN, which represent distinct functional states. Coronavirus envelope proteins specifically recognized the open APN form, prevented ectodomain progression to the closed form and substrate hydrolysis. In addition, drugs that bind the active site inhibited both coronavirus binding to cell surface APN and infection; the drugs probably hindered APN transition to the virusspecific open form. We conclude that allosteric inhibition of APN functions occurs by ligand suppression of ectodomain motions necessary for catalysis and virus cell entry, as validated by locking APN with disulfides. Blocking APN dynamics can thus be a valuable approach to development of drugs that target this ectoenzyme.
+1	199	207 proteins	Chemical	CHEBI_36080
+1	342	347 drugs	Chemical	CHEBI_23888
+1	448	453 drugs	Chemical	CHEBI_23888
+1	585	591 ligand	Chemical	CHEBI_52214
+1	789	794 drugs	Chemical	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_52214
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_52214
+
+2|chunk|Aminopeptidases are widely distributed among plants and animals, and catalyze amino acid cleavage from the N terminus of proteins and peptides 1 . Numerous aminopeptidases have been identified and grouped in several families 2 . They can be soluble or membrane-bound, they bear metal ions at the active site and are also known as metallopeptidases or metalloproteases. Zinc is the most common metal ion in aminopeptidases, and one or two zinc atoms can be present in the active site 1 . Aminopeptidase N (APN, CD13) belongs to the M1 family of zinc metallopeptidases 3 , also termed gluzincins, which comprises enzymes of medical interest for infectious and autoimmune diseases, cancer and hypertension 4-10 .
+2	78	83 amino	Chemical	CHEBI_46882
+2	78	88 amino acid	Chemical	CHEBI_33704
+2	84	88 acid	Chemical	CHEBI_37527
+2	121	129 proteins	Chemical	CHEBI_36080
+2	134	142 peptides	Chemical	CHEBI_16670
+2	284	288 ions	Chemical	CHEBI_24870
+2	369	373 Zinc	Chemical	CHEBI_27363
+2	399	402 ion	Chemical	CHEBI_24870
+2	438	442 zinc	Chemical	CHEBI_27363
+2	443	448 atoms	Chemical	CHEBI_33250
+2	544	548 zinc	Chemical	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_24870
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_46882	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_24870
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_33704	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_36080
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_24870
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_16670
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_24870
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_24870
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_16670	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_24870	CHEBI_27363
+2	CHEBI-CHEBI	CHEBI_24870	CHEBI_33250
+2	CHEBI-CHEBI	CHEBI_27363	CHEBI_33250
+
+3|chunk|APN is associated with various cell functions and diseases, and has been termed the "moonlighting enzyme" 3 . It is a zinc-dependent metallopeptidase that hydrolyzes the N terminus of biological peptides and extracellular matrix proteins. APN-mediated peptide hydrolysis and activation is important for regulation of several physiological processes, such as the control of blood pressure (angiotensins) or cell chemotaxis. In addition, APN is linked to cell motility and tumor metastasis. APN is overexpressed in the neovasculature, including tumor blood vessels; its relevance in angiogenesis was discovered using NGR peptides and was later confirmed in animal models 7,11 . Peptides and inhibitors target APN overexpressed in tumors, and prevent tumor cell growth and invasion 12,13 ; drugs that bind to the active site of this protein have been developed to treat tumors and some are in clinical trials 10 . In addition to its association with angiogenesis and cancer, APN is a major coronavirus (CoV) cell entry receptor 4,5,14 . CoV recognition of APN is species-specific, and specificity is associated with N-linked glycosylation in the APN protein 15,16 . We defined how some CoV recognize their APN receptor and the basis for virus-receptor binding specificity 16 .
+3	195	203 peptides	Chemical	CHEBI_16670
+3	252	259 peptide	Chemical	CHEBI_16670
+3	619	627 peptides	Chemical	CHEBI_16670
+3	676	684 Peptides	Chemical	CHEBI_16670
+3	689	699 inhibitors	Chemical	CHEBI_35222
+3	787	792 drugs	Chemical	CHEBI_23888
+3	830	837 protein	Chemical	CHEBI_16541
+3	1147	1154 protein	Chemical	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_35222
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_23888
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+
+4|chunk|Mammalian APN are type II membrane-bound ectoenzymes that dimerize on the cell surface 3,17 . They are composed of a short cytoplasmic domain, followed by the transmembrane domain and an extracellular ectodomain with ~930 amino acid residues and several N-linked and O-linked glycosylations 3,18 . The APN ectodomain is composed of four domains, domain I to IV 16, 19 , connected to the membrane by a short linker or stalk 3,18 . The three N-terminal domains I-III are more similar to homologous domains of M1 family members, whereas domain IV is more divergent 3 . Domain II has a thermolysin-like fold and contains the zinc-coordination residues conserved in the active site of gluzincins, two histidines in the HEXXH motif, and a glutamic acid ~24 residues distal from that motif 2, 16, 19 . Several crystal structures of APN in complex with peptides and drugs showed how substrates bind to the active site, providing clues to peptide hydrolysis [19] [20] [21] . The human and pig APN ectodomains share 79% residue identity, domain architecture and dimerization 16, 19 . The C-terminal domain IV is the largest APN domain and, according to the crystal structures, mediates protein dimerization 16, 19 . Porcine CoV recognize a membrane-distal domain IV region, which includes an N-linked glycan in pig APN, as well as a small cavity formed by domain II and IV 16 . The mode by which other CoV recognize the angiotensin-converting enzyme 2 (ACE2) or dipeptidylpeptidase 4 (DPP4) is distinct from APN 22 , although a glycan N-linked to DPP4 is also involved in the interaction.
+4	222	227 amino	Chemical	CHEBI_46882
+4	222	232 amino acid	Chemical	CHEBI_33704
+4	228	232 acid	Chemical	CHEBI_37527
+4	733	746 glutamic acid	Chemical	CHEBI_16015
+4	742	746 acid	Chemical	CHEBI_37527
+4	845	853 peptides	Chemical	CHEBI_16670
+4	858	863 drugs	Chemical	CHEBI_23888
+4	930	937 peptide	Chemical	CHEBI_16670
+4	1176	1183 protein	Chemical	CHEBI_16541
+4	1291	1297 glycan	Chemical	CHEBI_18154
+4	1518	1524 glycan	Chemical	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_16015
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_16015
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_16015
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_16015	CHEBI_16670
+4	CHEBI-CHEBI	CHEBI_16015	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_16015	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_16015	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_23888
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_16670	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_16541
+4	CHEBI-CHEBI	CHEBI_23888	CHEBI_18154
+4	CHEBI-CHEBI	CHEBI_16541	CHEBI_18154
+
+5|chunk|Structures of the M1 metallopeptidases tricorn-interacting factor F3 and the endoplasmic reticulum aminopeptidase-1 (ERAP-1) indicate that M1 family members can adopt diverse conformations 23,24 . F3 structures define a closed, an intermediate and an open state, based on accessibility of the catalytic site in domain II, which is determined by the position of domain IV relative to domain II. It is proposed that substrates gain access to the active site in the open state and that the enzyme must close for peptide hydrolysis 20, 23, 24 . Nonetheless, the role in catalysis of the dynamic transition between states has not been determined. Functional assays using monoclonal antibodies (mAb) indicated a dynamic conformation for cell surface APN; the MY7 mAb recognized a subset of APN molecules, and the presence of its epitope in HL60 cells varied with substrates and/or inhibitors 25 . Antibody binding did not alter protein dimerization, but pointed to changes in APN ectodomain conformation on the cell surface 25 .
+5	509	516 peptide	Chemical	CHEBI_16670
+5	558	562 role	Chemical	CHEBI_50906
+5	823	830 epitope	Chemical	CHEBI_53000
+5	875	885 inhibitors	Chemical	CHEBI_35222
+5	922	929 protein	Chemical	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_16670	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_16670	CHEBI_53000
+5	CHEBI-CHEBI	CHEBI_16670	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_53000
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_53000	CHEBI_35222
+5	CHEBI-CHEBI	CHEBI_53000	CHEBI_16541
+5	CHEBI-CHEBI	CHEBI_35222	CHEBI_16541
+
+6|chunk|We determined several crystal structures of dimeric human and porcine APN (hAPN and pAPN) ectodomains, which reveal the dynamic conformation of this protein. A dimer is preserved in all structures. The receptor-binding domain (RBD) of a porcine CoV bound specifically to the open pAPN form and inhibited catalysis, probably by preventing APN dynamics and closure. In contrast, drugs that bound to the active site, which likely maintained a closed protein, inhibited CoV protein binding and infection. Blocking APN ectodomain motion with disulfide bonds inhibited its functions. Thus, our results show the importance of APN dynamics in catalysis and virus infection.
+6	149	156 protein	Chemical	CHEBI_16541
+6	377	382 drugs	Chemical	CHEBI_23888
+6	447	454 protein	Chemical	CHEBI_16541
+6	470	477 protein	Chemical	CHEBI_16541
+6	537	546 disulfide	Chemical	CHEBI_48343
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_23888
+6	CHEBI-CHEBI	CHEBI_16541	CHEBI_48343
+6	CHEBI-CHEBI	CHEBI_23888	CHEBI_48343
+

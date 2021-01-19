@@ -1,0 +1,82 @@
+0|chunk|Selective inhibition of Ebola entry with selective estrogen receptor modulators by disrupting the endolysosomal calcium OPEN
+0	51	59 estrogen	Chemical	CHEBI_50114
+0	60	79 receptor modulators	Chemical	CHEBI_90710
+0	112	119 calcium	Chemical	CHEBI_22984
+
+1|chunk|The Ebola crisis occurred in West-Africa highlights the urgency for its clinical treatments. Currently, no Food and Drug Administration (FDA)-approved therapeutics are available. Several FDA-approved drugs, including selective estrogen receptor modulators (SERMs), possess selective anti-Ebola activities. However, the inhibitory mechanisms of these drugs remain elusive. By analyzing the structures of SERMs and their incidental biological activity (cholesterol accumulation), we hypothesized that this incidental biological activity induced by SERMs could be a plausible mechanism as to their inhibitory effects on Ebola infection. Herein, we demonstrated that the same dosages of SERMs which induced cholesterol accumulation also inhibited Ebola infection. SERMs reduced the cellular sphingosine and subsequently caused endolysosomal calcium accumulation, which in turn led to blocking the Ebola entry. Our study clarified the specific anti-Ebola mechanism of SERMs, even the cationic amphiphilic drugs (CADs), this mechanism led to the endolysosomal calcium as a critical target for development of anti-Ebola drugs.
+1	107	111 Food	Chemical	CHEBI_33290
+1	116	120 Drug	Chemical	CHEBI_23888
+1	200	205 drugs	Chemical	CHEBI_23888
+1	227	235 estrogen	Chemical	CHEBI_50114
+1	236	255 receptor modulators	Chemical	CHEBI_90710
+1	350	355 drugs	Chemical	CHEBI_23888
+1	451	462 cholesterol	Chemical	CHEBI_16113
+1	703	714 cholesterol	Chemical	CHEBI_16113
+1	787	798 sphingosine	Chemical	CHEBI_16393
+1	837	844 calcium	Chemical	CHEBI_22984
+1	1000	1005 drugs	Chemical	CHEBI_23888
+1	1054	1061 calcium	Chemical	CHEBI_22984
+1	1113	1118 drugs	Chemical	CHEBI_23888
+
+2|chunk|Ebola virus, a member of the Filoviridae family, is an enveloped RNA virus that causes hemorrhagic fever in humans and non-human primates with species dependent lethality ranging from 50 to 90% 1,2 . Entry of Ebola virus into the cells, which is mainly mediated by its sole glycoprotein (GP), is a target for therapeutic intervention 3-7 . Ebola entry is unusual in that it requires proteolytic-priming of GP followed by engagement of Niemann-Pick C1 (NPC1) 8-11 , Recently, it has been proven that the Ebola virus enters cells through the endolysosome that contain both NPC1 and the two-pore segment channel 2 (TPC2) 12 .
+2	65	68 RNA	Chemical	CHEBI_33697
+2	274	286 glycoprotein	Chemical	CHEBI_17089
+2	452	456 NPC1	Disease	DOID_0070113
+2	571	575 NPC1	Disease	DOID_0070113
+2	CHEBI-DOID	CHEBI_33697	DOID_0070113
+2	CHEBI-DOID	CHEBI_17089	DOID_0070113
+
+3|chunk|As of March 31, 2016, the recent Ebola crisis in West Africa (Guinea, Sierra Leone, and Libya) reportedly cause 11,323 deaths 13 . Unfortunately, there are still no FDA-approved vaccines or anti-Ebola therapeutics 1,14 . Considering the time-consuming process of developing new drugs, it is more cost-and time-effective to screen for effective anti-Ebola drugs from among the drugs that are already FDA-approved. Some groups have identified 80 FDA-approved drugs with selective anti-Ebola activity, including the SERMs 3,4,6,7 . Many of these identified drugs selectively inhibit the infection of Ebola virus and do not inhibit vesicular stomatitis virus (VSV) or the lymphocytic choriomeningitis virus. While the mechanism of inhibition is unknown, it is clear that these drugs do not inhibit the internalization of Ebola virus to the lysosomal associated membrane protein 1 (LAMP1)-positive lysosome, the acidification of the endolysosome, or the processing of Ebola GP cathepsin 3,4,6 . Moreover, the inhibition of Ebola entry by SERMs is independent of expression of the estrogen receptors, making the mechanism by which SERMs inhibit Ebola infection difficult to ascertain 15 .
+3	278	283 drugs	Chemical	CHEBI_23888
+3	355	360 drugs	Chemical	CHEBI_23888
+3	376	381 drugs	Chemical	CHEBI_23888
+3	457	462 drugs	Chemical	CHEBI_23888
+3	554	559 drugs	Chemical	CHEBI_23888
+3	638	648 stomatitis	Disease	DOID_9637
+3	668	696 lymphocytic choriomeningitis	Disease	DOID_12155
+3	773	778 drugs	Chemical	CHEBI_23888
+3	866	873 protein	Chemical	CHEBI_16541
+3	1075	1083 estrogen	Chemical	CHEBI_50114
+3	CHEBI-DOID	CHEBI_23888	DOID_9637
+3	CHEBI-DOID	CHEBI_23888	DOID_12155
+3	DOID-CHEBI	DOID_9637	CHEBI_16541
+3	DOID-CHEBI	DOID_9637	CHEBI_50114
+3	DOID-CHEBI	DOID_12155	CHEBI_16541
+3	DOID-CHEBI	DOID_12155	CHEBI_50114
+
+4|chunk|Recently, it is reported that toremifene can bind to and destabilize the Ebola GP trimer, and trigger premature release of GP2, thereby preventing fusion between the viral and endolysosomal membranes 16 . Compared to the ethyl chlorine of toremifene, the corresponding groups in tamoxifen, clomiphene and raloxifene make weaker (even no) interations with the binding sites in Ebola GP 16 (Supplementary Fig. S1 ). However, tamoxifen, clomiphene and raloxifene all can effectively inhibit the Ebola infection 3,4,6,7 , making the interaction with Ebola GP not the key mechanism in Ebola inhibition by these SERMs. These uncertain mechanisms need further studies.
+4	30	40 toremifene	Chemical	CHEBI_9635
+4	221	226 ethyl	Chemical	CHEBI_37807
+4	227	235 chlorine	Chemical	CHEBI_23116
+4	239	249 toremifene	Chemical	CHEBI_9635
+4	290	300 clomiphene	Chemical	CHEBI_3752
+4	305	315 raloxifene	Chemical	CHEBI_8772
+4	434	444 clomiphene	Chemical	CHEBI_3752
+4	449	459 raloxifene	Chemical	CHEBI_8772
+
+5|chunk|Interestingly, 45 of the 80 drugs found to have selective anti-Ebola activity are CADs, including the SERMs. Moreover, several studies have showed that some of the CADs (including the SERMs) have some incidental biological activities, i.e., drug-induced phospholipidosis (DIP) 17-21 , cholesterol accumulation 22 , steatohepatitis 23-26 , and functional inhibition of acid sphingomyelinase (ASM) and acid ceramidase (AC) 27,28 . Much of the incidental biological activities of the CADs are related to their structural properties; several CADs are weak bases which are protonated after entering the low pH of the endolysosome. The ionized form of the CADs cannot pass through the hydrophobic core of the phospholipid bilayer that surrounds the endolysosome compartment, and are, therefore, trapped and concentrated inside 17 . The concentrated CADs in the endolysosome could disturb phospholipid metabolism, the transport of lipids and proteins, and the activity of enzymes in the endolysosome.
+5	28	33 drugs	Chemical	CHEBI_23888
+5	285	296 cholesterol	Chemical	CHEBI_16113
+5	368	372 acid	Chemical	CHEBI_37527
+5	391	394 ASM	Disease	DOID_4798
+5	400	404 acid	Chemical	CHEBI_37527
+5	552	557 bases	Chemical	CHEBI_22695
+5	703	715 phospholipid	Chemical	CHEBI_16247
+5	882	894 phospholipid	Chemical	CHEBI_16247
+5	924	930 lipids	Chemical	CHEBI_18059
+5	CHEBI-DOID	CHEBI_23888	DOID_4798
+5	CHEBI-DOID	CHEBI_16113	DOID_4798
+5	CHEBI-DOID	CHEBI_37527	DOID_4798
+5	DOID-CHEBI	DOID_4798	CHEBI_22695
+5	DOID-CHEBI	DOID_4798	CHEBI_16247
+5	DOID-CHEBI	DOID_4798	CHEBI_18059
+
+6|chunk|Based on the above facts, we hypothesized that these incidental biological activities of the CADs could be a plausible mechanism for the observed inhibition of Ebola infection. In this study, we explored the relationships between Ebola infection inhibition and the adverse effect of SERMs. Using an LC-MS/MS assay and imaging of endolysosomal calcium release, we demonstrated that SERMs could reduce the cellular sphingosine levels and subsequently induce accumulation of endolysosomal calcium. Moreover, chelating luminal endocytic calcium with high-affinity Rhod-dextran induced the specific inhibition of Ebola infection without inhibiting the internalization of Ebola virus-like particle (VLP) to the TPC2+ endolysosome. These data support our hypothesis that SERMs (and potentially other CADs) induce sphingosine defects and subsequent endolysosomal calcium accumulation, which in turn inhibit the release of Ebola from the TPC2+ endolysosome.
+6	343	350 calcium	Chemical	CHEBI_22984
+6	413	424 sphingosine	Chemical	CHEBI_16393
+6	486	493 calcium	Chemical	CHEBI_22984
+6	515	522 luminal	Chemical	CHEBI_8069
+6	533	540 calcium	Chemical	CHEBI_22984
+6	806	817 sphingosine	Chemical	CHEBI_16393
+6	855	862 calcium	Chemical	CHEBI_22984
+

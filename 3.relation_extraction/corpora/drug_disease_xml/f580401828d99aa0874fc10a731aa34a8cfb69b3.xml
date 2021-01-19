@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="f580401828d99aa0874fc10a731aa34a8cfb69b3">
+  <chunk id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c0" text="2L-PCA: a two-level principal component analyzer for quantitative drug design and its applications">
+    <entity charOffset="66-70" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c0.e0" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+  </chunk>
+  <chunk id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c1" text="Copyright: Du et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."/>
+  <chunk id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2" text="A two-level principal component predictor (2L-PCA) was proposed based on the principal component analysis (PCA) approach. It can be used to quantitatively analyze various compounds and peptides about their functions or potentials to become useful drugs. One level is for dealing with the physicochemical properties of drug molecules, while the other level is for dealing with their structural fragments. The predictor has the self-learning and feedback features to automatically improve its accuracy. It is anticipated that 2L-PCA will become a very useful tool for timely providing various useful clues during the process of drug development.">
+    <entity charOffset="107-110" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e0" ontology_id="CHEBI_36751" text="PCA" type="chemical"/>
+    <entity charOffset="107-110" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e1" ontology_id="DOID_0050639" text="PCA" type="disease"/>
+    <entity charOffset="185-193" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e2" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="318-322" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e3" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <entity charOffset="626-630" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e4" ontology_id="CHEBI_23888" text="drug" type="chemical"/>
+    <pair e1="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e1" e2="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e2" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.p0" relation="true"/>
+    <pair e1="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e1" e2="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e3" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.p1" relation="true"/>
+    <pair e1="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e1" e2="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.e4" id="f580401828d99aa0874fc10a731aa34a8cfb69b3.c2.p2" relation="true"/>
+  </chunk>
+</document>

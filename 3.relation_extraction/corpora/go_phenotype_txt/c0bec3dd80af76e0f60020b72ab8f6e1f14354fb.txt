@@ -1,0 +1,53 @@
+0|chunk|Differential proteomic analysis of virus- enriched fractions obtained from plasma pools of patients with dengue fever or severe dengue
+0	112	117 fever	Phenotype	HP_0001945
+0	121	127 severe	Phenotype	HP_0012828
+
+1|chunk|Background: Dengue is the most widespread mosquito-borne viral disease of public health concern. In some patients, endothelial cell and platelet dysfunction lead to life-threatening hemorrhagic dengue fever or dengue shock syndrome. Prognostication of disease severity is urgently required to improve patient management. The pathogenesis of severe dengue has not been fully elucidated, and the role of host proteins associated with viral particles has received little exploration. Methods: The proteomes of virion-enriched fractions purified from plasma pools of patients with dengue fever or severe dengue were compared. Virions were purified by ultracentrifugation combined with a water-insoluble polyelectrolyte-based technique. Following in-gel hydrolysis, peptides were analyzed by nano-liquid chromatography coupled to ion trap mass spectrometry and identified using data libraries. Results: Both dengue fever and severe dengue viral-enriched fractions contained identifiable viral envelope proteins and host cellular proteins. Canonical pathway analysis revealed the identified host proteins are mainly involved in the coagulation cascade, complement pathway or acute phase response signaling pathway. Some host proteins were over-or under-represented in plasma from patients with severe dengue compared to patients with dengue fever. ELISAs were used to validate differential expression of a selection of identified host proteins in individual plasma samples of patients with dengue fever compared to patients with severe dengue. Among 22 host proteins tested, two could differentiate between dengue fever and severe dengue in two independent cohorts (olfactomedin-4: area under the curve (AUC), 0.958; and platelet factor-4: AUC, 0.836). Conclusion: A novel technique of virion-enrichment from plasma has allowed to identify two host proteins that have prognostic value for classifying patients with acute dengue who are more likely to develop a severe dengue. The impact of these host proteins on pathogenicity and disease outcome are discussed.
+1	201	206 fever	Phenotype	HP_0001945
+1	217	222 shock	Phenotype	HP_0031273
+1	260	268 severity	Phenotype	HP_0012824
+1	325	337 pathogenesis	Gene_function	GO_0009405
+1	341	347 severe	Phenotype	HP_0012828
+1	584	589 fever	Phenotype	HP_0001945
+1	593	599 severe	Phenotype	HP_0012828
+1	910	915 fever	Phenotype	HP_0001945
+1	920	926 severe	Phenotype	HP_0012828
+1	982	996 viral envelope	Gene_function	GO_0019031
+1	988	996 envelope	Gene_function	GO_0031975
+1	1126	1137 coagulation	Gene_function	GO_0050817
+1	1169	1174 acute	Phenotype	HP_0011009
+1	1190	1199 signaling	Gene_function	GO_0023052
+1	1288	1294 severe	Phenotype	HP_0012828
+1	1335	1340 fever	Phenotype	HP_0001945
+1	1491	1496 fever	Phenotype	HP_0001945
+1	1523	1529 severe	Phenotype	HP_0012828
+1	1608	1613 fever	Phenotype	HP_0001945
+1	1618	1624 severe	Phenotype	HP_0012828
+1	1909	1914 acute	Phenotype	HP_0011009
+1	1955	1961 severe	Phenotype	HP_0012828
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0001945	GO_0019031
+1	HP-GO	HP_0001945	GO_0031975
+1	HP-GO	HP_0001945	GO_0050817
+1	HP-GO	HP_0001945	GO_0023052
+1	HP-GO	HP_0031273	GO_0009405
+1	HP-GO	HP_0031273	GO_0019031
+1	HP-GO	HP_0031273	GO_0031975
+1	HP-GO	HP_0031273	GO_0050817
+1	HP-GO	HP_0031273	GO_0023052
+1	HP-GO	HP_0012824	GO_0009405
+1	HP-GO	HP_0012824	GO_0019031
+1	HP-GO	HP_0012824	GO_0031975
+1	HP-GO	HP_0012824	GO_0050817
+1	HP-GO	HP_0012824	GO_0023052
+1	GO-HP	GO_0009405	HP_0012828
+1	GO-HP	GO_0009405	HP_0011009
+1	HP-GO	HP_0012828	GO_0019031
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0050817
+1	HP-GO	HP_0012828	GO_0023052
+1	GO-HP	GO_0019031	HP_0011009
+1	GO-HP	GO_0031975	HP_0011009
+1	GO-HP	GO_0050817	HP_0011009
+1	HP-GO	HP_0011009	GO_0023052
+

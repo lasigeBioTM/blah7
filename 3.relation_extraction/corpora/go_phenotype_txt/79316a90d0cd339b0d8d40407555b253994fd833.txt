@@ -1,0 +1,26 @@
+0|chunk|Gene Expression Profiling in Cells with Enhanced c-Secretase Activity
+0	0	15 Gene Expression	Gene_function	GO_0010467
+
+1|chunk|Background: Processing by c-secretase of many type-I membrane protein substrates triggers signaling cascades by releasing intracellular domains (ICDs) that, following nuclear translocation, modulate the transcription of different genes regulating a diverse array of cellular and biological processes. Because the list of c-secretase substrates is growing quickly and this enzyme is a cancer and Alzheimer's disease therapeutic target, the mapping of c-secretase activity susceptible gene transcription is important for sharpening our view of specific affected genes, molecular functions and biological pathways.
+1	53	61 membrane	Gene_function	GO_0016020
+1	90	99 signaling	Gene_function	GO_0023052
+1	122	135 intracellular	Gene_function	GO_0005622
+1	384	390 cancer	Phenotype	HP_0002664
+1	551	559 affected	Phenotype	HP_0032320
+1	GO-HP	GO_0016020	HP_0002664
+1	GO-HP	GO_0016020	HP_0032320
+1	GO-HP	GO_0023052	HP_0002664
+1	GO-HP	GO_0023052	HP_0032320
+1	GO-HP	GO_0005622	HP_0002664
+1	GO-HP	GO_0005622	HP_0032320
+
+2|chunk|Methodology/Principal Findings: To identify genes and molecular functions transcriptionally affected by c-secretase activity, the cellular transcriptomes of Chinese hamster ovary (CHO) cells with enhanced and inhibited c-secretase activity were analyzed and compared by cDNA microarray. The functional clustering by FatiGO of the 1,981 identified genes revealed over-and under-represented groups with multiple activities and functions. Single genes with the most pronounced transcriptional susceptibility to c-secretase activity were evaluated by real-time PCR. Among the 21 validated genes, the strikingly decreased transcription of PTPRG and AMN1 and increased transcription of UPP1 potentially support data on cell cycle disturbances relevant to cancer, stem cell and neurodegenerative diseases' research. The mapping of interactions of proteins encoded by the validated genes exclusively relied on evidence-based data and revealed broad effects on Wnt pathway members, including WNT3A and DVL3. Intriguingly, the transcription of TERA, a gene of unknown function, is affected by c-secretase activity and was significantly altered in the analyzed human Alzheimer's disease brain cortices.
+2	92	100 affected	Phenotype	HP_0032320
+2	713	723 cell cycle	Gene_function	GO_0007049
+2	1071	1079 affected	Phenotype	HP_0032320
+2	HP-GO	HP_0032320	GO_0007049
+
+3|chunk|Conclusions/Significance: Investigating the effects of c-secretase activity on gene transcription has revealed several affected clusters of molecular functions and, more specifically, 21 genes that hold significant potential for a better understanding of the biology of c-secretase and its roles in cancer and Alzheimer's disease pathology.
+3	119	127 affected	Phenotype	HP_0032320
+3	299	305 cancer	Phenotype	HP_0002664
+

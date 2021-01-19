@@ -1,0 +1,18 @@
+0|chunk|Long non-coding RNA BST2/BISPR is induced by IFN and regulates the expression of the antiviral factor tetherin
+
+1|chunk|Carnero have contributed equally to this work.
+
+2|chunk|Many long non-coding RNAs (lncRNAs) are expressed in cells but only a few have been well characterized. In these cases, lncRNAs have been shown to be key regulators of several cellular processes. Therefore, there is a great need to understand the function of more lncRNAs and their regulation in response to stimuli. Interferon (IFN) is a key molecule in the cellular antiviral response. IFN binding to its receptor activates transcription of several IFN-stimulated genes (ISGs) that function as potent antivirals. In addition, several ISGs are positive or negative regulators of the IFN pathway. This is essential to ensure a strong antiviral response and a later return of the cell to homeostasis. As the ISGs described to date are coding genes, we sought to determine whether IFN also regulates the expression of long non-coding ISGs. To this aim, we used RNA sequencing to analyze the transcriptome of control and HuH7 cells treated with IFN2. The results show that IFN-treatment regulates the expression of several unknown non-coding transcripts. We have validated two lncRNAs upregulated after treatment with different doses of type I IFN2 in different cells or with type III IFN. These lncRNAs were also induced by influenza and vesicular stomatitis virus mutants unable to block the IFN response, but not by several wild-type lytic viruses tested.These lncRNA genes were named lncISG15 and lncBST2 as they are located close to ISGs ISG15 and BST2, respectively. Interestingly, inhibition experiments showed that lncBST2 is a positive regulator of BST2. Therefore lncBST2 has been renamed BISPR, from BST2 IFN-stimulated positive regulator. Our results may have therapeutic implications as lncBST2/BISPR, but also lncISG15 and their coding neighbors, are increased in cells infected with hepatitis C virus and in the liver of infected patients. These results allow us to hypothesize that several lncRNAs could be activated by IFN to control the potency of the antiviral IFN response. Citation: Barriocanal M, Carnero E, Segura V and Fortes P (2015) Long non-coding RNA BST2/BISPR is induced by IFN and regulates the expression of the antiviral factor tetherin. Front. Immunol. 5:655.
+2	368	386 antiviral response	Gene_function	GO_0051607
+2	388	399 IFN binding	Gene_function	GO_0019961
+2	392	399 binding	Gene_function	GO_0005488
+2	634	652 antiviral response	Gene_function	GO_0051607
+2	1249	1259 stomatitis	Phenotype	HP_0010280
+2	1798	1807 hepatitis	Phenotype	HP_0012115
+2	GO-HP	GO_0051607	HP_0010280
+2	GO-HP	GO_0051607	HP_0012115
+2	GO-HP	GO_0019961	HP_0010280
+2	GO-HP	GO_0019961	HP_0012115
+2	GO-HP	GO_0005488	HP_0010280
+2	GO-HP	GO_0005488	HP_0012115
+

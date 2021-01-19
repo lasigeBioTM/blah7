@@ -1,0 +1,26 @@
+0|chunk|How Inhomogeneous Site Percolation Works on Bethe Lattices: Theory and Application OPEN
+0	71	82 Application	Chemical	CHEBI_33232
+
+1|chunk|Inhomogeneous percolation, for its closer relationship with real-life, can be more useful and reasonable than homogeneous percolation to illustrate the critical phenomena and dynamical behaviour of complex networks. However, due to its intricacy, the theoretical framework of inhomogeneous percolation is far from being complete and many challenging problems are still open. In this paper, we first investigate inhomogeneous site percolation on Bethe Lattices with two occupation probabilities, and then extend the result to percolation with m occupation probabilities. The critical behaviour of this inhomogeneous percolation is shown clearly by formulating the percolation probability P p ( )  with given occupation probability p, the critical occupation probability p p P p = sup{ ( ) = 0} c  , and the average cluster size  p ( ) where p is subject to P p ( ) = 0  . Moreover, using the above theory, we discuss in detail the diffusion behaviour of an infectious disease (SARS) and present specific disease-control strategies in consideration of groups with different infection probabilities.
+1	816	823 cluster	Chemical	CHEBI_33731
+1	960	978 infectious disease	Disease	DOID_0050117
+1	971	978 disease	Disease	DOID_4
+1	980	984 SARS	Disease	DOID_2945
+1	CHEBI-DOID	CHEBI_33731	DOID_0050117
+1	CHEBI-DOID	CHEBI_33731	DOID_4
+1	CHEBI-DOID	CHEBI_33731	DOID_2945
+
+2|chunk|Percolation (for reviews see Stauffer 1979 1 , Essam 1980 2 ) is the random occupation of sites or bonds on lattices or networks, named as site percolation or bond percolation, respectively. Site percolation is more general than bond percolation because every bond model may be reformulated as a site model (on a different graph) and the converse is in general not true 3 . The appeal of percolation is the occurrence of a critical phenomenon, which has attracted attention for a wide range of applications: liquid flows in porous media 4,5 , epidemic spread 6-8 , granular and composite materials 9-12 , forest fires 13-15 and fracture patterns and earthquakes in rocks 16 .
+
+3|chunk|The research originated from homogeneous percolation, i.e., percolation with a single occupation probability. For example, Fisher and Essam (1961) solved homogeneous percolation problems on Bethe lattices 17 ; Sykes and Essam (1964) studied the exact critical occupation probabilities in two dimensions 18 ; Gerald (et al., 2001) derived the value of critical occupation probabilities for a four-dimensional percolation problem on hyper-cubic lattices 19 .
+
+4|chunk|Building on those results, researchers began to study inhomogeneous percolation 20-26 , in which sites (or bonds) may have different occupation probabilities. In 1982, Kesten 20 obtained a critical surface of occupation probabilities for inhomogeneous percolation on square lattices. In 2013, Grimmett 21 extended the result of inhomogeneous bond percolation to triangular and hexagonal lattices utilizing Russo-Seymour-Welsh (RSW) theory of box-crossings. Recently, Radicchi 27 studied percolation on not necessarily infinite graphs and used graph decomposition methods to identify abrupt and continuous changes in percolation.
+
+5|chunk|In the current paper, we focus on inhomogeneous percolation on Bethe lattices. The interest in a good understanding of this inhomogeneous percolation process is twofold. Firstly, Bethe lattices might hold fractal structures, which allow more complex behaviour than square or triangular lattices. The results of this inhomogeneous percolation on Bethe lattices have more extensive applications, e.g., the spreading problem of social networks or infectious diseases (see section III). Secondly, as is well known, most results on percolation are obtained using the heuristic approximation or numerical approaches 27-29 and it is difficult to get the exact solutions for average cluster sizes and the percolation probability even for homogeneous percolation. In this paper, we investigate inhomogeneous site percolation on Bethe lattices from two occupation probabilities to m occupation probabilities: for the case of two occupation probabilities, we present the explicit formula of the critical occupation probability and the exact solution of average cluster size  p ( ); and for the case of m occupation probabilities, because of computational complexity, we formulate and obtain the numerical solutions of average cluster size and percolation probability, which might shed light on deriving the results of inhomogeneous percolation. Besides, we analyse in detail
+5	200	204 hold	Chemical	CHEBI_4471
+5	675	682 cluster	Chemical	CHEBI_33731
+5	1030	1038 solution	Chemical	CHEBI_75958
+5	1050	1057 cluster	Chemical	CHEBI_33731
+5	1216	1223 cluster	Chemical	CHEBI_33731
+5	1275	1280 light	Chemical	CHEBI_30212
+

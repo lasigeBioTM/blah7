@@ -1,0 +1,16 @@
+0|chunk|Estimating Individual and Household Reproduction Numbers in an Emerging Epidemic
+
+1|chunk|Reproduction numbers, defined as averages of the number of people infected by a typical case, play a central role in tracking infectious disease outbreaks. The aim of this paper is to develop methods for estimating reproduction numbers which are simple enough that they could be applied with limited data or in real time during an outbreak. I present a new estimator for the individual reproduction number, which describes the state of the epidemic at a point in time rather than tracking individuals over time, and discuss some potential benefits. Then, to capture more of the detail that micro-simulations have shown is important in outbreak dynamics, I analyse a model of transmission within and between households, and develop a method to estimate the household reproduction number, defined as the number of households infected by each infected household. This method is validated by numerical simulations of the spread of influenza and measles using historical data, and estimates are obtained for would-be emerging epidemics of these viruses. I argue that the household reproduction number is useful in assessing the impact of measures that target the household for isolation, quarantine, vaccination or prophylactic treatment, and measures such as social distancing and school or workplace closures which limit between-household transmission, all of which play a key role in current thinking on future infectious disease mitigation.
+1	109	113 role	Chemical	CHEBI_50906
+1	126	144 infectious disease	Disease	DOID_0050117
+1	137	144 disease	Disease	DOID_4
+1	927	936 influenza	Disease	DOID_8469
+1	941	948 measles	Disease	DOID_8622
+1	1374	1378 role	Chemical	CHEBI_50906
+1	1409	1427 infectious disease	Disease	DOID_0050117
+1	1420	1427 disease	Disease	DOID_4
+1	CHEBI-DOID	CHEBI_50906	DOID_0050117
+1	CHEBI-DOID	CHEBI_50906	DOID_4
+1	CHEBI-DOID	CHEBI_50906	DOID_8469
+1	CHEBI-DOID	CHEBI_50906	DOID_8622
+

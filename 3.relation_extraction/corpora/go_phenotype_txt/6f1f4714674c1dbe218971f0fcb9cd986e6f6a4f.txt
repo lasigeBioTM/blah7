@@ -1,0 +1,431 @@
+0|chunk|cells A Comprehensive Review of Autophagy and Its Various Roles in Infectious, Non-Infectious, and Lifestyle Diseases: Current Knowledge and Prospects for Disease Prevention, Novel Drug Design, and Therapy
+0	32	41 Autophagy	Gene_function	GO_0006914
+
+1|chunk|Autophagy (self-eating) is a conserved cellular degradation process that plays important roles in maintaining homeostasis and preventing nutritional, metabolic, and infection-mediated stresses. Autophagy dysfunction can have various pathological consequences, including tumor progression, pathogen hyper-virulence, and neurodegeneration. This review describes the mechanisms of autophagy and its associations with other cell death mechanisms, including apoptosis, necrosis, necroptosis, and autosis. Autophagy has both positive and negative roles in infection, cancer, neural development, metabolism, cardiovascular health, immunity, and iron homeostasis. Genetic defects in autophagy can have pathological consequences, such as static childhood encephalopathy with neurodegeneration in adulthood, Crohn's disease, hereditary spastic paraparesis, Danon disease, X-linked myopathy with excessive autophagy, and sporadic inclusion body myositis. Further studies on the process of autophagy in different microbial infections could help to design and develop novel therapeutic strategies against important pathogenic microbes. This review on the progress and prospects of autophagy research describes various activators and suppressors, which could be used to design novel intervention strategies against numerous diseases and develop therapeutic drugs to protect human and animal health.
+1	0	9 Autophagy	Gene_function	GO_0006914
+1	39	59 cellular degradation	Gene_function	GO_0044248
+1	48	59 degradation	Gene_function	GO_0009056
+1	110	121 homeostasis	Gene_function	GO_0042592
+1	194	203 Autophagy	Gene_function	GO_0006914
+1	270	275 tumor	Phenotype	HP_0002664
+1	319	336 neurodegeneration	Phenotype	HP_0002180
+1	378	387 autophagy	Gene_function	GO_0006914
+1	420	430 cell death	Gene_function	GO_0008219
+1	500	509 Autophagy	Gene_function	GO_0006914
+1	643	654 homeostasis	Gene_function	GO_0042592
+1	675	684 autophagy	Gene_function	GO_0006914
+1	746	760 encephalopathy	Phenotype	HP_0001298
+1	766	783 neurodegeneration	Phenotype	HP_0002180
+1	862	870 X-linked	Phenotype	HP_0001417
+1	871	879 myopathy	Phenotype	HP_0003198
+1	895	904 autophagy	Gene_function	GO_0006914
+1	910	918 sporadic	Phenotype	HP_0003745
+1	919	933 inclusion body	Gene_function	GO_0016234
+1	978	987 autophagy	Gene_function	GO_0006914
+1	1168	1177 autophagy	Gene_function	GO_0006914
+1	GO-HP	GO_0006914	HP_0002664
+1	GO-HP	GO_0006914	HP_0002180
+1	GO-HP	GO_0006914	HP_0001298
+1	GO-HP	GO_0006914	HP_0001417
+1	GO-HP	GO_0006914	HP_0003198
+1	GO-HP	GO_0006914	HP_0003745
+1	GO-HP	GO_0044248	HP_0002664
+1	GO-HP	GO_0044248	HP_0002180
+1	GO-HP	GO_0044248	HP_0001298
+1	GO-HP	GO_0044248	HP_0001417
+1	GO-HP	GO_0044248	HP_0003198
+1	GO-HP	GO_0044248	HP_0003745
+1	GO-HP	GO_0009056	HP_0002664
+1	GO-HP	GO_0009056	HP_0002180
+1	GO-HP	GO_0009056	HP_0001298
+1	GO-HP	GO_0009056	HP_0001417
+1	GO-HP	GO_0009056	HP_0003198
+1	GO-HP	GO_0009056	HP_0003745
+1	GO-HP	GO_0042592	HP_0002664
+1	GO-HP	GO_0042592	HP_0002180
+1	GO-HP	GO_0042592	HP_0001298
+1	GO-HP	GO_0042592	HP_0001417
+1	GO-HP	GO_0042592	HP_0003198
+1	GO-HP	GO_0042592	HP_0003745
+1	HP-GO	HP_0002664	GO_0008219
+1	HP-GO	HP_0002664	GO_0016234
+1	HP-GO	HP_0002180	GO_0008219
+1	HP-GO	HP_0002180	GO_0016234
+1	GO-HP	GO_0008219	HP_0001298
+1	GO-HP	GO_0008219	HP_0001417
+1	GO-HP	GO_0008219	HP_0003198
+1	GO-HP	GO_0008219	HP_0003745
+1	HP-GO	HP_0001298	GO_0016234
+1	HP-GO	HP_0001417	GO_0016234
+1	HP-GO	HP_0003198	GO_0016234
+1	HP-GO	HP_0003745	GO_0016234
+
+2|chunk|Autophagy is a conserved catabolic process that is involved in cellular homeostasis and is required to maintain normal cellular physiology under stressful conditions [1] . It overcomes carcinogenic, infectious, degenerative, and deleterious agents to maintain the homeostasis of bodily systems and regulate healthy life processes; thus, its dysregulation is known to cause multiple human diseases [2] [3] [4] [5] . Autophagy can be a selective or non-selective lysosomal degradative process and is activated by stresses such as starvation or rapamycin via regulatory signaling complexes [6, 7] . There are three types of autophagy: macroautophagy, microautophagy, and chaperone-mediated autophagy (CMA) [8] . Macroautophagy, referred to as "autophagy" from now on, is the major pathway which engulfs large portions of cytoplasm and cellular contents (e.g., long-lived proteins, aggregated proteins, damaged organelles, and intracellular pathogens) into a double-membraned vacuole called the autophagosome, which fuses with lysosomes to form an autolysosome, degrades the autolysosomal contents, and recycles macromolecules for reuse [9] [10] [11] .
+2	0	9 Autophagy	Gene_function	GO_0006914
+2	25	42 catabolic process	Gene_function	GO_0009056
+2	63	83 cellular homeostasis	Gene_function	GO_0019725
+2	72	83 homeostasis	Gene_function	GO_0042592
+2	264	275 homeostasis	Gene_function	GO_0042592
+2	307	314 healthy	Phenotype	HP_0032322
+2	415	424 Autophagy	Gene_function	GO_0006914
+2	567	576 signaling	Gene_function	GO_0023052
+2	621	630 autophagy	Gene_function	GO_0006914
+2	668	696 chaperone-mediated autophagy	Gene_function	GO_0061684
+2	687	696 autophagy	Gene_function	GO_0006914
+2	741	750 autophagy	Gene_function	GO_0006914
+2	818	827 cytoplasm	Gene_function	GO_0005737
+2	923	936 intracellular	Gene_function	GO_0005622
+2	972	979 vacuole	Gene_function	GO_0005773
+2	GO-HP	GO_0006914	HP_0032322
+2	GO-HP	GO_0009056	HP_0032322
+2	GO-HP	GO_0019725	HP_0032322
+2	GO-HP	GO_0042592	HP_0032322
+2	HP-GO	HP_0032322	GO_0023052
+2	HP-GO	HP_0032322	GO_0061684
+2	HP-GO	HP_0032322	GO_0005737
+2	HP-GO	HP_0032322	GO_0005622
+2	HP-GO	HP_0032322	GO_0005773
+
+3|chunk|Microautophagy refers to the process by which lysosomes directly engulf and digest small volumes of cytosolic substrate [12, 13] , whilst CMA is induced by physiological stresses such as prolonged starvation [14] and involves the heat shock cognate protein (HSC70; 71-kDa, also known as HSPA8) which contains a KFERQ-like pentapeptide sequence [15] . The CMA pathway delivers target proteins across lysosomal membranes into the lysosomal lumen by interacting with lysosome-associated membrane protein type 2A (LAMP-2A) [9] . Hence, CMA differs from microautophagy and macroautophagy, as it does not require vesicular trafficking [14] . Regardless of the type, autophagy acts as a cleaning mechanism by removing or degrading unnecessary materials from the body (e.g., proteins, organelles, and microbes) and retaining or maintaining materials (biochemicals, metabolites, and organelles) required for survival, function, and development [1, 6, 16, 17] . The physiological processes of autophagy are governed by numerous cellular regulators (e.g., transcription factors and genes), which can affect homeostatic processing if disturbed by genetic or functional reasons, or overexertion [4, 6, 17] . Hence, autophagy defects can affect the pathogenesis of many diseases [17] .
+3	187	196 prolonged	Phenotype	HP_0025297
+3	235	240 shock	Phenotype	HP_0031273
+3	428	443 lysosomal lumen	Gene_function	GO_0043202
+3	484	492 membrane	Gene_function	GO_0016020
+3	660	669 autophagy	Gene_function	GO_0006914
+3	983	992 autophagy	Gene_function	GO_0006914
+3	1202	1211 autophagy	Gene_function	GO_0006914
+3	1235	1247 pathogenesis	Gene_function	GO_0009405
+3	HP-GO	HP_0025297	GO_0043202
+3	HP-GO	HP_0025297	GO_0016020
+3	HP-GO	HP_0025297	GO_0006914
+3	HP-GO	HP_0025297	GO_0009405
+3	HP-GO	HP_0031273	GO_0043202
+3	HP-GO	HP_0031273	GO_0016020
+3	HP-GO	HP_0031273	GO_0006914
+3	HP-GO	HP_0031273	GO_0009405
+
+4|chunk|The roles of autophagy have been explored in fields such as health, disease, infection, degeneration, and genetic or lifestyle-acquired diseases [18] [19] [20] [21] ; however, cancer [7, 22] , microbial infections [20, 21, 23] , and degenerative diseases [18, 24] have been the main focus of autophagy-related research. Currently, the roles of autophagy are being explored in diverse fields of study.
+4	13	22 autophagy	Gene_function	GO_0006914
+4	176	182 cancer	Phenotype	HP_0002664
+4	344	353 autophagy	Gene_function	GO_0006914
+4	GO-HP	GO_0006914	HP_0002664
+
+5|chunk|Autophagy plays important roles in cancer metastasis; 4-acetyl-antroquinonol B has been shown to modulate autophagy and prevent the growth of ovarian cancer cells [25] . Clinical studies have revealed higher levels of autophagic flux in distant metastases than in primary tumors [26, 27] ; therefore, autophagy has stage-dependent dual roles in cancer which may facilitate the growth and spread of tumors and affect treatment resistance [19] . Conversely, autophagy has been shown to act as a tumor suppressor during the early and late phases of cancer development [28, 29] by mediating the destruction and removal of carcinogens and cancerous cells, thus enabling the growth and development of healthy cells; however, under disturbed or uncontrolled conditions autophagy can promote cancer growth and dissemination. Autophagy is also important in neuronal homeostasis, with its dysfunction associated with numerous neurodegenerative disorders [18] . Pathogenic protein aggregates are a common feature of neurodegenerative disorders, and dysfunctional autophagy is involved in this disease state [30] . Furthermore, mutations in autophagy regulation genes have been shown to induce neurodegenerative diseases such as amyotrophic lateral sclerosis, Alzheimer's disease, and familial Cells 2019, 8, 674 3 of 64
+5	0	9 Autophagy	Gene_function	GO_0006914
+5	35	41 cancer	Phenotype	HP_0002664
+5	106	115 autophagy	Gene_function	GO_0006914
+5	132	138 growth	Gene_function	GO_0040007
+5	150	156 cancer	Phenotype	HP_0002664
+5	301	310 autophagy	Gene_function	GO_0006914
+5	345	351 cancer	Phenotype	HP_0002664
+5	377	383 growth	Gene_function	GO_0040007
+5	456	465 autophagy	Gene_function	GO_0006914
+5	493	498 tumor	Phenotype	HP_0002664
+5	493	509 tumor suppressor	Gene_function	GO_0051726
+5	546	552 cancer	Phenotype	HP_0002664
+5	669	675 growth	Gene_function	GO_0040007
+5	695	702 healthy	Phenotype	HP_0032322
+5	762	771 autophagy	Gene_function	GO_0006914
+5	784	790 cancer	Phenotype	HP_0002664
+5	791	797 growth	Gene_function	GO_0040007
+5	817	826 Autophagy	Gene_function	GO_0006914
+5	1052	1061 autophagy	Gene_function	GO_0006914
+5	1129	1138 autophagy	Gene_function	GO_0006914
+5	1217	1246 amyotrophic lateral sclerosis	Phenotype	HP_0007354
+5	1229	1236 lateral	Phenotype	HP_0025275
+5	GO-HP	GO_0006914	HP_0002664
+5	GO-HP	GO_0006914	HP_0032322
+5	GO-HP	GO_0006914	HP_0007354
+5	GO-HP	GO_0006914	HP_0025275
+5	HP-GO	HP_0002664	GO_0040007
+5	HP-GO	HP_0002664	GO_0051726
+5	GO-HP	GO_0040007	HP_0032322
+5	GO-HP	GO_0040007	HP_0007354
+5	GO-HP	GO_0040007	HP_0025275
+5	GO-HP	GO_0051726	HP_0032322
+5	GO-HP	GO_0051726	HP_0007354
+5	GO-HP	GO_0051726	HP_0025275
+
+6|chunk|Parkinson's disease [18, 24] . These mutations affect different stages of autophagy and thus have different implications for pathogenesis and therapy [31] .
+6	74	83 autophagy	Gene_function	GO_0006914
+6	125	137 pathogenesis	Gene_function	GO_0009405
+
+7|chunk|In the modern world, factors such as globalization, liberal trade, climate change, population explosions, public health lapses, immune pressures, and mutations, species jumping, and emerging antibiotic resistance in pathogens have facilitated the spread of various infectious pathogens. In recent years, it has been shown that autophagy has a role in many emerging and re-emerging infectious viral and bacterial diseases that pose significant threats to humans. Autophagy initially encounters these infectious pathogens to neutralize them; however, may infections can propagate themselves as persistent intracellular infections and are generally associated with wide outbreaks, epidemics, and highly devastating effects. Many viral life cycles are linked with autophagic pathways. The influenza A virus induces autophagosome formation during the early stages of infection and inhibits autophagosomal maturation during the later stages. Classical swine fever virus replication is negatively regulated by mTORC1 via autophagy and IRES-dependent translation, whilst Dengue/Zika virus pathogenicity is modulated by antibody-dependent enhancement (ADE) which can induce autophagy in human umbilical vein endothelial cells. Multimodal necrotic cell death is driven by open reading frame-3a of severe acute respiratory syndrome (SARS)-coronavirus (CoV), that triggers the lysosomal damage and dysfunction and therefore transcription of autophagy-related genes is enhanced, whilst endoplasmic reticulum (ER) stress in Dengue virus (DENV) infections results in autophagy activation, viral replication, and pathogenesis. The disruption of mitochondrial membrane potentials by the non-structural protein of Crimean-Congo hemorrhagic fever (CCHF) virus results in apoptosis, whereas paramyxovirus V proteins inhibit constitutively active MDA5 proteins to induce autophagy. All of these viral events are related to autophagy and can provide directions for future therapies for Chikungunya (CHIKV), DENV, and Zika virus (ZIKV) infections. Autophagy has a pivotal role in viral diseases such as bird flu [32], swine fever [33], Ebola virus disease [20], ZIKV infection [34,35], SARS [36], CHIKV infection [37], DENV infection [38], viral encephalitis [39], CCHF [40], Hendra virus (HeV) infection [41], Nipah virus (NiV) infection [42], and the West Nile virus (WNV) infection [43]. Apart from these, other viral diseases, such as rabies, rotavirus enteritis, and smallpox, have already posed a serious threat to human life [44-48]. Autophagy has also been shown to have a central role in microbial infections [49], including those caused by Listeria [50], Salmonella [51], Shigella [52], and Streptococcus [53]. Autophagy can kill or eradicate infectious disease-causing pathogens via the autophagosome or autophagolysosome (autolysosome) to prevent or treat infection [20, 21] ; however, autophagy can also disseminate pathogens during pathogenesis. For example, gut epithelial autophagy can disseminate viruses and bacteria in enteric diseases. Therefore, autophagy can play a dual role in infections [20, 21, 54] .
+7	327	336 autophagy	Gene_function	GO_0006914
+7	462	471 Autophagy	Gene_function	GO_0006914
+7	603	616 intracellular	Gene_function	GO_0005622
+7	811	824 autophagosome	Gene_function	GO_0005776
+7	811	834 autophagosome formation	Gene_function	GO_0000045
+7	952	957 fever	Phenotype	HP_0001945
+7	1014	1023 autophagy	Gene_function	GO_0006914
+7	1165	1174 autophagy	Gene_function	GO_0006914
+7	1229	1248 necrotic cell death	Gene_function	GO_0070265
+7	1238	1248 cell death	Gene_function	GO_0008219
+7	1287	1293 severe	Phenotype	HP_0012828
+7	1294	1299 acute	Phenotype	HP_0011009
+7	1473	1494 endoplasmic reticulum	Gene_function	GO_0005783
+7	1552	1561 autophagy	Gene_function	GO_0006914
+7	1629	1642 mitochondrial	Phenotype	HP_0001427
+7	1629	1651 mitochondrial membrane	Gene_function	GO_0031966
+7	1643	1651 membrane	Gene_function	GO_0016020
+7	1722	1727 fever	Phenotype	HP_0001945
+7	1850	1859 autophagy	Gene_function	GO_0006914
+7	1902	1911 autophagy	Gene_function	GO_0006914
+7	2025	2034 Autophagy	Gene_function	GO_0006914
+7	2101	2106 fever	Phenotype	HP_0001945
+7	2223	2235 encephalitis	Phenotype	HP_0002383
+7	2518	2527 Autophagy	Gene_function	GO_0006914
+7	2558	2565 central	Phenotype	HP_0030645
+7	2698	2707 Autophagy	Gene_function	GO_0006914
+7	2775	2788 autophagosome	Gene_function	GO_0005776
+7	2792	2809 autophagolysosome	Gene_function	GO_0044754
+7	2811	2823 autolysosome	Gene_function	GO_0044754
+7	2875	2884 autophagy	Gene_function	GO_0006914
+7	2965	2974 autophagy	Gene_function	GO_0006914
+7	3044	3053 autophagy	Gene_function	GO_0006914
+7	GO-HP	GO_0006914	HP_0001945
+7	GO-HP	GO_0006914	HP_0012828
+7	GO-HP	GO_0006914	HP_0011009
+7	GO-HP	GO_0006914	HP_0001427
+7	GO-HP	GO_0006914	HP_0002383
+7	GO-HP	GO_0006914	HP_0030645
+7	GO-HP	GO_0005622	HP_0001945
+7	GO-HP	GO_0005622	HP_0012828
+7	GO-HP	GO_0005622	HP_0011009
+7	GO-HP	GO_0005622	HP_0001427
+7	GO-HP	GO_0005622	HP_0002383
+7	GO-HP	GO_0005622	HP_0030645
+7	GO-HP	GO_0005776	HP_0001945
+7	GO-HP	GO_0005776	HP_0012828
+7	GO-HP	GO_0005776	HP_0011009
+7	GO-HP	GO_0005776	HP_0001427
+7	GO-HP	GO_0005776	HP_0002383
+7	GO-HP	GO_0005776	HP_0030645
+7	GO-HP	GO_0000045	HP_0001945
+7	GO-HP	GO_0000045	HP_0012828
+7	GO-HP	GO_0000045	HP_0011009
+7	GO-HP	GO_0000045	HP_0001427
+7	GO-HP	GO_0000045	HP_0002383
+7	GO-HP	GO_0000045	HP_0030645
+7	HP-GO	HP_0001945	GO_0070265
+7	HP-GO	HP_0001945	GO_0008219
+7	HP-GO	HP_0001945	GO_0005783
+7	HP-GO	HP_0001945	GO_0031966
+7	HP-GO	HP_0001945	GO_0016020
+7	HP-GO	HP_0001945	GO_0044754
+7	GO-HP	GO_0070265	HP_0012828
+7	GO-HP	GO_0070265	HP_0011009
+7	GO-HP	GO_0070265	HP_0001427
+7	GO-HP	GO_0070265	HP_0002383
+7	GO-HP	GO_0070265	HP_0030645
+7	GO-HP	GO_0008219	HP_0012828
+7	GO-HP	GO_0008219	HP_0011009
+7	GO-HP	GO_0008219	HP_0001427
+7	GO-HP	GO_0008219	HP_0002383
+7	GO-HP	GO_0008219	HP_0030645
+7	HP-GO	HP_0012828	GO_0005783
+7	HP-GO	HP_0012828	GO_0031966
+7	HP-GO	HP_0012828	GO_0016020
+7	HP-GO	HP_0012828	GO_0044754
+7	HP-GO	HP_0011009	GO_0005783
+7	HP-GO	HP_0011009	GO_0031966
+7	HP-GO	HP_0011009	GO_0016020
+7	HP-GO	HP_0011009	GO_0044754
+7	GO-HP	GO_0005783	HP_0001427
+7	GO-HP	GO_0005783	HP_0002383
+7	GO-HP	GO_0005783	HP_0030645
+7	HP-GO	HP_0001427	GO_0031966
+7	HP-GO	HP_0001427	GO_0016020
+7	HP-GO	HP_0001427	GO_0044754
+7	GO-HP	GO_0031966	HP_0002383
+7	GO-HP	GO_0031966	HP_0030645
+7	GO-HP	GO_0016020	HP_0002383
+7	GO-HP	GO_0016020	HP_0030645
+7	HP-GO	HP_0002383	GO_0044754
+7	HP-GO	HP_0030645	GO_0044754
+
+8|chunk|In recent years, there has been an increase in the incidence of lifestyle and genetic diseases, such as cancers and neurodegenerative disorders (Alzheimer's, Parkinson's, and Huntington's diseases), which affect the quality of life. Advances in science and technology have contributed to overcoming these challenges. Novel, alternative, and complementary therapeutic options have been developed, including phages, homing peptides, cytokines, siRNA, viral inhibitors, Toll-like receptors (TLRs), antibodies, probiotics, herbs, phytomedicines, nanomedicines, and immunomodulatory techniques [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] . Autophagy is the first mechanism to clear endogenous debris and exogenous substances and maintains normal physiological conditions in all eukaryotic cells [65]. Besides maintaining homeostasis [66], autophagy also regulates the development [67], differentiation [5], and maturation [68] of cells, such as endothelial cells [69], erythrocytes [70], and adipocytes [71, 72] . These cells are involved in normal physiological (e.g., erythrocytes in respiration), immunological (e.g., mononuclear cells in immunity), metabolic (e.g., adipocytes in fat metabolism), growth (e.g., osteocytes in bone growth), and development (e.g., spermatozoa or ova in reproduction) processes. Autophagy is also involved in clearing abnormal protein accumulations and correcting mitochondrial disorganization [73, 74] . The processes of autophagy and apoptosis are interwoven and have been implicated in both microbial infections [54, 75] and cancers [26, 76] . Autophagy might play both physiological and pathological roles since it is involved in overcoming cell stresses [19, 77, 78] . Considering the numerous Cells 2019, 8, 674 4 of 64
+8	641	650 Autophagy	Gene_function	GO_0006914
+8	822	833 homeostasis	Gene_function	GO_0042592
+8	840	849 autophagy	Gene_function	GO_0006914
+8	1202	1208 growth	Gene_function	GO_0040007
+8	1289	1301 reproduction	Gene_function	GO_0000003
+8	1314	1323 Autophagy	Gene_function	GO_0006914
+8	1399	1412 mitochondrial	Phenotype	HP_0001427
+8	1457	1466 autophagy	Gene_function	GO_0006914
+8	1582	1591 Autophagy	Gene_function	GO_0006914
+8	GO-HP	GO_0006914	HP_0001427
+8	GO-HP	GO_0042592	HP_0001427
+8	GO-HP	GO_0040007	HP_0001427
+8	GO-HP	GO_0000003	HP_0001427
+
+9|chunk|roles and functions of autophagy in health and disease, we present a comprehensive overview of autophagy, its mechanisms and types, and its associations with other cell death mechanisms. The dual roles of autophagy in infectious diseases (bacterial and viral), tumor suppression/progression, brain development/neurodegeneration, the immune system, and autoimmune diseases, and its other roles have been discussed thoroughly alongside numerous applications of autophagy. We have also summarized the role of autophagy in cardiovascular diseases, iron homeostasis, obesity, diabetes, and diseases caused by defects in autophagy genes. The treatment of autophagy-associated diseases has been described alongside strategies to inhibit or activate autophagy in the prevention and treatment of diseases. This review details the important functions of autophagy in health and disease and its key roles in disease prevention and treatment.
+9	23	32 autophagy	Gene_function	GO_0006914
+9	95	104 autophagy	Gene_function	GO_0006914
+9	164	174 cell death	Gene_function	GO_0008219
+9	205	214 autophagy	Gene_function	GO_0006914
+9	261	266 tumor	Phenotype	HP_0002664
+9	459	468 autophagy	Gene_function	GO_0006914
+9	506	515 autophagy	Gene_function	GO_0006914
+9	615	624 autophagy	Gene_function	GO_0006914
+9	742	751 autophagy	Gene_function	GO_0006914
+9	844	853 autophagy	Gene_function	GO_0006914
+9	GO-HP	GO_0006914	HP_0002664
+9	GO-HP	GO_0008219	HP_0002664
+
+10|chunk|Autophagy (from the Greek words auto, meaning self, and phagy, meaning eating), is an essential, ubiquitous, evolutionarily conserved, catabolic, and self-degradative process that mediates the destruction of cytoplasmic macromolecules to preserve genomic integrity, achieve cell metabolism, and ensure cell survival [30, [79] [80] [81] . It is a natural regulatory mechanism which retains beneficial substances and removes harmful substances from body, whilst playing a housekeeping role in the elimination of misfolded or aggregated proteins, the eradication of damaged organelles, proteins [82] [83] [84] , and cancerous materials [7] , and the elimination of foreign pathogens such as viruses via a degradative lysosomal pathway [21, [85] [86] [87] .
+10	0	9 Autophagy	Gene_function	GO_0006914
+
+11|chunk|Numerous physiobiological roles of autophagy have been identified, such as the disposal of endogenous wastes and exogenous agents to maintain homeostasis; however, disturbing the natural balance of this mechanism can result in pathological consequences [88] .
+11	35	44 autophagy	Gene_function	GO_0006914
+
+12|chunk|Since it is the primary system for cleaning the body, autophagy can prevent or treat cancer by killing cancerous cells and degrading endogenous or exogenous carcinogens; thus, favoring the development of healthy cells. However, autophagy may have dual roles in cancer as it is involved in stem cell-related resistance to anti-cancer therapy (radioresistance and chemoresistance), metastasis, and tumor recurrence [89] . As obligate intracellular pathogens, viruses interact with multiple host cell processes for their survival, including metabolism, cellular trafficking, and immunity-related responses [54, 90] . Furthermore, autophagy is a major degradative cellular process, with essential roles in many innate and adaptive immune processes [91] [92] [93] . Autophagy also regulates the phosphorylation of p38 and ERK1/2 MAPKs in BV2 microglial cells, required for nitric oxide production [94, 95] . Thus, it can affect the activation of neuronal cells by microglia and suppress neurotoxicity. Moreover, it can downregulate pro-inflammatory mediators in BV2 microglial cells to rescue them from LPS-and -synuclein-induced neuronal cell death [94] .
+12	54	63 autophagy	Gene_function	GO_0006914
+12	85	91 cancer	Phenotype	HP_0002664
+12	204	211 healthy	Phenotype	HP_0032322
+12	228	237 autophagy	Gene_function	GO_0006914
+12	261	267 cancer	Phenotype	HP_0002664
+12	396	401 tumor	Phenotype	HP_0002664
+12	423	431 obligate	Phenotype	HP_0040280
+12	432	445 intracellular	Gene_function	GO_0005622
+12	488	497 host cell	Gene_function	GO_0043657
+12	627	636 autophagy	Gene_function	GO_0006914
+12	761	770 Autophagy	Gene_function	GO_0006914
+12	790	805 phosphorylation	Gene_function	GO_0016310
+12	1126	1145 neuronal cell death	Gene_function	GO_0070997
+12	1135	1145 cell death	Gene_function	GO_0008219
+12	GO-HP	GO_0006914	HP_0002664
+12	GO-HP	GO_0006914	HP_0032322
+12	GO-HP	GO_0006914	HP_0040280
+12	HP-GO	HP_0002664	GO_0005622
+12	HP-GO	HP_0002664	GO_0043657
+12	HP-GO	HP_0002664	GO_0016310
+12	HP-GO	HP_0002664	GO_0070997
+12	HP-GO	HP_0002664	GO_0008219
+12	HP-GO	HP_0032322	GO_0005622
+12	HP-GO	HP_0032322	GO_0043657
+12	HP-GO	HP_0032322	GO_0016310
+12	HP-GO	HP_0032322	GO_0070997
+12	HP-GO	HP_0032322	GO_0008219
+12	HP-GO	HP_0040280	GO_0005622
+12	HP-GO	HP_0040280	GO_0043657
+12	HP-GO	HP_0040280	GO_0016310
+12	HP-GO	HP_0040280	GO_0070997
+12	HP-GO	HP_0040280	GO_0008219
+
+13|chunk|Autophagy can either be selective or non-selective [96] . In selective autophagy, cargo is recognized by specific receptors to enable their specific identification, sequestration, and degradation by the autophagosome, whereas in non-specific autophagy, all materials are degraded by the lysosome in a non-specific manner [96, 97] . Furthermore, autophagy is known to exist in two forms: constitutive and reactive (induced) autophagy. Constitutive autophagy has not been well studied, whereas the latter has been studied extensively and is known to stimulate neurite remodeling in developing brains, thus may be essential during brain development [98, 99] . Mice lacking the autophagy proteins Atg59 and Atg710 display excessive neurodegeneration, indicating that autophagy has physiological importance [100]. Numerous factors relating to nutrient deprivation (amino acids and hormones) and build-up of degraded products (proteins) or exogenous agents (pathogens) have been evaluated as induced autophagy stimuli [101, 102] . Endogenous and exogenous stimuli induce autophagy for degradation or as a repair mechanism.
+13	0	9 Autophagy	Gene_function	GO_0006914
+13	71	80 autophagy	Gene_function	GO_0006914
+13	82	87 cargo	Gene_function	GO_0140355
+13	184	195 degradation	Gene_function	GO_0009056
+13	242	251 autophagy	Gene_function	GO_0006914
+13	287	295 lysosome	Gene_function	GO_0005764
+13	345	354 autophagy	Gene_function	GO_0006914
+13	423	432 autophagy	Gene_function	GO_0006914
+13	447	456 autophagy	Gene_function	GO_0006914
+13	628	645 brain development	Gene_function	GO_0007420
+13	674	683 autophagy	Gene_function	GO_0006914
+13	763	772 autophagy	Gene_function	GO_0006914
+13	994	1003 autophagy	Gene_function	GO_0006914
+13	1065	1074 autophagy	Gene_function	GO_0006914
+13	1079	1090 degradation	Gene_function	GO_0009056
+
+14|chunk|Several stimuli have been shown to induce autophagy, including stress, amino acid starvation [103], rapid declines in trophic factors or hormones (such as sex-based differences) [104], lipid starvation [105], impaired intracellular cholesterol trafficking [106], protein products, and infectious pathogens [32,38,85]. Cells 2019, 8, 674 5 of 64
+14	218	231 intracellular	Gene_function	GO_0005622
+
+15|chunk|These stimuli can affect the autophagic function and induce different morphological consequences via diverse signaling pathways; for instance, suppressing phosphatidylinositol-3-kinase (PI3K) inhibitors and Beclin 1 inhibits the starvation-induced mitochondrial autophagy, but not the neurotoxin (1-methyl-4-phenylpyridinium)-mediated autophagy [107] [108] [109] . Although autophagy was discovered over 50 years ago [54], its molecular mechanisms were only understood in the late 1990s following a genetic screening in yeast, which revealed mutations in autophagy-related genes. At least 30 yeast autophagy genes (Atgs) have been identified, many of which have mammalian cell homologs [85] .
+15	109	118 signaling	Gene_function	GO_0023052
+15	248	261 mitochondrial	Phenotype	HP_0001427
+15	262	271 autophagy	Gene_function	GO_0006914
+15	335	344 autophagy	Gene_function	GO_0006914
+15	374	383 autophagy	Gene_function	GO_0006914
+15	598	607 autophagy	Gene_function	GO_0006914
+15	GO-HP	GO_0023052	HP_0001427
+15	HP-GO	HP_0001427	GO_0006914
+
+16|chunk|Many molecular mechanisms have been explored to reveal the basic processes underlying autophagy. Multiple signaling pathways focus on two protein complexes to initiate autophagy, the ULK1 (unc51-like autophagy activating kinase 1) protein kinase complex and the PI3KC3-C1 (class III phosphatidylinositol 3-kinase complex I) lipid kinase complex [110] . Novel autophagy regulators with RNA-related activities have also been shown to be involved in this process [111] . Furthermore, upstream signaling pathways common to both autophagy and apoptosis are known to be induced by ER stress via signaling molecules such as PERK/ATF4, IRE1, ATF6, and Ca 2+ [112] . The details of these mechanisms will shed light on the different forms of autophagy and the numerous intermediates involved.
+16	86	95 autophagy	Gene_function	GO_0006914
+16	106	115 signaling	Gene_function	GO_0023052
+16	168	177 autophagy	Gene_function	GO_0006914
+16	200	209 autophagy	Gene_function	GO_0006914
+16	231	253 protein kinase complex	Gene_function	GO_1902911
+16	283	322 phosphatidylinositol 3-kinase complex I	Gene_function	GO_0034271
+16	359	368 autophagy	Gene_function	GO_0006914
+16	490	499 signaling	Gene_function	GO_0023052
+16	524	533 autophagy	Gene_function	GO_0006914
+16	589	598 signaling	Gene_function	GO_0023052
+16	733	742 autophagy	Gene_function	GO_0006914
+
+17|chunk|Three types of autophagy [macroautophagy, microautophagy, and chaperone-mediated autophagy (CMA)] are depicted in Figure 1 . Cells 2019, 8, x FOR PEER REVIEW 5 of 65
+17	15	24 autophagy	Gene_function	GO_0006914
+17	62	90 chaperone-mediated autophagy	Gene_function	GO_0061684
+17	81	90 autophagy	Gene_function	GO_0006914
+
+18|chunk|Autophagy refers to the process of delivering cytoplasmic or extracellular components to the lysosomes of an animal cell or the vacuoles of plant or yeast cells [113] . The production and maturation of autophagosomes are directly regulated by location, timing, and intensity [114] . Cells 2019, 8, 674 6 of 64
+18	0	9 Autophagy	Gene_function	GO_0006914
+18	61	74 extracellular	Gene_function	GO_0005576
+18	265	274 intensity	Phenotype	HP_0012824
+18	GO-HP	GO_0006914	HP_0012824
+18	GO-HP	GO_0005576	HP_0012824
+
+19|chunk|The phosphoinositide-binding protein, HS1BP3, is a negative regulator of autophagosome biogenesis that regulates the lipid composition and phosphatidic acid (PA) levels of autophagosome precursor membranes [114] . Increased levels of systemic autophagy have been reported in Caenorhabditis elegans, with hormetic heat stress and heat-shock responsive transcription factor (HSF-1) inducing autophagy to improve the survival and proteostasis of the worm [115] . Furthermore, it has been revealed that autophagy is fine-tuned by epigenetic regulation, through histone (coactivator-associated) arginine methyltransferase, CARM1, a novel enzyme that follows histone H3R17 dimethylation (histone H3 methylated at arginine 17) which is an important epigenetic marker of starvation-induced autophagy [116] . In addition, the vitamin D receptor has been shown to modulate autophagy in normal mammary glands and luminal breast cancer cells, suggesting a potential therapeutic link between vitamin D levels and breast cancer risk [117] . There are numerous additional endogenous and exogenous factors that modulate autophagy, such as transcription factors, variation in the amount or concentration of various cytoplasmic biochemicals, damaged organelles, exogenous compounds, and pathogens [6, 40, 103] ; therefore, autophagy mechanisms vary. Autophagy can be divided into macroautophagy, microautophagy, and CMA based on the mechanism by which intracellular materials are delivered into the lysosome for degradation and the molecular structures that target substrates to the lysosomes [3, [118] [119] [120] . Although these pathways are mechanistically distinct, they all carry out degradation via the lysosome [54, 118] . Most forms of selective autophagy involve the degradation of specific targets; for example, mitophagy (mitochondria), pexophagy (peroxisomes), aggrephagy (protein aggregates), glycophagy (glycogens), lipophagy (lipids), ribophagy (ribosome), xenophagy (pathogens), and ER-phagy [21, 121] . Autophagy is a novel, evolutionarily conserved function of the eukaryotic initiation factor 2 (eIF2) kinase pathway, which consists of a family of evolutionarily conserved serine/threonine kinases that regulate stress-induced translational arrest and are targeted by virulence gene products [122] .
+19	73	86 autophagosome	Gene_function	GO_0005776
+19	172	185 autophagosome	Gene_function	GO_0005776
+19	243	252 autophagy	Gene_function	GO_0006914
+19	389	398 autophagy	Gene_function	GO_0006914
+19	499	508 autophagy	Gene_function	GO_0006914
+19	782	791 autophagy	Gene_function	GO_0006914
+19	863	872 autophagy	Gene_function	GO_0006914
+19	910	923 breast cancer	Phenotype	HP_0003002
+19	917	923 cancer	Phenotype	HP_0002664
+19	1000	1013 breast cancer	Phenotype	HP_0003002
+19	1007	1013 cancer	Phenotype	HP_0002664
+19	1104	1113 autophagy	Gene_function	GO_0006914
+19	1305	1314 autophagy	Gene_function	GO_0006914
+19	1332	1341 Autophagy	Gene_function	GO_0006914
+19	1434	1447 intracellular	Gene_function	GO_0005622
+19	1481	1489 lysosome	Gene_function	GO_0005764
+19	1494	1505 degradation	Gene_function	GO_0009056
+19	1672	1683 degradation	Gene_function	GO_0009056
+19	1692	1700 lysosome	Gene_function	GO_0005764
+19	1727	1746 selective autophagy	Gene_function	GO_0061912
+19	1737	1746 autophagy	Gene_function	GO_0006914
+19	1759	1770 degradation	Gene_function	GO_0009056
+19	1805	1814 mitophagy	Gene_function	GO_0000422
+19	1831	1840 pexophagy	Gene_function	GO_0000425
+19	1856	1866 aggrephagy	Gene_function	GO_0035973
+19	1889	1899 glycophagy	Gene_function	GO_0061723
+19	1913	1922 lipophagy	Gene_function	GO_0061724
+19	1933	1942 ribophagy	Gene_function	GO_0034517
+19	1955	1964 xenophagy	Gene_function	GO_0098792
+19	1982	1990 ER-phagy	Gene_function	GO_0061709
+19	2003	2012 Autophagy	Gene_function	GO_0006914
+19	GO-HP	GO_0005776	HP_0003002
+19	GO-HP	GO_0005776	HP_0002664
+19	GO-HP	GO_0006914	HP_0003002
+19	GO-HP	GO_0006914	HP_0002664
+19	HP-GO	HP_0003002	GO_0005622
+19	HP-GO	HP_0003002	GO_0005764
+19	HP-GO	HP_0003002	GO_0009056
+19	HP-GO	HP_0003002	GO_0061912
+19	HP-GO	HP_0003002	GO_0000422
+19	HP-GO	HP_0003002	GO_0000425
+19	HP-GO	HP_0003002	GO_0035973
+19	HP-GO	HP_0003002	GO_0061723
+19	HP-GO	HP_0003002	GO_0061724
+19	HP-GO	HP_0003002	GO_0034517
+19	HP-GO	HP_0003002	GO_0098792
+19	HP-GO	HP_0003002	GO_0061709
+19	HP-GO	HP_0002664	GO_0005622
+19	HP-GO	HP_0002664	GO_0005764
+19	HP-GO	HP_0002664	GO_0009056
+19	HP-GO	HP_0002664	GO_0061912
+19	HP-GO	HP_0002664	GO_0000422
+19	HP-GO	HP_0002664	GO_0000425
+19	HP-GO	HP_0002664	GO_0035973
+19	HP-GO	HP_0002664	GO_0061723
+19	HP-GO	HP_0002664	GO_0061724
+19	HP-GO	HP_0002664	GO_0034517
+19	HP-GO	HP_0002664	GO_0098792
+19	HP-GO	HP_0002664	GO_0061709
+

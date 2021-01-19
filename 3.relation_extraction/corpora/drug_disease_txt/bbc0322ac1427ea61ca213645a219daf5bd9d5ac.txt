@@ -1,0 +1,31 @@
+0|chunk|Spatial pattern of severe acute respiratory syndrome in-out flow in 2003 in Mainland China
+0	19	52 severe acute respiratory syndrome	Disease	DOID_2945
+0	44	52 syndrome	Disease	DOID_225
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS) spread to 32 countries and regions within a few months in 2003. There were 5327 SARS cases from November 2002 to May 2003 in Mainland China, which involved 29 provinces, resulted in 349 deaths, and directly caused economic losses of $18.3 billion.
+1	12	45 Severe acute respiratory syndrome	Disease	DOID_2945
+1	37	45 syndrome	Disease	DOID_225
+1	47	51 SARS	Disease	DOID_2945
+1	133	137 SARS	Disease	DOID_2945
+
+2|chunk|Methods: This study used an in-out flow model and flow mapping to visualize and explore the spatial pattern of SARS transmission in different regions. In-out flow is measured by the in-out degree and clustering coefficient of SARS. Flow mapping is an exploratory method of spatial visualization for interaction data.
+2	111	115 SARS	Disease	DOID_2945
+2	226	230 SARS	Disease	DOID_2945
+
+3|chunk|Results: The findings were as follows.
+
+4|chunk|(1) SARS in-out flow had a clear hierarchy. It formed two main centers, Guangdong in South China and Beijing in North China, and two secondary centers, Shanxi and Inner Mongolia, both connected to Beijing. (2) "Spring Festival travel" strengthened external flow, but "SARS panic effect" played a more significant role and pushed the external flow to the peak. (3) External flow and its three typical kinds showed obvious spatial heterogeneity, such as self-spreading flow (spatial displacement of SARS cases only within the province or municipality of onset and medical locations); hospitalized flow (spatial displacement of SARS cases that had been seen by a hospital doctor); and migrant flow (spatial displacement of SARS cases among migrant workers). (4) Internal and external flow tended to occur in younger groups, and occupational differentiation was particularly evident. Low-income groups of male migrants aged 19-35 years were the main routes of external flow. Conclusions: During 2002, SARS in-out flow played an important role in countrywide transmission of the disease in Mainland China. The flow had obvious spatial heterogeneity, which was influenced by migrants' behavior characteristics. In addition, the Chinese holiday effect led to irregular spread of SARS, but the panic effect was more apparent in the middle and late stages of the epidemic. These findings constitute valuable input to prevent and control future serious infectious diseases like SARS.
+4	4	8 SARS	Disease	DOID_2945
+4	268	272 SARS	Disease	DOID_2945
+4	313	317 role	Chemical	CHEBI_50906
+4	497	501 SARS	Disease	DOID_2945
+4	625	629 SARS	Disease	DOID_2945
+4	720	724 SARS	Disease	DOID_2945
+4	997	1001 SARS	Disease	DOID_2945
+4	1034	1038 role	Chemical	CHEBI_50906
+4	1074	1081 disease	Disease	DOID_4
+4	1272	1276 SARS	Disease	DOID_2945
+4	1468	1472 SARS	Disease	DOID_2945
+4	DOID-CHEBI	DOID_2945	CHEBI_50906
+4	CHEBI-DOID	CHEBI_50906	DOID_4
+

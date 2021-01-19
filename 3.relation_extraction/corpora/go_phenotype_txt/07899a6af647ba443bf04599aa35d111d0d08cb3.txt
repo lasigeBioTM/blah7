@@ -1,0 +1,82 @@
+0|chunk|brain sciences Review Multiple Sclerosis: Immunopathology and Treatment Update
+
+1|chunk|The treatment of multiple sclerosis (MS) has changed over the last 20 years. All immunotherapeutic drugs target relapsing remitting MS (RRMS) and it still remains a medical challenge in MS to develop a treatment for progressive forms. The most common injectable disease-modifying therapies in RRMS include -interferons 1a or 1b and glatiramer acetate. However, one of the major challenges of injectable disease-modifying therapies has been poor treatment adherence with approximately 50% of patients discontinuing the therapy within the first year. Herein, we go back to the basics to understand the immunopathophysiology of MS to gain insights in the development of new improved drug treatments. We present current disease-modifying therapies (interferons, glatiramer acetate, dimethyl fumarate, teriflunomide, fingolimod, mitoxantrone), humanized monoclonal antibodies (natalizumab, ofatumumab, ocrelizumab, alemtuzumab, daclizumab) and emerging immune modulating approaches (stem cells, DNA vaccines, nanoparticles, altered peptide ligands) for the treatment of MS.
+1	216	227 progressive	Phenotype	HP_0003676
+
+2|chunk|twins as compared to siblings of patients with MS [4] [5] [6] . In addition, viral infections can trigger disease where parts of the virus mimics that of the myelin sheath [7] . Although usually not life-shortening, MS is a chronic neurological disease often interfering with life and career plans of an individual [8] .
+2	158	171 myelin sheath	Gene_function	GO_0043209
+2	224	231 chronic	Phenotype	HP_0011010
+2	GO-HP	GO_0043209	HP_0011010
+
+3|chunk|MS is categorized into 4 distinct types, primarily based on its clinical course, which are characterized by increasing severity: (a) Relapsing/remitting MS (RRMS), the most common form, affecting 85% of all MS patients which involves relapses followed by remission; (b) secondary progressive MS (SPMS), which develops over time following diagnosis of RRMS; (c) primary progressive MS (PPMS) affecting 8-10% of patients, noted as gradual continuous neurologic deterioration; and (d) progressive relapsing MS (PRMS) the least common form (<5%), which is similar to PPMS but with overlapping relapses [9] [10] [11] . MS leads to a wide range of symptoms with various severity involving different parts of the body. MS diagnosis is mainly clinically based however, magnetic resonance imaging (MRI) assists in diagnosis [12] . As such, examination of the cerebrospinal fluid (CSF) and visual induced potentials with MRI can assist in confirming the clinical suspicion of MS [12, 13] . MS symptoms and disease progression are varied, with some individuals experiencing little disability while most (up to 60%) require a wheelchair 20 years from diagnosis [9] .
+3	119	127 severity	Phenotype	HP_0012824
+3	280	291 progressive	Phenotype	HP_0003676
+3	369	380 progressive	Phenotype	HP_0003676
+3	482	493 progressive	Phenotype	HP_0003676
+3	664	672 severity	Phenotype	HP_0012824
+
+4|chunk|Although treatments against MS are able to decrease the relapse rate in RRMS, the prevention of long-term effects remains a problem; medications for progressive forms of MS are also limited in their efficacy. Hence, new improved drugs are required to effectively treat MS. One of the major pathophysiological mechanisms of MS involves autoreactive T cells, primarily T helper (Th)-1 CD4 + T cells and Th17 cells leading to cytokine secretion and activation of an inflammatory cascade resulting in demyelination within the brain and spinal cord and axonal damage; autoreactive antibodies cannot be discounted. Indeed, MS is generally known as a chronic autoimmune disorder of the central nervous system (CNS) [14, 15] . MS causes breakdown of the blood brain barrier (BBB) leading to migration of immune cells (macrophages, T cells, B cells) and secretion of pro-inflammatory cytokines and chemokines [16] which induces inflammation, formation of sclerotic plaques (lesions), demyelination and neurodegeneration [17] . MS lesions may form in any location of the CNS white matter or in grey matter, often leading to physical disability and sometimes, decline in cognitive ability [16, 18] . It is therefore, conceivable to target immune cells and their products in order to prevent tissue damage by modulating inflammation [9,19] while reducing potential side effects such as global immunosuppression [6, 19, 20] . The major constituents of the myelin sheath in which autoreactive T cells and antibodies recognize, include, myelin basic protein (MBP), myelin oligodendrocyte glycoprotein (MOG) and proteolipid protein (PLP).
+4	149	160 progressive	Phenotype	HP_0003676
+4	423	441 cytokine secretion	Gene_function	GO_0050663
+4	432	441 secretion	Gene_function	GO_0046903
+4	497	510 demyelination	Phenotype	HP_0011096
+4	644	651 chronic	Phenotype	HP_0011010
+4	652	671 autoimmune disorder	Phenotype	HP_0002960
+4	679	686 central	Phenotype	HP_0030645
+4	729	738 breakdown	Gene_function	GO_0009056
+4	845	854 secretion	Gene_function	GO_0046903
+4	975	988 demyelination	Phenotype	HP_0011096
+4	993	1010 neurodegeneration	Phenotype	HP_0002180
+4	1443	1456 myelin sheath	Gene_function	GO_0043209
+4	HP-GO	HP_0003676	GO_0050663
+4	HP-GO	HP_0003676	GO_0046903
+4	HP-GO	HP_0003676	GO_0009056
+4	HP-GO	HP_0003676	GO_0043209
+4	GO-HP	GO_0050663	HP_0011096
+4	GO-HP	GO_0050663	HP_0011010
+4	GO-HP	GO_0050663	HP_0002960
+4	GO-HP	GO_0050663	HP_0030645
+4	GO-HP	GO_0050663	HP_0002180
+4	GO-HP	GO_0046903	HP_0011096
+4	GO-HP	GO_0046903	HP_0011010
+4	GO-HP	GO_0046903	HP_0002960
+4	GO-HP	GO_0046903	HP_0030645
+4	GO-HP	GO_0046903	HP_0002180
+4	HP-GO	HP_0011096	GO_0009056
+4	HP-GO	HP_0011096	GO_0043209
+4	HP-GO	HP_0011010	GO_0009056
+4	HP-GO	HP_0011010	GO_0043209
+4	HP-GO	HP_0002960	GO_0009056
+4	HP-GO	HP_0002960	GO_0043209
+4	HP-GO	HP_0030645	GO_0009056
+4	HP-GO	HP_0030645	GO_0043209
+4	GO-HP	GO_0009056	HP_0002180
+4	HP-GO	HP_0002180	GO_0043209
+
+5|chunk|The brain has primarily been considered to be an organ which is highly immune-advantaged, although a number of studies have challenged this [6] . In the last 10 years an important shift has surfaced in MS research, suggesting that MS is not just a disease of the immune system, but equally involves factors contributed by the CNS [21, 22] . Immune cells residing in the CNS get activated following damage to CNS tissue; notably microglial cells whereby they upregulate MHC class I and II molecules and cell surface co-stimulatory molecules and secrete cytokines and chemokines, paving entry for T (CD4 and CD8) cells, B cells, monocytes, macrophages and dendritic (DC)-like cells into CNS lesions [6] . Infiltrating immune cells secrete pro-inflammatory cytokines, nitric oxide, and matrix metalloproteinases [23, 24] , leading to destruction of the myelin sheath.
+5	502	514 cell surface	Gene_function	GO_0009986
+
+6|chunk|It has been generally accepted that chronic inflammation is the hallmark of neurodegenerative diseases, such as MS, Alzheimer's disease and Parkinson's disease [6, 7] . Myelin-reactive auto-T cells cross the BBB [19] and their migration into the CNS consequently initiates an inflammatory cascade followed by demyelination of the CNS and axonal damage. These cells reside in the perivenous demyelinating lesions which generate distinct inflammatory demyelinated plaques situated within the white matter [25] . MS lesions appear in the white matter inside the visual neuron, basal ganglia, brain stem and spinal cord [26] . White matter cells transmit neural signals from grey matter, where Brain Sci. 2017, 7, 78 3 of 27 information is gathered, and transferred to the rest of the body [25, 27] . MS involves 2 main steps, (i) myelin sheath damage resulting in formation of lesions in the CNS and (ii) inflammation, which together destroy the neuron tissue [25, 28] . In MS, damage of oligodendrocytes and destruction of myelin sheath leads to breakdown of the nerve axon and loss of neuronal function [28] . Demyelination increases the inflammatory activation processes leading to damage of BBB and stimulation of macrophage activation and oxidative stress pathways [29] . The white matter lesions include myelin breakdown together with infiltration of monocytes, B cells, T cells and DC [30] . Microglia and macrophages are the main innate immune cells present in MS lesions where they either act together with T and B cells, or directly cause neuroinflammatory tissue damage [31] . Cells involved in the inflammatory process include those that are both in the innate and adaptive immune systems and are described below (Figure 1 ).
+6	36	43 chronic	Phenotype	HP_0011010
+6	309	322 demyelination	Phenotype	HP_0011096
+6	827	840 myelin sheath	Gene_function	GO_0043209
+6	1021	1034 myelin sheath	Gene_function	GO_0043209
+6	1044	1053 breakdown	Gene_function	GO_0009056
+6	1067	1071 axon	Gene_function	GO_0030424
+6	1109	1122 Demyelination	Phenotype	HP_0011096
+6	1215	1236 macrophage activation	Gene_function	GO_0042116
+6	1241	1257 oxidative stress	Phenotype	HP_0025464
+6	1314	1323 breakdown	Gene_function	GO_0009056
+6	HP-GO	HP_0011010	GO_0043209
+6	HP-GO	HP_0011010	GO_0009056
+6	HP-GO	HP_0011010	GO_0030424
+6	HP-GO	HP_0011010	GO_0042116
+6	HP-GO	HP_0011096	GO_0043209
+6	HP-GO	HP_0011096	GO_0009056
+6	HP-GO	HP_0011096	GO_0030424
+6	HP-GO	HP_0011096	GO_0042116
+6	GO-HP	GO_0043209	HP_0025464
+6	GO-HP	GO_0009056	HP_0025464
+6	GO-HP	GO_0030424	HP_0025464
+6	GO-HP	GO_0042116	HP_0025464
+

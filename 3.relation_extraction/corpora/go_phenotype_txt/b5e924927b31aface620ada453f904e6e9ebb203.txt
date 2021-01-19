@@ -1,0 +1,33 @@
+0|chunk|Bid Regulates the Pathogenesis of Neurotropic Reovirus
+0	18	30 Pathogenesis	Gene_function	GO_0009405
+
+1|chunk|Reovirus infection leads to apoptosis in both cultured cells and the murine central nervous system (CNS). NF-kB-driven transcription of proapoptotic cellular genes is required for the effector phase of the apoptotic response. Although both extrinsic death-receptor signaling pathways and intrinsic pathways involving mitochondrial injury are implicated in reovirusinduced apoptosis, mechanisms by which either of these pathways are activated and their relationship to NF-kB signaling following reovirus infection are unknown. The proapoptotic Bcl-2 family member, Bid, is activated by proteolytic cleavage following reovirus infection. To understand how reovirus integrates host signaling circuits to induce apoptosis, we examined proapoptotic signaling following infection of Bid-deficient cells. Although reovirus growth was not affected by the absence of Bid, cells lacking Bid failed to undergo apoptosis. Furthermore, we found that NF-kB activation is required for Bid cleavage and subsequent proapoptotic signaling. To examine the functional significance of Bid-dependent apoptosis in reovirus disease, we monitored fatal encephalitis caused by reovirus in the presence and absence of Bid. Survival of Biddeficient mice was significantly enhanced in comparison to wild-type mice following either peroral or intracranial inoculation of reovirus. Decreased reovirus virulence in Bid-null mice was accompanied by a reduction in viral yield. These findings define a role for NF-kB-dependent cleavage of Bid in the cell death program initiated by viral infection and link Bid to viral virulence.
+1	76	83 central	Phenotype	HP_0030645
+1	265	274 signaling	Gene_function	GO_0023052
+1	317	330 mitochondrial	Phenotype	HP_0001427
+1	474	483 signaling	Gene_function	GO_0023052
+1	679	688 signaling	Gene_function	GO_0023052
+1	744	753 signaling	Gene_function	GO_0023052
+1	816	822 growth	Gene_function	GO_0040007
+1	831	839 affected	Phenotype	HP_0032320
+1	1011	1020 signaling	Gene_function	GO_0023052
+1	1128	1140 encephalitis	Phenotype	HP_0002383
+1	1516	1526 cell death	Gene_function	GO_0008219
+1	1548	1563 viral infection	Gene_function	GO_0016032
+1	HP-GO	HP_0030645	GO_0023052
+1	HP-GO	HP_0030645	GO_0040007
+1	HP-GO	HP_0030645	GO_0008219
+1	HP-GO	HP_0030645	GO_0016032
+1	GO-HP	GO_0023052	HP_0001427
+1	GO-HP	GO_0023052	HP_0032320
+1	GO-HP	GO_0023052	HP_0002383
+1	HP-GO	HP_0001427	GO_0040007
+1	HP-GO	HP_0001427	GO_0008219
+1	HP-GO	HP_0001427	GO_0016032
+1	GO-HP	GO_0040007	HP_0032320
+1	GO-HP	GO_0040007	HP_0002383
+1	HP-GO	HP_0032320	GO_0008219
+1	HP-GO	HP_0032320	GO_0016032
+1	HP-GO	HP_0002383	GO_0008219
+1	HP-GO	HP_0002383	GO_0016032
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<document id="740523d9e53ac786c0a45c790320c219cd0031a4">
+  <chunk id="740523d9e53ac786c0a45c790320c219cd0031a4.c0" text="MAVS-MKK7-JNK2 Defines a Novel Apoptotic Signaling Pathway during Viral Infection">
+    <entity charOffset="31-58" id="740523d9e53ac786c0a45c790320c219cd0031a4.c0.e0" ontology_id="GO_0097190" text="Apoptotic Signaling Pathway" type="gene_function"/>
+    <entity charOffset="41-50" id="740523d9e53ac786c0a45c790320c219cd0031a4.c0.e1" ontology_id="GO_0023052" text="Signaling" type="gene_function"/>
+    <entity charOffset="41-58" id="740523d9e53ac786c0a45c790320c219cd0031a4.c0.e2" ontology_id="GO_0007165" text="Signaling Pathway" type="gene_function"/>
+    <entity charOffset="66-81" id="740523d9e53ac786c0a45c790320c219cd0031a4.c0.e3" ontology_id="GO_0016032" text="Viral Infection" type="gene_function"/>
+  </chunk>
+  <chunk id="740523d9e53ac786c0a45c790320c219cd0031a4.c1" text="Viral infection induces innate immunity and apoptosis. Apoptosis is an effective means to sacrifice virus-infected host cells and therefore restrict the spread of pathogens. However, the underlying mechanisms of this process are still poorly understood. Here, we show that the mitochondrial antiviral signaling protein (MAVS/VISA/Cardif/IPS-1) is critical for SeV (Sendai virus)-induced apoptosis. MAVS specifically activates c-Jun N-terminal kinase 2 (JNK2) but not other MAP kinases. Jnk22/2 cells, but not Jnk12/2 cells, are unable to initiate virus-induced apoptosis and SeV further fails to trigger apoptosis in MAPK kinase 7 (MKK7) knockout (Mkk72/2) cells. Mechanistically, MAVS recruits MKK7 onto mitochondria via its 3D domain, which subsequently phosphorylates JNK2 and thus activates the apoptosis pathway. Consistently, Jnk22/2 mice, but not Jnk12/2 mice, display marked inflammatory injury in lung and liver after viral challenge. Collectively, we have identified a novel signaling pathway, involving MAVS-MKK7-JNK2, which mediates virus-induced apoptosis and highlights the indispensable role of mitochondrial outer membrane in host defenses.">
+    <entity charOffset="0-15" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e0" ontology_id="GO_0016032" text="Viral infection" type="gene_function"/>
+    <entity charOffset="24-39" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e1" ontology_id="GO_0045087" text="innate immunity" type="gene_function"/>
+    <entity charOffset="277-290" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="301-310" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e3" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="617-621" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e4" ontology_id="GO_0004707" text="MAPK" type="gene_function"/>
+    <entity charOffset="632-636" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e5" ontology_id="GO_0004708" text="MKK7" type="gene_function"/>
+    <entity charOffset="695-699" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e6" ontology_id="GO_0004708" text="MKK7" type="gene_function"/>
+    <entity charOffset="705-717" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e7" ontology_id="GO_0005739" text="mitochondria" type="gene_function"/>
+    <entity charOffset="985-994" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e8" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="1110-1123" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="1110-1138" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e10" ontology_id="GO_0005741" text="mitochondrial outer membrane" type="gene_function"/>
+    <entity charOffset="1124-1138" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e11" ontology_id="GO_0019867" text="outer membrane" type="gene_function"/>
+    <entity charOffset="1130-1138" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e12" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e0" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p0" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e0" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p1" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e1" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p2" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e1" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p3" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e3" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p4" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e4" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p5" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e5" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p6" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e6" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p7" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e7" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p8" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e8" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p9" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e10" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p10" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e11" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p11" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e2" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e12" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p12" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e3" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p13" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e4" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p14" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e5" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p15" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e6" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p16" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e7" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p17" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e8" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p18" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e10" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p19" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e11" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p20" relation="true"/>
+    <pair e1="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e9" e2="740523d9e53ac786c0a45c790320c219cd0031a4.c1.e12" id="740523d9e53ac786c0a45c790320c219cd0031a4.c1.p21" relation="true"/>
+  </chunk>
+</document>

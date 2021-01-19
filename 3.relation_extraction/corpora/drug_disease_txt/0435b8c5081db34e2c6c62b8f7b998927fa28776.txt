@@ -1,0 +1,205 @@
+0|chunk|cells The Redox Role of G6PD in Cell Growth, Cell Death, and Cancer
+0	16	20 Role	Chemical	CHEBI_50906
+0	61	67 Cancer	Disease	DOID_162
+0	CHEBI-DOID	CHEBI_50906	DOID_162
+
+1|chunk|The generation of reducing equivalent NADPH via glucose-6-phosphate dehydrogenase (G6PD) is critical for the maintenance of redox homeostasis and reductive biosynthesis in cells. NADPH also plays key roles in cellular processes mediated by redox signaling. Insufficient G6PD activity predisposes cells to growth retardation and demise. Severely lacking G6PD impairs embryonic development and delays organismal growth. Altered G6PD activity is associated with pathophysiology, such as autophagy, insulin resistance, infection, inflammation, as well as diabetes and hypertension. Aberrant activation of G6PD leads to enhanced cell proliferation and adaptation in many types of cancers. The present review aims to update the existing knowledge concerning G6PD and emphasizes how G6PD modulates redox signaling and affects cell survival and demise, particularly in diseases such as cancer. Exploiting G6PD as a potential drug target against cancer is also discussed.
+1	38	43 NADPH	Chemical	CHEBI_16474
+1	179	184 NADPH	Chemical	CHEBI_16474
+1	495	502 insulin	Chemical	CHEBI_145810
+1	878	884 cancer	Disease	DOID_162
+1	917	921 drug	Chemical	CHEBI_23888
+1	937	943 cancer	Disease	DOID_162
+1	CHEBI-DOID	CHEBI_16474	DOID_162
+1	CHEBI-DOID	CHEBI_145810	DOID_162
+1	DOID-CHEBI	DOID_162	CHEBI_23888
+
+2|chunk|Human G6PD-deficient granulocytes exhibit impairment of hydrogen peroxide and superoxide production [72] . Similar to the finding in cells, lower superoxide release, and reduced atherosclerotic lesions have been observed in G6PD-deficient mice crossbred with ApoE null hemizygous mice [73] . G6PD-derived NADPH is responsible for superoxide production as found in a pacing-induced heart failure canine model [74] . The ventricular tissue homogenates show an increase in NADPH, superoxide, and G6PD activity. Treatment with a NOX inhibitor gp91(ds-tat) or a G6PD inhibitor, 6-aminonicotinamide (6-AN), significantly reduces superoxide generation in the failing heart homogenates. The upregulation of myocardial G6PD provides sufficient NADPH and fuels the superoxide-producing enzymes, suggesting a redox role for G6PD in the pathogenesis of heart disease [74] . G6PD regulates nuclear superoxide production by cooperating with NOX4 in the hepatocytes, where G6PD and NOX4 are co-localized in the nucleus [75] . The close relationship between G6PD and NOX4 maintains ROS homeostasis and promotes downstream redox signaling, including STAT3, c-SRC and SHP2, in melanoma cells [16] . Overexpression of G6PD in bovine aortic endothelial cells (BAECs) diminishes ROS accumulation following exposure to hydrogen peroxide, TNF- or xanthine oxidase. Upregulation of G6PD in BAECs maintains the reduced form of glutathione [76] .
+2	56	64 hydrogen	Chemical	CHEBI_18276
+2	56	64 hydrogen	Chemical	CHEBI_49637
+2	56	73 hydrogen peroxide	Chemical	CHEBI_16240
+2	65	73 peroxide	Chemical	CHEBI_44785
+2	78	88 superoxide	Chemical	CHEBI_18421
+2	146	156 superoxide	Chemical	CHEBI_18421
+2	305	310 NADPH	Chemical	CHEBI_16474
+2	330	340 superoxide	Chemical	CHEBI_18421
+2	470	475 NADPH	Chemical	CHEBI_16474
+2	477	487 superoxide	Chemical	CHEBI_18421
+2	525	528 NOX	Chemical	CHEBI_142659
+2	529	538 inhibitor	Chemical	CHEBI_35222
+2	562	571 inhibitor	Chemical	CHEBI_35222
+2	573	592 6-aminonicotinamide	Chemical	CHEBI_74514
+2	623	633 superoxide	Chemical	CHEBI_18421
+2	735	740 NADPH	Chemical	CHEBI_16474
+2	804	808 role	Chemical	CHEBI_50906
+2	841	854 heart disease	Disease	DOID_114
+2	847	854 disease	Disease	DOID_4
+2	885	895 superoxide	Chemical	CHEBI_18421
+2	996	1003 nucleus	Chemical	CHEBI_33252
+2	1066	1069 ROS	Chemical	CHEBI_26523
+2	1159	1167 melanoma	Disease	DOID_1909
+2	1258	1261 ROS	Chemical	CHEBI_26523
+2	1297	1305 hydrogen	Chemical	CHEBI_18276
+2	1297	1305 hydrogen	Chemical	CHEBI_49637
+2	1297	1314 hydrogen peroxide	Chemical	CHEBI_16240
+2	1306	1314 peroxide	Chemical	CHEBI_44785
+2	1325	1333 xanthine	Chemical	CHEBI_15318
+2	1403	1414 glutathione	Chemical	CHEBI_16856
+2	CHEBI-DOID	CHEBI_18276	DOID_114
+2	CHEBI-DOID	CHEBI_18276	DOID_4
+2	CHEBI-DOID	CHEBI_18276	DOID_1909
+2	CHEBI-DOID	CHEBI_49637	DOID_114
+2	CHEBI-DOID	CHEBI_49637	DOID_4
+2	CHEBI-DOID	CHEBI_49637	DOID_1909
+2	CHEBI-DOID	CHEBI_16240	DOID_114
+2	CHEBI-DOID	CHEBI_16240	DOID_4
+2	CHEBI-DOID	CHEBI_16240	DOID_1909
+2	CHEBI-DOID	CHEBI_44785	DOID_114
+2	CHEBI-DOID	CHEBI_44785	DOID_4
+2	CHEBI-DOID	CHEBI_44785	DOID_1909
+2	CHEBI-DOID	CHEBI_18421	DOID_114
+2	CHEBI-DOID	CHEBI_18421	DOID_4
+2	CHEBI-DOID	CHEBI_18421	DOID_1909
+2	CHEBI-DOID	CHEBI_16474	DOID_114
+2	CHEBI-DOID	CHEBI_16474	DOID_4
+2	CHEBI-DOID	CHEBI_16474	DOID_1909
+2	CHEBI-DOID	CHEBI_142659	DOID_114
+2	CHEBI-DOID	CHEBI_142659	DOID_4
+2	CHEBI-DOID	CHEBI_142659	DOID_1909
+2	CHEBI-DOID	CHEBI_35222	DOID_114
+2	CHEBI-DOID	CHEBI_35222	DOID_4
+2	CHEBI-DOID	CHEBI_35222	DOID_1909
+2	CHEBI-DOID	CHEBI_74514	DOID_114
+2	CHEBI-DOID	CHEBI_74514	DOID_4
+2	CHEBI-DOID	CHEBI_74514	DOID_1909
+2	CHEBI-DOID	CHEBI_50906	DOID_114
+2	CHEBI-DOID	CHEBI_50906	DOID_4
+2	CHEBI-DOID	CHEBI_50906	DOID_1909
+2	DOID-CHEBI	DOID_114	CHEBI_33252
+2	DOID-CHEBI	DOID_114	CHEBI_26523
+2	DOID-CHEBI	DOID_114	CHEBI_15318
+2	DOID-CHEBI	DOID_114	CHEBI_16856
+2	DOID-CHEBI	DOID_4	CHEBI_33252
+2	DOID-CHEBI	DOID_4	CHEBI_26523
+2	DOID-CHEBI	DOID_4	CHEBI_15318
+2	DOID-CHEBI	DOID_4	CHEBI_16856
+2	CHEBI-DOID	CHEBI_33252	DOID_1909
+2	CHEBI-DOID	CHEBI_26523	DOID_1909
+2	DOID-CHEBI	DOID_1909	CHEBI_15318
+2	DOID-CHEBI	DOID_1909	CHEBI_16856
+
+3|chunk|NO generation can be stimulated by cytokines and NO donors [77, 78] . NO affects cell survival, the immune response, insulin signaling, and stress disorders and provides vascular and neural protection [72, 76, [79] [80] [81] [82] [83] [84] . NO production is dependent on G6PD status [10] . Increased levels of NO and G6PD have been found in the saliva of refugees suffering from stress and anxiety [80] . Upon lipopolysaccharide (LPS) or 12-myristate 13-acetate (PMA) stimulation, human granulocytes produce nitrite (derived from NO). Human granulocytes lacking G6PD fail to generate NO in the presence of LPS or PMA [72] . The cytokine IL-1 enhances inducible nitric oxide synthase (iNOS) expression and NO production in pancreatic islet cells causing cell death and disruption of insulin secretion. IL-1 upregulates G6PD activity and reduces cyclic adenosine monophosphate (cAMP) levels. 8-bromo-cAMP, an activator of cAMP-dependent protein kinase, increases G6PD activity, while a protein kinase A (PKA) inhibitor decreases G6PD activity [79] .
+3	117	124 insulin	Chemical	CHEBI_145810
+3	391	398 anxiety	Disease	DOID_2030
+3	411	429 lipopolysaccharide	Chemical	CHEBI_16412
+3	431	434 LPS	Chemical	CHEBI_16412
+3	464	467 PMA	Chemical	CHEBI_37537
+3	509	516 nitrite	Chemical	CHEBI_16301
+3	607	610 LPS	Chemical	CHEBI_16412
+3	614	617 PMA	Chemical	CHEBI_37537
+3	663	675 nitric oxide	Chemical	CHEBI_16480
+3	670	675 oxide	Chemical	CHEBI_25741
+3	784	791 insulin	Chemical	CHEBI_145810
+3	854	863 adenosine	Chemical	CHEBI_16335
+3	854	877 adenosine monophosphate	Chemical	CHEBI_16027
+3	879	883 cAMP	Chemical	CHEBI_17489
+3	938	945 protein	Chemical	CHEBI_16541
+3	987	994 protein	Chemical	CHEBI_16541
+3	1010	1019 inhibitor	Chemical	CHEBI_35222
+3	CHEBI-DOID	CHEBI_145810	DOID_2030
+3	DOID-CHEBI	DOID_2030	CHEBI_16412
+3	DOID-CHEBI	DOID_2030	CHEBI_37537
+3	DOID-CHEBI	DOID_2030	CHEBI_16301
+3	DOID-CHEBI	DOID_2030	CHEBI_16480
+3	DOID-CHEBI	DOID_2030	CHEBI_25741
+3	DOID-CHEBI	DOID_2030	CHEBI_16335
+3	DOID-CHEBI	DOID_2030	CHEBI_16027
+3	DOID-CHEBI	DOID_2030	CHEBI_17489
+3	DOID-CHEBI	DOID_2030	CHEBI_16541
+3	DOID-CHEBI	DOID_2030	CHEBI_35222
+
+4|chunk|G6PD status is positively correlated with NO production. Suppression of G6PD by the biochemical inhibitor dehydroepiandrosterone (DHEA) or an antisense oligonucleotide reduces the IL-1-induced NO level, indicating that cAMP-dependent PKA enhances G6PD status stimulated by IL-1-derived NO. Sodium nitroprusside, an NO donor, stimulates cell growth in G6PD-normal fibroblasts but induces apoptosis in G6PD-deficient fibroblasts [81] . Treatment with Trolox, an antioxidant, or ectopic expression of G6PD reverses NO-induced apoptosis in G6PD-deficient fibroblasts, suggesting a pro-survival role for G6PD. Reduced G6PD activity in endothelial cells is associated with elevated ROS and decreased NO bioavailability [82] . Overexpression of G6PD in BAECs treated with bradykinin also enhances cGMP and NOS activity. This results in an increase in bioavailable NO [76] .
+4	96	105 inhibitor	Chemical	CHEBI_35222
+4	106	128 dehydroepiandrosterone	Chemical	CHEBI_28689
+4	130	134 DHEA	Chemical	CHEBI_28689
+4	142	167 antisense oligonucleotide	Chemical	CHEBI_76720
+4	152	167 oligonucleotide	Chemical	CHEBI_7754
+4	292	298 Sodium	Chemical	CHEBI_26708
+4	592	596 role	Chemical	CHEBI_50906
+4	678	681 ROS	Chemical	CHEBI_26523
+4	767	777 bradykinin	Chemical	CHEBI_3165
+4	792	796 cGMP	Chemical	CHEBI_16356
+
+5|chunk|NO availability is essential for the regulation of leukocyte adhesion in the endothelium [85]. G6PD-deficient endothelial cells display lower level of endothelial nitric oxide synthase (eNOS), NO, and glutathione (GSH). Treatment of G6PD-deficient endothelial cells with high concentrations of glucose as a pro-atherosclerotic stimulus upregulates ICAM-1 and VCAM-1, as well as the oxidant markers, ROS, NOX4, and iNOS. By contrast, l-cysteine (a GSH precursor) attenuates these oxidative markers, suggesting that G6PD and GSH play a role in endothelial cell protection associated with NO availability [85] . LPS increases the mRNA expression of G6PD and glucose utilization of the PPP independent of iNOS in cultured rat astrocytes, while inhibition of NF-B blocks the expression of G6PD and iNOS [83] . Inhibition of G6PD in rat astrocytes by DHEA prevents PPP activity and lowers Cells 2019, 8, 1055 4 of 29
+5	163	175 nitric oxide	Chemical	CHEBI_16480
+5	170	175 oxide	Chemical	CHEBI_25741
+5	201	212 glutathione	Chemical	CHEBI_16856
+5	294	301 glucose	Chemical	CHEBI_17234
+5	382	389 oxidant	Chemical	CHEBI_63248
+5	433	443 l-cysteine	Chemical	CHEBI_17561
+5	447	450 GSH	Chemical	CHEBI_16856
+5	523	526 GSH	Chemical	CHEBI_16856
+5	534	538 role	Chemical	CHEBI_50906
+5	609	612 LPS	Chemical	CHEBI_16412
+5	627	631 mRNA	Chemical	CHEBI_33699
+5	655	662 glucose	Chemical	CHEBI_17234
+5	682	685 PPP	Chemical	CHEBI_73647
+5	846	850 DHEA	Chemical	CHEBI_28689
+5	860	863 PPP	Chemical	CHEBI_73647
+
+6|chunk|NADPH and the GSH/ glutathione disulfide (GSSG) ratio. The alteration of the GSH/GSSG ratio due to DHEA can be reversed by an iNOS inhibitor (AMT). These observations indicate that G6PD protects astrocytes from NO-mediated cell damage.
+6	0	5 NADPH	Chemical	CHEBI_16474
+6	19	30 glutathione	Chemical	CHEBI_16856
+6	19	40 glutathione disulfide	Chemical	CHEBI_17858
+6	31	40 disulfide	Chemical	CHEBI_48343
+6	42	46 GSSG	Chemical	CHEBI_17858
+6	81	85 GSSG	Chemical	CHEBI_17858
+6	99	103 DHEA	Chemical	CHEBI_28689
+6	131	140 inhibitor	Chemical	CHEBI_35222
+
+7|chunk|Peroxynitrite is an NO-derived neurotoxin [86, 87] . It rapidly increases the activity of the PPP in neurons and astrocytes in primary culture, which leads to an increase in NADPH [84] . NO causes glutathione oxidation, NADPH consumption, and apoptosis in neurons but not astrocytes. Peroxynitrite treatment can counteract the effect caused by NO in neurons. Both endogenous and exogenous peroxynitrite induces G6PD activity in PC12 cells. Overexpression of G6PD confers resistance to NO-mediated apoptosis, while G6PD knockdown exacerbates cellular injury. Taken together, the cross-talk between G6PD and NO is crucial for cell protection.
+7	0	13 Peroxynitrite	Chemical	CHEBI_25941
+7	31	41 neurotoxin	Chemical	CHEBI_50910
+7	94	97 PPP	Chemical	CHEBI_73647
+7	174	179 NADPH	Chemical	CHEBI_16474
+7	197	208 glutathione	Chemical	CHEBI_16856
+7	220	225 NADPH	Chemical	CHEBI_16474
+7	284	297 Peroxynitrite	Chemical	CHEBI_25941
+7	389	402 peroxynitrite	Chemical	CHEBI_25941
+
+8|chunk|H 2 S, an endogenous gasotransmitter, is involved in many biological functions, including neuronal regulation [88] , smooth muscle relaxation [89], vascular relaxation and blood pressure regulation [90], inflammation [91, 92] , cell death signaling [93], and metabolism [71,94,95]. Overstimulation of the -adrenergic receptor (-AR) by isoproterenol in hypertrophic cardiomyocytes rapidly reduces the endogenous H 2 S level. Treatment with the H 2 S agonist (NaHS or norepinephrine) to augment H 2 S production suppresses the hypertrophy stimulated by the -AR in cardiomyocytes [96] . Rats with transverse aortic constriction have approximately half the H 2 S level compared to normal rats [96] . Treatment of NaHS enhances G6PD activity, while the G6PD inhibitor (6-AN or DHEA) decreases hypertrophic responses in cardiomyocytes. -AR upregulates G6PD expression and activity in rats [96] . -AR reduces cardiac p53, which negatively regulates G6PD by preventing G6PD dimerization [48] . G6PD inhibitors (either 6-AN or DHEA) reverse the -AR-induced effect in rats with cardiac hypertrophy. Enhancing G6PD activity directly or inhibiting G6PD activity by p53 indicates that G6PD plays a critical role in mediating cardiac function regulated by H 2 S. Global transcriptome analysis reveals that H 2 S modulates an integrated metabolic network regulating cellular redox homeostasis. Consistent with these findings, several common biological processes emerging from the transcriptome data show that G6PD is a critical node modulating the effects among metabolic processes downstream of H 2 S [96] .
+8	337	350 isoproterenol	Chemical	CHEBI_64317
+8	451	458 agonist	Chemical	CHEBI_48705
+8	468	482 norepinephrine	Chemical	CHEBI_18357
+8	468	482 norepinephrine	Chemical	CHEBI_33569
+8	756	765 inhibitor	Chemical	CHEBI_35222
+8	775	779 DHEA	Chemical	CHEBI_28689
+8	996	1006 inhibitors	Chemical	CHEBI_35222
+8	1023	1027 DHEA	Chemical	CHEBI_28689
+8	1200	1204 role	Chemical	CHEBI_50906
+
+9|chunk|Carbon monoxide (CO) is also a gaseous signaling molecule produced in humans. The major roles of CO are the modulation of the cardiovascular system, inhibition of platelet aggregation and adhesion, and neuronal development [97] . Like NO and H 2 S, CO is antiapoptotic, anti-inflammatory, and vasodilatory. It also promotes vascular growth [98] [99] [100] . The abnormal metabolism of CO has been associated with diseases, including heart failure, hypertension, inflammation, and neurodegeneration [101, 102] . Since CO is produced from hemoglobin by heme oxygenase 1 and 2, it can be used as an index of heme catabolism [103] . Endogenous CO is increased in G6PD-deficient neonates with hyperbilirubinemia. CO may have a role in promoting neuronal differentiation, as the CO-releasing molecule (CORM-A1) enhances neuronal differentiation in neuroblastomas [104] . The PPP pathway in neuroblastomas is upregulated by CO, including 6-phosphogluconate dehydrogenase (PGDH) from the oxidative branch of the PPP and transketolase (TKT) from the non-oxidative branch of the PPP. The concentration and activity of G6PD are also increased. Knockdown of G6PD reverses the effect of neuronal differentiation induced by CO [104]. This finding is indicative of a protective role of G6PD in the modulation of CO-induced neuronal development.
+9	0	6 Carbon	Chemical	CHEBI_27594
+9	0	15 Carbon monoxide	Chemical	CHEBI_17245
+9	39	57 signaling molecule	Chemical	CHEBI_62488
+9	49	57 molecule	Chemical	CHEBI_25367
+9	537	547 hemoglobin	Chemical	CHEBI_35143
+9	551	555 heme	Chemical	CHEBI_17627
+9	551	555 heme	Chemical	CHEBI_30413
+9	605	609 heme	Chemical	CHEBI_17627
+9	605	609 heme	Chemical	CHEBI_30413
+9	722	726 role	Chemical	CHEBI_50906
+9	786	794 molecule	Chemical	CHEBI_25367
+9	869	872 PPP	Chemical	CHEBI_73647
+9	873	880 pathway	Chemical	CHEBI_34922
+9	1004	1007 PPP	Chemical	CHEBI_73647
+9	1069	1072 PPP	Chemical	CHEBI_73647
+9	1263	1267 role	Chemical	CHEBI_50906
+
+10|chunk|Altered G6PD status is implicated in many cellular pathophysiological processes and diseases, including hypoxia, inflammation, microbial infection, sepsis, pulmonary vessel dilation, diabetes, hypertension, kidney disease, and brain injuries [24,30,. The PPP and glutathione-associated metabolic pathways are major antioxidant defense systems in cells. The regulation of these enzymes profoundly affects the development and clinical outcome of diseases.
+10	255	258 PPP	Chemical	CHEBI_73647
+10	315	326 antioxidant	Chemical	CHEBI_22586
+
+11|chunk|One of the pro-inflammatory conditions leading to vascular injuries is hyperglycemia. The pro-inflammatory cytokine IL-1 primes high glucose-induced vascular inflammation. In human aortic smooth muscle cells (HASMC), surplus glucose uptake can be activated by .
+11	226	233 glucose	Chemical	CHEBI_17234
+

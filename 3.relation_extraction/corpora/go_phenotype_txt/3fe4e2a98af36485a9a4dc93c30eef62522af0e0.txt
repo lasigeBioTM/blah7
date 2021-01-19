@@ -1,0 +1,28 @@
+0|chunk|Cytokine and Chemokine Levels in Patients with Severe Fever with Thrombocytopenia Syndrome Virus
+0	47	53 Severe	Phenotype	HP_0012828
+0	54	59 Fever	Phenotype	HP_0001945
+0	65	81 Thrombocytopenia	Phenotype	HP_0001873
+
+1|chunk|Background: Severe fever with thrombocytopenia syndrome virus (SFTSV), which can cause hemorrhagic fever-like illness, is a newly discovered bunyavirus in China. The pathogenesis of SFTSV infection is poorly understood. However, it has been suggested that immune mechanisms, including cytokines and chemokines, play an important role in disease pathogenesis. In the present study, we investigated host cytokine and chemokine profiles in serum samples of patients with SFTSV infection from Northeast China and explored a possible correlation between cytokine levels and disease severity.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 fever	Phenotype	HP_0001945
+1	30	46 thrombocytopenia	Phenotype	HP_0001873
+1	166	178 pathogenesis	Gene_function	GO_0009405
+1	345	357 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0001873	GO_0009405
+
+2|chunk|Methods and Principal Findings: Acute phase serum samples from 40 patients, diagnosed with SFTSV infection were included. Patients were divided into two groups -severe or non-severe -based on disease severity. Levels of tumor necrosis factor (TNF)-a, transforming growth factor (TGF)-b, interleukin-6, interferon (IFN)-c, IFN-c-induced protein (IP)-10 and RANTES were measured in the serum samples with commercial ELISAs. Statistical analysis showed that increases in TNF-a, IP-10 and IFN-c were associated with disease severity.
+2	32	37 Acute	Phenotype	HP_0011009
+2	220	225 tumor	Phenotype	HP_0002664
+2	226	234 necrosis	Gene_function	GO_0001906
+2	264	270 growth	Gene_function	GO_0040007
+2	HP-GO	HP_0011009	GO_0001906
+2	HP-GO	HP_0011009	GO_0040007
+2	HP-GO	HP_0002664	GO_0001906
+2	HP-GO	HP_0002664	GO_0040007
+
+3|chunk|We suggest that a cytokine-mediated inflammatory response, characterized by cytokine and chemokine production imbalance, might be in part responsible for the disease progression of patients with SFTSV infection.
+3	89	109 chemokine production	Gene_function	GO_0032602
+

@@ -1,0 +1,19 @@
+0|chunk|IFITM proteins are incorporated onto HIV-1 virion particles and negatively imprint their infectivity
+0	43	49 virion	Gene_function	GO_0019012
+
+1|chunk|Background: Interferon induced transmembrane proteins 1, 2 and 3 (IFITMs) belong to a family of highly related antiviral factors that have been shown to interfere with a large spectrum of viruses including Filoviruses, Coronaviruses, Influenza virus, Dengue virus and HIV-1. In all these cases, the reported mechanism of antiviral inhibition indicates that the pool of IFITM proteins present in target cells blocks incoming viral particles in endosomal vesicles where they are subsequently degraded.
+1	31	44 transmembrane	Gene_function	GO_0016021
+
+2|chunk|Results: In this study, we describe an additional mechanism through which IFITMs block HIV-1. In virus-producing cells, IFITMs coalesce with forming virions and are incorporated into viral particles. Expression of IFITMs during virion assembly leads to the production of virion particles of decreased infectivity that are mostly affected during entry in target cells. This mechanism of inhibition is exerted against different retroviruses and does not seem to be dependent on the type of Envelope present on retroviral particles.
+2	228	234 virion	Gene_function	GO_0019012
+2	228	243 virion assembly	Gene_function	GO_0019068
+2	271	277 virion	Gene_function	GO_0019012
+2	329	337 affected	Phenotype	HP_0032320
+2	488	496 Envelope	Gene_function	GO_0031975
+2	GO-HP	GO_0019012	HP_0032320
+2	GO-HP	GO_0019068	HP_0032320
+2	HP-GO	HP_0032320	GO_0031975
+
+3|chunk|The results described here identify a novel mechanism through which IFITMs affect HIV-1 infectivity during the late phases of the viral life cycle. Put in the context of data obtained by other laboratories, these results indicate that IFITMs can target HIV at two distinct moments of its life cycle, in target cells as well as in virus-producing cells. These results raise the possibility that IFITMs could similarly affect distinct steps of the life cycle of a number of other viruses.
+3	130	146 viral life cycle	Gene_function	GO_0019058
+

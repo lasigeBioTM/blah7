@@ -1,0 +1,99 @@
+0|chunk|Molecular Sciences Mitochondrial Dynamics in Basal and Stressful Conditions
+0	19	32 Mitochondrial	Phenotype	HP_0001427
+
+1|chunk|The historical role of mitochondria resides in converting the energy released during the oxidation of macromolecules (carbohydrates, lipids and proteins) into adenosine tri-phosphate, a major form of chemically stored energy which sustains cell growth and homeostasis. Beyond this role in bioenergetics regulation, mitochondria play a role in several other cellular processes including lipid metabolism, cellular calcium homeostasis, autophagy and immune responses. Furthermore, mitochondria are highly dynamic organelles: as all other cellular endomembranes, they are continuously moving along cytoskeleton, and, most importantly, they constantly interact one with each other by membrane tethering, fusion and fission. This review aims to highlight the tight correlation between the morphodynamics of mitochondria and their biological function(s), in physiological as well as stress conditions, in particular nutrient deprivation, pathogen attack and some human diseases. Finally, we emphasize some crosstalk between the fusion/fission machinery and the autophagy pathway to ending on some speculative hypothesis to inspire future research in the field. mediates the fusion of the inner mitochondrial membranes (MIM). These two phases are coordinated and occur almost simultaneously ( Figure 1 ).
+1	23	35 mitochondria	Gene_function	GO_0005739
+1	240	251 cell growth	Gene_function	GO_0016049
+1	245	251 growth	Gene_function	GO_0040007
+1	315	327 mitochondria	Gene_function	GO_0005739
+1	434	443 autophagy	Gene_function	GO_0006914
+1	479	491 mitochondria	Gene_function	GO_0005739
+1	680	688 membrane	Gene_function	GO_0016020
+1	802	814 mitochondria	Gene_function	GO_0005739
+1	1055	1064 autophagy	Gene_function	GO_0006914
+1	1188	1201 mitochondrial	Phenotype	HP_0001427
+1	GO-HP	GO_0005739	HP_0001427
+1	GO-HP	GO_0016049	HP_0001427
+1	GO-HP	GO_0040007	HP_0001427
+1	GO-HP	GO_0006914	HP_0001427
+1	GO-HP	GO_0016020	HP_0001427
+
+2|chunk|Mitofusins were first described to be required for MT fusion in drosophila [4] and yeast [5] . In mammals, mouse knockout models illustrate their importance in fusion. Indeed, deficient mouse embryonic fibroblasts (MEFs) in either Mfn1 or Mfn2 present highly fragmented mitochondria compared to the tubular and interconnected mitochondrial network observed in wild-type (WT) cells [3] . Beside its role in MT fusion, MFN 2 is also implicated in the formation of Endoplasmic Reticulum (ER)-MT contact sites [6] and in MT-lipid droplets interaction [7] .
+2	270	282 mitochondria	Gene_function	GO_0005739
+2	326	339 mitochondrial	Phenotype	HP_0001427
+2	462	483 Endoplasmic Reticulum	Gene_function	GO_0005783
+2	GO-HP	GO_0005739	HP_0001427
+2	HP-GO	HP_0001427	GO_0005783
+
+3|chunk|The mechanism by which mitofusins mediate MT fusion is not fully understood, although it was suggested that MFN 1 and MFN 2 form homo-or hetero-oligomeric complexes by interacting in trans between neighbouring mitochondria, thereby promoting their tethering and subsequent fusion of
+
+4|chunk|OPA1, whose gene mutation is associated with a dominant optic atrophy disease [9] (Table 1) , is localized to the MIM and the MT intermembrane space. Opa1 / cells present fragmented mitochondrial morphology, although some MOM fusion events were described [10] . Moreover, Opa1 depletion triggers other cellular defects including reduction and disorganization of cristae membranes, reduced respiration capacity, altered mtDNA maintenance and increased sensitivity to apoptosis [11] . Different isoforms of OPA1 arise through differential RNA splicing and protein processing. Importantly, it has been shown that MT fusion depends on a proper ratio between two major forms of OPA1: The Long (L-OPA1) and Short (S-OPA1) isoforms. In fact, L-OPA1 is associated with efficient MT fusion, while S-OPA1 is thought to be a fission mediator [12] . OPA1 processing is catalysed by the ATP-dependent protease YME1L and the membrane potential-dependent protease OMA1 (metallopeptidase Overlapping with the m-AAA protease1). Thus, proteolysis via Yme1L is responsible for oxidative phosphorylation-dependent stimulation of inner-membrane fusion. In contrast, the dissipation of membrane potential triggers OMA1 activation and subsequent cleavage and inactivation of OPA1 [13] . Various cellular stresses can activate Oma1 to cleave Opa1 [14] . Cells in which Oma1 expression is down-regulated recovered fused mitochondria more quickly than control cells after CCCP-treatment (CarbonylCyanure m-ChloroPhnylhydrazone) and became less sensitive to staurosporine-induced apoptosis [15] , suggesting that, in these conditions, OMA1 regulates the functions of the dynamin by modulating the abundance of the L-isoform [15] . This mechanism likely contributes to the mitochondrial fragmentation observed in different forms of mitochondrial dysfunction [16] .
+4	56	69 optic atrophy	Phenotype	HP_0000648
+4	97	106 localized	Phenotype	HP_0012838
+4	184	197 mitochondrial	Phenotype	HP_0001427
+4	224	227 MOM	Gene_function	GO_0036407
+4	539	551 RNA splicing	Gene_function	GO_0008380
+4	913	921 membrane	Gene_function	GO_0016020
+4	1019	1030 proteolysis	Gene_function	GO_0006508
+4	1166	1174 membrane	Gene_function	GO_0016020
+4	1397	1409 mitochondria	Gene_function	GO_0005739
+4	1748	1761 mitochondrial	Phenotype	HP_0001427
+4	1807	1820 mitochondrial	Phenotype	HP_0001427
+4	1807	1832 mitochondrial dysfunction	Phenotype	HP_0003287
+4	HP-GO	HP_0000648	GO_0036407
+4	HP-GO	HP_0000648	GO_0008380
+4	HP-GO	HP_0000648	GO_0016020
+4	HP-GO	HP_0000648	GO_0006508
+4	HP-GO	HP_0000648	GO_0005739
+4	HP-GO	HP_0012838	GO_0036407
+4	HP-GO	HP_0012838	GO_0008380
+4	HP-GO	HP_0012838	GO_0016020
+4	HP-GO	HP_0012838	GO_0006508
+4	HP-GO	HP_0012838	GO_0005739
+4	HP-GO	HP_0001427	GO_0036407
+4	HP-GO	HP_0001427	GO_0008380
+4	HP-GO	HP_0001427	GO_0016020
+4	HP-GO	HP_0001427	GO_0006508
+4	HP-GO	HP_0001427	GO_0005739
+4	GO-HP	GO_0036407	HP_0003287
+4	GO-HP	GO_0008380	HP_0003287
+4	GO-HP	GO_0016020	HP_0003287
+4	GO-HP	GO_0006508	HP_0003287
+4	GO-HP	GO_0005739	HP_0003287
+
+5|chunk|In addition to proteolytic regulation of OPA1, some post-translational modifications have also been described. In neonatal cardiac myocytes, high-glucose exposure triggers increased O-GlcNAcylation of OPA1, leading to mitochondrial dysfunction by increasing mitochondrial fragmentation [17] . Moreover, prolonged treatment of rat kidney proximal tubular cells by prostaglandin showed that OPA1 is subjected to ubiquitination and subsequent degradation [18] . In the context of heart pathological stress, OPA1 is hyperacetylated and inactivated [19] . It has been shown that the mitochondrial deacetylase SIRT3 was capable of deacetylating OPA1 and elevating its GTPase activity. SIRT3-dependent activation of OPA1 contributes to the preservation of mitochondrial networking and protection of cardiomyocytes from doxorubicin-mediated cell death [19] .
+5	218	231 mitochondrial	Phenotype	HP_0001427
+5	218	243 mitochondrial dysfunction	Phenotype	HP_0003287
+5	258	271 mitochondrial	Phenotype	HP_0001427
+5	303	312 prolonged	Phenotype	HP_0025297
+5	337	345 proximal	Phenotype	HP_0012840
+5	440	451 degradation	Gene_function	GO_0009056
+5	578	591 mitochondrial	Phenotype	HP_0001427
+5	749	762 mitochondrial	Phenotype	HP_0001427
+5	833	843 cell death	Gene_function	GO_0008219
+5	HP-GO	HP_0001427	GO_0009056
+5	HP-GO	HP_0001427	GO_0008219
+5	HP-GO	HP_0003287	GO_0009056
+5	HP-GO	HP_0003287	GO_0008219
+5	HP-GO	HP_0025297	GO_0009056
+5	HP-GO	HP_0025297	GO_0008219
+5	HP-GO	HP_0012840	GO_0009056
+5	HP-GO	HP_0012840	GO_0008219
+
+6|chunk|On the other hand, genetic and cell biology studies identified two classes of proteins required for MT fission process. In mammals, the GTPase dynamin-related protein 1 (DRP1) [20] , is described to be the major effector of this process. Considering the cytosolic localization of this protein, its recruitment to the mitochondrial surface requires specific adaptor proteins on the MOM (Figure 1 ). So far, this second class of proteins includes Fis1, Mff, MiD49 and MiD51 (FISsion 1 protein, Mitochondrial Fission Factor, and Mitochondrial Dynamics protein 49/51; Figure 1 ) [21] .
+6	264	276 localization	Gene_function	GO_0051179
+6	317	330 mitochondrial	Phenotype	HP_0001427
+6	381	384 MOM	Gene_function	GO_0036407
+6	492	505 Mitochondrial	Phenotype	HP_0001427
+6	492	513 Mitochondrial Fission	Gene_function	GO_0000266
+6	526	539 Mitochondrial	Phenotype	HP_0001427
+6	GO-HP	GO_0051179	HP_0001427
+6	HP-GO	HP_0001427	GO_0036407
+6	HP-GO	HP_0001427	GO_0000266
+
+7|chunk|Inhibition of Drp1 function, either by RNA interference or by expressing a dominant-negative form of the protein, results in defective MT fission and the occurrence of a hyperfused mitochondrial network [20] . During fission, DRP1 is recruited on mitochondrial tubules and assembles into oligomeric
+7	39	55 RNA interference	Gene_function	GO_0016246
+7	181	194 mitochondrial	Phenotype	HP_0001427
+7	247	260 mitochondrial	Phenotype	HP_0001427
+7	GO-HP	GO_0016246	HP_0001427
+

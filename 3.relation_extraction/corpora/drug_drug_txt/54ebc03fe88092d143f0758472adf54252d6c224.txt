@@ -1,0 +1,91 @@
+0|chunk|Free fatty acids induce ER stress and block antiviral activity of interferon alpha against hepatitis C virus in cell culture
+0	5	16 fatty acids	Chemical	CHEBI_35366
+0	11	16 acids	Chemical	CHEBI_37527
+0	44	53 antiviral	Chemical	CHEBI_22587
+0	66	76 interferon	Chemical	CHEBI_52999
+0	77	82 alpha	Chemical	CHEBI_30216
+0	CHEBI-CHEBI	CHEBI_35366	CHEBI_37527
+0	CHEBI-CHEBI	CHEBI_35366	CHEBI_22587
+0	CHEBI-CHEBI	CHEBI_35366	CHEBI_52999
+0	CHEBI-CHEBI	CHEBI_35366	CHEBI_30216
+0	CHEBI-CHEBI	CHEBI_37527	CHEBI_22587
+0	CHEBI-CHEBI	CHEBI_37527	CHEBI_52999
+0	CHEBI-CHEBI	CHEBI_37527	CHEBI_30216
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_52999
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_30216
+0	CHEBI-CHEBI	CHEBI_52999	CHEBI_30216
+
+1|chunk|Background: Hepatic steatosis is recognized as a major risk factor for liver disease progression and impaired response to interferon based therapy in chronic hepatitis C (CHC) patients. The mechanism of response to interferon-alpha (IFN-) therapy under the condition of hepatic steatosis is unexplored. We investigated the effect of hepatocellular steatosis on hepatitis C virus (HCV) replication and IFN- antiviral response in a cell culture model.
+1	122	132 interferon	Chemical	CHEBI_52999
+1	408	417 antiviral	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_22587
+
+2|chunk|Methods: Sub-genomic replicon (S3-GFP) and HCV infected Huh-7.5 cells were cultured with a mixture of saturated (palmitate) and unsaturated (oleate) long-chain free fatty acids (FFA). Intracytoplasmic fat accumulation in these cells was visualized by Nile red staining and electron microscopy then quantified by microfluorometry. The effect of FFA treatment on HCV replication and IFN- antiviral response was measured by flow cytometric analysis, Renilla luciferase activity, and real-time RT-PCR.
+2	91	98 mixture	Chemical	CHEBI_60004
+2	113	122 palmitate	Chemical	CHEBI_15756
+2	141	147 oleate	Chemical	CHEBI_16196
+2	165	176 fatty acids	Chemical	CHEBI_35366
+2	171	176 acids	Chemical	CHEBI_37527
+2	251	259 Nile red	Chemical	CHEBI_52169
+2	273	281 electron	Chemical	CHEBI_10545
+2	344	347 FFA	Chemical	CHEBI_42638
+2	387	396 antiviral	Chemical	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_15756
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_16196
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_35366
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_52169
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_60004	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_16196
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_35366
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_52169
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_15756	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_35366
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_52169
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_16196	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_35366	CHEBI_37527
+2	CHEBI-CHEBI	CHEBI_35366	CHEBI_52169
+2	CHEBI-CHEBI	CHEBI_35366	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_35366	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_35366	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_52169
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_37527	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_52169	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_52169	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_52169	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_42638
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_22587
+2	CHEBI-CHEBI	CHEBI_42638	CHEBI_22587
+
+3|chunk|Results: FFA treatment induced dose dependent hepatocellular steatosis and lipid droplet accumulation in the HCV replicon cells was confirmed by Nile red staining, microfluorometry, and by electron microscopy. Intracellular fat accumulation supports replication more in the persistently HCV infected culture than in the sub-genomic replicon (S3-GFP) cell line. FFA treatment also partially blocked IFN- response and viral clearance by reducing the phosphorylation of Stat1 and Stat2 dependent IFN- promoter activation. We show that FFA treatment induces endoplasmic reticulum (ER) stress response and down regulates the IFNAR1 chain of the type I IFN receptor leading to defective Jak-Stat signaling and impaired antiviral response.
+3	9	12 FFA	Chemical	CHEBI_42638
+3	75	80 lipid	Chemical	CHEBI_18059
+3	145	153 Nile red	Chemical	CHEBI_52169
+3	189	197 electron	Chemical	CHEBI_10545
+3	361	364 FFA	Chemical	CHEBI_42638
+3	534	537 FFA	Chemical	CHEBI_42638
+3	715	724 antiviral	Chemical	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_42638	CHEBI_18059
+3	CHEBI-CHEBI	CHEBI_42638	CHEBI_52169
+3	CHEBI-CHEBI	CHEBI_42638	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_42638	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_52169
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_18059	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_52169	CHEBI_10545
+3	CHEBI-CHEBI	CHEBI_52169	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_10545	CHEBI_22587
+
+4|chunk|Conclusion: These results suggest that intracellular fat accumulation in HCV cell culture induces ER stress, defective Jak-Stat signaling, and attenuates the antiviral response, thus providing an explanation to the clinical observation regarding how hepatocellular steatosis influences IFN- response in CHC.
+4	158	167 antiviral	Chemical	CHEBI_22587
+

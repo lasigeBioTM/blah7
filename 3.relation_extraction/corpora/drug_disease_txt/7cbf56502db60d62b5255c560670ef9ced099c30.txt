@@ -1,0 +1,85 @@
+0|chunk|Human enterovirus 71 protein interaction network prompts antiviral drug repositioning OPEN
+0	21	28 protein	Chemical	CHEBI_16541
+0	57	66 antiviral	Chemical	CHEBI_22587
+0	57	71 antiviral drug	Chemical	CHEBI_36044
+0	67	71 drug	Chemical	CHEBI_23888
+
+1|chunk|We found that most EIPs had known interactions with other viruses. We also predicted ATP6V0C as a broad-spectrum essential host factor and validated its essentiality for EV71 infection in vitro. EIPs and their interacting proteins were more likely to be targets of anti-inflammatory and neurological drugs, indicating their potential to serve as host-oriented antiviral targets. Thus, we used a connectivity map to find drugs that inhibited EIP expression. We predicted tanespimycin as a candidate and demonstrated its antiviral efficiency in vitro. These findings provide the first systematic identification of EV71-host protein interactions, an analysis of EIP protein characteristics and a demonstration of their value in developing host-oriented antiviral therapies.
+1	222	230 proteins	Chemical	CHEBI_36080
+1	300	305 drugs	Chemical	CHEBI_23888
+1	360	369 antiviral	Chemical	CHEBI_22587
+1	420	425 drugs	Chemical	CHEBI_23888
+1	470	482 tanespimycin	Chemical	CHEBI_64153
+1	519	528 antiviral	Chemical	CHEBI_22587
+1	622	629 protein	Chemical	CHEBI_16541
+1	663	670 protein	Chemical	CHEBI_16541
+1	750	759 antiviral	Chemical	CHEBI_22587
+
+2|chunk|Enterovirus 71 (EV71) of the Picornaviridae family is one of the predominant causes of human hand, foot, and mouth disease (HFMD), especially across the Asia-Pacific region 1 . Although HFMD caused by EV71 infection mostly leads to mild symptoms, the disease may be complicated by serious symptoms, such as poliomyelitis-like paralysis, encephalomyelitis, myocarditis and neonatal sepsis, resulting in severe and even fatal consequences in infections of children under 5 years of age 2-5 . In the absence of efficacious therapy for severe infections and preventive vaccines, outbreaks and recurrent EV71 epidemics are major threats to public health and cause widespread panic during epidemics 1-6 . The EV71 genome is a single-stranded positive RNA that is approximately 7.4 kb in size and contains three encoding regions: P1, P2, and P3. The P1 region encodes the four structural proteins (external VP1, VP2, and VP3 and internalized VP4), whereas the P2 and P3 regions encode the other seven non-structural proteins (2A, 2B, and 2C encoded by the P2 region, and 3A, 3B, 3C, and 3D encoded by the P3 region) 1 . Phylogenetic analysis of EV71 based on the VP1 gene divided this virus into three independent lineages designated A, B and C, of which genotypes B and C still circulate worldwide 7 . Here, we focused on EV71 genotype C, which continues to circulate throughout China.
+2	109	122 mouth disease	Disease	DOID_403
+2	115	122 disease	Disease	DOID_4
+2	251	258 disease	Disease	DOID_4
+2	356	367 myocarditis	Disease	DOID_820
+2	745	748 RNA	Chemical	CHEBI_33697
+2	881	889 proteins	Chemical	CHEBI_36080
+2	1009	1017 proteins	Chemical	CHEBI_36080
+2	DOID-CHEBI	DOID_403	CHEBI_33697
+2	DOID-CHEBI	DOID_403	CHEBI_36080
+2	DOID-CHEBI	DOID_4	CHEBI_33697
+2	DOID-CHEBI	DOID_4	CHEBI_36080
+2	DOID-CHEBI	DOID_820	CHEBI_33697
+2	DOID-CHEBI	DOID_820	CHEBI_36080
+
+3|chunk|The rapid progress of systematic host-virus interaction research has provided new data for clinical applications and network-based models for virus infections 8 . To date, little progress has been made in virus infection therapies, such as Tamiflu, which is an influenza A virus self-protein neuraminidase-targeted drug. This limited progress has been attributed to the rapid mutation of viral genomes, which leads to virus-targeted drugs to lose effectiveness against new variants. Concomitant with the rapid progress in systematic attempts to collect host-virus physical interaction data, protein annotation with RNA interference (RNAi) data and other functional data, recently we have witnessed changes in the perspective of antiviral drug research 9 . Drugs targeting essential host factors for viruses may be broad-spectrum and mutant-insensitive. The common method to identify essential host factors for viruses is to knock down host genes and determine whether virus infection is controlled. However, this approach is not practical for every virus due to its low repeat rate and high cost. The virus-host protein-protein interactome also provides potential host targets for antiviral research. The yeast two-hybrid(Y2H) system was introduced twenty-five years ago and has been widely used to investigate protein-protein networks of model organisms and pathogens and hosts, such as bacteria, yeast, fruit flies, tumor viruses and hosts, and herpes viruses and hosts 10-12 . The huge interactome datasets obtained from genome-wide yeast two-hybrid screening have greatly facilitated the identification of crucial proteins that are considered druggable. But the wide distribution of host proteins that interact with viruses makes the selection of drugs targeting multiple host targets difficult. For enterovirus 71, neither genome-wide RNAi screening nor virus-host protein-protein interaction identification has been explored.
+3	205	220 virus infection	Disease	DOID_934
+3	261	270 influenza	Disease	DOID_8469
+3	315	319 drug	Chemical	CHEBI_23888
+3	433	438 drugs	Chemical	CHEBI_23888
+3	591	598 protein	Chemical	CHEBI_16541
+3	615	618 RNA	Chemical	CHEBI_33697
+3	728	737 antiviral	Chemical	CHEBI_22587
+3	728	742 antiviral drug	Chemical	CHEBI_36044
+3	738	742 drug	Chemical	CHEBI_23888
+3	756	761 Drugs	Chemical	CHEBI_23888
+3	968	983 virus infection	Disease	DOID_934
+3	1181	1190 antiviral	Chemical	CHEBI_22587
+3	1618	1626 proteins	Chemical	CHEBI_36080
+3	1692	1700 proteins	Chemical	CHEBI_36080
+3	1751	1756 drugs	Chemical	CHEBI_23888
+3	DOID-CHEBI	DOID_934	CHEBI_23888
+3	DOID-CHEBI	DOID_934	CHEBI_16541
+3	DOID-CHEBI	DOID_934	CHEBI_33697
+3	DOID-CHEBI	DOID_934	CHEBI_22587
+3	DOID-CHEBI	DOID_934	CHEBI_36044
+3	DOID-CHEBI	DOID_934	CHEBI_36080
+3	DOID-CHEBI	DOID_8469	CHEBI_23888
+3	DOID-CHEBI	DOID_8469	CHEBI_16541
+3	DOID-CHEBI	DOID_8469	CHEBI_33697
+3	DOID-CHEBI	DOID_8469	CHEBI_22587
+3	DOID-CHEBI	DOID_8469	CHEBI_36044
+3	DOID-CHEBI	DOID_8469	CHEBI_36080
+
+4|chunk|Here, we constructed an EV71 protein interaction network, and by integrating public protein and drug databases, we verified the protein functions, explored their potentials in serving as drug targets and predicted anti-viral drugs (Fig. 1) . We identified interactions between EV71 proteins and host cellular proteins using a yeast two-hybrid (Y2H) screen to provide a network view of EV71 infection. A viral ORFeome was generated that included ORFs encoding all full-length mature proteins and several protein domains of EV71 BrCr. These bait sequences were cloned into fusion vectors with a GAL4 DNA binding domain. The bait constructs were screened against a human brain cDNA library using a highly stringent Y2H assay. Twenty-nine EV71-human protein interactions were identified. Analysis of the integrated EV71-human protein interaction network revealed the topological features of the EV71-interacting human proteins (EIPs) and the functional pathways related to EV71 infection. Through overlap analysis of EIPs and proteins with interactions or functional associations with other viruses, we found that ATP6V0C might be a broad-spectrum essential host factor and further validated its essentiality for EV71 infection in vitro. We then mapped EIPs to known drug targets; the related drug indications mainly covered EV71 infection-related symptoms, indicating the potential of EIPs to serve as host-directed antiviral targets. We used connectivity map resources to find drugs that inhibited EIPs and to help validate the value of EIPs as antiviral targets. The drug tanespimycin showed the most significant inhibition of EIP expression and significantly inhibited EV71 infection in vitro.
+4	29	36 protein	Chemical	CHEBI_16541
+4	84	91 protein	Chemical	CHEBI_16541
+4	96	100 drug	Chemical	CHEBI_23888
+4	128	135 protein	Chemical	CHEBI_16541
+4	187	191 drug	Chemical	CHEBI_23888
+4	225	230 drugs	Chemical	CHEBI_23888
+4	282	290 proteins	Chemical	CHEBI_36080
+4	309	317 proteins	Chemical	CHEBI_36080
+4	482	490 proteins	Chemical	CHEBI_36080
+4	503	510 protein	Chemical	CHEBI_16541
+4	598	601 DNA	Chemical	CHEBI_16991
+4	746	753 protein	Chemical	CHEBI_16541
+4	822	829 protein	Chemical	CHEBI_16541
+4	914	922 proteins	Chemical	CHEBI_36080
+4	1022	1030 proteins	Chemical	CHEBI_36080
+4	1263	1267 drug	Chemical	CHEBI_23888
+4	1289	1293 drug	Chemical	CHEBI_23888
+4	1413	1422 antiviral	Chemical	CHEBI_22587
+4	1475	1480 drugs	Chemical	CHEBI_23888
+4	1543	1552 antiviral	Chemical	CHEBI_22587
+4	1566	1570 drug	Chemical	CHEBI_23888
+4	1571	1583 tanespimycin	Chemical	CHEBI_64153
+

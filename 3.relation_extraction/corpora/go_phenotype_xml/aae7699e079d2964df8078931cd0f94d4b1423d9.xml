@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="aae7699e079d2964df8078931cd0f94d4b1423d9">
+  <chunk id="aae7699e079d2964df8078931cd0f94d4b1423d9.c0" text="Amino Acid Similarity Accounts for T Cell Cross- Reactivity and for ''Holes'' in the T Cell Repertoire"/>
+  <chunk id="aae7699e079d2964df8078931cd0f94d4b1423d9.c1" text="Background: Cytotoxic T cell (CTL) cross-reactivity is believed to play a pivotal role in generating immune responses but the extent and mechanisms of CTL cross-reactivity remain largely unknown. Several studies suggest that CTL clones can recognize highly diverse peptides, some sharing no obvious sequence identity. The emerging realization in the field is that T cell receptors (TcR) recognize multiple distinct ligands.">
+    <entity charOffset="382-385" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c1.e0" ontology_id="GO_0006283" text="TcR" type="gene_function"/>
+    <entity charOffset="382-385" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c1.e1" ontology_id="GO_0042101" text="TcR" type="gene_function"/>
+  </chunk>
+  <chunk id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2" text="Principal Findings: First, we analyzed peptide scans of the HIV epitope SLFNTVATL (SFL9) and found that TCR specificity is position dependent and that biochemically similar amino acid substitutions do not drastically affect recognition. Inspired by this, we developed a general model of TCR peptide recognition using amino acid similarity matrices and found that such a model was able to predict the cross-reactivity of a diverse set of CTL epitopes. With this model, we were able to demonstrate that seemingly distinct T cell epitopes, i.e., ones with low sequence identity, are in fact more biochemically similar than expected. Additionally, an analysis of HIV immunogenicity data with our model showed that CTLs have the tendency to respond mostly to peptides that do not resemble self-antigens.">
+    <entity charOffset="104-107" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e0" ontology_id="GO_0006283" text="TCR" type="gene_function"/>
+    <entity charOffset="104-107" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e1" ontology_id="GO_0042101" text="TCR" type="gene_function"/>
+    <entity charOffset="123-131" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e2" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="287-290" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e3" ontology_id="GO_0006283" text="TCR" type="gene_function"/>
+    <entity charOffset="287-290" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e4" ontology_id="GO_0042101" text="TCR" type="gene_function"/>
+    <pair e1="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e0" e2="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e2" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.p0" relation="true"/>
+    <pair e1="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e1" e2="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e2" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.p1" relation="true"/>
+    <pair e1="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e2" e2="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e3" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.p2" relation="true"/>
+    <pair e1="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e2" e2="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.e4" id="aae7699e079d2964df8078931cd0f94d4b1423d9.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="aae7699e079d2964df8078931cd0f94d4b1423d9.c3" text="Conclusions: T cell cross-reactivity can thus, to an extent greater than earlier appreciated, be explained by amino acid similarity. The results presented in this paper will help resolving some of the long-lasting discussions in the field of T cell cross-reactivity."/>
+</document>

@@ -1,0 +1,15 @@
+0|chunk|Site specific target binding controls RNA cleavage efficiency by the Kaposi's sarcoma-associated herpesvirus endonuclease SOX
+0	21	28 binding	Gene_function	GO_0005488
+
+1|chunk|A number of viruses remodel the cellular gene expression landscape by globally accelerating messenger RNA (mRNA) degradation. Unlike the mammalian basal mRNA decay enzymes, which largely target mRNA from the 5 and 3 end, viruses instead use endonucleases that cleave their targets internally. This is hypothesized to more rapidly inactivate mRNA while maintaining selective power, potentially though the use of a targeting motif(s). Yet, how mRNA endonuclease specificity is achieved in mammalian cells remains largely unresolved. Here, we reveal key features underlying the biochemical mechanism of target recognition and cleavage by the SOX endonuclease encoded by Kaposi's sarcoma-associated herpesvirus (KSHV). Using purified KSHV SOX protein, we reconstituted the cleavage reaction in vitro and reveal that SOX displays robust, sequence-specific RNA binding to residues proximal to the cleavage site, which must be presented in a particular structural context. The strength of SOX binding dictates cleavage efficiency, providing an explanation for the breadth of mRNA susceptibility observed in cells. Importantly, we establish that cleavage site specificity does not require additional cellular cofactors, as had been previously proposed. Thus, viral endonucleases may use a combination of RNA sequence and structure to capture a broad set of mRNA targets while still preserving selectivity.
+1	41	56 gene expression	Gene_function	GO_0010467
+1	153	163 mRNA decay	Gene_function	GO_0006402
+1	851	862 RNA binding	Gene_function	GO_0003723
+1	855	862 binding	Gene_function	GO_0005488
+1	875	883 proximal	Phenotype	HP_0012840
+1	986	993 binding	Gene_function	GO_0005488
+1	GO-HP	GO_0010467	HP_0012840
+1	GO-HP	GO_0006402	HP_0012840
+1	GO-HP	GO_0003723	HP_0012840
+1	GO-HP	GO_0005488	HP_0012840
+

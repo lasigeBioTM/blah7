@@ -1,0 +1,49 @@
+0|chunk|Virology Journal Distinct cellular responses differentiating alcohol-and hepatitis C virus-induced liver cirrhosis
+0	73	82 hepatitis	Disease	DOID_2237
+0	73	84 hepatitis C	Disease	DOID_1883
+0	99	114 liver cirrhosis	Disease	DOID_5082
+0	105	114 cirrhosis	Disease	DOID_5082
+
+1|chunk|Little is known at the molecular level concerning the differences and/or similarities between alcohol and hepatitis C virus induced liver disease. Global transcriptional profiling using oligonucleotide microarrays was therefore performed on liver biopsies from patients with cirrhosis caused by either chronic alcohol consumption or chronic hepatitis C virus (HCV).
+1	94	101 alcohol	Chemical	CHEBI_16236
+1	94	101 alcohol	Chemical	CHEBI_30879
+1	106	115 hepatitis	Disease	DOID_2237
+1	106	117 hepatitis C	Disease	DOID_1883
+1	186	201 oligonucleotide	Chemical	CHEBI_7754
+1	275	284 cirrhosis	Disease	DOID_5082
+1	310	317 alcohol	Chemical	CHEBI_16236
+1	310	317 alcohol	Chemical	CHEBI_30879
+1	333	350 chronic hepatitis	Disease	DOID_2237
+1	333	352 chronic hepatitis C	Disease	DOID_1883
+1	341	350 hepatitis	Disease	DOID_2237
+1	CHEBI-DOID	CHEBI_16236	DOID_2237
+1	CHEBI-DOID	CHEBI_16236	DOID_1883
+1	CHEBI-DOID	CHEBI_16236	DOID_5082
+1	CHEBI-DOID	CHEBI_30879	DOID_2237
+1	CHEBI-DOID	CHEBI_30879	DOID_1883
+1	CHEBI-DOID	CHEBI_30879	DOID_5082
+1	DOID-CHEBI	DOID_2237	CHEBI_7754
+1	DOID-CHEBI	DOID_1883	CHEBI_7754
+1	CHEBI-DOID	CHEBI_7754	DOID_5082
+
+2|chunk|Results: Global gene expression patterns varied significantly depending upon etiology of liver disease, with a greater number of differentially regulated genes seen in HCV-infected patients. Many of the gene expression changes specifically observed in HCV-infected cirrhotic livers were expectedly associated with activation of the innate antiviral immune response. We also compared severity (CTP class) of cirrhosis for each etiology and identified gene expression patterns that differentiated ethanol-induced cirrhosis by class. CTP class A ethanol-cirrhotic livers showed unique expression patterns for genes implicated in the inflammatory response, including those related to macrophage activation and migration, as well as lipid metabolism and oxidative stress genes.
+2	339	348 antiviral	Chemical	CHEBI_22587
+2	393	396 CTP	Chemical	CHEBI_17677
+2	407	416 cirrhosis	Disease	DOID_5082
+2	511	520 cirrhosis	Disease	DOID_5082
+2	531	534 CTP	Chemical	CHEBI_17677
+2	728	733 lipid	Chemical	CHEBI_18059
+2	CHEBI-DOID	CHEBI_22587	DOID_5082
+2	CHEBI-DOID	CHEBI_17677	DOID_5082
+2	DOID-CHEBI	DOID_5082	CHEBI_18059
+
+3|chunk|Stages of liver cirrhosis could be differentiated based on gene expression patterns in ethanol-induced, but not HCV-induced, disease. In addition to genes specifically regulating the innate antiviral immune response, mechanisms responsible for differentiating chronic liver damage due to HCV or ethanol may be closely related to regulation of lipid metabolism and to effects of macrophage activation on deposition of extracellular matrix components.
+3	10	25 liver cirrhosis	Disease	DOID_5082
+3	16	25 cirrhosis	Disease	DOID_5082
+3	190	199 antiviral	Chemical	CHEBI_22587
+3	295	302 ethanol	Chemical	CHEBI_16236
+3	343	348 lipid	Chemical	CHEBI_18059
+3	DOID-CHEBI	DOID_5082	CHEBI_22587
+3	DOID-CHEBI	DOID_5082	CHEBI_16236
+3	DOID-CHEBI	DOID_5082	CHEBI_18059
+

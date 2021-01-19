@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="3331e1bb231ae4227e4b6e8e98412b17468747a1">
+  <chunk id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c0" text="Protein co-expression network analysis (ProCoNA)">
+    <entity charOffset="0-7" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c0.e0" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+  </chunk>
+  <chunk id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c1" text="Background: Biological networks are important for elucidating disease etiology due to their ability to model complex high dimensional data and biological systems. Proteomics provides a critical data source for such models, but currently lacks robust de novo methods for network construction, which could bring important insights in systems biology.">
+    <entity charOffset="62-69" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c1.e0" ontology_id="DOID_4" text="disease" type="disease"/>
+  </chunk>
+  <chunk id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2" text="We have evaluated the construction of network models using methods derived from weighted gene co-expression network analysis (WGCNA). We show that approximately scale-free peptide networks, composed of statistically significant modules, are feasible and biologically meaningful using two mouse lung experiments and one human plasma experiment. Within each network, peptides derived from the same protein are shown to have a statistically higher topological overlap and concordance in abundance, which is potentially important for inferring protein abundance. The module representatives, called eigenpeptides, correlate significantly with biological phenotypes. Furthermore, within modules, we find significant enrichment for biological function and known interactions (gene ontology and protein-protein interactions).">
+    <entity charOffset="172-179" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="365-373" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2.e1" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="396-403" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2.e2" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="540-547" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="725-744" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c2.e4" ontology_id="CHEBI_24432" text="biological function" type="chemical"/>
+  </chunk>
+  <chunk id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c3" text="Conclusions: Biological networks are important tools in the analysis of complex systems. In this paper we evaluate the application of weighted co-expression network analysis to quantitative proteomics data. Protein co-expression networks allow novel approaches for biological interpretation, quality control, inference of protein abundance, a framework for potentially resolving degenerate peptide-protein mappings, and a biomarker signature discovery.">
+    <entity charOffset="207-214" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c3.e0" ontology_id="CHEBI_16541" text="Protein" type="chemical"/>
+    <entity charOffset="322-329" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c3.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="422-431" id="3331e1bb231ae4227e4b6e8e98412b17468747a1.c3.e2" ontology_id="CHEBI_59163" text="biomarker" type="chemical"/>
+  </chunk>
+</document>

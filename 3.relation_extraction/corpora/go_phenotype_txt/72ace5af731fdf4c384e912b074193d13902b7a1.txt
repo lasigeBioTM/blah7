@@ -1,0 +1,27 @@
+0|chunk|BMC Immunology Expression profile of immune response genes in patients with Severe Acute Respiratory Syndrome
+0	37	52 immune response	Gene_function	GO_0006955
+0	76	82 Severe	Phenotype	HP_0012828
+0	83	88 Acute	Phenotype	HP_0011009
+0	GO-HP	GO_0006955	HP_0012828
+0	GO-HP	GO_0006955	HP_0011009
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS) emerged in later February 2003, as a new epidemic form of life-threatening infection caused by a novel coronavirus. However, the immune-pathogenesis of SARS is poorly understood. To understand the host response to this pathogen, we investigated the gene expression profiles of peripheral blood mononuclear cells (PBMCs) derived from SARS patients, and compared with healthy controls.
+1	12	18 Severe	Phenotype	HP_0012828
+1	19	24 acute	Phenotype	HP_0011009
+1	302	317 gene expression	Gene_function	GO_0010467
+1	330	340 peripheral	Phenotype	HP_0030646
+1	419	426 healthy	Phenotype	HP_0032322
+1	HP-GO	HP_0012828	GO_0010467
+1	HP-GO	HP_0011009	GO_0010467
+1	GO-HP	GO_0010467	HP_0030646
+1	GO-HP	GO_0010467	HP_0032322
+
+2|chunk|Results: The number of differentially expressed genes was found to be 186 under stringent filtering criteria of microarray data analysis. Several genes were highly up-regulated in patients with SARS, such as, the genes coding for Lactoferrin, S100A9 and Lipocalin 2. The real-time PCR method verified the results of the gene array analysis and showed that those genes that were up-regulated as determined by microarray analysis were also found to be comparatively up-regulated by realtime PCR analysis.
+
+3|chunk|This differential gene expression profiling of PBMCs from patients with SARS strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response, rather than a specific immune response against a viral infection, as we observed a complete lack of cytokine genes usually triggered during a viral infection. Our study shows for the first time how the immune system responds to the SARS infection, and opens new possibilities for designing new diagnostics and treatments for this new life-threatening disease.
+3	18	33 gene expression	Gene_function	GO_0010467
+3	121	129 affected	Phenotype	HP_0032320
+3	214	229 immune response	Gene_function	GO_0006955
+3	GO-HP	GO_0010467	HP_0032320
+3	HP-GO	HP_0032320	GO_0006955
+

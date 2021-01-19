@@ -1,0 +1,36 @@
+0|chunk|Porcine transmissible gastroenteritis virus inhibits NF-B activity via nonstructural protein 3 to evade host immune system
+0	86	93 protein	Chemical	CHEBI_16541
+
+1|chunk|Background: Transmissible gastroenteritis virus (TGEV), a member of the family Coronaviridae, causes lethal watery diarrhea in piglets. Previous studies have revealed that the coronaviruses develop various strategies to evade the host innate immunity through the inhibition of nuclear factor kappa B (NF-B) signaling pathway. However, the ability of TGEV to inhibit the host innate immune response by modulating the NF-B signaling pathway is not clear.
+1	318	325 pathway	Chemical	CHEBI_34922
+1	433	440 pathway	Chemical	CHEBI_34922
+
+2|chunk|In this study, a dual luciferase reporter assay was used to confirm the inhibition of NF-B by TGEV infection and to identify the major viral proteins involved in the inhibition of NF-B signaling. Real-time quantitative PCR was used to quantify the mRNA expression of inflammatory factors. The deubiquitination of Nsp3 domains and its effect on IB and p65 were analyzed by western blotting. The ubiquitination level of IB was analyzed by immunoprecipitation.
+2	142	150 proteins	Chemical	CHEBI_36080
+2	250	254 mRNA	Chemical	CHEBI_33699
+2	CHEBI-CHEBI	CHEBI_36080	CHEBI_33699
+
+3|chunk|Results: In ST and IPEC-J2 cells, TGEV exhibited a dose-dependent inhibition of NF-B activity. Individual TGEV protein screening revealed the high potential of non-structural protein 3 (Nsp3) to inhibit NF-B signaling, and leading to the downregulation of the NF-B-induced cytokine production. We demonstrated that the inhibitory effect of Nsp3 was mainly mediated through the suppression of IB degradation as well as the inhibition of p65 phosphorylation and nuclear translocation. Furthermore, the amino acid residues at positions 590-1,215 in Nsp3 were demonstrated to inhibit the degradation of IB by inhibiting the IB ubiquitination.
+3	112	119 protein	Chemical	CHEBI_16541
+3	176	183 protein	Chemical	CHEBI_16541
+3	505	510 amino	Chemical	CHEBI_46882
+3	505	515 amino acid	Chemical	CHEBI_33704
+3	511	515 acid	Chemical	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+
+4|chunk|Conclusion: TGEV infection can inhibit the activation of the NF-B signaling pathway, which is mainly mediated by Nsp3 through the canonical pathway. The amino acid residues at positions 590-1,215 in Nsp3 compose the critical domain that mediates NF-B inhibition. We speculate that this inhibitory effect is likely to be related to the structure of PLP2 with deubiquitinating enzyme activity of the amino acid residues at positions 590-1,215 in Nsp3. Our study provides a better understanding of the TGEV-mediated innate immune modulation and lays the basis for studies on the pathogenesis of coronavirus.
+4	154	159 amino	Chemical	CHEBI_46882
+4	154	164 amino acid	Chemical	CHEBI_33704
+4	160	164 acid	Chemical	CHEBI_37527
+4	400	405 amino	Chemical	CHEBI_46882
+4	400	410 amino acid	Chemical	CHEBI_33704
+4	406	410 acid	Chemical	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+

@@ -1,0 +1,65 @@
+0|chunk|The nucleolar protein GLTSCR2 is required for efficient viral replication OPEN
+0	14	21 protein	Chemical	CHEBI_16541
+
+1|chunk|In the investigation of the role of GLTSCR2 that played in the cellular innate immune response to viral infection, we found GLTSCR2 supported viral replication of rhabdovirus, paramyxovirus, and coronavirus in cells. Viral infection induced translocation of GLTSCR2 from nucleus to cytoplasm that enabled GLTSCR2 to attenuate type I interferon IFN- and support viral replication. Cytoplasmic GLTSCR2 was able to interact with retinoic acid-inducible gene I (RIG-I) and the ubiquitin-specific protease 15 (USP15), and the triple interaction induced USP15 activity to remove K63-linked ubiquitination of RIG-I, leading to attenuation of RIG-I and IFN-. Blocking cytoplasmic translocation of GLTSCR2, by deletion of its nuclear export sequence (NES), abrogated its ability to attenuate IFN- and support viral replication. GLTSCR2-mediated attenuation of RIG-I and IFN- led to alleviation of host cell innate immune response to viral infection. Our findings suggested that GLTSCR2 contributed to efficient viral replication, and GLTSCR2 should be considered as a potential target for therapeutic control of viral infection.
+1	28	32 role	Chemical	CHEBI_50906
+1	98	113 viral infection	Disease	DOID_934
+1	217	232 Viral infection	Disease	DOID_934
+1	271	278 nucleus	Chemical	CHEBI_33252
+1	333	343 interferon	Chemical	CHEBI_52999
+1	928	943 viral infection	Disease	DOID_934
+1	1107	1122 viral infection	Disease	DOID_934
+1	CHEBI-DOID	CHEBI_50906	DOID_934
+1	DOID-CHEBI	DOID_934	CHEBI_33252
+1	DOID-CHEBI	DOID_934	CHEBI_52999
+
+2|chunk|Innate immunity is critical for defending the host from pathogens, and type I interferon (IFN) is the core of cellular antiviral response 1-5 . Upon viral infection, host pattern recognition receptors (PRRs), such as the retinoic acid-induced gene I (RIG-I)-like receptors (RLRs), are able to detect viral nucleic acids and initiate a series of cell signals, leading to induction of type I IFN and proinflammatory cytokines 2-5 . RIG-I, a family member of RLRs, interacts with viral RNA and recruits mitochondrial-associated virus stimulator (MAVS, also known as IPS-1, Cardif, and VISA) 6,7 . MAVS recruits tumor necrosis receptor-associated factor 3 (TRAF3) that results in TRAF3 lysine 63 (K63)-linked auto-ubiquitination to provide docking sites for TANK binding kinase 1/I kappa-B kinase epsilon (TBK1/IKK ) complex 8-10 . This complex undergoes auto-phosphorylation-mediated activation, resulting in phosphorylating and activating the type I IFN regulatory factor IRF3 or/and IRF7 to form homodimers or heterodimers that translocate into the nucleus for induction of type I IFN 10,11 . The complex also activates canonical IKK for NF- B activation to induce proinflammatory cytokines 12 . Studies also showed that dephosphorylation (Thr170) of RIG-I by the phosphatase PP1  / 13 and K63-linked ubiquitination (Lys172) of RIG-I by the ubiquitin E3 ligase tripartite motif proteins TRIM25 14 and TRIM4 15 lead to RIG-I activation and type I IFN production. Studies have shown that viral infection, including rhabdovirus, paramyxovirus, coronavirus, and herpesvirus, may counteract RIG-I-dependent IFN antiviral response 16 . Rabies virus is a member of the Rhabdoviridae family, and Rabies virus (Ni strain)-expressed N protein has a function to evade the activation of RIG-I and RIG-I-mediated innate immunity 17 . Respiratory syncytial virus (RSV) is a member of the Paramyxoviridae family, and RSV-expressed nonstructural NS2 protein inhibits IFN transcription induced by binding RIG-I and inhibiting its interaction with the downstream component MAVS 18 . Porcine epidemic diarrhea virus (PEDV) is a member of the Coronaviridae family, and PEDV-expressed papain-like protease 2 (PLP2), which has deubiqutinase (DUB) activity, reduces both K48-linked and K63-linked polyubiquitin chains and inhibits RIG-I-activated IFN expression 19 . Herpes simplex virus type 1 (HSV-1)-expressed US11 protein antagonizes IFN- production by binding RIG-I 20 . Kaposi's sarcoma-associated herpesvirus (KSHV)-expressed ORF64, which is a tegument protein with DUB activity, suppresses type I IFN signaling by blocking the ubiquitination of RIG-I 21 . Cellular ubiquitin-specific proteases (USPs), a subfamily of DUB 22 , regulate ubiquitination of RIG-I 23 . USP21 and USP15 remove K63-linked polyubiquitin chains from RIG-I and block the ability of RIG-I to induce IFN- 24,25 . USP15
+2	78	88 interferon	Chemical	CHEBI_52999
+2	119	128 antiviral	Chemical	CHEBI_22587
+2	306	319 nucleic acids	Chemical	CHEBI_33696
+2	314	319 acids	Chemical	CHEBI_37527
+2	483	486 RNA	Chemical	CHEBI_33697
+2	682	688 lysine	Chemical	CHEBI_18019
+2	682	688 lysine	Chemical	CHEBI_25094
+2	1049	1056 nucleus	Chemical	CHEBI_33252
+2	1381	1389 proteins	Chemical	CHEBI_36080
+2	1609	1618 antiviral	Chemical	CHEBI_22587
+2	1633	1639 Rabies	Disease	DOID_11260
+2	1691	1697 Rabies	Disease	DOID_11260
+2	1728	1735 protein	Chemical	CHEBI_16541
+2	1937	1944 protein	Chemical	CHEBI_16541
+2	2085	2093 diarrhea	Disease	DOID_13250
+2	2347	2361 Herpes simplex	Disease	DOID_8566
+2	2398	2405 protein	Chemical	CHEBI_16541
+2	2541	2548 protein	Chemical	CHEBI_16541
+2	CHEBI-DOID	CHEBI_52999	DOID_11260
+2	CHEBI-DOID	CHEBI_52999	DOID_13250
+2	CHEBI-DOID	CHEBI_52999	DOID_8566
+2	CHEBI-DOID	CHEBI_22587	DOID_11260
+2	CHEBI-DOID	CHEBI_22587	DOID_13250
+2	CHEBI-DOID	CHEBI_22587	DOID_8566
+2	CHEBI-DOID	CHEBI_33696	DOID_11260
+2	CHEBI-DOID	CHEBI_33696	DOID_13250
+2	CHEBI-DOID	CHEBI_33696	DOID_8566
+2	CHEBI-DOID	CHEBI_37527	DOID_11260
+2	CHEBI-DOID	CHEBI_37527	DOID_13250
+2	CHEBI-DOID	CHEBI_37527	DOID_8566
+2	CHEBI-DOID	CHEBI_33697	DOID_11260
+2	CHEBI-DOID	CHEBI_33697	DOID_13250
+2	CHEBI-DOID	CHEBI_33697	DOID_8566
+2	CHEBI-DOID	CHEBI_18019	DOID_11260
+2	CHEBI-DOID	CHEBI_18019	DOID_13250
+2	CHEBI-DOID	CHEBI_18019	DOID_8566
+2	CHEBI-DOID	CHEBI_25094	DOID_11260
+2	CHEBI-DOID	CHEBI_25094	DOID_13250
+2	CHEBI-DOID	CHEBI_25094	DOID_8566
+2	CHEBI-DOID	CHEBI_33252	DOID_11260
+2	CHEBI-DOID	CHEBI_33252	DOID_13250
+2	CHEBI-DOID	CHEBI_33252	DOID_8566
+2	CHEBI-DOID	CHEBI_36080	DOID_11260
+2	CHEBI-DOID	CHEBI_36080	DOID_13250
+2	CHEBI-DOID	CHEBI_36080	DOID_8566
+2	DOID-CHEBI	DOID_11260	CHEBI_16541
+2	CHEBI-DOID	CHEBI_16541	DOID_13250
+2	CHEBI-DOID	CHEBI_16541	DOID_8566
+

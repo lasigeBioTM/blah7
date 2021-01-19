@@ -1,0 +1,53 @@
+0|chunk|Membrane interaction and structure of the transmembrane domain of influenza hemagglutinin and its fusion peptide complex
+0	0	8 Membrane	Gene_function	GO_0016020
+0	42	55 transmembrane	Gene_function	GO_0016021
+
+1|chunk|To study the organization and interaction with the fusion domain (or fusion peptide, FP) of the transmembrane domain (TMD) of influenza virus envelope glycoprotein for its role in membrane fusion which is also essential in the cellular trafficking of biomolecules and sperm-egg fusion.
+1	96	109 transmembrane	Gene_function	GO_0016021
+1	118	121 TMD	Phenotype	HP_0005534
+1	142	150 envelope	Gene_function	GO_0031975
+1	180	188 membrane	Gene_function	GO_0016020
+1	180	195 membrane fusion	Gene_function	GO_0061025
+1	GO-HP	GO_0016021	HP_0005534
+1	HP-GO	HP_0005534	GO_0031975
+1	HP-GO	HP_0005534	GO_0016020
+1	HP-GO	HP_0005534	GO_0061025
+
+2|chunk|The fluorescence and gel electrophoresis experiments revealed a tight self-assembly of TMD in the model membrane. A weak but non-random interaction between TMD and FP in the membrane was found. In the complex, the central TMD oligomer was packed by FP in an antiparallel fashion. FP insertion into the membrane was altered by binding to TMD. An infrared study exhibited an enhanced membrane perturbation by the complex formation. A model was built to illustrate the role of TMD in the late stages of influenza virus-mediated membrane fusion reaction.
+2	87	90 TMD	Phenotype	HP_0005534
+2	104	112 membrane	Gene_function	GO_0016020
+2	156	159 TMD	Phenotype	HP_0005534
+2	174	182 membrane	Gene_function	GO_0016020
+2	214	221 central	Phenotype	HP_0030645
+2	222	225 TMD	Phenotype	HP_0005534
+2	302	310 membrane	Gene_function	GO_0016020
+2	326	333 binding	Gene_function	GO_0005488
+2	337	340 TMD	Phenotype	HP_0005534
+2	382	390 membrane	Gene_function	GO_0016020
+2	474	477 TMD	Phenotype	HP_0005534
+2	525	533 membrane	Gene_function	GO_0016020
+2	525	540 membrane fusion	Gene_function	GO_0061025
+2	HP-GO	HP_0005534	GO_0016020
+2	HP-GO	HP_0005534	GO_0005488
+2	HP-GO	HP_0005534	GO_0061025
+2	GO-HP	GO_0016020	HP_0030645
+2	HP-GO	HP_0030645	GO_0005488
+2	HP-GO	HP_0030645	GO_0061025
+
+3|chunk|The TMD oligomer anchors the fusion protein in the membrane with minimal destabilization to the membrane. Upon associating with FP, the complex exerts a synergistic effect on the membrane perturbation. This effect is likely to contribute to the complete membrane fusion during the late phase of fusion protein-induced fusion cascade. The results presented in the work characterize the nature of the interaction of TMD with the membrane and TMD in a complex with FP in the steps leading to pore initiation and dilation during virus-induced fusion. Our data and proposed fusion model highlight the key role of TMD-FP interaction and have implications on the fusion reaction mediated by other type I viral fusion proteins. Understanding the molecular mechanism of membrane fusion may assist in the design of anti-viral drugs.
+3	4	7 TMD	Phenotype	HP_0005534
+3	51	59 membrane	Gene_function	GO_0016020
+3	96	104 membrane	Gene_function	GO_0016020
+3	179	187 membrane	Gene_function	GO_0016020
+3	254	262 membrane	Gene_function	GO_0016020
+3	254	269 membrane fusion	Gene_function	GO_0061025
+3	414	417 TMD	Phenotype	HP_0005534
+3	427	435 membrane	Gene_function	GO_0016020
+3	440	443 TMD	Phenotype	HP_0005534
+3	489	493 pore	Gene_function	GO_0046930
+3	761	769 membrane	Gene_function	GO_0016020
+3	761	776 membrane fusion	Gene_function	GO_0061025
+3	HP-GO	HP_0005534	GO_0016020
+3	HP-GO	HP_0005534	GO_0061025
+3	HP-GO	HP_0005534	GO_0046930
+

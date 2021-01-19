@@ -1,0 +1,34 @@
+0|chunk|Immunome Research Analysis and prediction of protective continuous B-cell epitopes on pathogen proteins
+0	95	103 proteins	Chemical	CHEBI_36080
+
+1|chunk|The application of peptide based diagnostics and therapeutics mimicking part of protein antigen is experiencing renewed interest. So far selection and design rationale for such peptides is usually driven by T-cell epitope prediction, available experimental and modelled 3D structure, B-cell epitope predictions such as hydrophilicity plots or experience. If no structure is available the rational selection of peptides for the production of functionally altering or neutralizing antibodies is practically impossible. Specifically if many alternative antigens are available the reduction of required synthesized peptides until one successful candidate is found is of central technical interest. We have investigated the integration of B-cell epitope prediction with the variability of antigen and the conservation of patterns for post-translational modification (PTM) prediction to improve over state of the art in the field. In particular the application of machine-learning methods shows promising results.
+1	19	26 peptide	Chemical	CHEBI_16670
+1	80	87 protein	Chemical	CHEBI_16541
+1	88	95 antigen	Chemical	CHEBI_59132
+1	177	185 peptides	Chemical	CHEBI_16670
+1	214	221 epitope	Chemical	CHEBI_53000
+1	291	298 epitope	Chemical	CHEBI_53000
+1	410	418 peptides	Chemical	CHEBI_16670
+1	550	558 antigens	Chemical	CHEBI_59132
+1	611	619 peptides	Chemical	CHEBI_16670
+1	741	748 epitope	Chemical	CHEBI_53000
+1	784	791 antigen	Chemical	CHEBI_59132
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_59132
+1	CHEBI-CHEBI	CHEBI_16670	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_59132
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_59132	CHEBI_53000
+
+2|chunk|We find that protein regions leading to the production of functionally altering antibodies are often characterized by a distinct increase in the cumulative sum of three presented parameters. Furthermore the concept to maximize antigenicity, minimize variability and minimize the likelihood of post-translational modification for the identification of relevant sites leads to biologically interesting observations. Primarily, for about 50% of antigen the approach works well with individual area under the ROC curve (AROC) values of at least 0.65. On the other hand a significant portion reveals equivalently low AROC values of < = 0.35 indicating an overall non-Gaussian distribution. While about a third of 57 antigens are seemingly intangible by our approach our results suggest the existence of at least two distinct classes of bioinformatically detectable epitopes which should be predicted separately. As a side effect of our study we present a hand curated dataset for the validation of protectivity classification. Based on this dataset machine-learning methods further improve predictive power to a class separation in an equilibrated dataset of up to 83%.
+2	13	20 protein	Chemical	CHEBI_16541
+2	442	449 antigen	Chemical	CHEBI_59132
+2	711	719 antigens	Chemical	CHEBI_59132
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_59132
+
+3|chunk|We present a computational method to automatically select and rank peptides for the stimulation of potentially protective or otherwise functionally altering antibodies. It can be shown that integration of variability, post-translational modification pattern conservation and B-cell antigenicity improve rational selection over random guessing. Probably more important, we find that for about 50% of antigen the approach works substantially better than for the overall dataset of 57 proteins. Essentially as a side effect our method optimizes for presumably best applicable peptides as they tend to be likely unmodified and as invariable as possible which is answering needs in diagnosis and treatment of pathogen infection. In addition we show the potential for further improvement by the application of machine-learning methods, in particular Random Forests.
+3	67	75 peptides	Chemical	CHEBI_16670
+3	399	406 antigen	Chemical	CHEBI_59132
+3	573	581 peptides	Chemical	CHEBI_16670
+3	CHEBI-CHEBI	CHEBI_16670	CHEBI_59132
+

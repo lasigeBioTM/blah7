@@ -1,0 +1,75 @@
+0|chunk|Residue analysis of a CTL epitope of SARS-CoV spike protein by IFN-gamma production and bioinformatics prediction
+0	26	33 epitope	Chemical	CHEBI_53000
+0	52	59 protein	Chemical	CHEBI_16541
+
+1|chunk|Background: Severe acute respiratory syndrome (SARS) is an emerging infectious disease caused by the novel coronavirus SARS-CoV. The T cell epitopes of the SARS CoV spike protein are well known, but no systematic evaluation of the functional and structural roles of each residue has been reported for these antigenic epitopes. Analysis of the functional importance of side-chains by mutational study may exaggerate the effect by imposing a structural disturbance or an unusual steric, electrostatic or hydrophobic interaction. Results: We demonstrated that N50 could induce significant IFN-gamma response from SARS-CoV S DNA immunized mice splenocytes by the means of ELISA, ELISPOT and FACS. Moreover, S366-374 was predicted to be an optimal epitope by bioinformatics tools: ANN, SMM, ARB and BIMAS, and confirmed by IFN-gamma response induced by a series of S358-374-derived peptides. Furthermore, each of S366-374 was replaced by alanine (A), lysine (K) or aspartic acid (D), respectively. ANN was used to estimate the binding affinity of single S366-374 mutants to H-2 Kd. Y367 and L374 were predicated to possess the most important role in peptide binding. Additionally, these one residue mutated peptides were synthesized, and IFN-gamma production induced by G368, V369, A371, T372 and K373 mutated S366-374 were decreased obviously.
+1	12	45 Severe acute respiratory syndrome	Disease	DOID_2945
+1	37	45 syndrome	Disease	DOID_225
+1	47	51 SARS	Disease	DOID_2945
+1	68	86 infectious disease	Disease	DOID_0050117
+1	79	86 disease	Disease	DOID_4
+1	156	160 SARS	Disease	DOID_2945
+1	171	178 protein	Chemical	CHEBI_16541
+1	621	624 DNA	Chemical	CHEBI_16991
+1	743	750 epitope	Chemical	CHEBI_53000
+1	877	885 peptides	Chemical	CHEBI_16670
+1	933	940 alanine	Chemical	CHEBI_16449
+1	942	945 Aaa	Chemical	CHEBI_28515
+1	946	952 lysine	Chemical	CHEBI_18019
+1	946	952 lysine	Chemical	CHEBI_25094
+1	960	973 aspartic acid	Chemical	CHEBI_17053
+1	969	973 acid	Chemical	CHEBI_37527
+1	1137	1141 role	Chemical	CHEBI_50906
+1	1145	1152 peptide	Chemical	CHEBI_16670
+1	1202	1210 peptides	Chemical	CHEBI_16670
+1	DOID-CHEBI	DOID_2945	CHEBI_16541
+1	DOID-CHEBI	DOID_2945	CHEBI_16991
+1	DOID-CHEBI	DOID_2945	CHEBI_53000
+1	DOID-CHEBI	DOID_2945	CHEBI_16670
+1	DOID-CHEBI	DOID_2945	CHEBI_16449
+1	DOID-CHEBI	DOID_2945	CHEBI_28515
+1	DOID-CHEBI	DOID_2945	CHEBI_18019
+1	DOID-CHEBI	DOID_2945	CHEBI_25094
+1	DOID-CHEBI	DOID_2945	CHEBI_17053
+1	DOID-CHEBI	DOID_2945	CHEBI_37527
+1	DOID-CHEBI	DOID_2945	CHEBI_50906
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_16991
+1	DOID-CHEBI	DOID_225	CHEBI_53000
+1	DOID-CHEBI	DOID_225	CHEBI_16670
+1	DOID-CHEBI	DOID_225	CHEBI_16449
+1	DOID-CHEBI	DOID_225	CHEBI_28515
+1	DOID-CHEBI	DOID_225	CHEBI_18019
+1	DOID-CHEBI	DOID_225	CHEBI_25094
+1	DOID-CHEBI	DOID_225	CHEBI_17053
+1	DOID-CHEBI	DOID_225	CHEBI_37527
+1	DOID-CHEBI	DOID_225	CHEBI_50906
+1	DOID-CHEBI	DOID_0050117	CHEBI_16541
+1	DOID-CHEBI	DOID_0050117	CHEBI_16991
+1	DOID-CHEBI	DOID_0050117	CHEBI_53000
+1	DOID-CHEBI	DOID_0050117	CHEBI_16670
+1	DOID-CHEBI	DOID_0050117	CHEBI_16449
+1	DOID-CHEBI	DOID_0050117	CHEBI_28515
+1	DOID-CHEBI	DOID_0050117	CHEBI_18019
+1	DOID-CHEBI	DOID_0050117	CHEBI_25094
+1	DOID-CHEBI	DOID_0050117	CHEBI_17053
+1	DOID-CHEBI	DOID_0050117	CHEBI_37527
+1	DOID-CHEBI	DOID_0050117	CHEBI_50906
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_16991
+1	DOID-CHEBI	DOID_4	CHEBI_53000
+1	DOID-CHEBI	DOID_4	CHEBI_16670
+1	DOID-CHEBI	DOID_4	CHEBI_16449
+1	DOID-CHEBI	DOID_4	CHEBI_28515
+1	DOID-CHEBI	DOID_4	CHEBI_18019
+1	DOID-CHEBI	DOID_4	CHEBI_25094
+1	DOID-CHEBI	DOID_4	CHEBI_17053
+1	DOID-CHEBI	DOID_4	CHEBI_37527
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+
+2|chunk|We demonstrated that S366-374 is an optimal H-2 Kd CTL epitope in the SARS CoV S protein. Moreover, Y367, S370, and L374 are anchors in the epitope, while C366, G368, V369, A371, T372, and K373 may directly interact with TCR on the surface of CD8-T cells.
+2	55	62 epitope	Chemical	CHEBI_53000
+2	70	74 SARS	Disease	DOID_2945
+2	140	147 epitope	Chemical	CHEBI_53000
+2	CHEBI-DOID	CHEBI_53000	DOID_2945
+

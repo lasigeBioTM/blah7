@@ -1,0 +1,39 @@
+0|chunk|N-terminal functional domain of Gasdermin A3 regulates mitochondrial homeostasis via mitochondrial targeting
+0	55	68 mitochondrial	Phenotype	HP_0001427
+0	69	80 homeostasis	Gene_function	GO_0042592
+0	85	98 mitochondrial	Phenotype	HP_0001427
+0	HP-GO	HP_0001427	GO_0042592
+
+1|chunk|Background: The epidermis forms a critical barrier that is maintained by orchestrated programs of proliferation, differentiation, and cell death. Gene mutations that disturb this turnover process may cause skin diseases. Human GASDERMIN A (GSDMA) is frequently silenced in gastric cancer cell lines and its overexpression has been reported to induce apoptosis. GSDMA has also been linked with airway hyperresponsiveness in genetic association studies. The function of GSDMA in the skin was deduced by dominant mutations in mouse gasdermin A3 (Gsdma3), which caused skin inflammation and hair loss. However, the mechanism for the autosomal dominance of Gsdma3 mutations and the mode of Gsdma3's action remain unanswered.
+1	273	287 gastric cancer	Phenotype	HP_0012126
+1	281	287 cancer	Phenotype	HP_0002664
+1	393	419 airway hyperresponsiveness	Phenotype	HP_0032933
+1	565	582 skin inflammation	Phenotype	HP_0011123
+
+2|chunk|Results: We demonstrated a novel function of Gsdma3 in modulating mitochondrial oxidative stress. We showed that Gsdma3 is regulated by intramolecular fold-back inhibition, which is disrupted by dominant mutations in the C-terminal domain. The unmasked N-terminal domain of Gsdma3 associates with Hsp90 and is delivered to mitochondrial via mitochondrial importer receptor Tom70, where it interacts with the mitochondrial chaperone Trap1 and causes increased production of mitochondrial reactive oxygen species (ROS), dissipation of mitochondrial membrane potential, and mitochondrial permeability transition (MPT). Overexpression of the C-terminal domain of Gsdma3 as well as pharmacological interventions of mitochondrial translocation, ROS production, and MPT pore opening alleviate the cell death induced by Gsdma3 mutants.
+2	66	79 mitochondrial	Phenotype	HP_0001427
+2	323	336 mitochondrial	Phenotype	HP_0001427
+2	341	354 mitochondrial	Phenotype	HP_0001427
+2	408	421 mitochondrial	Phenotype	HP_0001427
+2	473	486 mitochondrial	Phenotype	HP_0001427
+2	533	546 mitochondrial	Phenotype	HP_0001427
+2	533	555 mitochondrial membrane	Gene_function	GO_0031966
+2	547	555 membrane	Gene_function	GO_0016020
+2	571	584 mitochondrial	Phenotype	HP_0001427
+2	710	723 mitochondrial	Phenotype	HP_0001427
+2	763	767 pore	Gene_function	GO_0046930
+2	790	800 cell death	Gene_function	GO_0008219
+2	HP-GO	HP_0001427	GO_0031966
+2	HP-GO	HP_0001427	GO_0016020
+2	HP-GO	HP_0001427	GO_0046930
+2	HP-GO	HP_0001427	GO_0008219
+
+3|chunk|Our results indicate that the genetic mutations in the C-terminal domain of Gsdma3 are gain-of-function mutations which unmask the N-terminal functional domain of Gsdma3. Gsdma3 regulates mitochondrial oxidative stress through mitochondrial targeting. Since mitochondrial ROS has been shown to promote epidermal differentiation, we hypothesize that Gsdma3 regulates context-dependent response of keratinocytes to differentiation and cell death signals by impinging on mitochondria.
+3	188	201 mitochondrial	Phenotype	HP_0001427
+3	202	218 oxidative stress	Phenotype	HP_0025464
+3	227	240 mitochondrial	Phenotype	HP_0001427
+3	258	271 mitochondrial	Phenotype	HP_0001427
+3	433	443 cell death	Gene_function	GO_0008219
+3	HP-GO	HP_0001427	GO_0008219
+3	HP-GO	HP_0025464	GO_0008219
+

@@ -1,0 +1,27 @@
+0|chunk|Autophagic response in the Rabbit Hemorrhagic Disease, an animal model of virally-induced fulminant hepatic failure
+0	90	115 fulminant hepatic failure	Phenotype	HP_0004448
+0	100	115 hepatic failure	Phenotype	HP_0001399
+
+1|chunk|The Rabbit Hemorrhagic Disease Virus (RHDV) induces a severe disease that fulfils many requirements of an animal model of fulminant hepatic failure. However, a better knowledge of molecular mechanisms contributing to liver damage is required, and it is unknown whether the RHDV induces liver autophagy and how it relates to apoptosis. In this study, we attempted to explore which signalling pathways were involved in the autophagic response induced by the RHDV and to characterize their role in the context of RHDV pathogenesis. Rabbits were infected with 2  10 4 hemmaglutination units of a RHDV isolate. The autophagic response was measured as presence of autophagic vesicles, LC3 staining, conversion of LC3-I to autophagosome-associated LC3-II and changes in expression of beclin-1, UVRAG, Atg5, Atg12, Atg16L1 and p62/SQSTM1. RHDV-triggered autophagy reached a maximum at 24 hours post-infection (hpi) and declined at 30 and 36 hpi. Phosphorylation of mTOR also augmented in early periods of infection and there was an increase in the expression of the endoplasmic reticulum chaperones BiP/GRP78, CHOP and GRP94. Apoptosis, measured as caspase-3 activity and expression of PARP-1, increased significantly at 30 and 36 hpi in parallel to the maximal expression of the RHDV capsid protein VP60. These data indicate that RHDV infection initiates a rapid autophagic response, perhaps in an attempt to protect liver, which associates to ER stress development and is independent from downregulation of the major autophagy suppressor mTOR. As the infection continues and the autophagic response declines, cells begin to exhibit apoptosis.
+1	54	60 severe	Phenotype	HP_0012828
+1	122	147 fulminant hepatic failure	Phenotype	HP_0004448
+1	292	301 autophagy	Gene_function	GO_0006914
+1	380	390 signalling	Gene_function	GO_0023052
+1	847	856 autophagy	Gene_function	GO_0006914
+1	903	906 hpi	Gene_function	GO_0009978
+1	934	937 hpi	Gene_function	GO_0009978
+1	939	954 Phosphorylation	Gene_function	GO_0016310
+1	1059	1080 endoplasmic reticulum	Gene_function	GO_0005783
+1	1224	1227 hpi	Gene_function	GO_0009978
+1	1512	1521 autophagy	Gene_function	GO_0006914
+1	HP-GO	HP_0012828	GO_0006914
+1	HP-GO	HP_0012828	GO_0023052
+1	HP-GO	HP_0012828	GO_0009978
+1	HP-GO	HP_0012828	GO_0016310
+1	HP-GO	HP_0012828	GO_0005783
+1	HP-GO	HP_0004448	GO_0006914
+1	HP-GO	HP_0004448	GO_0023052
+1	HP-GO	HP_0004448	GO_0009978
+1	HP-GO	HP_0004448	GO_0016310
+1	HP-GO	HP_0004448	GO_0005783
+

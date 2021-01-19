@@ -1,0 +1,32 @@
+0|chunk|Fragments of Target Cells are Internalized into Retroviral Envelope Protein-Expressing Cells during Cell-Cell Fusion by Endocytosis
+0	59	67 Envelope	Gene_function	GO_0031975
+0	100	116 Cell-Cell Fusion	Gene_function	GO_0140253
+0	120	131 Endocytosis	Gene_function	GO_0006897
+
+1|chunk|Retroviruses enter into host cells by fusion between viral and host cell membranes. Retroviral envelope glycoprotein (Env) induces the membrane fusion, and also mediates cell-cell fusion. There are two types of cell-cell fusions induced by the Env protein.
+1	63	72 host cell	Gene_function	GO_0043657
+1	95	103 envelope	Gene_function	GO_0031975
+1	135	143 membrane	Gene_function	GO_0016020
+
+2|chunk|Fusion-from-within is induced by fusion between viral fusogenic Env protein-expressing cells and susceptible cells, and virions induce fusion-from-without by fusion between adjacent cells. Although entry of ecotropic murine leukemia virus (E-MLV) requires host cell endocytosis, the involvement of endocytosis in cell fusion is unclear. By fluorescent microscopic analysis of the fusion-from-within, we found that fragments of target cells are internalized into Env-expressing cells. Treatment of the Env-expressing cells with an endocytosis inhibitor more significantly inhibited the cell fusion than that of the target cells, indicating that endocytosis in Env-expressing cells is required for the cell fusion. The endocytosis inhibitor also attenuated the fusion-from-without. Electron microscopic analysis suggested that the membrane fusion resulting in fusion-from-within initiates in endocytic membrane dents. This study shows that two types of the viral cell fusion both require endocytosis, and provides the cascade of fusion-from-within.
+2	224	232 leukemia	Phenotype	HP_0001909
+2	256	265 host cell	Gene_function	GO_0043657
+2	266	277 endocytosis	Gene_function	GO_0006897
+2	298	309 endocytosis	Gene_function	GO_0006897
+2	313	324 cell fusion	Gene_function	GO_0000747
+2	530	541 endocytosis	Gene_function	GO_0006897
+2	585	596 cell fusion	Gene_function	GO_0000747
+2	644	655 endocytosis	Gene_function	GO_0006897
+2	700	711 cell fusion	Gene_function	GO_0000747
+2	717	728 endocytosis	Gene_function	GO_0006897
+2	829	837 membrane	Gene_function	GO_0016020
+2	829	844 membrane fusion	Gene_function	GO_0061025
+2	900	908 membrane	Gene_function	GO_0016020
+2	961	972 cell fusion	Gene_function	GO_0000747
+2	986	997 endocytosis	Gene_function	GO_0006897
+2	HP-GO	HP_0001909	GO_0043657
+2	HP-GO	HP_0001909	GO_0006897
+2	HP-GO	HP_0001909	GO_0000747
+2	HP-GO	HP_0001909	GO_0016020
+2	HP-GO	HP_0001909	GO_0061025
+

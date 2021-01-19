@@ -1,0 +1,20 @@
+0|chunk|An Epithelial Integrin Regulates the Amplitude of Protective Lung Interferon Responses against Multiple Respiratory Pathogens
+
+1|chunk|The healthy lung maintains a steady state of immune readiness to rapidly respond to injury from invaders. Integrins are important for setting the parameters of this resting state, particularly the epithelial-restricted V6 integrin, which is upregulated during injury. Once expressed, V6 moderates acute lung injury (ALI) through as yet undefined molecular mechanisms. We show that the upregulation of 6 during influenza infection is involved in disease pathogenesis. 6-deficient mice (6 KO) have increased survival during influenza infection likely due to the limited viral spread into the alveolar spaces leading to reduced ALI. Although the 6 KO have morphologically normal lungs, they harbor constitutively activated lung CD11b + alveolar macrophages (AM) and elevated type I IFN signaling activity, which we traced to the loss of 6-activated transforming growth factor- (TGF-). Administration of exogenous TGF- to 6 KO mice leads to reduced numbers of CD11b + AMs, decreased type I IFN signaling activity and loss of the protective phenotype during influenza infection. Protection extended to other respiratory pathogens such as Sendai virus and bacterial pneumonia. Our studies demonstrate that the loss of one epithelial protein, V6 integrin, can alter the lung microenvironment during both homeostasis and respiratory infection leading to reduced lung injury and improved survival. PLOS Pathogens |
+1	4	11 healthy	Phenotype	HP_0032322
+1	301	306 acute	Phenotype	HP_0011009
+1	791	800 signaling	Gene_function	GO_0023052
+1	868	874 growth	Gene_function	GO_0040007
+1	1003	1012 signaling	Gene_function	GO_0023052
+1	1312	1323 homeostasis	Gene_function	GO_0042592
+1	1328	1349 respiratory infection	Phenotype	HP_0011947
+1	HP-GO	HP_0032322	GO_0023052
+1	HP-GO	HP_0032322	GO_0040007
+1	HP-GO	HP_0032322	GO_0042592
+1	HP-GO	HP_0011009	GO_0023052
+1	HP-GO	HP_0011009	GO_0040007
+1	HP-GO	HP_0011009	GO_0042592
+1	GO-HP	GO_0023052	HP_0011947
+1	GO-HP	GO_0040007	HP_0011947
+1	GO-HP	GO_0042592	HP_0011947
+

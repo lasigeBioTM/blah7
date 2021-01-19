@@ -1,0 +1,8 @@
+0|chunk|Full Genome Virus Detection in Fecal Samples Using Sensitive Nucleic Acid Preparation, Deep Sequencing, and a Novel Iterative Sequence Classification Algorithm
+
+1|chunk|We have developed a full genome virus detection process that combines sensitive nucleic acid preparation optimised for virus identification in fecal material with Illumina MiSeq sequencing and a novel post-sequencing virus identification algorithm. Enriched viral nucleic acid was converted to double-stranded DNA and subjected to Illumina MiSeq sequencing. The resulting short reads were processed with a novel iterative Python algorithm SLIM for the identification of sequences with homology to known viruses. De novo assembly was then used to generate full viral genomes. The sensitivity of this process was demonstrated with a set of fecal samples from HIV-1 infected patients. A quantitative assessment of the mammalian, plant, and bacterial virus content of this compartment was generated and the deep sequencing data were sufficient to assembly 12 complete viral genomes from 6 virus families. The method detected high levels of enteropathic viruses that are normally controlled in healthy adults, but may be involved in the pathogenesis of HIV-1 infection and will provide a powerful tool for virus detection and for analyzing changes in the fecal virome associated with HIV-1 progression and pathogenesis.
+1	989	996 healthy	Phenotype	HP_0032322
+1	1032	1044 pathogenesis	Gene_function	GO_0009405
+1	1201	1213 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0032322	GO_0009405
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<document id="465fdc27c98bca041c61f4c5d85671ec92a3b53d">
+  <chunk id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c0" text="Distributed under Creative Commons CC-BY 4.0 Prediction of endoplasmic reticulum resident proteins using fragmented amino acid composition and support vector machine">
+    <entity charOffset="90-98" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c0.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="116-121" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c0.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="116-126" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c0.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="122-126" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c0.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+  </chunk>
+  <chunk id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1" text="Background. The endoplasmic reticulum plays an important role in many cellular processes, which includes protein synthesis, folding and post-translational processing of newly synthesized proteins. It is also the site for quality control of misfolded proteins and entry point of extracellular proteins to the secretory pathway. Hence at any given point of time, endoplasmic reticulum contains two different cohorts of proteins, (i) proteins involved in endoplasmic reticulum-specific function, which reside in the lumen of the endoplasmic reticulum, called as endoplasmic reticulum resident proteins and (ii) proteins which are in process of moving to the extracellular space. Thus, endoplasmic reticulum resident proteins must somehow be distinguished from newly synthesized secretory proteins, which pass through the endoplasmic reticulum on their way out of the cell. Approximately only 50% of the proteins used in this study as training data had endoplasmic reticulum retention signal, which shows that these signals are not essentially present in all endoplasmic reticulum resident proteins. This also strongly indicates the role of additional factors in retention of endoplasmic reticulum-specific proteins inside the endoplasmic reticulum.">
+    <entity charOffset="57-61" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e0" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="105-112" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e1" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="187-195" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e2" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="250-258" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e3" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="292-300" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="417-425" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="431-439" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="590-598" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="608-616" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="713-721" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e9" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="785-793" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e10" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="900-908" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e11" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1086-1094" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e12" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1129-1133" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e13" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="1203-1211" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c1.e14" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+  </chunk>
+  <chunk id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2" text="Methods. This is a support vector machine based method, where we had used different forms of protein features as inputs for support vector machine to develop the prediction models. During training leave-one-out approach of cross-validation was used. Maximum performance was obtained with a combination of amino acid compositions of different part of proteins. Results. In this study, we have reported a novel support vector machine based method for predicting endoplasmic reticulum resident proteins, named as ERPred. During training we achieved a maximum accuracy of 81.42% with leave-one-out approach of cross-validation. When evaluated on independent dataset, ERPred did prediction with sensitivity of 72.31% and specificity of 83.69%. We have also annotated six different proteomes to predict the candidate endoplasmic reticulum resident proteins in them. A webserver, ERPred, was developed to make the method available to the scientific community, which can be accessed at http://proteininformatics.org/mkumar/erpred/ index.html. Discussion. We found that out of 124 proteins of the training dataset, only 66 proteins had endoplasmic reticulum retention signals, which shows that these signals are not an absolute necessity for endoplasmic reticulum resident proteins to remain inside the endoplasmic reticulum. This observation also strongly indicates the role of additional How to cite this article Kumar et al. (2017), Prediction of endoplasmic reticulum resident proteins using fragmented amino acid composition and support vector machine. PeerJ 5:e3561; DOI 10.7717/peerj.3561 assessment with non-specific sub-cellular localization methods showed the higher efficiency and also justified the need of an ERRP specific prediction method. We expect that this tool will bring new insights about understanding of the functions of ER.">
+    <entity charOffset="93-100" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e0" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="305-310" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="305-315" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="311-315" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="350-358" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e4" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="491-499" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="842-850" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e6" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1072-1080" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e7" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1114-1122" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e8" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1264-1272" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e9" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1362-1366" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e10" ontology_id="CHEBI_50906" text="role" type="chemical"/>
+    <entity charOffset="1472-1480" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e11" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="1498-1503" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e12" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="1498-1508" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e13" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="1504-1508" id="465fdc27c98bca041c61f4c5d85671ec92a3b53d.c2.e14" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+  </chunk>
+</document>

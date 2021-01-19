@@ -1,0 +1,67 @@
+0|chunk|Human Monoclonal Antibodies as Adjuvant Treatment of Chronic Hepatitis B Virus Infection
+0	53	60 Chronic	Phenotype	HP_0011010
+0	53	70 Chronic Hepatitis	Phenotype	HP_0200123
+0	61	70 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Despite the availability of an effective prophylactic vaccine leading to sterilizing immunity, hepatitis B virus (HBV) is responsible for chronic liver disease in more than 250 million individuals, potentially leading to cirrhosis and hepatocellular carcinoma. Antiviral drugs able to completely suppress virus replication are indeed available but they are, by and large, unable to eradicate the virus. Several alternative new treatment approaches are currently being developed but none have so far captured the interest of clinicians for possible clinical development. A constant feature of chronic HBV infection is T-cell exhaustion resulting from persistent exposure to high antigen concentrations as shown by the high expression of programmed cell death protein 1 (PD-1) by HBV-specific CD8 T cells. One way of tackling this problem is to develop HBV-specific neutralizing antibodies that would clear excess envelope proteins from the circulation, allowing for nucleos(t)ide analogs or other antiviral drugs now in preclinical and early clinical development to take advantage of a reconstituted adaptive immunity. Several fully human monoclonal antibodies (mAb) have been developed from HBV-vaccinated and subjects convalescent from acute hepatitis B that show different properties and specificities. It is envisaged that such neutralizing mAb may be used as adjuvant treatment to reduce viral protein load, thus rescuing adaptive immunity in an effort to optimize the effect of antiviral drugs.
+1	95	104 hepatitis	Phenotype	HP_0012115
+1	138	145 chronic	Phenotype	HP_0011010
+1	146	159 liver disease	Phenotype	HP_0001392
+1	221	230 cirrhosis	Phenotype	HP_0001394
+1	592	599 chronic	Phenotype	HP_0011010
+1	736	757 programmed cell death	Gene_function	GO_0012501
+1	747	757 cell death	Gene_function	GO_0008219
+1	912	920 envelope	Gene_function	GO_0031975
+1	1237	1242 acute	Phenotype	HP_0011009
+1	1237	1252 acute hepatitis	Phenotype	HP_0200119
+1	1243	1252 hepatitis	Phenotype	HP_0012115
+1	HP-GO	HP_0012115	GO_0012501
+1	HP-GO	HP_0012115	GO_0008219
+1	HP-GO	HP_0012115	GO_0031975
+1	HP-GO	HP_0011010	GO_0012501
+1	HP-GO	HP_0011010	GO_0008219
+1	HP-GO	HP_0011010	GO_0031975
+1	HP-GO	HP_0001392	GO_0012501
+1	HP-GO	HP_0001392	GO_0008219
+1	HP-GO	HP_0001392	GO_0031975
+1	HP-GO	HP_0001394	GO_0012501
+1	HP-GO	HP_0001394	GO_0008219
+1	HP-GO	HP_0001394	GO_0031975
+1	GO-HP	GO_0012501	HP_0011009
+1	GO-HP	GO_0012501	HP_0200119
+1	GO-HP	GO_0008219	HP_0011009
+1	GO-HP	GO_0008219	HP_0200119
+1	GO-HP	GO_0031975	HP_0011009
+1	GO-HP	GO_0031975	HP_0200119
+
+2|chunk|Hepatitis B virus (HBV) is responsible for acute and chronic hepatitis, potentially leading to cirrhosis and hepatocellular carcinoma [reviewed in (1)]. Hepatitis B can be effectively prevented by a prophylactic vaccine (2), whereas, antiviral drugs are virtually unable to eradicate the virus in chronically infected individuals despite efficient suppression of HBV DNA replication (3). Adaptive immunity plays a major role to provide long-term control of infection; however, the very low frequency of circulating HBV-specific T cells in chronic infection contributes to the inability to clear the virus (4). Indeed, HBV may settle for life in occult form in the nuclei of hepatocytes as minichromosome (covalently closed circular DNA, cccDNA), despite apparent recovery, potentially reactivating in case of immune suppression (5). The persistence of cccDNA in hepatocytes is the main hurdle to eradicate HBV infection. The problem is further compounded by the rapid decline of T-cell and B-cell responses as a result of exhaustion induced by production of large amounts of excess HBV envelope proteins (6), largely resulting from integration of HBV
+2	0	9 Hepatitis	Phenotype	HP_0012115
+2	43	48 acute	Phenotype	HP_0011009
+2	53	60 chronic	Phenotype	HP_0011010
+2	61	70 hepatitis	Phenotype	HP_0012115
+2	95	104 cirrhosis	Phenotype	HP_0001394
+2	109	133 hepatocellular carcinoma	Phenotype	HP_0001402
+2	124	133 carcinoma	Phenotype	HP_0030731
+2	153	162 Hepatitis	Phenotype	HP_0012115
+2	367	382 DNA replication	Gene_function	GO_0006260
+2	490	499 frequency	Phenotype	HP_0040279
+2	539	546 chronic	Phenotype	HP_0011010
+2	539	556 chronic infection	Phenotype	HP_0031035
+2	1086	1094 envelope	Gene_function	GO_0031975
+2	HP-GO	HP_0012115	GO_0006260
+2	HP-GO	HP_0012115	GO_0031975
+2	HP-GO	HP_0011009	GO_0006260
+2	HP-GO	HP_0011009	GO_0031975
+2	HP-GO	HP_0011010	GO_0006260
+2	HP-GO	HP_0011010	GO_0031975
+2	HP-GO	HP_0001394	GO_0006260
+2	HP-GO	HP_0001394	GO_0031975
+2	HP-GO	HP_0001402	GO_0006260
+2	HP-GO	HP_0001402	GO_0031975
+2	HP-GO	HP_0030731	GO_0006260
+2	HP-GO	HP_0030731	GO_0031975
+2	GO-HP	GO_0006260	HP_0040279
+2	GO-HP	GO_0006260	HP_0031035
+2	HP-GO	HP_0040279	GO_0031975
+2	HP-GO	HP_0031035	GO_0031975
+

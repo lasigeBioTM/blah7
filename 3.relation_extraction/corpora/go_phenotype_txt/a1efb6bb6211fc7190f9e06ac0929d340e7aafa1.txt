@@ -1,0 +1,21 @@
+0|chunk|Efficient Production of Human Norovirus-Specific IgY in Egg Yolks by Vaccination of Hens with a Recombinant Vesicular Stomatitis Virus Expressing VP1 Protein
+0	118	128 Stomatitis	Phenotype	HP_0010280
+
+1|chunk|Human norovirus (HuNoV) is responsible for more than 95% of outbreaks of acute nonbacterial gastroenteritis worldwide. Despite major efforts, there are no vaccines or effective therapeutic interventions against this virus. Chicken immunoglobulin Y (IgY)-based passive immunization has been shown to be an effective strategy to prevent and treat many enteric viral diseases. Here, we developed a highly efficient bioreactor to generate high titers of HuNoV-specific IgY in chicken yolks using a recombinant vesicular stomatitis virus expressing HuNoV capsid protein (rVSV-VP1) as an antigen. We first demonstrated that HuNoV VP1 protein was highly expressed in chicken cells infected by rVSV-VP1. Subsequently, we found that White Leghorn hens immunized intramuscularly with rVSV-VP1 triggered a high level of HuNoV-specific yolk IgY antibodies. The purified yolk IgY was efficiently recognized by HuNoV virus-like particles (VLPs). Importantly, HuNoV-specific IgY efficiently blocked the binding of HuNoV VLPs to all three types (A, B, and O) of histo-blood group antigens (HBGAs), the attachment factors for HuNoV. In addition, the receptor blocking activity of IgY remained stable at temperature below 70  C and at pH ranging from 4 to 9. Thus, immunization of hens with VSV-VP1 could be a cost-effective and practical strategy for large-scale production of anti-HuNoV IgY antibodies for potential use as prophylactic and therapeutic treatment against HuNoV infection.
+1	73	78 acute	Phenotype	HP_0011009
+1	231	245 immunoglobulin	Gene_function	GO_0003823
+1	516	526 stomatitis	Phenotype	HP_0010280
+1	824	828 yolk	Gene_function	GO_0060417
+1	858	862 yolk	Gene_function	GO_0060417
+1	988	995 binding	Gene_function	GO_0005488
+1	1176	1182 stable	Phenotype	HP_0031915
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0011009	GO_0060417
+1	HP-GO	HP_0011009	GO_0005488
+1	GO-HP	GO_0003823	HP_0010280
+1	GO-HP	GO_0003823	HP_0031915
+1	HP-GO	HP_0010280	GO_0060417
+1	HP-GO	HP_0010280	GO_0005488
+1	GO-HP	GO_0060417	HP_0031915
+1	GO-HP	GO_0005488	HP_0031915
+

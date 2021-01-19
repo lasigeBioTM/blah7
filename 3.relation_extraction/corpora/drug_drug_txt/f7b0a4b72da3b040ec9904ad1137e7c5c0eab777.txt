@@ -1,0 +1,16 @@
+0|chunk|
+
+1|chunk|Background: The accuracy of metagenomic assembly is usually compromised by high levels of polymorphism due to divergent reads from the same genomic region recognized as different loci when sequenced and assembled together. A viral quasispecies is a group of abundant and diversified genetically related viruses found in a single carrier. Current mainstream assembly methods, such as Velvet and SOAPdenovo, were not originally intended for the assembly of such metagenomics data, and therefore demands for new methods to provide accurate and informative assembly results for metagenomic data.
+
+2|chunk|Results: In this study, we present a hybrid method for assembling highly polymorphic data combining the partial de novo-reference assembly (PDR) strategy and the BLAST-based assembly pipeline (BBAP). The PDR strategy generates in situ reference sequences through de novo assembly of a randomly extracted partial data set which is subsequently used for the reference assembly for the full data set. BBAP employs a greedy algorithm to assemble polymorphic reads. We used 12 hepatitis B virus quasispecies NGS data sets from a previous study to assess and compare the performance of both PDR and BBAP. Analyses suggest the high polymorphism of a full metagenomic data set leads to fragmentized de novo assembly results, whereas the biased or limited representation of external reference sequences included fewer reads into the assembly with lower assembly accuracy and variation sensitivity. In comparison, the PDR generated in situ reference sequence incorporated more reads into the final PDR assembly of the full metagenomics data set along with greater accuracy and higher variation sensitivity. BBAP assembly results also suggest higher assembly efficiency and accuracy compared to other assembly methods. Additionally, BBAP assembly recovered HBV structural variants that were not observed amongst assembly results of other methods. Together, PDR/BBAP assembly results were significantly better than other compared methods. Conclusions: Both PDR and BBAP independently increased the assembly efficiency and accuracy of highly polymorphic data, and assembly performances were further improved when used together. BBAP also provides nucleotide frequency information. Together, PDR and BBAP provide powerful tools for metagenomic data studies.
+2	140	143 PDR	Chemical	CHEBI_2120
+2	204	207 PDR	Chemical	CHEBI_2120
+2	585	588 PDR	Chemical	CHEBI_2120
+2	908	911 PDR	Chemical	CHEBI_2120
+2	988	991 PDR	Chemical	CHEBI_2120
+2	1346	1349 PDR	Chemical	CHEBI_2120
+2	1445	1448 PDR	Chemical	CHEBI_2120
+2	1634	1644 nucleotide	Chemical	CHEBI_36976
+2	1678	1681 PDR	Chemical	CHEBI_2120
+2	CHEBI-CHEBI	CHEBI_2120	CHEBI_36976
+

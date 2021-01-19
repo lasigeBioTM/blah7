@@ -1,0 +1,22 @@
+0|chunk|SheddomeDB: the ectodomain shedding database for membrane-bound shed markers
+
+1|chunk|Background: A number of membrane-anchored proteins are known to be released from cell surface via ectodomain shedding. The cleavage and release of membrane proteins has been shown to modulate various cellular processes and disease pathologies. Numerous studies revealed that cell membrane molecules of diverse functional groups are subjected to proteolytic cleavage, and the released soluble form of proteins may modulate various signaling processes. Therefore, in addition to the secreted protein markers that undergo secretion through the secretory pathway, the shed membrane proteins may comprise an additional resource of noninvasive and accessible biomarkers. In this context, identifying the membrane-bound proteins that will be shed has become important in the discovery of clinically noninvasive biomarkers. Nevertheless, a data repository for biological and clinical researchers to review the shedding information, which is experimentally validated, for membrane-bound protein shed markers is still lacking.
+1	81	93 cell surface	Gene_function	GO_0009986
+1	147	155 membrane	Gene_function	GO_0016020
+1	275	288 cell membrane	Gene_function	GO_0005886
+1	280	288 membrane	Gene_function	GO_0016020
+1	430	439 signaling	Gene_function	GO_0023052
+1	519	528 secretion	Gene_function	GO_0046903
+1	569	577 membrane	Gene_function	GO_0016020
+
+2|chunk|Results: In this study, the database SheddomeDB was developed to integrate publicly available data of the shed membrane proteins. A comprehensive literature survey was performed to collect the membrane proteins that were verified to be cleaved or released in the supernatant by immunological-based validation experiments. From 436 studies on shedding, 401 validated shed membrane proteins were included, among which 199 shed membrane proteins have not been annotated or validated yet by existing cleavage databases. SheddomeDB attempted to provide a comprehensive shedding report, including the regulation of shedding machinery and the related function or diseases involved in the shedding events. In addition, our published tool ShedP was embedded into SheddomeDB to support researchers for predicting the shedding event on unknown or unrecorded membrane proteins.
+2	111	119 membrane	Gene_function	GO_0016020
+2	193	201 membrane	Gene_function	GO_0016020
+2	371	379 membrane	Gene_function	GO_0016020
+2	425	433 membrane	Gene_function	GO_0016020
+2	847	855 membrane	Gene_function	GO_0016020
+
+3|chunk|Conclusions: To the best of our knowledge, SheddomeDB is the first database for the identification of experimentally validated shed membrane proteins and currently may provide the most number of membrane proteins for reviewing the shedding information. The database included membrane-bound shed markers associated with numerous cellular processes and diseases, and some of these markers are potential novel markers because they are not annotated or validated yet in other databases. SheddomeDB may provide a useful resource for discovering membrane-bound shed markers. The interactive web of SheddomeDB is publicly available at http://bal.ym.edu.tw/SheddomeDB/.
+3	132	140 membrane	Gene_function	GO_0016020
+3	195	203 membrane	Gene_function	GO_0016020
+

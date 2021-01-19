@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="6ff529e1f29ef13037ef1117086082db53d12691">
+  <chunk id="6ff529e1f29ef13037ef1117086082db53d12691.c0" text="Support vector machine (SVM) based multiclass prediction with basic statistical analysis of plasminogen activators"/>
+  <chunk id="6ff529e1f29ef13037ef1117086082db53d12691.c1" text="Background: Plasminogen (Pg), the precursor of the proteolytic and fibrinolytic enzyme of blood, is converted to the active enzyme plasmin (Pm) by different plasminogen activators (tissue plasminogen activators and urokinase), including the bacterial activators streptokinase and staphylokinase, which activate Pg to Pm and thus are used clinically for thrombolysis. The identification of Pg-activators is therefore an important step in understanding their functional mechanism and derives new therapies. Methods: In this study, different computational methods for predicting plasminogen activator peptide sequences with high accuracy were investigated, including support vector machines (SVM) based on amino acid (AC), dipeptide composition (DC), PSSM profile and Hybrid methods used to predict different Pg-activators from both prokaryotic and eukaryotic origins.">
+    <entity charOffset="598-605" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="703-708" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="703-713" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="709-713" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="720-729" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.e4" ontology_id="CHEBI_46761" text="dipeptide" type="chemical"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e1" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p0" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e2" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p1" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e3" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p2" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e4" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p3" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e1" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e2" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p4" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e1" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e3" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p5" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e1" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e4" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p6" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e2" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e3" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p7" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e2" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e4" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p8" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c1.e3" e2="6ff529e1f29ef13037ef1117086082db53d12691.c1.e4" id="6ff529e1f29ef13037ef1117086082db53d12691.c1.p9" relation="true"/>
+  </chunk>
+  <chunk id="6ff529e1f29ef13037ef1117086082db53d12691.c2" text="Results: Overall maximum accuracy, evaluated using the five-fold cross validation technique, was 88.37%, 84.32%, 87.61%, 85.63% in 0.87, 0.83,0.86 and 0.85 MCC with amino (AC) or dipeptide composition (DC), PSSM profile and Hybrid methods respectively. Through this study, we have found that the different subfamilies of Pg-activators are quite closely correlated in terms of amino, dipeptide, PSSM and Hybrid compositions. Therefore, our prediction results show that plasminogen activators are predictable with a high accuracy from their primary sequence. Prediction performance was also cross-checked by confusion matrix and ROC (Receiver operating characteristics) analysis. A web server to facilitate the prediction of Pg-activators from primary sequence data was implemented.">
+    <entity charOffset="165-170" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.e0" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="179-188" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.e1" ontology_id="CHEBI_46761" text="dipeptide" type="chemical"/>
+    <entity charOffset="376-381" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.e2" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="383-392" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.e3" ontology_id="CHEBI_46761" text="dipeptide" type="chemical"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c2.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c2.e1" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.p0" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c2.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c2.e3" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.p1" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c2.e1" e2="6ff529e1f29ef13037ef1117086082db53d12691.c2.e2" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.p2" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c2.e2" e2="6ff529e1f29ef13037ef1117086082db53d12691.c2.e3" id="6ff529e1f29ef13037ef1117086082db53d12691.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="6ff529e1f29ef13037ef1117086082db53d12691.c3" text="The results show that dipeptide, PSSM profile, and Hybrid based methods perform better than single amino acid composition (AC). Furthermore, we also have developed a web server, which predicts the Pg-activators and their classification (available online at http://mamsap.it.deakin.edu.au/plas_pred/home.html). Our experimental results show that our approaches are faster and achieve generally a good prediction performance.">
+    <entity charOffset="99-104" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.e0" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="99-109" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.e1" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="105-109" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.e2" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c3.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c3.e1" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.p0" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c3.e0" e2="6ff529e1f29ef13037ef1117086082db53d12691.c3.e2" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.p1" relation="true"/>
+    <pair e1="6ff529e1f29ef13037ef1117086082db53d12691.c3.e1" e2="6ff529e1f29ef13037ef1117086082db53d12691.c3.e2" id="6ff529e1f29ef13037ef1117086082db53d12691.c3.p2" relation="true"/>
+  </chunk>
+</document>

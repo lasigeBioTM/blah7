@@ -1,0 +1,47 @@
+0|chunk|Global analysis of polysome-associated mRNA in vesicular stomatitis virus infected cells
+0	57	67 stomatitis	Phenotype	HP_0010280
+
+1|chunk|Infection of mammalian cells with vesicular stomatitis virus (VSV) results in the inhibition of cellular translation while viral translation proceeds efficiently. VSV RNA synthesis occurs entirely within the cytoplasm, where during transcription the viral polymerase produces 5 mRNAs that are structurally indistinct to cellular mRNAs with respect to their 5 0 cap-structure and 3 0 -polyadenylate tail. Using the global approach of massively parallel sequencing of total cytoplasmic, monosome-and polysome-associated mRNA, we interrogate the impact of VSV infection of HeLa cells on translation. Analysis of sequence reads in the different fractions shows >60% of total cytoplasmic and polysome-associated reads map to the 5 viral genes by 6 hours post-infection, a time point at which robust host cell translational shutoff is observed. Consistent with an overwhelming abundance of viral mRNA in the polysome fraction, the reads mapping to cellular genes were reduced. The cellular mRNAs that remain most polysome-associated following infection had longer half-lives, were typically larger, and were more AU rich, features that are shared with the viral mRNAs. Several of those mRNAs encode proteins known to positively affect viral replication, and using chemical inhibition and siRNA depletion we confirm that the host chaperone heat shock protein 90 (hsp90) and eukaryotic translation initiation factor 3A (eIF3A)-encoded by 2 such mRNAs -support viral replication. Correspondingly, regulated in development and DNA damage 1 (Redd1) encoded by a host mRNA with reduced polysome association inhibits viral infection. These data underscore the importance of viral mRNA abundance in the shut-off of host translation in VSV infected cells and link the differential translatability of some cellular mRNAs with pro-or antiviral function.
+1	44	54 stomatitis	Phenotype	HP_0010280
+1	105	116 translation	Gene_function	GO_0006412
+1	123	140 viral translation	Gene_function	GO_0019081
+1	129	140 translation	Gene_function	GO_0006412
+1	167	180 RNA synthesis	Gene_function	GO_0032774
+1	171	180 synthesis	Gene_function	GO_0009058
+1	584	595 translation	Gene_function	GO_0006412
+1	794	803 host cell	Gene_function	GO_0043657
+1	902	910 polysome	Gene_function	GO_0005844
+1	1338	1343 shock	Phenotype	HP_0031273
+1	1378	1389 translation	Gene_function	GO_0006412
+1	1378	1400 translation initiation	Gene_function	GO_0006413
+1	1574	1582 polysome	Gene_function	GO_0005844
+1	1706	1717 translation	Gene_function	GO_0006412
+1	HP-GO	HP_0010280	GO_0006412
+1	HP-GO	HP_0010280	GO_0019081
+1	HP-GO	HP_0010280	GO_0032774
+1	HP-GO	HP_0010280	GO_0009058
+1	HP-GO	HP_0010280	GO_0043657
+1	HP-GO	HP_0010280	GO_0005844
+1	HP-GO	HP_0010280	GO_0006413
+1	GO-HP	GO_0006412	HP_0031273
+1	GO-HP	GO_0019081	HP_0031273
+1	GO-HP	GO_0032774	HP_0031273
+1	GO-HP	GO_0009058	HP_0031273
+1	GO-HP	GO_0043657	HP_0031273
+1	GO-HP	GO_0005844	HP_0031273
+1	HP-GO	HP_0031273	GO_0006413
+
+2|chunk|Viruses co-opt the host translational machinery and frequently suppress host cell protein synthesis. Many positive-strand RNA viruses manipulate initiation factors while bypassing their need for viral protein production using internal ribosome entry sites. Negativestrand RNA viruses and DNA viruses produce mRNAs that contain host-like 5 0 cap-structures and 3 0 polyadenylate tails. Those similarities necessitate a different mechanism for controlling viral versus host protein synthesis. We infected cells with vesicular stomatitis PLOS Pathogens | https://doi.virus and sequenced polysome-associated mRNAs at 2 and 6 hours post-infection providing 2 snapshots of how infection alters translation. We present evidence that the 5 viral mRNAs outcompete cellular mRNAs for ribosomes and demonstrate that individual host mRNAs vary in the extent to which their polysome association is altered by infection. Host mRNAs that are more abundant, have longer half-lives, greater than average length, and a similar AU content to the viral mRNAs were more likely to be enriched among polysome-associated cellular mRNAs. Several of the enriched mRNAs encode proteins that promote viral replication, whereas mRNAs that exhibit the largest decrease in polysome association include those that encode antiviral functions.
+2	72	81 host cell	Gene_function	GO_0043657
+2	235	243 ribosome	Gene_function	GO_0005840
+2	524	534 stomatitis	Phenotype	HP_0010280
+2	861	869 polysome	Gene_function	GO_0005844
+2	1242	1250 polysome	Gene_function	GO_0005844
+2	GO-HP	GO_0043657	HP_0010280
+2	GO-HP	GO_0005840	HP_0010280
+2	HP-GO	HP_0010280	GO_0005844
+
+3|chunk|Control of VSV protein synthesis PLOS Pathogens | https://doi.org/10.
+3	15	32 protein synthesis	Gene_function	GO_0006412
+3	23	32 synthesis	Gene_function	GO_0009058
+

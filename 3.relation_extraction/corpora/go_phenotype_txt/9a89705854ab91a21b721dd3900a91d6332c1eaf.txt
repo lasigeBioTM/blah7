@@ -1,0 +1,62 @@
+0|chunk|Article 189 1 Citation: Yandamuri SS and Lane TE (2016) Imaging Axonal Degeneration and Repair in Preclinical Animal Models of Multiple Sclerosis
+0	64	83 Axonal Degeneration	Phenotype	HP_0040078
+
+1|chunk|Multiple sclerosis (MS) is a central nervous system (CNS) disease characterized by chronic neuroinflammation, demyelination, and axonal damage. Infiltration of activated lymphocytes and myeloid cells are thought to be primarily responsible for white matter damage and axonopathy. Over time, this neurologic damage manifests clinically as debilitating motor and cognitive symptoms. Existing MS therapies focus on symptom relief and delay of disease progression through reduction of neuroinflammation. However, long-term strategies to remyelinate, protect, or regenerate axons have remained elusive, posing a challenge to treating progressive forms of MS. Preclinical mouse models and techniques, such as immunohistochemistry, flow cytometry, and genomic and proteomic analysis have provided advances in our understanding of discrete time-points of pathology following disease induction. More recently, in vivo and in situ two-photon (2P) microscopy has made it possible to visualize continuous real-time cellular behavior and structural changes occurring within the CNS during neuropathology. Research utilizing 2P imaging to study axonopathy in neuroinflammatory demyelinating disease has focused on five areas: (1) axonal morphologic changes, (2) organelle transport and health, (3) relationship to inflammation, (4) neuronal excitotoxicity, and (5) regenerative therapies. 2P imaging may also be used to identify novel therapeutic targets via identification and clarification of dynamic cellular and molecular mechanisms of axonal regeneration and remyelination. Here, we review tools that have made 2P accessible for imaging neuropathologies and advances in our understanding of axonal degeneration and repair in preclinical models of demyelinating diseases.
+1	29	36 central	Phenotype	HP_0030645
+1	83	90 chronic	Phenotype	HP_0011010
+1	629	640 progressive	Phenotype	HP_0003676
+1	1012	1020 behavior	Gene_function	GO_0007610
+1	1248	1257 organelle	Gene_function	GO_0043226
+1	1258	1267 transport	Gene_function	GO_0006810
+1	1526	1545 axonal regeneration	Phenotype	HP_0003450
+1	1533	1545 regeneration	Gene_function	GO_0031099
+1	1682	1701 axonal degeneration	Phenotype	HP_0040078
+1	HP-GO	HP_0030645	GO_0007610
+1	HP-GO	HP_0030645	GO_0043226
+1	HP-GO	HP_0030645	GO_0006810
+1	HP-GO	HP_0030645	GO_0031099
+1	HP-GO	HP_0011010	GO_0007610
+1	HP-GO	HP_0011010	GO_0043226
+1	HP-GO	HP_0011010	GO_0006810
+1	HP-GO	HP_0011010	GO_0031099
+1	HP-GO	HP_0003676	GO_0007610
+1	HP-GO	HP_0003676	GO_0043226
+1	HP-GO	HP_0003676	GO_0006810
+1	HP-GO	HP_0003676	GO_0031099
+1	GO-HP	GO_0007610	HP_0003450
+1	GO-HP	GO_0007610	HP_0040078
+1	GO-HP	GO_0043226	HP_0003450
+1	GO-HP	GO_0043226	HP_0040078
+1	GO-HP	GO_0006810	HP_0003450
+1	GO-HP	GO_0006810	HP_0040078
+1	HP-GO	HP_0003450	GO_0031099
+1	GO-HP	GO_0031099	HP_0040078
+
+2|chunk|Abbreviations: 2d2, MOG peptide 35-55 TCR transgenic; APP, amyloid precursor protein; ATP, adenosine triphosphate; CerTN-L15, troponin C expressing Ca 2+ sensing transgenic animal; CFP, cyan fluorescent protein; EAE, experimental autoimmune/allergic encephalomyelitis; EB3, end-binding protein 3; FAD, focal axonal degeneration; FRET, Frster resonance energy transfer; GECI, genetically encoded Ca 2+ indicator; GFP, green fluorescent protein; JHMV, John Howard Mueller strain of murine hepatitis virus; LFB, Luxol fast blue; MHC, major histocompatibility complex; MOG, myelin oligodendrocyte glycoprotein; MRI, magnetic resonance imaging; MRS, magnetic resonance spectroscopy; MS, multiple sclerosis; NAWM, normal appearing white matter; NPC, neural precursor cell; OT-2, ovalbumin peptide 323-339 TCR transgenic-binding MHC Class II; PLP, proteolipid protein (promoter for mature oligodendrocytes); RAG, recombination activating-gene; RFP, red fluorescent protein; RNS, reactive nitrogen species; ROS, reactive oxygen species; SMI31, Sternberger monoclonal incorporated monoclonal antibody 31; SMI32, Sternberger monoclonal incorporated monoclonal antibody 32; TCR, T-cell receptor; Thy1, thymocyte antigen 1 (promoter for neuron subset); TMEV, Theiler's murine encephalomyelitis virus; TN-XXL, troponin C expressing Ca 2+ sensing transgenic animal; XFP, "X" fluorescent protein (any spectral variant of GFP); YFP, yellow fluorescent protein.
+2	38	41 TCR	Gene_function	GO_0006283
+2	38	41 TCR	Gene_function	GO_0042101
+2	302	307 focal	Phenotype	HP_0030650
+2	488	497 hepatitis	Phenotype	HP_0012115
+2	516	520 fast	Gene_function	GO_0033867
+2	532	564 major histocompatibility complex	Gene_function	GO_0046776
+2	800	803 TCR	Gene_function	GO_0006283
+2	800	803 TCR	Gene_function	GO_0042101
+2	1084	1092 antibody	Gene_function	GO_0003823
+2	1084	1092 antibody	Gene_function	GO_0042571
+2	1151	1159 antibody	Gene_function	GO_0003823
+2	1151	1159 antibody	Gene_function	GO_0042571
+2	1164	1167 TCR	Gene_function	GO_0006283
+2	1164	1167 TCR	Gene_function	GO_0042101
+2	GO-HP	GO_0006283	HP_0030650
+2	GO-HP	GO_0006283	HP_0012115
+2	GO-HP	GO_0042101	HP_0030650
+2	GO-HP	GO_0042101	HP_0012115
+2	HP-GO	HP_0030650	GO_0033867
+2	HP-GO	HP_0030650	GO_0046776
+2	HP-GO	HP_0030650	GO_0003823
+2	HP-GO	HP_0030650	GO_0042571
+2	HP-GO	HP_0012115	GO_0033867
+2	HP-GO	HP_0012115	GO_0046776
+2	HP-GO	HP_0012115	GO_0003823
+2	HP-GO	HP_0012115	GO_0042571
+

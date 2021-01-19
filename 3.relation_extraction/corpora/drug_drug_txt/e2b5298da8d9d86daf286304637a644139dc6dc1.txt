@@ -1,0 +1,106 @@
+0|chunk|Glucose-6-Phosphate Dehydrogenase Enhances Antiviral Response through Downregulation of NADPH Sensor HSCARG and Upregulation of NF-B Signaling
+0	43	52 Antiviral	Chemical	CHEBI_22587
+0	88	93 NADPH	Chemical	CHEBI_16474
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_16474
+
+1|chunk|Glucose-6-phosphate dehydrogenase (G6PD)-deficient cells are highly susceptible to viral infection. This study examined the mechanism underlying this phenomenon by measuring the expression of antiviral genes-tumor necrosis factor alpha (TNF-) and GTPase myxovirus resistance 1 (MX1)-in G6PD-knockdown cells upon human coronavirus 229E (HCoV-229E) and enterovirus 71 (EV71) infection. Molecular analysis revealed that the promoter activities of TNF- and MX1 were downregulated in G6PD-knockdown cells, and that the IB degradation and DNA binding activity of NF-B were decreased. The HSCARG protein, a nicotinamide adenine dinucleotide phosphate (NADPH) sensor and negative regulator of NF-B, was upregulated in G6PD-knockdown cells with decreased NADPH/NADP + ratio. Treatment of G6PD-knockdown cells with siRNA against HSCARG enhanced the DNA binding activity of NF-B and the expression of TNF- and MX1, but suppressed the expression of viral genes; however, the overexpression of HSCARG inhibited the antiviral response. Exogenous G6PD or IDH1 expression inhibited the expression of HSCARG, resulting in increased expression of TNF- and MX1 and reduced viral gene expression upon virus infection. Our findings suggest that the increased susceptibility of the G6PD-knockdown cells to viral infection was due to impaired NF-B signaling and antiviral response mediated by HSCARG.
+1	192	201 antiviral	Chemical	CHEBI_22587
+1	230	235 alpha	Chemical	CHEBI_30216
+1	536	539 DNA	Chemical	CHEBI_16991
+1	604	616 nicotinamide	Chemical	CHEBI_17154
+1	604	647 nicotinamide adenine dinucleotide phosphate	Chemical	CHEBI_18009
+1	617	624 adenine	Chemical	CHEBI_16708
+1	625	637 dinucleotide	Chemical	CHEBI_47885
+1	638	647 phosphate	Chemical	CHEBI_18367
+1	649	654 NADPH	Chemical	CHEBI_16474
+1	751	756 NADPH	Chemical	CHEBI_16474
+1	844	847 DNA	Chemical	CHEBI_16991
+1	1009	1018 antiviral	Chemical	CHEBI_22587
+1	1348	1357 antiviral	Chemical	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_30216
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_17154
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_18009
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16708
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_16991
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_17154
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_18009
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_16708
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_30216	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_17154
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_18009
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_16708
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_16991	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_17154	CHEBI_18009
+1	CHEBI-CHEBI	CHEBI_17154	CHEBI_16708
+1	CHEBI-CHEBI	CHEBI_17154	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_17154	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_17154	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_18009	CHEBI_16708
+1	CHEBI-CHEBI	CHEBI_18009	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_18009	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_18009	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_16708	CHEBI_47885
+1	CHEBI-CHEBI	CHEBI_16708	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_16708	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_47885	CHEBI_18367
+1	CHEBI-CHEBI	CHEBI_47885	CHEBI_16474
+1	CHEBI-CHEBI	CHEBI_18367	CHEBI_16474
+
+2|chunk|Viruses 2015, 7, 6689-6706 deficiency predisposes cells to increased oxidative stress. G6PD-knockdown cells exhibit premature senescence, growth retardation, and increased susceptibility to stress-induced apoptosis [4] [5] [6] . Clinically, in addition to the classical association with hemolytic anemia [7, 8] , patients with G6PD-deficiency have an increased risk of degenerative diseases [9] [10] [11] [12] . G6PD-deficient cells are more susceptible to enterovirus, coronavirus, and dengue virus infections [13] [14] [15] . These findings suggest that the G6PD status, and hence the redox environment, is a risk factor for viral infection. The mechanism underlying the effect of the redox environment on viral replication remains elusive.
+
+3|chunk|Viral replication and spread is inhibited by the antiviral defense mechanisms of the host. The replication and spread normally involves activation of the antiviral innate immune responses and culminates in the production of type I interferons (IFNs) [16] and proinflammatory cytokines such as tumor necrosis factor alpha (TNF-) [17, 18] . Both IFNs and TNF- are antiviral cytokines and display strong antiviral activity in host innate immunity [19] . Type I IFNs are the principal antiviral cytokines produced during the innate immune responses to viral infections, and upregulate antiviral proteins [20] [21] [22] . More than 300 IFN-stimulated genes (ISGs), which are initiated by type I IFN signaling, have been discovered. Some ISG-encoded proteins, such as GTPase myxovirus resistance 1 (MX1) [23], protein kinase R (PKR) [24], and 2 1 -5 1 -oligoadenylate synthetase (OAS) [25] , are implicated in the antiviral state.
+3	49	58 antiviral	Chemical	CHEBI_22587
+3	154	163 antiviral	Chemical	CHEBI_22587
+3	315	320 alpha	Chemical	CHEBI_30216
+3	364	373 antiviral	Chemical	CHEBI_22587
+3	403	412 antiviral	Chemical	CHEBI_22587
+3	483	492 antiviral	Chemical	CHEBI_22587
+3	583	592 antiviral	Chemical	CHEBI_22587
+3	593	601 proteins	Chemical	CHEBI_36080
+3	746	754 proteins	Chemical	CHEBI_36080
+3	806	813 protein	Chemical	CHEBI_16541
+3	910	919 antiviral	Chemical	CHEBI_22587
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_30216
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_30216	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_30216	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+
+4|chunk|Reactive oxygen species (ROS) play crucial roles in many cellular processes including cell proliferation, differentiation, apoptosis, and signal transduction [30] [31] [32] . ROS have also been shown to trigger the signaling process of innate immune responses [33, 34] . Oxidative stress affects viral replication partly by altering host immunity [35, 36] . The inhibitory effect of the G6PD status on viral replication is unknown, which can be attributed to the alteration of the host innate immune response from modulating the redox homeostasis of the host cells.
+4	0	23 Reactive oxygen species	Chemical	CHEBI_26523
+4	9	15 oxygen	Chemical	CHEBI_15379
+4	25	28 ROS	Chemical	CHEBI_26523
+4	175	178 ROS	Chemical	CHEBI_26523
+4	CHEBI-CHEBI	CHEBI_26523	CHEBI_15379
+
+5|chunk|HSCARG, also called NMRAL1, is an NADPH sensor; changes in the NADPH/NADP + ratio can induce allosteric change and the subcellular redistribution of HSCARG [37, 38] . HSCARG regulates the proteolysis of RelA and the phosphorylation of IKK [39] and plays an essential role in NF-B signaling [39] [40] [41] . Moreover, HSCARG suppresses the TNF--stimulated activation of NF-B [40] , suggesting that the NADPH/NADP + ratio or the redox status affects the NF-B-mediated immune response through the modulation of HSCARG. HSCARG can inhibit TRAF3 ubiquitination and negatively regulate the cellular antiviral response [42] . Because of the crucial role of G6PD in maintaining cellular NADPH/NADP + , examining the relationship among the G6PD status, HSCARG, and host innate immune response is worthwhile.
+5	34	39 NADPH	Chemical	CHEBI_16474
+5	63	68 NADPH	Chemical	CHEBI_16474
+5	268	272 role	Chemical	CHEBI_50906
+5	405	410 NADPH	Chemical	CHEBI_16474
+5	598	607 antiviral	Chemical	CHEBI_22587
+5	647	651 role	Chemical	CHEBI_50906
+5	684	689 NADPH	Chemical	CHEBI_16474
+5	CHEBI-CHEBI	CHEBI_16474	CHEBI_50906
+5	CHEBI-CHEBI	CHEBI_16474	CHEBI_22587
+5	CHEBI-CHEBI	CHEBI_50906	CHEBI_22587
+
+6|chunk|This study addresses how the G6PD status affects the innate immune response to viral infection. The expression of viral genes is substantially higher in G6PD-knockdown cells infected with human coronavirus strain 229E (HCoV-229E) and EV71 than in infected control cells. The expression of antiviral genes, such as MX1 and TNF-, is upregulated, albeit to lower levels, in G6PD deficient cells. HSCARG, whose expression is enhanced in G6PD-deficient cells, inhibits IB degradation and the DNA binding activity of NF-B. Exogenous G6PD or isocitrate dehydrogenase 1 (IDH1), which increases cellular NADPH/NADP + , restores NF-B-mediated antiviral response. These findings demonstrate that G6PD activity, and hence NADPH/NADP + status, can affect antiviral immunity through the modulation of HSCARG and the NF-B signaling cascade.
+6	289	298 antiviral	Chemical	CHEBI_22587
+6	489	492 DNA	Chemical	CHEBI_16991
+6	538	548 isocitrate	Chemical	CHEBI_16087
+6	637	646 antiviral	Chemical	CHEBI_22587
+6	746	755 antiviral	Chemical	CHEBI_22587
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_16991
+6	CHEBI-CHEBI	CHEBI_22587	CHEBI_16087
+6	CHEBI-CHEBI	CHEBI_16991	CHEBI_16087
+

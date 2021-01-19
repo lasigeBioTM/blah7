@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<document id="bdcfff55eaabeaa26d71810113d717ef85e417d1">
+  <chunk id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c0" text="MIMOX: a web tool for phage display based epitope mapping">
+    <entity charOffset="42-49" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c0.e0" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+  </chunk>
+  <chunk id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c1" text="Background: Phage display is widely used in basic research such as the exploration of proteinprotein interaction sites and networks, and applied research such as the development of new drugs, vaccines, and diagnostics. It has also become a promising method for epitope mapping. Research on new algorithms that assist and automate phage display based epitope mapping has attracted many groups. Most of the existing tools have not been implemented as an online service until now however, making it less convenient for the community to access, utilize, and evaluate them.">
+    <entity charOffset="261-268" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c1.e0" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="350-357" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c1.e1" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+  </chunk>
+  <chunk id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2" text="We present MIMOX, a free web tool that helps to map the native epitope of an antibody based on one or more user supplied mimotopes and the antigen structure. MIMOX was coded in Perl using modules from the Bioperl project. It has two sections. In the first section, MIMOX provides a simple interface for ClustalW to align a set of mimotopes. It also provides a simple statistical method to derive the consensus sequence and embeds JalView as a Java applet to view and manage the alignment. In the second section, MIMOX can map a single mimotope or a consensus sequence of a set of mimotopes, on to the corresponding antigen structure and search for all of the clusters of residues that could represent the native epitope. NACCESS is used to evaluate the surface accessibility of the candidate clusters; and Jmol is embedded to view them interactively in their 3D context. Initial case studies show that MIMOX can reproduce mappings from existing tools such as FINDMAP and 3DEX, as well as providing novel, rational results.">
+    <entity charOffset="63-70" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="139-146" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="467-473" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" ontology_id="CHEBI_81767" text="manage" type="chemical"/>
+    <entity charOffset="535-543" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" ontology_id="CHEBI_60218" text="mimotope" type="chemical"/>
+    <entity charOffset="615-622" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="659-667" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <entity charOffset="712-719" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+    <entity charOffset="792-800" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" ontology_id="CHEBI_33731" text="clusters" type="chemical"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p0" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p1" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p2" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p3" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p4" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e0" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p5" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p6" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p7" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p8" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p9" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e1" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p10" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p11" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p12" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p13" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p14" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e2" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p15" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p16" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p17" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p18" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e3" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p19" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p20" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p21" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e4" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p22" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e5" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p23" relation="true"/>
+    <pair e1="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e6" e2="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.e7" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c2.p24" relation="true"/>
+  </chunk>
+  <chunk id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c3" text="A web-based tool called MIMOX has been developed for phage display based epitope mapping. As a publicly available online service in this area, it is convenient for the community to access, utilize, and evaluate, complementing other existing programs. MIMOX is freely available at">
+    <entity charOffset="73-80" id="bdcfff55eaabeaa26d71810113d717ef85e417d1.c3.e0" ontology_id="CHEBI_53000" text="epitope" type="chemical"/>
+  </chunk>
+</document>

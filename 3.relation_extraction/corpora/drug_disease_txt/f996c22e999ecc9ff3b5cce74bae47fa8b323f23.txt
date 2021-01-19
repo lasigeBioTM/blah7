@@ -1,0 +1,26 @@
+0|chunk|Dengue virus compartmentalization during antibody-enhanced infection OPEN
+
+1|chunk|. We previously reported that co-ligation of leukocyte immunoglobulin-like receptor-B1 (LILRB1) by antibody-opsonized DENV led to recruitment of SH2 domain-containing phosphatase-1 (SHP-1) to dephosphorylate spleen tyrosine kinase (Syk) and reduce interferon stimulated gene induction. Here, we show that LILRB1 also signals through SHP-1 to attenuate the otherwise rapid acidification for lysosomal enzyme activation following FcR-mediated uptake of DENV. Reduced or slower trafficking of antibody-opsonized DENV to lytic phagolysosomal compartments, demonstrates how co-ligation of LILRB1 also permits DENV to overcome a cellautonomous immune response, enhancing intracellular survival of DENV. Our findings provide insights on how antiviral drugs that modify phagosome acidification should be used for viruses such as DENV.
+1	215	223 tyrosine	Chemical	CHEBI_17895
+1	215	223 tyrosine	Chemical	CHEBI_18186
+1	248	258 interferon	Chemical	CHEBI_52999
+1	735	744 antiviral	Chemical	CHEBI_22587
+1	735	750 antiviral drugs	Chemical	CHEBI_36044
+1	745	750 drugs	Chemical	CHEBI_23888
+
+2|chunk|Over the last decade alone, the global burden of dengue has doubled, with an estimated 50 to 100 million symptomatic cases annually 1 . The risk of severe disease is augmented when dengue virus (DENV) is opsonized with non-or sub-neutralizing levels of antibodies that ligate Fc-gamma receptors (Fc Rs) for enhanced entry and replication in monocytes, macrophages and dendritic cells. This phenomenon, termed antibody-dependent enhancement (ADE), engenders the elevated viraemia and vascular leakage that is characteristic of severe dengue. Indeed, we have recently demonstrated ADE clinically and identified how this process could be exploited to enhance live attenuated viral vaccination 2 .
+2	155	162 disease	Disease	DOID_4
+2	580	583 ADE	Chemical	CHEBI_16708
+2	DOID-CHEBI	DOID_4	CHEBI_16708
+
+3|chunk|ADE modifies DENV entry into target cells through Fc R. However, activation of various receptor-mediated pathways, such as downregulation of intracellular innate and adaptive antiviral mechanisms, could also contribute to enhanced dengue pathogenesis 3 . Activating Fc Rs are known to signal through phosphorylation of immunoreceptor tyrosine-based activation motif (ITAM) and spleen tyrosine kinase (Syk) 4 . Activated Syk controls a number of pathways, including actin remodelling necessary for phagocytosis 5 and STAT-1-dependent interferon-stimulated gene (ISG) induction independent of interferon receptor signaling 4 . Induction of ISGs would create an intracellular environment unfavorable for enhanced DENV replication. To counter this early activating Fc R-triggered antiviral response, DENV co-ligates the inhibitory leukocyte immunoglobulin-like receptor B1 (LILRB1) during ADE 6 . LILRB1 recruits SH2 domain-containing phosphatase-1 (SHP-1) to dephosphorylate Syk and downregulate STAT-1 induction of ISG response 6,7 .
+3	0	3 ADE	Chemical	CHEBI_16708
+3	176	185 antiviral	Chemical	CHEBI_22587
+3	386	394 tyrosine	Chemical	CHEBI_17895
+3	386	394 tyrosine	Chemical	CHEBI_18186
+3	593	603 interferon	Chemical	CHEBI_52999
+3	779	788 antiviral	Chemical	CHEBI_22587
+3	888	891 ADE	Chemical	CHEBI_16708
+
+4|chunk|Besides inhibiting early ISG induction, it is also possible that DENV alters cellular compartmentalization, which is a cell-autonomous immune response 8 , for enhanced replication by co-ligating LILRB1. This is especially since the ITAM-Syk signaling axis also governs Fc R-mediated phagocytosis 5 . Previous studies focusing on cellular uptake of DENV were performed on epithelial cell lines such as C6/36, Vero, BS-C-1 and Huh-7 9-12 , that collectively showed that DENV enters the host cell via clathrin-mediated endocytosis. DENV is then trafficked in Rab5 (early) and Rab7 (late) endosomes, before undergoing fusion in acidic late endosomes. However, DENV uptake and trafficking routes may vary according to type of host cell and the type of receptor used for entry 9-12 . Moreover, our understanding of DENV trafficking following Fc R-mediated uptake, and the implication of how
+

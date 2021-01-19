@@ -1,0 +1,89 @@
+0|chunk|High Throughput Screening for Small Molecule Enhancers of the Interferon Signaling Pathway to Drive Next-Generation Antiviral Drug Discovery
+0	36	44 Molecule	Chemical	CHEBI_25367
+0	62	72 Interferon	Chemical	CHEBI_52999
+0	83	90 Pathway	Chemical	CHEBI_34922
+0	116	125 Antiviral	Chemical	CHEBI_22587
+0	116	130 Antiviral Drug	Chemical	CHEBI_36044
+0	126	130 Drug	Chemical	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_52999
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_34922
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_22587
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_36044
+0	CHEBI-CHEBI	CHEBI_25367	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_52999	CHEBI_34922
+0	CHEBI-CHEBI	CHEBI_52999	CHEBI_22587
+0	CHEBI-CHEBI	CHEBI_52999	CHEBI_36044
+0	CHEBI-CHEBI	CHEBI_52999	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_34922	CHEBI_22587
+0	CHEBI-CHEBI	CHEBI_34922	CHEBI_36044
+0	CHEBI-CHEBI	CHEBI_34922	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_36044
+0	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+0	CHEBI-CHEBI	CHEBI_36044	CHEBI_23888
+
+1|chunk|Most of current strategies for antiviral therapeutics target the virus specifically and directly, but an alternative approach to drug discovery might be to enhance the immune response to a broad range of viruses. Based on clinical observation in humans and successful genetic strategies in experimental models, we reasoned that an improved interferon (IFN) signaling system might better protect against viral infection. Here we aimed to identify small molecular weight compounds that might mimic this beneficial effect and improve antiviral defense. Accordingly, we developed a cell-based high-throughput screening (HTS) assay to identify small molecules that enhance the IFN signaling pathway components. The assay is based on a phenotypic screen for increased IFN-stimulated response element (ISRE) activity in a fully automated and robust format (Z9.0.7). Application of this assay system to a library of 2240 compounds (including 2160 already approved or approvable drugs) led to the identification of 64 compounds with significant ISRE activity. From these, we chose the anthracycline antibiotic, idarubicin, for further validation and mechanism based on activity in the sub-mM range. We found that idarubicin action to increase ISRE activity was manifest by other members of this drug class and was independent of cytotoxic or topoisomerase inhibitory effects as well as endogenous IFN signaling or production. We also observed that this compound conferred a consequent increase in IFN-stimulated gene (ISG) expression and a significant antiviral effect using a similar dose-range in a cell-culture system inoculated with encephalomyocarditis virus (EMCV). The antiviral effect was also found at compound concentrations below the ones observed for cytotoxicity. Taken together, our results provide proof of concept for using activators of components of the IFN signaling pathway to improve IFN efficacy and antiviral immune defense as well as a validated HTS approach to identify small molecules that might achieve this therapeutic benefit.
+1	31	40 antiviral	Chemical	CHEBI_22587
+1	129	133 drug	Chemical	CHEBI_23888
+1	340	350 interferon	Chemical	CHEBI_52999
+1	531	540 antiviral	Chemical	CHEBI_22587
+1	645	654 molecules	Chemical	CHEBI_25367
+1	686	693 pathway	Chemical	CHEBI_34922
+1	786	793 element	Chemical	CHEBI_33250
+1	859	870 Application	Chemical	CHEBI_33232
+1	970	975 drugs	Chemical	CHEBI_23888
+1	1076	1089 anthracycline	Chemical	CHEBI_48120
+1	1102	1112 idarubicin	Chemical	CHEBI_42068
+1	1204	1214 idarubicin	Chemical	CHEBI_42068
+1	1215	1221 action	Chemical	CHEBI_5133
+1	1286	1290 drug	Chemical	CHEBI_23888
+1	1543	1552 antiviral	Chemical	CHEBI_22587
+1	1667	1676 antiviral	Chemical	CHEBI_22587
+1	1877	1884 pathway	Chemical	CHEBI_34922
+1	1913	1922 antiviral	Chemical	CHEBI_22587
+1	1992	2001 molecules	Chemical	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_23888
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_52999
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_23888	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_25367
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_52999	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_34922
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_25367	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_33250
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_34922	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_33250	CHEBI_33232
+1	CHEBI-CHEBI	CHEBI_33250	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_33250	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_33250	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_33232	CHEBI_48120
+1	CHEBI-CHEBI	CHEBI_33232	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_33232	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_48120	CHEBI_42068
+1	CHEBI-CHEBI	CHEBI_48120	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_42068	CHEBI_5133
+

@@ -1,0 +1,37 @@
+0|chunk|Extensive coronavirus-induced membrane rearrangements are not a determinant of pathogenicity OPEN
+0	30	38 membrane	Gene_function	GO_0016020
+
+1|chunk|Beau-R with the pathogenic lab strain M41 to determine whether membrane rearrangements are strain dependent. Interestingly, M41 was found to have a low spherule phenotype. We then compared a panel of pathogenic, mild and attenuated IBV strains in ex vivo tracheal organ culture (TOC). Although the low spherule phenotype of M41 was conserved in TOCs, each of the other tested IBV strains produced DMVs, zippered ER and spherules. Furthermore, there was a significant correlation for the presence of DMVs with spherules, suggesting that these structures are spatially and temporally linked. Our data indicate that virus induced membrane rearrangements are fundamentally linked to the viral replicative machinery. However, coronavirus replicative apparatus clearly has the plasticity to function in different structural contexts.
+1	63	71 membrane	Gene_function	GO_0016020
+1	212	216 mild	Phenotype	HP_0012825
+1	627	635 membrane	Gene_function	GO_0016020
+1	GO-HP	GO_0016020	HP_0012825
+
+2|chunk|All positive-strand RNA (+ RNA) viruses studied to date induce the rearrangement of cellular membranes during infection to facilitate viral RNA synthesis and assembly of RNA synthesis machinery into replication-transcription complexes (reviewed in 1-4 ). The types of membrane structures that are induced varies between different families of + RNA viruses but includes single membrane and double membrane vesicles, contiguous vesicles, convoluted membranes (CM), paired membranes and spherules. The source of rearranged membranes also varies between different families of + RNA viruses and can be from intracellular vesicles, endoplasmic reticulum, mitochondria and the plasma membrane. It has long been observed that Betacoronaviruses induce the formation of double membrane vesicles (DMVs) during infection of a host cell, along with a reticular network of membranes called convoluted membrane 5-12 . During SARS-coronavirus (SARS-CoV) infection, both of these structures were shown to be derived from and linked to cellular ER, as well as linked to each other 10 . More recently, comparable structures were also found in cells infected with Alphacoronaviruses 13 . The Coronavirinae subfamily is divided into four genera, with an ancestral split giving rise to one progenitor for the Alpha-and Beta-genera and a second progenitor for the Gamma-and Delta-genera. Interestingly, in our recent work studying avian Gammacoronavirus infectious bronchitis virus (IBV), subtle, but potentially significant, differences in the nature of virus induced membrane rearrangements were reported. Specifically, CM was not observed to any great extent and instead regions of ER were found to become zippered together and tethered to this were pinched out spherules with a neck and channel connecting the spherule interior to the cytoplasm 14 . Consistent with observations from other coronaviruses, IBV infection also induced the formation of DMVs. Although detailed understanding of the function of rearranged membranes in the replication of coronaviruses and numerous other + RNA viruses remains to be determined, the conserved process of membrane rearrangement for the whole virus class, and the close association of replicase proteins and products of RNA synthesis with rearranged membranes strongly supports the hypothesis that they play a key role in viral RNA synthesis. Therefore, further study of these likely
+2	140	153 RNA synthesis	Gene_function	GO_0032774
+2	144	153 synthesis	Gene_function	GO_0009058
+2	170	183 RNA synthesis	Gene_function	GO_0032774
+2	174	183 synthesis	Gene_function	GO_0009058
+2	268	276 membrane	Gene_function	GO_0016020
+2	376	384 membrane	Gene_function	GO_0016020
+2	396	404 membrane	Gene_function	GO_0016020
+2	602	615 intracellular	Gene_function	GO_0005622
+2	649	661 mitochondria	Gene_function	GO_0005739
+2	677	685 membrane	Gene_function	GO_0016020
+2	767	775 membrane	Gene_function	GO_0016020
+2	887	895 membrane	Gene_function	GO_0016020
+2	1442	1452 bronchitis	Phenotype	HP_0012387
+2	1546	1554 membrane	Gene_function	GO_0016020
+2	1816	1825 cytoplasm	Gene_function	GO_0005737
+2	2128	2136 membrane	Gene_function	GO_0016020
+2	2242	2255 RNA synthesis	Gene_function	GO_0032774
+2	2246	2255 synthesis	Gene_function	GO_0009058
+2	2350	2363 RNA synthesis	Gene_function	GO_0032774
+2	2354	2363 synthesis	Gene_function	GO_0009058
+2	GO-HP	GO_0032774	HP_0012387
+2	GO-HP	GO_0009058	HP_0012387
+2	GO-HP	GO_0016020	HP_0012387
+2	GO-HP	GO_0005622	HP_0012387
+2	GO-HP	GO_0005739	HP_0012387
+2	HP-GO	HP_0012387	GO_0005737
+

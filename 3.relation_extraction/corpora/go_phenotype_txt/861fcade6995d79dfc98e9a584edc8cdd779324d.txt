@@ -1,0 +1,78 @@
+0|chunk|cells Regulation of Ribosomal Proteins on Viral Infection
+0	42	57 Viral Infection	Gene_function	GO_0016032
+
+1|chunk|Ribosomal proteins (RPs), in conjunction with rRNA, are major components of ribosomes involved in the cellular process of protein biosynthesis, known as "translation". The viruses, as the small infectious pathogens with limited genomes, must recruit a variety of host factors to survive and propagate, including RPs. At present, more and more information is available on the functional relationship between RPs and virus infection. This review focuses on advancements in my own understanding of critical roles of RPs in the life cycle of viruses. Various RPs interact with viral mRNA and proteins to participate in viral protein biosynthesis and regulate the replication and infection of virus in host cells. Most interactions are essential for viral translation and replication, which promote viral infection and accumulation, whereas the minority represents the defense signaling of host cells by activating immune pathway against virus. RPs provide a new platform for antiviral therapy development, however, at present, antiviral therapeutics with RPs involving in virus infection as targets is limited, and exploring antiviral strategy based on RPs will be the guides for further study.
+1	102	118 cellular process	Gene_function	GO_0009987
+1	122	142 protein biosynthesis	Gene_function	GO_0006412
+1	130	142 biosynthesis	Gene_function	GO_0009058
+1	615	641 viral protein biosynthesis	Gene_function	GO_0019081
+1	621	641 protein biosynthesis	Gene_function	GO_0006412
+1	629	641 biosynthesis	Gene_function	GO_0009058
+1	745	762 viral translation	Gene_function	GO_0019081
+1	751	762 translation	Gene_function	GO_0006412
+1	794	809 viral infection	Gene_function	GO_0016032
+1	872	881 signaling	Gene_function	GO_0023052
+
+2|chunk|The predominant translation initiation pathway of cellular mRNA is cap-dependent, which requires recognition of mRNA 5 cap by the eukaryotic initiation factor 4E (eIF4E). eIF4E interacts with eIF4G and eIF4A to form the cap binding complex (eIF4F), recruiting the 40S subunit to the 5 end of mRNA ( Figure 1A) [11]. However, many viral mRNAs have no 5 cap structures. The cap-snatching from host mRNA is an effective strategy [12, 13] , while some RNA viruses utilize a cap-independent manner to recruit the ribosome, which is mediated by the internal ribosome entry site (IRES) [14] [15] [16] .
+2	16	27 translation	Gene_function	GO_0006412
+2	16	38 translation initiation	Gene_function	GO_0006413
+2	224	231 binding	Gene_function	GO_0005488
+2	508	516 ribosome	Gene_function	GO_0005840
+2	552	560 ribosome	Gene_function	GO_0005840
+
+3|chunk|IRES is a cis-element in 5 untranslated region (UTR) of viral mRNA, and it can recruit ribosomes to initiate the synthesis of viral proteins [17, 18] . According to the secondary structure, required initiation factors (eIFs) and location of the start codon relative to IRES, viral IRESs are functionally divided into four groups (IRES 1-4) [19] . IRES-1, from the intergenic region (IGR) of Dicistroviridae family that infects invertebrate, is the most streamlined IRES, because it recruits the 40S and 60S subunits to form functional 80S complexes in the absence of any eIFs [19] [20] [21] . Cricket paralysis virus (CrPV), Plautia stali intestine virus (PSIV) and Taura syndrome virus (TSV) are typical members in this group [19] . IRES-2 needs a subset of the canonical eIFs (eIF3, eIF2) and Met-tRNA to bind to 40S subunit [19] . This group is mainly from Flaviviridae family that infects mammal, with Hepatitis C virus (HCV) and Classical swine fever virus (CSFV) as typical members [19, 22, 23] . For IRES-3 (including Encephalomyocarditis virus and Foot-and-mouth disease virus, etc.) and IRES-4 (including poliovirus and rhinovirus, etc.), besides some canonical eIFs and Met-tRNA, additional proteins named IRES trans-activating factors (ITAFs) are also required to bind ribosome [14, 15, 19, 24] . However, even in the simplest system, an intricate reaction network regulates translation initiation, in which RPs are essential [18, 25] .
+3	113	122 synthesis	Gene_function	GO_0009058
+3	601	610 paralysis	Phenotype	HP_0003470
+3	785	789 eIF2	Gene_function	GO_0005850
+3	906	915 Hepatitis	Phenotype	HP_0012115
+3	950	955 fever	Phenotype	HP_0001945
+3	1280	1288 ribosome	Gene_function	GO_0005840
+3	1386	1397 translation	Gene_function	GO_0006412
+3	GO-HP	GO_0009058	HP_0003470
+3	GO-HP	GO_0009058	HP_0012115
+3	GO-HP	GO_0009058	HP_0001945
+3	HP-GO	HP_0003470	GO_0005850
+3	HP-GO	HP_0003470	GO_0005840
+3	HP-GO	HP_0003470	GO_0006412
+3	GO-HP	GO_0005850	HP_0012115
+3	GO-HP	GO_0005850	HP_0001945
+3	HP-GO	HP_0012115	GO_0005840
+3	HP-GO	HP_0012115	GO_0006412
+3	HP-GO	HP_0001945	GO_0005840
+3	HP-GO	HP_0001945	GO_0006412
+
+4|chunk|Although IRES-1 and IRES-2 both induce a conformational change in the ribosome upon binding [23, 26, 27] , their binding sites to 40S subunit are different. IRES-1 binds to the intersubunit surface of 40S subunit occupying the peptidyl (P) and exit (E) sites [27] , and IRES-2 binds to the solvent side of 40S subunit and occupies E site [28] . The binding to 40S subunit of IRES-2 is regulated by RPS5 with its -hairpin structure, independently of RPS25 (a RPS5 neighbor situated in the head domain of 40S subunit) ( Figure 1D ) [29] [30] [31] [32] [33] . Whereas IRES-1 depends on RPS25 for binding to 40S subunit ( Figure 1C ) [18, 31, 34] , in which RPS5 could maintain the accuracy of translation in eukaryotes [35] . RPS25 is non-essential in viral cap-dependent translation, but it plays a critical role in all viral IRES-mediated translation. The propagation of HCV and poliovirus is impaired in cells depleted of RPS25 [31]. This is because, after 40S subunit recruitment, all groups of IRESs rely on RPS25 for efficient translation ( Figure 1C ,D) [31, 34, 36] . RPS25 likely functions in a downstream step, such as loading of viral mRNA into 40S subunit, start codon recognition, or 60S subunit joining [31, 36] . When cap-dependent translation initiation is hindered, the 5 leader of human immunodeficiency virus type 1 (HIV-1) genomic RNA can fold into IRES to recruit 40S subunit and drive translation initiation of viral Gag protein, in which the activity of IRES is also dependent on RPS25 [37] . RACK1, as ribosome scaffold protein, is also required for viral IRES-2-mediated translation, and the effect of RACK1 may associate with eIF3 to assemble a translation preinitiation complex [38] . In addition, it is demonstrated that the intracellular level of 40S subunit plays a key role in facilitating HCV translation over host translation, and the translation initiation of HCV IRES and host mRNA possess different susceptibility for reduction of 40S subunit [39] . RPS2 (p40), RPS3a, RPS14 and RPS16 can interact with HCV
+4	70	78 ribosome	Gene_function	GO_0005840
+4	84	91 binding	Gene_function	GO_0005488
+4	113	120 binding	Gene_function	GO_0005488
+4	349	356 binding	Gene_function	GO_0005488
+4	594	601 binding	Gene_function	GO_0005488
+4	691	702 translation	Gene_function	GO_0006412
+4	770	781 translation	Gene_function	GO_0006412
+4	839	850 translation	Gene_function	GO_0006412
+4	1031	1042 translation	Gene_function	GO_0006412
+4	1167	1190 start codon recognition	Gene_function	GO_0003743
+4	1245	1256 translation	Gene_function	GO_0006412
+4	1245	1267 translation initiation	Gene_function	GO_0006413
+4	1303	1319 immunodeficiency	Phenotype	HP_0002721
+4	1405	1416 translation	Gene_function	GO_0006412
+4	1405	1427 translation initiation	Gene_function	GO_0006413
+4	1524	1532 ribosome	Gene_function	GO_0005840
+4	1594	1605 translation	Gene_function	GO_0006412
+4	1650	1654 eIF3	Gene_function	GO_0005852
+4	1669	1680 translation	Gene_function	GO_0006412
+4	1669	1702 translation preinitiation complex	Gene_function	GO_0070993
+4	1751	1764 intracellular	Gene_function	GO_0005622
+4	1823	1834 translation	Gene_function	GO_0006412
+4	1845	1856 translation	Gene_function	GO_0006412
+4	1866	1877 translation	Gene_function	GO_0006412
+4	1866	1888 translation initiation	Gene_function	GO_0006413
+4	GO-HP	GO_0005840	HP_0002721
+4	GO-HP	GO_0005488	HP_0002721
+4	GO-HP	GO_0006412	HP_0002721
+4	GO-HP	GO_0003743	HP_0002721
+4	GO-HP	GO_0006413	HP_0002721
+4	HP-GO	HP_0002721	GO_0005852
+4	HP-GO	HP_0002721	GO_0070993
+4	HP-GO	HP_0002721	GO_0005622
+

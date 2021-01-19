@@ -1,0 +1,11 @@
+0|chunk|Integration of the Gene Ontology into an object-oriented architecture
+
+1|chunk|To standardize gene product descriptions, a formal vocabulary defined as the Gene Ontology (GO) has been developed. GO terms have been categorized into biological processes, molecular functions, and cellular components. However, there is no single representation that integrates all the terms into one cohesive model. Furthermore, GO definitions have little information explaining the underlying architecture that forms these terms, such as the dynamic and static events occurring in a process. In contrast, object-oriented models have been developed to show dynamic and static events. A portion of the TGF-beta signaling pathway, which is involved in numerous cellular events including cancer, differentiation and development, was used to demonstrate the feasibility of integrating the Gene Ontology into an object-oriented model.
+1	612	621 signaling	Gene_function	GO_0023052
+
+2|chunk|Using object-oriented models we have captured the static and dynamic events that occur during a representative GO process, "transforming growth factor-beta (TGF-beta) receptor complex assembly" (GO:0007181).
+2	137	143 growth	Gene_function	GO_0040007
+2	167	183 receptor complex	Gene_function	GO_0043235
+
+3|chunk|We demonstrate that the utility of GO terms can be enhanced by object-oriented technology, and that the GO terms can be integrated into an object-oriented model by serving as a basis for the generation of object functions and attributes.
+

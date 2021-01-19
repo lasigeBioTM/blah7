@@ -1,0 +1,28 @@
+0|chunk|The YXX motif within the severe acute respiratory syndrome coronavirus (SARS-CoV) 3a protein is crucial for its intracellular transport
+0	26	32 severe	Phenotype	HP_0012828
+0	33	38 acute	Phenotype	HP_0011009
+0	113	126 intracellular	Gene_function	GO_0005622
+0	113	136 intracellular transport	Gene_function	GO_0046907
+0	127	136 transport	Gene_function	GO_0006810
+0	HP-GO	HP_0012828	GO_0005622
+0	HP-GO	HP_0012828	GO_0046907
+0	HP-GO	HP_0012828	GO_0006810
+0	HP-GO	HP_0011009	GO_0005622
+0	HP-GO	HP_0011009	GO_0046907
+0	HP-GO	HP_0011009	GO_0006810
+
+1|chunk|Background: The SARS coronavirus (SARS-CoV) 3a protein functions as an ion channel, induces apoptosis and is important for viral pathogenesis. It is expressed on the cell surface and contains a tyrosine-based sorting motif and a di-acidic motif, which may be crucial for its intracellular trafficking. However the role of these motifs is not fully understood in the case of 3a protein.
+1	166	178 cell surface	Gene_function	GO_0009986
+1	275	288 intracellular	Gene_function	GO_0005622
+
+2|chunk|The subcellular distribution of the 3a protein was studied by immunofluorescence staining of cells transfected with wild type and mutant constructs along with markers for different intracellular compartments. Semi-quantitative RT-PCR was performed to estimate the mRNA where as western blotting was carried out to detect protein levels of wild type and mutant 3a proteins. In vitro transcription-translation was performed to estimate cell free protein synthesis.
+2	181	194 intracellular	Gene_function	GO_0005622
+
+3|chunk|Results: While the wild type 3a protein is efficiently transported to the plasma membrane, the protein with mutations in the tyrosine and valine residues within the YXXV motif (YXX) accumulated in the Golgi compartment. However the 3a protein with mutations within the EXD di-acidic motif (EXD) showed an intracellular distribution similar to the wild type protein. Increased retention of the YXX protein in the Golgi compartment also increased its association with lipid droplets. The YXX protein also expressed at significantly lower levels compared to the wild type 3a protein, which was reversed with Brefeldin A and Aprotinin.
+3	308	321 intracellular	Gene_function	GO_0005622
+
+4|chunk|The data suggest that the YXX motif of the SARS-CoV 3a protein is necessary for Golgi to plasma membrane transport, in the absence of which the protein is targeted to lysosomal degradation compartment via lipid droplets.
+4	90	105 plasma membrane	Gene_function	GO_0005886
+4	97	105 membrane	Gene_function	GO_0016020
+4	178	189 degradation	Gene_function	GO_0009056
+

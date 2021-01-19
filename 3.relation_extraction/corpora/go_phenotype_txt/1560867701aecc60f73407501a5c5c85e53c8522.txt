@@ -1,0 +1,25 @@
+0|chunk|MAVS-Mediated Apoptosis and Its Inhibition by Viral Proteins
+
+1|chunk|Background: Host responses to viral infection include both immune activation and programmed cell death. The mitochondrial antiviral signaling adaptor, MAVS (IPS-1, VISA or Cardif) is critical for host defenses to viral infection by inducing type-1 interferons (IFN-I), however its role in virus-induced apoptotic responses has not been elucidated.
+1	30	45 viral infection	Gene_function	GO_0016032
+1	81	102 programmed cell death	Gene_function	GO_0012501
+1	108	121 mitochondrial	Phenotype	HP_0001427
+1	132	141 signaling	Gene_function	GO_0023052
+1	213	228 viral infection	Gene_function	GO_0016032
+1	GO-HP	GO_0016032	HP_0001427
+1	GO-HP	GO_0012501	HP_0001427
+1	HP-GO	HP_0001427	GO_0023052
+
+2|chunk|Principal Findings: We show that MAVS causes apoptosis independent of its function in initiating IFN-I production. MAVSinduced cell death requires mitochondrial localization, is caspase dependent, and displays hallmarks of apoptosis. Furthermore, MAVS 2/2 fibroblasts are resistant to Sendai virus-induced apoptosis. A functional screen identifies the hepatitis C virus NS3/4A and the Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) nonstructural protein (NSP15) as inhibitors of MAVS-induced apoptosis, possibly as a method of immune evasion.
+2	127	137 cell death	Gene_function	GO_0008219
+2	147	160 mitochondrial	Phenotype	HP_0001427
+2	352	361 hepatitis	Phenotype	HP_0012115
+2	385	391 Severe	Phenotype	HP_0012828
+2	392	397 Acute	Phenotype	HP_0011009
+2	GO-HP	GO_0008219	HP_0001427
+2	GO-HP	GO_0008219	HP_0012115
+2	GO-HP	GO_0008219	HP_0012828
+2	GO-HP	GO_0008219	HP_0011009
+
+3|chunk|Significance: This study describes a novel role for MAVS in controlling viral infections through the induction of apoptosis, and identifies viral proteins which inhibit this host response. Citation: Lei Y, Moore CB, Liesman RM, O'Connor BP, Bergstralh DT, et al. (2009) MAVS-Mediated Apoptosis and Its Inhibition by Viral Proteins. PLoS ONE 4(5): e5466.
+

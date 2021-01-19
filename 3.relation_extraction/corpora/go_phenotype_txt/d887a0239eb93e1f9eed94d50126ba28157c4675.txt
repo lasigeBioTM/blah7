@@ -1,0 +1,27 @@
+0|chunk|The impact of the interferon-lambda family on the innate and adaptive immune response to viral infections
+0	61	85 adaptive immune response	Gene_function	GO_0002250
+0	70	85 immune response	Gene_function	GO_0006955
+
+1|chunk|Type-III interferons (IFN-l, IFNL) are the most recently described family of IFNs. This family of innate cytokines are increasingly being ascribed pivotal roles in host-pathogen interactions. Herein, we will review the accumulating evidence detailing the immune biology of IFNL during viral infection, and the implications of this novel information on means to advance the development of therapies and vaccines against existing and emerging pathogens. IFNLs exert antiviral effects via induction of IFN-stimulated genes. Common single nucleotide polymorphisms (SNPs) in the IFNL3, IFNL4 and the IFNL receptor a-subunit genes have been strongly associated with IFN-a-based treatment of chronic hepatitis C virus infection. The clinical impact of these SNPs may be dependent on the status of viral infection (acute or chronic) and the potential to develop viral resistance. Another important function of IFNLs is macrophage and dendritic cell polarization, which prime helper T-cell activation and proliferation. It has been demonstrated that IFNL increase Th1and reduce Th2-cytokines. Therefore, can such SNPs affect the IFNL signaling and thereby modulate the Th1/Th2 balance during infection? In turn, this may influence the subsequent priming of cytotoxic T cells versus antibody-secreting B cells, with implications for the breadth and durability of the host response.
+1	285	300 viral infection	Gene_function	GO_0016032
+1	685	692 chronic	Phenotype	HP_0011010
+1	685	702 chronic hepatitis	Phenotype	HP_0200123
+1	693	702 hepatitis	Phenotype	HP_0012115
+1	790	805 viral infection	Gene_function	GO_0016032
+1	807	812 acute	Phenotype	HP_0011009
+1	816	823 chronic	Phenotype	HP_0011010
+1	974	991 T-cell activation	Gene_function	GO_0042110
+1	1125	1134 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0016032	HP_0011010
+1	GO-HP	GO_0016032	HP_0200123
+1	GO-HP	GO_0016032	HP_0012115
+1	GO-HP	GO_0016032	HP_0011009
+1	HP-GO	HP_0011010	GO_0042110
+1	HP-GO	HP_0011010	GO_0023052
+1	HP-GO	HP_0200123	GO_0042110
+1	HP-GO	HP_0200123	GO_0023052
+1	HP-GO	HP_0012115	GO_0042110
+1	HP-GO	HP_0012115	GO_0023052
+1	HP-GO	HP_0011009	GO_0042110
+1	HP-GO	HP_0011009	GO_0023052
+

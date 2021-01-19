@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<document id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0">
+  <chunk id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c0" text="Classification of viral zoonosis through receptor pattern analysis"/>
+  <chunk id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1" text="Background: Viral zoonosis, the transmission of a virus from its primary vertebrate reservoir species to humans, requires ubiquitous cellular proteins known as receptor proteins. Zoonosis can occur not only through direct transmission from vertebrates to humans, but also through intermediate reservoirs or other environmental factors. Viruses can be categorized according to genotype (ssDNA, dsDNA, ssRNA and dsRNA viruses). Among them, the RNA viruses exhibit particularly high mutation rates and are especially problematic for this reason. Most zoonotic viruses are RNA viruses that change their envelope proteins to facilitate binding to various receptors of host species. In this study, we sought to predict zoonotic propensity through the analysis of receptor characteristics. We hypothesized that the major barrier to interspecies virus transmission is that receptor sequences vary among species-in other words, that the specific amino acid sequence of the receptor determines the ability of the viral envelope protein to attach to the cell. Results: We analysed host-cell receptor sequences for their hydrophobicity/hydrophilicity characteristics. We then analysed these properties for similarities among receptors of different species and used a statistical discriminant analysis to predict the likelihood of transmission among species. Conclusions: This study is an attempt to predict zoonosis through simple computational analysis of receptor sequence differences. Our method may be useful in predicting the zoonotic potential of newly discovered viral strains.">
+    <entity charOffset="142-150" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="169-177" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="410-415" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" ontology_id="CHEBI_67208" text="dsRNA" type="chemical"/>
+    <entity charOffset="442-445" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="569-572" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" ontology_id="CHEBI_33697" text="RNA" type="chemical"/>
+    <entity charOffset="608-616" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" ontology_id="CHEBI_36080" text="proteins" type="chemical"/>
+    <entity charOffset="937-942" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="937-947" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="943-947" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="1018-1025" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p0" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p1" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p2" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p3" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p4" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p5" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e0" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p6" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p7" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p8" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p9" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p10" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p11" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p12" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e1" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p13" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p14" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p15" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p16" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p17" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p18" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p19" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e2" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p20" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p21" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p22" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p23" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p24" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e3" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p25" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p26" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p27" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p28" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p29" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e4" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p30" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p31" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p32" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p33" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e5" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p34" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p35" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p36" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e6" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p37" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p38" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e7" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p39" relation="true"/>
+    <pair e1="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e8" e2="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.e9" id="01c25f9838ef8e005bf720c4f76e67a9f1038ff0.c1.p40" relation="true"/>
+  </chunk>
+</document>

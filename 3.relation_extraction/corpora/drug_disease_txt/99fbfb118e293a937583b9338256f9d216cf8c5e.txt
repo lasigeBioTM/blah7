@@ -1,0 +1,32 @@
+0|chunk|
+
+1|chunk|Reviewer #1: Remarks to the Author: MERS/SARD are deadly coronaviruses and currently there are no antivirals or vaccines available. Thus the study here,iIdentification of a small lipid active molecule AM580 that has broad inhibitory activity against a variety of viruses whose replication is lipid dependent is an important and timely one. The effective dose of this small molecule appears to be well below the doses that are cytotoxic. In vivo data in mice are also quite promising. Collectively these are all exciting findings worthy of publication and further pursuit. One issue is whether the mechanism of action is really through SREBP: siRNA knockdown of SREBP1 or SREBp2 only show a log decrease in viral copy number whereas the infected mice treated with the molecule appear to be cured. Have the authors tried a double knock down of SREBP1 and SREBP2? or CRISPR ?
+1	98	108 antivirals	Chemical	CHEBI_22587
+1	179	184 lipid	Chemical	CHEBI_18059
+1	192	200 molecule	Chemical	CHEBI_25367
+1	292	297 lipid	Chemical	CHEBI_18059
+1	373	381 molecule	Chemical	CHEBI_25367
+1	610	616 action	Chemical	CHEBI_5133
+1	767	775 molecule	Chemical	CHEBI_25367
+
+2|chunk|Reviewer #2: Remarks to the Author: Summary: In this manuscript, the authors use transcriptomics and lipidomics of MERS-CoV infected cells to identify alterations in cellular lipid metabolism. They then screen a bioactive lipid library and identify a lipid (AM850) that has broad spectrum antiviral activity in vitro and in vivo. Characterization of this compound suggests that it targets nSREBP, a common node of viral infection. Docking and binding studies lend support for the AM850-SREBP interaction. This impacts lipid biosynthesis, and they show a role for inhibition of fatty acid synthesis (FAS) in particular.
+2	175	180 lipid	Chemical	CHEBI_18059
+2	222	227 lipid	Chemical	CHEBI_18059
+2	251	256 lipid	Chemical	CHEBI_18059
+2	289	298 antiviral	Chemical	CHEBI_22587
+2	518	523 lipid	Chemical	CHEBI_18059
+2	554	558 role	Chemical	CHEBI_50906
+2	577	587 fatty acid	Chemical	CHEBI_35366
+2	583	587 acid	Chemical	CHEBI_37527
+2	599	602 FAS	Chemical	CHEBI_76181
+
+3|chunk|I am generally supportive of this manuscript. Although the SREBP/FAS pathways have been implicated as both virally manipulated and a broad-spectrum drug target in previous studies, the identification of a bioactive lipid inhibitor with efficacy in vitro and in vivo plus a good selectivity index is quite interesting. Some experiments lack controls and many are over-interpreted. This needs to be addressed in revision. Specific points:
+3	148	152 drug	Chemical	CHEBI_23888
+3	215	220 lipid	Chemical	CHEBI_18059
+3	221	230 inhibitor	Chemical	CHEBI_35222
+
+4|chunk|1. As mentioned above, many studies have identified SREBP/FAS as virally manipulated and that inhibiting them inhibits viral replication (including some of the viruses in this study such as IAV and flaviviruses). These should be referenced and discussed. Fig. 1 transcriptomic/lipidomic analysis is that it is done in a cancer cell line that already has deregulated metabolism. This caveat needs to be mentioned.
+4	320	326 cancer	Disease	DOID_162
+
+5|chunk|3. The abstract is misleading. It suggests that you used an unbiased Click approach to identify SREBP, when in fact you used a heavily biased candidate approach to investigate SREBP. The abstract needs to be edited for accuracy or better, perform the Click-MS proteomics approach to see what AM850 binds to in an unbiased fashion. 4. Fig. 3b,f differences are not overly impressive. Perform statistical analysis and indicate if there is a significant difference in the times prior to sacrifice. 5. Fig. 4A-D and Fig. 6E have issues with controls and interpretation. It is not clear whether the phenotypes result directly from inhibition of a cellular process or indirectly by inhibiting viral Reviewer #1 (Remarks to the Author):
+

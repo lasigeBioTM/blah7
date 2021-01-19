@@ -1,0 +1,22 @@
+0|chunk|Proteome Science The impact of surfactant protein-A on ozone-induced changes in the mouse bronchoalveolar lavage proteome
+
+1|chunk|Background: Ozone is a major component of air pollution. Exposure to this powerful oxidizing agent can cause or exacerbate many lung conditions, especially those involving innate immunity. Surfactant protein-A (SP-A) plays many roles in innate immunity by participating directly in host defense as it exerts opsonin function, or indirectly via its ability to regulate alveolar macrophages and other innate immune cells. The mechanism(s) responsible for ozone-induced pathophysiology, while likely related to oxidative stress, are not well understood.
+1	172	187 innate immunity	Gene_function	GO_0045087
+1	237	252 innate immunity	Gene_function	GO_0045087
+
+2|chunk|We employed 2-dimensional difference gel electrophoresis (2D-DIGE), a discovery proteomics approach, coupled with MALDI-ToF/ToF to compare the bronchoalveolar lavage (BAL) proteomes in wild type (WT) and SP-A knockout (KO) mice and to assess the impact of ozone or filtered air on the expression of BAL proteins. Using the PANTHER database and the published literature most identified proteins were placed into three functional groups.
+
+3|chunk|We identified 66 proteins and focused our analysis on these proteins. Many of them fell into three categories: defense and immunity; redox regulation; and protein metabolism, modification and chaperones. In response to the oxidative stress of acute ozone exposure (2 ppm; 3 hours) there were many significant changes in levels of expression of proteins in these groups. Most of the proteins in the redox group were decreased, the proteins involved in protein metabolism increased, and roughly equal numbers of increases and decreases were seen in the defense and immunity group. Responses between WT and KO mice were similar in many respects. However, the percent change was consistently greater in the KO mice and there were more changes that achieved statistical significance in the KO mice, with levels of expression in filtered airexposed KO mice being closer to ozone-exposed WT mice than to filtered air-exposed WT mice.
+3	155	173 protein metabolism	Gene_function	GO_0019538
+3	163	173 metabolism	Gene_function	GO_0008152
+3	223	239 oxidative stress	Phenotype	HP_0025464
+3	243	248 acute	Phenotype	HP_0011009
+3	451	469 protein metabolism	Gene_function	GO_0019538
+3	459	469 metabolism	Gene_function	GO_0008152
+3	GO-HP	GO_0019538	HP_0025464
+3	GO-HP	GO_0019538	HP_0011009
+3	GO-HP	GO_0008152	HP_0025464
+3	GO-HP	GO_0008152	HP_0011009
+
+4|chunk|We postulate that SP-A plays a role in reactive oxidant scavenging in WT mice and that its absence in the KO mice in the presence or absence of ozone exposure results in more pronounced, and presumably chronic, oxidative stress.
+

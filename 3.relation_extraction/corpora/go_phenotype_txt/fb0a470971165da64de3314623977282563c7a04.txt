@@ -1,0 +1,12 @@
+0|chunk|Dissecting Virus Entry: Replication-Independent Analysis of Virus Binding, Internalization, and Penetration Using Minimal Complementation of b-Galactosidase
+
+1|chunk|Studies of viral entry into host cells often rely on the detection of post-entry parameters, such as viral replication or the expression of a reporter gene, rather than on measuring entry per se. The lack of assays to easily detect the different steps of entry severely hampers the analysis of this key process in virus infection. Here we describe novel, highly adaptable viral entry assays making use of minimal complementation of the E. coli b-galactosidase in mammalian cells. Enzyme activity is reconstituted when a small intravirion peptide (a-peptide) is complementing the inactive mutant form DM15 of bgalactosidase. The method allows to dissect and to independently detect binding, internalization, and fusion of viruses during host cell entry. Here we use it to confirm and extend current knowledge on the entry process of two enveloped viruses: vesicular stomatitis virus (VSV) and murine hepatitis coronavirus (MHV).
+1	480	495 Enzyme activity	Gene_function	GO_0003824
+1	736	745 host cell	Gene_function	GO_0043657
+1	865	875 stomatitis	Phenotype	HP_0010280
+1	899	908 hepatitis	Phenotype	HP_0012115
+1	GO-HP	GO_0003824	HP_0010280
+1	GO-HP	GO_0003824	HP_0012115
+1	GO-HP	GO_0043657	HP_0010280
+1	GO-HP	GO_0043657	HP_0012115
+

@@ -1,0 +1,24 @@
+0|chunk|How Flaviviruses Activate and Suppress the Interferon Response
+
+1|chunk|The flavivirus genus includes viruses with a remarkable ability to produce disease on a large scale. The expansion and increased endemicity of dengue and West Nile viruses in the Americas exemplifies their medical and epidemiological importance. The rapid detection of viral infection and induction of the innate antiviral response are crucial to determining the outcome of infection. The intracellular pathogen receptors RIG-I and MDA5 play a central role in detecting flavivirus infections and initiating a robust antiviral response. Yet, these viruses are still capable of producing acute illness in humans. It is now clear that flaviviruses utilize a variety of mechanisms to modulate the interferon response. The non-structural proteins of the various flaviviruses reduce expression of interferon dependent genes by blocking phosphorylation, enhancing degradation or down-regulating expression of major components of the JAK/STAT pathway. Recent studies indicate that interferon modulation is an important factor in the development of severe flaviviral illness. This suggests that an increased understanding of viral-host interactions will facilitate the development of novel therapeutics to treat these viral infections and improved biological models to study flavivirus pathogenesis.
+1	269	284 viral infection	Gene_function	GO_0016032
+1	313	331 antiviral response	Gene_function	GO_0051607
+1	389	402 intracellular	Gene_function	GO_0005622
+1	444	451 central	Phenotype	HP_0030645
+1	516	534 antiviral response	Gene_function	GO_0051607
+1	586	591 acute	Phenotype	HP_0011009
+1	857	868 degradation	Gene_function	GO_0009056
+1	1040	1046 severe	Phenotype	HP_0012828
+1	GO-HP	GO_0016032	HP_0030645
+1	GO-HP	GO_0016032	HP_0011009
+1	GO-HP	GO_0016032	HP_0012828
+1	GO-HP	GO_0051607	HP_0030645
+1	GO-HP	GO_0051607	HP_0011009
+1	GO-HP	GO_0051607	HP_0012828
+1	GO-HP	GO_0005622	HP_0030645
+1	GO-HP	GO_0005622	HP_0011009
+1	GO-HP	GO_0005622	HP_0012828
+1	HP-GO	HP_0030645	GO_0009056
+1	HP-GO	HP_0011009	GO_0009056
+1	GO-HP	GO_0009056	HP_0012828
+

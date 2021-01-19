@@ -1,0 +1,19 @@
+0|chunk|Crude incidence in two-phase designs in the presence of competing risks
+
+1|chunk|Background: In many studies, some information might not be available for the whole cohort, some covariates, or even the outcome, might be ascertained in selected subsamples. These studies are part of a broad category termed two-phase studies. Common examples include the nested case-control and the case-cohort designs. For two-phase studies, appropriate weighted survival estimates have been derived; however, no estimator of cumulative incidence accounting for competing events has been proposed. This is relevant in the presence of multiple types of events, where estimation of event type specific quantities are needed for evaluating outcome. Methods: We develop a non parametric estimator of the cumulative incidence function of events accounting for possible competing events. It handles a general sampling design by weights derived from the sampling probabilities. The variance is derived from the influence function of the subdistribution hazard.
+
+2|chunk|Results: The proposed method shows good performance in simulations. It is applied to estimate the crude incidence of relapse in childhood acute lymphoblastic leukemia in groups defined by a genotype not available for everyone in a cohort of nearly 2000 patients, where death due to toxicity acted as a competing event. In a second example the aim was to estimate engagement in care of a cohort of HIV patients in resource limited setting, where for some patients the outcome itself was missing due to lost to follow-up. A sampling based approach was used to identify outcome in a subsample of lost patients and to obtain a valid estimate of connection to care. Conclusions: A valid estimator for cumulative incidence of events accounting for competing risks under a general sampling design from an infinite target population is derived.
+2	128	166 childhood acute lymphoblastic leukemia	Disease	DOID_0080144
+2	144	166 lymphoblastic leukemia	Disease	DOID_1037
+2	158	166 leukemia	Disease	DOID_1240
+2	231	237 cohort	Chemical	CHEBI_34935
+2	387	393 cohort	Chemical	CHEBI_34935
+2	501	505 lost	Chemical	CHEBI_25434
+2	593	597 lost	Chemical	CHEBI_25434
+2	DOID-CHEBI	DOID_0080144	CHEBI_34935
+2	DOID-CHEBI	DOID_0080144	CHEBI_25434
+2	DOID-CHEBI	DOID_1037	CHEBI_34935
+2	DOID-CHEBI	DOID_1037	CHEBI_25434
+2	DOID-CHEBI	DOID_1240	CHEBI_34935
+2	DOID-CHEBI	DOID_1240	CHEBI_25434
+

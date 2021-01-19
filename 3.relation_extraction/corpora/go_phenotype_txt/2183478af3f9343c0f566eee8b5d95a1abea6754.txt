@@ -1,0 +1,38 @@
+0|chunk|The First Human Epitope Map of the Alphaviral E1 and E2 Proteins Reveals a New E2 Epitope with Significant Virus Neutralizing Activity
+
+1|chunk|Background: Venezuelan equine encephalitis virus (VEEV) is responsible for VEE epidemics that occur in South and Central America and the U.S. The VEEV envelope contains two glycoproteins E1 (mediates cell membrane fusion) and E2 (binds receptor and elicits virus neutralizing antibodies). Previously we constructed E1 and E2 epitope maps using murine monoclonal antibodies (mMAbs). Six E2 epitopes (E2 c,d,e,f,g,h ) bound VEEV-neutralizing antibody and mapped to amino acids (aa) 182-207. Nothing is known about the human antibody repertoire to VEEV or epitopes that engage human virusneutralizing antibodies. There is no specific treatment for VEE; however virus-neutralizing mMAbs are potent protective and therapeutic agents for mice challenged with VEEV by either peripheral or aerosol routes. Therefore, fully human MAbs (hMAbs) with virus-neutralizing activity should be useful for prevention or clinical treatment of human VEE.
+1	30	42 encephalitis	Phenotype	HP_0002383
+1	113	120 Central	Phenotype	HP_0030645
+1	151	159 envelope	Gene_function	GO_0031975
+1	200	213 cell membrane	Gene_function	GO_0005886
+1	205	213 membrane	Gene_function	GO_0016020
+1	440	448 antibody	Gene_function	GO_0003823
+1	440	448 antibody	Gene_function	GO_0042571
+1	522	530 antibody	Gene_function	GO_0003823
+1	522	530 antibody	Gene_function	GO_0042571
+1	768	778 peripheral	Phenotype	HP_0030646
+1	HP-GO	HP_0002383	GO_0031975
+1	HP-GO	HP_0002383	GO_0005886
+1	HP-GO	HP_0002383	GO_0016020
+1	HP-GO	HP_0002383	GO_0003823
+1	HP-GO	HP_0002383	GO_0042571
+1	HP-GO	HP_0030645	GO_0031975
+1	HP-GO	HP_0030645	GO_0005886
+1	HP-GO	HP_0030645	GO_0016020
+1	HP-GO	HP_0030645	GO_0003823
+1	HP-GO	HP_0030645	GO_0042571
+1	GO-HP	GO_0031975	HP_0030646
+1	GO-HP	GO_0005886	HP_0030646
+1	GO-HP	GO_0016020	HP_0030646
+1	GO-HP	GO_0003823	HP_0030646
+1	GO-HP	GO_0042571	HP_0030646
+
+2|chunk|Methods: We used phage-display to isolate VEEV-specific hFabs from human bone marrow donors. These hFabs were characterized by sequencing, specificity testing, VEEV subtype cross-reactivity using indirect ELISA, and in vitro virus neutralization capacity. One E2-specific neutralizing hFAb, F5n, was converted into IgG, and its binding site was identified using competitive ELISA with mMAbs and by preparing and sequencing antibody neutralization-escape variants.
+2	328	335 binding	Gene_function	GO_0005488
+2	423	431 antibody	Gene_function	GO_0003823
+2	423	431 antibody	Gene_function	GO_0042571
+
+3|chunk|Findings: Using 11 VEEV-reactive hFabs we constructed the first human epitope map for the alphaviral surface proteins E1 and E2. We identified an important neutralization-associated epitope unique to the human immune response, E2 aa115-119. Using a 9  resolution cryo-electron microscopy map of the Sindbis virus E2 protein, we showed the probable surface location of this human VEEV epitope.
+
+4|chunk|The VEEV-neutralizing capacity of the hMAb F5 nIgG is similar to that exhibited by the humanized mMAb Hy4 IgG. The Hy4 IgG has been shown to limit VEEV infection in mice both prophylactically and therapeutically. Administration of a cocktail of F5n and Hy4 IgGs, which bind to different E2 epitopes, could provide enhanced prophylaxis or immunotherapy for VEEV, while reducing the possibility of generating possibly harmful virus neutralization-escape variants in vivo.
+

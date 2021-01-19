@@ -1,0 +1,15 @@
+0|chunk|General Prediction of Peptide-MHC Binding Modes Using Incremental Docking: A Proof of Concept
+0	34	41 Binding	Gene_function	GO_0005488
+
+1|chunk|The class I major histocompatibility complex (MHC) is capable of binding peptides derived from intracellular proteins and displaying them at the cell surface. The recognition of these peptide-MHC (pMHC) complexes by T-cells is the cornerstone of cellular immunity, enabling the elimination of infected or tumoral cells. T-cell-based immunotherapies against cancer, which leverage this mechanism, can greatly benefit from structural analyses of pMHC complexes. Several attempts have been made to use molecular docking for such analyses, but pMHC structure remains too challenging for even state-of-the-art docking tools. To overcome these limitations, we describe the use of an incremental meta-docking approach for structural prediction of pMHC complexes. Previous methods applied in this context used specific constraints to reduce the complexity of this prediction problem, at the expense of generality. Our strategy makes no assumption and can potentially be used to predict binding modes for any pMHC complex. Our method has been tested in a re-docking experiment, reproducing the binding modes of 25 pMHC complexes whose crystal structures are available. This study is a proof of concept that incremental docking strategies can lead to general geometry prediction of pMHC complexes, with potential applications for immunotherapy against cancer or infectious diseases.
+1	12	44 major histocompatibility complex	Gene_function	GO_0046776
+1	65	72 binding	Gene_function	GO_0005488
+1	95	108 intracellular	Gene_function	GO_0005622
+1	357	363 cancer	Phenotype	HP_0002664
+1	978	985 binding	Gene_function	GO_0005488
+1	1085	1092 binding	Gene_function	GO_0005488
+1	1342	1348 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0046776	HP_0002664
+1	GO-HP	GO_0005488	HP_0002664
+1	GO-HP	GO_0005622	HP_0002664
+

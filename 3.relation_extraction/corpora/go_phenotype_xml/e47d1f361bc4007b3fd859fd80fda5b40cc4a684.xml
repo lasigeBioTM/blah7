@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<document id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684">
+  <chunk id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c0" text="Expression profile analysis of 5-day-old neonatal piglets infected with porcine Deltacoronavirus"/>
+  <chunk id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1" text="Background: Porcine deltacoronavirus (PDCoV) is a novel coronavirus that can cause diarrhea in nursing piglets. This study was aimed to investigate the roles of host differentially expressed genes on metabolic pathways in PDCoV infections. Results: Twenty thousand six hundred seventy-four differentially expressed mRNAs were identified in 5-day-old piglets responded to PDCoV experimental infections. Many of these genes were correlated to the basic metabolism, such as the peroxisome proliferator-activated receptor (PPAR) signaling pathway which plays a critical role in digestion. At the same time, in the PPAR pathway genes of fatty acid-binding protein (FABP) family members were observed with remarkably differential expressions. The differential expressed genes were associated with appetite decrease and weight loss of PDCoV-affected piglets.">
+    <entity charOffset="83-91" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e0" ontology_id="HP_0002014" text="diarrhea" type="phenotype"/>
+    <entity charOffset="475-485" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e1" ontology_id="GO_0005777" text="peroxisome" type="gene_function"/>
+    <entity charOffset="525-534" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e2" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="525-542" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e3" ontology_id="GO_0007165" text="signaling pathway" type="gene_function"/>
+    <entity charOffset="813-824" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e4" ontology_id="HP_0001824" text="weight loss" type="phenotype"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e0" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e1" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p0" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e0" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e2" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p1" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e0" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e3" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p2" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e1" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e4" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p3" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e2" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e4" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p4" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e3" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.e4" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c1.p5" relation="true"/>
+  </chunk>
+  <chunk id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2" text="Discussion: Fatty acid-binding protein 1 (FABP1) and fatty acid-binding protein 3 (FABP3) were found to be regulated by PDCoV. These two genes not only mediate fatty acid transportation to different cell organelles such as mitochondria, peroxisome, endoplasmic reticulum and nucleus, but also modulate fatty acid metabolism and storage as a signaling molecule outside the cell. Therefore, it can be preliminarily concluded that PPAR differential expression caused by PDCoV was mostly associated with weight loss and death from emaciation. Conclusions: The host differentially expressed genes were associated with infection response, metabolism signaling and organismal systems signaling pathways. The genes of FABP family members in the PPAR signaling pathway were the most highly altered and played important roles in metabolism. Alteration of these genes were most likely the reason of weight loss and other clinical symptoms. Our results provided new insights into the metabolic mechanisms and pathogenesis of PDCoV infection.">
+    <entity charOffset="249-270" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e0" ontology_id="GO_0005783" text="endoplasmic reticulum" type="gene_function"/>
+    <entity charOffset="302-323" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e1" ontology_id="GO_0006631" text="fatty acid metabolism" type="gene_function"/>
+    <entity charOffset="313-323" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e2" ontology_id="GO_0008152" text="metabolism" type="gene_function"/>
+    <entity charOffset="341-350" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e3" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="341-359" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e4" ontology_id="GO_0048018" text="signaling molecule" type="gene_function"/>
+    <entity charOffset="500-511" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" ontology_id="HP_0001824" text="weight loss" type="phenotype"/>
+    <entity charOffset="633-643" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e6" ontology_id="GO_0008152" text="metabolism" type="gene_function"/>
+    <entity charOffset="644-653" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e7" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="677-686" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e8" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="737-759" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e9" ontology_id="GO_0035357" text="PPAR signaling pathway" type="gene_function"/>
+    <entity charOffset="742-751" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e10" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="742-759" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e11" ontology_id="GO_0007165" text="signaling pathway" type="gene_function"/>
+    <entity charOffset="819-829" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e12" ontology_id="GO_0008152" text="metabolism" type="gene_function"/>
+    <entity charOffset="888-899" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" ontology_id="HP_0001824" text="weight loss" type="phenotype"/>
+    <entity charOffset="997-1009" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e14" ontology_id="GO_0009405" text="pathogenesis" type="gene_function"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e0" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p0" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e0" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p1" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e1" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p2" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e1" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p3" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e2" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p4" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e2" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p5" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e3" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p6" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e3" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p7" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e4" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p8" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e4" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p9" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e6" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p10" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e7" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p11" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e8" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p12" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e9" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p13" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e10" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p14" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e11" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p15" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e12" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p16" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e5" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e14" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p17" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e6" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p18" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e7" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p19" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e8" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p20" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e9" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p21" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e10" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p22" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e11" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p23" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e12" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p24" relation="true"/>
+    <pair e1="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e13" e2="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.e14" id="e47d1f361bc4007b3fd859fd80fda5b40cc4a684.c2.p25" relation="true"/>
+  </chunk>
+</document>

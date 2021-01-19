@@ -1,0 +1,211 @@
+0|chunk|High-Mannose But Not Complex-Type Glycosylation of Tetherin Is Required for Restriction of HIV-1 Release
+
+1|chunk|Tetherin is an interferon-inducible antiviral protein that inhibits the release of a broad spectrum of enveloped viruses by retaining virions at the surface of infected cells. While the role of specific tetherin domains in antiviral activity is clearly established, the role of glycosylation in tetherin function is not clear. In this study, we carried out a detailed investigation of this question by using tetherin variants in which one or both sites of N-linked glycosylation were mutated (N65A, N92A, and N65,92A), and chemical inhibitors that prevent glycosylation at specific stages of oligosaccharide were added or modified. The single N-linked glycosylation mutants, N65A and N92A, efficiently inhibited the release of Vpu-defective human immunodeficiency virus type 1 (HIV-1). In contrast, the non-glycosylated double mutant, N65,92A, lost its ability to block HIV-1 release. The inability of the N65,92A mutant to inhibit HIV-1 release is associated with a lack of cell-surface expression. A role for glycosylation in cell-surface tetherin expression is supported by tunicamycin treatment, which inhibits the first step of N-linked glycosylation and impairs both cell-surface expression and antiviral activity. Inhibition of complex-type glycosylation with kifunensine, an inhibitor of the oligosaccharide processing enzyme mannosidase 1, had no effect on either the cell-surface expression or antiviral activity of tetherin. These results demonstrate that high-mannose modification of a single asparagine residue is necessary and sufficient, while complex-type glycosylation is dispensable, for cell-surface tetherin expression and antiviral activity. ectodomain, and a C-terminal glycosylphosphatidylinositol (GPI) anchor [10, 14, 15] . The CT of tetherin contains an "STS" sequence that is implicated in ubiquitylation, and a highly-conserved tyrosine-based motif, "YxxY", that is essential for clathrin-dependent endocytosis of tetherin, and activation of nuclear factor-B (NF-B) [16] [17] [18] [19] . The TM and GPI anchor provide two membrane anchors that enable tetherin to tether virions with one domain in the viral envelope and the other in the plasma membrane (PM) of the host cell. The specific sequence of the TM domain is implicated in the interaction between tetherin and its antagonists such as Vpu. The ectodomain of human tetherin contains three Cys residues that are required for the formation of homodimers [15, 20] . Du Pont et al. recently demonstrated that disulfide bonds are not required for maintaining the coiled-coil or dimeric structure of tetherin, however, dimerization is necessary for tetherin's antiviral activity [21] . The ectodomain also contains two Asn residues at positions 65 and 92 that are post-translationally modified with N-linked oligosaccharides [14, 15, 20, 22] . Deletion of the CT, TM, CC, or GPI domains, or mutating the Cys residues that are required for protein dimerization, abrogates the ability of tetherin to inhibit virus release [1, 15, 20] .
+1	36	45 antiviral	Chemical	CHEBI_22587
+1	46	53 protein	Chemical	CHEBI_16541
+1	186	190 role	Chemical	CHEBI_50906
+1	223	232 antiviral	Chemical	CHEBI_22587
+1	270	274 role	Chemical	CHEBI_50906
+1	532	542 inhibitors	Chemical	CHEBI_35222
+1	592	607 oligosaccharide	Chemical	CHEBI_50699
+1	844	848 lost	Chemical	CHEBI_25434
+1	1002	1006 role	Chemical	CHEBI_50906
+1	1077	1088 tunicamycin	Chemical	CHEBI_29699
+1	1201	1210 antiviral	Chemical	CHEBI_22587
+1	1283	1292 inhibitor	Chemical	CHEBI_35222
+1	1300	1315 oligosaccharide	Chemical	CHEBI_50699
+1	1404	1413 antiviral	Chemical	CHEBI_22587
+1	1505	1515 asparagine	Chemical	CHEBI_17196
+1	1505	1523 asparagine residue	Chemical	CHEBI_32664
+1	1643	1652 antiviral	Chemical	CHEBI_22587
+1	1692	1720 glycosylphosphatidylinositol	Chemical	CHEBI_24410
+1	1722	1725 GPI	Chemical	CHEBI_36315
+1	2029	2032 GPI	Chemical	CHEBI_36315
+1	2303	2314 antagonists	Chemical	CHEBI_48706
+1	2376	2379 Cys	Chemical	CHEBI_15356
+1	2492	2501 disulfide	Chemical	CHEBI_48343
+1	2641	2650 antiviral	Chemical	CHEBI_22587
+1	2700	2703 Asn	Chemical	CHEBI_17196
+1	2789	2805 oligosaccharides	Chemical	CHEBI_50699
+1	2856	2859 GPI	Chemical	CHEBI_36315
+1	2885	2888 Cys	Chemical	CHEBI_15356
+1	2920	2927 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_50699
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_25434
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_50699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_25434
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_50699
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_25434
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_50906	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_50699
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_25434
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_35222	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_25434
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_50699	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_29699
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_25434	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_17196
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_29699	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_32664
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_17196	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_32664	CHEBI_24410
+1	CHEBI-CHEBI	CHEBI_32664	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_32664	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_32664	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_32664	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_24410	CHEBI_36315
+1	CHEBI-CHEBI	CHEBI_24410	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_24410	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_24410	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_36315	CHEBI_48706
+1	CHEBI-CHEBI	CHEBI_36315	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_36315	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_48706	CHEBI_15356
+1	CHEBI-CHEBI	CHEBI_48706	CHEBI_48343
+1	CHEBI-CHEBI	CHEBI_15356	CHEBI_48343
+
+2|chunk|Tetherin inhibits the release of not only HIV-1 but also that of a broad spectrum of other enveloped viruses, including alphaviruses, filoviruses, rhabdoviruses, arenaviruses, herpesviruses, paramyxoviruses, flaviviruses, orthohepadnaviruses, orthomyxoviruses, and other retroviruses (reviewed in [23] [24] [25] ). Many of these viruses have evolved diverse strategies to antagonize tetherin. HIV-1 Vpu counteracts human tetherin by reducing its cell-surface expression via lysosomal and proteasomal degradation [26] [27] [28] [29] [30] [31] [32] [33] [34] or by trapping tetherin intracellularly and/or preventing its recycling back to the PM [1,2,32,35-38]. The specificity of HIV-1 Vpu towards tetherin antagonism also varies from species to species. HIV-1 Vpu counteracts tetherins from human, chimpanzee, and gorilla; however, it is relatively inactive against tetherin from other non-human primates and non-primates [28, [39] [40] [41] [42] . Simian immunodeficiency virus (SIV) and HIV-2, which do not encode a vpu gene, antagonize tetherin through their Nef and envelope (Env) proteins, respectively, in part through an intracellular sequestration mechanism [29, 39, [42] [43] [44] [45] [46] [47] [48] .
+
+3|chunk|As mentioned above, human tetherin contains two putative N-linked glycosylation sites in the extracellular CC domain. The requirement for tetherin glycosylation in the inhibition of virus release remains controversial. Early studies reported that N-linked glycosylation of Asn 65 (N65) and 92 (N92) is important for the inhibition of HIV-1 release [15, [49] [50] [51] [52] [53] [54] . However, other studies found that mutating N65 and N92 had a negligible effect on tetherin restriction of HIV-1 release [20, 55, 56] . Some studies reported a correlation between tetherin restriction of virus release and tetherin cell-surface expression [15, 50] , while others did not observe this correlation [20, 53, 54, 57] . While some studies were carried out with human tetherin, others used tetherins from other species. Studies also differed in their use of viral system to examine tetherin restriction; some studies were carried out with 20, 50, 53, 54] whereas others used feline immunodeficiency virus [49,54], prototypical foamy virus [56], xenotropic murine leukemia virus-related virus [51], bovine leukemia virus [52], severe acute respiratory syndrome (SARS)-Coronavirus [57], Lassa fever virus, and Marburg viruses [55].
+3	273	276 Asn	Chemical	CHEBI_17196
+
+4|chunk|Asn-linked (N-linked) glycosylation is a highly regulated, post-translational modification that is important for the structure and function of eukaryotic proteins. N-linked glycosylation is initiated in the lumen of the endoplasmic reticulum (ER) with the cotranslational transfer of a high-mannose oligosaccharide moiety to Asn residues in Asn-X-Ser/Thr motifs (where X is any amino acid except Pro) in the target protein. Trimming of the high-mannose side chains occurs in the ER and Golgi apparatus, and additional sugars (e.g., galactose, fucose, and sialic acid) are attached to generate complex side chains. The glycoprotein is then exported to the PM through the secretory pathway [58] . When transiently overexpressed in 293T cells, several forms of tetherin are detected: the non-glycosylated 23-kDa species, and forms bearing high-mannose modification on either (24.5 kDa) or both (26 kDa) Asn 65 and 92, and complex-type carbohydrates at either or both positions (32 to 40 kDa) [1, 15, 34, 59] .
+4	154	162 proteins	Chemical	CHEBI_36080
+4	286	314 high-mannose oligosaccharide	Chemical	CHEBI_5717
+4	299	314 oligosaccharide	Chemical	CHEBI_50699
+4	325	328 Asn	Chemical	CHEBI_17196
+4	378	383 amino	Chemical	CHEBI_46882
+4	378	388 amino acid	Chemical	CHEBI_33704
+4	384	388 acid	Chemical	CHEBI_37527
+4	396	399 Pro	Chemical	CHEBI_50342
+4	555	566 sialic acid	Chemical	CHEBI_26667
+4	562	566 acid	Chemical	CHEBI_37527
+4	618	630 glycoprotein	Chemical	CHEBI_17089
+4	680	687 pathway	Chemical	CHEBI_34922
+4	902	905 Asn	Chemical	CHEBI_17196
+4	934	947 carbohydrates	Chemical	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_5717
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_50699
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17196
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_36080	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_50699
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_17196
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_5717	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_17196
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_50699	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_46882
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_17196	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_46882	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_33704	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_50342
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_37527	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_50342	CHEBI_26667
+4	CHEBI-CHEBI	CHEBI_50342	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_50342	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_50342	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_26667	CHEBI_17089
+4	CHEBI-CHEBI	CHEBI_26667	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_26667	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_34922
+4	CHEBI-CHEBI	CHEBI_17089	CHEBI_16646
+4	CHEBI-CHEBI	CHEBI_34922	CHEBI_16646
+

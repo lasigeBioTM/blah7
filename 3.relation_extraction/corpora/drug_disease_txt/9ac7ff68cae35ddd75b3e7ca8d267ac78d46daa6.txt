@@ -1,0 +1,44 @@
+0|chunk|Epidemiological evaluation of cat health at a first-response animal shelter in Fukushima, following the Great East Japan Earthquakes of 2011
+0	30	33 cat	Chemical	CHEBI_149681
+
+1|chunk|The Great East Japan Earthquakes of March 11, 2011 caused immense harm to the community and subsequent nuclear accident in Fukushima Prefecture extended the damage. Local residents were forced to evacuated without pets and the left behind animals were rescued from the restricted zone one month later. Unplanned animal rescue and unregulated sheltering caused secondary damage to animals such as disease epidemics at impounded animal shelter. The purpose of this study was to retrospectively evaluate the incidence of upper respiratory infection (URI) and diarrhea in cats at the first response animal shelter in Fukushima, and investigate factors affecting the duration of disease and determinants of treatments performed. Eighty percent and 59% of impounded cats developed URI, 71% and 54% of cats developed diarrhea, and 91% and 83% of cats had at least one disease in 2011 and 2012, respectively. Uses of multiple drug administration (more than five drugs) was associated with prolonged URI and diarrhea. Multiple antibiotics, antihistamines, interferon, and steroids were associated with relapse of and prolonged URI. Developing a standardized treatment protocol for commonly observed diseases at Japanese animal shelters to prevent and control diseases, to promote animal welfare, and protect public health in the face of future disasters is overdue. did not allow animals, so dogs and cats accompanying owners were either brought to the Ihno shelter or transferred to neighboring animal hospitals. The animal rescue operation originally focused on searching for companion animals in the restricted zone, and was incepted based upon pressure from pet owners forced to abandon their pets. The consequences of abandonment included: animal starvation, emaciation, and death; illegal entry to feed or reclaim animals with resultant exposure to unsafe radiation levels; uncontrolled animal reproduction; and harm to the area's ecosystem.
+1	396	403 disease	Disease	DOID_4
+1	556	564 diarrhea	Disease	DOID_13250
+1	674	681 disease	Disease	DOID_4
+1	810	818 diarrhea	Disease	DOID_13250
+1	861	868 disease	Disease	DOID_4
+1	918	922 drug	Chemical	CHEBI_23888
+1	954	959 drugs	Chemical	CHEBI_23888
+1	999	1007 diarrhea	Disease	DOID_13250
+1	1063	1071 steroids	Chemical	CHEBI_35341
+1	1320	1324 face	Disease	DOID_0111084
+1	1653	1656 pet	Chemical	CHEBI_131701
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+1	DOID-CHEBI	DOID_4	CHEBI_35341
+1	DOID-CHEBI	DOID_4	CHEBI_131701
+1	DOID-CHEBI	DOID_13250	CHEBI_23888
+1	DOID-CHEBI	DOID_13250	CHEBI_35341
+1	DOID-CHEBI	DOID_13250	CHEBI_131701
+1	CHEBI-DOID	CHEBI_23888	DOID_0111084
+1	CHEBI-DOID	CHEBI_35341	DOID_0111084
+1	DOID-CHEBI	DOID_0111084	CHEBI_131701
+
+2|chunk|The animal rescue operation in Fukushima took place for more than four years (and ended in December 31, 2015) due to the ongoing nuclear emergency at the power plant, while temporary animal shelters located in the disaster regions affected by the tsunami and earthquakes (Miyagi prefecture) closed mostly within six months. The Ihno shelter was initially established at a warehouse and was unsuitable for sheltering dogs and cats for a prolonged time; therefore, a second shelter was built in Miharu, Fukushima, and all animals were transferred there in January 2013. Because the animal rescue operation time was lengthy, it evolved through two phases. The initial chaotic phase suffered from lack of infrastructure, resources, and competent staff, exaggerating an already stressful situation. In the first seven months of the initial phase, there were no guidelines or protocols for managing animals at the shelter, different volunteer veterinarians engaged in the care of animals each day, and infectious diseases were extremely common. The second phase was far more stable: most of the animals were tamed, socialized, and experienced a low incidence of disease.
+
+3|chunk|The primary health issue reported for cats at animal shelters was upper respiratory infection (URI) [1] [2] [3] [4] . The inherent properties of animal shelters, which include a constant influx of animals without medical backgrounds or vaccination histories, overcrowding, lack of quarantine or isolation facilities, poor hygiene, loud noise, housing with dogs, confinement to cages, and extremely stressful environments, act as risk factors for endemic infectious diseases [1, [4] [5] [6] . Although the prevalence of causative agents is shelter-specific[7-9], the majority of URI is caused by feline herpesvirus-1 (FHV-1), feline calicivirus (FCV), Bordetella bronchiseptica, Chlamydophila felis, and Mycoplasma species [4, 10, 11] . Apparently healthy cats can be carriers for all of these agents; this and the risk that shelters pose make control of URI extremely difficult in the absence of standardized protocols for disease prevention and management.
+3	767	775 carriers	Chemical	CHEBI_78059
+3	923	930 disease	Disease	DOID_4
+3	CHEBI-DOID	CHEBI_78059	DOID_4
+
+4|chunk|Diarrhea is also a common disease in sheltered cats; the causes are multifactorial, including stress, diet, and viral, protozoal, bacterial, or helminthic infection[11, 12]. It also shares common risk factors with URI in shelters, including crowding, stress, poor hygiene practice, and asymptomatic shedding cats [5, 12] . Although causative agents for URI and diarrhea and risk factors for disease development are known, shelters do not necessarily have the resources to establish definitive diagnoses, and symptomatically treating cats without validated guidelines for shelter management will not necessarily resolve clinical illness or prevent the spread of infectious disease if the risk factors go uncontrolled.
+4	0	8 Diarrhea	Disease	DOID_13250
+4	26	33 disease	Disease	DOID_4
+4	361	369 diarrhea	Disease	DOID_13250
+4	391	398 disease	Disease	DOID_4
+4	661	679 infectious disease	Disease	DOID_0050117
+4	672	679 disease	Disease	DOID_4
+
+5|chunk|In this research, a retrospective epidemiological evaluation of sheltered cats was performed to investigate feline health status and treatment protocols during the first and second years at the Ihno, Japan shelter. The incidences of URI and diarrhea were compared between the first and second years, and related to factors predictive of disease duration and frequency, including choice of treatment options.
+5	241	249 diarrhea	Disease	DOID_13250
+5	337	344 disease	Disease	DOID_4
+

@@ -1,0 +1,53 @@
+0|chunk|Glucose-regulated protein 78 demonstrates antiviral effects but is more suitable for hepatocellular carcinoma prevention in hepatitis B
+0	85	109 hepatocellular carcinoma	Phenotype	HP_0001402
+0	100	109 carcinoma	Phenotype	HP_0030731
+0	124	133 hepatitis	Phenotype	HP_0012115
+
+1|chunk|Background: Hepatitis B virus (HBV) is the leading cause of liver cirrhosis and hepatocellular carcinoma in Asia and Africa. Existing antivirals cannot cure HBV or eliminate risk of hepatocellular carcinoma. Glucose-regulated protein 78 (GRP78) can inhibit HBV replication, but promote virion secretion and hepatocellular cancer cell invasion. For these reasons, the overall effect of GRP78 on HBV production and whether to utilize the HBV replication-inhibitory effect of GRP78 up-regulation or the hepatocellular cancer cell invasion-inhibitory effect of its down-regulation were further investigated in order to improve the efficacy of current antiviral therapy.
+1	12	21 Hepatitis	Phenotype	HP_0012115
+1	60	75 liver cirrhosis	Phenotype	HP_0001394
+1	66	75 cirrhosis	Phenotype	HP_0001394
+1	80	104 hepatocellular carcinoma	Phenotype	HP_0001402
+1	95	104 carcinoma	Phenotype	HP_0030731
+1	182	206 hepatocellular carcinoma	Phenotype	HP_0001402
+1	197	206 carcinoma	Phenotype	HP_0030731
+1	286	292 virion	Gene_function	GO_0019012
+1	293	302 secretion	Gene_function	GO_0046903
+1	322	328 cancer	Phenotype	HP_0002664
+1	515	521 cancer	Phenotype	HP_0002664
+1	HP-GO	HP_0012115	GO_0019012
+1	HP-GO	HP_0012115	GO_0046903
+1	HP-GO	HP_0001394	GO_0019012
+1	HP-GO	HP_0001394	GO_0046903
+1	HP-GO	HP_0001402	GO_0019012
+1	HP-GO	HP_0001402	GO_0046903
+1	HP-GO	HP_0030731	GO_0019012
+1	HP-GO	HP_0030731	GO_0046903
+1	GO-HP	GO_0019012	HP_0002664
+1	GO-HP	GO_0046903	HP_0002664
+
+2|chunk|Methods: GRP78 regulations in HepG2.2.15 cells were conducted by transfections of expressing vector and small interfering RNA, respectively. The changes in HBV replication, hepatitis B e antigen (HBeAg) synthesis and hepatoma cell motility were monitored.
+2	173	182 hepatitis	Phenotype	HP_0012115
+2	203	212 synthesis	Gene_function	GO_0009058
+2	226	239 cell motility	Gene_function	GO_0048870
+2	HP-GO	HP_0012115	GO_0009058
+2	HP-GO	HP_0012115	GO_0048870
+
+3|chunk|Results: GRP78 overall decreased HBV production due to its HBV replication-inhibitory effect time-dependently overwhelming virion secretion-promoting effect in HepG2.2.15 cells. Unlike the parental cells (HepG2), HepG2.2.15 cells demonstrated decreased expressions of the major genes in the interferon-1-dependent pathway. Moreover, the expressions of these genes were not affected by GRP78 regulations. However, GRP78 was found to inhibit HBeAg secretion and to increase the retro-transportation of capsid assembly-interfering HBeAg precursor from the endoplasmic reticulum into the cytosol where new viral nucleocapsids formed. Furthermore, GRP78 overexpression promoted wound healing process (the motility) of HepG2.2.15 cells. In contrast, GRP78 knockdown enhanced HBV replication and HBeAg secretion, but they were abolished by entecavir and furin inhibitor, respectively.
+3	123	129 virion	Gene_function	GO_0019012
+3	374	382 affected	Phenotype	HP_0032320
+3	447	456 secretion	Gene_function	GO_0046903
+3	554	575 endoplasmic reticulum	Gene_function	GO_0005783
+3	585	592 cytosol	Gene_function	GO_0005829
+3	674	687 wound healing	Gene_function	GO_0042060
+3	796	805 secretion	Gene_function	GO_0046903
+3	GO-HP	GO_0019012	HP_0032320
+3	HP-GO	HP_0032320	GO_0046903
+3	HP-GO	HP_0032320	GO_0005783
+3	HP-GO	HP_0032320	GO_0005829
+3	HP-GO	HP_0032320	GO_0042060
+
+4|chunk|Conclusions: GRP78 mainly demonstrates anti-HBV effects, reducing HBV production and HBeAg secretion. With due regard to the hepatocellular cancer invasion risk of the overexpression and the rectifiability of the unpleasant effects of the knockdown, GRP78 down-regulation may be more suitable to serve as an additive strategy to cover the hepatocellular cancer prevention shortage of current antiviral therapy in the future.
+4	140	146 cancer	Phenotype	HP_0002664
+4	354	360 cancer	Phenotype	HP_0002664
+

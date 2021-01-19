@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="1560867701aecc60f73407501a5c5c85e53c8522">
+  <chunk id="1560867701aecc60f73407501a5c5c85e53c8522.c0" text="MAVS-Mediated Apoptosis and Its Inhibition by Viral Proteins"/>
+  <chunk id="1560867701aecc60f73407501a5c5c85e53c8522.c1" text="Background: Host responses to viral infection include both immune activation and programmed cell death. The mitochondrial antiviral signaling adaptor, MAVS (IPS-1, VISA or Cardif) is critical for host defenses to viral infection by inducing type-1 interferons (IFN-I), however its role in virus-induced apoptotic responses has not been elucidated.">
+    <entity charOffset="30-45" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.e0" ontology_id="GO_0016032" text="viral infection" type="gene_function"/>
+    <entity charOffset="81-102" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.e1" ontology_id="GO_0012501" text="programmed cell death" type="gene_function"/>
+    <entity charOffset="108-121" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.e2" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="132-141" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.e3" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="213-228" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.e4" ontology_id="GO_0016032" text="viral infection" type="gene_function"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c1.e0" e2="1560867701aecc60f73407501a5c5c85e53c8522.c1.e2" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.p0" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c1.e1" e2="1560867701aecc60f73407501a5c5c85e53c8522.c1.e2" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.p1" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c1.e2" e2="1560867701aecc60f73407501a5c5c85e53c8522.c1.e3" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.p2" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c1.e2" e2="1560867701aecc60f73407501a5c5c85e53c8522.c1.e4" id="1560867701aecc60f73407501a5c5c85e53c8522.c1.p3" relation="true"/>
+  </chunk>
+  <chunk id="1560867701aecc60f73407501a5c5c85e53c8522.c2" text="Principal Findings: We show that MAVS causes apoptosis independent of its function in initiating IFN-I production. MAVSinduced cell death requires mitochondrial localization, is caspase dependent, and displays hallmarks of apoptosis. Furthermore, MAVS 2/2 fibroblasts are resistant to Sendai virus-induced apoptosis. A functional screen identifies the hepatitis C virus NS3/4A and the Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) nonstructural protein (NSP15) as inhibitors of MAVS-induced apoptosis, possibly as a method of immune evasion.">
+    <entity charOffset="127-137" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.e0" ontology_id="GO_0008219" text="cell death" type="gene_function"/>
+    <entity charOffset="147-160" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.e1" ontology_id="HP_0001427" text="mitochondrial" type="phenotype"/>
+    <entity charOffset="352-361" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.e2" ontology_id="HP_0012115" text="hepatitis" type="phenotype"/>
+    <entity charOffset="385-391" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.e3" ontology_id="HP_0012828" text="Severe" type="phenotype"/>
+    <entity charOffset="392-397" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.e4" ontology_id="HP_0011009" text="Acute" type="phenotype"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c2.e0" e2="1560867701aecc60f73407501a5c5c85e53c8522.c2.e1" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.p0" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c2.e0" e2="1560867701aecc60f73407501a5c5c85e53c8522.c2.e2" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.p1" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c2.e0" e2="1560867701aecc60f73407501a5c5c85e53c8522.c2.e3" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.p2" relation="true"/>
+    <pair e1="1560867701aecc60f73407501a5c5c85e53c8522.c2.e0" e2="1560867701aecc60f73407501a5c5c85e53c8522.c2.e4" id="1560867701aecc60f73407501a5c5c85e53c8522.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="1560867701aecc60f73407501a5c5c85e53c8522.c3" text="Significance: This study describes a novel role for MAVS in controlling viral infections through the induction of apoptosis, and identifies viral proteins which inhibit this host response. Citation: Lei Y, Moore CB, Liesman RM, O'Connor BP, Bergstralh DT, et al. (2009) MAVS-Mediated Apoptosis and Its Inhibition by Viral Proteins. PLoS ONE 4(5): e5466."/>
+</document>

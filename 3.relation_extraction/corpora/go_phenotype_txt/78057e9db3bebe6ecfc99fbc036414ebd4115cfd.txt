@@ -1,0 +1,35 @@
+0|chunk|Diminished COX-2/PGE 2 -Mediated Antiviral Response Due to Impaired NOX/MAPK Signaling in G6PD-Knockdown Lung Epithelial Cells
+0	33	51 Antiviral Response	Gene_function	GO_0051607
+0	77	86 Signaling	Gene_function	GO_0023052
+
+1|chunk|Glucose-6-phosphate dehydrogenase (G6PD) provides the reducing agent NADPH to meet the cellular needs for reductive biosynthesis and the maintenance of redox homeostasis. G6PD-deficient cells experience a high level of oxidative stress and an increased susceptibility to viral infections. Cyclooxygenase-2 (COX-2) is a key mediator in the regulation of viral replication and inflammatory response. In the current study, the role of G6PD on the inflammatory response was determined in both scramble control and G6PD-knockdown (G6PD-kd) A549 cells upon tumor necrosis factor- (TNF-) stimulation. A decreased expression pattern of induced COX-2 and reduced production of downstream PGE 2 occurred upon TNF- stimulation in G6PD-kd A549 cells compared with scramble control A549 cells. TNF--induced antiviral activity revealed that decreased COX-2 expression enhanced the susceptibility to coronavirus 229E infection in G6PD-kd A549 cells and was a result of the decreased phosphorylation levels of MAPK (p38 and ERK1/2) and NF-B. The impaired inflammatory response in G6PD-kd A549 cells was found to be mediated through NADPH oxidase (NOX) signaling as elucidated by cell pretreatment with a NOX2-siRNA or NOX inhibitor, diphenyleneiodonium chloride (DPI). In addition, NOX activity with TNF- treatment in G6PD-kd A549 cells was not up-regulated and was coupled with a decrease in NOX subunit expression at the transcriptional level, implying that TNF--mediated NOX signaling requires the participation of G6PD. Together, these data suggest that G6PD deficiency affects the cellular inflammatory response and the decreased TNF--mediated antiviral response in G6PD-kd A549 cells is a result of dysregulated NOX/MAPK/NF-B/ COX-2 signaling.
+1	116	128 biosynthesis	Gene_function	GO_0009058
+1	219	235 oxidative stress	Phenotype	HP_0025464
+1	375	396 inflammatory response	Gene_function	GO_0006954
+1	444	465 inflammatory response	Gene_function	GO_0006954
+1	551	556 tumor	Phenotype	HP_0002664
+1	557	565 necrosis	Gene_function	GO_0001906
+1	972	987 phosphorylation	Gene_function	GO_0016310
+1	998	1002 MAPK	Gene_function	GO_0004707
+1	1044	1065 inflammatory response	Gene_function	GO_0006954
+1	1141	1150 signaling	Gene_function	GO_0023052
+1	1469	1478 signaling	Gene_function	GO_0023052
+1	1586	1607 inflammatory response	Gene_function	GO_0006954
+1	1641	1659 antiviral response	Gene_function	GO_0051607
+1	1714	1718 MAPK	Gene_function	GO_0004707
+1	1732	1741 signaling	Gene_function	GO_0023052
+1	GO-HP	GO_0009058	HP_0025464
+1	GO-HP	GO_0009058	HP_0002664
+1	HP-GO	HP_0025464	GO_0006954
+1	HP-GO	HP_0025464	GO_0001906
+1	HP-GO	HP_0025464	GO_0016310
+1	HP-GO	HP_0025464	GO_0004707
+1	HP-GO	HP_0025464	GO_0023052
+1	HP-GO	HP_0025464	GO_0051607
+1	GO-HP	GO_0006954	HP_0002664
+1	HP-GO	HP_0002664	GO_0001906
+1	HP-GO	HP_0002664	GO_0016310
+1	HP-GO	HP_0002664	GO_0004707
+1	HP-GO	HP_0002664	GO_0023052
+1	HP-GO	HP_0002664	GO_0051607
+

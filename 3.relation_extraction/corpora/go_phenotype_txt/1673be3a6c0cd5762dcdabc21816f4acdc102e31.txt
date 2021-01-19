@@ -1,0 +1,68 @@
+0|chunk|Display of Porcine Epidemic Diarrhea Virus Spike Protein on Baculovirus to Improve Immunogenicity and Protective Efficacy
+0	28	36 Diarrhea	Phenotype	HP_0002014
+
+1|chunk|A new variant of the porcine epidemic diarrhea virus (PEDV) is an emerging swine disease, killing considerable numbers of neonatal piglets in North America and Asia in recent years. To generate immunogens mimicking the complex spike (S) protein folding with proper posttranslational modification to mount a robust immune response against the highly virulent PEDV, two baculoviruses displaying the full-length S protein (S-Bac) and the S1 protein (S1-Bac) of the virulent Taiwan genotype 2b (G2b) PEDV Pintung 52 (PEDV-PT) strain were constructed. Intramuscular immunizations of mice and piglets with the S-Bac and S1-Bac demonstrated significantly higher levels of systemic anti-PEDV S-specific IgG, as compared with control group. Our results also showed that piglets in the S-Bac group elicited superior PEDV-specific neutralizing antibodies than those of the S1-Bac and control groups. The highly virulent PEDV-PT strain challenge experiment showed that piglets immunized with S-Bac and S1-Bac showed milder clinical symptoms with significantly less fecal viral shedding as compared with non-immunized control piglets. More importantly, piglets immunized with the S-Bac exhibited no to mild clinical signs, with a delayed, minimal viral shedding. Our results demonstrated that the S-Bac could serve as a safe, easy to manipulate, and effective vaccine candidate against the PEDV infection.
+1	38	46 diarrhea	Phenotype	HP_0002014
+1	237	252 protein folding	Gene_function	GO_0006457
+1	265	295 posttranslational modification	Gene_function	GO_0043687
+1	314	329 immune response	Gene_function	GO_0006955
+1	1059	1073 viral shedding	Gene_function	GO_0019076
+1	1189	1193 mild	Phenotype	HP_0012825
+1	1234	1248 viral shedding	Gene_function	GO_0019076
+1	HP-GO	HP_0002014	GO_0006457
+1	HP-GO	HP_0002014	GO_0043687
+1	HP-GO	HP_0002014	GO_0006955
+1	HP-GO	HP_0002014	GO_0019076
+1	GO-HP	GO_0006457	HP_0012825
+1	GO-HP	GO_0043687	HP_0012825
+1	GO-HP	GO_0006955	HP_0012825
+1	GO-HP	GO_0019076	HP_0012825
+
+2|chunk|with other G2b PEDVs in other countries [7] . Therefore, development of the Taiwan G2b PEDV-based vaccines would be very helpful for controlling and reducing the disease burden.
+
+3|chunk|Porcine epidemic diarrhea virus belongs to family Coronaviridae, subfamily Coronavirinae and genus Alphacoronavirus [1] . The virus has a single, 28 kb, positive strain RNA genome encoding seven open reading frames (ORF): the ORF1a and ORF1b genes encode the replicase; the ORF3 gene encodes the accessory protein; the ORF2, ORF4, ORF5, and ORF6 genes encode four structural proteins, namely spike (S), envelope (E), nucleocapsid (N), and membrane (M) protein [11] . Among the structure proteins, the S protein, which is responsible for virus-host recognition, virus internalization, and neutralizing antibody induction, is the principle antigenic determinant [1]. The naturally assembled S protein forms a homotrimeric structure with several predicted glycosylation sites [12] . This glycoprotein can further be divided into S1 and S2 domains by specific cleavage site [13] . The S1 domain contributes to receptor recognition, enteropathogenicity, and immunogenicity, as it contains the dominant neutralizing epitopes, thus being the main target for vaccine development [14, 15] . Linking with the S1, the S2 domain anchors on the viral membrane and triggers membrane fusion [16] . Several neutralizing epitopes on the S protein of PEDV have been described, including the CO-26K-equivalent epitope (COE epitope) [15], the antigen epitope motif recognized by monoclonal antibody 2C10 at C terminal end of S protein [17, 18] , and the S1D domain [19] . Therefore, S protein is considered a major target for PEDV vaccine development [9, 20] . The baculovirus expressing system has long been utilized for different biological purposes, for instance, recombinant protein production [21], vaccine manufacturing, and gene therapy [22, 23] . Among various strains, Autographa californica multiple nucleopolyhedrovirus (AcMNPV) is the most popular strain for laboratory applications. The high protein productivity, large capacity and flexibility to accommodate long insertions [24], high biosafety for vertebrates, and delicate post-translation modifications are the advantages of the baculovirus expressing system [25] . Furthermore, as a vaccine candidate, the viral particle of baculovirus is able to evoke robust innate immune responses by regulating cytokines [26], as well as serving an adjuvant role in promoting B cell and T cell activation to improve the humoral immune responses [27] . Baculovirus is a very stable DNA virus, which can be stored at 4  C for up to 4 years without significant change in virus titers [28] . Also, this virus is easy to propagate, with high titers around 10 8 -10 9 TCID50/mL. Recently, baculovirus-expressing viral surface proteins has become a novel strategy for recreating complex protein folding and functional properties [29, 30] . Given that baculovirus is able to mount a robust immune response [26, 31] , the baculovirus displaying a heterologous protein on its surface could be a novel tool for the development of new generation of vaccines. In this context, several immunogens have been generated using the baculovirus display strategy and proven to be able to induce strong humoral immunity and protection against infectious diseases [32] [33] [34] .
+3	17	25 diarrhea	Phenotype	HP_0002014
+3	403	411 envelope	Gene_function	GO_0031975
+3	417	429 nucleocapsid	Gene_function	GO_0019013
+3	439	447 membrane	Gene_function	GO_0016020
+3	601	609 antibody	Gene_function	GO_0003823
+3	601	609 antibody	Gene_function	GO_0042571
+3	753	766 glycosylation	Gene_function	GO_0070085
+3	1132	1146 viral membrane	Gene_function	GO_0036338
+3	1138	1146 membrane	Gene_function	GO_0016020
+3	1160	1168 membrane	Gene_function	GO_0016020
+3	1160	1175 membrane fusion	Gene_function	GO_0061025
+3	1370	1378 antibody	Gene_function	GO_0003823
+3	1370	1378 antibody	Gene_function	GO_0042571
+3	2323	2340 T cell activation	Gene_function	GO_0042110
+3	2325	2340 cell activation	Gene_function	GO_0001775
+3	2410	2416 stable	Phenotype	HP_0031915
+3	2717	2732 protein folding	Gene_function	GO_0006457
+3	2819	2834 immune response	Gene_function	GO_0006955
+3	HP-GO	HP_0002014	GO_0031975
+3	HP-GO	HP_0002014	GO_0019013
+3	HP-GO	HP_0002014	GO_0016020
+3	HP-GO	HP_0002014	GO_0003823
+3	HP-GO	HP_0002014	GO_0042571
+3	HP-GO	HP_0002014	GO_0070085
+3	HP-GO	HP_0002014	GO_0036338
+3	HP-GO	HP_0002014	GO_0061025
+3	HP-GO	HP_0002014	GO_0042110
+3	HP-GO	HP_0002014	GO_0001775
+3	HP-GO	HP_0002014	GO_0006457
+3	HP-GO	HP_0002014	GO_0006955
+3	GO-HP	GO_0031975	HP_0031915
+3	GO-HP	GO_0019013	HP_0031915
+3	GO-HP	GO_0016020	HP_0031915
+3	GO-HP	GO_0003823	HP_0031915
+3	GO-HP	GO_0042571	HP_0031915
+3	GO-HP	GO_0070085	HP_0031915
+3	GO-HP	GO_0036338	HP_0031915
+3	GO-HP	GO_0061025	HP_0031915
+3	GO-HP	GO_0042110	HP_0031915
+3	GO-HP	GO_0001775	HP_0031915
+3	HP-GO	HP_0031915	GO_0006457
+3	HP-GO	HP_0031915	GO_0006955
+
+4|chunk|In the present study, taking the advantages of the recombinant baculovirus display system, the PEDV full-length S protein and PEDV S1 protein named S-Bac and S1-Bac, were constructed and displayed on baculovirus. The immunogenicities of S-Bac and S1-Bac were compared and evaluated in mice and pigs by intramuscular (IM) injections without cooperating with adjuvants. The protective efficacy that these baculovirus display vaccines against the highly virulent PEDV-PT strain were also evaluated.
+

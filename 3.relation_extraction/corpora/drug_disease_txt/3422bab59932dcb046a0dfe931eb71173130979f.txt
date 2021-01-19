@@ -1,0 +1,51 @@
+0|chunk|Closed-type pre-treatment device for point-of-care testing of sputum OPEN
+
+1|chunk|The procedures and protocols for the pre-treatment of sputum specimens, mainly used for the diagnosis of pneumonia, are complex, labor intensive, and require skilled specialists working in a biosafety containment laboratory because of sample infectivity. In this study, we developed the first portable, low-power pre-treatment device that carries out all sputum pre-treatment procedures (liquefaction, homogenization, dissolution, and inactivation) in an enclosed space. Designed to simultaneously employ chemical and mechanical dissolution in the enclosed chamber, this device eliminates the risk of transmission and improves the effectiveness of sputum dissolution and pathogen detection. This device is expected to allow for the pre-treatment of infectious sputum specimens outside of a biosafety containment laboratory. Used in conjunction with automated genome extraction and detection systems, this device should make the on-site diagnosis using infectious sputum specimens possible.
+
+2|chunk|Acute respiratory infections account for about half of all infectious diseases, with high morbidity and mortality worldwide 1 . These diseases are transmitted through the respiratory tract. In particular, Severe acute respiratory syndrome coronavirus, Middle East respiratory syndrome coronavirus, and Influenza virus are highly contagious and lethal 2,3 . Rapid diagnosis is very important to reduce the death rate and interrupt transmission. Accurate identification of the pathogens causing acute respiratory infections on site allows for rapid and appropriate antibiotic treatment instead of using a wide range of antibiotics or improper antibiotics. Such specific treatment decreases the chance of antibiotic-resistant strains of bacteria arising. Automated nucleic acid extraction and miniaturized polymerase chain reaction (PCR) systems for point-of-care testing have already been commercialized 4-7 , and isothermal nucleic acid amplification methods such as loop-mediated isothermal amplification, rolling circle amplification, and nicking enzyme amplification reaction have been developed 8-10 . Thus, it is expected that a variety of on-site genetic diagnoses will be possible. However, because of the risk of infection during the handling of specimens, infectious agent identification should be handled only by highly skilled experts in enclosed special facilities. Such facilities are only available in large hospitals or laboratories, thereby limiting the speed of acute respiratory infection diagnosis.
+2	205	238 Severe acute respiratory syndrome	Disease	DOID_2945
+2	230	238 syndrome	Disease	DOID_225
+2	252	284 Middle East respiratory syndrome	Disease	DOID_0080642
+2	276	284 syndrome	Disease	DOID_225
+2	302	311 Influenza	Disease	DOID_8469
+2	563	573 antibiotic	Chemical	CHEBI_33281
+2	617	628 antibiotics	Chemical	CHEBI_33281
+2	641	652 antibiotics	Chemical	CHEBI_33281
+2	762	774 nucleic acid	Chemical	CHEBI_33696
+2	770	774 acid	Chemical	CHEBI_37527
+2	923	935 nucleic acid	Chemical	CHEBI_33696
+2	931	935 acid	Chemical	CHEBI_37527
+2	DOID-CHEBI	DOID_2945	CHEBI_33281
+2	DOID-CHEBI	DOID_2945	CHEBI_33696
+2	DOID-CHEBI	DOID_2945	CHEBI_37527
+2	DOID-CHEBI	DOID_225	CHEBI_33281
+2	DOID-CHEBI	DOID_225	CHEBI_33696
+2	DOID-CHEBI	DOID_225	CHEBI_37527
+2	DOID-CHEBI	DOID_0080642	CHEBI_33281
+2	DOID-CHEBI	DOID_0080642	CHEBI_33696
+2	DOID-CHEBI	DOID_0080642	CHEBI_37527
+2	DOID-CHEBI	DOID_8469	CHEBI_33281
+2	DOID-CHEBI	DOID_8469	CHEBI_33696
+2	DOID-CHEBI	DOID_8469	CHEBI_37527
+
+3|chunk|The sputum specimen pre-treatment procedures and protocols used to diagnose pathogens such as tuberculosis and pneumonia are complex and very labor intensive. The protocol involves liquefaction, homogenization, dissolution, and inactivation 11,12 . The pre-treatment methods for infectious sputum specimens currently used in most laboratories require not only daily preparation of reagents but also the process of opening and closing the lid for adding reagents, vortex mixing, and sedimentation using a centrifuge-all of which are done by hand 13,14 . Because there is a risk of infection during this sample pre-treatment process, the procedures must be carried out by experienced testers wearing special lab suits and masks in enclosed areas that can maintain constant negative pressure 15 . For some sputum specimens, a lysis reagent alone is not sufficient to liquefy and homogenize the sample, requiring mechanical dissolution through sonication. Gram-positive bacteria have a thicker peptidoglycan layer, and mycobacteria have complex glycolipids in their cell walls, making cell wall disruption more difficult than for other bacteria. To extract nucleic acids from these bacteria, methods such as boiling at 60-100 C or high-energy bead beating are currently used to remove complex cell wall structures 13, 16 . Therefore, the sputum pre-treatment process presently used in the laboratory is a significant obstacle to on-site diagnosis of respiratory
+3	94	106 tuberculosis	Disease	DOID_399
+3	111	120 pneumonia	Disease	DOID_552
+3	381	389 reagents	Chemical	CHEBI_33893
+3	453	461 reagents	Chemical	CHEBI_33893
+3	829	836 reagent	Chemical	CHEBI_33893
+3	990	1003 peptidoglycan	Chemical	CHEBI_8005
+3	1041	1052 glycolipids	Chemical	CHEBI_33563
+3	1153	1166 nucleic acids	Chemical	CHEBI_33696
+3	1161	1166 acids	Chemical	CHEBI_37527
+3	DOID-CHEBI	DOID_399	CHEBI_33893
+3	DOID-CHEBI	DOID_399	CHEBI_8005
+3	DOID-CHEBI	DOID_399	CHEBI_33563
+3	DOID-CHEBI	DOID_399	CHEBI_33696
+3	DOID-CHEBI	DOID_399	CHEBI_37527
+3	DOID-CHEBI	DOID_552	CHEBI_33893
+3	DOID-CHEBI	DOID_552	CHEBI_8005
+3	DOID-CHEBI	DOID_552	CHEBI_33563
+3	DOID-CHEBI	DOID_552	CHEBI_33696
+3	DOID-CHEBI	DOID_552	CHEBI_37527
+

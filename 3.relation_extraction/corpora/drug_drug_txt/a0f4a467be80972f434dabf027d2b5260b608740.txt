@@ -1,0 +1,25 @@
+0|chunk|Model for Vaccine Design by Prediction of B-Epitopes of IEDB Given Perturbations in Peptide Sequence, In Vivo Process, Experimental Techniques, and Source or Host Organisms
+0	84	91 Peptide	Chemical	CHEBI_16670
+
+1|chunk|Perturbation methods add variation terms to a known experimental solution of one problem to approach a solution for a related problem without known exact solution. One problem of this type in immunology is the prediction of the possible action of epitope of one peptide after a perturbation or variation in the structure of a known peptide and/or other boundary conditions (host organism, biological process, and experimental assay). However, to the best of our knowledge, there are no reports of general-purpose perturbation models to solve this problem. In a recent work, we introduced a new quantitative structure-property relationship theory for the study of perturbations in complex biomolecular systems. In this work, we developed the first model able to classify more than 200,000 cases of perturbations with accuracy, sensitivity, and specificity >90% both in training and validation series. The perturbations include structural changes in >50000 peptides determined in experimental assays with boundary conditions involving >500 source organisms, >50 host organisms, >10 biological process, and >30 experimental techniques. The model may be useful for the prediction of new epitopes or the optimization of known peptides towards computational vaccine design.
+1	21	24 add	Chemical	CHEBI_40799
+1	65	73 solution	Chemical	CHEBI_75958
+1	103	111 solution	Chemical	CHEBI_75958
+1	154	162 solution	Chemical	CHEBI_75958
+1	237	243 action	Chemical	CHEBI_5133
+1	247	254 epitope	Chemical	CHEBI_53000
+1	262	269 peptide	Chemical	CHEBI_16670
+1	332	339 peptide	Chemical	CHEBI_16670
+1	955	963 peptides	Chemical	CHEBI_16670
+1	1221	1229 peptides	Chemical	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_75958
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_40799	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_75958	CHEBI_5133
+1	CHEBI-CHEBI	CHEBI_75958	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_75958	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_5133	CHEBI_53000
+1	CHEBI-CHEBI	CHEBI_5133	CHEBI_16670
+1	CHEBI-CHEBI	CHEBI_53000	CHEBI_16670
+

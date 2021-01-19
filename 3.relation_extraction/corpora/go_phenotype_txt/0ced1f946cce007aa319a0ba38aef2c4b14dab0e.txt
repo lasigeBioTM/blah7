@@ -1,0 +1,17 @@
+0|chunk|BMC Immunology Identification of a novel conserved HLA-A*0201-restricted epitope from the spike protein of SARS-CoV
+
+1|chunk|The spike (S) protein is a major structural glycoprotein of coronavirus (CoV), the causal agent of severe acute respiratory syndrome (SARS). The S protein is a potent target for SARS-specific cell-mediated immune responses. However, the mechanism CoV pathogenesis in SARS and the role of special CTLs in virus clearance are still largely uncharacterized. Here, we describe a study that leads to the identification of a novel HLA-A*0201-restricted epitope from conserved regions of S protein.
+1	99	105 severe	Phenotype	HP_0012828
+1	106	111 acute	Phenotype	HP_0011009
+1	251	263 pathogenesis	Gene_function	GO_0009405
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0011009	GO_0009405
+
+2|chunk|First, different SARS-CoV sequences were analyzed to predict eight candidate peptides from conserved regions of the S protein based upon HLA-A*0201 binding and proteosomal cleavage. Four of eight candidate peptides were tested by HLA-A*0201 binding assays. Among the four candidate peptides, Sp8 (S 958-966 , VLNDILSRL) induced specific CTLs both ex vivo in PBLs of healthy HLA-A2 + donors and in HLA-A2.1/K b transgenic mice immunized with a plasmid encoding full-length S protein. The immunized mice released IFN- and lysed target cells upon stimulation with Sp8 peptide-pulsed autologous dendritic cells in comparison to other candidates.
+2	148	155 binding	Gene_function	GO_0005488
+2	241	248 binding	Gene_function	GO_0005488
+2	366	373 healthy	Phenotype	HP_0032322
+2	GO-HP	GO_0005488	HP_0032322
+
+3|chunk|These results suggest that Sp8 is a naturally processed epitope. We propose that Sp8 epitope should help in the characterization of mechanisms of virus control and immunopathology in SARS-CoV infection.
+

@@ -1,0 +1,9 @@
+0|chunk|Equal Graph Partitioning on Estimated Infection Network as an Effective Epidemic Mitigation Measure
+
+1|chunk|Controlling severe outbreaks remains the most important problem in infectious disease area. With time, this problem will only become more severe as population density in urban centers grows. Social interactions play a very important role in determining how infectious diseases spread, and organization of people along social lines gives rise to non-spatial networks in which the infections spread. Infection networks are different for diseases with different transmission modes, but are likely to be identical or highly similar for diseases that spread the same way. Hence, infection networks estimated from common infections can be useful to contain epidemics of a more severe disease with the same transmission mode. Here we present a proof-of-concept study demonstrating the effectiveness of epidemic mitigation based on such estimated infection networks. We first generate artificial social networks of different sizes and average degrees, but with roughly the same clustering characteristic. We then start SIR epidemics on these networks, censor the simulated incidences, and use them to reconstruct the infection network. We then efficiently fragment the estimated network by removing the smallest number of nodes identified by a graph partitioning algorithm. Finally, we demonstrate the effectiveness of this targeted strategy, by comparing it against traditional untargeted strategies, in slowing down and reducing the size of advancing epidemics.
+1	12	18 severe	Phenotype	HP_0012828
+1	138	144 severe	Phenotype	HP_0012828
+1	671	677 severe	Phenotype	HP_0012828
+
+2|chunk|Citation: Hadidjojo J, Cheong SA (2011) Equal Graph Partitioning on Estimated Infection Network as an Effective Epidemic Mitigation Measure. PLoS ONE 6(7): e22124.
+

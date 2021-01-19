@@ -1,0 +1,53 @@
+0|chunk|viruses Advances in MERS-CoV Vaccines and Therapeutics Based on the Receptor-Binding Domain
+
+1|chunk|Middle East respiratory syndrome (MERS) coronavirus (MERS-CoV) is an infectious virus that was first reported in 2012. The MERS-CoV genome encodes four major structural proteins, among which the spike (S) protein has a key role in viral infection and pathogenesis. The receptor-binding domain (RBD) of the S protein contains a critical neutralizing domain and is an important target for development of MERS vaccines and therapeutics. In this review, we describe the relevant features of the MERS-CoV S-protein RBD, summarize recent advances in the development of MERS-CoV RBD-based vaccines and therapeutic antibodies, and illustrate potential challenges and strategies to further improve their efficacy.
+1	231	246 viral infection	Gene_function	GO_0016032
+
+2|chunk|MERS-CoV, particularly neutralizing antibodies that neutralize MERS-CoV infection, have been detected in the sera of dromedary camels from a number of countries and regions, with high positive detection rates [28] [29] [30] [31] [32] [33] [34] . In addition to camel-to-camel transmission of MERS-CoV, camel-to-human transmission can occur via direct or indirect contact with sick animals [35] . There is a high prevalence of MERS-CoV infection in camel workers, particularly in Saudi Arabia [27] . Following infection of individuals, human-to-human transmission of MERS-CoV occurs frequently, and mainly contributes to community or healthcare-associated outbreaks [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] . Infection of humans by MERS-CoV, which mainly occurs through the lower respiratory tract, causes severe respiratory symptoms, leading to failure of the respiratory system and/or other organs [7, 46, 47] . On rare occasions, the human intestinal tract can be an alternative infection route [46, 48] .
+2	109	113 sera	Gene_function	GO_0004617
+2	814	820 severe	Phenotype	HP_0012828
+2	GO-HP	GO_0004617	HP_0012828
+
+3|chunk|Anti-MERS-CoV antibodies, including neutralizing antibodies, are found in infected patients, some of whom have persistently presented such antibodies for up to 34 months after the disease outbreak [49, 50] . Antibody responses, and particularly neutralizing antibody responses, are crucial factors in the successful treatment of MERS-CoV infections in humans [50] [51] [52] . In this regard, the plasma of convalescent MERS-CoV-infected patients is useful for treatment of MERS-CoV infection clinically, but it requires a neutralizing antibody titer (e.g., 50% plaque-reduction neutralization titer: PRNT 50 ) 1:80 to obtain effective therapeutic results [51] [52] [53] . Currently, a human polyclonal IgG antibody (SAB-301) that is produced by transchromosomic cattle immunized with a MERS-CoV vaccine [54], as well as several vaccine candidates (https://clinicaltrials.gov/ct2/show/NCT03399578; https://clinicaltrials.gov/ct2/show/NCT03615911) [55], have been tested in human clinical trials. However, as yet no vaccines or therapeutic agents have been approved for the prevention or treatment of MERS, indicating the need for further development of novel and effective vaccines and therapeutics against MERS-CoV infection.
+3	208	216 Antibody	Gene_function	GO_0003823
+3	208	216 Antibody	Gene_function	GO_0042571
+3	258	266 antibody	Gene_function	GO_0003823
+3	258	266 antibody	Gene_function	GO_0042571
+3	535	543 antibody	Gene_function	GO_0003823
+3	535	543 antibody	Gene_function	GO_0042571
+3	707	715 antibody	Gene_function	GO_0003823
+3	707	715 antibody	Gene_function	GO_0042571
+
+4|chunk|In the following review, we will briefly describe MERS-CoV spike (S) protein receptor-binding domain (RBD), and summarize recent advances in the development of RBD-based MERS-CoV vaccines and therapeutics, as well as the potential challenges and future expectations for their successful development.
+
+5|chunk|MERS-CoV belongs to the genus Betacoronavirus, as does the severe acute respiratory syndrome (SARS)-CoV [56, 57] . MERS-CoV is a positive-sense, single-stranded RNA virus with a genome that encodes the structural proteins S, envelope (E), membrane (M), and nucleocapsid (N), as well as non-structural proteins (nsp1-16) translated from open reading frames (ORFs) 1a and 1b, and several accessory proteins, such as 3, 4a, 4b, 5, and 8b ( Figure 1A ,B) [58] [59] [60] [61] . The functions of these proteins have been elucidated. As an example, nsp1 is known to have an endonucleolytic RNA-cleavage function in the promotion of infectious virus particle production in human cells [62] , and it also participates in efficient viral replication through interaction with viral RNA, probably via a cis-acting element at the 5 -terminal coding region [63] . Evidence indicates that nsp16 is necessary for interferon resistance and viral pathogenesis [64], whereas nsp15 is a nidoviral uridylate-specific endoribonuclease, the structure of which has recently been resolved, and its activity may be mediated by catalytic residues, oligomeric assembly, or RNA-binding efficiency [65] . In addition, 4a protein recognizes and binds double-stranded (ds)RNA, in which four residues of the protein might be crucial for 4a-dsRNA stability [66] , and it also inhibits protein kinase R-mediated antiviral stress responses [67] . 4a mediated-inhibition of stress-granule formation may facilitate viral translation, resulting in efficient MERS-CoV replication [68]. The MERS-CoV 4b protein interferes with the NF-B-dependent innate immune response during infection [69]. Viruses 2019, 11, 60 3 of 18 Viruses 2018, 10, 3 Viruses 2019, 11, 60 4 of 18 events [87]
+5	59	65 severe	Phenotype	HP_0012828
+5	66	71 acute	Phenotype	HP_0011009
+5	225	233 envelope	Gene_function	GO_0031975
+5	239	247 membrane	Gene_function	GO_0016020
+5	257	269 nucleocapsid	Gene_function	GO_0019013
+5	929	941 pathogenesis	Gene_function	GO_0009405
+5	1606	1628 innate immune response	Gene_function	GO_0045087
+5	1613	1628 immune response	Gene_function	GO_0006955
+5	HP-GO	HP_0012828	GO_0031975
+5	HP-GO	HP_0012828	GO_0016020
+5	HP-GO	HP_0012828	GO_0019013
+5	HP-GO	HP_0012828	GO_0009405
+5	HP-GO	HP_0012828	GO_0045087
+5	HP-GO	HP_0012828	GO_0006955
+5	HP-GO	HP_0011009	GO_0031975
+5	HP-GO	HP_0011009	GO_0016020
+5	HP-GO	HP_0011009	GO_0019013
+5	HP-GO	HP_0011009	GO_0009405
+5	HP-GO	HP_0011009	GO_0045087
+5	HP-GO	HP_0011009	GO_0006955
+
+6|chunk|. In configurations with one, two, or three RBDs rotated out, RBD determinants are exposed at the apex of the RBD-DPP4 complex, and they are accessible for interaction with DPP4 ( Figure 3) [87]. Viruses 2018, 10, 4 Figure 2. Structural basis of MERS-CoV S-protein RBD-DPP4 interaction. Structural data for the complex of MERS-CoV S-protein RBD bound to DPP4 are from the protein data bank (PDB) (ID: 4KR0). The MERS-CoV RBD core is colored in blue, the RBM is colored in red, and DPP4 is colored in green. The RBM residues directly involved in DPP4 binding are shown as sticks. DPP4, dipeptidyl peptidase 4; RBD, receptor-binding domain; RBM, receptor-binding motif; S, spike protein.
+6	550	557 binding	Gene_function	GO_0005488
+
+7|chunk|Figure 3. Models of the MERS-CoV S-protein trimer bound to DPP4. The models were generated by superimposing the MERS-CoV RBD in the structure of the MERS-CoV S-protein RBD-DPP4 complex (PDB ID: 4KR0) onto the RBDs in the structures of MERS-CoV S-protein trimers with (A) one RBD (PDB ID: 5X5F), (B) two RBDs (PDB ID: 5X5C), or (C) three RBDs (PDB ID: 5X59) in the "standing" conformation. The MERS-CoV S-protein trimers are colored in gray, with three RBDs colored in red, blue, and green. Three DPP4 dimers are colored in plum, orange, and yellow. DPP4, dipeptidyl peptidase 4; PDB, protein data bank; RBD, receptor-binding domain; S, spike protein.
+
+8|chunk|The function and structure of the S-protein RBD demonstrate that it is an important target for development of vaccines and therapeutic agents against MERS-CoV.
+
+9|chunk|A number of MERS vaccines have been developed based on viral RBD, including nanoparticles, virus-like particles (VLPs), and recombinant proteins, and their protective efficacy has been evaluated in animal models, including mice with adenovirus 5 (Ad5)-directed expression of human DPP4 (Ad5/hDPP4), hDPP4-transgenic (hDPP4-Tg) mice, and non-human primates (NHPs) [88] [89] [90] [91] [92] [93] [94] . Features of these RBD-based vaccines, in terms of functionality, antigenicity, immunogenicity, and protective ability, are shown in Table 1 .
+

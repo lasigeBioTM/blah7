@@ -1,0 +1,215 @@
+{
+    "text": "Coronavirus disease 2019 (COVID-19) is a global pandemic affecting the world, seen in more than 1,300,000 patients. COVID-19 acts through the angiotensin-converting enzyme 2 (ACE2) receptor. Cardiovascular comorbidities are more common with COVID-19, and nearly 10% of cases develop myocarditis (22% of critical patients). Further research is needed to continue or discontinue ACE inhibitors and angiotensin receptor blockers, which are essential in hypertension and heart failure in COVID-19. Intensive research is promising for the treatment and prevention of COVID-19.",
+    "denotations": [
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 12,
+                "end": 19
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 26,
+                "end": 34
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 116,
+                "end": 124
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 241,
+                "end": 249
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "HP_0012819",
+            "span": {
+                "begin": 283,
+                "end": 294
+            },
+            "obj": "myocarditis"
+        },
+        {
+            "id": "DOID_820",
+            "span": {
+                "begin": 283,
+                "end": 294
+            },
+            "obj": "myocarditis"
+        },
+        {
+            "id": "CHEBI_35457",
+            "span": {
+                "begin": 377,
+                "end": 391
+            },
+            "obj": "ACE inhibitors"
+        },
+        {
+            "id": "CHEBI_35222",
+            "span": {
+                "begin": 381,
+                "end": 391
+            },
+            "obj": "inhibitors"
+        },
+        {
+            "id": "CHEBI_2719",
+            "span": {
+                "begin": 396,
+                "end": 407
+            },
+            "obj": "angiotensin"
+        },
+        {
+            "id": "HP_0000822",
+            "span": {
+                "begin": 450,
+                "end": 462
+            },
+            "obj": "hypertension"
+        },
+        {
+            "id": "DOID_10763",
+            "span": {
+                "begin": 450,
+                "end": 462
+            },
+            "obj": "hypertension"
+        },
+        {
+            "id": "HP_0001635",
+            "span": {
+                "begin": 467,
+                "end": 480
+            },
+            "obj": "heart failure"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 484,
+                "end": 492
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 562,
+                "end": 570
+            },
+            "obj": "COVID-19"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_4",
+            "pred": "effect",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_4",
+            "pred": "effect",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_820",
+            "pred": "effect",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_820",
+            "pred": "effect",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_10763",
+            "pred": "no_relation",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_10763",
+            "pred": "no_relation",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_2719"
+        },
+        {
+            "id": "R14",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_35457"
+        },
+        {
+            "id": "R15",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_2719"
+        }
+    ]
+}

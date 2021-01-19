@@ -1,0 +1,24 @@
+0|chunk|Article 1197 1 Original research Citation: Darling TL, Sherwood LJ and Hayhurst A (2017) Intracellular Crosslinking of Filoviral Nucleoproteins with Xintrabodies Restricts Viral Packaging
+0	89	102 Intracellular	Gene_function	GO_0005622
+
+1|chunk|Viruses assemble large macromolecular repeat structures that become part of the infectious particles or virions. Ribonucleocapsids (RNCs) of negative strand RNA viruses are a prime example where repetition of nucleoprotein (NP) along the genome creates a core polymeric helical scaffold that accommodates other nucleocapsid proteins including viral polymerase. The RNCs are transported through the cytosol for packaging into virions through association with viral matrix proteins at cell membranes. We hypothesized that RNC would be ideal targets for crosslinkers engineered to promote aberrant protein-protein interactions, thereby blocking their orderly transport and packaging. Previously, we had generated single-domain antibodies (sdAbs) against Filoviruses that have all targeted highly conserved C-terminal regions of NP known to be repetitively exposed along the length of the RNCs of Marburgvirus (MARV) and Ebolavirus (EBOV). Our crosslinker design consisted of dimeric sdAb expressed intracellularly, which we call Xintrabodies (X-for crosslinking). Electron microscopy of purified NP polymers incubated with purified sdAb constructs showed NP aggregation occurred in a genus-specific manner with dimeric and not monomeric sdAb. A virus-like particle (VLP) assay was used for initial evaluation where we found that dimeric sdAb inhibited NP incorporation into VP40-based VLPs whereas monomeric sdAb did not. Inhibition of NP packaging was genus specific. Confocal microscopy revealed dimeric sdAb was diffuse when expressed alone but focused on pools of NP when the two were coexpressed, while monomeric sdAb showed ambivalent partition. Infection of stable Vero cell lines expressing dimeric sdAb specific for either MARV or EBOV NP resulted in smaller plaques and reduced progeny of cognate virus relative to wild-type Vero cells. Though the impact was marginal at later time-points, the collective data suggest that viral replication can be reduced by crosslinking intracellular NP using relatively small amounts of dimeric sdAb to restrict NP packaging. The stoichiometry and ease of application of the approach would likely benefit from transitioning away from intracellular expression of crosslinking sdAb to exogenous delivery of antibody. By retuning sdAb specificity, the approach of crosslinking highly conserved regions of assembly critical proteins may well be applicable to inhibiting replication processes of a broad spectrum of viruses.
+1	311	323 nucleocapsid	Gene_function	GO_0019013
+1	398	405 cytosol	Gene_function	GO_0005829
+1	656	665 transport	Gene_function	GO_0006810
+1	1242	1261 virus-like particle	Gene_function	GO_0000943
+1	1263	1266 VLP	Gene_function	GO_0000943
+1	1512	1519 diffuse	Phenotype	HP_0020034
+1	1662	1668 stable	Phenotype	HP_0031915
+1	1979	1992 intracellular	Gene_function	GO_0005622
+1	2177	2190 intracellular	Gene_function	GO_0005622
+1	GO-HP	GO_0019013	HP_0020034
+1	GO-HP	GO_0019013	HP_0031915
+1	GO-HP	GO_0005829	HP_0020034
+1	GO-HP	GO_0005829	HP_0031915
+1	GO-HP	GO_0006810	HP_0020034
+1	GO-HP	GO_0006810	HP_0031915
+1	GO-HP	GO_0000943	HP_0020034
+1	GO-HP	GO_0000943	HP_0031915
+1	HP-GO	HP_0020034	GO_0005622
+1	HP-GO	HP_0031915	GO_0005622
+

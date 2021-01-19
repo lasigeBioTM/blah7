@@ -1,0 +1,55 @@
+0|chunk|Junn virus induces autophagy in human A549 cells
+
+1|chunk|Autophagy, a highly regulated degradative process that promotes cellular homeostasis, is increasingly recognised as a fundamental component of the cellular response against viral infection. In this study, we investigated the role of autophagy during Junn virus (JUNV) multiplication using human A549 cells. We found that JUNV infection induces an increment of the LC3-II/LC3-I ratio, an accumulation of punctate pattern in RFP-LC3-transfected cells and the colocalisation of viral nucleoprotein and LC3 protein, suggesting autophagosome formation. JUNV infection also induced the degradation of the autophagy receptor p62, suggesting that complete autophagic flux was triggered. In addition, we showed that inhibition of autophagy with bafilomycin A1 or 3-methyladenine significantly reduces viral multiplication. Moreover, viral yield was increased when autophagy was induced using rapamycin. Furthermore, JUNV infection induced the colocalisation of p62, ATG16, RAB5, RAB7A and LAMP1 with the autophagosomal LC3 protein. That suggests that phagosomes undergo the maturation process during viral infection. Finally, we demonstrated that siRNA experiments targeting essential autophagy genes (ATG5, ATG7 and Beclin 1) reduce viral protein synthesis and viral yield. Overall, our results indicate that JUNV activates host autophagy machinery enhancing its multiplication. phosphatidylinositol 3-kinase (PI3K) complex (which includes Beclin 1 and VPS34) and the ATG12 (ATG12-ATG5-ATG16) and LC3 complexes [4] . The activation of PI3K results in the recruitment of the ATG12 complex to isolation membranes and the lipidation of the LC3. This lipidated form of LC3, known as LC3-II, is associated with the internal and external surface of the expanding phagophores and is generally used as a marker of autophagosomes [5] . The association of LC3-II to the membrane is related to the expansion of the isolation membrane and closure of autophagosomes. After fusion with late endosomes or lysosomes, the autophagosome becomes an autolysosome, where LC3-II is partly degraded and partly delipidated and recycled [6] .
+1	225	229 role	Chemical	CHEBI_50906
+1	504	511 protein	Chemical	CHEBI_16541
+1	737	751 bafilomycin A1	Chemical	CHEBI_22689
+1	755	770 3-methyladenine	Chemical	CHEBI_38635
+1	1015	1022 protein	Chemical	CHEBI_16541
+1	1232	1239 protein	Chemical	CHEBI_16541
+1	1372	1392 phosphatidylinositol	Chemical	CHEBI_16749
+
+2|chunk|Functional autophagy is essential for cell viability under stress conditions, including viral infections [7, 8] . This cellular process can be antiviral or proviral, depending on the virus and the cellular context. A central aspect of the autophagic antiviral activity is to promote viral clearance by degradation of viral components. Moreover, autophagy also contributes to the innate and adaptive immunity by boosting the delivery of Toll-like receptor ligands to endosomes or by feeding antigens to the MHC class II pathway [7, 9] . On the other hand, some viruses take advantage of autophagy by using elements of the autophagic machinery to ensure a proper cellular platform for replication [10] [11] [12] or by benefiting from the rearrangement of cellular lipid metabolism in order to support stronger viral replication [13] . Therefore, the interaction of viruses with the host autophagy machinery may be a crucial mechanism for cell survival and could determines infection outcome.
+2	143	152 antiviral	Chemical	CHEBI_22587
+2	250	259 antiviral	Chemical	CHEBI_22587
+2	455	462 ligands	Chemical	CHEBI_52214
+2	490	498 antigens	Chemical	CHEBI_59132
+2	519	526 pathway	Chemical	CHEBI_34922
+2	605	613 elements	Chemical	CHEBI_33250
+2	762	767 lipid	Chemical	CHEBI_18059
+
+3|chunk|The family Arenaviridae currently includes two genera, Mammarenavirus (mammals) and Reptarenavirus (reptiles) [14] . On the basis of serological, geographical and genetic evidence, the mammarenaviruses are subdivided into Old World (OW, Africa, Europe, and Asia) and New World (NW, Americas) group [15] . The mammarenaviruses are generally associated with infection in rodents, but some are responsible for fatal diseases in humans, like Argentine hemorrhagic fever (AHF) caused by Junn virus (JUNV) [16] . Therefore, the hemorrhagic fever-causing mammarenaviruses are recognised to pose a significant threat to public health and are classified as category A priority pathogens [17] . Arenaviruses are enveloped and pleomorphic, with a diameter of 60-300 nm and two single-stranded RNA genome segments with an ambisense coding strategy [18] . The bipartite genome encodes four proteins: the matrix protein Z, the RNA-dependent RNA polymerase L, the major nucleocapsid protein N, and the glycoprotein precursor GPC [18] . Viral entry of NW clade B viruses is mediated by the transferrin receptor 1 (TfR1) [19], although it has been shown that JUNV also employs alternative cell-surface molecules [20] . Moreover, it has been demonstrated that clathrin-mediated endocytosis is the main route used by JUNV and involves the cytoskeleton and other cellular proteins [21, 22] . Genome release into the cytoplasm depends on the pH-dependent fusion of the viral and endosomal membranes, a process mediated by the virus envelope G2 protein, as part of the glycoprotein complex [23] . In particular, JUNV internalisation leads to PI3K/Akt signalling pathway activation [24] and requires both actin and a dynamic microtubule network [25] . However, the interplay between the mechanisms and regulation of intracellular trafficking and the arenavirus life cycle remains mostly unexplored.
+3	438	447 Argentine	Chemical	CHEBI_2819
+3	438	465 Argentine hemorrhagic fever	Disease	DOID_0050194
+3	783	786 RNA	Chemical	CHEBI_33697
+3	878	886 proteins	Chemical	CHEBI_36080
+3	899	906 protein	Chemical	CHEBI_16541
+3	928	931 RNA	Chemical	CHEBI_33697
+3	969	976 protein	Chemical	CHEBI_16541
+3	988	1000 glycoprotein	Chemical	CHEBI_17089
+3	1186	1195 molecules	Chemical	CHEBI_25367
+3	1353	1361 proteins	Chemical	CHEBI_36080
+3	1524	1531 protein	Chemical	CHEBI_16541
+3	1548	1560 glycoprotein	Chemical	CHEBI_17089
+3	1641	1648 pathway	Chemical	CHEBI_34922
+3	CHEBI-DOID	CHEBI_2819	DOID_0050194
+3	DOID-CHEBI	DOID_0050194	CHEBI_33697
+3	DOID-CHEBI	DOID_0050194	CHEBI_36080
+3	DOID-CHEBI	DOID_0050194	CHEBI_16541
+3	DOID-CHEBI	DOID_0050194	CHEBI_17089
+3	DOID-CHEBI	DOID_0050194	CHEBI_25367
+3	DOID-CHEBI	DOID_0050194	CHEBI_34922
+
+4|chunk|In individuals with AHF, the severity and prognosis of the disease correlate with high levels of IFN [26]. Several proteins involved in the IFN signalling mechanisms are also implicated in the regulation of autophagy [27] . Moreover, recent studies show that autophagy plays a critical role in the production of IFN during viral infection [28, 29] . Therefore, we aimed to investigate whether JUNV can modulate the host autophagic processes and how autophagy affects JUNV infection. Studying the subcellular distribution of autophagosome markers and using fluorescent-tagged probes to monitor the autophagy flux, we found that JUNV infection induces autophagy in A549 cells. Moreover, we used pharmacological inducer/inhibitors of autophagy Junn virus induces autophagy PLOS ONE | https://doi.org/10.
+4	59	66 disease	Disease	DOID_4
+4	115	123 proteins	Chemical	CHEBI_36080
+4	286	290 role	Chemical	CHEBI_50906
+4	323	338 viral infection	Disease	DOID_934
+4	776	779 ONE	Chemical	CHEBI_58972
+4	DOID-CHEBI	DOID_4	CHEBI_36080
+4	DOID-CHEBI	DOID_4	CHEBI_50906
+4	DOID-CHEBI	DOID_4	CHEBI_58972
+4	CHEBI-DOID	CHEBI_36080	DOID_934
+4	CHEBI-DOID	CHEBI_50906	DOID_934
+4	DOID-CHEBI	DOID_934	CHEBI_58972
+

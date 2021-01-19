@@ -1,0 +1,51 @@
+0|chunk|Respiratory syncytial virus (RSV) entry is inhibited by serine protease inhibitor AEBSF when present during an early stage of infection
+0	56	62 serine	Chemical	CHEBI_17115
+0	56	81 serine protease inhibitor	Chemical	CHEBI_64926
+0	63	81 protease inhibitor	Chemical	CHEBI_37670
+0	72	81 inhibitor	Chemical	CHEBI_35222
+0	CHEBI-CHEBI	CHEBI_17115	CHEBI_64926
+0	CHEBI-CHEBI	CHEBI_17115	CHEBI_37670
+0	CHEBI-CHEBI	CHEBI_17115	CHEBI_35222
+0	CHEBI-CHEBI	CHEBI_64926	CHEBI_37670
+0	CHEBI-CHEBI	CHEBI_64926	CHEBI_35222
+0	CHEBI-CHEBI	CHEBI_37670	CHEBI_35222
+
+1|chunk|Background: Host proteases have been shown to play important roles in many viral activities such as entry, uncoating, viral protein production and disease induction. Therefore, these cellular proteases are putative targets for the development of antivirals that inhibit their activity. Host proteases have been described to play essential roles in Ebola, HCV, HIV and influenza, such that specific protease inhibitors are able to reduce infection. RSV utilizes a host protease in its replication cycle but its potential as antiviral target is unknown. Therefore, we evaluated the effect of protease inhibitors on RSV infection.
+1	124	131 protein	Chemical	CHEBI_16541
+1	246	256 antivirals	Chemical	CHEBI_22587
+1	398	417 protease inhibitors	Chemical	CHEBI_37670
+1	407	417 inhibitors	Chemical	CHEBI_35222
+1	523	532 antiviral	Chemical	CHEBI_22587
+1	590	609 protease inhibitors	Chemical	CHEBI_37670
+1	599	609 inhibitors	Chemical	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_22587
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37670
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_37670
+1	CHEBI-CHEBI	CHEBI_22587	CHEBI_35222
+1	CHEBI-CHEBI	CHEBI_37670	CHEBI_35222
+
+2|chunk|To measure the sensitivity of RSV infection to protease inhibitors, cells were infected with RSV and incubated for 18 h in the presence or absence of the inhibitors. Cells were fixed, stained and studied using fluorescence microscopy.
+
+3|chunk|Results: Several protease inhibitors, representing different classes of proteases (AEBSF, Pepstatin A, E-64, TPCK, PMSF and aprotinin), were tested for inhibitory effects on an RSV A2 infection of HEp-2 cells. Different treatment durations, ranging from 1 h prior to inoculation and continuing for 18 h during the assay, were evaluated. Of all the inhibitors tested, AEBSF and TPCK significantly decreased RSV infection. To ascertain that the observed effect of AEBSF was not a specific feature related to HEp-2 cells, A549 and BEAS-2B cells were also used. Similar to HEp-2, an almost complete block in the number of RSV infected cells after 18 h of incubation was observed and the effect was dose-dependent. To gain insight into the mechanism of this inhibition, AEBSF treatment was applied during different phases of an infection cycle (pre-, peri-and post-inoculation treatment). The results from these experiments indicate that AEBSF is mainly active during the early entry phase of RSV. The inhibitory effect was also observed with other RSV isolates A1998/3-2 and A2000/3-4, suggesting that this is a general feature of RSV.
+3	26	36 inhibitors	Chemical	CHEBI_35222
+3	90	99 Pepstatin	Chemical	CHEBI_7989
+3	109	113 TPCK	Chemical	CHEBI_9642
+3	115	119 PMSF	Chemical	CHEBI_8102
+3	348	358 inhibitors	Chemical	CHEBI_35222
+3	377	381 TPCK	Chemical	CHEBI_9642
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_7989
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_9642
+3	CHEBI-CHEBI	CHEBI_35222	CHEBI_8102
+3	CHEBI-CHEBI	CHEBI_7989	CHEBI_9642
+3	CHEBI-CHEBI	CHEBI_7989	CHEBI_8102
+3	CHEBI-CHEBI	CHEBI_9642	CHEBI_8102
+
+4|chunk|Conclusion: RSV infection can be inhibited by broad serine protease inhibitors, AEBSF and TPCK. We confirmed that AEBSF inhibition is independent of the cell line used or RSV strain. The time point at which treatment with the inhibitor was most potent, was found to coincide with the expected moment of entry of the virion with the host cell.
+4	52	58 serine	Chemical	CHEBI_17115
+4	52	78 serine protease inhibitors	Chemical	CHEBI_64926
+4	226	235 inhibitor	Chemical	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_17115	CHEBI_64926
+4	CHEBI-CHEBI	CHEBI_17115	CHEBI_35222
+4	CHEBI-CHEBI	CHEBI_64926	CHEBI_35222
+

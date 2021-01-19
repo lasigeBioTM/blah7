@@ -1,0 +1,38 @@
+0|chunk|Arterivirus Nsp1 Modulates the Accumulation of Minus-Strand Templates to Control the Relative Abundance of Viral mRNAs
+
+1|chunk|The gene expression of plus-strand RNA viruses with a polycistronic genome depends on translation and replication of the genomic mRNA, as well as synthesis of subgenomic (sg) mRNAs. Arteriviruses and coronaviruses, distantly related members of the nidovirus order, employ a unique mechanism of discontinuous minus-strand RNA synthesis to generate subgenomelength templates for the synthesis of a nested set of sg mRNAs. Non-structural protein 1 (nsp1) of the arterivirus equine arteritis virus (EAV), a multifunctional regulator of viral RNA synthesis and virion biogenesis, was previously implicated in controlling the balance between genome replication and sg mRNA synthesis. Here, we employed reverse and forward genetics to gain insight into the multiple regulatory roles of nsp1. Our analysis revealed that the relative abundance of viral mRNAs is tightly controlled by an intricate network of interactions involving all nsp1 subdomains. Distinct nsp1 mutations affected the quantitative balance among viral mRNA species, and our data implicate nsp1 in controlling the accumulation of full-length and subgenome-length minus-strand templates for viral mRNA synthesis. The moderate differential changes in viral mRNA abundance of nsp1 mutants resulted in similarly altered viral protein levels, but progeny virus yields were greatly reduced. Pseudorevertant analysis provided compelling genetic evidence that balanced EAV mRNA accumulation is critical for efficient virus production. This first report on protein-mediated, mRNA-specific control of nidovirus RNA synthesis reveals the existence of an integral control mechanism to fine-tune replication, sg mRNA synthesis, and virus production, and establishes a major role for nsp1 in coordinating the arterivirus replicative cycle.
+1	4	19 gene expression	Gene_function	GO_0010467
+1	86	97 translation	Gene_function	GO_0006412
+1	146	155 synthesis	Gene_function	GO_0009058
+1	321	334 RNA synthesis	Gene_function	GO_0032774
+1	325	334 synthesis	Gene_function	GO_0009058
+1	381	390 synthesis	Gene_function	GO_0009058
+1	478	487 arteritis	Phenotype	HP_0012089
+1	538	551 RNA synthesis	Gene_function	GO_0032774
+1	542	551 synthesis	Gene_function	GO_0009058
+1	556	562 virion	Gene_function	GO_0019012
+1	667	676 synthesis	Gene_function	GO_0009058
+1	967	975 affected	Phenotype	HP_0032320
+1	1161	1170 synthesis	Gene_function	GO_0009058
+1	1176	1184 moderate	Phenotype	HP_0012826
+1	1561	1574 RNA synthesis	Gene_function	GO_0032774
+1	1565	1574 synthesis	Gene_function	GO_0009058
+1	1664	1673 synthesis	Gene_function	GO_0009058
+1	GO-HP	GO_0010467	HP_0012089
+1	GO-HP	GO_0010467	HP_0032320
+1	GO-HP	GO_0010467	HP_0012826
+1	GO-HP	GO_0006412	HP_0012089
+1	GO-HP	GO_0006412	HP_0032320
+1	GO-HP	GO_0006412	HP_0012826
+1	GO-HP	GO_0009058	HP_0012089
+1	GO-HP	GO_0009058	HP_0032320
+1	GO-HP	GO_0009058	HP_0012826
+1	GO-HP	GO_0032774	HP_0012089
+1	GO-HP	GO_0032774	HP_0032320
+1	GO-HP	GO_0032774	HP_0012826
+1	HP-GO	HP_0012089	GO_0019012
+1	GO-HP	GO_0019012	HP_0032320
+1	GO-HP	GO_0019012	HP_0012826
+
+2|chunk|Citation: Nedialkova DD, Gorbalenya AE, Snijder EJ (2010) Arterivirus Nsp1 Modulates the Accumulation of Minus-Strand Templates to Control the Relative Abundance of Viral mRNAs. PLoS Pathog 6(2): e1000772.
+

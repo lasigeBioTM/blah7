@@ -1,0 +1,36 @@
+0|chunk|Reference gene selection for the shell gland of laying hens in response to time-points of eggshell formation and nicarbazin
+0	113	123 nicarbazin	Chemical	CHEBI_81725
+
+1|chunk|Ten reference genes were investigated for normalization of gene expression data in the shell gland of laying hens. Analyses performed with geNorm revealed that hypoxanthine phosphoribosyltransferase 1 (HPRT1) and hydroxymethylbilane synthase (HMBS) were the two most stable reference genes in response to post-oviposition time alone (POT) or with nicarbazin treatment (POT+N) of laying hens. NormFinder analyses showed that the two most stable reference genes in response to POT and POT+N were 18S ribosomal RNA (18S rRNA), ribosomal protein L4 (RPL4) and HMBS, RPL4, respectively. BestKeeper analyses showed that 18S rRNA, RPL4 and HPRT1, HMBS were the two most stable reference genes for POT, and POT+N, respectively. Of the ten reference genes, all except B2M showed geNorm M <0.5, suggesting that they were stably expressed in the shell gland tissue. Consensus from these three programs suggested HPRT1 and HMBS could be used as the two most stable reference genes in the present study. Expression analyses of four candidate target genes with the two most and the two least stable genes showed that a combination of stable reference genes leads to more discriminable quantification of expression levels of target genes, while the least stable genes failed to do so. Therefore, HMBS and HPRT1 are recommended as the two most stable reference genes for the normalization of gene expression data at different stages of eggshell formation in brown-egg laying hens. Available statistical programs for reference gene ranking should include more robust analysis capability to analyse the gene expression data generated from factorial design experiments.
+1	0	3 Ten	Chemical	CHEBI_25879
+1	160	172 hypoxanthine	Chemical	CHEBI_17368
+1	213	232 hydroxymethylbilane	Chemical	CHEBI_16645
+1	347	357 nicarbazin	Chemical	CHEBI_81725
+1	498	511 ribosomal RNA	Chemical	CHEBI_18111
+1	508	511 RNA	Chemical	CHEBI_33697
+1	534	541 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_17368
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_16645
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_81725
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_18111
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_25879	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_17368	CHEBI_16645
+1	CHEBI-CHEBI	CHEBI_17368	CHEBI_81725
+1	CHEBI-CHEBI	CHEBI_17368	CHEBI_18111
+1	CHEBI-CHEBI	CHEBI_17368	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_17368	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_16645	CHEBI_81725
+1	CHEBI-CHEBI	CHEBI_16645	CHEBI_18111
+1	CHEBI-CHEBI	CHEBI_16645	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_16645	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_81725	CHEBI_18111
+1	CHEBI-CHEBI	CHEBI_81725	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_81725	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_18111	CHEBI_33697
+1	CHEBI-CHEBI	CHEBI_18111	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+
+2|chunk|Citation: Samiullah S, Roberts J, Wu S-B (2017) Reference gene selection for the shell gland of laying hens in response to time-points of eggshell formation and nicarbazin. PLoS ONE 12(7): e0180432. https://doi.org/10.
+2	178	181 ONE	Chemical	CHEBI_58972
+

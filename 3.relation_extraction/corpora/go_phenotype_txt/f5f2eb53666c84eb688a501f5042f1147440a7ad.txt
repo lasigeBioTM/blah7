@@ -1,0 +1,12 @@
+0|chunk|Drug screening with human SMN2 reporter identifies SMN protein stabilizers to correct SMA pathology
+
+1|chunk|Spinal muscular atrophy (SMA), the leading genetic cause of infant mortality, is caused by reduced levels of functional survival motor neuron (SMN) protein. To identify therapeutic agents for SMA, we established a versatile SMN2-GFP reporter line by targeting the human SMN2 gene. We then screened a compound library and identified Z-FA-FMK as a potent candidate. Z-FA-FMK, a cysteine protease inhibitor, increased functional SMN through inhibiting the protease-mediated degradation of both full-length and exon 7-deleted forms of SMN. Further studies reveal that CAPN1, CAPN7, CTSB, and CTSL mediate the degradation of SMN proteins, providing novel targets for SMA. Notably, Z-FA-FMK mitigated mitochondriopathy and neuropathy in SMA patient-derived motor neurons and showed protective effects in SMA animal model after intracerebroventricular injection. E64d, another cysteine protease inhibitor which can pass through the blood-brain barrier, showed even more potent therapeutic effects after subcutaneous delivery to SMA mice. Taken together, we have successfully established a human SMN2 reporter for future drug discovery and identified the potential therapeutic value of cysteine protease inhibitors in treating SMA via stabilizing SMN proteins.
+1	0	23 Spinal muscular atrophy	Phenotype	HP_0007269
+1	7	23 muscular atrophy	Phenotype	HP_0003202
+1	471	482 degradation	Gene_function	GO_0009056
+1	605	616 degradation	Gene_function	GO_0009056
+1	717	727 neuropathy	Phenotype	HP_0009830
+1	HP-GO	HP_0007269	GO_0009056
+1	HP-GO	HP_0003202	GO_0009056
+1	GO-HP	GO_0009056	HP_0009830
+

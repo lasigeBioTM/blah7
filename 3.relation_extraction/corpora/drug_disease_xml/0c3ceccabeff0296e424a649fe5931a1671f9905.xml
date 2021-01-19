@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="0c3ceccabeff0296e424a649fe5931a1671f9905">
+  <chunk id="0c3ceccabeff0296e424a649fe5931a1671f9905.c0" text="A host gene expression approach for identifying triggers of asthma exacerbations">
+    <entity charOffset="60-66" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c0.e0" ontology_id="DOID_2841" text="asthma" type="disease"/>
+  </chunk>
+  <chunk id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1" text="Asthma exacerbations often occur due to infectious triggers, but determining whether infection is present and whether it is bacterial or viral remains clinically challenging. A diagnostic strategy that clarifies these uncertainties could enable personalized asthma treatment and mitigate antibiotic overuse.">
+    <entity charOffset="0-6" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e0" ontology_id="DOID_2841" text="Asthma" type="disease"/>
+    <entity charOffset="258-264" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e1" ontology_id="DOID_2841" text="asthma" type="disease"/>
+    <entity charOffset="288-298" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e2" ontology_id="CHEBI_33281" text="antibiotic" type="chemical"/>
+    <pair e1="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e0" e2="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e2" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.p0" relation="true"/>
+    <pair e1="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e1" e2="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.e2" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c1.p1" relation="true"/>
+  </chunk>
+  <chunk id="0c3ceccabeff0296e424a649fe5931a1671f9905.c2" text="To explore the performance of validated peripheral blood gene expression signatures in discriminating bacterial, viral, and noninfectious triggers in subjects with asthma exacerbations.">
+    <entity charOffset="164-170" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c2.e0" ontology_id="DOID_2841" text="asthma" type="disease"/>
+  </chunk>
+  <chunk id="0c3ceccabeff0296e424a649fe5931a1671f9905.c3" text="Subjects with suspected asthma exacerbations of various etiologies were retrospectively selected for peripheral blood gene expression analysis from a pool of subjects previously enrolled in emergency departments with acute respiratory illness. RT-PCR quantified 87 gene targets, selected from microarray-based studies, followed by logistic regression modeling to define bacterial, viral, or noninfectious class. The model-predicted class was compared to clinical adjudication and procalcitonin.">
+    <entity charOffset="24-30" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c3.e0" ontology_id="DOID_2841" text="asthma" type="disease"/>
+  </chunk>
+  <chunk id="0c3ceccabeff0296e424a649fe5931a1671f9905.c4" text="Of 46 subjects enrolled, 7 were clinically adjudicated as bacterial, 18 as viral, and 21 as noninfectious. Model prediction was congruent with clinical adjudication in 15/18 viral and 13/21 noninfectious cases, but only 1/7 bacterial cases. None of the adjudicated bacterial cases had confirmatory microbiology; the precise etiology in this group was uncertain. Procalcitonin classified only one subject in the cohort as bacterial. 47.8% of subjects received antibiotics.">
+    <entity charOffset="411-417" id="0c3ceccabeff0296e424a649fe5931a1671f9905.c4.e0" ontology_id="CHEBI_34935" text="cohort" type="chemical"/>
+  </chunk>
+</document>

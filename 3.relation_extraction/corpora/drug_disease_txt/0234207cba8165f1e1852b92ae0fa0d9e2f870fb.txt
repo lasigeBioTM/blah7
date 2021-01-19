@@ -1,0 +1,47 @@
+0|chunk|Disease dynamics in a stochastic network game: a little empathy goes a long way in averting outbreaks
+0	0	7 Disease	Disease	DOID_4
+
+1|chunk|Individuals change their behavior during an epidemic in response to whether they and/or those they interact with are healthy or sick. Healthy individuals may utilize protective measures to avoid contracting a disease. Sick individuals may utilize preemptive measures to avoid spreading a disease. Yet, in practice both protective and preemptive changes in behavior come with costs. This paper proposes a stochastic network disease game model that captures the self-interests of individuals during the spread of a susceptible-infected-susceptible disease. In this model, individuals strategically modify their behavior based on current disease conditions. These reactions influence disease spread. We show that there is a critical level of concern, i.e., empathy, by the sick individuals above which disease is eradicated rapidly. Furthermore, we find that risk averse behavior by the healthy individuals cannot eradicate the disease without the preemptive measures of the sick individuals. Empathy is more effective than risk-aversion because when infectious individuals change behavior, they reduce all of their potential infections, whereas when healthy individuals change behavior, they reduce only a small portion of potential infections. This imbalance in the role played by the response of the infected versus the susceptible individuals on disease eradication affords critical policy insights.
+1	209	216 disease	Disease	DOID_4
+1	288	295 disease	Disease	DOID_4
+1	423	430 disease	Disease	DOID_4
+1	546	553 disease	Disease	DOID_4
+1	635	642 disease	Disease	DOID_4
+1	681	688 disease	Disease	DOID_4
+1	799	806 disease	Disease	DOID_4
+1	925	932 disease	Disease	DOID_4
+1	1265	1269 role	Chemical	CHEBI_50906
+1	1347	1354 disease	Disease	DOID_4
+1	DOID-CHEBI	DOID_4	CHEBI_50906
+
+2|chunk|Infectious diseases change social interaction patterns. During the Ebola outbreak, many studies pointed to changes in social customs playing a critical role in impeding disease spread, e.g., a switch to safe burial methods from traditional ceremonial burials 1 . Similar behavioral responses played important roles in modifying disease spread in other pandemics, e.g., wearing protective masks during the SARS pandemic 2-4 , decrease in unprotected sex when STD is at high levels 5,6 or covering one's own cough and staying at home if sick during a flu pandemic 7-9 . These responses to disease prevalence can, in turn, preempt disease spread by the infected to the susceptible individuals in the population.
+2	152	156 role	Chemical	CHEBI_50906
+2	169	176 disease	Disease	DOID_4
+2	328	335 disease	Disease	DOID_4
+2	405	409 SARS	Disease	DOID_2945
+2	527	531 home	Chemical	CHEBI_75830
+2	549	552 flu	Disease	DOID_8469
+2	587	594 disease	Disease	DOID_4
+2	628	635 disease	Disease	DOID_4
+2	CHEBI-DOID	CHEBI_50906	DOID_4
+2	CHEBI-DOID	CHEBI_50906	DOID_2945
+2	CHEBI-DOID	CHEBI_50906	DOID_8469
+2	DOID-CHEBI	DOID_4	CHEBI_75830
+2	DOID-CHEBI	DOID_2945	CHEBI_75830
+2	CHEBI-DOID	CHEBI_75830	DOID_8469
+
+3|chunk|In many infectious diseases infected and susceptible individuals have to be in close proximity for disease transmission. Accordingly, there has been a surge in interest on disease spread models in which a contact network determines the subset of individuals that can be infected by an infected individual 10-15 . These studies continue to be influential in relating network structural properties to outbreak thresholds and in revealing the limits to inferences made by models that assume homogeneous mixing.
+3	99	106 disease	Disease	DOID_4
+3	172	179 disease	Disease	DOID_4
+
+4|chunk|Beyond network structure, the rate at which individuals meet with their contacts depends on the individual preemptive measures taken during the course of a disease 16 . Consequently, a number of dynamic models have been developed to assess the effects individual preemptive measures have on infectious disease spread over networks [17] [18] [19] [20] . These models couple behavior and disease dynamics. That is, the state of the disease and the contact network determine the preemptive measures of the individuals which then affect the disease spread. Preemptive measures in these models, which are in the form of social distancing or rewiring of transmissive links, are assumed to be results of simple heuristics that approximate the decision-making of healthy individuals.
+4	0	6 Beyond	Chemical	CHEBI_133232
+4	156	163 disease	Disease	DOID_4
+4	291	309 infectious disease	Disease	DOID_0050117
+4	302	309 disease	Disease	DOID_4
+4	386	393 disease	Disease	DOID_4
+4	430	437 disease	Disease	DOID_4
+4	537	544 disease	Disease	DOID_4
+4	CHEBI-DOID	CHEBI_133232	DOID_4
+4	CHEBI-DOID	CHEBI_133232	DOID_0050117
+

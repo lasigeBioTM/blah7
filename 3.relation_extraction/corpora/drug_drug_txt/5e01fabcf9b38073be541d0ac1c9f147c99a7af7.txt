@@ -1,0 +1,20 @@
+0|chunk|Predicting RNA-Protein Interactions Using Only Sequence Information
+
+1|chunk|Background: RNA-protein interactions (RPIs) play important roles in a wide variety of cellular processes, ranging from transcriptional and post-transcriptional regulation of gene expression to host defense against pathogens. High throughput experiments to identify RNA-protein interactions are beginning to provide valuable information about the complexity of RNA-protein interaction networks, but are expensive and time consuming. Hence, there is a need for reliable computational methods for predicting RNA-protein interactions. Results: We propose RPISeq, a family of classifiers for predicting RNA-protein interactions using only sequence information. Given the sequences of an RNA and a protein as input, RPIseq predicts whether or not the RNAprotein pair interact. The RNA sequence is encoded as a normalized vector of its ribonucleotide 4-mer composition, and the protein sequence is encoded as a normalized vector of its 3-mer composition, based on a 7-letter reduced alphabet representation. Two variants of RPISeq are presented: RPISeq-SVM, which uses a Support Vector Machine (SVM) classifier and RPISeq-RF, which uses a Random Forest classifier. On two non-redundant benchmark datasets extracted from the Protein-RNA Interface Database (PRIDB), RPISeq achieved an AUC (Area Under the Receiver Operating Characteristic (ROC) curve) of 0.96 and 0.92. On a third dataset containing only mRNA-protein interactions, the performance of RPISeq was competitive with that of a published method that requires information regarding many different features (e.g., mRNA half-life, GO annotations) of the putative RNA and protein partners. In addition, RPISeq classifiers trained using the PRIDB data correctly predicted the majority (57-99%) of non-coding RNA-protein interactions in NPInter-derived networks from E. coli, S. cerevisiae, D. melanogaster, M. musculus, and H. sapiens.
+1	682	685 RNA	Chemical	CHEBI_33697
+1	692	699 protein	Chemical	CHEBI_16541
+1	775	778 RNA	Chemical	CHEBI_33697
+1	829	843 ribonucleotide	Chemical	CHEBI_26561
+1	871	878 protein	Chemical	CHEBI_16541
+1	1564	1568 mRNA	Chemical	CHEBI_33699
+1	1612	1615 RNA	Chemical	CHEBI_33697
+1	1620	1627 protein	Chemical	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_26561
+1	CHEBI-CHEBI	CHEBI_33697	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_26561
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33699
+1	CHEBI-CHEBI	CHEBI_26561	CHEBI_33699
+
+2|chunk|Our experiments with RPISeq demonstrate that RNA-protein interactions can be reliably predicted using only sequence-derived information. RPISeq offers an inexpensive method for computational construction of RNA-protein interaction networks, and should provide useful insights into the function of non-coding RNAs. RPISeq is freely available as a web-based server at
+

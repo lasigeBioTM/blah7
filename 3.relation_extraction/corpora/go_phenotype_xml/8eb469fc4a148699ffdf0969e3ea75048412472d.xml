@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="8eb469fc4a148699ffdf0969e3ea75048412472d">
+  <chunk id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0" text="The YXXΦ motif within the severe acute respiratory syndrome coronavirus (SARS-CoV) 3a protein is crucial for its intracellular transport">
+    <entity charOffset="26-32" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e0" ontology_id="HP_0012828" text="severe" type="phenotype"/>
+    <entity charOffset="33-38" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e1" ontology_id="HP_0011009" text="acute" type="phenotype"/>
+    <entity charOffset="113-126" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e2" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+    <entity charOffset="113-136" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e3" ontology_id="GO_0046907" text="intracellular transport" type="gene_function"/>
+    <entity charOffset="127-136" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e4" ontology_id="GO_0006810" text="transport" type="gene_function"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e0" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e2" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p0" relation="true"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e0" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e3" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p1" relation="true"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e0" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e4" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p2" relation="true"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e1" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e2" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p3" relation="true"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e1" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e3" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p4" relation="true"/>
+    <pair e1="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e1" e2="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.e4" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c0.p5" relation="true"/>
+  </chunk>
+  <chunk id="8eb469fc4a148699ffdf0969e3ea75048412472d.c1" text="Background: The SARS coronavirus (SARS-CoV) 3a protein functions as an ion channel, induces apoptosis and is important for viral pathogenesis. It is expressed on the cell surface and contains a tyrosine-based sorting motif and a di-acidic motif, which may be crucial for its intracellular trafficking. However the role of these motifs is not fully understood in the case of 3a protein.">
+    <entity charOffset="166-178" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c1.e0" ontology_id="GO_0009986" text="cell surface" type="gene_function"/>
+    <entity charOffset="275-288" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c1.e1" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+  </chunk>
+  <chunk id="8eb469fc4a148699ffdf0969e3ea75048412472d.c2" text="The subcellular distribution of the 3a protein was studied by immunofluorescence staining of cells transfected with wild type and mutant constructs along with markers for different intracellular compartments. Semi-quantitative RT-PCR was performed to estimate the mRNA where as western blotting was carried out to detect protein levels of wild type and mutant 3a proteins. In vitro transcription-translation was performed to estimate cell free protein synthesis.">
+    <entity charOffset="181-194" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c2.e0" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+  </chunk>
+  <chunk id="8eb469fc4a148699ffdf0969e3ea75048412472d.c3" text="Results: While the wild type 3a protein is efficiently transported to the plasma membrane, the protein with mutations in the tyrosine and valine residues within the YXXV motif (ΔYXXΦ) accumulated in the Golgi compartment. However the 3a protein with mutations within the EXD di-acidic motif (ΔEXD) showed an intracellular distribution similar to the wild type protein. Increased retention of the ΔYXXΦ protein in the Golgi compartment also increased its association with lipid droplets. The ΔYXXΦ protein also expressed at significantly lower levels compared to the wild type 3a protein, which was reversed with Brefeldin A and Aprotinin.">
+    <entity charOffset="308-321" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c3.e0" ontology_id="GO_0005622" text="intracellular" type="gene_function"/>
+  </chunk>
+  <chunk id="8eb469fc4a148699ffdf0969e3ea75048412472d.c4" text="The data suggest that the YXXΦ motif of the SARS-CoV 3a protein is necessary for Golgi to plasma membrane transport, in the absence of which the protein is targeted to lysosomal degradation compartment via lipid droplets.">
+    <entity charOffset="90-105" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c4.e0" ontology_id="GO_0005886" text="plasma membrane" type="gene_function"/>
+    <entity charOffset="97-105" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c4.e1" ontology_id="GO_0016020" text="membrane" type="gene_function"/>
+    <entity charOffset="178-189" id="8eb469fc4a148699ffdf0969e3ea75048412472d.c4.e2" ontology_id="GO_0009056" text="degradation" type="gene_function"/>
+  </chunk>
+</document>

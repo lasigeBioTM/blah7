@@ -1,0 +1,24 @@
+0|chunk|Bacillus Calmette-Gurin Induces PD-L1 Expression on Antigen- Presenting Cells via Autocrine and Paracrine Interleukin-STAT3 Circuits OPEN
+
+1|chunk|, and is also used as an immunotherapy for bladder cancer and other malignancies due to its immunostimulatory properties. Mycobacteria spp., however, are well known for their numerous immune evasion mechanisms that limit the true potential of their therapeutic use. One such major mechanism is the induction of programmed death ligand-1 (PD-L1), which mitigates adaptive immune responses. Here, we sought to unravel the molecular pathways behind PD-L1 up-regulation on antigen-presenting cells (APCs) by BCG. We found that infection of APCs with BCG induced PD-L1 up-regulation, but that this did not depend on direct infection, suggesting a soluble mediator for this effect. BCG induced potent quantities of IL-6 and IL-10, and the downstream transcription factor STAT3 was hyper-phosphorylated. Intracellular analyses revealed that levels of PD-L1 molecules were associated with the STAT3 phosphorylation state, suggesting a causal link. Neutralisation of the IL-6 or IL-10 cytokine receptors dampened STAT3 phosphorylation and BCG-mediated up-regulation of PD-L1 on APCs. Pharmacological inhibition of STAT3 achieved the same effect, confirming an autocrine-paracrine cytokine loop as a mechanism for BCG-mediated up-regulation of PD-L1. Finally, an in vivo immunisation model showed that BCG vaccination under PD-L1 blockade could enhance antigen-specific memory CD4 T-cell responses. These novel findings could lead to refinement of BCG as both a vaccine for infectious disease and as a cancer immunotherapy.
+1	43	57 bladder cancer	Phenotype	HP_0009725
+1	51	57 cancer	Phenotype	HP_0002664
+1	184	198 immune evasion	Gene_function	GO_0042783
+1	797	810 Intracellular	Gene_function	GO_0005622
+1	891	906 phosphorylation	Gene_function	GO_0016310
+1	1010	1025 phosphorylation	Gene_function	GO_0016310
+1	1360	1366 memory	Gene_function	GO_0007613
+1	1492	1498 cancer	Phenotype	HP_0002664
+1	HP-GO	HP_0009725	GO_0042783
+1	HP-GO	HP_0009725	GO_0005622
+1	HP-GO	HP_0009725	GO_0016310
+1	HP-GO	HP_0009725	GO_0007613
+1	HP-GO	HP_0002664	GO_0042783
+1	HP-GO	HP_0002664	GO_0005622
+1	HP-GO	HP_0002664	GO_0016310
+1	HP-GO	HP_0002664	GO_0007613
+
+2|chunk|An important limitation of this study is that IL-6 and IL-10 are unlikely to constitute the only two cytokines driving the STAT3-PD-L1 pathway, and we expect that there is redundancy in which cytokine drives PD-L1, as long as STAT3 is adequately activated. STAT3 can also be activated by nearly 20 members of the IL-6 and IL-10 cytokine families. However, IL-6 and IL-10 are two of the most abundant cytokines secreted by myeloid cells upon activation, and while dual blockade of the receptors led to a ~45% reduction in PD-L1, this could reflect the fact that blocking antibodies do not completely neutralise all biological activity 33 . STAT3 can also be weakly activated by TLR signalling and Src-family kinases 34,35 , and we cannot exclude the possibility of such contributions to its phosphorylation state. Furthermore, there are undoubtedly other transcriptional co-factors recruited to the Cd274 promoter alongside STAT3. Regardless, we have conclusively shown that STAT3 is biologically essential for its activity by BCG, and linked this to biological targets that are amenable to intervention in clinical settings (e.g. tocilizumab, an -IL-6R mAb). Indeed, this study provides four such points of intervention when using BCG: (i)
+2	681	691 signalling	Gene_function	GO_0023052
+2	790	805 phosphorylation	Gene_function	GO_0016310
+

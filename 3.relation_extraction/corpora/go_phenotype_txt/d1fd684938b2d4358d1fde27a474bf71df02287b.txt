@@ -1,0 +1,25 @@
+0|chunk|Cytokine Profiles in Human Metapneumovirus Infected Children: Identification of Genes Involved in the Antiviral Response and Pathogenesis
+0	102	120 Antiviral Response	Gene_function	GO_0051607
+0	125	137 Pathogenesis	Gene_function	GO_0009405
+
+1|chunk|Human metapneumovirus (hMPV) causes severe airway infection in children that may be caused by an unfavorable immune response. The nature of the innate immune response to hMPV in naturally occurring infections in children is largely undescribed, and it is unknown if inflammasome activation is implicated in disease pathogenesis. We examined nasopharynx aspirates and blood samples from hMPV-infected children without detectable co-infections. The expression of inflammatory and antiviral genes were measured in nasal airway secretions by relative mRNA quantification while blood plasma proteins were determined by a multiplex immunoassay. Several genes were significantly up-regulated at mRNA and protein level in the hMPV infected children. Most apparent was the expression of the chemokine IP-10, the pro-inflammatory cytokine IL-18 in addition to the interferon inducible gene ISG54. Interestingly, children experiencing more severe disease, as indicated by a severity index, had significantly more often up-regulation of the inflammasome-associated genes IL-1 and NLRP3. Overall, our data point to cytokines, particularly inflammasome-associated, that might be important in hMPV mediated lung disease and the antiviral response in children with severe infection. Our study is the first to demonstrate that inflammasome components are associated with increased illness severity in hMPV-infected children.
+1	36	42 severe	Phenotype	HP_0012828
+1	109	124 immune response	Gene_function	GO_0006955
+1	144	166 innate immune response	Gene_function	GO_0045087
+1	151	166 immune response	Gene_function	GO_0006955
+1	929	935 severe	Phenotype	HP_0012828
+1	963	971 severity	Phenotype	HP_0012824
+1	1193	1205 lung disease	Phenotype	HP_0002088
+1	1214	1232 antiviral response	Gene_function	GO_0051607
+1	1250	1256 severe	Phenotype	HP_0012828
+1	1373	1381 severity	Phenotype	HP_0012824
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0012828	GO_0045087
+1	HP-GO	HP_0012828	GO_0051607
+1	GO-HP	GO_0006955	HP_0012824
+1	GO-HP	GO_0006955	HP_0002088
+1	GO-HP	GO_0045087	HP_0012824
+1	GO-HP	GO_0045087	HP_0002088
+1	HP-GO	HP_0012824	GO_0051607
+1	HP-GO	HP_0002088	GO_0051607
+

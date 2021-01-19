@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="04be45dba1c24d640d5da8298c5f01e3165d84c4">
+  <chunk id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c0" text="Association between Use of Oral Anti-Diabetic Drugs and the Risk of Sepsis: A Nested Case-Control Study">
+    <entity charOffset="46-51" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c0.e0" ontology_id="CHEBI_23888" text="Drugs" type="chemical"/>
+  </chunk>
+  <chunk id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1" text="Using a cohort of patients, extracted from Taiwan's National Health Insurance Research Database, with type 2 diabetes who were newly diagnosed between 2010 and 2012 and treated with OADs, we conducted a nested case-control study involving 43,015 cases (patients who were first hospitalized for sepsis) and 43,015 matched controls. Compared with non-use, metformin use was associated with a decreased risk of developing sepsis (adjusted odds ratio [OR] 0.80, 95% confidence interval [CI] 0.77-0.83, P &lt; 0.001), but meglitinide (adjusted OR 1.32, 95% CI 1.25-1.40, P &lt; 0.001) use was associated with the increased risk of developing sepsis. The risk for development of sepsis was also lower among current (adjusted OR 0.87, 95% CI 0.78-0.96) and recent (adjusted OR 0.83, 95% CI 0.73-0.94) thiazolidinedione users. Current or recent sulfonylurea use and dipeptidyl peptidase-4 inhibitor use were not significantly associated with the development of sepsis. Our results highlight the need to consider the potential pleiotropic effect of OADs against sepsis in addition to the lowering of blood glucose.">
+    <entity charOffset="8-14" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e0" ontology_id="CHEBI_34935" text="cohort" type="chemical"/>
+    <entity charOffset="102-117" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e1" ontology_id="DOID_9352" text="type 2 diabetes" type="disease"/>
+    <entity charOffset="354-363" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e2" ontology_id="CHEBI_6801" text="metformin" type="chemical"/>
+    <entity charOffset="831-843" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e3" ontology_id="CHEBI_26831" text="sulfonylurea" type="chemical"/>
+    <entity charOffset="875-884" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e4" ontology_id="CHEBI_35222" text="inhibitor" type="chemical"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e0" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e1" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.p0" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e1" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e2" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.p1" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e1" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e3" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.p2" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e1" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.e4" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c1.p3" relation="true"/>
+  </chunk>
+  <chunk id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2" text="Between 1980 and 2008, the number of people with type 2 diabetes (T2D) worldwide increased from approximately 150 million to 350 million 1 . According to the World Health Organization, the global economic burden of T2D is tremendous, consuming 2.5-15% of countries' primary healthcare budgets 2 . Till now, the use of oral antidiabetic drugs (OADs) remains the preferred pharmacological therapy due to many patients' fear of insulin administration and its adverse effects, such as hypoglycemia and weight gain 3,4 .">
+    <entity charOffset="49-64" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e0" ontology_id="DOID_9352" text="type 2 diabetes" type="disease"/>
+    <entity charOffset="323-335" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e1" ontology_id="CHEBI_35526" text="antidiabetic" type="chemical"/>
+    <entity charOffset="336-341" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e2" ontology_id="CHEBI_23888" text="drugs" type="chemical"/>
+    <entity charOffset="425-432" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e3" ontology_id="CHEBI_145810" text="insulin" type="chemical"/>
+    <entity charOffset="481-493" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e4" ontology_id="DOID_9993" text="hypoglycemia" type="disease"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e0" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e1" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p0" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e0" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e2" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p1" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e0" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e3" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p2" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e1" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e4" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p3" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e2" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e4" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p4" relation="true"/>
+    <pair e1="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e3" e2="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.e4" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c2.p5" relation="true"/>
+  </chunk>
+  <chunk id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c3" text="Several classes of OAD are available on the market, including biguanide (metformin), sulfonylureas, alpha-glucosidase inhibitors, meglitinides, thiazolidinediones (TZDs), dipeptidyl peptidase-4 (DPP-4) inhibitors, and newer sodium-glucose cotransporter 2 (SGLT2) inhibitors. In addition to mediating">
+    <entity charOffset="62-71" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c3.e0" ontology_id="CHEBI_3095" text="biguanide" type="chemical"/>
+    <entity charOffset="144-162" id="04be45dba1c24d640d5da8298c5f01e3165d84c4.c3.e1" ontology_id="CHEBI_50864" text="thiazolidinediones" type="chemical"/>
+  </chunk>
+</document>

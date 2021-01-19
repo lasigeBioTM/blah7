@@ -1,0 +1,41 @@
+0|chunk|Critical COPD respiratory illness is linked to increased transcriptomic activity of neutrophil proteases genes
+0	9	13 COPD	Disease	DOID_3083
+
+1|chunk|Background: Gene expression profiling (GEP) in cells obtained from peripheral blood has shown that this is a very useful approach for biomarker discovery and for studying molecular pathogenesis of prevalent diseases. While there is limited literature available on gene expression markers associated with Chronic Obstructive Pulmonary Disease (COPD), the transcriptomic picture associated with critical respiratory illness in this disease is not known at the present moment. Findings: By using Agilent microarray chips, we have profiled gene expression signatures in the whole blood of 28 COPD patients hospitalized with different degrees of respiratory compromise.12 of them needed of admission to the ICU, whilst 16 were admitted to the Respiratory Medicine Service. GeneSpring GX 11.0 software was used for performing statistical comparisons of transcript levels between ICU and non-ICU patients. Ingenuity pathway analysis 8.5 (IPA) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) were used to select, annotate and visualize genes by function and pathway (gene ontology). T-test showed evidence of 1501 genes differentially expressed between ICU and non-ICU patients. IPA and KEGG analysis of the most representative biological functions revealed that ICU patients had increased levels of neutrophil gene transcripts, being [cathepsin G (CTSG)], [elastase, neutrophil expressed (ELANE)], [proteinase 3 (PRTN3)], [myeloperoxidase (MPO)], [cathepsin D (CTSD)], [defensin, alpha 3, neutrophil-specific (DEFA3)], azurocidin 1 (AZU1)], and [bactericidal/permeability-increasing protein (BPI)] the most representative ones. Proteins codified by these genes form part of the azurophilic granules of neutrophils and are involved in both antimicrobial defence and tissue damage. This "neutrophil signature" was paralleled by the necessity of advanced respiratory and vital support, and the presence of bacterial infection.
+1	134	143 biomarker	Chemical	CHEBI_59163
+1	304	341 Chronic Obstructive Pulmonary Disease	Disease	DOID_3083
+1	334	341 Disease	Disease	DOID_4
+1	430	437 disease	Disease	DOID_4
+1	588	592 COPD	Disease	DOID_3083
+1	750	758 Medicine	Chemical	CHEBI_23888
+1	909	916 pathway	Chemical	CHEBI_34922
+1	931	934 IPA	Chemical	CHEBI_17824
+1	1057	1064 pathway	Chemical	CHEBI_34922
+1	1178	1181 IPA	Chemical	CHEBI_17824
+1	1480	1485 alpha	Chemical	CHEBI_30216
+1	1583	1590 protein	Chemical	CHEBI_16541
+1	1628	1636 Proteins	Chemical	CHEBI_36080
+1	1739	1752 antimicrobial	Chemical	CHEBI_33281
+1	CHEBI-DOID	CHEBI_59163	DOID_3083
+1	CHEBI-DOID	CHEBI_59163	DOID_4
+1	DOID-CHEBI	DOID_3083	CHEBI_23888
+1	DOID-CHEBI	DOID_3083	CHEBI_34922
+1	DOID-CHEBI	DOID_3083	CHEBI_17824
+1	DOID-CHEBI	DOID_3083	CHEBI_30216
+1	DOID-CHEBI	DOID_3083	CHEBI_16541
+1	DOID-CHEBI	DOID_3083	CHEBI_36080
+1	DOID-CHEBI	DOID_3083	CHEBI_33281
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+1	DOID-CHEBI	DOID_4	CHEBI_34922
+1	DOID-CHEBI	DOID_4	CHEBI_17824
+1	DOID-CHEBI	DOID_4	CHEBI_30216
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_33281
+
+2|chunk|Conclusion: Study of transcriptomic signatures in blood suggests an essential role of neutrophil proteases in COPD patients with critical respiratory illness. Measurement and modulation of the expression of these genes could present an option for clinical monitoring and treatment of severe COPD exacerbations.
+2	78	82 role	Chemical	CHEBI_50906
+2	110	114 COPD	Disease	DOID_3083
+2	291	295 COPD	Disease	DOID_3083
+2	CHEBI-DOID	CHEBI_50906	DOID_3083
+

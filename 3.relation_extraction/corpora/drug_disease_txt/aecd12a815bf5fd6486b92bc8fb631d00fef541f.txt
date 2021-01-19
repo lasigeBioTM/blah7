@@ -1,0 +1,47 @@
+0|chunk|Open Access Using simulation for training and to change protocol during the outbreak of severe acute respiratory syndrome
+0	5	11 Access	Chemical	CHEBI_34922
+0	88	121 severe acute respiratory syndrome	Disease	DOID_2945
+0	113	121 syndrome	Disease	DOID_225
+0	CHEBI-DOID	CHEBI_34922	DOID_2945
+0	CHEBI-DOID	CHEBI_34922	DOID_225
+
+1|chunk|Introduction During the 2003 severe acute respiratory syndrome (SARS) crisis, we proposed and tested a new protocol for cardiac arrest in a patient with SARS. The protocol was rapidly and effectively instituted by teamwork training using high-fidelity simulation.
+1	29	62 severe acute respiratory syndrome	Disease	DOID_2945
+1	54	62 syndrome	Disease	DOID_225
+1	64	68 SARS	Disease	DOID_2945
+1	120	134 cardiac arrest	Disease	DOID_0060319
+1	153	157 SARS	Disease	DOID_2945
+
+2|chunk|Methods Phase 1 was a curriculum design of a SARS-specific cardiac arrest protocol in three steps: planning the new protocol, repeated simulations of this protocol in a classroom, and a subsequent simulation of a cardiac arrest on a hospital ward. Phase 2 was the training of 275 healthcare workers (HCWs) using the new protocol. Training involved a seminar, practice in wearing the mandatory personal protection system (PPS), and cardiac arrest simulations with subsequent debriefing.
+2	59	73 cardiac arrest	Disease	DOID_0060319
+2	213	227 cardiac arrest	Disease	DOID_0060319
+2	431	445 cardiac arrest	Disease	DOID_0060319
+
+3|chunk|Results Simulation provided insights that had not been considered in earlier phases of development. For example, a single person can don a PPS worn for the SARS patient in 1 1/ 2 minutes. However, when multiple members of a cardiac arrest team were dressing simultaneously, the time to don the PPS increased to between 3 1/2 and 5 1/2 minutes. Errors in infection control as well as in medical management of advanced cardiac life support (ACLS) were corrected. Conclusion During the SARS crisis, real-time use of a highfidelity simulator allowed the training of 275 HCWs in 2 weeks, with debriefing and error management. HCWs were required to manage the SARS cardiac arrest wearing unfamiliar equipment and following a modified ACLS protocol. The insight gained from this experience will be valuable for future infectious disease challenges in critical care.
+3	133	136 don	Chemical	CHEBI_10022
+3	133	136 don	Disease	DOID_0080018
+3	156	160 SARS	Disease	DOID_2945
+3	224	238 cardiac arrest	Disease	DOID_0060319
+3	286	289 don	Chemical	CHEBI_10022
+3	286	289 don	Disease	DOID_0080018
+3	439	443 ACLS	Disease	DOID_9250
+3	483	487 SARS	Disease	DOID_2945
+3	643	649 manage	Chemical	CHEBI_81767
+3	654	658 SARS	Disease	DOID_2945
+3	659	673 cardiac arrest	Disease	DOID_0060319
+3	728	732 ACLS	Disease	DOID_9250
+3	811	829 infectious disease	Disease	DOID_0050117
+3	822	829 disease	Disease	DOID_4
+3	CHEBI-DOID	CHEBI_10022	DOID_0080018
+3	CHEBI-DOID	CHEBI_10022	DOID_2945
+3	CHEBI-DOID	CHEBI_10022	DOID_0060319
+3	CHEBI-DOID	CHEBI_10022	DOID_9250
+3	CHEBI-DOID	CHEBI_10022	DOID_0050117
+3	CHEBI-DOID	CHEBI_10022	DOID_4
+3	DOID-CHEBI	DOID_0080018	CHEBI_81767
+3	DOID-CHEBI	DOID_2945	CHEBI_81767
+3	DOID-CHEBI	DOID_0060319	CHEBI_81767
+3	DOID-CHEBI	DOID_9250	CHEBI_81767
+3	CHEBI-DOID	CHEBI_81767	DOID_0050117
+3	CHEBI-DOID	CHEBI_81767	DOID_4
+

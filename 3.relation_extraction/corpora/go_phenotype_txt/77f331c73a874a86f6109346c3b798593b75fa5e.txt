@@ -1,0 +1,39 @@
+0|chunk|
+
+1|chunk|Willebrand factor (vWF) polyclonal antibody and rabbit anti-early endosome antigen 1 (EEA1) monoclonal antibody were purchased from Invitrogen (Carlsbad, CA). Rabbit anti-Akt polyclonal antibody and rabbit phospho-Akt (Ser473) polyclonal antibody were purchased from Cell Signaling Technology (Danvers, MA). Mouse anti-human Na+, K+ ATPase antibody was purchased from BD Biosciences (San Jose, CA). Unless otherwise indicated, all reagents were purchased from Thermo Fisher Scientific (Rockford, IL).
+1	35	43 antibody	Gene_function	GO_0003823
+1	35	43 antibody	Gene_function	GO_0042571
+1	66	74 endosome	Gene_function	GO_0005768
+1	103	111 antibody	Gene_function	GO_0003823
+1	103	111 antibody	Gene_function	GO_0042571
+1	186	194 antibody	Gene_function	GO_0003823
+1	186	194 antibody	Gene_function	GO_0042571
+1	238	246 antibody	Gene_function	GO_0003823
+1	238	246 antibody	Gene_function	GO_0042571
+1	272	281 Signaling	Gene_function	GO_0023052
+1	340	348 antibody	Gene_function	GO_0003823
+1	340	348 antibody	Gene_function	GO_0042571
+
+2|chunk|Human umbilical vein endothelial cells (HUVECs) (Cell Applications, Atlanta, GA) or human cerebral microvascular endothelial cells (hCMECs) (Applied Biological Materials, Richmond, BC, Canada) were grown in Endothelial Cell Growth Medium (Cell Applications, Atlanta, GA) supplemented with 10% heat-inactivated fetal bovine serum (FBS) with humidity in 5% CO2 at 37 C. The media was changed every 48 h. Cells were allowed to grow for up to 48 h until 90% confluence of the monolayer was achieved. Cells were maintained in Endothelial Cell Growth Medium during the experiments. Cell passages 3-6 were used for all experiments. African green monkey kidney epithelial Vero E6 cells (ATCC CRL-1586) were grown in Dulbeccos modified Eagles medium (DMEM) with 5% FBS with humidity in 5% CO2 at 37 C. Mouse primary brain microvascular endothelial cells (BMECs) were isolated from brain tissues of pathogen-free laboratory 6-8-week-old C57BL/6 wild-type and Epac1-null mice using a published protocol [1]. BMECs were grown in Endothelial Cell Growth Medium (Cell Applications) supplemented with 10% FBS with humidity in 5% CO2 at 37 C. Cell passages 2-3 were used for all experiments.
+2	219	230 Cell Growth	Gene_function	GO_0016049
+2	224	230 Growth	Gene_function	GO_0040007
+2	534	545 Cell Growth	Gene_function	GO_0016049
+2	539	545 Growth	Gene_function	GO_0040007
+2	1033	1044 Cell Growth	Gene_function	GO_0016049
+2	1038	1044 Growth	Gene_function	GO_0040007
+
+3|chunk|EBOV (199510621 Zaire strain, GenBank accession number KR824526) and Marburg virus (200501379 Angola strain, GenBank accession number KU978782) stocks were propagated in Vero E6 cells in Earls modified Eagles medium (EMEM) with 2% FBS at 37 C. The freeze-thaw technique was used for virus harvesting. EBOV titers were calculated using tissue culture infective dose (TCID50) assays done in a microtiter format using four replicates at 10-fold serial dilutions (10 -2 to 10 -8 ). After an 11-day incubation period at 37 C, the cells were fixed with 10% buffered formalin overnight, and then stained with 0.5% crystal violet for 15 min. Virus titers were calculated using the method of Reed and Muench. All work with filoviruses was performed in the biosafety level 4 (BSL-4) facility of the Galveston National Laboratory.
+
+4|chunk|The recombinant vesicular stomatitis virus expressing the glycoprotein (GP) of Zaire EBOV (strain Mayinga) (EGP-VSV) was kindly provided by Drs. Thomas Geisbert and Chad Mire (UTMB). Viral stocks were prepared in Vero E6 cells using DMEM with 2% fetal calf serum, and stored at 80C. The concentration of EGP-VSV was determined by plaque assay in Vero E6 cell monolayers under a 1.6% Tragacanth gum mixed with 2 DMEM medium (1:1) with 2% FBS overlay. Plaques of EGP-VSV were counted after staining with 0.25% crystal violet in 10% buffered formalin.
+4	26	36 stomatitis	Phenotype	HP_0010280
+
+5|chunk|Total RNA from TriPure Isolation Reagent-diluted supernatants and cell samples was extracted according to the manufacturer's directions and resuspended with 20 L of diethylpyrocarbonate (DEPC)-treated RNase-free water. RNA was quantified spectrophotometrically at 260 nm using a NanoDrop 2000 Spectrophotometer (Thermo Fisher Scientific). Samples of purified RNA were stored at 80C. One microgram of each RNA sample was reverse transcribed using the iScript reverse transcription supermix (BioRad, Hercules, CA) with an RNase inhibitor and random hexamer primers according to the manufacturer's instruction. Detection of EBOV was performed using a qPCR TaqMan assay that amplified an 80-bp fragment of the receptor binding and fusion glycoprotein gene fragment of EBOV-Zaire. The primers used were: 5-TTT TCA ATC CTC AAC CGT AAG GC-3 (forward) and 5-CAG TCC GGT CCC AGA ATG TG-3 (reverse), and probe FAM-CAT GTG CCG CCC CAT CGC TGC-BHQ1. cDNA samples were run on the Stratagene Mx3000P thermal cycler in a final volume of 20 L containing 1x TaqMan Fast Advanced Master Mix, 1 mol of each primer, 0.1 mol probe, and 100 ng template. The thermal profile for the reaction was: 50 C for 15 min, 95 C for 5 min, followed by 45 cycles of 95 C for 1 s, 60 C for 20 s, then 1 cycle of 40 C for 30 s. In each qPCR run, 10-fold serial dilutions of a standard (60,000 EBOV-Zaire Mayinga particles/L of RNA) were included to confirm the sensitivity of the qPCR method, and noninfected cells (mock) were used as a negative control. A standard curve was used to convert the threshold cycle value (Cq) to the number of RNA copies per milliliter of sample. For Marburg virus (MARV) detection, primers MN FP and MN RP, and probe MN P were used as previously described [2] . Ten-fold serial dilutions of MARV RNA (409,000 MARV-Ravn particles/l of RNA) were included as a standard and a positive control in each PCR run. Immunoblotting and Immunoprecipitation (IP)
+5	461	482 reverse transcription	Gene_function	GO_0001171
+5	718	725 binding	Gene_function	GO_0005488
+5	825	828 CGT	Gene_function	GO_0047801
+5	860	863 TCC	Gene_function	GO_0005579
+5	868	871 CCC	Gene_function	GO_0030896
+5	923	926 CCC	Gene_function	GO_0030896
+5	927	930 CAT	Gene_function	GO_0004096
+5	1056	1060 Fast	Gene_function	GO_0033867
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="5c364a85b8e920e9b4ad2fa201589fc319bc174b">
+  <chunk id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c0" text="Interplay between SIN3A and STAT3 Mediates Chromatin Conformational Changes and GFAP Expression during Cellular Differentiation">
+    <entity charOffset="43-52" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c0.e0" ontology_id="GO_0000785" text="Chromatin" type="gene_function"/>
+  </chunk>
+  <chunk id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c1" text="Background: Neurons and astrocytes are generated from common neural precursors, yet neurogenesis precedes astrocyte formation during embryogenesis. The mechanisms of neural development underlying suppression and de-suppression of differentiation-related genes for cell fate specifications are not well understood.">
+    <entity charOffset="84-96" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c1.e0" ontology_id="GO_0022008" text="neurogenesis" type="gene_function"/>
+  </chunk>
+  <chunk id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2" text="Methodology/Principal Findings: By using an in vitro system in which NTera-2 cells were induced to differentiate into an astrocyte-like lineage, we revealed a novel role for Sin3A in maintaining the suppression of GFAP in NTera-2 cells. Sin3A coupled with MeCP2 bound to the GFAP promoter and their occupancies were correlated with repression of GFAP transcription. The repression by Sin3A and MeCP2 may be an essential mechanism underlying the inhibition of cell differentiation. Upon commitment toward an astrocyte-like lineage, Sin3A-MeCP2 departed from the promoter and activated STAT3 simultaneously bound to the promoter and exon 1 of GFAP; meanwhile, olig2 was exported from nuclei to the cytoplasm. This suggested that a three-dimensional or higher-order structure was provoked by STAT3 binding between the promoter and proximal coding regions. STAT3 then recruited CBP/p300 to exon 1 and targeted the promoter for histone H3K9 and H3K14 acetylation. The CBP/p300-mediated histone modification further facilitates chromatin remodeling, thereby enhancing H3K4 trimethylation and recruitment of RNA polymerase II to activate GFAP gene transcription.">
+    <entity charOffset="795-802" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e0" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="828-836" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e1" ontology_id="HP_0012840" text="proximal" type="phenotype"/>
+    <entity charOffset="981-1001" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e2" ontology_id="GO_0016570" text="histone modification" type="gene_function"/>
+    <entity charOffset="1022-1031" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e3" ontology_id="GO_0000785" text="chromatin" type="gene_function"/>
+    <pair e1="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e0" e2="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e1" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.p0" relation="true"/>
+    <pair e1="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e1" e2="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e2" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.p1" relation="true"/>
+    <pair e1="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e1" e2="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.e3" id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c2.p2" relation="true"/>
+  </chunk>
+  <chunk id="5c364a85b8e920e9b4ad2fa201589fc319bc174b.c3" text="Conclusions/Significance: These results provide evidence that exchange of repressor and activator complexes and epigenetic modifications are critical strategies for cellular differentiation and lineage-specific gene expression."/>
+</document>

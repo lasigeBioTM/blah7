@@ -1,0 +1,111 @@
+0|chunk|Metabolic engineering of Escherichia coli into a versatile glycosylation platform: production of bio-active quercetin glycosides
+0	108	117 quercetin	Chemical	CHEBI_16243
+0	118	128 glycosides	Chemical	CHEBI_24400
+0	CHEBI-CHEBI	CHEBI_16243	CHEBI_24400
+
+1|chunk|Background: Flavonoids are bio-active specialized plant metabolites which mainly occur as different glycosides. Due to the increasing market demand, various biotechnological approaches have been developed which use Escherichia coli as a microbial catalyst for the stereospecific glycosylation of flavonoids. Despite these efforts, most processes still display low production rates and titers, which render them unsuitable for large-scale applications.
+1	12	22 Flavonoids	Chemical	CHEBI_47916
+1	50	67 plant metabolites	Chemical	CHEBI_76924
+1	56	67 metabolites	Chemical	CHEBI_25212
+1	247	255 catalyst	Chemical	CHEBI_35223
+1	296	306 flavonoids	Chemical	CHEBI_47916
+1	CHEBI-CHEBI	CHEBI_47916	CHEBI_76924
+1	CHEBI-CHEBI	CHEBI_47916	CHEBI_25212
+1	CHEBI-CHEBI	CHEBI_47916	CHEBI_35223
+1	CHEBI-CHEBI	CHEBI_76924	CHEBI_25212
+1	CHEBI-CHEBI	CHEBI_76924	CHEBI_35223
+1	CHEBI-CHEBI	CHEBI_25212	CHEBI_35223
+
+2|chunk|In this contribution, we expanded a previously developed in vivo glucosylation platform in E. coli W, into an efficient system for selective galactosylation and rhamnosylation. The rational of the novel metabolic engineering strategy constitutes of the introduction of an alternative sucrose metabolism in the form of a sucrose phosphorylase, which cleaves sucrose into fructose and glucose 1-phosphate as precursor for UDP-glucose. To preserve these intermediates for glycosylation purposes, metabolization reactions were knocked-out. Due to the pivotal role of UDP-glucose, overexpression of the interconverting enzymes galE and MUM4 ensured the formation of both UDP-galactose and UDP-rhamnose, respectively. By additionally supplying exogenously fed quercetin and overexpressing a flavonol galactosyltransferase (F3GT) or a rhamnosyltransferase (RhaGT), 0.94 g/L hyperoside (quercetin 3-O-galactoside) and 1.12 g/L quercitrin (quercetin 3-O-rhamnoside) could be produced, respectively. In addition, both strains showed activity towards other promising dietary flavonols like kaempferol, fisetin, morin and myricetin.
+2	284	291 sucrose	Chemical	CHEBI_17992
+2	320	327 sucrose	Chemical	CHEBI_17992
+2	357	364 sucrose	Chemical	CHEBI_17992
+2	370	378 fructose	Chemical	CHEBI_28645
+2	383	390 glucose	Chemical	CHEBI_17234
+2	555	559 role	Chemical	CHEBI_50906
+2	666	679 UDP-galactose	Chemical	CHEBI_18307
+2	754	763 quercetin	Chemical	CHEBI_16243
+2	783	793 a flavonol	Chemical	CHEBI_28802
+2	785	793 flavonol	Chemical	CHEBI_5078
+2	867	877 hyperoside	Chemical	CHEBI_67486
+2	879	888 quercetin	Chemical	CHEBI_16243
+2	879	904 quercetin 3-O-galactoside	Chemical	CHEBI_67486
+2	919	929 quercitrin	Chemical	CHEBI_17558
+2	931	940 quercetin	Chemical	CHEBI_16243
+2	931	955 quercetin 3-O-rhamnoside	Chemical	CHEBI_17558
+2	1064	1073 flavonols	Chemical	CHEBI_28802
+2	1100	1105 morin	Chemical	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_28645
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_17234
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_18307
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_16243
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_17992	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_17234
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_18307
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_16243
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_28645	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_50906
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_18307
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_16243
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_17234	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_18307
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_16243
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_50906	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_16243
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_18307	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_16243	CHEBI_28802
+2	CHEBI-CHEBI	CHEBI_16243	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_16243	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_16243	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_16243	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_28802	CHEBI_5078
+2	CHEBI-CHEBI	CHEBI_28802	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_28802	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_28802	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_5078	CHEBI_67486
+2	CHEBI-CHEBI	CHEBI_5078	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_5078	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_67486	CHEBI_17558
+2	CHEBI-CHEBI	CHEBI_67486	CHEBI_75092
+2	CHEBI-CHEBI	CHEBI_17558	CHEBI_75092
+
+3|chunk|Conclusions: Two E. coli W mutants were engineered that could effectively produce the bio-active flavonol glycosides hyperoside and quercitrin starting from the cheap substrates sucrose and quercetin. This novel fermentationbased glycosylation strategy will allow the economically viable production of various glycosides.
+3	97	105 flavonol	Chemical	CHEBI_5078
+3	106	116 glycosides	Chemical	CHEBI_24400
+3	117	127 hyperoside	Chemical	CHEBI_67486
+3	132	142 quercitrin	Chemical	CHEBI_17558
+3	178	185 sucrose	Chemical	CHEBI_17992
+3	310	320 glycosides	Chemical	CHEBI_24400
+3	CHEBI-CHEBI	CHEBI_5078	CHEBI_24400
+3	CHEBI-CHEBI	CHEBI_5078	CHEBI_67486
+3	CHEBI-CHEBI	CHEBI_5078	CHEBI_17558
+3	CHEBI-CHEBI	CHEBI_5078	CHEBI_17992
+3	CHEBI-CHEBI	CHEBI_24400	CHEBI_67486
+3	CHEBI-CHEBI	CHEBI_24400	CHEBI_17558
+3	CHEBI-CHEBI	CHEBI_24400	CHEBI_17992
+3	CHEBI-CHEBI	CHEBI_67486	CHEBI_17558
+3	CHEBI-CHEBI	CHEBI_67486	CHEBI_17992
+3	CHEBI-CHEBI	CHEBI_17558	CHEBI_17992
+

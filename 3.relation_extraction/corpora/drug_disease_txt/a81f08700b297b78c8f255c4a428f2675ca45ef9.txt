@@ -1,0 +1,52 @@
+0|chunk|The Rotavirus NSP4 Viroporin Domain is a Calcium-conducting Ion Channel OPEN
+0	60	63 Ion	Chemical	CHEBI_24870
+
+1|chunk|Viroporins are small virus-encoded ion channel proteins. Most viroporins are monovalent selective cation channels, with few showing the ability to conduct divalent cations, like calcium (Ca 2+ ). Nevertheless, some viroporins are known to disrupt host cell Ca 2+ homeostasis, which is critical for virus replication and pathogenesis. Rotavirus nonstructural protein 4 (NSP4) is an endoplasmic reticulum transmembrane glycoprotein that has a viroporin domain (VPD), and NSP4 viroporin activity elevates cytosolic Ca 2+ in mammalian cells. The goal of this study was to demonstrate that the NSP4 VPD forms an ion channel and determine whether the channel can conduct Ca 2+ . Using planar lipid bilayer and liposome patch clamp electrophysiology, we show that a synthetic peptide of the NSP4 VPD has ion channel activity. The NSP4 VPD was selective for cations over anions and channel activity was observed to have both well-defined "square top" openings as well as fast current fluctuations, similar to other viroporins. Importantly, the NSP4 VPD showed similar conductance of divalent cations (Ca 2+ and Ba 2+ ) as monovalent cations (K + ), but a viroporin defective mutant lacked Ca 2+ conductivity. These data demonstrate that the NSP4 VPD is a Ca 2+ -conducting viroporin and establish the mechanism by which NSP4 disturbs host cell Ca 2+ homeostasis.
+1	35	38 ion	Chemical	CHEBI_24870
+1	98	104 cation	Chemical	CHEBI_36916
+1	164	171 cations	Chemical	CHEBI_36916
+1	178	185 calcium	Chemical	CHEBI_22984
+1	358	365 protein	Chemical	CHEBI_16541
+1	417	429 glycoprotein	Chemical	CHEBI_17089
+1	594	597 VPD	Chemical	CHEBI_74562
+1	607	610 ion	Chemical	CHEBI_24870
+1	686	691 lipid	Chemical	CHEBI_18059
+1	769	776 peptide	Chemical	CHEBI_16670
+1	789	792 VPD	Chemical	CHEBI_74562
+1	797	800 ion	Chemical	CHEBI_24870
+1	828	831 VPD	Chemical	CHEBI_74562
+1	850	857 cations	Chemical	CHEBI_36916
+1	863	869 anions	Chemical	CHEBI_22563
+1	1041	1044 VPD	Chemical	CHEBI_74562
+1	1084	1091 cations	Chemical	CHEBI_36916
+1	1125	1132 cations	Chemical	CHEBI_36916
+1	1238	1241 VPD	Chemical	CHEBI_74562
+
+2|chunk|Ion channels are part of the fundamental cellular machinery used by cells to transduce signals across cellular membranes. As obligate cellular parasites, viruses too express ion channels to subvert cellular conditions in favor of virus replication and contribute to pathogenesis. Virus-encoded ion channels are called viroporins. Thus far, viroporins have been predominantly identified in animal viruses and are characterized as monovalent cation selective channels, with varying degrees of selectivity of potassium (K + ) and sodium (Na + ) over chloride (Cl  ) 1-3 . Over the years, many viroporins have been studied using classical electrophysiological techniques, primarily by reconstituting synthetic peptides or purified recombinant protein of the viroporin into planar lipid bilayers. With few exceptions, viroporins show low selectivity between K + and Na + , but generally show strong selectivity of monovalent cations over divalent cations like calcium (Ca 2+ ) 4 . Thus, while most viroporins are initially targeted to the endoplasmic reticulum (ER), presumably their low permeability for Ca 2+ prevents depletion of ER Ca 2+ stores. However, a small number of viroporins are retained in the ER membrane and significantly deplete ER Ca 2+ levels, suggesting that these viroporins target ER Ca 2+ stores. Rotavirus (RV) NSP4 and picornavirus 2B proteins are the two best-characterized viroporins for the disruption of cellular Ca 2+ homeostasis 1 .
+2	0	3 Ion	Chemical	CHEBI_24870
+2	174	177 ion	Chemical	CHEBI_24870
+2	294	297 ion	Chemical	CHEBI_24870
+2	440	446 cation	Chemical	CHEBI_36916
+2	506	515 potassium	Chemical	CHEBI_26216
+2	527	533 sodium	Chemical	CHEBI_26708
+2	547	555 chloride	Chemical	CHEBI_17996
+2	707	715 peptides	Chemical	CHEBI_16670
+2	740	747 protein	Chemical	CHEBI_16541
+2	777	782 lipid	Chemical	CHEBI_18059
+2	921	928 cations	Chemical	CHEBI_36916
+2	943	950 cations	Chemical	CHEBI_36916
+2	956	963 calcium	Chemical	CHEBI_22984
+2	1356	1364 proteins	Chemical	CHEBI_36080
+
+3|chunk|RV is one of the leading causes of viral gastroenteritis in children, and despite multiple effective vaccines, RV kills 215,000 children under 5 years of age each year 5 . A hallmark of RV infection is a global elevation in cytosolic Ca 2+ ([Ca 2+ ]c) resulting from an increase in Ca 2+ leak from the ER and increased Ca 2+ influx through the plasma membrane (PM). Elevated [Ca 2+ ]c is required for multiple processes of RV replication, including activation of autophagy, nucleation of RV replication complexes called viroplasms, and assembly of the outer capsid protein VP7 6-8 . We recently showed 9 that the RV-mediated depletion of ER Ca 2+ activates an ER Ca 2+ sensor protein called stromal interaction molecule 1 (STIM1) and STIM1 in turn induces Ca 2+ influx through store-operated calcium entry (SOCE), a homeostatic cellular mechanism to maintain ER Ca 2+ levels. We further found that NSP4 viroporin activity is sufficient to activate STIM1 but NSP4 mutants that are deficient in viroporin activity neither activate STIM1 nor induce Ca 2+ influx through SOCE 9 . Since STIM1 activation is caused by depletion of 1
+3	41	56 gastroenteritis	Disease	DOID_2326
+3	361	365 PMaa	Chemical	CHEBI_53429
+3	565	572 protein	Chemical	CHEBI_16541
+3	676	683 protein	Chemical	CHEBI_16541
+3	711	719 molecule	Chemical	CHEBI_25367
+3	792	799 calcium	Chemical	CHEBI_22984
+3	DOID-CHEBI	DOID_2326	CHEBI_53429
+3	DOID-CHEBI	DOID_2326	CHEBI_16541
+3	DOID-CHEBI	DOID_2326	CHEBI_25367
+3	DOID-CHEBI	DOID_2326	CHEBI_22984
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<document id="222f2de4774452963b9c8b640faf80dced073b64">
+  <chunk id="222f2de4774452963b9c8b640faf80dced073b64.c0" text="Reference gene selection for the shell gland of laying hens in response to time-points of eggshell formation and nicarbazin">
+    <entity charOffset="90-108" id="222f2de4774452963b9c8b640faf80dced073b64.c0.e0" ontology_id="GO_0030703" text="eggshell formation" type="gene_function"/>
+  </chunk>
+  <chunk id="222f2de4774452963b9c8b640faf80dced073b64.c1" text="Ten reference genes were investigated for normalization of gene expression data in the shell gland of laying hens. Analyses performed with geNorm revealed that hypoxanthine phosphoribosyltransferase 1 (HPRT1) and hydroxymethylbilane synthase (HMBS) were the two most stable reference genes in response to post-oviposition time alone (POT) or with nicarbazin treatment (POT+N) of laying hens. NormFinder analyses showed that the two most stable reference genes in response to POT and POT+N were 18S ribosomal RNA (18S rRNA), ribosomal protein L4 (RPL4) and HMBS, RPL4, respectively. BestKeeper analyses showed that 18S rRNA, RPL4 and HPRT1, HMBS were the two most stable reference genes for POT, and POT+N, respectively. Of the ten reference genes, all except B2M showed geNorm M &lt;0.5, suggesting that they were stably expressed in the shell gland tissue. Consensus from these three programs suggested HPRT1 and HMBS could be used as the two most stable reference genes in the present study. Expression analyses of four candidate target genes with the two most and the two least stable genes showed that a combination of stable reference genes leads to more discriminable quantification of expression levels of target genes, while the least stable genes failed to do so. Therefore, HMBS and HPRT1 are recommended as the two most stable reference genes for the normalization of gene expression data at different stages of eggshell formation in brown-egg laying hens. Available statistical programs for reference gene ranking should include more robust analysis capability to analyse the gene expression data generated from factorial design experiments.">
+    <entity charOffset="59-74" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="267-273" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="437-443" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="498-511" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" ontology_id="GO_0005840" text="ribosomal RNA" type="gene_function"/>
+    <entity charOffset="663-669" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="946-952" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="1078-1084" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="1120-1126" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="1240-1246" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="1328-1334" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" ontology_id="HP_0031915" text="stable" type="phenotype"/>
+    <entity charOffset="1376-1391" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="1420-1438" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" ontology_id="GO_0030703" text="eggshell formation" type="gene_function"/>
+    <entity charOffset="1585-1600" id="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p0" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p1" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p2" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p3" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p4" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p5" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p6" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e0" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p7" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p8" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p9" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p10" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e1" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p11" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p12" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p13" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p14" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e2" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p15" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p16" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p17" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p18" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p19" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p20" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e3" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p21" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p22" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p23" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e4" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p24" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p25" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p26" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e5" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p27" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p28" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p29" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e6" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p30" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p31" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p32" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e7" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p33" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p34" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p35" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e8" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p36" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e10" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p37" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e11" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p38" relation="true"/>
+    <pair e1="222f2de4774452963b9c8b640faf80dced073b64.c1.e9" e2="222f2de4774452963b9c8b640faf80dced073b64.c1.e12" id="222f2de4774452963b9c8b640faf80dced073b64.c1.p39" relation="true"/>
+  </chunk>
+  <chunk id="222f2de4774452963b9c8b640faf80dced073b64.c2" text="Citation: Samiullah S, Roberts J, Wu S-B (2017) Reference gene selection for the shell gland of laying hens in response to time-points of eggshell formation and nicarbazin. PLoS ONE 12(7): e0180432. https://doi.org/10.">
+    <entity charOffset="138-156" id="222f2de4774452963b9c8b640faf80dced073b64.c2.e0" ontology_id="GO_0030703" text="eggshell formation" type="gene_function"/>
+  </chunk>
+</document>

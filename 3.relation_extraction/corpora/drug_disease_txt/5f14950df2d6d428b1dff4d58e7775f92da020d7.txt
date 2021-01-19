@@ -1,0 +1,45 @@
+0|chunk|Detection of Colorectal Cancer by Serum and Tissue Protein Profi ling: A Prospective Study in a Population at Risk
+0	13	30 Colorectal Cancer	Disease	DOID_9256
+0	24	30 Cancer	Disease	DOID_162
+0	51	58 Protein	Chemical	CHEBI_16541
+0	DOID-CHEBI	DOID_9256	CHEBI_16541
+0	DOID-CHEBI	DOID_162	CHEBI_16541
+
+1|chunk|Colorectal cancer (CRC) is the second most common cause of cancer-related death in Europe and its prognosis is largely dependent on stage at diagnosis. Currently, there are no suitable tumour markers for early detection of CRC. In a retrospective study we previously found discriminative CRC serum protein profi les with surface enhanced laser desorption ionisation-time of fl ight mass spectrometry (SELDI-TOF MS). We now aimed at prospective validation of these profi les. Additionally, we assessed their applicability for follow-up after surgery and investigated tissue protein profi les of patients with CRC and adenomatous polyps (AP). Serum and tissue samples were collected from patients without known malignancy with an indication for colonoscopy and patients with AP and CRC during colonoscopy. Serum samples of controls (CON; n = 359), patients with AP (n = 177) and CRC (n = 73), as well as tissue samples from AP (n = 52) and CRC (n = 47) were analysed as described previously. Peak intensities were compared by non-parametric testing. Discriminative power of differentially expressed proteins was assessed with support vector machines (SVM). We confi rmed the decreased serum levels of apolipoprotein C-1 in CRC in the current population. No differences were observed between CON and AP. Apolipoprotein C-I levels did not change signifi cantly within 1 month post-surgery, although a gradual return to normal levels was observed. Several proteins differed between AP and CRC tissue, among which a peak with similar mass as apolipoprotein C-1. This peak was increased in CRC compared to AP. Although we prospectively validated the serum decrease of apolipoprotein C-1 in CRC, serum protein profi les did not yield SVM classifi ers with suitable sensitivity and specifi city for classifi cation of our patient groups.
+1	0	17 Colorectal cancer	Disease	DOID_9256
+1	11	17 cancer	Disease	DOID_162
+1	298	305 protein	Chemical	CHEBI_16541
+1	573	580 protein	Chemical	CHEBI_16541
+1	831	834 CON	Disease	DOID_0070314
+1	1097	1105 proteins	Chemical	CHEBI_36080
+1	1164	1168 rmed	Disease	DOID_0070300
+1	1199	1213 apolipoprotein	Chemical	CHEBI_39015
+1	1289	1292 CON	Disease	DOID_0070314
+1	1301	1315 Apolipoprotein	Chemical	CHEBI_39015
+1	1451	1459 proteins	Chemical	CHEBI_36080
+1	1536	1550 apolipoprotein	Chemical	CHEBI_39015
+1	1661	1675 apolipoprotein	Chemical	CHEBI_39015
+1	1694	1701 protein	Chemical	CHEBI_16541
+1	1739	1742 ers	Disease	DOID_0110066
+1	1799	1805 cation	Chemical	CHEBI_36916
+1	DOID-CHEBI	DOID_9256	CHEBI_16541
+1	DOID-CHEBI	DOID_9256	CHEBI_36080
+1	DOID-CHEBI	DOID_9256	CHEBI_39015
+1	DOID-CHEBI	DOID_9256	CHEBI_36916
+1	DOID-CHEBI	DOID_162	CHEBI_16541
+1	DOID-CHEBI	DOID_162	CHEBI_36080
+1	DOID-CHEBI	DOID_162	CHEBI_39015
+1	DOID-CHEBI	DOID_162	CHEBI_36916
+1	CHEBI-DOID	CHEBI_16541	DOID_0070314
+1	CHEBI-DOID	CHEBI_16541	DOID_0070300
+1	CHEBI-DOID	CHEBI_16541	DOID_0110066
+1	DOID-CHEBI	DOID_0070314	CHEBI_36080
+1	DOID-CHEBI	DOID_0070314	CHEBI_39015
+1	DOID-CHEBI	DOID_0070314	CHEBI_36916
+1	CHEBI-DOID	CHEBI_36080	DOID_0070300
+1	CHEBI-DOID	CHEBI_36080	DOID_0110066
+1	DOID-CHEBI	DOID_0070300	CHEBI_39015
+1	DOID-CHEBI	DOID_0070300	CHEBI_36916
+1	CHEBI-DOID	CHEBI_39015	DOID_0110066
+1	DOID-CHEBI	DOID_0110066	CHEBI_36916
+

@@ -1,0 +1,37 @@
+0|chunk|Combined approaches of EPR and NMR illustrate only one transmembrane helix in the human IFITM3 OPEN
+
+1|chunk|Interferon-inducible transmembrane protein IFITM3 was known to restrict the entry of a wide spectrum of viruses to the cytosol of the host. The mechanism used by the protein to restrict viral entry is unclear given the unavailability of the membrane topology and structures of the IFITM family proteins. Systematic site-directed spin labeling (SDSL) and electron paramagnetic resonance (EPR) studies of IFITM3 in detergent micelles identified a single, long transmembrane helix in the C-terminus and an intramembrane segment in the N-terminal hydrophobic region. Solution NMR studies of the same sample verified the secondary structure distribution and demonstrated two rigid regions interacting with the micellar surface. The resulting membrane topology of IFITM3 supports the mechanism of an enhanced restricted membrane hemi-fusion.
+1	35	42 protein	Chemical	CHEBI_16541
+1	166	173 protein	Chemical	CHEBI_16541
+1	354	362 electron	Chemical	CHEBI_10545
+1	413	422 detergent	Chemical	CHEBI_27780
+1	563	571 Solution	Chemical	CHEBI_75958
+
+2|chunk|A small membrane protein family called the interferon-inducible transmembrane (IFITM) was recently discovered and is under active exploration. This family restricts a wide range of pathogenic viral infections, with different inhibitory extents for different viruses 1-3 . For example, IFITMs inhibit the cellular entry and replication of human immunodeficiency virus (HIV), the influenza A virus, vesicular stomatitis virus, the rabies, the West Nile virus, the dengue virus, the SARS corona virus, the Marburg virus, the Ebola virus, the Semlikiforest virus and other viruses 3-9 . Five members of the IFITM family have been identified in human cells, including IFITM1, IFITM2, IFITM3, IFITM5 and IFITM10 10 . Among them, IFITM1, 2 and3 can be induced by both type-1 and type-2 interferons 2 . IFITM5 cannot be induced by interferons, but it is involved in bone mineralization 11 . The detailed function of IFITM10 remains unclear 12 . IFITM2 and 3 are typically concentrated in the endosomal membrane, the lysosomal membrane or other intracellular compartments. Their subcellular distributions depend on the cell or tissue type and their expression level, but IFITM1 is expressed mainly on the plasma membrane 13,14 .
+2	17	24 protein	Chemical	CHEBI_16541
+2	378	387 influenza	Disease	DOID_8469
+2	407	417 stomatitis	Disease	DOID_9637
+2	480	484 SARS	Disease	DOID_2945
+2	485	491 corona	Chemical	CHEBI_37409
+2	CHEBI-DOID	CHEBI_16541	DOID_8469
+2	CHEBI-DOID	CHEBI_16541	DOID_9637
+2	CHEBI-DOID	CHEBI_16541	DOID_2945
+2	DOID-CHEBI	DOID_8469	CHEBI_37409
+2	DOID-CHEBI	DOID_9637	CHEBI_37409
+2	DOID-CHEBI	DOID_2945	CHEBI_37409
+
+3|chunk|It is generally believed that IFITM proteins restrict viral infection by inhibiting viral membrane fusion at an early stage 6,15,16 . Recent reports have hypothesized an antiviral mechanism for IFITM proteins, suggesting that they could restrict viral membrane hemi-fusion through altering the physical properties of host cell membranes, such as reducing membrane fluidity, accumulating of cholesterol, and increasing positive spontaneous curvature in the membrane outer leaflet 16 . Moreover, post-translational modifications of IFITM3 were reported to regulate viral membrane fusion inhibition. S-palmitoylation of IFITM3 enhanced its membrane affinity and antiviral activity, whereas ubiquitination of IFITM3 decreased endo-lysosome localization and antiviral activity 17, 18 .
+3	36	44 proteins	Chemical	CHEBI_36080
+3	54	69 viral infection	Disease	DOID_934
+3	170	179 antiviral	Chemical	CHEBI_22587
+3	200	208 proteins	Chemical	CHEBI_36080
+3	659	668 antiviral	Chemical	CHEBI_22587
+3	753	762 antiviral	Chemical	CHEBI_22587
+3	CHEBI-DOID	CHEBI_36080	DOID_934
+3	DOID-CHEBI	DOID_934	CHEBI_22587
+
+4|chunk|Although the anti-viral functions of IFITM proteins are being comprehensively studied using variety of methods, the three-dimensional structures of IFITM proteins are not currently available. Three different membrane topology models of IFITM proteins have been proposed: an early model of dual-pass transmembrane helices with extracellular N-and C-termini (Fig. 1a, model III) 3,19-21 , a intramembrane topology model with both N-terminal domain and C-terminal domain exposing to cytoplasm (Fig. 1a, model II) 8, 18 , and a new model with an intramembrane helix and a C-terminal transmembrane helix (Fig. 1a, model I) 22, 23 . Therefore, further
+4	43	51 proteins	Chemical	CHEBI_36080
+4	154	162 proteins	Chemical	CHEBI_36080
+4	242	250 proteins	Chemical	CHEBI_36080
+

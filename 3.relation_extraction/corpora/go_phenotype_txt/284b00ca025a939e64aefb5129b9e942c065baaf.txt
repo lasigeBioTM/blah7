@@ -1,0 +1,36 @@
+0|chunk|Vaccination with attenuated Salmonella enterica Dublin expressing E coli O157:H7 outer membrane protein Intimin induces transient reduction of fecal shedding of E coli O157:H7 in cattle
+0	81	95 outer membrane	Gene_function	GO_0019867
+0	87	95 membrane	Gene_function	GO_0016020
+0	120	129 transient	Phenotype	HP_0025153
+0	GO-HP	GO_0019867	HP_0025153
+0	GO-HP	GO_0016020	HP_0025153
+
+1|chunk|Background: Escherichia coli serogroup O157:H7 has emerged as an important zoonotic bacterial pathogen, causing a range of symptoms from self-limiting bloody diarrhea to severe hemorrhagic colitis and hemolytic-uremic syndrome in humans. Beef and dairy cattle are considered the most important animal reservoirs for this pathogen. One of the important virulence characteristics of E. coli O157:H7 is the eaeA gene encoding the 97 kDa surface protein intimin. Intimin is required for attachment and effacement during the interaction of enterohemorrhagic E. coli with human and bovine neonatal enterocytes. The present study was undertaken to test the hypothesis that an adaptive mucosal immune response directed against intimin will reduce or prevent enteric colonization and fecal shedding of E. coli O157:H7 in cattle.
+1	151	166 bloody diarrhea	Phenotype	HP_0025085
+1	158	166 diarrhea	Phenotype	HP_0002014
+1	170	176 severe	Phenotype	HP_0012828
+1	189	196 colitis	Phenotype	HP_0002583
+1	201	226 hemolytic-uremic syndrome	Phenotype	HP_0005575
+1	678	701 mucosal immune response	Gene_function	GO_0002385
+1	686	701 immune response	Gene_function	GO_0006955
+1	HP-GO	HP_0025085	GO_0002385
+1	HP-GO	HP_0025085	GO_0006955
+1	HP-GO	HP_0002014	GO_0002385
+1	HP-GO	HP_0002014	GO_0006955
+1	HP-GO	HP_0012828	GO_0002385
+1	HP-GO	HP_0012828	GO_0006955
+1	HP-GO	HP_0002583	GO_0002385
+1	HP-GO	HP_0002583	GO_0006955
+1	HP-GO	HP_0005575	GO_0002385
+1	HP-GO	HP_0005575	GO_0006955
+
+2|chunk|Cattle were orally inoculated with either milk (control), milk with live attenuated Salmonella enterica serovar Dublin (vector), or milk with live attenuated recombinant S. Dublin expressing intimin (vaccinated) on days 0, 14 and 28. On day 98, all calves were challenged orally with E. coli O157:H7 to evaluate whether vaccination with the recombinant S. Dublin expressing intimin would reduce the level of E. coli O157:H7 fecal shedding.
+
+3|chunk|During the first 28 days, vaccinated calves shed both the vector strain and the intimin-expressing S. Dublin strain at a similar level. The vector strain was shed for a significantly longer period as compared to the level of recombinant vaccine strain. Calves that received the intimin-expressed vaccine ceased shedding S. Dublin from day 28 to day 63. All calves were challenged with E. coli O157:H7 on day 98 to determine the effect on fecal shedding of E. coli O157:H7. The amount of E. coli O157:H7 in feces was measured for 30 days post-challenge. We observed a transient clearance of E. coli O157:H7 from the feces in the vaccinated calves. The magnitude of fecal E. coli O157:H7 shedding did not correlate with the presence of intimin-specific fecal IgA.
+3	567	576 transient	Phenotype	HP_0025153
+
+4|chunk|Oral vaccination with live attenuated recombinant S. Dublin expressing intimin reduced enteric colonization and fecal shedding of E. coli O157:H7. However, the transient clearance of E. coli O157:H7 was not associated with an enhanced IgA-mediated mucosal immune response.
+4	160	169 transient	Phenotype	HP_0025153
+4	248	271 mucosal immune response	Gene_function	GO_0002385
+4	HP-GO	HP_0025153	GO_0002385
+

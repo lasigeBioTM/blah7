@@ -1,0 +1,23 @@
+0|chunk|Tick-borne encephalitis virus induces chemokine RANTES expression via activation of IRF-3 pathway
+0	11	23 encephalitis	Phenotype	HP_0002383
+
+1|chunk|Background: Tick-borne encephalitis virus (TBEV) is one of the most important flaviviruses that targets the central nervous system (CNS) and causes encephalitides in humans. Although neuroinflammatory mechanisms may contribute to brain tissue destruction, the induction pathways and potential roles of specific chemokines in TBEV-mediated neurological disease are poorly understood.
+1	23	35 encephalitis	Phenotype	HP_0002383
+1	108	115 central	Phenotype	HP_0030645
+
+2|chunk|Methods: BALB/c mice were intracerebrally injected with TBEV, followed by evaluation of chemokine and cytokine profiles using protein array analysis. The virus-infected mice were treated with the CC chemokine antagonist Met-RANTES or anti-RANTES mAb to determine the role of RANTES in affecting TBEV-induced neurological disease. The underlying signaling mechanisms were delineated using RANTES promoter luciferase reporter assay, siRNA-mediated knockdown, and pharmacological inhibitors in human brain-derived cell culture models.
+2	345	354 signaling	Gene_function	GO_0023052
+
+3|chunk|Results: In a mouse model, pathological features including marked inflammatory cell infiltrates were observed in brain sections, which correlated with a robust up-regulation of RANTES within the brain but not in peripheral tissues and sera. Antagonizing RANTES within CNS extended the survival of mice and reduced accumulation of infiltrating cells in the brain after TBEV infection. Through in vitro studies, we show that virus infection up-regulated RANTES production at both mRNA and protein levels in human brain-derived cell lines and primary progenitor-derived astrocytes. Furthermore, IRF-3 pathway appeared to be essential for TBEV-induced RANTES production. Site mutation of an IRF-3-binding motif abrogated the RANTES promoter activity in virus-infected brain cells. Moreover, IRF-3 was activated upon TBEV infection as evidenced by phosphorylation of TBK1 and IRF-3, while blockade of IRF-3 activation drastically reduced virus-induced RANTES expression.
+3	212	222 peripheral	Phenotype	HP_0030646
+3	452	469 RANTES production	Gene_function	GO_0071609
+3	648	665 RANTES production	Gene_function	GO_0071609
+3	843	858 phosphorylation	Gene_function	GO_0016310
+3	862	866 TBK1	Gene_function	GO_0008384
+3	HP-GO	HP_0030646	GO_0071609
+3	HP-GO	HP_0030646	GO_0016310
+3	HP-GO	HP_0030646	GO_0008384
+
+4|chunk|Conclusions: Our findings together provide insights into the molecular mechanism underlying RANTES production induced by TBEV, highlighting its potential importance in the process of neuroinflammatory responses to TBEV infection.
+4	92	109 RANTES production	Gene_function	GO_0071609
+

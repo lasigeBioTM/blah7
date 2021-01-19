@@ -1,0 +1,359 @@
+{
+    "text": "The HIV lipodystrophy syndrome is characterized by changes in metabolism, and body composition that increase cardiovascular risk of people living with HIV/AIDS (PLWHA) using highly active antiretroviral therapy (HAART).To assess the prevalence of lipodystrophy and changes in lipid and glucose metabolism in PLWHA in use of HAART.For the anthropometric evaluation we measured weight, height and abdominal circumference (AC). For the lipodystrophy evaluation we conducted physical examination (subjective) and the (objective) examination of absorptiometry with X-ray dual energy (DEXA) by fat mass ratio (FMR). We also conducted lipid profile tests and fasting glucose and used the criteria suggested by The National Cholesterol Education Program III for metabolic disorders classification.The final sample consisted of 262 patients with a mean age of 44.3 \u00b1 10.2 years. Lipodystrophy, according to the physical examination, was present in 47.7% (95%CI 41.7 - 53.8) of patients, while the prevalence using FMR (DEXA) was 40.8% (95%CI 33.1 - 48.5). Most (53.0%; 95%CI 47.0 - 59.1) of the patients showed increased abdominal adiposity according to AC. The most prevalent metabolic alterations were reduced HDL (67.6%; 95%CI 61.9 - 73.2) and hypertriglyceridemia (55.7%; 95%CI 49.7 - 61.7).The high prevalence of lipodystrophy and changes in lipid and glucose metabolism show the importance of early intervention in this group of patients to prevent cardiovascular complications.",
+    "denotations": [
+        {
+            "id": "DOID_811",
+            "span": {
+                "begin": 8,
+                "end": 21
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 22,
+                "end": 30
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "DOID_811",
+            "span": {
+                "begin": 247,
+                "end": 260
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "CHEBI_18059",
+            "span": {
+                "begin": 276,
+                "end": 281
+            },
+            "obj": "lipid"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 286,
+                "end": 293
+            },
+            "obj": "glucose"
+        },
+        {
+            "id": "DOID_811",
+            "span": {
+                "begin": 433,
+                "end": 446
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "CHEBI_18059",
+            "span": {
+                "begin": 628,
+                "end": 633
+            },
+            "obj": "lipid"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 660,
+                "end": 667
+            },
+            "obj": "glucose"
+        },
+        {
+            "id": "CHEBI_16113",
+            "span": {
+                "begin": 716,
+                "end": 727
+            },
+            "obj": "Cholesterol"
+        },
+        {
+            "id": "DOID_811",
+            "span": {
+                "begin": 870,
+                "end": 883
+            },
+            "obj": "Lipodystrophy"
+        },
+        {
+            "id": "CHEBI_39025",
+            "span": {
+                "begin": 1203,
+                "end": 1206
+            },
+            "obj": "HDL"
+        },
+        {
+            "id": "DOID_811",
+            "span": {
+                "begin": 1309,
+                "end": 1322
+            },
+            "obj": "lipodystrophy"
+        },
+        {
+            "id": "CHEBI_18059",
+            "span": {
+                "begin": 1338,
+                "end": 1343
+            },
+            "obj": "lipid"
+        },
+        {
+            "id": "CHEBI_17234",
+            "span": {
+                "begin": 1348,
+                "end": 1355
+            },
+            "obj": "glucose"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_39025"
+        },
+        {
+            "id": "R6",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R7",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R8",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R9",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R10",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R11",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R12",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R13",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_39025"
+        },
+        {
+            "id": "R14",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R15",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R16",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R17",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R18",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R19",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R20",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R21",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_39025"
+        },
+        {
+            "id": "R22",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R23",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R24",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R25",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R26",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R27",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R28",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R29",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_39025"
+        },
+        {
+            "id": "R30",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R31",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R32",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R33",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R34",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R35",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_17234"
+        },
+        {
+            "id": "R36",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_16113"
+        },
+        {
+            "id": "R37",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_39025"
+        },
+        {
+            "id": "R38",
+            "subj": "DOID_811",
+            "pred": "effect",
+            "obj": "CHEBI_18059"
+        },
+        {
+            "id": "R39",
+            "subj": "DOID_811",
+            "pred": "no_relation",
+            "obj": "CHEBI_17234"
+        }
+    ]
+}

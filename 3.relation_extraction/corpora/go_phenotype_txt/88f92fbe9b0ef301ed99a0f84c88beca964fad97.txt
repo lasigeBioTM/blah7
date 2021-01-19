@@ -1,0 +1,18 @@
+0|chunk|Citation: Farhadian M, Rafat SA, Hasanpur K, Ebrahimi M and Ebrahimie E (2018) Cross-Species Meta-Analysis of Transcriptomic Data in Combination With Supervised Machine Learning Models Identifies the Cross-Species Meta-Analysis of Transcriptomic Data in Combination With Supervised Machine Learning Models Identifies the Common Gene Signature of Lactation Process
+0	169	177 Learning	Gene_function	GO_0007612
+0	290	298 Learning	Gene_function	GO_0007612
+0	346	355 Lactation	Gene_function	GO_0007595
+
+1|chunk|Lactation, a physiologically complex process, takes place in mammary gland after parturition. The expression profile of the effective genes in lactation has not comprehensively been elucidated. Herein, meta-analysis, using publicly available microarray data, was conducted identify the differentially expressed genes (DEGs) between pre-and post-peak milk production. Three microarray datasets of Rat, Bos Taurus, and Tammar wallaby were used. Samples related to pre-peak (n = 85) and post-peak (n = 24) milk production were selected. Meta-analysis revealed 31 DEGs across the studied species. Interestingly, 10 genes, including MRPS18B, SF1, UQCRC1, NUCB1, RNF126, ADSL, TNNC1, FIS1, HES5 and THTPA, were not detected in original studies that highlights meta-analysis power in biosignature discovery. Common target and regulator analysis highlighted the high connectivity of CTNNB1, CDD4 and LPL as gene network hubs. As data originally came from three different species, to check the effects of heterogeneous data sources on DEGs, 10 attribute weighting (machine learning) algorithms were applied. Attribute weighting results showed that the type of organism had no or little effect on the selected gene list. Systems biology analysis suggested that these DEGs affect the milk production by improving the immune system performance and mammary cell growth. This is the first study employing both meta-analysis and machine learning approaches for comparative analysis of gene expression pattern of mammary glands in two important time points of lactation process. The finding may pave the way to use of publically available to elucidate the underlying molecular mechanisms of physiologically complex traits such as lactation in mammals.
+1	0	9 Lactation	Gene_function	GO_0007595
+1	143	152 lactation	Gene_function	GO_0007595
+1	996	1009 heterogeneous	Phenotype	HP_0001425
+1	1064	1072 learning	Gene_function	GO_0007612
+1	1422	1430 learning	Gene_function	GO_0007612
+1	1470	1485 gene expression	Gene_function	GO_0010467
+1	1544	1553 lactation	Gene_function	GO_0007595
+1	1714	1723 lactation	Gene_function	GO_0007595
+1	GO-HP	GO_0007595	HP_0001425
+1	HP-GO	HP_0001425	GO_0007612
+1	HP-GO	HP_0001425	GO_0010467
+

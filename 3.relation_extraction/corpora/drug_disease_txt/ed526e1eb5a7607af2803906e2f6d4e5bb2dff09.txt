@@ -1,0 +1,55 @@
+0|chunk|Potential Broad Spectrum Inhibitors of the Coronavirus 3CL pro : A Virtual Screening and Structure-Based Drug Design Study
+0	25	35 Inhibitors	Chemical	CHEBI_35222
+0	59	62 pro	Chemical	CHEBI_50342
+0	105	109 Drug	Chemical	CHEBI_23888
+
+1|chunk|Human coronaviruses represent a significant disease burden; however, there is currently no antiviral strategy to combat infection. The outbreak of severe acute respiratory syndrome (SARS) in 2003 and Middle East respiratory syndrome (MERS) less than 10 years later demonstrates the potential of coronaviruses to cross species boundaries and further highlights the importance of identifying novel lead compounds with broad spectrum activity. The coronavirus 3CL pro provides a highly validated drug target and as there is a high degree of sequence homology and conservation in main chain architecture the design of broad spectrum inhibitors is viable. The ZINC drugs-now library was screened in a consensus high-throughput pharmacophore modeling and molecular docking approach by Vina, Glide, GOLD and MM-GBSA. Molecular dynamics further confirmed results obtained from structure-based techniques. A highly defined hit-list of 19 compounds was identified by the structure-based drug design methodologies. As these compounds were extensively validated by a consensus approach and by molecular dynamics, the likelihood that at least one of these compounds is bioactive is excellent. Additionally, the compounds segregate into 15 significantly dissimilar (p < 0.05) clusters based on shape and features, which represent valuable scaffolds that can be used as a basis for future anti-coronaviral inhibitor discovery experiments. Importantly though, the enriched subset of 19 compounds identified from the larger library has to be validated experimentally.
+1	44	51 disease	Disease	DOID_4
+1	91	100 antiviral	Chemical	CHEBI_22587
+1	147	180 severe acute respiratory syndrome	Disease	DOID_2945
+1	172	180 syndrome	Disease	DOID_225
+1	182	186 SARS	Disease	DOID_2945
+1	200	232 Middle East respiratory syndrome	Disease	DOID_0080642
+1	224	232 syndrome	Disease	DOID_225
+1	396	410 lead compounds	Chemical	CHEBI_33585
+1	461	464 pro	Chemical	CHEBI_50342
+1	493	497 drug	Chemical	CHEBI_23888
+1	629	639 inhibitors	Chemical	CHEBI_35222
+1	655	659 ZINC	Chemical	CHEBI_27363
+1	792	796 GOLD	Chemical	CHEBI_29287
+1	977	981 drug	Chemical	CHEBI_23888
+1	1262	1270 clusters	Chemical	CHEBI_33731
+1	1391	1400 inhibitor	Chemical	CHEBI_35222
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_33585
+1	DOID-CHEBI	DOID_4	CHEBI_50342
+1	DOID-CHEBI	DOID_4	CHEBI_23888
+1	DOID-CHEBI	DOID_4	CHEBI_35222
+1	DOID-CHEBI	DOID_4	CHEBI_27363
+1	DOID-CHEBI	DOID_4	CHEBI_29287
+1	DOID-CHEBI	DOID_4	CHEBI_33731
+1	CHEBI-DOID	CHEBI_22587	DOID_2945
+1	CHEBI-DOID	CHEBI_22587	DOID_225
+1	CHEBI-DOID	CHEBI_22587	DOID_0080642
+1	DOID-CHEBI	DOID_2945	CHEBI_33585
+1	DOID-CHEBI	DOID_2945	CHEBI_50342
+1	DOID-CHEBI	DOID_2945	CHEBI_23888
+1	DOID-CHEBI	DOID_2945	CHEBI_35222
+1	DOID-CHEBI	DOID_2945	CHEBI_27363
+1	DOID-CHEBI	DOID_2945	CHEBI_29287
+1	DOID-CHEBI	DOID_2945	CHEBI_33731
+1	DOID-CHEBI	DOID_225	CHEBI_33585
+1	DOID-CHEBI	DOID_225	CHEBI_50342
+1	DOID-CHEBI	DOID_225	CHEBI_23888
+1	DOID-CHEBI	DOID_225	CHEBI_35222
+1	DOID-CHEBI	DOID_225	CHEBI_27363
+1	DOID-CHEBI	DOID_225	CHEBI_29287
+1	DOID-CHEBI	DOID_225	CHEBI_33731
+1	DOID-CHEBI	DOID_0080642	CHEBI_33585
+1	DOID-CHEBI	DOID_0080642	CHEBI_50342
+1	DOID-CHEBI	DOID_0080642	CHEBI_23888
+1	DOID-CHEBI	DOID_0080642	CHEBI_35222
+1	DOID-CHEBI	DOID_0080642	CHEBI_27363
+1	DOID-CHEBI	DOID_0080642	CHEBI_29287
+1	DOID-CHEBI	DOID_0080642	CHEBI_33731
+

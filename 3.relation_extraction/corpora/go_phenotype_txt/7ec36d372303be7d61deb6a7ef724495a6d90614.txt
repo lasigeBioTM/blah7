@@ -1,0 +1,20 @@
+0|chunk|Determination of host proteins composing the microenvironment of coronavirus replicase complexes by proximity-labeling
+
+1|chunk|Positive-sense RNA viruses hijack intracellular membranes that provide niches for viral RNA synthesis and a platform for interactions with host proteins. However, little is known about host factors at the interface between replicase complexes and the host cytoplasm. We engineered a biotin ligase into a coronaviral replication/transcription complex (RTC) and identified >500 host proteins constituting the RTC microenvironment. siRNA-silencing of each RTC-proximal host factor demonstrated importance of vesicular trafficking pathways, ubiquitin-dependent and autophagyrelated processes, and translation initiation factors. Notably, detection of translation initiation factors at the RTC was instrumental to visualize and demonstrate active translation proximal to replication complexes of several coronaviruses. Collectively, we establish a spatial link between viral RNA synthesis and diverse host factors of unprecedented breadth. Our data may serve as a paradigm for other positive-strand RNA viruses and provide a starting point for a comprehensive analysis of critical virus-host interactions that represent targets for therapeutic intervention.
+1	34	47 intracellular	Gene_function	GO_0005622
+1	88	101 RNA synthesis	Gene_function	GO_0032774
+1	92	101 synthesis	Gene_function	GO_0009058
+1	593	604 translation	Gene_function	GO_0006412
+1	593	615 translation initiation	Gene_function	GO_0006413
+1	647	658 translation	Gene_function	GO_0006412
+1	647	669 translation initiation	Gene_function	GO_0006413
+1	742	753 translation	Gene_function	GO_0006412
+1	754	762 proximal	Phenotype	HP_0012840
+1	870	883 RNA synthesis	Gene_function	GO_0032774
+1	874	883 synthesis	Gene_function	GO_0009058
+1	GO-HP	GO_0005622	HP_0012840
+1	GO-HP	GO_0032774	HP_0012840
+1	GO-HP	GO_0009058	HP_0012840
+1	GO-HP	GO_0006412	HP_0012840
+1	GO-HP	GO_0006413	HP_0012840
+

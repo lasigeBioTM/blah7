@@ -1,0 +1,123 @@
+{
+    "text": "TTV is a recently discovered DNA virus, isolated from a patient with post-transfusion hepatitis of unknown etiology by Japanese researchers. In the present study, we evaluated the presence of TTV among chronic liver diseases patients in S\u00e3o Paulo and Par\u00e1 states, representing two geographically distinct Brazilian regions. TTV DNA was found in 21/105 (20%) and 9/20 (45%) cases from S\u00e3o Paulo and Par\u00e1 States, respectively. DNA sequence data confirmed the presence of TTV genotypes 1a and 2a, as well as other genotypes not yet described. In conclusion, TTV is present in chronic liver diseases cases from Southeast and North Brazil. However, further studies involving healthy populations are necessary before establishing any causal relationship among TTV and human hepatitis.",
+    "denotations": [
+        {
+            "id": "CHEBI_16991",
+            "span": {
+                "begin": 29,
+                "end": 32
+            },
+            "obj": "DNA"
+        },
+        {
+            "id": "HP_0012115",
+            "span": {
+                "begin": 86,
+                "end": 95
+            },
+            "obj": "hepatitis"
+        },
+        {
+            "id": "DOID_2237",
+            "span": {
+                "begin": 86,
+                "end": 95
+            },
+            "obj": "hepatitis"
+        },
+        {
+            "id": "HP_0011010",
+            "span": {
+                "begin": 202,
+                "end": 209
+            },
+            "obj": "chronic"
+        },
+        {
+            "id": "CHEBI_16991",
+            "span": {
+                "begin": 328,
+                "end": 331
+            },
+            "obj": "DNA"
+        },
+        {
+            "id": "CHEBI_16991",
+            "span": {
+                "begin": 425,
+                "end": 428
+            },
+            "obj": "DNA"
+        },
+        {
+            "id": "HP_0011010",
+            "span": {
+                "begin": 573,
+                "end": 580
+            },
+            "obj": "chronic"
+        },
+        {
+            "id": "HP_0032322",
+            "span": {
+                "begin": 670,
+                "end": 677
+            },
+            "obj": "healthy"
+        },
+        {
+            "id": "HP_0012115",
+            "span": {
+                "begin": 768,
+                "end": 777
+            },
+            "obj": "hepatitis"
+        },
+        {
+            "id": "DOID_2237",
+            "span": {
+                "begin": 768,
+                "end": 777
+            },
+            "obj": "hepatitis"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_2237",
+            "pred": "no_relation",
+            "obj": "CHEBI_16991"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_2237",
+            "pred": "no_relation",
+            "obj": "CHEBI_16991"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_2237",
+            "pred": "no_relation",
+            "obj": "CHEBI_16991"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_2237",
+            "pred": "effect",
+            "obj": "CHEBI_16991"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_2237",
+            "pred": "effect",
+            "obj": "CHEBI_16991"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_2237",
+            "pred": "effect",
+            "obj": "CHEBI_16991"
+        }
+    ]
+}

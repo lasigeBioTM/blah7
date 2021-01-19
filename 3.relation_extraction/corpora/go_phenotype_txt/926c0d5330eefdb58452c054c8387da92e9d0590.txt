@@ -1,0 +1,47 @@
+0|chunk|Experimental feline enteric coronavirus infection reveals an aberrant infection pattern and shedding of mutants with impaired infectivity in enterocyte cultures OPEN
+
+1|chunk|are lacking, the present study investigated these missing links during experimental infection of three SPF cats with FECV strain UCD. Two cats showed mild clinical signs, faecal shedding of infectious virus from 4 dpi, a cell-associated viraemia at inconsistent time points from 5 dpi, a highly neutralising antibody response from 9 dpi, and no major abnormalities in leukocyte numbers. Faecal shedding lasted for 28-56 days, but virus shed during this stage was less infectious in enterocyte cultures and affected by mutations. Remarkably, in the other cat neither clinical signs nor acute shedding were seen, but virus was detected in blood cells from 3 dpi, and shedding of non-enterotropic, mutated viruses suddenly occurred from 14 dpi onwards. Neutralising antibodies arose from 21 dpi. Leukocyte numbers were not different compared to the other cats, except for the CD8 + regulatory T cells. These data indicate that FECV can infect immune cells even in the absence of intestinal replication and raise the hypothesis that the gradual adaptation to these cells can allow non-enterotropic mutants to arise.
+1	150	154 mild	Phenotype	HP_0012825
+1	308	316 antibody	Gene_function	GO_0003823
+1	308	316 antibody	Gene_function	GO_0042571
+1	506	514 affected	Phenotype	HP_0032320
+1	554	557 cat	Gene_function	GO_0004096
+1	585	590 acute	Phenotype	HP_0011009
+1	HP-GO	HP_0012825	GO_0003823
+1	HP-GO	HP_0012825	GO_0042571
+1	HP-GO	HP_0012825	GO_0004096
+1	GO-HP	GO_0003823	HP_0032320
+1	GO-HP	GO_0003823	HP_0011009
+1	GO-HP	GO_0042571	HP_0032320
+1	GO-HP	GO_0042571	HP_0011009
+1	HP-GO	HP_0032320	GO_0004096
+1	GO-HP	GO_0004096	HP_0011009
+
+2|chunk|Feline coronaviruses (FCoVs) occur as two pathotypes, associated with either enteric or systemic diseases in cats. Feline enteric coronavirus (FECV) is an enterotropic virus, ubiquitously present in the cat population 1,2 . The enteritis caused by the intestinal replication can manifest as a transient anorexia, weight loss and/or diarrhoea, but clinical signs are often too mild to be noticed 1,3,4 . Feline infectious peritonitis virus (FIPV) most likely arises from FECV by accumulation of mutations in individually infected cats [5] [6] [7] [8] [9] [10] [11] . These yet not fully characterized mutations abrogate the enterocyte tropism but provide the virus with tools to productively replicate in monocytes/macrophages, causing a highly fatal systemic disease, feline infectious peritonitis (FIP), which is characterised by a diffuse vasculitis, polyserositis and severe lymphopaenia 12-17 . To date, it remains unknown where, when, and how this pathotype switch is induced in FECV-infected cats.
+2	203	206 cat	Gene_function	GO_0004096
+2	293	302 transient	Phenotype	HP_0025153
+2	313	324 weight loss	Phenotype	HP_0001824
+2	376	380 mild	Phenotype	HP_0012825
+2	421	432 peritonitis	Phenotype	HP_0002586
+2	634	641 tropism	Gene_function	GO_0009606
+2	786	797 peritonitis	Phenotype	HP_0002586
+2	833	840 diffuse	Phenotype	HP_0020034
+2	871	877 severe	Phenotype	HP_0012828
+2	GO-HP	GO_0004096	HP_0025153
+2	GO-HP	GO_0004096	HP_0001824
+2	GO-HP	GO_0004096	HP_0012825
+2	GO-HP	GO_0004096	HP_0002586
+2	GO-HP	GO_0004096	HP_0020034
+2	GO-HP	GO_0004096	HP_0012828
+2	HP-GO	HP_0025153	GO_0009606
+2	HP-GO	HP_0001824	GO_0009606
+2	HP-GO	HP_0012825	GO_0009606
+2	HP-GO	HP_0002586	GO_0009606
+2	GO-HP	GO_0009606	HP_0020034
+2	GO-HP	GO_0009606	HP_0012828
+
+3|chunk|Due to its pathogenic behaviour, FIPV has received considerable attention, and clinical, virological, and immunological parameters during both natural and experimental FIPV infections have frequently been studied 14-16 . The last decade, comprehensive studies on the FIPV parent virus, FECV, have extensively contributed to our current understanding of the epizootiology and pathogenesis 4,18-20 , but many crucial virological and immunological data on the FECV-cat interactions are missing to fully understand the behaviour of this FIPV parent virus. Due to the lack of an FECV-susceptible cell line, there is so far no information on the infectivity (and its
+3	22	31 behaviour	Gene_function	GO_0007610
+3	375	387 pathogenesis	Gene_function	GO_0009405
+3	515	524 behaviour	Gene_function	GO_0007610
+

@@ -1,0 +1,39 @@
+0|chunk|Hepatitis C Virus Resistance to Carbohydrate- Binding Agents
+0	0	9 Hepatitis	Phenotype	HP_0012115
+0	46	53 Binding	Gene_function	GO_0005488
+0	HP-GO	HP_0012115	GO_0005488
+
+1|chunk|Carbohydrate binding agents (CBAs), including natural lectins, are more and more considered as broad-spectrum antivirals. These molecules are able to directly inhibit many viruses such as Human Immunodeficiency Virus (HIV), Hepatitis C Virus (HCV), Dengue Virus, Ebola Virus or Severe Acute Respiratory Syndrome Coronavirus through binding to envelope protein N-glycans. In the case of HIV, it has been shown that CBAs select for mutant viruses with N-glycosylation site deletions which are more sensitive to neutralizing antibodies. In this study we aimed at evaluating the HCV resistance to CBAs in vitro. HCV was cultivated in the presence of increasing Galanthus nivalis agglutinin (GNA), Cyanovirin-N, Concanavalin-A or Griffithsin concentrations, during more than eight weeks. At the end of lectin exposure, the genome of the isolated strains was sequenced and several potential resistance mutations in the E1E2 envelope glycoproteins were identified. The effect of these mutations on viral fitness as well as on sensitivity to inhibition by lectins, soluble CD81 or the 3/11 neutralizing antibody was assessed. Surprisingly, none of these mutations, alone or in combination, conferred resistance to CBAs. In contrast, we observed that some mutants were more sensitive to 3/11 or CD81-LEL inhibition. Additionally, several mutations were identified in the Core and the non-structural proteins. Thus, our results suggest that in contrast to HIV, HCV resistance to CBAs is not directly conferred by mutations in the envelope protein genes but could occur through an indirect mechanism involving mutations in other viral proteins. Further investigations are needed to completely elucidate the underlying mechanisms.
+1	0	20 Carbohydrate binding	Gene_function	GO_0030246
+1	13	20 binding	Gene_function	GO_0005488
+1	194	210 Immunodeficiency	Phenotype	HP_0002721
+1	224	233 Hepatitis	Phenotype	HP_0012115
+1	278	284 Severe	Phenotype	HP_0012828
+1	285	290 Acute	Phenotype	HP_0011009
+1	332	339 binding	Gene_function	GO_0005488
+1	343	351 envelope	Gene_function	GO_0031975
+1	918	926 envelope	Gene_function	GO_0031975
+1	1095	1103 antibody	Gene_function	GO_0003823
+1	1095	1103 antibody	Gene_function	GO_0042571
+1	1520	1528 envelope	Gene_function	GO_0031975
+1	GO-HP	GO_0030246	HP_0002721
+1	GO-HP	GO_0030246	HP_0012115
+1	GO-HP	GO_0030246	HP_0012828
+1	GO-HP	GO_0030246	HP_0011009
+1	GO-HP	GO_0005488	HP_0002721
+1	GO-HP	GO_0005488	HP_0012115
+1	GO-HP	GO_0005488	HP_0012828
+1	GO-HP	GO_0005488	HP_0011009
+1	HP-GO	HP_0002721	GO_0031975
+1	HP-GO	HP_0002721	GO_0003823
+1	HP-GO	HP_0002721	GO_0042571
+1	HP-GO	HP_0012115	GO_0031975
+1	HP-GO	HP_0012115	GO_0003823
+1	HP-GO	HP_0012115	GO_0042571
+1	HP-GO	HP_0012828	GO_0031975
+1	HP-GO	HP_0012828	GO_0003823
+1	HP-GO	HP_0012828	GO_0042571
+1	HP-GO	HP_0011009	GO_0031975
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0011009	GO_0042571
+

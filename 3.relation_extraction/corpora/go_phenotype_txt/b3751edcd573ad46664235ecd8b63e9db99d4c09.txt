@@ -1,0 +1,31 @@
+0|chunk|Alpha-COPI Coatomer Protein Is Required for Rough Endoplasmic Reticulum Whorl Formation in Mosquito Midgut Epithelial Cells
+0	44	71 Rough Endoplasmic Reticulum	Gene_function	GO_0005791
+0	50	71 Endoplasmic Reticulum	Gene_function	GO_0005783
+
+1|chunk|Background: One of the early events in midgut epithelial cells of Aedes aegypti mosquitoes is the dynamic reorganization of rough endoplasmic reticulum (RER) whorl structures coincident with the onset of blood meal digestion. Based on our previous studies showing that feeding on an amino acid meal induces TOR signaling in Ae. aegypti, we used proteomics and RNAi to functionally identify midgut epithelial cell proteins that contribute to RER whorl formation.
+1	124	151 rough endoplasmic reticulum	Gene_function	GO_0005791
+1	130	151 endoplasmic reticulum	Gene_function	GO_0005783
+1	153	156 RER	Gene_function	GO_0005791
+1	195	200 onset	Phenotype	HP_0003674
+1	307	320 TOR signaling	Gene_function	GO_0031929
+1	311	320 signaling	Gene_function	GO_0023052
+1	360	364 RNAi	Gene_function	GO_0016246
+1	441	444 RER	Gene_function	GO_0005791
+1	GO-HP	GO_0005791	HP_0003674
+1	GO-HP	GO_0005783	HP_0003674
+1	HP-GO	HP_0003674	GO_0031929
+1	HP-GO	HP_0003674	GO_0023052
+1	HP-GO	HP_0003674	GO_0016246
+
+2|chunk|Methodology/Principal Findings: Adult female Ae. aegypti mosquitoes were maintained on sugar alone (unfed), or fed an amino acid meal, and then midgut epithelial cells were analyzed by electron microscopy and protein biochemistry. The size and number of RER whorls in midgut epithelial cells were found to decrease significantly after feeding, and several KDELcontaining proteins were shown to have altered expression levels. LC-MS/MS mass spectrometry was used to analyze midgut microsomal proteins isolated from unfed and amino acid fed mosquitoes, and of the 127 proteins identified, 8 were chosen as candidate whorl forming proteins. Three candidate proteins were COPI coatomer subunits (alpha, beta, beta'), all of which appeared to be present at higher levels in microsomal fractions from unfed mosquitoes. Using RNAi to knockdown alpha-COPI expression, electron microscopy revealed that both the size and number of RER whorls were dramatically reduced in unfed mosquitoes, and moreover, that extended regions of swollen RER were prevalent in fed mosquitoes. Lastly, while a deficiency in alpha-COPI had no effect on early trypsin protein synthesis or secretion 3 hr post blood meal (PBM), expression of late phase proteases at 24 hr PBM was completely blocked.
+2	254	257 RER	Gene_function	GO_0005791
+2	819	823 RNAi	Gene_function	GO_0016246
+2	922	925 RER	Gene_function	GO_0005791
+2	1027	1030 RER	Gene_function	GO_0005791
+2	1137	1154 protein synthesis	Gene_function	GO_0006412
+2	1145	1154 synthesis	Gene_function	GO_0009058
+2	1158	1167 secretion	Gene_function	GO_0046903
+
+3|chunk|Conclusions: alpha-COPI was found to be required for the formation of RER whorls in midgut epithelial cells of unfed Aa. aegypti mosquitoes, as well as for the expression of late phase midgut proteases.
+3	70	73 RER	Gene_function	GO_0005791
+

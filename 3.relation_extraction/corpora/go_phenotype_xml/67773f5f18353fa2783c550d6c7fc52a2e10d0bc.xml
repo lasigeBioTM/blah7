@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc">
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c0" text="A novel fast vector method for genetic sequence comparison OPEN">
+    <entity charOffset="8-12" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c0.e0" ontology_id="GO_0033867" text="fast" type="gene_function"/>
+  </chunk>
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1" text="With sharp increasing in biological sequences, the traditional sequence alignment methods become unsuitable and infeasible. It motivates a surge of fast alignment-free techniques for sequence analysis. Among these methods, many sorts of feature vector methods are established and applied to reconstruction of species phylogeny. The vectors basically consist of some typical numerical features for certain biological problems. The features may come from the primary sequences, secondary or three dimensional structures of macromolecules. In this study, we propose a novel numerical vector based on only primary sequences of organism to build their phylogeny. Three chemical and physical properties of primary sequences: purine, pyrimidine and keto are also incorporated to the vector. Using each property, we convert the nucleotide sequence into a new sequence consisting of only two kinds of letters. Therefore, three sequences are constructed according to the three properties. For each letter of each sequence we calculate the number of the letter, the average position of the letter and the variation of the position of the letter appearing in the sequence. Tested on several datasets related to mammals, viruses and bacteria, this new tool is fast in speed and accurate for inferring the phylogeny of organisms.">
+    <entity charOffset="5-10" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e0" ontology_id="HP_0025281" text="sharp" type="phenotype"/>
+    <entity charOffset="148-152" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e1" ontology_id="GO_0033867" text="fast" type="gene_function"/>
+    <entity charOffset="1063-1071" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e2" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="1111-1119" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e3" ontology_id="HP_0012830" text="position" type="phenotype"/>
+    <entity charOffset="1247-1251" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e4" ontology_id="GO_0033867" text="fast" type="gene_function"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e0" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e1" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p0" relation="true"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e0" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e4" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p1" relation="true"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e1" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e2" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p2" relation="true"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e1" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e3" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p3" relation="true"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e2" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e4" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p4" relation="true"/>
+    <pair e1="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e3" e2="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.e4" id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c1.p5" relation="true"/>
+  </chunk>
+  <chunk id="67773f5f18353fa2783c550d6c7fc52a2e10d0bc.c2" text="Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 12226 |"/>
+</document>

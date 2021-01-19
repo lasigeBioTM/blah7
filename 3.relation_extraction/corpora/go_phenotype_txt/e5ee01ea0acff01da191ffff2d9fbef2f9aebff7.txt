@@ -1,0 +1,20 @@
+0|chunk|Peptide-Based Membrane Fusion Inhibitors Targeting HCoV-229E Spike Protein HR1 and HR2 Domains
+0	14	22 Membrane	Gene_function	GO_0016020
+0	14	29 Membrane Fusion	Gene_function	GO_0061025
+
+1|chunk|Human coronavirus 229E (HCoV-229E) infection in infants, elderly people, and immunocompromised patients can cause severe disease, thus calling for the development of effective and safe therapeutics to treat it. Here we reported the design, synthesis and characterization of two peptide-based membrane fusion inhibitors targeting HCoV-229E spike protein heptad repeat 1 (HR1) and heptad repeat 2 (HR2) domains, 229E-HR1P and 229E-HR2P, respectively. We found that 229E-HR1P and 229E-HR2P could interact to form a stable six-helix bundle and inhibit HCoV-229E spike protein-mediated cell-cell fusion with IC 50 of 5.7 and 0.3 M, respectively. 229E-HR2P effectively inhibited pseudotyped and live HCoV-229E infection with IC 50 of 0.5 and 1.7 M, respectively. In a mouse model, 229E-HR2P administered intranasally could widely distribute in the upper and lower respiratory tracts and maintain its fusion-inhibitory activity. Therefore, 229E-HR2P is a promising candidate for further development as an antiviral agent for the treatment and prevention of HCoV-229E infection.
+1	114	120 severe	Phenotype	HP_0012828
+1	240	249 synthesis	Gene_function	GO_0009058
+1	292	300 membrane	Gene_function	GO_0016020
+1	292	307 membrane fusion	Gene_function	GO_0061025
+1	512	518 stable	Phenotype	HP_0031915
+1	581	597 cell-cell fusion	Gene_function	GO_0140253
+1	HP-GO	HP_0012828	GO_0009058
+1	HP-GO	HP_0012828	GO_0016020
+1	HP-GO	HP_0012828	GO_0061025
+1	HP-GO	HP_0012828	GO_0140253
+1	GO-HP	GO_0009058	HP_0031915
+1	GO-HP	GO_0016020	HP_0031915
+1	GO-HP	GO_0061025	HP_0031915
+1	HP-GO	HP_0031915	GO_0140253
+

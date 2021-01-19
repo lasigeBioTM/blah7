@@ -1,0 +1,15 @@
+0|chunk|Neighborhood Properties Are Important Determinants of Temperature Sensitive Mutations
+
+1|chunk|Temperature-sensitive (TS) mutants are powerful tools to study gene function in vivo. These mutants exhibit wild-type activity at permissive temperatures and reduced activity at restrictive temperatures. Although random mutagenesis can be used to generate TS mutants, the procedure is laborious and unfeasible in multicellular organisms. Further, the underlying molecular mechanisms of the TS phenotype are poorly understood. To elucidate TS mechanisms, we used a machine learning method-logistic regression-to investigate a large number of sequence and structure features. We developed and tested 133 features, describing properties of either the mutation site or the mutation site neighborhood. We defined three types of neighborhood using sequence distance, Euclidean distance, and topological distance. We discovered that neighborhood features outperformed mutation site features in predicting TS mutations. The most predictive features suggest that TS mutations tend to occur at buried and rigid residues, and are located at conserved protein domains. The environment of a buried residue often determines the overall structural stability of a protein, thus may lead to reversible activity change upon temperature switch. We developed TS prediction models based on logistic regression and the Lasso regularized procedure. Through a ten-fold cross-validation, we obtained the area under the curve of 0.91 for the model using both sequence and structure features. Testing on independent datasets suggested that the model predicted TS mutations with a 50% precision. In summary, our study elucidated the molecular basis of TS mutants and suggested the importance of neighborhood properties in determining TS mutations. We further developed models to predict TS mutations derived from single amino acid substitutions. In this way, TS mutants can be efficiently obtained through experimentally introducing the predicted mutations.
+1	1040	1047 protein	Chemical	CHEBI_16541
+1	1148	1155 protein	Chemical	CHEBI_16541
+1	1792	1797 amino	Chemical	CHEBI_46882
+1	1792	1802 amino acid	Chemical	CHEBI_33704
+1	1798	1802 acid	Chemical	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+

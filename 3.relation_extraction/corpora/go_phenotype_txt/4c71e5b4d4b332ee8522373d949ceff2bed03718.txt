@@ -1,0 +1,40 @@
+0|chunk|Expression and regulation of the neutral amino acid transporter B 0 AT1 in rat small intestine
+
+1|chunk|Absorption of neutral amino acids across the luminal membrane of intestinal enterocytes is mediated by the broad neutral amino acid transporter B 0 AT1 (SLC6A19). Its intestinal expression depends on co-expression of the membrane-anchored peptidase angiotensin converting enzyme 2 (ACE2) and is additionally enhanced by aminopeptidase N (CD13). We investigated in this study the expression of B 0 AT1 and its auxiliary peptidases as well as its transport function along the rat small intestine. Additionally, we tested its possible shortand long-term regulation by dietary proteins and amino acids. We showed by immunofluorescence that B 0 AT1, ACE2 and CD13 co-localize on the luminal membrane of small intestinal villi and by Western blotting that their protein expression increases in distal direction. Furthermore, we observed an elevated transport activity of the neutral amino acid L-isoleucine during the nocturnal active phase compared to the inactive one. Gastric emptying was delayed by intragastric application of an amino acid cocktail but we observed no acute dietary regulation of B 0 AT1 protein expression and L-isoleucine transport. Investigation of the chronic dietary regulation of B 0 AT1, ACE2 and CD13 by different diets revealed an increased B 0 AT1 protein expression under amino acid-supplemented diet in the proximal section but not in the distal one and for ACE2 protein expression a reverse localization of the effect. Dietary regulation for CD13 protein expression was not as distinct as for the two other proteins. Ring uptake experiments showed a tendency for increased L-isoleucine uptake under amino acid-supplemented diet and in vivo L-isoleucine absorption was more efficient under high protein and amino acid-supplemented diet. Additionally, plasma levels of branched-chain amino acids were elevated under high protein and amino acid diet. Taken together, our experiments did not reveal an acute amino acid-induced regulation of B 0 AT1 but revealed a chronic dietary adaptation mainly restricted to the proximal segment of the small intestine.
+1	53	61 membrane	Gene_function	GO_0016020
+1	445	454 transport	Gene_function	GO_0006810
+1	686	694 membrane	Gene_function	GO_0016020
+1	788	794 distal	Phenotype	HP_0012839
+1	843	852 transport	Gene_function	GO_0006810
+1	912	921 nocturnal	Phenotype	HP_0025301
+1	965	981 Gastric emptying	Gene_function	GO_0035483
+1	1067	1072 acute	Phenotype	HP_0011009
+1	1139	1148 transport	Gene_function	GO_0006810
+1	1171	1178 chronic	Phenotype	HP_0011010
+1	1334	1342 proximal	Phenotype	HP_0012840
+1	1366	1372 distal	Phenotype	HP_0012839
+1	1419	1431 localization	Gene_function	GO_0051179
+1	1926	1931 acute	Phenotype	HP_0011009
+1	1988	1995 chronic	Phenotype	HP_0011010
+1	2040	2048 proximal	Phenotype	HP_0012840
+1	GO-HP	GO_0016020	HP_0012839
+1	GO-HP	GO_0016020	HP_0025301
+1	GO-HP	GO_0016020	HP_0011009
+1	GO-HP	GO_0016020	HP_0011010
+1	GO-HP	GO_0016020	HP_0012840
+1	GO-HP	GO_0006810	HP_0012839
+1	GO-HP	GO_0006810	HP_0025301
+1	GO-HP	GO_0006810	HP_0011009
+1	GO-HP	GO_0006810	HP_0011010
+1	GO-HP	GO_0006810	HP_0012840
+1	HP-GO	HP_0012839	GO_0035483
+1	HP-GO	HP_0012839	GO_0051179
+1	HP-GO	HP_0025301	GO_0035483
+1	HP-GO	HP_0025301	GO_0051179
+1	GO-HP	GO_0035483	HP_0011009
+1	GO-HP	GO_0035483	HP_0011010
+1	GO-HP	GO_0035483	HP_0012840
+1	HP-GO	HP_0011009	GO_0051179
+1	HP-GO	HP_0011010	GO_0051179
+1	HP-GO	HP_0012840	GO_0051179
+

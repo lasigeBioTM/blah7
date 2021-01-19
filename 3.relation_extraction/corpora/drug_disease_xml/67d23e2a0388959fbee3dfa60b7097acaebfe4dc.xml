@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc">
+  <chunk id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c0" text="IILLS: predicting virus-receptor interactions based on similarity and semi-supervised learning"/>
+  <chunk id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1" text="Background: Viral infectious diseases are the serious threat for human health. The receptor-binding is the first step for the viral infection of hosts. To more effectively treat human viral infectious diseases, the hidden virus-receptor interactions must be discovered. However, current computational methods for predicting virus-receptor interactions are limited. Result: In this study, we propose a new computational method (IILLS) to predict virus-receptor interactions based on Initial Interaction scores method via the neighbors and the Laplacian regularized Least Square algorithm. IILLS integrates the known virus-receptor interactions and amino acid sequences of receptors. The similarity of viruses is calculated by the Gaussian Interaction Profile (GIP) kernel. On the other hand, we also compute the receptor GIP similarity and the receptor sequence similarity. Then the sequence similarity is used as the final similarity of receptors according to the prediction results. The 10-fold cross validation (10CV) and leave one out cross validation (LOOCV) are used to assess the prediction performance of our method. We also compare our method with other three competing methods (BRWH, LapRLS, CMF).">
+    <entity charOffset="126-141" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" ontology_id="DOID_934" text="viral infection" type="disease"/>
+    <entity charOffset="647-652" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e1" ontology_id="CHEBI_46882" text="amino" type="chemical"/>
+    <entity charOffset="647-657" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e2" ontology_id="CHEBI_33704" text="amino acid" type="chemical"/>
+    <entity charOffset="653-657" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e3" ontology_id="CHEBI_37527" text="acid" type="chemical"/>
+    <entity charOffset="759-762" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e4" ontology_id="CHEBI_80165" text="GIP" type="chemical"/>
+    <entity charOffset="820-823" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e5" ontology_id="CHEBI_80165" text="GIP" type="chemical"/>
+    <pair e1="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" e2="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e1" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.p0" relation="true"/>
+    <pair e1="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" e2="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e2" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.p1" relation="true"/>
+    <pair e1="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" e2="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e3" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.p2" relation="true"/>
+    <pair e1="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" e2="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e4" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.p3" relation="true"/>
+    <pair e1="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e0" e2="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.e5" id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c1.p4" relation="true"/>
+  </chunk>
+  <chunk id="67d23e2a0388959fbee3dfa60b7097acaebfe4dc.c2" text="The experiment results show that IILLS achieves the AUC values of 0.8675 and 0.9061 with the 10-fold cross validation and leave-one-out cross validation (LOOCV), respectively, which illustrates that IILLS is superior to the competing methods. In addition, the case studies also further indicate that the IILLS method is effective for the virus-receptor interaction prediction."/>
+</document>

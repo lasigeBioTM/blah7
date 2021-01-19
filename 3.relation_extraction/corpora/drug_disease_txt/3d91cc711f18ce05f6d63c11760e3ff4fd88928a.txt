@@ -1,0 +1,29 @@
+0|chunk|Evaluation of Approaches to Identify the Targets of Cellular Immunity on a Proteome-Wide Scale
+
+1|chunk|Background: Vaccine development against malaria and other complex diseases remains a challenge for the scientific community. The recent elucidation of the genome, proteome and transcriptome of many of these complex pathogens provides the basis for rational vaccine design by identifying, on a proteome-wide scale, novel target antigens that are recognized by T cells and antibodies from exposed individuals. However, there is currently no algorithm to effectively identify important target antigens from genome sequence data; this is especially challenging for T cell targets. Furthermore, for some of these pathogens, such as Plasmodium, protein expression using conventional platforms has been problematic but cell-free in vitro transcription translation (IVTT) strategies have recently proved successful. Herein, we report a novel approach for proteome-wide scale identification of the antigenic targets of T cell responses using IVTT products.
+1	40	47 malaria	Disease	DOID_12365
+1	327	335 antigens	Chemical	CHEBI_59132
+1	490	498 antigens	Chemical	CHEBI_59132
+1	639	646 protein	Chemical	CHEBI_16541
+1	DOID-CHEBI	DOID_12365	CHEBI_59132
+1	DOID-CHEBI	DOID_12365	CHEBI_16541
+
+2|chunk|Principal Findings: We conducted a series of in vitro and in vivo experiments using IVTT proteins either unpurified, absorbed to carboxylated polybeads, or affinity purified through nickel resin or magnetic beads. In vitro studies in humans using CMV, EBV, and Influenza A virus proteins showed antigen-specific cytokine production in ELIspot and Cytometric Bead Array assays with cells stimulated with purified or unpurified IVTT antigens. In vitro and in vivo studies in mice immunized with the Plasmodium yoelii circumsporozoite DNA vaccine with or without IVTT protein boost showed antigen-specific cytokine production using purified IVTT antigens only. Overall, the nickel resin method of IVTT antigen purification proved optimal in both human and murine systems.
+2	89	97 proteins	Chemical	CHEBI_36080
+2	182	188 nickel	Chemical	CHEBI_28112
+2	261	270 Influenza	Disease	DOID_8469
+2	279	287 proteins	Chemical	CHEBI_36080
+2	431	439 antigens	Chemical	CHEBI_59132
+2	532	535 DNA	Chemical	CHEBI_16991
+2	565	572 protein	Chemical	CHEBI_16541
+2	643	651 antigens	Chemical	CHEBI_59132
+2	671	677 nickel	Chemical	CHEBI_28112
+2	699	706 antigen	Chemical	CHEBI_59132
+2	CHEBI-DOID	CHEBI_36080	DOID_8469
+2	CHEBI-DOID	CHEBI_28112	DOID_8469
+2	DOID-CHEBI	DOID_8469	CHEBI_59132
+2	DOID-CHEBI	DOID_8469	CHEBI_16991
+2	DOID-CHEBI	DOID_8469	CHEBI_16541
+
+3|chunk|Conclusions: This work provides proof of concept for the potential of high-throughput approaches to identify T cell targets of complex parasitic, viral or bacterial pathogens from genomic sequence data, for rational vaccine development against emerging and re-emerging diseases that pose a threat to public health.
+

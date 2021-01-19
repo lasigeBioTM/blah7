@@ -1,0 +1,31 @@
+0|chunk|Citation: Using Pan RNA-Seq Analysis to Reveal the Ubiquitous Existence of 5 and 3 End Small RNAs
+0	16	19 Pan	Gene_function	GO_0022623
+
+1|chunk|In this study, we used pan RNA-seq analysis to reveal the ubiquitous existence of both 5 and 3 end small RNAs (5 and 3 sRNAs). 5 and 3 sRNAs alone can be used to annotate nuclear non-coding and mitochondrial genes at 1-bp resolution and identify new steady RNAs, which are usually transcribed from functional genes. Then, we provided a simple and cost effective way for the annotation of nuclear non-coding and mitochondrial genes and the identification of new steady RNAs, particularly long non-coding RNAs (lncRNAs). Using 5 and 3 sRNAs, the annotation of human mitochondrial was corrected and a novel ncRNA named non-coding mitochondrial RNA 1 (ncMT1) was reported for the first time in this study. We also found that most of human tRNA genes have downstream lncRNA genes as lncTRS-TGA1-1 and corrected the misunderstanding of them in previous studies. Using 5 , 3 , and intronic sRNAs, we reported for the first time that enzymatic double-stranded RNA (dsRNA) cleavage and RNA interference (RNAi) might be involved in the RNA degradation and gene expression regulation of U1 snRNA in human. We provided a different perspective on the regulation of gene expression in U1 snRNA. We also provided a novel view on cancer and virus-induced diseases, leading to find diagnostics or therapy targets from the ribonuclease III (RNase III) family and its related pathways. Our findings pave the way toward a rediscovery of dsRNA cleavage and RNAi, challenging classical theories.
+1	23	26 pan	Gene_function	GO_0022623
+1	194	207 mitochondrial	Phenotype	HP_0001427
+1	411	424 mitochondrial	Phenotype	HP_0001427
+1	564	577 mitochondrial	Phenotype	HP_0001427
+1	627	640 mitochondrial	Phenotype	HP_0001427
+1	735	739 tRNA	Gene_function	GO_0030533
+1	977	993 RNA interference	Gene_function	GO_0016246
+1	995	999 RNAi	Gene_function	GO_0016246
+1	1026	1041 RNA degradation	Gene_function	GO_0006401
+1	1030	1041 degradation	Gene_function	GO_0009056
+1	1046	1061 gene expression	Gene_function	GO_0010467
+1	1152	1167 gene expression	Gene_function	GO_0010467
+1	1214	1220 cancer	Phenotype	HP_0002664
+1	1436	1440 RNAi	Gene_function	GO_0016246
+1	GO-HP	GO_0022623	HP_0001427
+1	GO-HP	GO_0022623	HP_0002664
+1	HP-GO	HP_0001427	GO_0030533
+1	HP-GO	HP_0001427	GO_0016246
+1	HP-GO	HP_0001427	GO_0006401
+1	HP-GO	HP_0001427	GO_0009056
+1	HP-GO	HP_0001427	GO_0010467
+1	GO-HP	GO_0030533	HP_0002664
+1	GO-HP	GO_0016246	HP_0002664
+1	GO-HP	GO_0006401	HP_0002664
+1	GO-HP	GO_0009056	HP_0002664
+1	GO-HP	GO_0010467	HP_0002664
+

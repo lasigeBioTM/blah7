@@ -1,0 +1,65 @@
+0|chunk|A Multi-Omics Study of Chicken Infected by Nephropathogenic Infectious Bronchitis Virus
+
+1|chunk|Chicken gout resulting from nephropathogenic infectious bronchitis virus (NIBV) has become a serious kidney disease problem in chicken worldwide with alterations of the metabolic phenotypes in multiple metabolic pathways. To investigate the mechanisms in chicken responding to NIBV infection, we examined the global transcriptomic and metabolomic profiles of the chicken's kidney using RNA-seq and GC-TOF/MS, respectively. Furthermore, we analyzed the alterations in cecal microorganism composition in chickens using 16S rRNA-seq. Integrated analysis of these three phenotypic datasets further managed to create correlations between the altered kidney transcriptomes and metabolome, and between kidney metabolome and gut microbiome. We found that 2868 genes and 160 metabolites were deferentially expressed or accumulated in the kidney during NIBV infection processes. These genes and metabolites were linked to NIBV-infection related processes, including immune response, signal transduction, peroxisome, purine, and amino acid metabolism. In addition, the comprehensive correlations between the kidney metabolome and cecal microbial community showed contributions of gut microbiota in the progression of NIBV-infection. Taken together, our research comprehensively describes the host responses during NIBV infection and provides new clues for further dissection of specific gene functions, metabolite affections, and the role of gut microbiota during chicken gout. astrovirus (CAstV), and NIBV [4, 6, 7] . Currently, NIBV that causes visceral gout in chicken has become a research hotspot [6, 8] .
+1	766	777 metabolites	Chemical	CHEBI_25212
+1	885	896 metabolites	Chemical	CHEBI_25212
+1	1018	1023 amino	Chemical	CHEBI_46882
+1	1018	1028 amino acid	Chemical	CHEBI_33704
+1	1024	1028 acid	Chemical	CHEBI_37527
+1	1392	1402 metabolite	Chemical	CHEBI_25212
+1	1423	1427 role	Chemical	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_25212	CHEBI_46882
+1	CHEBI-CHEBI	CHEBI_25212	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_25212	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_25212	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_46882	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+1	CHEBI-CHEBI	CHEBI_33704	CHEBI_50906
+1	CHEBI-CHEBI	CHEBI_37527	CHEBI_50906
+
+2|chunk|NIBV has become the most common IBV strain in the commercial poultry industry. It is a gamma Coronavirus in the Coronavirus family that exhibit strong renal tropism and has become one of the most familiar pathogens that induce visceral gout outbreaks [9] [10] [11] . Initially, some IBV strains have been called nephropathogenic IBV because the starting respiratory infection was followed by a heavy kidney infection. A large number of previous research findings indicate that clinical symptoms of nephropathogenic IBV strains infection include increased water consumption, depression, watery droppings, and significant mortality. Notably, necropsy of chicks that died during nephropathogenic IBV infection showed enlarged and pale kidneys and monosodium urate crystal deposition in the renal tubules and ureters [12] . According to histopathology, NIBV replicates on the epithelial surface of the kidney and causes particle degeneration, vacuolation, and desquamation of the tubular epithelium, as well as massive infiltration of heterophilic granulocytes in the stroma [13] . However, there is a substantial lack of understanding of the pathogenesis of NIBV infection. In addition, it is well known that the gut microbial community is closely associated with the progression of diseases, and Inoue et al. also confirmed that hepatitis C virus infection is associated with gut dysbiosis [14] . In our study, we focus on the cecum as organs of particular interest as they harbor the highest microbial cell densities (up to 10 11 cells g 1 ) and are significant sites for recycling of urea, water regulation, and carbohydrate fermentations [15, 16] . Therefore, we suspect that the gut microbiota may be associated with the progression of visceral gout induced by NIBV infection.
+2	87	92 gamma	Chemical	CHEBI_30212
+2	555	560 water	Chemical	CHEBI_15377
+2	744	760 monosodium urate	Chemical	CHEBI_143125
+2	755	760 urate	Chemical	CHEBI_17775
+2	1591	1596 water	Chemical	CHEBI_15377
+2	1613	1625 carbohydrate	Chemical	CHEBI_16646
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_15377
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_143125
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_17775
+2	CHEBI-CHEBI	CHEBI_30212	CHEBI_16646
+2	CHEBI-CHEBI	CHEBI_15377	CHEBI_143125
+2	CHEBI-CHEBI	CHEBI_15377	CHEBI_17775
+2	CHEBI-CHEBI	CHEBI_15377	CHEBI_16646
+2	CHEBI-CHEBI	CHEBI_143125	CHEBI_17775
+2	CHEBI-CHEBI	CHEBI_143125	CHEBI_16646
+2	CHEBI-CHEBI	CHEBI_17775	CHEBI_16646
+
+3|chunk|Nowadays, omics technology is increasingly being used to understand intricate biological systems and reveal the molecular characteristics behind complex cellular phenotypes [17, 18] . Applications of omics platforms include the identification of genes (genomics), messenger RNA (mRNA, transcriptomics), proteins (proteomics), and metabolites (metabolomics). Moreover, the research of the gut microbiota (microbiomics) has brought increasing concern due to its important affection for different diseases [19] . Many scholars have used multi-omics analysis to make great progress in deciphering the pathogenesis of diseases, such as Alzheimer's disease [20] , familial type 1 diabetes [21], autoimmune diseases [22] , and cardiovascular diseases [23] . However, to date, there has been very few omics analyses for the study of poultry diseases, and in particular, as far as we know, there is no omics analysis for the study of the pathogenesis of NIBV infection.
+3	264	277 messenger RNA	Chemical	CHEBI_33699
+3	274	277 RNA	Chemical	CHEBI_33697
+3	303	311 proteins	Chemical	CHEBI_36080
+3	330	341 metabolites	Chemical	CHEBI_25212
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33699	CHEBI_25212
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36080
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_25212
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_25212
+
+4|chunk|The antiviral and metabolic changes caused by viruses result in a highly complicated process that requires the coordination of diverse intertwined signalling and metabolic pathways. Therefore, a large-scale and comprehensive analysis of viral target tissues is needed to better understand the pathogenesis of the NIBV infection. We first replicated the visceral gout model by infecting chickens with NIBV and conducted an integrated transcriptomic, metabolomics, and microbiomics analyses. The characterization of these identified genes, metabolites, and microbiota clearly reflected the dynamic changes in the biological processes in chickens with NIBV infection. Overall, our research comprehensively describes the host responses during NIBV infection and provides new clues for further dissection of specific gene functions, metabolite affections, and the role of gut microbiota during chicken gout.
+4	4	13 antiviral	Chemical	CHEBI_22587
+4	828	838 metabolite	Chemical	CHEBI_25212
+4	859	863 role	Chemical	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_25212
+4	CHEBI-CHEBI	CHEBI_22587	CHEBI_50906
+4	CHEBI-CHEBI	CHEBI_25212	CHEBI_50906
+
+5|chunk|Materials and Methods
+
+6|chunk|The virulent IBV strain that was used was the SX9 strain which was isolated and stored by the College of Animal Science and Technology, Jiangxi Agriculture.
+
+7|chunk|Two hundred forty Hy-Line Brown variety birds (1-day-old; Guohua Co. Ltd., Nanchang, Jiangxi, China) were stochastically split into two experimental rooms: A control room (Con, n = 120) and a
+

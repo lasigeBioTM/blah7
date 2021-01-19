@@ -1,0 +1,79 @@
+0|chunk|viruses Respiratory Syncytial Virus and Cellular Stress Responses: Impact on Replication and Physiopathology
+
+1|chunk|Human respiratory syncytial virus (RSV), a member of the Paramyxoviridae family, is a major cause of severe acute lower respiratory tract infection in infants, elderly and immunocompromised adults. Despite decades of research, a complete integrated picture of RSV-host interaction is still missing. Several cellular responses to stress are involved in the host-response to many virus infections. The endoplasmic reticulum stress induced by altered endoplasmic reticulum (ER) function leads to activation of the unfolded-protein response (UPR) to restore homeostasis. Formation of cytoplasmic stress granules containing translationally stalled mRNAs is a means to control protein translation. Production of reactive oxygen species is balanced by an antioxidant response to prevent oxidative stress and the resulting damages. In recent years, ongoing research has started to unveil specific regulatory interactions of RSV with these host cellular stress responses. Here, we discuss the latest findings regarding the mechanisms evolved by RSV to induce, subvert or manipulate the ER stress, the stress granule and oxidative stress responses. We summarize the evidence linking these stress responses with the regulation of RSV replication and the associated pathogenesis.
+1	101	107 severe	Phenotype	HP_0012828
+1	108	113 acute	Phenotype	HP_0011009
+1	400	421 endoplasmic reticulum	Gene_function	GO_0005783
+1	448	469 endoplasmic reticulum	Gene_function	GO_0005783
+1	780	796 oxidative stress	Phenotype	HP_0025464
+1	1092	1106 stress granule	Gene_function	GO_0010494
+1	1111	1127 oxidative stress	Phenotype	HP_0025464
+1	HP-GO	HP_0012828	GO_0005783
+1	HP-GO	HP_0012828	GO_0010494
+1	HP-GO	HP_0011009	GO_0005783
+1	HP-GO	HP_0011009	GO_0010494
+1	GO-HP	GO_0005783	HP_0025464
+1	HP-GO	HP_0025464	GO_0010494
+
+2|chunk|combined with accumulation of mucus and cellular debris, and promotes neutrophil infiltration in the airways [4] . The severity of the clinical manifestations positively correlates with the virus titer and the exacerbated proinflammatory cytokine/chemokine response skewed toward a T helper type 2 (Th2) immune response, but the relative contributions of these parameters to the disease remain unknown [3] . Current treatment is limited to supportive care. Development of a RSV vaccine remains a challenge, but immunoprophylaxis with monoclonal anti-RSV fusion protein (Palivizumab) effectively confers protection. However, due to high costs, the prophylactic treatment is limited to children considered at high risk of developing severe disease, i.e., preterm babies or infants with congenital heart disease [5] .
+2	30	35 mucus	Gene_function	GO_0070701
+2	119	127 severity	Phenotype	HP_0012824
+2	731	737 severe	Phenotype	HP_0012828
+2	GO-HP	GO_0070701	HP_0012824
+2	GO-HP	GO_0070701	HP_0012828
+
+3|chunk|Paramyxoviruses are enveloped viruses containing non-segmented negative-sense RNA genome. The 15.2 kb RSV genome is composed of 10 genes arranged sequentially on the template that encodes for 11 proteins. The large polymerase protein (L), the phosphoprotein (P) and the nucleoprotein (N) form the helical ribonucleoprotein complex which encapsidates the genomic RNA. The nucleocapsid is surrounded by the matrix (M) protein and an envelope derived from the host membrane in which the viral attachment glycoprotein (G), fusion glycoprotein (F) and small hydrophobic glycoprotein (SH) are anchored. The SH glycoprotein is specific to RSV amongst Paramyxoviridae. Other additional genes encoded by RSV that are not present in other paramyxoviruses include the M2-1 and M2-2 involved in transcription and replication, respectively, and two non-structural proteins, NS1 and NS2 [3, 6] .
+3	305	330 ribonucleoprotein complex	Gene_function	GO_1990904
+3	371	383 nucleocapsid	Gene_function	GO_0019013
+3	431	439 envelope	Gene_function	GO_0031975
+3	462	470 membrane	Gene_function	GO_0016020
+
+4|chunk|RSV primarily targets ciliated airway epithelial cells (AECs), but immune cells such as dendritic cells (DCs) and macrophages can also be infected with RSV [7-10]. RSV replication cycle generally follows the general scheme of the paramyxoviruses [11, 12] . Nucleolin expressed at the surface of AEC has recently been proposed as a functional receptor for RSV that binds the RSV F protein and is required for RSV fusion with the plasma membrane [13] . Fusion occurs after a transient macropinosome formation to deliver the nucleocapsid in the cytoplasm [14] , where transcription and replication occur. Transcription and replication are regulated by a unique promoter in the 3 1 leader (Le) region of the genome. Transcription by the RNA-dependent-RNA-polymerase composed of L and P proceeds directly from the negative sense (3 1 -5 1 ) genome through the production of capped/polyA monocistronic mRNAs. Replication involves the formation of an antigenome (5 1 -3 1 ) intermediate. The 5 1 end of the genome contains an extragenic trailer sequence (Tr). The complement of the Tr sequence (TrC) found at the 3 1 end of the antigenome contains a promoter required for the synthesis of new genomic RNA [3, 6] . Transcription and replication of RSV genome generate specific RNA intermediates that constitute pathogen-associated molecular patterns (PAMPs), which are sensed by pattern recognition receptors (PRRs) to trigger the interferon (IFN)-mediated antiviral response and the expression of proinflammatory cytokines. RSV exhibits a complex regulatory interaction with different PRRs. RSV sensing in the cytoplasm involves the retinoic acid-inducible gene I (RIG-I)-like receptors (RLRs)-RIG-I and melanoma differentiation-associated protein 5 (MDA5)-and the double-stranded RNA (dsRNA)-dependent protein kinase R (PKR). Toll-like receptors (TLRs) 2, 3, 4 and 7 localized in the membrane or in the endosomal compartment also contribute to RSV sensing in a cell-type-specific manner [15] .
+4	428	443 plasma membrane	Gene_function	GO_0005886
+4	435	443 membrane	Gene_function	GO_0016020
+4	473	482 transient	Phenotype	HP_0025153
+4	483	496 macropinosome	Gene_function	GO_0044354
+4	522	534 nucleocapsid	Gene_function	GO_0019013
+4	542	551 cytoplasm	Gene_function	GO_0005737
+4	1169	1178 synthesis	Gene_function	GO_0009058
+4	1449	1467 antiviral response	Gene_function	GO_0051607
+4	1603	1612 cytoplasm	Gene_function	GO_0005737
+4	1697	1705 melanoma	Phenotype	HP_0002861
+4	1861	1870 localized	Phenotype	HP_0012838
+4	1878	1886 membrane	Gene_function	GO_0016020
+4	GO-HP	GO_0005886	HP_0025153
+4	GO-HP	GO_0005886	HP_0002861
+4	GO-HP	GO_0005886	HP_0012838
+4	GO-HP	GO_0016020	HP_0025153
+4	GO-HP	GO_0016020	HP_0002861
+4	GO-HP	GO_0016020	HP_0012838
+4	HP-GO	HP_0025153	GO_0044354
+4	HP-GO	HP_0025153	GO_0019013
+4	HP-GO	HP_0025153	GO_0005737
+4	HP-GO	HP_0025153	GO_0009058
+4	HP-GO	HP_0025153	GO_0051607
+4	GO-HP	GO_0044354	HP_0002861
+4	GO-HP	GO_0044354	HP_0012838
+4	GO-HP	GO_0019013	HP_0002861
+4	GO-HP	GO_0019013	HP_0012838
+4	GO-HP	GO_0005737	HP_0002861
+4	GO-HP	GO_0005737	HP_0012838
+4	GO-HP	GO_0009058	HP_0002861
+4	GO-HP	GO_0009058	HP_0012838
+4	GO-HP	GO_0051607	HP_0002861
+4	GO-HP	GO_0051607	HP_0012838
+
+5|chunk|Many viruses, including paramyxoviruses, have evolved mechanisms that permit selective translation of their mRNAs under shutoff conditions imposed by the IFN and cellular stress responses [16] . However, RSV counts amongst the viruses that replicate efficiently without inducing an overall inhibition of host cellular protein synthesis [17] . As numerous viruses, RSV has evolved mechanisms to hijack the IFN antiviral response, mainly through the NS1 and NS2 proteins. These mechanisms have been recently reviewed [18] . Here, we focus on the specific regulatory interactions of RSV with the host cell stress responses, the endoplasmic reticulum (ER) stress, the stress granule (SG) response, and oxidative stress to illustrate their relationship with RSV viral replication and physiopathology.
+5	87	98 translation	Gene_function	GO_0006412
+5	318	335 protein synthesis	Gene_function	GO_0006412
+5	326	335 synthesis	Gene_function	GO_0009058
+5	593	602 host cell	Gene_function	GO_0043657
+5	625	646 endoplasmic reticulum	Gene_function	GO_0005783
+5	664	678 stress granule	Gene_function	GO_0010494
+5	698	714 oxidative stress	Phenotype	HP_0025464
+5	GO-HP	GO_0006412	HP_0025464
+5	GO-HP	GO_0009058	HP_0025464
+5	GO-HP	GO_0043657	HP_0025464
+5	GO-HP	GO_0005783	HP_0025464
+5	GO-HP	GO_0010494	HP_0025464
+

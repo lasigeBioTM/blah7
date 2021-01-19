@@ -1,0 +1,57 @@
+{
+    "text": "To measure the occurrence of protective behaviors for COVID-19 and sociodemographic factors according to the occurrence of multimorbidity in the Brazilian population aged 50 or over was the objective of this study. We used data from telephone surveys among participants of ELSI-Brazil (Brazilian Longitudinal Study of Aging), conducted between May and June 2020. The use of non-pharmacological prevention measures for COVID-19, reasons for leaving home according to the presence of multimorbidity and sociodemographic variables were evaluated. among 6,149 individuals. Multimorbidity was more frequent in females, married, aged 50-59 years and residents of the urban area. Most of the population left home between once and twice in the last week, increasing according to the number of morbidities (22.3% no morbidities and 38% with multimorbidity). Leaving home every day was less common among individuals with multimorbidity (10.3%) and 9.3% left home in the last week to access health care. Hand hygiene (> 98%) and always wearing a mask when leaving home (> 96%) were almost universal habits. Greater adherence to social isolation was observed among women with multimorbidity when compared to men (PR = 1.49, 95%CI: 1.23-1.79). This adherence increased proportionally with age and inversely with the level of education. The protective behavior in people with multimorbidity seems to be greater in relation to the others, although issues related to social isolation and health care deserve to be highlighted. These findings can be useful in customizing strategies for coping with the current pandemic.",
+    "denotations": [
+        {
+            "id": "HP_0040282",
+            "span": {
+                "begin": 593,
+                "end": 601
+            },
+            "obj": "frequent"
+        },
+        {
+            "id": "HP_0012835",
+            "span": {
+                "begin": 696,
+                "end": 700
+            },
+            "obj": "left"
+        },
+        {
+            "id": "HP_0012835",
+            "span": {
+                "begin": 943,
+                "end": 947
+            },
+            "obj": "left"
+        },
+        {
+            "id": "GO_0007610",
+            "span": {
+                "begin": 1338,
+                "end": 1346
+            },
+            "obj": "behavior"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0040282"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0012835"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0007610",
+            "pred": "no_relation",
+            "obj": "HP_0012835"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+0|chunk|molecules Saponins from Chinese Medicines as Anticancer Agents
+
+1|chunk|Saponins are glycosides with triterpenoid or spirostane aglycones that demonstrate various pharmacological effects against mammalian diseases. To promote the research and development of anticancer agents from saponins, this review focuses on the anticancer properties of several typical naturally derived triterpenoid saponins (ginsenosides and saikosaponins) and steroid saponins (dioscin, polyphyllin, and timosaponin) isolated from Chinese medicines. These saponins exhibit in vitro and in vivo anticancer effects, such as anti-proliferation, anti-metastasis, anti-angiogenesis, anti-multidrug resistance, and autophagy regulation actions. In addition, related signaling pathways and target proteins involved in the anticancer effects of saponins are also summarized in this work. of the saponins ginsenoside, saikosaponin, dioscin, polyphyllin, and timosaponin. This work will hopefully serve as a reference for further development of saponins as anticancer agents.
+1	613	622 autophagy	Gene_function	GO_0006914
+1	664	673 signaling	Gene_function	GO_0023052
+
+2|chunk|Triterpenoid Saponins
+
+3|chunk|Ginsenosides are the main active components of Ginseng radix (Renshen in Chinese), which is widespread in northeast China, Korea, and Japan. It has been used in Asian countries for centuries to treat various diseases because of its wide spectrum of pharmacological effects [13] . Additionally, ginsenosides are also found in American ginseng (Xiyangshen in Chinese). More than 100 ginsenosides have been isolated from Ginseng radix and are classified into protopanaxadiol (PPD), protopanaxatriol (PPT), ocotillol, and oleanolic acid types. The main structural difference between the PPD and PPT types is the presence of sugar residues attached to an -OH at C-6 and the absence of -OH at C-3 in the PPT moiety [14] . These compounds have recently received increasing attention due to their anticancer properties. Compared with the PPT-type ginsenosides, the PPD-type ginsenosides exhibit stronger anticancer potentials. Ginsenoside Rg3 ( Figure 1a ) and Rh2 (Figure 1b) are the most well-studied active PPD-type anticancer congeners. Other PPD-type ginsenosides, such as ginsenoside Rb1 [15], Rb2 [16], Rc [17], Rd [18], and Rk1 [19], as well as PPT-type ginsenosides such as Re [20] and Rf [21] have also demonstrated anticancer activities with similar mechanisms as those in ginsenoside Rg3 or Rh2. 2.1.1. Ginsenoside Rg3 Ginsenoside Rg3 demonstrates therapeutic effects in vitro and/or in vivo against various tumors, including leukemia [22], lung cancer [23], esophageal carcinoma [24], gastric cancer [25], colon cancer [26-28], hepatoma [29,30], renal cancer [31], bladder cancer [32], breast cancer [33], ovarian cancer [34], prostate cancer [35,36] and melanoma [37-39]. Moreover, combination therapy of ginsenoside Rg3 with other chemotherapeutic agents has also become the focus of recent research. Ginsenoside Rg3 reinforces the anticancer effects when combined with cyclophosphamide [40-42], capecitabine [43], docetaxel [26,35], gemcitabine [44], cisplatin [32,45], doxorubicin [46], verapamil [47]
+3	1432	1440 leukemia	Phenotype	HP_0001909
+3	1452	1458 cancer	Phenotype	HP_0002664
+3	1465	1485 esophageal carcinoma	Phenotype	HP_0011459
+3	1476	1485 carcinoma	Phenotype	HP_0030731
+3	1492	1506 gastric cancer	Phenotype	HP_0012126
+3	1500	1506 cancer	Phenotype	HP_0002664
+3	1513	1525 colon cancer	Phenotype	HP_0003003
+3	1519	1525 cancer	Phenotype	HP_0002664
+3	1559	1565 cancer	Phenotype	HP_0002664
+3	1572	1586 bladder cancer	Phenotype	HP_0009725
+3	1580	1586 cancer	Phenotype	HP_0002664
+3	1593	1606 breast cancer	Phenotype	HP_0003002
+3	1600	1606 cancer	Phenotype	HP_0002664
+3	1621	1627 cancer	Phenotype	HP_0002664
+3	1634	1649 prostate cancer	Phenotype	HP_0012125
+3	1643	1649 cancer	Phenotype	HP_0002664
+3	1662	1670 melanoma	Phenotype	HP_0002861
+
+4|chunk|, and tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) [48] . Additionally, ginsenoside Rg3 sensitizes cancer cells to -radiation by targeting the nuclear factor-kappa B (NF-B) pathway [49], vascular endothelial growth factor (VEGF), and HIF-1 [34, 50] . In vivo studies have suggested that ginsenoside Rg3 not only reduces tumor growth, but also enhances cellular immunity [51], prolongs the survival time, and improves the quality of life of mice with tumors [41]. Ginsenoside Rg3 treatment affects a broad range of signaling pathways and factors, including downregulation or deactivation of epidermal growth factor receptor (EGFR) [52,53], inactivation of NF-B by reducing phosphorylation of extracellular signal-regulated kinases (ERK) and protein kinase B (AKT) [54], suppression of NF-B/p65 signaling pathway [37], modulation of mitogen-activated protein kinases (MAPK) [36], down-regulation of Wnt/-catenin signaling [27], inhibition of CXC receptor 4 (CXCR4) [55], down-regulation of AQP1 expression through p38 pathway [56], down-regulation of phosphatidylinositol 3-kinase (PI3K)/AKT family proteins and inhibitor of apoptosis protein (IAP) family proteins [22,57], reduction of histone deacetylase 3 expression and enhancement of p53 acetylation [39], inhibition of autophagy [46], suppression of anoikis resistance [58], and suppression of Warburg effect through signal transducer and activator of transcription 3 (STAT3)/HK2 pathway [59]
+4	6	11 tumor	Phenotype	HP_0002664
+4	12	20 necrosis	Gene_function	GO_0001906
+4	118	124 cancer	Phenotype	HP_0002664
+4	229	235 growth	Gene_function	GO_0040007
+4	342	347 tumor	Phenotype	HP_0002664
+4	348	354 growth	Gene_function	GO_0040007
+4	536	545 signaling	Gene_function	GO_0023052
+4	622	628 growth	Gene_function	GO_0040007
+4	646	650 EGFR	Gene_function	GO_0005006
+4	695	710 phosphorylation	Gene_function	GO_0016310
+4	714	727 extracellular	Gene_function	GO_0005576
+4	754	757 ERK	Gene_function	GO_0004707
+4	817	826 signaling	Gene_function	GO_0023052
+4	817	834 signaling pathway	Gene_function	GO_0007165
+4	890	894 MAPK	Gene_function	GO_0004707
+4	935	944 signaling	Gene_function	GO_0023052
+4	1298	1307 autophagy	Gene_function	GO_0006914
+4	1329	1336 anoikis	Gene_function	GO_0043276
+4	HP-GO	HP_0002664	GO_0001906
+4	HP-GO	HP_0002664	GO_0040007
+4	HP-GO	HP_0002664	GO_0023052
+4	HP-GO	HP_0002664	GO_0005006
+4	HP-GO	HP_0002664	GO_0016310
+4	HP-GO	HP_0002664	GO_0005576
+4	HP-GO	HP_0002664	GO_0004707
+4	HP-GO	HP_0002664	GO_0007165
+4	HP-GO	HP_0002664	GO_0006914
+4	HP-GO	HP_0002664	GO_0043276
+
+5|chunk|. Furthermore, the anticancer mechanisms of ginsenoside Rg3 is related to the alteration of Bcl-2 family proteins expression, including downregulation of Bcl-2 and Bcl-xL, upregulation or activation of Bax [29, 60] , and activation of caspase cascade [61, 62] . Another study recently found that ginsenoside Rg3 can inhibit the growth and survival of gastric cancer cells via blockade of the activity of transient receptor potential melastatin 7 channel [63], which is essential for cell survival that make it a potential target for gastric cancer treatment. Moreover, ginsenoside Rg3 also exhibits other anticancer properties, such as declination of fucosyltransferase IV
+5	328	334 growth	Gene_function	GO_0040007
+5	351	365 gastric cancer	Phenotype	HP_0012126
+5	359	365 cancer	Phenotype	HP_0002664
+5	404	413 transient	Phenotype	HP_0025153
+5	533	547 gastric cancer	Phenotype	HP_0012126
+5	541	547 cancer	Phenotype	HP_0002664
+5	GO-HP	GO_0040007	HP_0012126
+5	GO-HP	GO_0040007	HP_0002664
+5	GO-HP	GO_0040007	HP_0025153
+

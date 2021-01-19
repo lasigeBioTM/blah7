@@ -1,0 +1,98 @@
+0|chunk|vaccines The TRIMendous Role of TRIMs in Virus-Host Interactions
+0	24	28 Role	Chemical	CHEBI_50906
+
+1|chunk|The innate antiviral response is integral in protecting the host against virus infection. Many proteins regulate these signaling pathways including ubiquitin enzymes. The ubiquitin-activating (E1), -conjugating (E2), and -ligating (E3) enzymes work together to link ubiquitin, a small protein, onto other ubiquitin molecules or target proteins to mediate various effector functions. The tripartite motif (TRIM) protein family is a group of E3 ligases implicated in the regulation of a variety of cellular functions including cell cycle progression, autophagy, and innate immunity. Many antiviral signaling pathways, including type-I interferon and NF-B, are TRIM-regulated, thus influencing the course of infection. Additionally, several TRIMs directly restrict viral replication either through proteasome-mediated degradation of viral proteins or by interfering with different steps of the viral replication cycle. In addition, new studies suggest that TRIMs can exert their effector functions via the synthesis of unconventional polyubiquitin chains, including unanchored (non-covalently attached) polyubiquitin chains. TRIM-conferred viral inhibition has selected for viruses that encode direct and indirect TRIM antagonists. Furthermore, new evidence suggests that the same antagonists encoded by viruses may hijack TRIM proteins to directly promote virus replication. Here, we describe numerous virus-TRIM interactions and novel roles of TRIMs during virus infections.
+1	11	20 antiviral	Chemical	CHEBI_22587
+1	95	103 proteins	Chemical	CHEBI_36080
+1	285	292 protein	Chemical	CHEBI_16541
+1	315	324 molecules	Chemical	CHEBI_25367
+1	335	343 proteins	Chemical	CHEBI_36080
+1	363	371 effector	Chemical	CHEBI_35224
+1	411	418 protein	Chemical	CHEBI_16541
+1	586	595 antiviral	Chemical	CHEBI_22587
+1	633	643 interferon	Chemical	CHEBI_52999
+1	837	845 proteins	Chemical	CHEBI_36080
+1	977	985 effector	Chemical	CHEBI_35224
+1	1217	1228 antagonists	Chemical	CHEBI_48706
+1	1279	1290 antagonists	Chemical	CHEBI_48706
+1	1326	1334 proteins	Chemical	CHEBI_36080
+
+2|chunk|Vaccines 2017, 5, 23 2 of 38
+
+3|chunk|Ubiquitin is a key protein in orchestrating immune responses. Ubiquitin is a 76-amino-acid protein that associates either covalently or non-covalently with proteins [1] [2] [3] . Interaction of ubiquitin with its targets may influence subcellular localization, signaling, trafficking, protein stability, and cell cycle progression [1] [2] [3] . The addition of ubiquitin to a protein target is catalyzed by three classes of ubiquitin enzymes. The ubiquitin activating enzyme (E1) binds the C-terminal glycine of the ubiquitin molecule to its active-site cysteine in an ATP-dependent manner to form a high-energy thioester bond [1, 2] . Interaction of the E1 with ubiquitin exposes a site to enable the recruitment of the next enzyme [4] . Via a trans-thiolation reaction, the ubiquitin is transferred from the E1 to the E2 active-site cysteine [1, 2] . Once the ubiquitin is bound, an E3 ubiquitin ligase can interact with an E2-ubiquitin conjugase and assist in the transfer of the ubiquitin from the E2 onto a target protein [1, 2] . When covalently attaching ubiquitin to a protein, most often the ubiquitin is covalently linked at the lysine (K) -amino group [1, 2] .
+3	19	26 protein	Chemical	CHEBI_16541
+3	91	98 protein	Chemical	CHEBI_16541
+3	156	164 proteins	Chemical	CHEBI_36080
+3	285	292 protein	Chemical	CHEBI_16541
+3	376	383 protein	Chemical	CHEBI_16541
+3	501	508 glycine	Chemical	CHEBI_15428
+3	526	534 molecule	Chemical	CHEBI_25367
+3	554	562 cysteine	Chemical	CHEBI_15356
+3	612	621 thioester	Chemical	CHEBI_51277
+3	835	843 cysteine	Chemical	CHEBI_15356
+3	1019	1026 protein	Chemical	CHEBI_16541
+3	1077	1084 protein	Chemical	CHEBI_16541
+3	1139	1145 lysine	Chemical	CHEBI_18019
+3	1139	1145 lysine	Chemical	CHEBI_25094
+
+4|chunk|Since ubiquitin has seven lysine residues itself, K6, 11, 27, 29, 33, 48, and 63, the ubiquitin enzymes can coordinate the formation of covalently linked polyubiquitin (poly-Ub) chains [1, 2] . In addition, ubiquitin molecules can be linked in a head-to-tail orientation in which the donor ubiquitin's C-terminal glycine is linked to the acceptor ubiquitin's methionine-1 amino group [1,2]. The E2 primarily determines the ubiquitin chain topology [4, 5] while the E3 is more important in identification and recruitment of the appropriate target [4] . Ubiquitin can be covalently linked to a protein as a single ubiquitin at one site (monoubiquitination), single ubiquitin molecules at multiple lysine residues of the same target protein (multi-monoubiquitination), or a covalently linked chain of ubiquitin to a single lysine (poly-Ub) [1]. Additionally, ubiquitination enzymes can synthesize unanchored poly-Ub chains, which are not covalently attached to any other protein, and act as a ligand for proteins containing a ubiquitin-binding domain (UBD) [1, 4, 6, 7] . In addition to the complexity of chain length and topology, phosphorylation and acetylation of ubiquitin has also been identified [8, 9] . The unique combination of poly-Ub chain topologies, covalent or non-covalent modifications, and chain length variation allows for precise signaling regulation.
+4	26	32 lysine	Chemical	CHEBI_18019
+4	26	32 lysine	Chemical	CHEBI_25094
+4	217	226 molecules	Chemical	CHEBI_25367
+4	284	289 donor	Chemical	CHEBI_17499
+4	284	289 donor	Chemical	CHEBI_17891
+4	313	320 glycine	Chemical	CHEBI_15428
+4	338	346 acceptor	Chemical	CHEBI_15339
+4	372	377 amino	Chemical	CHEBI_46882
+4	372	383 amino group	Chemical	CHEBI_46882
+4	592	599 protein	Chemical	CHEBI_16541
+4	673	682 molecules	Chemical	CHEBI_25367
+4	695	701 lysine	Chemical	CHEBI_18019
+4	695	701 lysine	Chemical	CHEBI_25094
+4	730	737 protein	Chemical	CHEBI_16541
+4	820	826 lysine	Chemical	CHEBI_18019
+4	820	826 lysine	Chemical	CHEBI_25094
+4	968	975 protein	Chemical	CHEBI_16541
+4	990	996 ligand	Chemical	CHEBI_52214
+4	1001	1009 proteins	Chemical	CHEBI_36080
+
+5|chunk|The host encodes a variety of mechanisms to enact, regulate, and interpret this complex 'ubiquitin code.' Ubiquitin modification can directly influence the target molecule through induction of a conformational change. Such changes may recruit other molecules, expose a subcellular localization sequence, or alter protein stability [1, 3] . Recognition of ubiquitin by UBD-containing proteins is analogous to a receptor binding its ligand. The UBD-containing proteins may recognize a specific poly-Ub chain topology (e.g., UBD specifically recognizing K48-linked poly-Ub chains) and/or chain length (e.g., a UBD that interacts with monoubiquitin) and then recruit specific molecules to create a signaling complex [1, 3, 10] . Although some exceptions exist, different poly-Ub chain topologies are associated with particular effector responses. The best-characterized examples of chain topologies include K48-linked poly-Ub chains, which stereotypically target proteins for proteasome-mediated degradation, or K63-linked poly-Ub chains, which generally coordinate cell signaling complexes and subcellular localization [1, 3] . Despite the canonical roles of these chain topologies, K48-linked poly-Ub chains have been noted to be involved in promoting signaling complex assembly [11] and K63-linked poly-Ub chains can mark protein targets for degradation [12] . To regulate the ubiquitin response, the host also encodes deubiquitinating enzymes (DUB) or ubiquitin specific proteases (USP), which can disassemble poly-Ub chains or coordinate the removal of ubiquitinated enzymes [1, 3] . Overall, the host encodes the enzymes necessary to generate, respond to, and eliminate ubiquitin modifications.
+5	163	171 molecule	Chemical	CHEBI_25367
+5	249	258 molecules	Chemical	CHEBI_25367
+5	313	320 protein	Chemical	CHEBI_16541
+5	383	391 proteins	Chemical	CHEBI_36080
+5	458	466 proteins	Chemical	CHEBI_36080
+5	672	681 molecules	Chemical	CHEBI_25367
+5	823	831 effector	Chemical	CHEBI_35224
+5	959	967 proteins	Chemical	CHEBI_36080
+5	1321	1328 protein	Chemical	CHEBI_16541
+
+6|chunk|Tripartite motif proteins (TRIMs) are an E3 ligase family critical in many cellular functions, including the regulation and coordination of innate immunity and antiviral responses [6, 7, [13] [14] [15] [16] . TRIMs are known to coordinate the ubiquitination of target proteins to assemble signaling complexes, mediate proteolytic degradation, alter subcellular localization, or modulate the host's transcript or Vaccines 2017, 5, 23 3 of 38 protein composition (reviewed in: [2,6,7,17]). TRIM proteins are such named due to their conserved RBCC domain. The RBCC domain includes a really interesting new gene (RING) E3 ligase domain (R), one or two B-box domains (B), and a coiled-coil domain (CC) [2,18]. Like other RING motif-containing E3 ligases, the RING domain of TRIMs usually mediates the interaction with ubiquitin-bound E2 via the zinc finger motifs [2, 4, 17] . These motifs are comprised of key cysteine and histidine residues that coordinate binding to two zinc ions and facilitate protein-protein interactions [2, 4, 17] . The function of the B-box is less well characterized, however studies suggest that this domain is important in coordinating TRIM self-association and protein-protein interactions, as well as promoting formation of higher-order TRIM oligomerization (reviewed in [17] ). Since the B-box domain also contains a zinc finger motif, it has been suspected to confer E3 ubiquitin ligase activity to some TRIMs [19, 20] , although it does not appear to be a general feature of the TRIM family [21] . Some TRIMs include only a B-box 2 domain, while others encode a B-box 1 followed by a B-box 2 [17, 18] .
+6	17	25 proteins	Chemical	CHEBI_36080
+6	160	169 antiviral	Chemical	CHEBI_22587
+6	268	276 proteins	Chemical	CHEBI_36080
+6	441	448 protein	Chemical	CHEBI_16541
+6	493	501 proteins	Chemical	CHEBI_36080
+6	840	844 zinc	Chemical	CHEBI_27363
+6	906	914 cysteine	Chemical	CHEBI_15356
+6	919	928 histidine	Chemical	CHEBI_15971
+6	919	928 histidine	Chemical	CHEBI_27570
+6	969	973 zinc	Chemical	CHEBI_27363
+6	969	978 zinc ions	Chemical	CHEBI_27365
+6	974	978 ions	Chemical	CHEBI_24870
+6	1344	1348 zinc	Chemical	CHEBI_27363
+
+7|chunk|The coiled-coil domain is a hyper-helical structure that allows for dimerization and self-association of TRIMs [17, 18, 21, 22] . Crystal structures and biochemical analyses of the coiled-coil regions of TRIM5, TRIM20, TRIM25 and TRIM69 indicate that the TRIM dimers are formed by coiled-coil antiparallel helical structures [17, [22] [23] [24] [25] , and bioinformatics analysis suggest that this could be a general characteristic of the TRIM family [22] . Often, dimerization of TRIMs via the coiled-coil domain and formation of higher order oligomerization through the B-box domain is critical for TRIM function and E3 ligase activity [17, 21, 23, [26] [27] [28] [29] . Furthermore, in some cases, the antiparallel nature of the coiled-coil dimers and the formation of higher order oligomers allows for dimerization of RING domains, which are also important for enzymatic activity [17, 23] . However, the presence of one or two B-box domains, or the presence of different C-terminal regions, may affect dimerization and/or higher order oligomerization of TRIMs. In fact, the oligomerization mode of TRIM32 and TRIM25, which contain one and two B-box domains respectively, differs greatly and is critical for their function [21] . Prediction of TRIM structure and function is further complicated by differences in TRIM domain composition. For example, although TRIM members are characterized by the presence of an RBCC, some TRIM-like members, including TRIM14 and TRIM16, lack a RING domain within the RBCC [19, 30] .
+7	786	795 oligomers	Chemical	CHEBI_132554
+
+8|chunk|The variable C-terminal region of TRIMs is responsible primarily for interaction with target proteins and subcellular localization [2, 18, 31] . To date, 11 classes of TRIM C-terminal domains have been characterized [7, 17, 18] . The most prevalent TRIM C-terminal domain is the B30.2, or PRY-SPRY, domain with approximately 40 members identified in humans [6, 17, 32] . TRIMs post-translational modifications [11, [33] [34] [35] [36] [37] , alternatively spliced isoforms [16, 38, 39] , and heterodimerization [18, 19] expand the diversity and functionality of this protein family. The expanding interest in TRIMs relates to the realization that these proteins play crucial roles in regulating responses to pathogens, autoimmune pathologies, and cancer.
+8	93	101 proteins	Chemical	CHEBI_36080
+8	567	574 protein	Chemical	CHEBI_16541
+8	653	661 proteins	Chemical	CHEBI_36080
+
+9|chunk|The evolutionary history of TRIMs in vertebrates correlates with the role of this E3 ligase family in regulating responses to viral infection. Though present in invertebrates, the TRIM family is greatly diversified in vertebrates coinciding with the evolution of the interferon (IFN) pathway and adaptive immune system [32, 38] . Further, several TRIMs are clustered within chromosomes [38] [39] [40] . The clustering of closely related TRIMs suggests they evolved due to gene duplication [38] [39] [40] [41] . The close proximity of several TRIMs, particularly those with a B30.2 domain, near known immune genes such as HLA (Human Leukocyte Antigen) [38] [39] [40] supports immune regulation as a TRIM-mediated function. Additionally, the regulatory regions of several TRIMs include target sequences recognized by transcription factors involved in coordinating immune responses [42] . The species-specific expansion of B30.2-containing TRIMs [32, 43] suggests that this group is specialized. In humans, the 10 TRIMs without murine orthologs all contain a B30.2 domain [32] . Additionally, the region encoding the C-terminus of many TRIMs is under positive selection [32, 39, 41, 43, 44] . The non-coding, transcriptional regulatory regions of more recently evolved TRIM genes are also
+9	69	73 role	Chemical	CHEBI_50906
+9	267	277 interferon	Chemical	CHEBI_52999
+9	284	291 pathway	Chemical	CHEBI_34922
+9	642	649 Antigen	Chemical	CHEBI_59132
+

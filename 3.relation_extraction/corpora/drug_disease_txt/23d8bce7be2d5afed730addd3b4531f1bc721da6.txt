@@ -1,0 +1,90 @@
+0|chunk|Sodium taurocholate cotransporting polypeptide is a functional receptor for human hepatitis B and D virus
+0	0	6 Sodium	Chemical	CHEBI_26708
+0	0	19 Sodium taurocholate	Chemical	CHEBI_36276
+0	7	19 taurocholate	Chemical	CHEBI_28865
+0	35	46 polypeptide	Chemical	CHEBI_15841
+0	82	91 hepatitis	Disease	DOID_2237
+0	82	93 hepatitis B	Disease	DOID_2043
+0	CHEBI-DOID	CHEBI_26708	DOID_2237
+0	CHEBI-DOID	CHEBI_26708	DOID_2043
+0	CHEBI-DOID	CHEBI_36276	DOID_2237
+0	CHEBI-DOID	CHEBI_36276	DOID_2043
+0	CHEBI-DOID	CHEBI_28865	DOID_2237
+0	CHEBI-DOID	CHEBI_28865	DOID_2043
+0	CHEBI-DOID	CHEBI_15841	DOID_2237
+0	CHEBI-DOID	CHEBI_15841	DOID_2043
+
+1|chunk|Human hepatitis B virus (HBV) infection and HBV-related diseases remain a major public health problem. Individuals coinfected with its satellite hepatitis D virus (HDV) have more severe disease. Cellular entry of both viruses is mediated by HBV envelope proteins. The pre-S1 domain of the large envelope protein is a key determinant for receptor(s) binding. However, the identity of the receptor(s) is unknown. Here, by using near zero distance photo-cross-linking and tandem affinity purification, we revealed that the receptor-binding region of pre-S1 specifically interacts with sodium taurocholate cotransporting polypeptide (NTCP), a multiple transmembrane transporter predominantly expressed in the liver. Silencing NTCP inhibited HBV and HDV infection, while exogenous NTCP expression rendered nonsusceptible hepatocarcinoma cells susceptible to these viral infections. Moreover, replacing amino acids 157-165 of nonfunctional monkey NTCP with the human counterpart conferred its ability in supporting both viral infections. Our results demonstrate that NTCP is a functional receptor for HBV and HDV. and HDV infections. The pre-S1 domain of the L protein is a key determinant for entry of both HBV and HDV and is believed to mediate viral interaction with the cellular receptor(s) on hepatocytes (Gripon et al., 1995; Le Seyec et al., 1999; Chouteau et al., 2001; Blanchet and Sureau, 2007; Le Duff et al., 2009) . Although a number of HBV receptor candidates have been reported in the past, none has been confirmed to be functional in supporting viral infection (Glebe and Urban, 2007) .
+1	6	15 hepatitis	Disease	DOID_2237
+1	6	17 hepatitis B	Disease	DOID_2043
+1	145	154 hepatitis	Disease	DOID_2237
+1	145	156 hepatitis D	Disease	DOID_2047
+1	164	167 HDV	Chemical	CHEBI_59113
+1	304	311 protein	Chemical	CHEBI_16541
+1	582	588 sodium	Chemical	CHEBI_26708
+1	582	601 sodium taurocholate	Chemical	CHEBI_36276
+1	589	601 taurocholate	Chemical	CHEBI_28865
+1	617	628 polypeptide	Chemical	CHEBI_15841
+1	745	748 HDV	Chemical	CHEBI_59113
+1	897	902 amino	Chemical	CHEBI_46882
+1	897	908 amino acids	Chemical	CHEBI_33704
+1	903	908 acids	Chemical	CHEBI_37527
+1	1103	1106 HDV	Chemical	CHEBI_59113
+1	1112	1115 HDV	Chemical	CHEBI_59113
+1	1155	1162 protein	Chemical	CHEBI_16541
+1	1210	1213 HDV	Chemical	CHEBI_59113
+1	1555	1570 viral infection	Disease	DOID_934
+1	DOID-CHEBI	DOID_2237	CHEBI_59113
+1	DOID-CHEBI	DOID_2237	CHEBI_16541
+1	DOID-CHEBI	DOID_2237	CHEBI_26708
+1	DOID-CHEBI	DOID_2237	CHEBI_36276
+1	DOID-CHEBI	DOID_2237	CHEBI_28865
+1	DOID-CHEBI	DOID_2237	CHEBI_15841
+1	DOID-CHEBI	DOID_2237	CHEBI_46882
+1	DOID-CHEBI	DOID_2237	CHEBI_33704
+1	DOID-CHEBI	DOID_2237	CHEBI_37527
+1	DOID-CHEBI	DOID_2043	CHEBI_59113
+1	DOID-CHEBI	DOID_2043	CHEBI_16541
+1	DOID-CHEBI	DOID_2043	CHEBI_26708
+1	DOID-CHEBI	DOID_2043	CHEBI_36276
+1	DOID-CHEBI	DOID_2043	CHEBI_28865
+1	DOID-CHEBI	DOID_2043	CHEBI_15841
+1	DOID-CHEBI	DOID_2043	CHEBI_46882
+1	DOID-CHEBI	DOID_2043	CHEBI_33704
+1	DOID-CHEBI	DOID_2043	CHEBI_37527
+1	DOID-CHEBI	DOID_2047	CHEBI_59113
+1	DOID-CHEBI	DOID_2047	CHEBI_16541
+1	DOID-CHEBI	DOID_2047	CHEBI_26708
+1	DOID-CHEBI	DOID_2047	CHEBI_36276
+1	DOID-CHEBI	DOID_2047	CHEBI_28865
+1	DOID-CHEBI	DOID_2047	CHEBI_15841
+1	DOID-CHEBI	DOID_2047	CHEBI_46882
+1	DOID-CHEBI	DOID_2047	CHEBI_33704
+1	DOID-CHEBI	DOID_2047	CHEBI_37527
+1	CHEBI-DOID	CHEBI_59113	DOID_934
+1	CHEBI-DOID	CHEBI_16541	DOID_934
+1	CHEBI-DOID	CHEBI_26708	DOID_934
+1	CHEBI-DOID	CHEBI_36276	DOID_934
+1	CHEBI-DOID	CHEBI_28865	DOID_934
+1	CHEBI-DOID	CHEBI_15841	DOID_934
+1	CHEBI-DOID	CHEBI_46882	DOID_934
+1	CHEBI-DOID	CHEBI_33704	DOID_934
+1	CHEBI-DOID	CHEBI_37527	DOID_934
+
+2|chunk|An N-terminal myristoylated peptide corresponding to amino acids (aa) 2-48 of the pre-S1 domain of the L protein has been shown to effectively block both HBV and HDV infections of hepatocytes through engaging an unknown cellular component, most likely a viral receptor (Barrera et al., 2005; Glebe et al., 2005; Gripon et al., 2005; Engelke et al., 2006; Schulze et al., 2010) . In the current study, by using a synthetic modified peptide originating from the native aa 2-48 lipopeptide (Myr-47/ WT) as a probe and employing a series of biochemical approaches and virological assays, we identified and confirmed that sodium taurocholate cotransporting polypeptide (NTCP), a multiple transmembrane transporter mainly expressed in the liver, interacts specifically with the L proteins of HBV and HDV and functions as a common receptor for both viruses.
+2	28	35 peptide	Chemical	CHEBI_16670
+2	53	58 amino	Chemical	CHEBI_46882
+2	53	64 amino acids	Chemical	CHEBI_33704
+2	59	64 acids	Chemical	CHEBI_37527
+2	105	112 protein	Chemical	CHEBI_16541
+2	162	165 HDV	Chemical	CHEBI_59113
+2	431	438 peptide	Chemical	CHEBI_16670
+2	475	486 lipopeptide	Chemical	CHEBI_46895
+2	505	510 probe	Chemical	CHEBI_50406
+2	617	623 sodium	Chemical	CHEBI_26708
+2	617	636 sodium taurocholate	Chemical	CHEBI_36276
+2	624	636 taurocholate	Chemical	CHEBI_28865
+2	652	663 polypeptide	Chemical	CHEBI_15841
+2	774	782 proteins	Chemical	CHEBI_36080
+2	794	797 HDV	Chemical	CHEBI_59113
+

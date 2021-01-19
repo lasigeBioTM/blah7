@@ -1,0 +1,36 @@
+0|chunk|Computational prediction and in vitro validation of VEGFR1 as a novel protein target for 2,3,7,8-tetrachlorodibenzo-p- dioxin
+
+1|chunk|The toxic manifestations of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), an environmental contaminant, primarily depend on its ability to activate aryl hydrocarbon receptor (AhR), which is a ligand-dependent transcription factor belonging to the superfamily of basic-helix-loop-helix DNAbinding proteins. In the present study, we aimed to identify novel protein receptor targets for TCDD using computational and in vitro validation experiments. Interestingly, results from computational methods predicted that Vascular Endothelial Growth Factor Receptor 1 (VEGFR1) could be one of the potential targets for TCDD in both mouse and humans. Results from molecular docking studies showed that human VEGFR1 (hVEGFR1) has less affinity towards TCDD compared to the mouse VEGFR1 (mVEGFR1). In vitro validation results showed that TCDD can bind and phosphorylate hVEGFR1. Further, results from molecular dynamic simulation studies showed that hVEGFR1 interaction with TCDD is stable throughout the simulation time. Overall, the present study has identified VEGFR1 as a novel target for TCDD, which provides the basis for further elucidating the role of TCDD in angiogenesis.
+1	530	536 Growth	Gene_function	GO_0040007
+1	967	973 stable	Phenotype	HP_0031915
+1	GO-HP	GO_0040007	HP_0031915
+
+2|chunk|2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) represents the prototypical ligand for aromatic hydrocarbon environmental contaminants which elicit a wide range of toxicity through activation of the aryl hydrocarbon receptor (AhR) 1 . AhR is a basic helix-loop-helix/PAS transcription factor localized in the cytoplasm. Because AhR is expressed in a variety of tissues, it mediates species-and tissue-dependent toxicities, including chloracne, wasting, teratogenicity, immunotoxicity, liver tumor promotion and carcinogenicity 2-6 . More recent studies have shown that AhR activation can not only cause toxicity but also regulate the immune response, specifically the regulation of T cell differentiation 7-9 .
+2	287	296 localized	Phenotype	HP_0012838
+2	480	491 liver tumor	Phenotype	HP_0002896
+2	486	491 tumor	Phenotype	HP_0002664
+2	677	699 T cell differentiation	Gene_function	GO_0030217
+2	679	699 cell differentiation	Gene_function	GO_0030154
+2	HP-GO	HP_0012838	GO_0030217
+2	HP-GO	HP_0012838	GO_0030154
+2	HP-GO	HP_0002896	GO_0030217
+2	HP-GO	HP_0002896	GO_0030154
+2	HP-GO	HP_0002664	GO_0030217
+2	HP-GO	HP_0002664	GO_0030154
+
+3|chunk|Also, in addition to TCDD, other innocuous ligands for AhR have also been identified such as dietary indoles, indole-3-Carbinol (IC3) that are found in high concentrations in cruciferous vegetables 10-13 . Natural flavonoids present in fruits and vegetables, including apigenin, quercetin, and resveratrol are also known to act as AhR ligands 10,13-15 . There are also known endogenous ligands of AhR that are derived from tryptophan metabolism 16 . The precise mechanisms through which AhR ligands mediate such a wide range of effects following activation of AhR, remain unclear.
+3	423	444 tryptophan metabolism	Gene_function	GO_0006568
+3	434	444 metabolism	Gene_function	GO_0008152
+
+4|chunk|The interactions between TCDD and AhR has been very well characterized as follows: i) binding of TCDD or other ligands to AhR leads to dissociation of AhR from the complex of heat shock proteins 90, p23 or heat shock protein 23 and hepatitis B X-associated protein ii) migration of the complex formed by AhR with the TCDD or other ligands to the nucleus iv) in nucleus, AhR builds up a heterodimer with the intranuclear AhR nuclear translocator (ARNT), thereby promoting the transcription of xenobiotic response elements (XRE) for metabolizing TCDD or AhR ligands to render them more hydrophilic facilitating their elimination 17-21 . www.nature.com/scientificreports www.nature.com/scientificreports/ the simulations were analyzed. We used g_rms, g_rmsf, do_dssp built-in functions of GROMACS package to compute the root mean-square deviation (RMSD), radius of gyration (Rg), root mean-square fluctuation (RMSF) and secondary structure fluctuations. Further, smallest distance between residue pairs were calculated based on the distance matrices generated using the g_mdmat built in function in GROMACS package. The relative graphs obtained from molecular dynamics simulation were plotted using GRACE software (http://plasma-gate.weizmann.ac.il/Grace/).
+4	86	93 binding	Gene_function	GO_0005488
+4	180	185 shock	Phenotype	HP_0031273
+4	211	216 shock	Phenotype	HP_0031273
+4	232	241 hepatitis	Phenotype	HP_0012115
+4	346	353 nucleus	Gene_function	GO_0005634
+4	361	368 nucleus	Gene_function	GO_0005634
+4	GO-HP	GO_0005488	HP_0031273
+4	GO-HP	GO_0005488	HP_0012115
+4	HP-GO	HP_0031273	GO_0005634
+4	HP-GO	HP_0012115	GO_0005634
+

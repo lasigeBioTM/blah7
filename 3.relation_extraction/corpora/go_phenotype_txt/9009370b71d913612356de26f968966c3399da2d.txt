@@ -1,0 +1,20 @@
+0|chunk|Proteomic analysis of purified Newcastle disease virus particles
+
+1|chunk|Background: Newcastle disease virus (NDV) is an enveloped RNA virus, bearing severe economic losses to the poultry industry worldwide. Previous virion proteomic studies have shown that enveloped viruses carry multiple host cellular proteins both internally and externally during their life cycle. To address whether it also occurred during NDV infection, we performed a comprehensive proteomic analysis of highly purified NDV La Sota strain particles.
+1	77	83 severe	Phenotype	HP_0012828
+1	144	150 virion	Gene_function	GO_0019012
+1	HP-GO	HP_0012828	GO_0019012
+
+2|chunk|Results: In addition to five viral structural proteins, we detected thirty cellular proteins associated with purified NDV La Sota particles. The identified cellular proteins comprised several functional categories, including cytoskeleton proteins, annexins, molecular chaperones, chromatin modifying proteins, enzymes-binding proteins, calcium-binding proteins and signal transduction-associated proteins. Among these, three host proteins have not been previously reported in virions of other virus families, including two signal transduction-associated proteins (syntenin and Ras small GTPase) and one tumor-associated protein (tumor protein D52). The presence of five selected cellular proteins (i.e., -actin, tubulin, annexin A2, heat shock protein Hsp90 and ezrin) associated with the purified NDV particles was validated by Western blot or immunogold labeling assays. Conclusions: The current study presented the first standard proteomic profile of NDV. The results demonstrated the incorporation of cellular proteins in NDV particles, which provides valuable information for elucidating viral infection and pathogenesis.
+2	225	237 cytoskeleton	Gene_function	GO_0005856
+2	280	289 chromatin	Gene_function	GO_0000785
+2	629	634 tumor	Phenotype	HP_0002664
+2	739	744 shock	Phenotype	HP_0031273
+2	1094	1109 viral infection	Gene_function	GO_0016032
+2	GO-HP	GO_0005856	HP_0002664
+2	GO-HP	GO_0005856	HP_0031273
+2	GO-HP	GO_0000785	HP_0002664
+2	GO-HP	GO_0000785	HP_0031273
+2	HP-GO	HP_0002664	GO_0016032
+2	HP-GO	HP_0031273	GO_0016032
+

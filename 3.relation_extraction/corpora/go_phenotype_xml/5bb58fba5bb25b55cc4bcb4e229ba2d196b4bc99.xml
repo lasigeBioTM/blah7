@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<document id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99">
+  <chunk id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c0" text="Global analysis of polysome-associated mRNA in vesicular stomatitis virus infected cells">
+    <entity charOffset="57-67" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c0.e0" ontology_id="HP_0010280" text="stomatitis" type="phenotype"/>
+  </chunk>
+  <chunk id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1" text="Infection of mammalian cells with vesicular stomatitis virus (VSV) results in the inhibition of cellular translation while viral translation proceeds efficiently. VSV RNA synthesis occurs entirely within the cytoplasm, where during transcription the viral polymerase produces 5 mRNAs that are structurally indistinct to cellular mRNAs with respect to their 5 0 cap-structure and 3 0 -polyadenylate tail. Using the global approach of massively parallel sequencing of total cytoplasmic, monosome-and polysome-associated mRNA, we interrogate the impact of VSV infection of HeLa cells on translation. Analysis of sequence reads in the different fractions shows &gt;60% of total cytoplasmic and polysome-associated reads map to the 5 viral genes by 6 hours post-infection, a time point at which robust host cell translational shutoff is observed. Consistent with an overwhelming abundance of viral mRNA in the polysome fraction, the reads mapping to cellular genes were reduced. The cellular mRNAs that remain most polysome-associated following infection had longer half-lives, were typically larger, and were more AU rich, features that are shared with the viral mRNAs. Several of those mRNAs encode proteins known to positively affect viral replication, and using chemical inhibition and siRNA depletion we confirm that the host chaperone heat shock protein 90 (hsp90) and eukaryotic translation initiation factor 3A (eIF3A)-encoded by 2 such mRNAs -support viral replication. Correspondingly, regulated in development and DNA damage 1 (Redd1) encoded by a host mRNA with reduced polysome association inhibits viral infection. These data underscore the importance of viral mRNA abundance in the shut-off of host translation in VSV infected cells and link the differential translatability of some cellular mRNAs with pro-or antiviral function.">
+    <entity charOffset="44-54" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" ontology_id="HP_0010280" text="stomatitis" type="phenotype"/>
+    <entity charOffset="105-116" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e1" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="123-140" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e2" ontology_id="GO_0019081" text="viral translation" type="gene_function"/>
+    <entity charOffset="129-140" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e3" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="167-180" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e4" ontology_id="GO_0032774" text="RNA synthesis" type="gene_function"/>
+    <entity charOffset="171-180" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e5" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+    <entity charOffset="584-595" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e6" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="794-803" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e7" ontology_id="GO_0043657" text="host cell" type="gene_function"/>
+    <entity charOffset="902-910" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e8" ontology_id="GO_0005844" text="polysome" type="gene_function"/>
+    <entity charOffset="1338-1343" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" ontology_id="HP_0031273" text="shock" type="phenotype"/>
+    <entity charOffset="1378-1389" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e10" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <entity charOffset="1378-1400" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e11" ontology_id="GO_0006413" text="translation initiation" type="gene_function"/>
+    <entity charOffset="1574-1582" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e12" ontology_id="GO_0005844" text="polysome" type="gene_function"/>
+    <entity charOffset="1706-1717" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e13" ontology_id="GO_0006412" text="translation" type="gene_function"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e1" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p0" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e2" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p1" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e3" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p2" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e4" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p3" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e5" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p4" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e6" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p5" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e7" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p6" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e8" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p7" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e10" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p8" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e11" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p9" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e12" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p10" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e13" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p11" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e1" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p12" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e2" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p13" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e3" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p14" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e4" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p15" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e5" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p16" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e6" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p17" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e7" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p18" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e8" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p19" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e10" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p20" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e11" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p21" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e12" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p22" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e9" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.e13" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c1.p23" relation="true"/>
+  </chunk>
+  <chunk id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2" text="Viruses co-opt the host translational machinery and frequently suppress host cell protein synthesis. Many positive-strand RNA viruses manipulate initiation factors while bypassing their need for viral protein production using internal ribosome entry sites. Negativestrand RNA viruses and DNA viruses produce mRNAs that contain host-like 5 0 cap-structures and 3 0 polyadenylate tails. Those similarities necessitate a different mechanism for controlling viral versus host protein synthesis. We infected cells with vesicular stomatitis PLOS Pathogens | https://doi.virus and sequenced polysome-associated mRNAs at 2 and 6 hours post-infection providing 2 snapshots of how infection alters translation. We present evidence that the 5 viral mRNAs outcompete cellular mRNAs for ribosomes and demonstrate that individual host mRNAs vary in the extent to which their polysome association is altered by infection. Host mRNAs that are more abundant, have longer half-lives, greater than average length, and a similar AU content to the viral mRNAs were more likely to be enriched among polysome-associated cellular mRNAs. Several of the enriched mRNAs encode proteins that promote viral replication, whereas mRNAs that exhibit the largest decrease in polysome association include those that encode antiviral functions.">
+    <entity charOffset="72-81" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e0" ontology_id="GO_0043657" text="host cell" type="gene_function"/>
+    <entity charOffset="235-243" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e1" ontology_id="GO_0005840" text="ribosome" type="gene_function"/>
+    <entity charOffset="524-534" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e2" ontology_id="HP_0010280" text="stomatitis" type="phenotype"/>
+    <entity charOffset="861-869" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e3" ontology_id="GO_0005844" text="polysome" type="gene_function"/>
+    <entity charOffset="1242-1250" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e4" ontology_id="GO_0005844" text="polysome" type="gene_function"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e0" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e2" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.p0" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e1" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e2" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.p1" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e2" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e3" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.p2" relation="true"/>
+    <pair e1="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e2" e2="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.e4" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c2.p3" relation="true"/>
+  </chunk>
+  <chunk id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c3" text="Control of VSV protein synthesis PLOS Pathogens | https://doi.org/10.">
+    <entity charOffset="15-32" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c3.e0" ontology_id="GO_0006412" text="protein synthesis" type="gene_function"/>
+    <entity charOffset="23-32" id="5bb58fba5bb25b55cc4bcb4e229ba2d196b4bc99.c3.e1" ontology_id="GO_0009058" text="synthesis" type="gene_function"/>
+  </chunk>
+</document>

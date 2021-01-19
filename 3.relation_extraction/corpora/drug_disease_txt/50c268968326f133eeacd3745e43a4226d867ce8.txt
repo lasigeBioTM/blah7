@@ -1,0 +1,65 @@
+0|chunk|In silico/In vivo analysis of high-risk papillomavirus L1 and L2 conserved sequences for development of cross-subtype prophylactic vaccine
+
+1|chunk|The major impediments such as economic barriers especially gaps in financing obstructed the optimal delivery of vaccines in developing countries. Thus, many efforts are underway to develop the next generation of vaccines against other types of high-risk HPV. In this study, we developed DNA constructs (based on L1 and L2 genes) that were potentially immunogenic and highly conserved among the highrisk HPV types. The framework of analysis include (1) B-cell epitope mapping, (2) T-cell epitope mapping (i.e., CD4 + and CD8 + T cells), (3) allergenicity assessment, (4) tap transport and proteasomal cleavage, (5) population coverage, (6) global and template-based docking, and (7) data collection, analysis, and design of the L1 and L2 DNA constructs. Our data indicated the 8-epitope candidates for helper T-cell and CTL in L1 and L2 sequences. For the L1 and L2 constructs, combination of these peptides in a single universal vaccine could involve all world population by the rate of 95.55% and 96.33%, respectively. In vitro studies showed high expression rates of multiepitope L1 (~57.86%) and L2 (~68.42%) DNA constructs in HEK-293T cells. Moreover, in vivo studies indicated that the combination of L1 and L2 DNA constructs without any adjuvant or delivery system induced effective immune responses, and protected mice against C3 tumor cells (the percentage of tumor-free mice: ~66.67%). Thus, the designed L1 and L2 DNA constructs would represent promising applications for HPV vaccine development.
+1	287	290 DNA	Chemical	CHEBI_16991
+1	459	466 epitope	Chemical	CHEBI_53000
+1	487	494 epitope	Chemical	CHEBI_53000
+1	737	740 DNA	Chemical	CHEBI_16991
+1	898	906 peptides	Chemical	CHEBI_16670
+1	1112	1115 DNA	Chemical	CHEBI_16991
+1	1216	1219 DNA	Chemical	CHEBI_16991
+1	1243	1251 adjuvant	Chemical	CHEBI_60809
+1	1424	1427 DNA	Chemical	CHEBI_16991
+
+2|chunk|Human papillomavirus (HPV) is the most common sexually transmitted infection in the world and the main cause of cervical cancer. Globally, 4.5% of all cancers worldwide (60,000 cases per year in men and 570,000 cases per year in women) are attributable to HPV 1 . More than 150 viral types of HPV have been identified whose classification is based on their association with cervical cancer and precursor lesions. HPV types were classified as high-risk (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68) and low-risk (6, 11, 40, 42, 43, 44, and 54) types consistent with the generation of squamous cell carcinomas in the uterine cervix 2 . The papillomavirus double-stranded circular DNA genome encodes roughly eight open-reading frames (ORFs), which is responsible for viral replication, maintenance, and cell transformation. These gene products have been classified into six nonstructural regulatory proteins (E1-E6) and two structural capsid proteins (L1 and L2) 3 . Nowadays, the virus-like particles (VLPs) based on L1 proteins have been considered as the best candidate for vaccine development against HPV infections. Two commercial HPV vaccines are both prophylactic. Gardasil which protects against HPV genotypes 6, 11, 16 and 18, and Cervarix which protects against HPV genotypes 16 and 18; Both of them prevent cervical cancer with almost 100% efficacy 4 . These HPV VLP vaccines confer protection against limited genotypes 5 . Although a variable level of cross-protection has also been observed against phylogenetically related HPV genotypes 6 , major impediments such as economic barriers especially gaps in financing obstructed the optimal delivery of vaccines in developing countries. This might be approached via locally produced generic vaccines. Storage and transportation, the so-called cold chain, is another hindrance, which should be mitigated through www.nature.com/scientificreports www.nature.com/scientificreports/ lyophilization or protectants, and also it should be noted that many recombinant vaccines rely on multiple immunizations; however, promising results could be obtained with a single dose and certainly 2-dose regimens 7 .
+2	112	127 cervical cancer	Disease	DOID_4362
+2	121	127 cancer	Disease	DOID_162
+2	374	389 cervical cancer	Disease	DOID_4362
+2	383	389 cancer	Disease	DOID_162
+2	689	692 DNA	Chemical	CHEBI_16991
+2	907	915 proteins	Chemical	CHEBI_36080
+2	950	958 proteins	Chemical	CHEBI_36080
+2	1029	1037 proteins	Chemical	CHEBI_36080
+2	1326	1341 cervical cancer	Disease	DOID_4362
+2	1335	1341 cancer	Disease	DOID_162
+2	1811	1815 cold	Disease	DOID_3083
+2	DOID-CHEBI	DOID_4362	CHEBI_16991
+2	DOID-CHEBI	DOID_4362	CHEBI_36080
+2	DOID-CHEBI	DOID_162	CHEBI_16991
+2	DOID-CHEBI	DOID_162	CHEBI_36080
+2	CHEBI-DOID	CHEBI_16991	DOID_3083
+2	CHEBI-DOID	CHEBI_36080	DOID_3083
+
+3|chunk|Recently, a possible approach to broader cross-type protective immunity at a lower cost is to consider L2-based vaccination compared to L1 VLP immunization 8 . Indeed, the current HPV L2 vaccines improved a type-specific protection. Recent studies showed that some regions in the N-terminus of L2 can neutralize antibodies generated during various types of HPV infections 9 . To overcome the intrinsically low immunogenicity of the recombinant L2 protein, its potency could be increased by various formulations such as the multivalent L2 epitopes (peptide vaccine) 10-12 , fusion with L1 and other immunogenic proteins 13-15 and multiepitope DNA-based vaccines 16, 17 .
+3	548	555 peptide	Chemical	CHEBI_16670
+3	610	618 proteins	Chemical	CHEBI_36080
+
+4|chunk|As a major field of science, bioinformatics has brought together the concepts of in silico analyses of biological queries, mathematics and statistics 18 . Immunoinformatics tools could help researchers to screen multiple HPV genome and predict high immunogenic epitopes, which provide a T or B cell response against HPV infection [19] [20] [21] . In this study, the combination of in silico/in vivo approaches was used to evaluate L1 and L2 proteins of high-risk HPV types (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68), and to design a pan genotype L1 and L2 constructs for development of DNA-based vaccines.
+4	441	449 proteins	Chemical	CHEBI_36080
+4	547	550 pan	Chemical	CHEBI_53571
+
+5|chunk|Protein conservancy analysis. To select conserved epitopes between HPV subtypes, L1 and L2 protein sequences were aligned using muscle algorithms. Based on the degree of the conservancy, five regions of L1 proteins (8-22, 95-132, 307-342, 398-425 and 449-473) and four regions of L2 proteins (11-40, 54-76, 96-120, 278-305) were selected for further immune-bioinformatics analysis such as B-and T-cell epitope prediction. Among them, region 449-473 of HPV-16 L1 protein and region 54-76 of HPV-16 L2 protein had the highest score of conservancy between all high-risk HPV types. In addition, based on sequence variability of conserved regions, the L1 and L2 proteins from two main types of HPV (16 and 18) were selected as a reference for calculation of conservancy by IEDB epitope conservancy analysis tool (Tables 1 and 2 ).
+5	0	7 Protein	Chemical	CHEBI_16541
+5	91	98 protein	Chemical	CHEBI_16541
+5	206	214 proteins	Chemical	CHEBI_36080
+5	283	291 proteins	Chemical	CHEBI_36080
+5	402	409 epitope	Chemical	CHEBI_53000
+5	462	469 protein	Chemical	CHEBI_16541
+5	500	507 protein	Chemical	CHEBI_16541
+5	657	665 proteins	Chemical	CHEBI_36080
+5	773	780 epitope	Chemical	CHEBI_53000
+
+6|chunk|Prediction of linear B-cell epitopes. B-cell epitopes are recognized by B-cell receptors or antibodies in their native structure. Continuous B-cell epitope prediction is very similar to T-cell epitope prediction, which has mainly been based on the amino acid properties such as hydrophobicity, exposed surface area, Protein Regions Sequence and degree of conservancy 8-22 (Type 16) EATVYLPPVPVSKVV Scientific RepoRtS | (2019) 9:15225 | https://doi.
+6	148	155 epitope	Chemical	CHEBI_53000
+6	193	200 epitope	Chemical	CHEBI_53000
+6	248	253 amino	Chemical	CHEBI_46882
+6	248	258 amino acid	Chemical	CHEBI_33704
+6	254	258 acid	Chemical	CHEBI_37527
+6	316	323 Protein	Chemical	CHEBI_16541
+
+7|chunk|Tap transport/proteasomal cleavage. The generation of antigenic peptides and their transport across the membrane of the endoplasmic reticulum for assembly with MHC class I molecules are essential steps in antigen presentation to cytotoxic T lymphocytes. Thus, investigating the proteasomal cleavage, Tap transport and affinity prediction of binding is essential in MHC-1 presentation pathway. The NetCTL2.1 server was used to predict TAP transport efficiency and proteasomal cleavage scores (Table 8). Between all epitopes, L1 12-21 (YLPPVPVSKV-type 16 and YLPPPSVARV-type 18), L1 460-470 (DQFPLGRKFLL-type 16), L1 461-471 (DQYPLGRKFLV-type 18), L2 11-20 (KRASATQLYK-type 16 and KRASVTDLYK-type 18), L2 293-303 (DPDFLDIVALHR-type 16) and L2 273-284 (DSDFMDIIRLHR-type 18) epitopes had the highest epitope identification scores. Scientific RepoRtS | (2019) 9:15225 | https://doi.
+7	64	72 peptides	Chemical	CHEBI_16670
+7	172	181 molecules	Chemical	CHEBI_25367
+7	205	212 antigen	Chemical	CHEBI_59132
+7	797	804 epitope	Chemical	CHEBI_53000
+

@@ -1,0 +1,187 @@
+{
+    "text": "The influence of Helicobacter pylori (HP) in inflammatory disorders of the digestive mucosa has been the subject of several studies since socioeconomic, personal and environmental factors were implicated in the bacteria transmission.To correlate the inflammatory endoscopic findings with HP infection and the onset of mucosal diseases mucous of the upper digestive tract.Comparative observational study, in which were collected data from 2247 patients who underwent upper endoscopy and biopsies for HP with urease test. The patients were divided into two groups: HP+ and HP- (control) in which endoscopic findings were observed for the following changes: esophagitis, esophageal ulcer, gastritis, erosive gastritis, gastric ulcer, bulboduodenitis, bulbar ulcer and without disease.As for esophagitis, there was little disparity in the distribution favorable to HP+ group (HP+ =67.11% and HP- =69.89%) and esophageal ulcer (HP+ =0% and HP- =0, 21%). Gastritis was favorable to HP- group (HP+ =78.34% and HP- =73.63%), as well as erosive gastritis (HP+ = 67,11% and HP- = 64,55%), in bulboduodenitis (HP+ =1,87% and HP- 1,23%), in gastric ulcer (HP+ =2,14% and HP- =2,03%) and in the absence of alterations in the HP+ group (4.81%) with the HP- control group (6,30%), in which there was little disproportion in favor of HP- group, but without statistical significance. As for the bulbar ulcer (HP +=10.16% and HP- =4.48%), there was statistically significant (p=0.00001).There is no difference between HP+ and HP- groups in inflammatory changes in endoscopic gastroduodenal mucosa, except for the relationship between HP and bulbar ulcer.",
+    "denotations": [
+        {
+            "id": "HP_0003674",
+            "span": {
+                "begin": 309,
+                "end": 314
+            },
+            "obj": "onset"
+        },
+        {
+            "id": "GO_0070701",
+            "span": {
+                "begin": 335,
+                "end": 341
+            },
+            "obj": "mucous"
+        },
+        {
+            "id": "DOID_6050",
+            "span": {
+                "begin": 668,
+                "end": 684
+            },
+            "obj": "esophageal ulcer"
+        },
+        {
+            "id": "HP_0005263",
+            "span": {
+                "begin": 686,
+                "end": 695
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 686,
+                "end": 695
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 697,
+                "end": 714
+            },
+            "obj": "erosive gastritis"
+        },
+        {
+            "id": "HP_0005263",
+            "span": {
+                "begin": 705,
+                "end": 714
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 705,
+                "end": 714
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "HP_0002592",
+            "span": {
+                "begin": 716,
+                "end": 729
+            },
+            "obj": "gastric ulcer"
+        },
+        {
+            "id": "DOID_10808",
+            "span": {
+                "begin": 716,
+                "end": 729
+            },
+            "obj": "gastric ulcer"
+        },
+        {
+            "id": "DOID_6050",
+            "span": {
+                "begin": 905,
+                "end": 921
+            },
+            "obj": "esophageal ulcer"
+        },
+        {
+            "id": "HP_0005263",
+            "span": {
+                "begin": 949,
+                "end": 958
+            },
+            "obj": "Gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 949,
+                "end": 958
+            },
+            "obj": "Gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 1028,
+                "end": 1045
+            },
+            "obj": "erosive gastritis"
+        },
+        {
+            "id": "HP_0005263",
+            "span": {
+                "begin": 1036,
+                "end": 1045
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "DOID_4029",
+            "span": {
+                "begin": 1036,
+                "end": 1045
+            },
+            "obj": "gastritis"
+        },
+        {
+            "id": "HP_0002592",
+            "span": {
+                "begin": 1129,
+                "end": 1142
+            },
+            "obj": "gastric ulcer"
+        },
+        {
+            "id": "DOID_10808",
+            "span": {
+                "begin": 1129,
+                "end": 1142
+            },
+            "obj": "gastric ulcer"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0003674"
+        },
+        {
+            "id": "R1",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0005263"
+        },
+        {
+            "id": "R2",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0005263"
+        },
+        {
+            "id": "R3",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0005263"
+        },
+        {
+            "id": "R4",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0005263"
+        },
+        {
+            "id": "R5",
+            "subj": "GO_0070701",
+            "pred": "no_relation",
+            "obj": "HP_0002592"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+0|chunk|The Group B Streptococcal surface antigen I/II protein, BspC, interacts with host vimentin to promote adherence to brain endothelium and inflammation during the pathogenesis of meningitis Author summary
+0	34	41 antigen	Chemical	CHEBI_59132
+0	177	187 meningitis	Disease	DOID_9471
+0	CHEBI-DOID	CHEBI_59132	DOID_9471
+
+1|chunk|Streptococcus agalactiae (Group B Streptococcus, GBS) normally colonizes healthy adults but can cause invasive disease, such as meningitis, in the newborn. To gain access to the central nervous system, GBS must interact with and penetrate brain or meningeal blood vessels; however, the exact mechanisms are still being elucidated. Here, we investigate the contribution of BspC, an antigen I/II family adhesin, to the pathogenesis of GBS meningitis. Disruption of the bspC gene reduced GBS adherence to human cerebral microvascular endothelial cells (hCMEC), while heterologous expression of BspC in non-adherent Lactococcus lactis conferred bacterial attachment. In a murine model of hematogenous meningitis, mice infected with bspC mutants exhibited lower mortality as well as decreased brain bacterial counts and inflammatory infiltrate compared to mice infected with WT GBS strains. Further, BspC was both necessary and sufficient to induce neutrophil chemokine expression. We determined that BspC interacts with the host cytoskeleton component vimentin and confirmed this interaction using a bacterial two-hybrid assay, microscale thermophoresis, immunofluorescent staining, and imaging flow cytometry. Vimentin null mice were protected from WT GBS infection and also exhibited less inflammatory cytokine production in brain tissue. These results suggest that BspC and the vimentin interaction is critical for the pathogenesis of GBS meningitis.
+1	381	388 antigen	Chemical	CHEBI_59132
+
+2|chunk|Group B Streptococcus (GBS) typically colonizes healthy adults but can cause severe disease in immune-compromised individuals, including newborns. Despite wide-spread intrapartum antibiotic prophylaxis given to pregnant women, GBS remains a leading cause of neonatal meningitis. To cause meningitis, GBS must interact with and penetrate the blood-brain barrier (BBB), which separates bacteria and immune cells in the blood from the brain. In order to develop targeted therapies to treat GBS meningitis, it is important to understand the mechanisms of BBB crossing. Here, we describe the role of the GBS surface factor, BspC, in promoting meningitis and discover the host ligand for BspC, vimentin, which is an intermediate filament protein that is constitutively expressed by endothelial cells. We determined that BspC interacts with the C-terminal domain of cellsurface vimentin to promote bacterial attachment to brain endothelial cells and that purified BspC protein can induce immune signaling pathways. In a mouse model of hematogenous meningitis, we observed that a GBS mutant lacking BspC was less virulent compared to WT GBS and resulted in less inflammatory disease. We also observed that mice lacking vimentin were protected from GBS infection. These results reveal the importance of the BspC-vimentin interaction in the progression of GBS meningitis disease.
+2	84	91 disease	Disease	DOID_4
+2	179	189 antibiotic	Chemical	CHEBI_33281
+2	267	277 meningitis	Disease	DOID_9471
+2	288	298 meningitis	Disease	DOID_9471
+2	491	501 meningitis	Disease	DOID_9471
+2	587	591 role	Chemical	CHEBI_50906
+2	638	648 meningitis	Disease	DOID_9471
+2	671	677 ligand	Chemical	CHEBI_52214
+2	732	739 protein	Chemical	CHEBI_16541
+2	962	969 protein	Chemical	CHEBI_16541
+2	1041	1051 meningitis	Disease	DOID_9471
+2	1167	1174 disease	Disease	DOID_4
+2	1350	1360 meningitis	Disease	DOID_9471
+2	1361	1368 disease	Disease	DOID_4
+2	DOID-CHEBI	DOID_4	CHEBI_33281
+2	DOID-CHEBI	DOID_4	CHEBI_50906
+2	DOID-CHEBI	DOID_4	CHEBI_52214
+2	DOID-CHEBI	DOID_4	CHEBI_16541
+2	CHEBI-DOID	CHEBI_33281	DOID_9471
+2	DOID-CHEBI	DOID_9471	CHEBI_50906
+2	DOID-CHEBI	DOID_9471	CHEBI_52214
+2	DOID-CHEBI	DOID_9471	CHEBI_16541
+
+3|chunk|The GBS adhesin BspC interacts with vimentin to promote meningitis PLOS Pathogens | https://doi.org/10.A Streptococcus surface protein) is absent in many GAS M serotypes and is found predominantly among M serotypes implicated in puerperal sepsis and neonatal infections, including M2, M4, and M28. The gene encoding AspA is located within an integrative and conjugative element designated region of difference 2 (RD2), which likely originated in GBS and was acquired by invasive GAS serotypes through horizontal gene transfer (Fig 1A) . It has been proposed that genes carried within RD2 may contribute to pathogenicity of both GAS and GBS in pregnant women and newborns [16, 17] . Supporting this, AspA has been shown to facilitate GAS biofilm formation and virulence in a murine model of GAS respiratory infection [18] . Recently, in silico analysis has revealed four AgI/II gene homologs in GBS, designated Group B Streptococcus surface proteins (BspA-D), that are distributed among GBS of different capsular serotypes and sequence types [15, 19, 20] . Previous work has shown that BspA and BspB, which share 90% sequence identity, are found in GBS strain NEM316. BspA has been demonstrated to be important in biofilm formation as well as adherence to epithelial cells and may play a role in facilitating colonization through its ability to bind to vaginal epithelium as well as interact with the hyphal filaments of Candida albicans [15, 20] , a frequent fungal colonizer of the lower female reproductive tract. Other GBS strains contain the homolog BspC, or in some cases BspD, which is over 99% identical to BspC, with the major difference being that BspD is missing the leader peptide for targeting to the cell surface by the Sec translocation machinery. While most of the variability between Bsp proteins is in the alanine-rich and proline-rich repeats, the V domain shares 96 to 100% identity across all Bsp homologs [15, 20] . To date, there have not been any studies examining the impact of the AgI/II proteins on GBS invasive disease. A previous study by Chuzeville et al. identified 75 GBS genomes which contain an antigen I/II homolog. Of those 75 CDS, only 40 were associated with transcription and translation signals and out of those, 36 were 2952 base pairs in size encoding the full length BspC protein [19] . Therefore, we chose to investigate the importance of the BspC antigen I/II homolog in the pathogenesis of meningitis. Using targeted mutagenesis, we show that BspC promotes adherence of bacteria to human cerebral microvascular endothelial cells (hCMEC) and interacts with the host cytoskeleton component, vimentin. Additionally, we found that BspC and vimentin contribute to the development of GBS meningitis in a mouse infection model. Lastly, we observe that BspC stimulates inflammatory signaling from brain endothelial cells in vitro and in vivo and that this immune signaling involves the NF-B pathway.
+3	56	66 meningitis	Disease	DOID_9471
+3	127	134 protein	Chemical	CHEBI_16541
+3	370	377 element	Chemical	CHEBI_33250
+3	940	948 proteins	Chemical	CHEBI_36080
+3	1287	1291 role	Chemical	CHEBI_50906
+3	1684	1691 peptide	Chemical	CHEBI_16670
+3	1733	1736 Sec	Chemical	CHEBI_30000
+3	1804	1812 proteins	Chemical	CHEBI_36080
+3	2013	2021 proteins	Chemical	CHEBI_36080
+3	2128	2135 antigen	Chemical	CHEBI_59132
+3	2314	2321 protein	Chemical	CHEBI_16541
+3	2391	2398 antigen	Chemical	CHEBI_59132
+3	2435	2445 meningitis	Disease	DOID_9471
+3	2727	2737 meningitis	Disease	DOID_9471
+3	DOID-CHEBI	DOID_9471	CHEBI_16541
+3	DOID-CHEBI	DOID_9471	CHEBI_33250
+3	DOID-CHEBI	DOID_9471	CHEBI_36080
+3	DOID-CHEBI	DOID_9471	CHEBI_50906
+3	DOID-CHEBI	DOID_9471	CHEBI_16670
+3	DOID-CHEBI	DOID_9471	CHEBI_30000
+3	DOID-CHEBI	DOID_9471	CHEBI_59132
+
+4|chunk|Results
+
+5|chunk|BspC contains all six domains characteristic of the AgI/II protein family and shares high homology with other streptococcal AgI/II proteins, especially GAS AspA (Fig 1B) . The proposed domain organization of streptococcal AgI/II polypeptides comprises a stalk consisting of the -helical A (alanine-rich repeats) domain and the polyproline II (PPII) helical P domain, separating the V (variable) domain and the C-terminal domain, which contains the LPXTG motif required for cell wall anchorage [14] . While the GBS BspC structure is not known, the structure of several regions of the GBS homolog, BspA, has been solved [15] . We generated a hypothetical model of full length BspC using PyMOL (The PyMOL Molecular Graphics System, Version 2.1 Schrdinger, LLC) for the purpose of showing the overall domain structure (Fig 1C) . Structures of individual BspC domains were generated using Phyre2 server [21] . The V-and C-domains were modeled on the V-and C-domains of BspA (PDB entries 5DZ8 and The GBS adhesin BspC interacts with vimentin to promote meningitis PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1007848 June 10, 2019 3 / 30
+5	59	66 protein	Chemical	CHEBI_16541
+5	229	241 polypeptides	Chemical	CHEBI_15841
+5	328	339 polyproline	Chemical	CHEBI_8321
+5	1049	1059 meningitis	Disease	DOID_9471
+5	CHEBI-DOID	CHEBI_16541	DOID_9471
+5	CHEBI-DOID	CHEBI_15841	DOID_9471
+5	CHEBI-DOID	CHEBI_8321	DOID_9471
+
+6|chunk|Fig 2. BspC bacterial adherence to endothelial cells in vitro. (A-D) Scanning electron microscopy images of WT (A and C) and bspC mutant (B and D) GBS. Scale bar in high magnification images (A and B) is 1 M. Scale bar in low magnification images (C and D) is 50 M. (E) Adherence of WT GBS, the bspC mutant, and the bspCpDC.bspC complemented strain to hCMEC was assessed after a 30 min incubation. Total cell-associated bacteria are shown. (F) Invasion of WT GBS, the bspC mutant, and the bspCpDC.bspC strain was quantified after a 2 h infection. (G) Adherence and (H) invasion of Lactococcus lactis containing the pMSP empty vector or pMSP.bspC to hCMEC were quantified. Data indicates the percentage of the initial inoculum that was recovered. Experiments were performed three times with each condition in triplicate. Data from one representative experiment are shown and error bars represent the standard deviation. Statistical analysis: (E and F) One-way ANOVA with Tukey's multiple comparisons test. (G and H) Unpaired t test.  , P < 0.05.
+6	78	86 electron	Chemical	CHEBI_10545
+

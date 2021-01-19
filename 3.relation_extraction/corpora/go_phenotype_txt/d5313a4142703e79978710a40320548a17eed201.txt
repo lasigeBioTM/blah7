@@ -1,0 +1,21 @@
+0|chunk|Production of Recombinant EAV with Tagged Structural Protein Gp3 to Study Artervirus Minor Protein Localization in Infected Cells
+0	91	111 Protein Localization	Gene_function	GO_0008104
+0	99	111 Localization	Gene_function	GO_0051179
+
+1|chunk|Equine arteritis virus (EAV) is a prototype member of the Arterivirus family, comprising important pathogens of domestic animals. Minor glycoproteins of Arteriviruses are responsible for virus entry and cellular tropism. The experimental methods for studying minor Arterivirus proteins are limited because of the lack of antibodies and nested open reading frames (ORFs). In this study, we generated recombinant EAV with separated ORFs 3 and 4, and Gp3 carrying HA-tag (Gp3-HA). The recombinant viruses were stable on passaging and replicated in titers similar to the wild-type EAV. Gp3-HA was incorporated into the virion particles as monomers and as a Gp2/Gp3-HA/Gp4 trimer. Gp3-HA localized in ER and, to a lesser extent, in the Golgi, it also co-localized with the E protein but not with the N protein. The co-localization of Gp3-HA and the E protein with ERGIC was reduced. Moreover, EAV with Gp3-HA could become a valuable research tool for identifying host cell factors during infection and the role of Gp3 in virus attachment and entry.
+1	7	16 arteritis	Phenotype	HP_0012089
+1	507	513 stable	Phenotype	HP_0031915
+1	615	621 virion	Gene_function	GO_0019012
+1	683	692 localized	Phenotype	HP_0012838
+1	859	864 ERGIC	Gene_function	GO_0005793
+1	958	967 host cell	Gene_function	GO_0043657
+1	HP-GO	HP_0012089	GO_0019012
+1	HP-GO	HP_0012089	GO_0005793
+1	HP-GO	HP_0012089	GO_0043657
+1	HP-GO	HP_0031915	GO_0019012
+1	HP-GO	HP_0031915	GO_0005793
+1	HP-GO	HP_0031915	GO_0043657
+1	GO-HP	GO_0019012	HP_0012838
+1	HP-GO	HP_0012838	GO_0005793
+1	HP-GO	HP_0012838	GO_0043657
+

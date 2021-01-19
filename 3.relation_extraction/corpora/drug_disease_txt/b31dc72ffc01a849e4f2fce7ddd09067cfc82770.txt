@@ -1,0 +1,43 @@
+0|chunk|Temporal relationship between antibiotic use and respiratory virus activities in the Republic of Korea: a time-series analysis
+0	30	40 antibiotic	Chemical	CHEBI_33281
+
+1|chunk|Background: Inappropriate use of antibiotics increases resistance and reduces their effectiveness. Despite evidencebased guidelines, antibiotics are still commonly used to treat infections likely caused by respiratory viruses. In this study, we examined the temporal relationships between antibiotic usage and respiratory infections in the Republic of Korea. Methods: The number of monthly antibiotic prescriptions and the incidence of acute respiratory tract infections between 2010 and 2015 at all primary care clinics were obtained from the Korean Health Insurance Review and Assessment Service. The monthly detection rates of respiratory viruses, including adenovirus, respiratory syncytial virus, influenza virus, human coronavirus, and human rhinovirus, were collected from Korea Centers for Disease Control and Prevention. Cross-correlation analysis was conducted to quantify the temporal relationship between antibiotic use and respiratory virus activities as well as respiratory infections in primary clinics. Results: The monthly use of different classes of antibiotic, including penicillins, other beta-lactam antibacterials, macrolides and quinolones, was significantly correlated with influenza virus activity. These correlations peaked at the 0-month lag with cross-correlation coefficients of 0.45 (p < 0.01), 0.46 (p < 0.01), 0.40 (p < 0.01), and 0.35 (< 0.01), respectively. Furthermore, a significant correlation was found between acute bronchitis and antibiotics, including penicillin (0.73, p < 0.01), macrolides (0.74, p < 0.01), and quinolones (0.45, p < 0.01), at the 0-month lag. Conclusions: Our findings suggest that there is a significant temporal relationship between influenza virus activity and antibiotic use in primary clinics. This relationship indicates that interventions aimed at reducing influenza cases in addition to effort to discourage the prescription of antibiotics by physicians may help to decrease unnecessary antibiotic consumption.
+1	33	44 antibiotics	Chemical	CHEBI_33281
+1	133	144 antibiotics	Chemical	CHEBI_33281
+1	289	299 antibiotic	Chemical	CHEBI_33281
+1	390	400 antibiotic	Chemical	CHEBI_33281
+1	702	711 influenza	Disease	DOID_8469
+1	798	805 Disease	Disease	DOID_4
+1	917	927 antibiotic	Chemical	CHEBI_33281
+1	1068	1078 antibiotic	Chemical	CHEBI_33281
+1	1109	1120 beta-lactam	Chemical	CHEBI_35627
+1	1137	1147 macrolides	Chemical	CHEBI_25106
+1	1152	1162 quinolones	Chemical	CHEBI_23765
+1	1198	1207 influenza	Disease	DOID_8469
+1	1449	1465 acute bronchitis	Disease	DOID_6132
+1	1455	1465 bronchitis	Disease	DOID_6132
+1	1470	1481 antibiotics	Chemical	CHEBI_33281
+1	1493	1503 penicillin	Chemical	CHEBI_17334
+1	1522	1532 macrolides	Chemical	CHEBI_25106
+1	1555	1565 quinolones	Chemical	CHEBI_23765
+1	1696	1705 influenza	Disease	DOID_8469
+1	1725	1735 antibiotic	Chemical	CHEBI_33281
+1	1825	1834 influenza	Disease	DOID_8469
+1	1897	1908 antibiotics	Chemical	CHEBI_33281
+1	1956	1966 antibiotic	Chemical	CHEBI_33281
+1	CHEBI-DOID	CHEBI_33281	DOID_8469
+1	CHEBI-DOID	CHEBI_33281	DOID_4
+1	CHEBI-DOID	CHEBI_33281	DOID_6132
+1	DOID-CHEBI	DOID_8469	CHEBI_35627
+1	DOID-CHEBI	DOID_8469	CHEBI_25106
+1	DOID-CHEBI	DOID_8469	CHEBI_23765
+1	DOID-CHEBI	DOID_8469	CHEBI_17334
+1	DOID-CHEBI	DOID_4	CHEBI_35627
+1	DOID-CHEBI	DOID_4	CHEBI_25106
+1	DOID-CHEBI	DOID_4	CHEBI_23765
+1	DOID-CHEBI	DOID_4	CHEBI_17334
+1	CHEBI-DOID	CHEBI_35627	DOID_6132
+1	CHEBI-DOID	CHEBI_25106	DOID_6132
+1	CHEBI-DOID	CHEBI_23765	DOID_6132
+1	DOID-CHEBI	DOID_6132	CHEBI_17334
+

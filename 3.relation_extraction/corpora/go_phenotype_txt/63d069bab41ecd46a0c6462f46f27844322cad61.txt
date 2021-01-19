@@ -1,0 +1,8 @@
+0|chunk|
+
+1|chunk|Ni+Nu , so (I E + I L )  Nu Ni+Nu represents the rate of injections with the potential to infect a needle. The fraction, call it , of these injection events that shed enough of a viral load to render a needle infected scales this rate, giving (I E + I L ) Nu Ni+Nu . For simplicity, we set  = .
+
+2|chunk|Note that this approach homogenizes the populations of needles and hosts in the sense that it assumes everyone in the population of people who inject drugs (PWID) exchanges with the same environmental reservoirs-the infected and uninfected needle populations. We assume homogeneity, although in a setting with severely skewed distributions of needles among users' collections or in communities with wildly varying sharing practices, this approximation will be a poor one.
+
+3|chunk|Below, we provide the T and  matrices used to calculate R 0 . In this text, we follow the lines of [1], which establishes an algorithm for calculating R 0 as the maximum eigenvalue-also called the spectral radius-of the matrix T  1 . This matrix is sometimes cited as the Next Generation Matrix, however, as Diekmann et. al. (2009) [1] point out, this matrix may actually be larger than the true next generation matrix. Nevertheless, the maximum eigenvalue of T   1 will be the same as that of the true next generation matrix. The steps to construct T and  are outlined in [1]. Essentially T +  = J, where
+

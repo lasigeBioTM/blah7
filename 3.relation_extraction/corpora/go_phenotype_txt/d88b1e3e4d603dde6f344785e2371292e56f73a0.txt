@@ -1,0 +1,28 @@
+0|chunk|Proteomic analysis of swine serum following highly virulent classical swine fever virus infection
+0	76	81 fever	Phenotype	HP_0001945
+
+1|chunk|Background: Classical swine fever virus (CSFV) belongs to the genus Pestivirus within the family Flaviviridae. Virulent strains of classical swine fever virus (CSFV) cause severe disease in pigs characterized by immunosuppression, thrombocytopenia and disseminated intravascular coagulation, which causes significant economic losses to the pig industry worldwide. Methods: To reveal proteomic changes in swine serum during the acute stage of lethal CSFV infection, 5 of 10 pigs were inoculated with the virulent CSFV Shimen strain, the remainder serving as uninfected controls. A serum sample was taken at 3 days post-infection from each swine, at a stage when there were no clinical symptoms other than increased rectal temperatures (40C). The samples were treated to remove serum albumin and immunoglobulin (IgG), and then subjected to two-dimension differential gel electrophoresis. Results: Quantitative intensity analysis revealed 17 protein spots showing at least 1.5-fold quantitative alteration in expression. Ten spots were successfully identified by MALDI-TOF MS or LTQ MS. Expression of 4 proteins was increased and 6 decreased in CSFV-infected pigs. Functions of these proteins included blood coagulation, antiinflammatory activity and angiogenesis. Conclusion: These proteins with altered expression may have important implications in the pathogenesis of classical swine fever and provide a clue for identification of biomarkers for classical swine fever early diagnosis.
+1	28	33 fever	Phenotype	HP_0001945
+1	147	152 fever	Phenotype	HP_0001945
+1	172	178 severe	Phenotype	HP_0012828
+1	231	247 thrombocytopenia	Phenotype	HP_0001873
+1	252	290 disseminated intravascular coagulation	Phenotype	HP_0005521
+1	427	432 acute	Phenotype	HP_0011009
+1	796	810 immunoglobulin	Gene_function	GO_0003823
+1	910	919 intensity	Phenotype	HP_0012824
+1	1354	1366 pathogenesis	Gene_function	GO_0009405
+1	1386	1391 fever	Phenotype	HP_0001945
+1	1464	1469 fever	Phenotype	HP_0001945
+1	HP-GO	HP_0001945	GO_0003823
+1	HP-GO	HP_0001945	GO_0009405
+1	HP-GO	HP_0012828	GO_0003823
+1	HP-GO	HP_0012828	GO_0009405
+1	HP-GO	HP_0001873	GO_0003823
+1	HP-GO	HP_0001873	GO_0009405
+1	HP-GO	HP_0005521	GO_0003823
+1	HP-GO	HP_0005521	GO_0009405
+1	HP-GO	HP_0011009	GO_0003823
+1	HP-GO	HP_0011009	GO_0009405
+1	GO-HP	GO_0003823	HP_0012824
+1	HP-GO	HP_0012824	GO_0009405
+

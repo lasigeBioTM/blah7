@@ -1,0 +1,40 @@
+0|chunk|Expression profile analysis of 5-day-old neonatal piglets infected with porcine Deltacoronavirus
+
+1|chunk|Background: Porcine deltacoronavirus (PDCoV) is a novel coronavirus that can cause diarrhea in nursing piglets. This study was aimed to investigate the roles of host differentially expressed genes on metabolic pathways in PDCoV infections. Results: Twenty thousand six hundred seventy-four differentially expressed mRNAs were identified in 5-day-old piglets responded to PDCoV experimental infections. Many of these genes were correlated to the basic metabolism, such as the peroxisome proliferator-activated receptor (PPAR) signaling pathway which plays a critical role in digestion. At the same time, in the PPAR pathway genes of fatty acid-binding protein (FABP) family members were observed with remarkably differential expressions. The differential expressed genes were associated with appetite decrease and weight loss of PDCoV-affected piglets.
+1	83	91 diarrhea	Phenotype	HP_0002014
+1	475	485 peroxisome	Gene_function	GO_0005777
+1	525	534 signaling	Gene_function	GO_0023052
+1	525	542 signaling pathway	Gene_function	GO_0007165
+1	813	824 weight loss	Phenotype	HP_0001824
+1	HP-GO	HP_0002014	GO_0005777
+1	HP-GO	HP_0002014	GO_0023052
+1	HP-GO	HP_0002014	GO_0007165
+1	GO-HP	GO_0005777	HP_0001824
+1	GO-HP	GO_0023052	HP_0001824
+1	GO-HP	GO_0007165	HP_0001824
+
+2|chunk|Discussion: Fatty acid-binding protein 1 (FABP1) and fatty acid-binding protein 3 (FABP3) were found to be regulated by PDCoV. These two genes not only mediate fatty acid transportation to different cell organelles such as mitochondria, peroxisome, endoplasmic reticulum and nucleus, but also modulate fatty acid metabolism and storage as a signaling molecule outside the cell. Therefore, it can be preliminarily concluded that PPAR differential expression caused by PDCoV was mostly associated with weight loss and death from emaciation. Conclusions: The host differentially expressed genes were associated with infection response, metabolism signaling and organismal systems signaling pathways. The genes of FABP family members in the PPAR signaling pathway were the most highly altered and played important roles in metabolism. Alteration of these genes were most likely the reason of weight loss and other clinical symptoms. Our results provided new insights into the metabolic mechanisms and pathogenesis of PDCoV infection.
+2	249	270 endoplasmic reticulum	Gene_function	GO_0005783
+2	302	323 fatty acid metabolism	Gene_function	GO_0006631
+2	313	323 metabolism	Gene_function	GO_0008152
+2	341	350 signaling	Gene_function	GO_0023052
+2	341	359 signaling molecule	Gene_function	GO_0048018
+2	500	511 weight loss	Phenotype	HP_0001824
+2	633	643 metabolism	Gene_function	GO_0008152
+2	644	653 signaling	Gene_function	GO_0023052
+2	677	686 signaling	Gene_function	GO_0023052
+2	737	759 PPAR signaling pathway	Gene_function	GO_0035357
+2	742	751 signaling	Gene_function	GO_0023052
+2	742	759 signaling pathway	Gene_function	GO_0007165
+2	819	829 metabolism	Gene_function	GO_0008152
+2	888	899 weight loss	Phenotype	HP_0001824
+2	997	1009 pathogenesis	Gene_function	GO_0009405
+2	GO-HP	GO_0005783	HP_0001824
+2	GO-HP	GO_0006631	HP_0001824
+2	GO-HP	GO_0008152	HP_0001824
+2	GO-HP	GO_0023052	HP_0001824
+2	GO-HP	GO_0048018	HP_0001824
+2	HP-GO	HP_0001824	GO_0035357
+2	HP-GO	HP_0001824	GO_0007165
+2	HP-GO	HP_0001824	GO_0009405
+

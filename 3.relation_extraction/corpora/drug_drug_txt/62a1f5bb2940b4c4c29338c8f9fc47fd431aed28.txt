@@ -1,0 +1,16 @@
+0|chunk|Additional Data Sets Hepatitis C virus
+
+1|chunk|Previous phylogenetic analyses of Hepatitis C virus (HCV) have used different regions of the genome, including E1, E2 and the HCV core region. We selected the core region because it is longest (~500 nucleotides). Core sequences (>200 nucl.) were downloaded from the Los Alamos National Laboratories repository (http://hcv.lanl.gov). Sequences were sorted by subtype, and as HCV subtype 1b was the most frequent, it was chosen for analysis. After deletion of duplicates, 3786 sequences remained, with a mean sequence length of 505 nucleotides (accession numbers listed in Additional File 5). Accompanying information was downloaded in parallel, including country of origin for 88% of sequences. Sequences originated from 46 different countries. A phylogenetic tree with 100 bootstrap replicates was reconstructed using RaxML [1] . Based on previous work, a cluster threshold of 70% bootstrap and 2% genetic distance was used to identify clusters [2] . The Cluster Picker (CP) completed in <6 seconds, and identified 144 clusters. When the bootstrap was increased to 90%, only 50 clusters were identified. Using the Cluster Matcher (CM), we determined that at both thresholds, sequences from the same country clustered together 100% of the time, suggesting that they represent epidemiologically-relevant clusters. Note that multiple sequences may originate from the same patient and that the tree is fully bifurcating.
+1	266	269 Los	Chemical	CHEBI_35371
+1	530	541 nucleotides	Chemical	CHEBI_36976
+1	856	863 cluster	Chemical	CHEBI_33731
+1	936	944 clusters	Chemical	CHEBI_33731
+1	955	962 Cluster	Chemical	CHEBI_33731
+1	1019	1027 clusters	Chemical	CHEBI_33731
+1	1078	1086 clusters	Chemical	CHEBI_33731
+1	1114	1121 Cluster	Chemical	CHEBI_33731
+1	1302	1310 clusters	Chemical	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_35371	CHEBI_36976
+1	CHEBI-CHEBI	CHEBI_35371	CHEBI_33731
+1	CHEBI-CHEBI	CHEBI_36976	CHEBI_33731
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="31b6292728805572de28133c6eb02ed1d44ef211">
+  <chunk id="31b6292728805572de28133c6eb02ed1d44ef211.c0" text="Bioinformatics and Biology Insights o r I g I n A L r e s e A r C h Automated Detection of conformational epitopes Using phage Display peptide sequences">
+    <entity charOffset="135-142" id="31b6292728805572de28133c6eb02ed1d44ef211.c0.e0" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+  </chunk>
+  <chunk id="31b6292728805572de28133c6eb02ed1d44ef211.c1" text="Background: Precise determination of conformational epitopes of neutralizing antibodies represents a key step in the rational design of novel vaccines. A powerful experimental method to gain insights on the physical chemical nature of conformational epitopes is the selection of linear peptides that bind with high affinities to a monoclonal antibody of interest by phage display technology. However, the structural characterization of conformational epitopes from these mimotopes is not straightforward, and in the past the interpretation of peptide sequences from phage display experiments focused on linear sequence analysis to find a consensus sequence or common sequence motifs.">
+    <entity charOffset="286-294" id="31b6292728805572de28133c6eb02ed1d44ef211.c1.e0" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="543-550" id="31b6292728805572de28133c6eb02ed1d44ef211.c1.e1" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+  </chunk>
+  <chunk id="31b6292728805572de28133c6eb02ed1d44ef211.c2" text="We present a fully automated search method, EpiSearch that predicts the possible location of conformational epitopes on the surface of an antigen. The algorithm uses peptide sequences from phage display experiments as input, and ranks all surface exposed patches according to the frequency distribution of similar residues in the peptides and in the patch. We have tested the performance of the EpiSearch algorithm for six experimental data sets of phage display experiments, the human epidermal growth factor receptor-2 (HER-2/neu), the antibody mAb Bo2C11 targeting the C 2 domain of FVIII, antibodies mAb 17b and mAb b12 of the HIV envelope protein gp120, mAb 13b5 targeting HIV-1 capsid protein and 80R of the SARS coronavirus spike protein. In all these examples the conformational epitopes as determined by the X-ray crystal structures of the antibody-antigen complexes, were found within the highest scoring patches of EpiSearch, covering in most cases more than 50% residues of experimental observed conformational epitopes. Input options of the program include mapping of a single peptide or a set of peptides on the antigen structure, and the results of the calculation can be visualized on our interactive web server.">
+    <entity charOffset="138-145" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e0" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <entity charOffset="166-173" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e1" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="330-338" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e2" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="644-651" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e3" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="691-698" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e4" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="714-718" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" ontology_id="DOID_2945" text="SARS" type="disease"/>
+    <entity charOffset="737-744" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e6" ontology_id="CHEBI_16541" text="protein" type="chemical"/>
+    <entity charOffset="1090-1097" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e7" ontology_id="CHEBI_16670" text="peptide" type="chemical"/>
+    <entity charOffset="1110-1118" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e8" ontology_id="CHEBI_16670" text="peptides" type="chemical"/>
+    <entity charOffset="1126-1133" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.e9" ontology_id="CHEBI_59132" text="antigen" type="chemical"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e0" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p0" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e1" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p1" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e2" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p2" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e3" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p3" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e4" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p4" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e6" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p5" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e7" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p6" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e8" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p7" relation="true"/>
+    <pair e1="31b6292728805572de28133c6eb02ed1d44ef211.c2.e5" e2="31b6292728805572de28133c6eb02ed1d44ef211.c2.e9" id="31b6292728805572de28133c6eb02ed1d44ef211.c2.p8" relation="true"/>
+  </chunk>
+  <chunk id="31b6292728805572de28133c6eb02ed1d44ef211.c3" text="Availability: Users can access the EpiSearch from our web server"/>
+</document>

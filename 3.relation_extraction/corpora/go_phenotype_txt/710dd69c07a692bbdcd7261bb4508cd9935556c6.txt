@@ -1,0 +1,29 @@
+0|chunk|Regulation of Coronaviral Poly(A) Tail Length during Infection
+
+1|chunk|The positive-strand coronavirus genome of ~30 kilobase in length and subgenomic (sg) mRNAs of shorter lengths, are 5' and 3'-co-terminal by virtue of a common 5'-capped leader and a common 3'-polyadenylated untranslated region. Here, by ligating head-to-tail viral RNAs from bovine coronavirus-infected cells and sequencing across the ligated junctions, it was learned that at the time of peak viral RNA synthesis [6 hours postinfection (hpi)] the 3' poly(A) tail on genomic and sgmRNAs is ~65 nucleotides (nt) in length. Surprisingly, this length was found to vary throughout infection from ~45 nt immediately after virus entry (at 0 to 4 hpi) to ~65 nt later on (at 6 h to 9 hpi) and from ~65 nt (at 6 h to 9 hpi) to ~30 nt (at 120-144 hpi). With the same method, poly(U) sequences of the same lengths were simultaneously found on the ligated viral negative-strand RNAs. Functional analyses of poly(A) tail length on specific viral RNA species, furthermore, revealed that translation, in vivo, of RNAs with the longer poly(A) tail was enhanced over those with the shorter poly(A). Although the mechanisms by which the tail lengths vary is unknown, experimental results together suggest that the length of the poly(A) and poly(U) tails is regulated. One potential function of regulated poly(A) tail length might be that for the coronavirus genome a longer poly(A) favors translation. The regulation of coronavirus translation by poly(A) tail length resembles that during embryonal development suggesting there may be mechanistic parallels. Strategy for determining poly(A) tail length on coronaviral subgenomic mRNA 7 positive strand. Total cellular RNA extracted from BCoV-infected HRT cells was decapped and head-to-tail ligated. To ensure the poly(A) tail sequence is specifically derived from subgenomic mRNA 7 rather than genomic RNA, BCoV leader positive-strand-specific primer 4 (for RT) and BCoV leader (-)-strandspecific primer 3 were used for RT-PCR with ligated positive-strand coronaviral RNA as a template. The expected length of RT-PCR product is near 1.8 kb containing subgenomic mRNA 7-specific poly(A) tail. The RT-PCR product was sequenced to determine subgenomic mRNA 7 poly(A) tail length. (B) Strategy for determining poly(U) tract length on coronaviral subgenomic mRNA 7 negative strand. The method used to determine the length of poly(U) tail on negative-strand subgenomic RNA is the same as that for poly(A) tail length on positive-strand subgenomic mRNA 7 except the primer used for RT was primer 3. The expected length of RT-PCR product which contains subgenomic mRNA 7-specific poly(U) tract is ~1.8 Kb. The RT-PCR product was sequenced to determine subgenomic mRNA 7 poly(U) tract length. (C) RT-PCR product synthesized with the methods described in panels (A) and (B). The length of subgenomic mRNA 7 RT-PCR products containing poly(A) (left panel) or poly(U) (right panel) was near 1.8 kb at the different times postinfection. (D) RT-PCR control reactions. Same as described for Figure 3C, except for the use of primers 3 and 4 (not 1 and 2) in lane 1, left panel, and lane 3, right panel. (E) The length of coronaviral subgenomic RNA 7 poly(A) tail (left panel) and subgenomic RNA 7 poly(U) tract (right panel) at different time points postinfection as determined by sequencing RT-PCR products obtained in Figure 4C. M: ds DNA size markers in nt pairs. Values (E) represents the meanSD of three individual experiments.
+1	400	413 RNA synthesis	Gene_function	GO_0032774
+1	404	413 synthesis	Gene_function	GO_0009058
+1	640	643 hpi	Gene_function	GO_0009978
+1	677	680 hpi	Gene_function	GO_0009978
+1	711	714 hpi	Gene_function	GO_0009978
+1	974	985 translation	Gene_function	GO_0006412
+1	1372	1383 translation	Gene_function	GO_0006412
+1	1415	1426 translation	Gene_function	GO_0006412
+1	1472	1493 embryonal development	Gene_function	GO_0009790
+1	2867	2871 left	Phenotype	HP_0012835
+1	2891	2896 right	Phenotype	HP_0012834
+1	3084	3088 left	Phenotype	HP_0012835
+1	3108	3113 right	Phenotype	HP_0012834
+1	3182	3186 left	Phenotype	HP_0012835
+1	3230	3235 right	Phenotype	HP_0012834
+1	GO-HP	GO_0032774	HP_0012835
+1	GO-HP	GO_0032774	HP_0012834
+1	GO-HP	GO_0009058	HP_0012835
+1	GO-HP	GO_0009058	HP_0012834
+1	GO-HP	GO_0009978	HP_0012835
+1	GO-HP	GO_0009978	HP_0012834
+1	GO-HP	GO_0006412	HP_0012835
+1	GO-HP	GO_0006412	HP_0012834
+1	GO-HP	GO_0009790	HP_0012835
+1	GO-HP	GO_0009790	HP_0012834
+

@@ -1,0 +1,19 @@
+0|chunk|SARS-CoV 9b Protein Diffuses into Nucleus, Undergoes Active Crm1 Mediated Nucleocytoplasmic Export and Triggers Apoptosis When Retained in the Nucleus
+0	34	41 Nucleus	Gene_function	GO_0005634
+0	143	150 Nucleus	Gene_function	GO_0005634
+
+1|chunk|Background: 9b is an accessory protein of the SARS-CoV. It is a small protein of 98 amino acids and its structure has been solved recently. 9b is known to localize in the extra-nuclear region and has been postulated to possess a nuclear export signal (NES), however the role of NES in 9b functioning is not well understood.
+1	229	243 nuclear export	Gene_function	GO_0051168
+
+2|chunk|Principal Findings/Methodology: In this report, we demonstrate that 9b in the absence of any nuclear localization signal (NLS) enters the nucleus by passive transport. Using various cell cycle inhibitors, we have shown that the nuclear entry of 9b is independent of the cell cycle. Further, we found that 9b interacts with the cellular protein Crm1 and gets exported out of the nucleus using an active NES. We have also revealed that this NES activity influences the half-life of 9b and affects host cell death. We found that an export signal deficient SARS-CoV 9b protein induces apoptosis in transiently transfected cells and showed elevated caspase-3 activity.
+2	101	113 localization	Gene_function	GO_0051179
+2	138	145 nucleus	Gene_function	GO_0005634
+2	182	192 cell cycle	Gene_function	GO_0007049
+2	270	280 cell cycle	Gene_function	GO_0007049
+2	378	385 nucleus	Gene_function	GO_0005634
+2	495	504 host cell	Gene_function	GO_0043657
+
+3|chunk|Conclusion/Significance: Here, we showed that nuclear shuttling of 9b and its interaction with Crm1 are essential for the proper degradation of 9b and blocking the nuclear export of this protein induces apoptosis. This phenomenon may be critical in providing a novel role to the 9b accessory protein of SARS-CoV. Citation: Sharma K,  kerstr m S, Sharma AK, Chow VTK, Teow S, et al. (2011) SARS-CoV 9b Protein Diffuses into Nucleus, Undergoes Active Crm1 Mediated Nucleocytoplasmic Export and Triggers Apoptosis When Retained in the Nucleus. PLoS ONE 6(5): e19436.
+3	129	140 degradation	Gene_function	GO_0009056
+3	164	178 nuclear export	Gene_function	GO_0051168
+

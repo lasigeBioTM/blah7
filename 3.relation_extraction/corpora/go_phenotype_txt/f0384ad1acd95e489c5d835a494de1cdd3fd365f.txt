@@ -1,0 +1,54 @@
+0|chunk|The role of microglia in viral encephalitis: a review
+
+1|chunk|Viral encephalitis is still very prominent around the world, and traditional antiviral therapies still have shortcomings. Some patients cannot get effective relief or suffer from serious sequelae. At present, people are studying the role of the innate immune system in viral encephalitis. Microglia, as resident cells of the central nervous system (CNS), can respond quickly to various CNS injuries including trauma, ischemia, and infection and maintain the homeostasis of CNS, but this response is not always good; sometimes, it will exacerbate damage. Studies have shown that microglia also act as a double-edged sword during viral encephalitis. On the one hand, microglia can sense ATP signals through the purinergic receptor P2Y12 and are recruited around infected neurons to exert phagocytic activity. Microglia can exert a direct antiviral effect by producing type 1 interferon (IFN-1) to induce IFN-stimulated gene (ISG) expression of themselves or indirect antiviral effects by IFN-1 acting on other cells to activate corresponding signaling pathways. In addition, microglia can also exert an antiviral effect by inducing autophagy or secreting cytokines. On the other hand, microglia mediate presynaptic membrane damage in the hippocampus through complement, resulting in long-term memory impairment and cognitive dysfunction in patients with encephalitis. Microglia mediate fetal congenital malformations caused by Zika virus (ZIKV) infection. The gene expression profile of microglia in HIV encephalitis changes, and they tend to be a pro-inflammatory type. Microglia inhibited neuronal autophagy and aggravated the damage of CNS in HIV encephalitis; E3 ubiquitin ligase Pellino (pelia) expressed by microglia promotes the replication of virus in neurons. The interaction between amyloid- peptide (A) produced by neurons and activated microglia during viral infection is uncertain. Although neurons can mediate antiviral effects by activating receptor-interacting protein kinases 3 (RIPK3) in a death-independent pathway, the RIPK3 pathway of microglia is unknown. Different brain regions have different susceptibility to viruses, and the gene expression of microglia in different brain regions is specific. The relationship between the two needs to be further confirmed. How to properly regulate the function of microglia and make it exert more anti-inflammatory effects is our next research direction.
+1	6	18 encephalitis	Phenotype	HP_0002383
+1	275	287 encephalitis	Phenotype	HP_0002383
+1	325	332 central	Phenotype	HP_0030645
+1	458	469 homeostasis	Gene_function	GO_0042592
+1	634	646 encephalitis	Phenotype	HP_0002383
+1	1040	1049 signaling	Gene_function	GO_0023052
+1	1130	1139 autophagy	Gene_function	GO_0006914
+1	1201	1221 presynaptic membrane	Gene_function	GO_0042734
+1	1213	1221 membrane	Gene_function	GO_0016020
+1	1281	1297 long-term memory	Gene_function	GO_0007616
+1	1291	1297 memory	Gene_function	GO_0007613
+1	1291	1308 memory impairment	Phenotype	HP_0002354
+1	1352	1364 encephalitis	Phenotype	HP_0002383
+1	1458	1473 gene expression	Gene_function	GO_0010467
+1	1502	1514 encephalitis	Phenotype	HP_0002383
+1	1598	1607 autophagy	Gene_function	GO_0006914
+1	1648	1660 encephalitis	Phenotype	HP_0002383
+1	1665	1674 ubiquitin	Gene_function	GO_0031386
+1	1865	1880 viral infection	Gene_function	GO_0016032
+1	2152	2167 gene expression	Gene_function	GO_0010467
+1	HP-GO	HP_0002383	GO_0042592
+1	HP-GO	HP_0002383	GO_0023052
+1	HP-GO	HP_0002383	GO_0006914
+1	HP-GO	HP_0002383	GO_0042734
+1	HP-GO	HP_0002383	GO_0016020
+1	HP-GO	HP_0002383	GO_0007616
+1	HP-GO	HP_0002383	GO_0007613
+1	HP-GO	HP_0002383	GO_0010467
+1	HP-GO	HP_0002383	GO_0031386
+1	HP-GO	HP_0002383	GO_0016032
+1	HP-GO	HP_0030645	GO_0042592
+1	HP-GO	HP_0030645	GO_0023052
+1	HP-GO	HP_0030645	GO_0006914
+1	HP-GO	HP_0030645	GO_0042734
+1	HP-GO	HP_0030645	GO_0016020
+1	HP-GO	HP_0030645	GO_0007616
+1	HP-GO	HP_0030645	GO_0007613
+1	HP-GO	HP_0030645	GO_0010467
+1	HP-GO	HP_0030645	GO_0031386
+1	HP-GO	HP_0030645	GO_0016032
+1	GO-HP	GO_0042592	HP_0002354
+1	GO-HP	GO_0023052	HP_0002354
+1	GO-HP	GO_0006914	HP_0002354
+1	GO-HP	GO_0042734	HP_0002354
+1	GO-HP	GO_0016020	HP_0002354
+1	GO-HP	GO_0007616	HP_0002354
+1	GO-HP	GO_0007613	HP_0002354
+1	HP-GO	HP_0002354	GO_0010467
+1	HP-GO	HP_0002354	GO_0031386
+1	HP-GO	HP_0002354	GO_0016032
+

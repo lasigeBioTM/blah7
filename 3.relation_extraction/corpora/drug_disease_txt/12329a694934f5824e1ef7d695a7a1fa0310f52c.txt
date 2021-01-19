@@ -1,0 +1,26 @@
+0|chunk|The Author(s) BMC Genomics
+0	14	17 BMC	Chemical	CHEBI_3392
+
+1|chunk|Introduction: The ability to predict epitopes plays an enormous role in vaccine development in terms of our ability to zero in on where to do a more thorough in-vivo analysis of the protein in question. Though for the past decade there have been numerous advancements and improvements in epitope prediction, on average the best benchmark prediction accuracies are still only around 60%. New machine learning algorithms have arisen within the domain of deep learning, text mining, and convolutional networks. This paper presents a novel analytically trained and string kernel using deep neural network, which is tailored for continuous epitope prediction, called: Deep Ridge Regressed Epitope Predictor (DRREP). Results: DRREP was tested on long protein sequences from the following datasets: SARS, Pellequer, HIV, AntiJen, and SEQ194. DRREP was compared to numerous state of the art epitope predictors, including the most recently published predictors called LBtope and DMNLBE. Using area under ROC curve (AUC), DRREP achieved a performance improvement over the best performing predictors on SARS (13.7%), HIV (8.9%), Pellequer (1.5%), and SEQ194 (3.1%), with its performance being matched only on the AntiJen dataset, by the LBtope predictor, where both DRREP and LBtope achieved an AUC of 0.702. Conclusion: DRREP is an analytically trained deep neural network, thus capable of learning in a single step through regression. By combining the features of deep learning, string kernels, and convolutional networks, the system is able to perform residue-by-residue prediction of continues epitopes with higher accuracy than the current state of the art predictors.
+1	64	68 role	Chemical	CHEBI_50906
+1	182	189 protein	Chemical	CHEBI_16541
+1	288	295 epitope	Chemical	CHEBI_53000
+1	635	642 epitope	Chemical	CHEBI_53000
+1	684	691 Epitope	Chemical	CHEBI_53000
+1	745	752 protein	Chemical	CHEBI_16541
+1	792	796 SARS	Disease	DOID_2945
+1	883	890 epitope	Chemical	CHEBI_53000
+1	1092	1096 SARS	Disease	DOID_2945
+1	CHEBI-DOID	CHEBI_50906	DOID_2945
+1	CHEBI-DOID	CHEBI_16541	DOID_2945
+1	CHEBI-DOID	CHEBI_53000	DOID_2945
+
+2|chunk|doing this search experimentally, searching exhaustively by brute force, is an extremely time consuming endeavour. Thus, computational approaches are employed, and are the primary subject domain of computational vaccinology. Epitope prediction, the ability to predict with some probability whether a particular amino acid belongs to an epitope, can guide our experimental based search and save us a significant amount of time.
+2	225	232 Epitope	Chemical	CHEBI_53000
+2	311	316 amino	Chemical	CHEBI_46882
+2	311	321 amino acid	Chemical	CHEBI_33704
+2	317	321 acid	Chemical	CHEBI_37527
+2	336	343 epitope	Chemical	CHEBI_53000
+
+3|chunk|B-Cell epitopes are antigenic residues that B Lymphocytes bind to. These antigenic determinants can be either continuous, or conformational. Continuous epitopes, also known as linear epitopes, are formed by continuous sequences of residues. The majority of epitopes (90%) are within the conformational class [4] , which are the result
+

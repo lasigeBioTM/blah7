@@ -1,0 +1,66 @@
+0|chunk|Prediction of lncRNA-protein interactions using HeteSim scores based on heterogeneous networks OPEN
+
+1|chunk|Massive studies have indicated that long non-coding RNAs (lncRNAs) are critical for the regulation of cellular biological processes by binding with RNA-related proteins. However, only a few experimentally supported lncRNA-protein associations have been reported. Existing network-based methods are typically focused on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs. Considering the limitations in previous methods, we propose PLPIHS, an effective computational method for Predicting lncRNA-Protein Interactions using HeteSim Scores. PLPIHS uses the HeteSim measure to calculate the relatedness score for each lncRNA-protein pair in the heterogeneous network, which consists of lncRNA-lncRNA similarity network, lncRNA-protein association network and protein-protein interaction network. An SVM classifier to predict lncRNA-protein interactions is built with the HeteSim scores. The results show that PLPIHS performs significantly better than the existing state-of-the-art approaches and achieves an AUC score of 0.97 in the leave-one-out validation test. We also compare the performances of networks with different connectivity density and find that PLPIHS performs well across all the networks. Furthermore, we use the proposed method to identify the related proteins for lncRNA MALAT1. Highlyranked proteins are verified by the biological studies and demonstrate the effectiveness of our method.
+1	160	168 proteins	Chemical	CHEBI_36080
+1	352	359 protein	Chemical	CHEBI_16541
+1	1356	1364 proteins	Chemical	CHEBI_36080
+1	1397	1405 proteins	Chemical	CHEBI_36080
+1	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+
+2|chunk|Long non-coding RNAs (lncRNAs) are becoming critically important for the understanding of life sciences. Studies have indicated that lncRNAs play critical roles in many important biological processes such as chromatin modification 1 , transcriptional and post-transcriptional regulation 2, 3 , and human diseases 4, 5 . Relating proteins with Long non-coding RNAs (lncRNAs) is a tremendous and meaningful task in human health with applications in understanding lncRNA mechanisms, diagnosis and therapy 6, 7 . In general, lncRNAs exert functions by interfacing with corresponding RNA-binding proteins. Thus, identifying lncRNA interacted proteins is significant to understand complex functions of lncRNA and molecular mechanism 8, 9 of disease progression and cellular circuitry 10, 11 .
+2	329	337 proteins	Chemical	CHEBI_36080
+2	591	599 proteins	Chemical	CHEBI_36080
+2	637	645 proteins	Chemical	CHEBI_36080
+
+3|chunk|Since experimental methods to detect lncRNA-protein interactions are time-consuming and costly, several computational approaches have been reported for predicting RNA-binding proteins (RBPs). For example, Pancaldi et al. 12 proposed a method to predict ncRNA-protein interactions in 2011 and a approach named RPISeq was presented by Muppirala et al. 13 at the same year, which was constructed by using the features derived from protein and RNA sequences. They trained Random Forest (RF) and Support Vector Machine (SVM) classifiers using 3-mer and 4-mer conjoint triad features for amino acid and nucleotide sequences, respectively 14 . Bellucci et al. created a method named catRAPID 15 by exploiting the physicochemical properties including secondary structure, hydrogen bonding and van der Waals propensities. Wang et al. proposed an approach based on Nave Bayes (NB) and Extended NB (ENB) classifiers using the similar data and features supported in Muppirala et al. 's work 16 . In 2013, IncPro 17 was created by Lu et al. using three types of classical protein secondary structures, hydrogen-bond and Van der Waals propensities, and six types of RNA secondary structures (RSS).
+3	175	183 proteins	Chemical	CHEBI_36080
+3	428	435 protein	Chemical	CHEBI_16541
+3	440	443 RNA	Chemical	CHEBI_33697
+3	582	587 amino	Chemical	CHEBI_46882
+3	582	592 amino acid	Chemical	CHEBI_33704
+3	588	592 acid	Chemical	CHEBI_37527
+3	597	607 nucleotide	Chemical	CHEBI_36976
+3	764	772 hydrogen	Chemical	CHEBI_18276
+3	764	772 hydrogen	Chemical	CHEBI_49637
+3	1060	1067 protein	Chemical	CHEBI_16541
+3	1153	1156 RNA	Chemical	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_16541
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_36080	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_33697
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_16541	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_46882
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_33697	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_33704
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_46882	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_37527
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_33704	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_36976
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_37527	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_36976	CHEBI_18276
+3	CHEBI-CHEBI	CHEBI_36976	CHEBI_49637
+3	CHEBI-CHEBI	CHEBI_18276	CHEBI_49637
+
+4|chunk|Nevertheless, all of these methods only focus on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs. On the other hand, biological network-based methods was already widely used in many types of studies, such as disease gene prioritization 18 and drug-target interaction prediction and some of them have achieved good performances. One of the Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 3664 |
+4	82	89 protein	Chemical	CHEBI_16541
+

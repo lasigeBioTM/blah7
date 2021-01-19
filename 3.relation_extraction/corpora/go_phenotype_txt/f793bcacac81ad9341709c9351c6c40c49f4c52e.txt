@@ -1,0 +1,24 @@
+0|chunk|eEF1A Interacts with the NS5A Protein and Inhibits the Growth of Classical Swine Fever Virus
+0	55	61 Growth	Gene_function	GO_0040007
+0	81	86 Fever	Phenotype	HP_0001945
+0	GO-HP	GO_0040007	HP_0001945
+
+1|chunk|The NS5A protein of classical swine fever virus (CSFV) is involved in the RNA synthesis and viral replication. However, the NS5A-interacting cellular proteins engaged in the CSFV replication are poorly defined. Using yeast two-hybrid screen, the eukaryotic elongation factor 1A (eEF1A) was identified to be an NS5A-binding partner. The NS5A-eEF1A interaction was confirmed by coimmunoprecipitation, glutathione S-transferase (GST) pulldown and laser confocal microscopy assays. The domain I of eEF1A was shown to be critical for the NS5A-eEF1A interaction. Overexpression of eEF1A suppressed the CSFV growth markedly, and conversely, knockdown of eEF1A enhanced the CSFV replication significantly. Furthermore, eEF1A, as well as NS5A, was found to reduce the translation efficiency of the internal ribosome entry site (IRES) of CSFV in a dose-dependent manner, as demonstrated by luciferase reporter assay. Streptavidin pulldown assay revealed that eEF1A could bind to the CSFV IRES. Collectively, our results suggest that eEF1A interacts with NS5A and negatively regulates the growth of CSFV.
+1	36	41 fever	Phenotype	HP_0001945
+1	74	87 RNA synthesis	Gene_function	GO_0032774
+1	78	87 synthesis	Gene_function	GO_0009058
+1	601	607 growth	Gene_function	GO_0040007
+1	759	770 translation	Gene_function	GO_0006412
+1	798	806 ribosome	Gene_function	GO_0005840
+1	1078	1084 growth	Gene_function	GO_0040007
+1	HP-GO	HP_0001945	GO_0032774
+1	HP-GO	HP_0001945	GO_0009058
+1	HP-GO	HP_0001945	GO_0040007
+1	HP-GO	HP_0001945	GO_0006412
+1	HP-GO	HP_0001945	GO_0005840
+
+2|chunk|Viruses 2015, 7 4564 Keywords: classical swine fever virus; virus-host interactions; NS5A; eukaryotic elongation factor 1A; internal ribosome entry site
+2	47	52 fever	Phenotype	HP_0001945
+2	133	141 ribosome	Gene_function	GO_0005840
+2	HP-GO	HP_0001945	GO_0005840
+

@@ -1,0 +1,83 @@
+{
+    "text": "To report the case of a one-year-old patient with a bloodstream infection associated with probiotics, and to discuss the indications and precautions concerning the therapeutic use of probiotics.A one-year-old male patient with Down syndrome in a late postoperative period of congenital cardiac disease correction. The patient was severely malnourished and had been hospitalized since he was two months old in the Pediatric Intensive Care Unit. While in the hospital, the patient presented multiple infections related to mechanical ventilation and invasive devices, and received recurrent treatment with broadspectrum antibiotics for long periods. The patient developed chronic diarrhea and feeding intolerance, which lead to the use of probiotics (Saccharomyces boulardii) for four days. Two days after the end of the treatment, the patient developed septic shock, and the Saccharomyces cerevisiae was isolated in the central and peripheral blood cultures. After antifungal treatment (Amphotericin B), the blood cultures were negative. The patient had no further clinical complications after this event.Despite the well-documented benefits of probiotics in some clinical situations, we should be cautious about the indication of their use, preparation, and administration, in addition to the safe handling of invasive devices.",
+    "denotations": [
+        {
+            "id": "DOID_225",
+            "span": {
+                "begin": 232,
+                "end": 240
+            },
+            "obj": "syndrome"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 294,
+                "end": 301
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "CHEBI_33281",
+            "span": {
+                "begin": 617,
+                "end": 628
+            },
+            "obj": "antibiotics"
+        },
+        {
+            "id": "DOID_13250",
+            "span": {
+                "begin": 677,
+                "end": 685
+            },
+            "obj": "diarrhea"
+        },
+        {
+            "id": "CHEBI_35718",
+            "span": {
+                "begin": 963,
+                "end": 973
+            },
+            "obj": "antifungal"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_33281"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_225",
+            "pred": "effect",
+            "obj": "CHEBI_35718"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_4",
+            "pred": "effect",
+            "obj": "CHEBI_33281"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_4",
+            "pred": "effect",
+            "obj": "CHEBI_35718"
+        },
+        {
+            "id": "R4",
+            "subj": "DOID_13250",
+            "pred": "effect",
+            "obj": "CHEBI_33281"
+        },
+        {
+            "id": "R5",
+            "subj": "DOID_13250",
+            "pred": "effect",
+            "obj": "CHEBI_35718"
+        }
+    ]
+}

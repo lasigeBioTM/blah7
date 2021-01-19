@@ -1,0 +1,26 @@
+0|chunk|PBMC transcriptome profiles identifies potential candidate genes and functional networks controlling the innate and the adaptive immune response to PRRSV vaccine in Pietrain pig
+0	120	144 adaptive immune response	Gene_function	GO_0002250
+0	129	144 immune response	Gene_function	GO_0006955
+
+1|chunk|The porcine reproductive and respiratory syndrome (PRRS) is a devastating viral disease affecting swine production, health and welfare throughout the world. A synergistic action of the innate and the adaptive immune system of the host is essential for mounting a durable protective immunity through vaccination. Therefore, the current study aimed to investigate the transcriptome profiles of peripheral blood mononuclear cells (PBMCs) to characterize the innate and the adaptive immune response to PRRS Virus (PRRSV) vaccination in Pietrain pigs. The Affymetrix gene chip porcine gene 1.0 ST array was used for the transcriptome profiling of PBMCs collected at immediately before (D0), at one (D1) and 28 days (D28) post PRRSV vaccination with three biological replications. With FDR <0.05 and log2 fold change 1.5 as cutoff criteria, 295 and 115 transcripts were found to be differentially expressed in PBMCs during the stage of innate and adaptive response, respectively. The microarray expression results were technically validated by qRT-PCR. The gene ontology terms such as viral life cycle, regulation of lymphocyte activation, cytokine activity and inflammatory response were enriched during the innate immunity; cytolysis, T cell mediated cytotoxicity, immunoglobulin production were enriched during adaptive immunity to PRRSV vaccination. Significant enrichment of cytokine-cytokine receptor interaction, signaling by interleukins, signaling by the B cell receptor (BCR), viral mRNA translation, IFN-gamma pathway and AP-1 transcription factor network pathways were indicating the involvement of altered genes in the antiviral defense. Network analysis revealed that four network modules were functionally involved with the transcriptional network of innate immunity, and five modules were linked to adaptive immunity in PBMCs. The innate immune transcriptional network was found to be regulated by LCK, STAT3, ATP5B, UBB and RSP17. While TGF1, IL7R, PLOS ONE |
+1	392	402 peripheral	Phenotype	HP_0030646
+1	470	494 adaptive immune response	Gene_function	GO_0002250
+1	479	494 immune response	Gene_function	GO_0006955
+1	1080	1096 viral life cycle	Gene_function	GO_0019058
+1	1135	1152 cytokine activity	Gene_function	GO_0005125
+1	1157	1178 inflammatory response	Gene_function	GO_0006954
+1	1232	1260 T cell mediated cytotoxicity	Gene_function	GO_0001913
+1	1262	1276 immunoglobulin	Gene_function	GO_0003823
+1	1262	1287 immunoglobulin production	Gene_function	GO_0002377
+1	1415	1424 signaling	Gene_function	GO_0023052
+1	1442	1451 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0030646	GO_0002250
+1	HP-GO	HP_0030646	GO_0006955
+1	HP-GO	HP_0030646	GO_0019058
+1	HP-GO	HP_0030646	GO_0005125
+1	HP-GO	HP_0030646	GO_0006954
+1	HP-GO	HP_0030646	GO_0001913
+1	HP-GO	HP_0030646	GO_0003823
+1	HP-GO	HP_0030646	GO_0002377
+1	HP-GO	HP_0030646	GO_0023052
+

@@ -1,0 +1,66 @@
+0|chunk|The Golgi associated ERI3 is a Flavivirus host factor OPEN
+
+1|chunk|causes Dengue fever (DF), Dengue hemorrhagic Fever (DHF) or Dengue shock syndrome (DSS). An estimated 390 million people are at risk for infection with DENV and there are no effective vaccines or therapeutics. We utilized RNA chromatography coupled with quantitative mass spectrometry (qMS) to identify host RNA binding proteins (RBPs) that interact with DENV-2 RNA. We identified ERI3 (also PRNPIP and PINT1), a putative 3-5 RNA exonuclease, which preferentially associates with DENV-2 genomic RNA via interactions with dumbbell structures in the 3 UTR. ERI3 is required for accumulation of DENV-2 genomic RNA and production of infectious particles. Furthermore, the mosquito homologue of ERI3 is required for DENV-2 replication in adult Aedes aegypti mosquitos implying that the requirement for ERI3 is conserved in both DENV hosts. In human cells ERI3 localizes to the Golgi in uninfected cells, but relocalizes near sites of DENV-2 replication in infected cells. ERI3 is not required for maintaining DENV-2 RNA stability or translation of the viral polyprotein, but is required for viral RNA synthesis. Our results define a specific role for ERI3 and highlight the importance of Golgi proteins in DENV-2 replication.
+1	7	19 Dengue fever	Disease	DOID_12205
+1	26	50 Dengue hemorrhagic Fever	Disease	DOID_12206
+1	52	55 DHF	Disease	DOID_12206
+1	60	81 Dengue shock syndrome	Disease	DOID_0050125
+1	73	81 syndrome	Disease	DOID_225
+1	222	225 RNA	Chemical	CHEBI_33697
+1	308	311 RNA	Chemical	CHEBI_33697
+1	320	328 proteins	Chemical	CHEBI_36080
+1	362	365 RNA	Chemical	CHEBI_33697
+1	428	431 RNA	Chemical	CHEBI_33697
+1	497	500 RNA	Chemical	CHEBI_33697
+1	610	613 RNA	Chemical	CHEBI_33697
+1	1014	1017 RNA	Chemical	CHEBI_33697
+1	1095	1098 RNA	Chemical	CHEBI_33697
+1	1140	1144 role	Chemical	CHEBI_50906
+1	1192	1200 proteins	Chemical	CHEBI_36080
+1	DOID-CHEBI	DOID_12205	CHEBI_33697
+1	DOID-CHEBI	DOID_12205	CHEBI_36080
+1	DOID-CHEBI	DOID_12205	CHEBI_50906
+1	DOID-CHEBI	DOID_12206	CHEBI_33697
+1	DOID-CHEBI	DOID_12206	CHEBI_36080
+1	DOID-CHEBI	DOID_12206	CHEBI_50906
+1	DOID-CHEBI	DOID_0050125	CHEBI_33697
+1	DOID-CHEBI	DOID_0050125	CHEBI_36080
+1	DOID-CHEBI	DOID_0050125	CHEBI_50906
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_36080
+1	DOID-CHEBI	DOID_225	CHEBI_50906
+
+2|chunk|Dengue viruses (DENV), which are four mosquito-borne Flaviviruses distributed throughout the tropics, typically cause classical dengue fever (DF), but can also cause dengue hemorrhagic fever (DHF) or dengue shock syndrome (DSS) 1,2 . Other Flaviviruses include the Yellow fever virus (YFV), West Nile virus (WNV), the Japanese encephalitis virus (JEV), and Zika virus (ZIKV) 3 .
+2	118	134 classical dengue	Disease	DOID_12205
+2	166	190 dengue hemorrhagic fever	Disease	DOID_12206
+2	192	195 DHF	Disease	DOID_12206
+2	200	221 dengue shock syndrome	Disease	DOID_0050125
+2	213	221 syndrome	Disease	DOID_225
+2	223	226 DSS	Chemical	CHEBI_85362
+2	223	226 DSS	Disease	DOID_0050125
+2	265	277 Yellow fever	Disease	DOID_9682
+2	318	339 Japanese encephalitis	Disease	DOID_10844
+2	327	339 encephalitis	Disease	DOID_9588
+2	DOID-CHEBI	DOID_12205	CHEBI_85362
+2	DOID-CHEBI	DOID_12206	CHEBI_85362
+2	DOID-CHEBI	DOID_0050125	CHEBI_85362
+2	DOID-CHEBI	DOID_225	CHEBI_85362
+2	CHEBI-DOID	CHEBI_85362	DOID_9682
+2	CHEBI-DOID	CHEBI_85362	DOID_10844
+2	CHEBI-DOID	CHEBI_85362	DOID_9588
+
+3|chunk|The DENV genome is a capped, non-polyadenylated positive-strand RNA that encodes three structural proteins (C, prM and E) and seven nonstructural proteins (NS1, 2A, 2B, 3, 4A, 4B and 5) 3 . DENV proteins are translated as a single polyprotein that is cleaved by cellular and virus-encoded proteases to give rise to individual DENV proteins. Viral RNA replication is accomplished by the multifunctional proteins NS3 and NS5, which copy viral RNA into negative strand templates for subsequent rounds of positive strand RNA amplification. Nascent transcripts are utilized as templates for translation of viral proteins, packaged into newly assembled virions or degraded by cellular enzymes to generate the 3 UTR-derived subgenomic flaviviral RNA (sfRNA) 3,4 . Viral replication occurs in close association with intracellular membranes in part to conceal dsRNA replication intermediates, which can be detected by pattern recognition receptors (PRRs) and induce a strong innate immune response to infection 5,6 . While several studies suggest that these membranes are derived from the endoplasmic reticulum, the dynamics and precise composition of membranes that support DENV replication are not known 6,7 . Indeed, several studies using the Kunjin strain of WNV demonstrate that Golgi-derived membranes are recruited to replication sites 8, 9 . Host cell proteins that establish and maintain interactions between intracellular
+3	64	67 RNA	Chemical	CHEBI_33697
+3	98	106 proteins	Chemical	CHEBI_36080
+3	146	154 proteins	Chemical	CHEBI_36080
+3	195	203 proteins	Chemical	CHEBI_36080
+3	331	339 proteins	Chemical	CHEBI_36080
+3	347	350 RNA	Chemical	CHEBI_33697
+3	402	410 proteins	Chemical	CHEBI_36080
+3	441	444 RNA	Chemical	CHEBI_33697
+3	517	520 RNA	Chemical	CHEBI_33697
+3	607	615 proteins	Chemical	CHEBI_36080
+3	740	743 RNA	Chemical	CHEBI_33697
+3	852	857 dsRNA	Chemical	CHEBI_67208
+3	1352	1360 proteins	Chemical	CHEBI_36080
+

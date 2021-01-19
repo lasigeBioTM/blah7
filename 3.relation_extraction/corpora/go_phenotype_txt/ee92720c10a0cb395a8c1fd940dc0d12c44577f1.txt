@@ -1,0 +1,23 @@
+0|chunk|Counteraction of HCV-Induced Oxidative Stress Concurs to Establish Chronic Infection in Liver Cell Cultures
+0	29	45 Oxidative Stress	Phenotype	HP_0025464
+0	67	74 Chronic	Phenotype	HP_0011010
+0	67	84 Chronic Infection	Phenotype	HP_0031035
+
+1|chunk|Hepatitis C virus (HCV) is a blood-borne pathogen causing acute and chronic hepatitis. A significant number of people chronically infected with HCV develop cirrhosis and/or liver cancer. The pathophysiologic mechanisms of hepatocyte damage associated with chronic HCV infection are not fully understood yet, mainly due to the lack of an in vitro system able to recapitulate the stages of infection in vivo. Several studies underline that HCV virus replication depends on redox-sensitive cellular pathways; in addition, it is known that virus itself induces alterations of the cellular redox state. However, the exact interplay between HCV replication and oxidative stress has not been elucidated. In particular, the role of reduced glutathione (GSH) in HCV replication and infection is still not clear. We set up an in vitro system, based on low m.o.i. of Huh7.5 cell line with a HCV infectious clone (J6/JFH1), that reproduced the acute and persistent phases of HCV infection up to 76 days of culture. We demonstrated that the acute phase of HCV infection is characterized by the elevated levels of reactive oxygen species (ROS) associated in part with an increase of NADPH-oxidase transcripts and activity and a depletion of GSH accompanied by high rates of viral replication and apoptotic cell death. Conversely, the chronic phase is characterized by a reestablishment of reduced environment due to a decreased ROS production and increased GSH content in infected cells that might concur to the establishment of viral persistence. Treatment with the prooxidant auranofin of the persistently infected cultures induced the increase of viral RNA titer, suggesting that a prooxidant state could favor the reactivation of HCV viral replication that in turn caused cell damage and death. Our results suggest that targeting the redox-sensitive host-cells pathways essential for viral replication and/or persistence may represent a promising option for contrasting HCV infection.
+1	0	9 Hepatitis	Phenotype	HP_0012115
+1	58	63 acute	Phenotype	HP_0011009
+1	68	75 chronic	Phenotype	HP_0011010
+1	76	85 hepatitis	Phenotype	HP_0012115
+1	156	165 cirrhosis	Phenotype	HP_0001394
+1	256	263 chronic	Phenotype	HP_0011010
+1	655	671 oxidative stress	Phenotype	HP_0025464
+1	932	937 acute	Phenotype	HP_0011009
+1	1028	1033 acute	Phenotype	HP_0011009
+1	1282	1302 apoptotic cell death	Gene_function	GO_0006915
+1	1320	1327 chronic	Phenotype	HP_0011010
+1	HP-GO	HP_0012115	GO_0006915
+1	HP-GO	HP_0011009	GO_0006915
+1	HP-GO	HP_0011010	GO_0006915
+1	HP-GO	HP_0001394	GO_0006915
+1	HP-GO	HP_0025464	GO_0006915
+

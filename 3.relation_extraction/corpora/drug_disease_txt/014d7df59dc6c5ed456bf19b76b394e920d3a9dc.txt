@@ -1,0 +1,61 @@
+0|chunk|Entry of Scotophilus Bat Coronavirus-512 and Severe Acute Respiratory Syndrome Coronavirus in Human and Multiple Animal Cells
+0	45	78 Severe Acute Respiratory Syndrome	Disease	DOID_2945
+0	70	78 Syndrome	Disease	DOID_225
+
+1|chunk|Bats are natural reservoirs of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV). Scotophilus bat CoV-512 demonstrates potential for cross-species transmission because its viral RNA and specific antibodies have been detected in three bat species of Taiwan. Understanding the cell tropism of Scotophilus bat CoV-512 is the first step for studying the mechanism of cross-species transmission. In this study, a lentivirus-based pseudovirus was produced using the spike (S) protein of Scotophilus bat CoV-512 or SARS-CoV as a surface protein to test the interaction between coronaviral S protein and its cell receptor on 11 different cells. Susceptible cells expressed red fluorescence protein (RFP) after the entry of RFP-bound green fluorescence protein (GFP)-fused S protein of Scotophilus bat CoV-512 (RFP-Sco-S-eGFP) or RFP-SARS-S pseudovirus, and firefly luciferase (FLuc) activity expressed by cells infected with FLuc-Sco-S-eGFP or FLuc-SARS-S pseudovirus was quantified. Scotophilus bat CoV-512 pseudovirus had significantly higher entry efficiencies in Madin Darby dog kidney epithelial cells (MDCK), black flying fox brain cells (Pabr), and rat small intestine epithelial cells (IEC-6). SARS-CoV pseudovirus had significantly higher entry efficiencies in human embryonic kidney epithelial cells (HEK-293T), pig kidney epithelial cells (PK15), and MDCK cells. These findings demonstrated that Scotophilus bat CoV-512 had a broad host range for cross-species transmission like SARS-CoV.
+1	31	64 severe acute respiratory syndrome	Disease	DOID_2945
+1	56	64 syndrome	Disease	DOID_225
+1	92	124 Middle East respiratory syndrome	Disease	DOID_0080642
+1	116	124 syndrome	Disease	DOID_225
+1	237	240 RNA	Chemical	CHEBI_33697
+1	529	536 protein	Chemical	CHEBI_16541
+1	589	596 protein	Chemical	CHEBI_16541
+1	643	650 protein	Chemical	CHEBI_16541
+1	741	748 protein	Chemical	CHEBI_16541
+1	750	753 RFP	Chemical	CHEBI_28077
+1	803	810 protein	Chemical	CHEBI_16541
+1	825	832 protein	Chemical	CHEBI_16541
+1	DOID-CHEBI	DOID_2945	CHEBI_33697
+1	DOID-CHEBI	DOID_2945	CHEBI_16541
+1	DOID-CHEBI	DOID_2945	CHEBI_28077
+1	DOID-CHEBI	DOID_225	CHEBI_33697
+1	DOID-CHEBI	DOID_225	CHEBI_16541
+1	DOID-CHEBI	DOID_225	CHEBI_28077
+1	DOID-CHEBI	DOID_0080642	CHEBI_33697
+1	DOID-CHEBI	DOID_0080642	CHEBI_16541
+1	DOID-CHEBI	DOID_0080642	CHEBI_28077
+
+2|chunk|Bats are the natural reservoirs of SARS-CoV, MERS-CoV, and HCoV-NL63. SARS-CoV and HCoV-NL63 gain cellular entry through angiotensin-converting enzyme 2 (ACE2) [9], whereas MERS-CoV utilizes dipeptidyl peptidase-4 (DPP4) as its entry receptor [10] . The entry receptor is considered a hallmark of coronaviral cross-species transmissibility. SARS-related CoV isolated from Rhinolophus bats can use the ACE2 of humans, civets, and Rhinolophus bats as its cell receptor to infect cells originated from human and many other animal species [11] . Both MERS-CoV and bat CoV-HKU4 can use bat and human DPP4 to infect cells originating from humans, camels, bats, and other animal species [12, 13] and HCoV-NL63 can replicate in the lung cell line from tricolored bats [8] .
+
+3|chunk|Little information is available regarding cross-species events for animal CoVs. A previous study detected Scotophilus bat CoV-512 in four different bat species along with Miniopterus bat CoV-1A and Rhinolophus SARS-related CoV in Taiwan through the reverse transcription polymerase chain reaction (RT-PCR) [14] . Antibodies specific to the nucleocapsid (N) protein fragments of Scotophilus bat CoV-512 were detected in serum collected from three bat species, namely Scotophilus kuhlii, Miniopterus fuliginosus, and Rhinolophus monoceros [15]. A close relationship and possible gene recombinants between Scotophilus bat CoV-512 and PEDV were observed through sequence alignments [14, 16] . The results of the cell entry assay also indicated that PEDV can infect cells originating from pigs (PK15 and ST), humans (Huh-7 and MRC5), monkeys (Vero) and Tadarida brasiliensis bats (Tb1-Lu) [17] . We selected Scotophilus bat CoV-512 as our study target because it demonstrates the potential of cross-species infection and may play a role in the emergence or transmission of PEDV. Both molecular and serological evidences proved that Scotophilus bat CoV-512 can infect multiple animal species [14, 15] . To investigate host tropisms contributing to cross-species transmission of Scotophilus bat CoV-512, we produced a pseudovirus bearing the full-length spike (S) protein of Scotophilus bat CoV-512 in the envelope (Env) protein-defective, red fluorescence protein (RFP)-expression or luciferase (FLuc)-expression human immunodeficiency virus type 1 (HIV-1) backbone for performing a cell entry assay in 11 different cells from humans, bats, dogs, cats, pigs, rats, and monkeys.
+3	357	364 protein	Chemical	CHEBI_16541
+3	1027	1031 role	Chemical	CHEBI_50906
+3	1357	1364 protein	Chemical	CHEBI_16541
+3	1450	1457 protein	Chemical	CHEBI_16541
+
+4|chunk|Results
+
+5|chunk|Organs were prepared from individual bat and only primary kidney cells from one Eastern bent-winged bat (Miniopterus fuliginosus), named as MFK, were still viable after eight passages for performing a pseudovirus entry assay. Primary kidney cells from one Chestnut bat (Scotophilus kuhlii) and primary lung cells from one Formosa leaf-nosed bat (Hipposideros armiger terasensis) did not maintain their growth after three passages.
+
+6|chunk|Lentivirus pseudotyped with the green fluorescence protein (GFP)-fused S protein of Scotophilus bat CoV-512 (Sco-S-eGFP), the S protein of SARS-CoV (SARS-S) or the glycoprotein (G) of vesicular stomatitis virus (VSV-G) was generated to study the cell entry of viruses in 11 different cells. The pseudovirus without the glycoprotein on the surface ( env) was produced as the control of mock infection. The generated pseudoviruses allowed for a single-cycle infection in different cells. After pseudoviruses carrying the transfer plasmid encoding red fluorescent protein (RFP) entered susceptible cells, RFP was expressed and observed under a microscope at 48 h post infection (hpi). Pseudoviruses carrying the transfer plasmid encoding luciferase (FLuc) were generated to quantify the entry efficiencies of pseudoviruses in susceptible cells by measuring luciferase activity at 48 hpi.
+6	51	58 protein	Chemical	CHEBI_16541
+6	73	80 protein	Chemical	CHEBI_16541
+6	128	135 protein	Chemical	CHEBI_16541
+6	164	176 glycoprotein	Chemical	CHEBI_17089
+6	194	204 stomatitis	Disease	DOID_9637
+6	319	331 glycoprotein	Chemical	CHEBI_17089
+6	561	568 protein	Chemical	CHEBI_16541
+6	570	573 RFP	Chemical	CHEBI_28077
+6	602	605 RFP	Chemical	CHEBI_28077
+6	CHEBI-DOID	CHEBI_16541	DOID_9637
+6	CHEBI-DOID	CHEBI_17089	DOID_9637
+6	DOID-CHEBI	DOID_9637	CHEBI_28077
+
+7|chunk|To generate pseudotyped Scotophilus bat CoV-512 (RFP-Sco-S-eGFP), SARS-CoV (RFP-SARS-S), and VSV (RFP-VSV-G), three plasmids were co-transfected into human embryonic kidney epithelial cells (HEK-293T) cells. After 72 h post co-transfection with the packing plasmid (pCMVdeltaR8.91), Pathogens 2019, 8, 259 3 of 21
+
+8|chunk|transfer plasmid (pLAS2w.RFP-C.Pneo), and plasmid encoding the surface protein (pEGFP-Sco-S, pCMV-SARS-S, and pMD.G), red fluorescence from the expressed RFP was observed in HEK-293T cells producing the RFP-Sco-S-eGFP, RFP-SARS-S, or RFP-VSV-G pseudoviruses. Green fluorescence from the expressed GFP fused with the carboxyl terminal S protein of Scotophilus bat CoV-512 could be observed only in HEK-293T cells producing the RFP-Sco-S-eGFP pseudovirus (Figure 1) . No fluorescence could be observed in HEK-293T cells producing the FLuc-SARS-S or FLuc-VSV-G pseudovirus carrying the transfer plasmid (pLAS2w-Fluc-Ppuro) encoding luciferase. Green fluorescence from the expressed GFP fused to the S protein of Scotophilus bat CoV-512 could be observed in HEK-293T cells producing the FLuc-Sco-S-eGFP pseudovirus.
+8	71	78 protein	Chemical	CHEBI_16541
+8	154	157 RFP	Chemical	CHEBI_28077
+8	336	343 protein	Chemical	CHEBI_16541
+8	698	705 protein	Chemical	CHEBI_16541
+

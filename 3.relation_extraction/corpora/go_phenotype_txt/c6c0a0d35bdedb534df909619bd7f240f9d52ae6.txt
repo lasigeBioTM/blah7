@@ -1,0 +1,45 @@
+0|chunk|The Nairovirus Nairobi Sheep Disease Virus/Ganjam Virus Induces the Translocation of Protein Disulphide Isomerase-Like Oxidoreductases from the Endoplasmic Reticulum to the Cell Surface and the Extracellular Space
+0	144	165 Endoplasmic Reticulum	Gene_function	GO_0005783
+0	173	185 Cell Surface	Gene_function	GO_0009986
+0	194	207 Extracellular	Gene_function	GO_0005576
+0	194	213 Extracellular Space	Gene_function	GO_0005615
+
+1|chunk|Nairobi sheep disease virus (NSDV) of the genus Nairovirus causes a haemorrhagic gastroenteritis in sheep and goats with mortality up to 90%; the virus is found in East and Central Africa, and in India, where the virus is called Ganjam virus. NSDV is closely related to the human pathogen Crimean-Congo haemorrhagic fever virus, which also causes a haemorrhagic disease. As with other nairoviruses, replication of NSDV takes place in the cytoplasm and the new virus particles bud into the Golgi apparatus; however, the effect of viral replication on cellular compartments has not been studied extensively. We have found that the overall structure of the endoplasmic reticulum (ER), the ER-Golgi intermediate compartment and the Golgi were unaffected by infection with NSDV. However, we observed that NSDV infection led to the loss of protein disulphide isomerase (PDI), an oxidoreductase present in the lumen of the endoplasmic reticulum (ER) and which assists during protein folding, from the ER. Further investigation showed that NSDV-infected cells have high levels of PDI at their surface, and PDI is also secreted into the culture medium of infected cells. Another chaperone from the PDI family, ERp57, was found to be similarly affected. Analysis of infected cells and expression of individual viral glycoproteins indicated that the NSDV PreGn glycoprotein is involved in redistribution of these soluble ER oxidoreductases. It has been suggested that extracellular PDI can activate integrins and tissue factor, which are involved respectively in pro-inflammatory responses and disseminated intravascular coagulation, both of which manifest in many viral haemorrhagic fevers. The discovery of enhanced PDI secretion from NSDV-infected cells may be an important finding for understanding the mechanisms underlying the pathogenicity of haemorrhagic nairoviruses. Citation: Lasecka L, Baron MD (2014) The Nairovirus Nairobi Sheep Disease Virus/Ganjam Virus Induces the Translocation of Protein Disulphide Isomerase-Like Oxidoreductases from the Endoplasmic Reticulum to the Cell Surface and the Extracellular Space. PLoS ONE 9(4): e94656.
+1	173	180 Central	Phenotype	HP_0030645
+1	316	321 fever	Phenotype	HP_0001945
+1	438	447 cytoplasm	Gene_function	GO_0005737
+1	654	675 endoplasmic reticulum	Gene_function	GO_0005783
+1	686	719 ER-Golgi intermediate compartment	Gene_function	GO_0005793
+1	739	749 unaffected	Phenotype	HP_0032321
+1	916	937 endoplasmic reticulum	Gene_function	GO_0005783
+1	1457	1470 extracellular	Gene_function	GO_0005576
+1	1583	1621 disseminated intravascular coagulation	Phenotype	HP_0005521
+1	1711	1720 secretion	Gene_function	GO_0046903
+1	2047	2068 Endoplasmic Reticulum	Gene_function	GO_0005783
+1	2076	2088 Cell Surface	Gene_function	GO_0009986
+1	2097	2110 Extracellular	Gene_function	GO_0005576
+1	HP-GO	HP_0030645	GO_0005737
+1	HP-GO	HP_0030645	GO_0005783
+1	HP-GO	HP_0030645	GO_0005793
+1	HP-GO	HP_0030645	GO_0005576
+1	HP-GO	HP_0030645	GO_0046903
+1	HP-GO	HP_0030645	GO_0009986
+1	HP-GO	HP_0001945	GO_0005737
+1	HP-GO	HP_0001945	GO_0005783
+1	HP-GO	HP_0001945	GO_0005793
+1	HP-GO	HP_0001945	GO_0005576
+1	HP-GO	HP_0001945	GO_0046903
+1	HP-GO	HP_0001945	GO_0009986
+1	GO-HP	GO_0005737	HP_0032321
+1	GO-HP	GO_0005737	HP_0005521
+1	GO-HP	GO_0005783	HP_0032321
+1	GO-HP	GO_0005783	HP_0005521
+1	GO-HP	GO_0005793	HP_0032321
+1	GO-HP	GO_0005793	HP_0005521
+1	HP-GO	HP_0032321	GO_0005576
+1	HP-GO	HP_0032321	GO_0046903
+1	HP-GO	HP_0032321	GO_0009986
+1	GO-HP	GO_0005576	HP_0005521
+1	HP-GO	HP_0005521	GO_0046903
+1	HP-GO	HP_0005521	GO_0009986
+

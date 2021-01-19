@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989">
+  <chunk id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0" text="BMC Medical Genomics Identification and validation of suitable endogenous reference genes for gene expression studies in human peripheral blood">
+    <entity charOffset="94-109" id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0.e0" ontology_id="GO_0010467" text="gene expression" type="gene_function"/>
+    <entity charOffset="127-137" id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0.e1" ontology_id="HP_0030646" text="peripheral" type="phenotype"/>
+    <pair e1="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0.e0" e2="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0.e1" id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c0.p0" relation="true"/>
+  </chunk>
+  <chunk id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c1" text="Background: Gene expression studies require appropriate normalization methods. One such method uses stably expressed reference genes. Since suitable reference genes appear to be unique for each tissue, we have identified an optimal set of the most stably expressed genes in human blood that can be used for normalization.">
+    <entity charOffset="12-27" id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c1.e0" ontology_id="GO_0010467" text="Gene expression" type="gene_function"/>
+  </chunk>
+  <chunk id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c2" text="Methods: Whole-genome Affymetrix Human 2.0 Plus arrays were examined from 526 samples of males and females ages 2 to 78, including control subjects and patients with Tourette syndrome, stroke, migraine, muscular dystrophy, and autism. The top 100 most stably expressed genes with a broad range of expression levels were identified. To validate the best candidate genes, we performed quantitative RT-PCR on a subset of 10 genes (TRAP1, DECR1, FPGS, FARP1, MAPRE2, PEX16, GINS2, CRY2, CSNK1G2 and A4GALT), 4 commonly employed reference genes (GAPDH, ACTB, B2M and HMBS) and PPIB, previously reported to be stably expressed in blood. Expression stability and ranking analysis were performed using GeNorm and NormFinder algorithms."/>
+  <chunk id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c3" text="Reference genes were ranked based on their expression stability and the minimum number of genes needed for nomalization as calculated using GeNorm showed that the fewest, most stably expressed genes needed for acurate normalization in RNA expression studies of human whole blood is a combination of TRAP1, FPGS, DECR1 and PPIB. We confirmed the ranking of the best candidate control genes by using an alternative algorithm (NormFinder)."/>
+  <chunk id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c4" text="The reference genes identified in this study are stably expressed in whole blood of humans of both genders with multiple disease conditions and ages 2 to 78. Importantly, they also have different functions within cells and thus should be expressed independently of each other. These genes should be useful as normalization genes for microarray and RT-PCR whole blood studies of human physiology, metabolism and disease.">
+    <entity charOffset="396-406" id="4d7ed140eb8fb2b02900f7ed3ad33e99dc438989.c4.e0" ontology_id="GO_0008152" text="metabolism" type="gene_function"/>
+  </chunk>
+</document>

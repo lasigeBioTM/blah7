@@ -1,0 +1,25 @@
+0|chunk|Multiplexed Component Analysis to Identify Genes Contributing to the Immune Response during Acute SIV Infection
+0	69	84 Immune Response	Gene_function	GO_0006955
+0	92	97 Acute	Phenotype	HP_0011009
+0	GO-HP	GO_0006955	HP_0011009
+
+1|chunk|Immune response genes play an important role during acute HIV and SIV infection. Using an SIV macaque model of AIDS and CNS disease, our overall goal was to assess how the expression of genes associated with immune and inflammatory responses are longitudinally changed in different organs or cells during SIV infection. To compare RNA expression of a panel of 88 immune-related genes across time points and among three tissuesspleen, mesenteric lymph nodes (MLN) and peripheral blood mononuclear cells (PBMC)we designed a set of Nanostring probes. To identify significant genes during acute SIV infection and to investigate whether these genes are tissue-specific or have global roles, we introduce a novel multiplexed component analysis (MCA) method. This combines multivariate analysis methods with multiple preprocessing methods to create a set of 12 "judges"; each judge emphasizes particular types of change in gene expression to which cells could respond, for example, the absolute or relative size of expression change from baseline. Compared to bivariate analysis methods, our MCA method improved classification rates. This analysis allows us to identify three categories of genes: (a) consensus genes likely to contribute highly to the immune response; (b) genes that would contribute highly to the immune response only if certain assumptions are mete.g. that the cell responds to relative expression change rather than absolute expression change; and (c) genes whose contribution to immune response appears to be modest. We then compared the results across the three tissues of interest; some genes are consistently highly-contributing in all tissues, while others are specific for certain tissues. Our analysis identified CCL8, CXCL10, CXCL11, MxA, OAS2, and OAS1 as top contributing genes, all of which are stimulated by type I interferon. This suggests that the cytokine storm during acute SIV infection is a systemic innate immune response against viral replication. Furthermore, these genes have approximately equal contributions to all tissues, making them possible candidates to be used as non-invasive biomarkers in studying PBMCs instead of MLN and spleen during acute SIV infection experiments. We identified clusters of genes that co-vary together and studied their correlation with regard to other gene clusters. We also developed novel methods to faithfully PLOS ONE |
+1	0	15 Immune response	Gene_function	GO_0006955
+1	52	57 acute	Phenotype	HP_0011009
+1	467	477 peripheral	Phenotype	HP_0030646
+1	585	590 acute	Phenotype	HP_0011009
+1	916	931 gene expression	Gene_function	GO_0010467
+1	1245	1260 immune response	Gene_function	GO_0006955
+1	1308	1323 immune response	Gene_function	GO_0006955
+1	1493	1508 immune response	Gene_function	GO_0006955
+1	1897	1902 acute	Phenotype	HP_0011009
+1	1931	1953 innate immune response	Gene_function	GO_0045087
+1	1938	1953 immune response	Gene_function	GO_0006955
+1	2182	2187 acute	Phenotype	HP_0011009
+1	GO-HP	GO_0006955	HP_0011009
+1	GO-HP	GO_0006955	HP_0030646
+1	HP-GO	HP_0011009	GO_0010467
+1	HP-GO	HP_0011009	GO_0045087
+1	HP-GO	HP_0030646	GO_0010467
+1	HP-GO	HP_0030646	GO_0045087
+

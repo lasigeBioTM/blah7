@@ -1,0 +1,24 @@
+0|chunk|Comprehensive Interactome Analysis Reveals that STT3B Is Required for N-Glycosylation of Lassa Virus Glycoprotein
+
+1|chunk|Lassa virus (LASV) is the causative agent of a fatal hemorrhagic fever in humans. The glycoprotein (GP) of LASV mediates viral entry into host cells, and correct processing and modification of GP by host factors is a prerequisite for virus replication. Here, using an affinity purification-coupled mass spectrometry (AP-MS) strategy, 591 host proteins were identified as interactors of LASV GP. Gene ontology analysis was performed to functionally annotate these proteins, and the oligosaccharyltransferase (OST) complex was highly enriched. Functional studies conducted by using CRISPR-Cas9-mediated knockouts showed that STT3A and STT3B, the two catalytically active isoforms of the OST complex, are essential for the propagation of the recombinant arenavirus rLCMV/LASV glycoprotein precursor, mainly via affecting virus infectivity. Knockout of STT3B, but not STT3A, caused hypoglycosylation of LASV GP, indicating a preferential requirement of LASV for the STT3B-OST isoform. Furthermore, double knockout of magnesium transporter 1 (MAGT1) and tumor suppressor candidate 3 (TUSC3), two specific subunits of STT3B-OST, also caused hypoglycosylation of LASV GP and affected virus propagation. Site-directed mutagenesis analysis revealed that the oxidoreductase CXXC active-site motif of MAGT1 or TUSC3 is essential for the glycosylation of LASV GP. NGI-1, a small-molecule OST inhibitor, can effectively reduce virus infectivity without affecting cell viability. The STT3Bdependent N-glycosylation of GP is conserved among other arenaviruses, including both the Old World and New World groups. Our study provided a systematic view of LASV GP-host interactions and revealed the preferential requirement of STT3B for LASV GP N-glycosylation. IMPORTANCE Glycoproteins play vital roles in the arenavirus life cycle by facilitating virus entry and participating in the virus budding process. N-glycosylation of GPs is responsible for their proper functioning; however, little is known about the host factors on which the virus depends for this process. In this study, a comprehensive LASV GP interactome was characterized, and further study revealed that STT3Bdependent N-glycosylation was preferentially required by arenavirus GPs and critical for virus infectivity. The two specific thioredoxin subunits of STT3B-OST MAGT1 and TUSC3 were found to be essential for the N-glycosylation of viral GP. NGI-1, a smallmolecule inhibitor of OST, also showed a robust inhibitory effect on arenavirus. Our study provides new insights into LASV GP-host interactions and extends the potential targets for the development of novel therapeutics against Lassa fever in the future.
+1	65	70 fever	Phenotype	HP_0001945
+1	685	696 OST complex	Gene_function	GO_0008250
+1	1049	1054 tumor	Phenotype	HP_0002664
+1	1049	1065 tumor suppressor	Gene_function	GO_0051726
+1	1168	1176 affected	Phenotype	HP_0032320
+1	1326	1339 glycosylation	Gene_function	GO_0070085
+1	1867	1880 virus budding	Gene_function	GO_0046755
+1	2645	2650 fever	Phenotype	HP_0001945
+1	HP-GO	HP_0001945	GO_0008250
+1	HP-GO	HP_0001945	GO_0051726
+1	HP-GO	HP_0001945	GO_0070085
+1	HP-GO	HP_0001945	GO_0046755
+1	GO-HP	GO_0008250	HP_0002664
+1	GO-HP	GO_0008250	HP_0032320
+1	HP-GO	HP_0002664	GO_0051726
+1	HP-GO	HP_0002664	GO_0070085
+1	HP-GO	HP_0002664	GO_0046755
+1	GO-HP	GO_0051726	HP_0032320
+1	HP-GO	HP_0032320	GO_0070085
+1	HP-GO	HP_0032320	GO_0046755
+

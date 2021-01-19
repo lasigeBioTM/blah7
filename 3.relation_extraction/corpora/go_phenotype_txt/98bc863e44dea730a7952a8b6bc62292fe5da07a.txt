@@ -1,0 +1,32 @@
+0|chunk|Viral Infection Is Not Uncommon in Adult Patients with Severe Hospital-Acquired Pneumonia
+0	0	15 Viral Infection	Gene_function	GO_0016032
+0	55	61 Severe	Phenotype	HP_0012828
+0	80	89 Pneumonia	Phenotype	HP_0002090
+0	GO-HP	GO_0016032	HP_0012828
+0	GO-HP	GO_0016032	HP_0002090
+
+1|chunk|Background: Viral pathogens have not generally been regarded as important causes of severe hospital-acquired pneumonia (HAP), except in patients with hematologic malignancy or transplant recipients. We investigated the role and distribution of viruses in adult with severe HAP who required intensive care.
+1	84	90 severe	Phenotype	HP_0012828
+1	109	118 pneumonia	Phenotype	HP_0002090
+1	266	272 severe	Phenotype	HP_0012828
+
+2|chunk|Methods: From March 2010 to February 2012, adult patients with severe HAP required admission to the intensive care unit (ICU), 28-bed medical ICU in a tertiary care hospital, were prospectively enrolled. Respiratory viruses were detected using multiplex reverse-transcription polymerase chain reaction and/or shell vial culture.
+2	63	69 severe	Phenotype	HP_0012828
+
+3|chunk|Results: A total of 262 patients were enrolled and 107 patients (40.8%) underwent bronchoscopic BAL for etiologic diagnosis. One hundred and fifty-six patients (59.5%) had bacterial infections and 59 patients (22.5%) had viral infections. Viruses were detected in BAL fluid specimens of 37 patients (62.7%, 37/59). The most commonly identified viruses were respiratory syncytial virus and parainfluenza virus (both 27.1%, 16/59), followed by rhinovirus (25.4%, 15/59), and influenza virus (16.9%, 10/59). Twenty-one patients (8.0%, 21/262) had bacterial-viral coinfections and Staphylococcus aureus was the most commonly coexisting bacteria (n = 10). Viral infection in non-immunocompromised patients was not uncommon (11.1%, 16/143), although it was not as frequent as that in immunocompromised patients (36.4%, 43/119). Nonimmunocompromised patients were significantly older than immunocompromised patients and had significantly higher rates of underlying chronic obstructive pulmonary disease, tuberculous destroyed lung and chronic kidney disease. The 28 day mortalities of patients with bacterial infections, viral infections and bacterial-viral coinfections were not significantly different (29.5%, 35.6% and 19.0%, respectively; p = 0.321).
+3	651	666 Viral infection	Gene_function	GO_0016032
+3	758	766 frequent	Phenotype	HP_0040282
+3	958	965 chronic	Phenotype	HP_0011010
+3	958	995 chronic obstructive pulmonary disease	Phenotype	HP_0006510
+3	1028	1035 chronic	Phenotype	HP_0011010
+3	1028	1050 chronic kidney disease	Phenotype	HP_0012622
+3	GO-HP	GO_0016032	HP_0040282
+3	GO-HP	GO_0016032	HP_0011010
+3	GO-HP	GO_0016032	HP_0006510
+3	GO-HP	GO_0016032	HP_0012622
+
+4|chunk|Conclusions: Viral pathogens are not uncommon in adult patients with severe HAP who required ICU admission. Since viral pathogens may cause severe HAP and could be a potential source of viral transmission, further investigation is required to delineate the role of viral pathogens in severe HAP.
+4	69	75 severe	Phenotype	HP_0012828
+4	140	146 severe	Phenotype	HP_0012828
+4	284	290 severe	Phenotype	HP_0012828
+

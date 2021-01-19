@@ -1,0 +1,13 @@
+0|chunk|Theoretical Biology and Medical Modelling
+
+1|chunk|The spread of infectious disease is determined by biological factors, e.g. the duration of the infectious period, and social factors, e.g. the arrangement of potentially contagious contacts. Repetitiveness and clustering of contacts are known to be relevant factors influencing the transmission of droplet or contact transmitted diseases. However, we do not yet completely know under what conditions repetitiveness and clustering should be included for realistically modelling disease spread.
+1	14	32 infectious disease	Disease	DOID_0050117
+1	25	32 disease	Disease	DOID_4
+1	477	484 disease	Disease	DOID_4
+
+2|chunk|We compare two different types of individual-based models: One assumes random mixing without repetition of contacts, whereas the other assumes that the same contacts repeat day-by-day. The latter exists in two variants, with and without clustering. We systematically test and compare how the total size of an outbreak differs between these model types depending on the key parameters transmission probability, number of contacts per day, duration of the infectious period, different levels of clustering and varying proportions of repetitive contacts.
+
+3|chunk|The simulation runs under different parameter constellations provide the following results: The difference between both model types is highest for low numbers of contacts per day and low transmission probabilities. The number of contacts and the transmission probability have a higher influence on this difference than the duration of the infectious period. Even when only minor parts of the daily contacts are repetitive and clustered can there be relevant differences compared to a purely random mixing model.
+
+4|chunk|We show that random mixing models provide acceptable estimates of the total outbreak size if the number of contacts per day is high or if the per-contact transmission probability is high, as seen in typical childhood diseases such as measles. In the case of very short infectious periods, for instance, as in Norovirus, models assuming repeating contacts will also behave similarly as random mixing models. If the number of daily contacts or the transmission probability is low, as assumed for MRSA or Ebola, particular consideration should be given to the actual structure of potentially contagious contacts when designing the model.
+

@@ -1,0 +1,16 @@
+0|chunk|The discriminative capacity of soluble Toll-like receptor (sTLR)2 and sTLR4 in inflammatory diseases
+
+1|chunk|Background: The extracellular domains of cytokine receptors are released during inflammation, but little is known about the shedding of Toll-like receptors (TLR) and whether they can be used as diagnostic biomarkers. Methods: The release of sTLR2 and sTLR4 was studied in in-vitro stimulations, as well as in-vivo during experimental human endotoxemia (n = 11, 2 ng/kg LPS), and in plasma of 394 patients with infections (infectious mononucleosis, measles, respiratory tract infections, bacterial sepsis and candidemia) or non-infectious inflammation (Crohn's disease, gout, rheumatoid arthritis, autoinflammatory syndromes and pancreatitis). Using C-statistics, the value of sTLR2 and sTLR4 levels for discrimination between infections and non-infectious inflammatory diseases, as well as between viral and bacterial infections was analyzed. Results: In-vitro, peripheral blood mononuclear cells released sTLR2 and sTLR4 by exposure to microbial ligands. During experimental human endotoxemia, plasma concentrations peaked after 2 hours (sTLR4) and 4 hours (sTLR2). sTLR4 did not correlate with cytokines, but sTLR2 correlated positively with TNF (r s = 0.80, P < 0.05), IL-6 (r s = 0.65, P < 0.05), and IL-1Ra (r s = 0.57, P = 0.06), and negatively with IL-10 (r s = -0.58, P = 0.06), respectively. sTLR4 had a similar area under the ROC curve [AUC] for differentiating infectious and non-infectious inflammation compared to CRP: 0.72 (95% CI 0.66-0.79) versus 0.74 (95% CI 0.69-0.80) [P = 0.80], while sTLR2 had a lower AUC: 0.60 (95% CI 0.54-0.66) [P = 0.0004]. CRP differentiated bacterial infections better from viral infections than sTLR2 and sTLR4: AUC 0.94 (95% CI 0.90-0.96) versus 0.58 (95% CI 0.51-0.64) and 0.75 (95% CI 0.70-0.80), respectively [P < 0.0001 for both]. Conclusions: sTLRs are released into the circulation, and suggest the possibility to use sTLRs as diagnostic tool in inflammatory conditions.
+1	16	29 extracellular	Gene_function	GO_0005576
+1	497	503 sepsis	Phenotype	HP_0100806
+1	862	872 peripheral	Phenotype	HP_0030646
+1	GO-HP	GO_0005576	HP_0100806
+1	GO-HP	GO_0005576	HP_0030646
+
+2|chunk|Figure 5 ROC curves of CRP, sTLR2 and sTLR4 for the comparison between patients with infections and non-infectious inflammation (left panel) and between patients with a bacterial and viral infection (right panel). AUCs are shown between brackets. P-values indicate the comparison of the AUC of sTLR2, sTLR4 and CRP. ten Oever et al. BMC Immunology 2014, 15:55
+2	129	133 left	Phenotype	HP_0012835
+2	183	198 viral infection	Gene_function	GO_0016032
+2	200	205 right	Phenotype	HP_0012834
+2	HP-GO	HP_0012835	GO_0016032
+2	GO-HP	GO_0016032	HP_0012834
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="2890249daa0601affd680a8aadee19b50ed2044d">
+  <chunk id="2890249daa0601affd680a8aadee19b50ed2044d.c0" text="Kinome-Wide siRNA Screening Identifies Src-Enhanced Resistance of Chemotherapeutic Drugs in Triple-Negative Breast Cancer Cells">
+    <entity charOffset="108-121" id="2890249daa0601affd680a8aadee19b50ed2044d.c0.e0" ontology_id="HP_0003002" text="Breast Cancer" type="phenotype"/>
+    <entity charOffset="115-121" id="2890249daa0601affd680a8aadee19b50ed2044d.c0.e1" ontology_id="HP_0002664" text="Cancer" type="phenotype"/>
+  </chunk>
+  <chunk id="2890249daa0601affd680a8aadee19b50ed2044d.c1" text="Background: Chemotherapy is the main treatment for triple-negative breast cancer (TNBC), which lack molecular markers for diagnosis and therapy. Cancer cells activate chemoresistant pathways and lead to therapeutic failure for patients with TNBC. Several kinases have been identified as chemoresistant genes. However, the involvement of kinases in the chemoresistance in TNBC cells is not fully understood.">
+    <entity charOffset="67-80" id="2890249daa0601affd680a8aadee19b50ed2044d.c1.e0" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="74-80" id="2890249daa0601affd680a8aadee19b50ed2044d.c1.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="145-151" id="2890249daa0601affd680a8aadee19b50ed2044d.c1.e2" ontology_id="HP_0002664" text="Cancer" type="phenotype"/>
+  </chunk>
+  <chunk id="2890249daa0601affd680a8aadee19b50ed2044d.c2" text="We employed a kinome siRNA library to screen whether targeting any kinases could increase the chemosensitivity of TNBC cell lines. The effects of kinase on cell viability in various breast cancer cells were validated with ATP level and colony formation. Protein expression and phosphorylation were determined by immunoblotting. The Cancer Genome Atlas (TCGA) dataset was collected to analyze the correlation of Src expression with prognosis of TNBC patients.">
+    <entity charOffset="182-195" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.e0" ontology_id="HP_0003002" text="breast cancer" type="phenotype"/>
+    <entity charOffset="189-195" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.e1" ontology_id="HP_0002664" text="cancer" type="phenotype"/>
+    <entity charOffset="277-292" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.e2" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="332-338" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.e3" ontology_id="HP_0002664" text="Cancer" type="phenotype"/>
+    <pair e1="2890249daa0601affd680a8aadee19b50ed2044d.c2.e0" e2="2890249daa0601affd680a8aadee19b50ed2044d.c2.e2" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.p0" relation="true"/>
+    <pair e1="2890249daa0601affd680a8aadee19b50ed2044d.c2.e1" e2="2890249daa0601affd680a8aadee19b50ed2044d.c2.e2" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.p1" relation="true"/>
+    <pair e1="2890249daa0601affd680a8aadee19b50ed2044d.c2.e2" e2="2890249daa0601affd680a8aadee19b50ed2044d.c2.e3" id="2890249daa0601affd680a8aadee19b50ed2044d.c2.p2" relation="true"/>
+  </chunk>
+  <chunk id="2890249daa0601affd680a8aadee19b50ed2044d.c3" text="Results: Primary screening and validation for the initial hits showed that Src kinase was a potential doxorubicin-resistant kinase in the TNBC cell lines MDA-MB-231 and Hs578T. Both siRNA against Src and the Src inhibitor dasatinib enhanced the cytotoxic effects of doxorubicin in TNBC cells. Moreover, phosphorylation of AKT and signal transducer and activator of transcription 3 (STAT3), downstream effectors of Src, were accordingly decreased in Src-silenced or -inhibited TNBC cells. Additionally, TCGA data analysis indicated that Src expression levels in tumor tissues were higher than those in tumor-adjacent normal tissues in patients with TNBC. High co-expression level of Src and STAT3 was also significantly correlated with poor prognosis in patients.">
+    <entity charOffset="303-318" id="2890249daa0601affd680a8aadee19b50ed2044d.c3.e0" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <entity charOffset="561-566" id="2890249daa0601affd680a8aadee19b50ed2044d.c3.e1" ontology_id="HP_0002664" text="tumor" type="phenotype"/>
+    <pair e1="2890249daa0601affd680a8aadee19b50ed2044d.c3.e0" e2="2890249daa0601affd680a8aadee19b50ed2044d.c3.e1" id="2890249daa0601affd680a8aadee19b50ed2044d.c3.p0" relation="true"/>
+  </chunk>
+  <chunk id="2890249daa0601affd680a8aadee19b50ed2044d.c4" text="Our results showed that Src-STAT3 axis might be involved in chemoresistance of TNBC cells."/>
+</document>

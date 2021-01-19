@@ -1,0 +1,24 @@
+0|chunk|Intranasally Administered Antigen 85B Gene Vaccine in Non-Replicating Human Parainfluenza Type 2 Virus Vector Ameliorates Mouse Atopic Dermatitis
+0	128	145 Atopic Dermatitis	Phenotype	HP_0001047
+0	135	145 Dermatitis	Phenotype	HP_0011123
+
+1|chunk|Atopic dermatitis (AD) is a refractory and recurrent inflammatory skin disease. Various factors including heredity, environmental agent, innate and acquired immunity, and skin barrier function participate in the pathogenesis of AD. Thelper (Th) 2-dominant immunological milieu has been suggested in the acute phase of AD. Antigen 85B (Ag85B) is a 30-kDa secretory protein well conserved in Mycobacterium species. Ag85B has strong Th1-type cytokine inducing activity, and is expected to ameliorate Th2 condition in allergic disease. To perform Ag85B function in vivo, effective and less invasive vaccination method is required. Recently, we have established a novel functional virus vector; recombinant human parainfluenza type 2 virus vector (rhPIV2): highly expressive, replication-deficient, and very low-pathogenic vector. In this study, we investigated the efficacy of rhPIV2 engineered to express Ag85B (rhPIV2/Ag85B) in a mouse AD model induced by repeated oxazolone (OX) challenge. Ear swelling, dermal cell infiltrations and serum IgE level were significantly suppressed in the rhPIV2/Ag85B treated mouse group accompanied with elevated IFN-c and IL-10 mRNA expressions, and suppressed IL-4, TNF-a and MIP-2 mRNA expressions. The treated mice showed no clinical symptom of croup or systemic adverse reactions. The respiratory tract epithelium captured rhPIV2 effectively without remarkable cytotoxic effects. These results suggested that rhPIV2/Ag85B might be a potent therapeutic tool to control allergic disorders.
+1	0	17 Atopic dermatitis	Phenotype	HP_0001047
+1	7	17 dermatitis	Phenotype	HP_0011123
+1	28	38 refractory	Phenotype	HP_0031375
+1	43	52 recurrent	Phenotype	HP_0031796
+1	53	78 inflammatory skin disease	Phenotype	HP_0011123
+1	171	192 skin barrier function	Gene_function	GO_0033561
+1	212	224 pathogenesis	Gene_function	GO_0009405
+1	303	308 acute	Phenotype	HP_0011009
+1	HP-GO	HP_0001047	GO_0033561
+1	HP-GO	HP_0001047	GO_0009405
+1	HP-GO	HP_0011123	GO_0033561
+1	HP-GO	HP_0011123	GO_0009405
+1	HP-GO	HP_0031375	GO_0033561
+1	HP-GO	HP_0031375	GO_0009405
+1	HP-GO	HP_0031796	GO_0033561
+1	HP-GO	HP_0031796	GO_0009405
+1	GO-HP	GO_0033561	HP_0011009
+1	GO-HP	GO_0009405	HP_0011009
+

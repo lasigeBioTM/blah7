@@ -1,0 +1,12 @@
+0|chunk|Free-Form Deformation Approach for Registration of Visible and Infrared Facial Images in Fever Screening 
+
+1|chunk|Fever screening based on infrared (IR) thermographs (IRTs) is an approach that has been implemented during infectious disease pandemics, such as Ebola and Severe Acute Respiratory Syndrome. A recently published international standard indicates that regions medially adjacent to the inner canthi provide accurate estimates of core body temperature and are preferred sites for fever screening. Therefore, rapid, automated identification of the canthi regions within facial IR images may greatly facilitate rapid fever screening of asymptomatic travelers. However, it is more difficult to accurately identify the canthi regions from IR images than from visible images that are rich with exploitable features. In this study, we developed and evaluated techniques for multi-modality image registration (MMIR) of simultaneously captured visible and IR facial images for fever screening. We used free form deformation (FFD) models based on edge maps to improve registration accuracy after an affine transformation. Two widely used FFD models in medical image registration based on the Demons and cubic B-spline algorithms were qualitatively compared. The results showed that the Demons algorithm outperformed the cubic B-spline algorithm, likely due to overfitting of outliers by the latter method. The quantitative measure of registration accuracy, obtained through selected control point correspondence, was within 2.8  1.2 mm, which enables accurate and automatic localization of canthi regions in the IR images for temperature measurement.
+1	107	125 infectious disease	Disease	DOID_0050117
+1	118	125 disease	Disease	DOID_4
+1	155	188 Severe Acute Respiratory Syndrome	Disease	DOID_2945
+1	912	915 FFD	Chemical	CHEBI_73643
+1	1024	1027 FFD	Chemical	CHEBI_73643
+1	DOID-CHEBI	DOID_0050117	CHEBI_73643
+1	DOID-CHEBI	DOID_4	CHEBI_73643
+1	DOID-CHEBI	DOID_2945	CHEBI_73643
+

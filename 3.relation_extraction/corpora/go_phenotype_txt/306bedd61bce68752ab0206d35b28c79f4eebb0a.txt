@@ -1,0 +1,9 @@
+0|chunk|Minimal within-host dengue models highlight the specific roles of the immune response in primary and secondary dengue infections Electronic supplementary material 1. Primary infection model with saturating production of IFN
+0	70	85 immune response	Gene_function	GO_0006955
+
+1|chunk|Here we consider a more complicated model of IFN, namely one which uses Michaelis-Menten dynamics to describe the secretion of IFN as a function of infected cells. We again assume that IFN decays at some rate dF and that NK cells kill infected cells at a rate proportional to IF . The model is given by:
+1	114	123 secretion	Gene_function	GO_0046903
+
+2|chunk|For simplicity, we also assume the rate of infected cell death  = 0. This model has five free parameter combinations (, , q, d and K) and one free initial condition (I (0)). Supplementary figure 1 shows that this model (under the parameterization provided in Supplementary Table S1 ) can recover all of the characteristic features of a primary dengue infection: the final fraction of uninfected cells, time to peak viremia, viral clearance rate, and peak viral load. To reproduce these features, particularly the high viral clearance rate, the model requires high IFN levels late in infection ( Figure S1d ). These high IFN levels late in infection are, however, inconsistent
+2	52	62 cell death	Gene_function	GO_0008219
+

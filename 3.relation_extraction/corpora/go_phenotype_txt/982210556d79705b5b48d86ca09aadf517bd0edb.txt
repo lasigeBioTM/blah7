@@ -1,0 +1,25 @@
+0|chunk|No Direct Association Between Asthma and the Microbiome Based on Currently Available Techniques
+0	30	36 Asthma	Phenotype	HP_0002099
+
+1|chunk|Current uses of culture-independent tools in previous studies have shown a significant relationship between microbiota and asthma. Although these studies are relatively new, there is also evidence of the possibility of new therapeutic strategies for the treatment or prevention of asthma. This article retrospectively examines the possible association between microorganisms and asthma.
+
+2|chunk|Data on all patients with different types of asthma were collected from hospital charts from the within the study period of 2011 to 2012.
+2	45	51 asthma	Phenotype	HP_0002099
+
+3|chunk|The tracheal secretions of asthmatics obtained by bronchoalveolar lavage, bronchial aspirates through flexible bronchoscopy, and directly in sputum were examined microbiologically for microorganisms. Thirty-one (10.47%, 95% CI, 6.98-13.96) of a total of 296 patients were found to have asthma microorganisms in their airways. We could not establish a causal relationship between microorganisms and asthma based on the results of our study (P  0.893). Additionally, acute respiratory infections did not affect the microbiological colonization in asthmatics' airways (P  0.472).
+3	286	292 asthma	Phenotype	HP_0002099
+3	398	404 asthma	Phenotype	HP_0002099
+3	466	471 acute	Phenotype	HP_0011009
+3	472	494 respiratory infections	Phenotype	HP_0011947
+
+4|chunk|We were unable to find a direct association between asthma and the microbiome based on existing diagnostic techniques. (Medicine 93(27):e199)
+4	52	58 asthma	Phenotype	HP_0002099
+
+5|chunk|Abbreviations: ANOVA = one-way analysis of variance, CI = confidence interval, COPD = chronic obstructive pulmonary disease, CRP = C-reactive protein, ECLIA = electrochemiluminescence immunoassay, FeNO = exhaled nitric oxide, FEV1 = forced expiratory volume in the first second, FEV1%VCin = Tiffeneau index, ICD = International Classification of Diseases, IgE = immunoglobulin E, NSAID = non-steroidal anti-inflammatory drugs, ppb = parts per billion, TLC = total lung capacity, VCin = inspiratory vital capacity.
+5	79	83 COPD	Phenotype	HP_0006510
+5	86	93 chronic	Phenotype	HP_0011010
+5	86	123 chronic obstructive pulmonary disease	Phenotype	HP_0006510
+5	362	376 immunoglobulin	Gene_function	GO_0003823
+5	HP-GO	HP_0006510	GO_0003823
+5	HP-GO	HP_0011010	GO_0003823
+

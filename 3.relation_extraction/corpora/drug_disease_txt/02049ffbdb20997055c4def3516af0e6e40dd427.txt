@@ -1,0 +1,30 @@
+0|chunk|Ribonuclease L mediates the cell-lethal phenotype of double-stranded RNA editing enzyme ADAR1 deficiency in a human cell line
+0	53	72 double-stranded RNA	Chemical	CHEBI_67208
+0	69	72 RNA	Chemical	CHEBI_33697
+
+1|chunk|ADAR1 isoforms are adenosine deaminases that edit and destabilize double-stranded RNA reducing its immunostimulatory activities. Mutation of ADAR1 leads to a severe neurodevelopmental and inflammatory disease of children, Aicardi-Gouti res syndrome. In mice, Adar1 mutations are embryonic lethal but are rescued by mutation of the Mda5 or Mavs genes, which function in IFN induction. However, the specific IFN regulated proteins responsible for the pathogenic effects of ADAR1 mutation are unknown. We show that the cell-lethal phenotype of ADAR1 deletion in human lung adenocarcinoma A549 cells is rescued by CRISPR/Cas9 mutagenesis of the RNASEL gene or by expression of the RNase L antagonist, murine coronavirus NS2 accessory protein. Our result demonstrate that ablation of RNase L activity promotes survival of ADAR1 deficient cells even in the presence of MDA5 and MAVS, suggesting that the RNase L system is the primary sensor pathway for endogenous dsRNA that leads to cell death.
+1	19	28 adenosine	Chemical	CHEBI_16335
+1	66	85 double-stranded RNA	Chemical	CHEBI_67208
+1	82	85 RNA	Chemical	CHEBI_33697
+1	201	208 disease	Disease	DOID_4
+1	421	429 proteins	Chemical	CHEBI_36080
+1	566	585 lung adenocarcinoma	Disease	DOID_3910
+1	571	585 adenocarcinoma	Disease	DOID_299
+1	936	943 pathway	Chemical	CHEBI_34922
+1	959	964 dsRNA	Chemical	CHEBI_67208
+1	CHEBI-DOID	CHEBI_16335	DOID_4
+1	CHEBI-DOID	CHEBI_16335	DOID_3910
+1	CHEBI-DOID	CHEBI_16335	DOID_299
+1	CHEBI-DOID	CHEBI_67208	DOID_4
+1	CHEBI-DOID	CHEBI_67208	DOID_3910
+1	CHEBI-DOID	CHEBI_67208	DOID_299
+1	CHEBI-DOID	CHEBI_33697	DOID_4
+1	CHEBI-DOID	CHEBI_33697	DOID_3910
+1	CHEBI-DOID	CHEBI_33697	DOID_299
+1	DOID-CHEBI	DOID_4	CHEBI_36080
+1	DOID-CHEBI	DOID_4	CHEBI_34922
+1	CHEBI-DOID	CHEBI_36080	DOID_3910
+1	CHEBI-DOID	CHEBI_36080	DOID_299
+1	DOID-CHEBI	DOID_3910	CHEBI_34922
+1	DOID-CHEBI	DOID_299	CHEBI_34922
+

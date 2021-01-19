@@ -1,0 +1,27 @@
+0|chunk|NSs Protein of Sandfly Fever Sicilian Phlebovirus Counteracts Interferon (IFN) Induction by Masking the DNA-Binding Domain of IFN Regulatory Factor 3 VIRUS-CELL INTERACTIONS crossm
+0	23	28 Fever	Phenotype	HP_0001945
+
+1|chunk|Sandfly fever Sicilian virus (SFSV) is one of the most widespread and frequently identified members of the genus Phlebovirus (order Bunyavirales, family Phenuiviridae) infecting humans. Being transmitted by Phlebotomus sandflies, SFSV causes a self-limiting, acute, often incapacitating febrile disease ("sandfly fever," "Pappataci fever," or "dog disease") that has been known since at least the beginning of the 20th century. We show that, similarly to other pathogenic phleboviruses, SFSV suppresses the induction of the antiviral type I interferon (IFN) system in an NSs-dependent manner. SFSV NSs interfered with the TBK1-interferon regulatory factor 3 (IRF3) branch of the RIG-I signaling pathway but not with NF-B activation. Consistently, we identified IRF3 as a host interactor of SFSV NSs. In contrast to IRF3, neither the IFN master regulator IRF7 nor any of the related transcription factors IRF2, IRF5, and IRF9 were bound by SFSV NSs. In spite of this specificity for IRF3, NSs did not inhibit its phosphorylation, dimerization, or nuclear accumulation, and the interaction was independent of the IRF3 activation or multimerization state. In further studies, we identified the DNA-binding domain of IRF3 (amino acids 1 to 113) as sufficient for NSs binding and found that SFSV NSs prevented the association of activated IRF3 with the IFN- promoter. Thus, unlike highly virulent phleboviruses, which either destroy antiviral host factors or sequester whole signaling chains into inactive aggregates, SFSV modulates type I IFN induction by directly masking the DNA-binding domain of IRF3. IMPORTANCE Phleboviruses are receiving increased attention due to the constant discovery of new species and the ongoing spread of long-known members of the genus. Outbreaks of sandfly fever were reported in the 19th century, during World War I, and during World War II. Currently, SFSV is recognized as one of the most widespread phleboviruses, exhibiting high seroprevalence rates in humans and domestic animals and causing a self-limiting but incapacitating disease predominantly in immunologically naive troops and travelers. We show how the nonstructural NSs protein of SFSV counteracts the upregulation of the antiviral interferon (IFN) system. SFSV NSs specifically inhibits promoter binding by IFN transcription factor 3 (IRF3), a molecular strategy which is unique among phleboviruses and, to our knowledge, among human pathogenic RNA viruses in general. This IRF3-specific and stoichiometric mechanism, greatly distinct from the ones exhibited by the highly virulent phleboviruses, correlates with the intermediate level of pathogenicity of SFSV. Citation Wuerth JD, Habjan M, Wulle J, Superti-Furga G, Pichlmair A, Weber F. 2018. NSs protein of sandfly fever sicilian phlebovirus counteracts interferon (IFN) induction by masking the DNA-binding domain of IFN regulatory factor 3. J Virol 92:e01202-18.
+1	8	13 fever	Phenotype	HP_0001945
+1	685	694 signaling	Gene_function	GO_0023052
+1	685	702 signaling pathway	Gene_function	GO_0007165
+1	1263	1270 binding	Gene_function	GO_0005488
+1	1471	1480 signaling	Gene_function	GO_0023052
+1	1786	1791 fever	Phenotype	HP_0001945
+1	2292	2299 binding	Gene_function	GO_0005488
+1	2765	2770 fever	Phenotype	HP_0001945
+1	HP-GO	HP_0001945	GO_0023052
+1	HP-GO	HP_0001945	GO_0007165
+1	HP-GO	HP_0001945	GO_0005488
+
+2|chunk|FIG 2 Effect of selected NSs proteins on phlebovirus host targets and central RIG-I signaling components. (A) A549 cells were infected at an MOI of 1 with recombinant RVFV expressing the NSs of RVFV, TOSV, SFSV, PTV-A, or PTV-B or entirely lacking an NSs-coding sequence. Cells were harvested 8 hpi for immunoblot analysis. (B) A549 cells were infected with SFSV or RVFV MP12 at an MOI of 1 and harvested 12 hpi for SDS-PAGE and Western blot analysis. NSs of Sandfly Fever Sicilian Virus Inhibits IRF3 Journal of Virology December 2018 Volume 92 Issue 23 e01202-18 jvi.asm.org 5
+2	70	77 central	Phenotype	HP_0030645
+2	84	93 signaling	Gene_function	GO_0023052
+2	295	298 hpi	Gene_function	GO_0009978
+2	408	411 hpi	Gene_function	GO_0009978
+2	467	472 Fever	Phenotype	HP_0001945
+2	HP-GO	HP_0030645	GO_0023052
+2	HP-GO	HP_0030645	GO_0009978
+2	GO-HP	GO_0023052	HP_0001945
+2	GO-HP	GO_0009978	HP_0001945
+

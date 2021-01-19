@@ -1,0 +1,18 @@
+0|chunk|Modeling the Transmission of Middle East Respirator Syndrome Corona virus in Republic of Korea
+0	52	60 Syndrome	Disease	DOID_225
+0	61	67 Corona	Chemical	CHEBI_37409
+0	DOID-CHEBI	DOID_225	CHEBI_37409
+
+1|chunk|A. The basic reproduction number R 0 of system (1)
+
+2|chunk|Through simple calculation, we can obtain a disease free equilibrium E 1 = (S 1 , 0, 0, 0, 0, R 1 ). Then we use the spectral radius of the next generation matrix (the method proposed by the Van Den Driessche in [1]) to get the expression of R 0 of system (1) . Firstly, only the infected compartments satisfied by the following system are considered:
+2	44	51 disease	Disease	DOID_4
+2	195	198 Den	Chemical	CHEBI_34873
+2	DOID-CHEBI	DOID_4	CHEBI_34873
+
+3|chunk|where F denotes the rate of appearance of new infection and V denotes the rate of transfer of individuals. Calculating the derivative of F and V about x = (E, A, I, H), respectively. Then substitute initial data(S 0 , E 0 , A 0 , I 0 , H 0 , R 0 ) into variables, we can get:
+
+4|chunk|and thus
+
+5|chunk|where R 0 is the biggest eigenvalue of matrix F V 1 i.e. R 0 = (F V 1 ). The expression of R 0 is as follows:
+

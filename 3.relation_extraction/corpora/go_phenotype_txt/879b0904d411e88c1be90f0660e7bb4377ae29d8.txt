@@ -1,0 +1,19 @@
+0|chunk|Porcine epidemic diarrhea virus (PEDV) co-infection induced chlamydial persistence/stress does not require viral replication
+0	17	25 diarrhea	Phenotype	HP_0002014
+
+1|chunk|Chlamydiae may exist at the site of infection in an alternative replicative form, called the aberrant body (AB). ABs are produced during a viable but non-infectious developmental state termed "persistence" or "chlamydial stress." As persistent/stressed chlamydiae: (i) may contribute to chronic inflammation observed in diseases like trachoma; and (ii) are more resistant to current anti-chlamydial drugs of choice, it is critical to better understand this developmental stage. We previously demonstrated that porcine epidemic diarrhea virus (PEDV) co-infection induced Chlamydia pecorum persistence/stress in culture. One critical characteristic of persistence/stress is that the chlamydiae remain viable and can reenter the normal developmental cycle when the stressor is removed. Thus, we hypothesized that PEDV-induced persistence would be reversible if viral replication was inhibited. Therefore, we performed time course experiments in which Vero cells were C. pecorum/PEDV infected in the presence of cycloheximide (CHX), which inhibits viral but not chlamydial protein synthesis. CHX-exposure inhibited PEDV replication, but did not inhibit induction of C. pecorum persistence at 24 h post-PEDV infection, as indicated by AB formation and reduced production of infectious EBs. Interestingly, production of infectious EBs resumed when CHX-exposed, co-infected cells were incubated 48-72 h post-PEDV co-infection. These data demonstrate that PEDV co-infection-induced chlamydial persistence/stress is reversible and suggest that this induction (i) does not require viral replication in host cells; and (ii) does not require de novo host or viral protein synthesis. These data also suggest that viral binding and/or entry may be required for this effect. Because the PEDV host cell receptor (CD13 or aminopeptidase N) stimulates cellular signaling pathways in the absence of PEDV infection, we suspect that PEDV co-infection might alter CD13 function and induce the chlamydiae to enter the persistent state.
+1	287	294 chronic	Phenotype	HP_0011010
+1	527	535 diarrhea	Phenotype	HP_0002014
+1	1646	1669 viral protein synthesis	Gene_function	GO_0003746
+1	1706	1713 binding	Gene_function	GO_0005488
+1	1777	1786 host cell	Gene_function	GO_0043657
+1	1843	1852 signaling	Gene_function	GO_0023052
+1	HP-GO	HP_0011010	GO_0003746
+1	HP-GO	HP_0011010	GO_0005488
+1	HP-GO	HP_0011010	GO_0043657
+1	HP-GO	HP_0011010	GO_0023052
+1	HP-GO	HP_0002014	GO_0003746
+1	HP-GO	HP_0002014	GO_0005488
+1	HP-GO	HP_0002014	GO_0043657
+1	HP-GO	HP_0002014	GO_0023052
+

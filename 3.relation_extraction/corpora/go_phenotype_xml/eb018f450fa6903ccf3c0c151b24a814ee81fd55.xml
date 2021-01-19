@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<document id="eb018f450fa6903ccf3c0c151b24a814ee81fd55">
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c0" text="Ring finger protein 166 potentiates RNA virus-induced interferon-β production via enhancing the ubiquitination of TRAF3 and TRAF6 OPEN"/>
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c1" text="Here, we report that Ring finger protein 166 (RNF166) potentiates RNA virus-triggered IFN-β production. Overexpression of RNF166 rather than its homologous proteins RNF114, RNF125, and RNF138, enhanced Sendai virus (SeV)-induced activation of the IFN-β promoter. Knockdown of endogenous RNF166, but not other RNFs, inhibited the IFN-β production induced by SeV and encephalomyocarditis virus. RNF166 interacted with TRAF3 and TRAF6. SeV-induced ubiquitination of TRAF3 and TRAF6 was suppressed when endogenous RNF166 rather than RNF114/138 was knocked down. These findings suggest that RNF166 positively regulates RNA virus-triggered IFN-β production by enhancing the ubiquitination of TRAF3 and TRAF6."/>
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c2" text="Innate immunity provides a robust first line of defense against invading pathogens. After detecting invading viruses, host cells initiate several signaling cascades to generate type I interferons (IFNs) such as IFN-β and IFN-α . Type I IFNs activate the JAK-STAT pathway, resulting in expression of hundreds of interferon-stimulated genes, which can target every stage of the viral life-cycle and protect host cells from invading viruses 1 .">
+    <entity charOffset="0-15" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c2.e0" ontology_id="GO_0045087" text="Innate immunity" type="gene_function"/>
+    <entity charOffset="146-155" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c2.e1" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+  </chunk>
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3" text="Members of the RLR family, including retinoic acid inducible gene-I (RIG-I), melanoma differentiation-associated gene 5 (MDA5), and laboratory of genetics and physiology 2 (LGP2), are located in the cytoplasm to monitor viral RNA 2 . Upon viral infection, the helicase domain of RIG-I and MDA5 sense viral RNA that bears a 5′ -triphosphate group that is lacking in host mRNA 3,4 . After binding viral RNA, RIG-I and MDA5 undergo conformational changes as well as modifications with K63-linked polyubiquitin chains by TRIM25 and REUL (also known as Riplet or RNF135) 5-8 . Ubiquitinated RIG-I and MDA5 interact with VISA (also named MAVS, Cardif or IPS-1) and this results in aggregation of the latter 9-12 . VISA polymers then recruit TRAFs such as TRAF3 and TRAF6 to promote the ubiquitination reaction which is critical for recruiting IKK and TBK1 to the VISA signaling complex 13 . IKK and TBK1 phosphorylate VISA, resulting in binding of VISA to the conserved, positively-charged surfaces of IRF3, thereby recruiting IRF3 for phosphorylation and activation 14 .">
+    <entity charOffset="77-85" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" ontology_id="HP_0002861" text="melanoma" type="phenotype"/>
+    <entity charOffset="199-208" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e1" ontology_id="GO_0005737" text="cytoplasm" type="gene_function"/>
+    <entity charOffset="387-394" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e2" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="837-840" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e3" ontology_id="GO_0008384" text="IKK" type="gene_function"/>
+    <entity charOffset="845-849" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e4" ontology_id="GO_0008384" text="TBK1" type="gene_function"/>
+    <entity charOffset="862-871" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e5" ontology_id="GO_0023052" text="signaling" type="gene_function"/>
+    <entity charOffset="885-888" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e6" ontology_id="GO_0008384" text="IKK" type="gene_function"/>
+    <entity charOffset="893-897" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e7" ontology_id="GO_0008384" text="TBK1" type="gene_function"/>
+    <entity charOffset="931-938" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e8" ontology_id="GO_0005488" text="binding" type="gene_function"/>
+    <entity charOffset="1030-1045" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e9" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e1" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p0" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e2" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p1" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e3" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p2" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e4" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p3" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e5" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p4" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e6" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p5" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e7" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p6" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e8" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p7" relation="true"/>
+    <pair e1="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e0" e2="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.e9" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c3.p8" relation="true"/>
+  </chunk>
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c4" text="The identity of the cytoplasmic DNA sensor remained unresolved until researchers recently identified cyclic GMP-AMP synthase (cGAS) as a new viral DNA sensor 15-17 . Upon DNA viral infection, cGAS directly binds to DNA and releases its catalytic pocket to ATP and GTP for the generation of 2′ 3′ -cGAMP [18] [19] [20] [21] [22] . cGAMP binds to and activates STING to assemble a punctate structure that contains TBK1. TBK1 then phosphorylates STING, and this is followed by the recruitment of IRF3 to STING for phosphorylation and activation 14 .">
+    <entity charOffset="412-416" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c4.e0" ontology_id="GO_0008384" text="TBK1" type="gene_function"/>
+    <entity charOffset="418-422" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c4.e1" ontology_id="GO_0008384" text="TBK1" type="gene_function"/>
+    <entity charOffset="511-526" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c4.e2" ontology_id="GO_0016310" text="phosphorylation" type="gene_function"/>
+  </chunk>
+  <chunk id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c5" text="Ubiquitination plays a critical role in the RNA virus-induced innate immune response. As noted above, K63 ubiquitination of RIG-I triggered by TRIM25 and REUL is indispensable for its activation 5-8 ,">
+    <entity charOffset="62-84" id="eb018f450fa6903ccf3c0c151b24a814ee81fd55.c5.e0" ontology_id="GO_0045087" text="innate immune response" type="gene_function"/>
+  </chunk>
+</document>

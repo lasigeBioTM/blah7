@@ -1,0 +1,27 @@
+0|chunk|A Recombinant Fungal Lectin for Labeling Truncated Glycans on Human Cancer Cells
+0	68	74 Cancer	Phenotype	HP_0002664
+
+1|chunk|Cell surface glycoconjugates present alterations of their structures in chronic diseases and distinct oligosaccharide epitopes have been associated with cancer. Among them, truncated glycans present terminal non-reducing -N-acetylglucosamine (GlcNAc) residues that are rare on healthy tissues. Lectins from unconventional sources such as fungi or algi provide novel markers that bind specifically to such epitopes, but their availability may be challenging. A GlcNAc-binding lectin from the fruiting body of the fungus Psathyrella velutina (PVL) has been produced in good yield in bacterial culture. A strong specificity for terminal GlcNAc residues was evidenced by glycan array. Affinity values obtained by microcalorimetry and surface plasmon resonance demonstrated a micromolar affinity for GlcNAc1-3Gal epitopes and for biantennary N-glycans with GlcNAc1-2Man capped branches. Crystal structure of PVL complexed with GlcNAc1-3Gal established the structural basis of the specificity. Labeling of several types of cancer cells and use of inhibitors of glycan metabolism indicated that rPVL binds to terminal GlcNAc but also to sialic acid (Neu5Ac). Analysis of glycosyltransferase expression confirmed the higher amount of GlcNAc present on cancer cells. rPVL binding is specific to cancer tissue and weak or no labeling is observed for healthy ones, except for stomach glands that present unique GlcNAc-presenting mucins. In lung, breast and colon carcinomas, a clear delineation could be observed between cancer regions and surrounding healthy tissues. PVL is therefore a useful tool for labeling agalacto-glycans in cancer or other diseases.
+1	0	12 Cell surface	Gene_function	GO_0009986
+1	72	79 chronic	Phenotype	HP_0011010
+1	153	159 cancer	Phenotype	HP_0002664
+1	278	285 healthy	Phenotype	HP_0032322
+1	1021	1027 cancer	Phenotype	HP_0002664
+1	1066	1076 metabolism	Gene_function	GO_0008152
+1	1248	1254 cancer	Phenotype	HP_0002664
+1	1267	1274 binding	Gene_function	GO_0005488
+1	1290	1296 cancer	Phenotype	HP_0002664
+1	1344	1351 healthy	Phenotype	HP_0032322
+1	1515	1521 cancer	Phenotype	HP_0002664
+1	1546	1553 healthy	Phenotype	HP_0032322
+1	1627	1633 cancer	Phenotype	HP_0002664
+1	GO-HP	GO_0009986	HP_0011010
+1	GO-HP	GO_0009986	HP_0002664
+1	GO-HP	GO_0009986	HP_0032322
+1	HP-GO	HP_0011010	GO_0008152
+1	HP-GO	HP_0011010	GO_0005488
+1	HP-GO	HP_0002664	GO_0008152
+1	HP-GO	HP_0002664	GO_0005488
+1	HP-GO	HP_0032322	GO_0008152
+1	HP-GO	HP_0032322	GO_0005488
+

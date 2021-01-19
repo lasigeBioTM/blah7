@@ -1,0 +1,124 @@
+0|chunk|Using mutagenesis to explore conserved residues in the RNA- binding groove of influenza A virus nucleoprotein for antiviral drug development OPEN
+0	78	87 influenza	Disease	DOID_8469
+0	114	123 antiviral	Chemical	CHEBI_22587
+0	114	128 antiviral drug	Chemical	CHEBI_36044
+0	124	128 drug	Chemical	CHEBI_23888
+0	DOID-CHEBI	DOID_8469	CHEBI_22587
+0	DOID-CHEBI	DOID_8469	CHEBI_36044
+0	DOID-CHEBI	DOID_8469	CHEBI_23888
+
+1|chunk|influenza NP is a valid target for antiviral drug development. The surface of the groove, covered with numerous conserved residues between the head and body domains of influenza A NP, plays a crucial role in RNA binding. To explore the mechanism by which NP binds RNA, we performed a series of sitedirected mutagenesis in the RNA-binding groove, followed by surface plasmon resonance (SPR), to characterize the interactions between RNA and NP. Furthermore, a role of Y148 in NP stability and NP-RNA binding was evaluated. The aromatic residue of Y148 was found to stack with a nucleotide base. By interrupting the stacking interaction between Y148 and an RNA base, we identified an influenza virus NP inhibitor, (E, E)-1,7-bis(4-hydroxy-3-methoxyphenyl) -1,6-heptadiene-3,5-dione; this inhibitor reduced the NP's RNA-binding affinity and hindered viral replication. Our findings will be useful for the development of new drugs that disrupt the interaction between RNA and viral NP in the influenza virus.
+1	0	9 influenza	Disease	DOID_8469
+1	35	44 antiviral	Chemical	CHEBI_22587
+1	35	49 antiviral drug	Chemical	CHEBI_36044
+1	45	49 drug	Chemical	CHEBI_23888
+1	168	177 influenza	Disease	DOID_8469
+1	200	204 role	Chemical	CHEBI_50906
+1	208	211 RNA	Chemical	CHEBI_33697
+1	264	267 RNA	Chemical	CHEBI_33697
+1	432	435 RNA	Chemical	CHEBI_33697
+1	459	463 role	Chemical	CHEBI_50906
+1	577	587 nucleotide	Chemical	CHEBI_36976
+1	655	658 RNA	Chemical	CHEBI_33697
+1	682	691 influenza	Disease	DOID_8469
+1	701	710 inhibitor	Chemical	CHEBI_35222
+1	786	795 inhibitor	Chemical	CHEBI_35222
+1	921	926 drugs	Chemical	CHEBI_23888
+1	964	967 RNA	Chemical	CHEBI_33697
+1	988	997 influenza	Disease	DOID_8469
+1	DOID-CHEBI	DOID_8469	CHEBI_22587
+1	DOID-CHEBI	DOID_8469	CHEBI_36044
+1	DOID-CHEBI	DOID_8469	CHEBI_23888
+1	DOID-CHEBI	DOID_8469	CHEBI_50906
+1	DOID-CHEBI	DOID_8469	CHEBI_33697
+1	DOID-CHEBI	DOID_8469	CHEBI_36976
+1	DOID-CHEBI	DOID_8469	CHEBI_35222
+
+2|chunk|Influenza is an infectious disease of birds and mammals caused by the influenza viruses belonging to the family Orthomyxoviridae 1 . The sudden swine-origin influenza virus H1N1v pandemic outbreak in 2009 caused 18,000 deaths 1,2 . The viral surface proteins hemagglutinin and neuraminidase have played important roles in antiviral drug discoveries and provide crucial neutralization against the virus 3 . Tamiflu (oseltamivir), which is a neuraminidase inhibitor, is used to treat flu infection 4-7 . However, several H1N1 influenza strains are resistant to Tamiflu because they contain the H274Y mutation in neuraminidase. Thus, new anti-influenza drugs are urgently needed.
+2	0	9 Influenza	Disease	DOID_8469
+2	16	34 infectious disease	Disease	DOID_0050117
+2	27	34 disease	Disease	DOID_4
+2	70	79 influenza	Disease	DOID_8469
+2	157	166 influenza	Disease	DOID_8469
+2	250	258 proteins	Chemical	CHEBI_36080
+2	322	331 antiviral	Chemical	CHEBI_22587
+2	322	336 antiviral drug	Chemical	CHEBI_36044
+2	332	336 drug	Chemical	CHEBI_23888
+2	406	413 Tamiflu	Chemical	CHEBI_7798
+2	482	485 flu	Disease	DOID_8469
+2	524	533 influenza	Disease	DOID_8469
+2	559	566 Tamiflu	Chemical	CHEBI_7798
+2	650	655 drugs	Chemical	CHEBI_23888
+2	DOID-CHEBI	DOID_8469	CHEBI_36080
+2	DOID-CHEBI	DOID_8469	CHEBI_22587
+2	DOID-CHEBI	DOID_8469	CHEBI_36044
+2	DOID-CHEBI	DOID_8469	CHEBI_23888
+2	DOID-CHEBI	DOID_8469	CHEBI_7798
+2	DOID-CHEBI	DOID_0050117	CHEBI_36080
+2	DOID-CHEBI	DOID_0050117	CHEBI_22587
+2	DOID-CHEBI	DOID_0050117	CHEBI_36044
+2	DOID-CHEBI	DOID_0050117	CHEBI_23888
+2	DOID-CHEBI	DOID_0050117	CHEBI_7798
+2	DOID-CHEBI	DOID_4	CHEBI_36080
+2	DOID-CHEBI	DOID_4	CHEBI_22587
+2	DOID-CHEBI	DOID_4	CHEBI_36044
+2	DOID-CHEBI	DOID_4	CHEBI_23888
+2	DOID-CHEBI	DOID_4	CHEBI_7798
+
+3|chunk|Influenza A virus nucleoprotein (NP) is a major virion structural protein that has been predicted to interact with negative-strand viral RNA during viral nucleocapsid formation 8 . NP encapsulates the viral genome for RNA transcription, replication, virus packaging, and intracellular trafficking, and it also functions as a key adapter molecule between viral and host cell processes 9 . NP has been shown to cooperatively interact with RNA. In addition, NP interacts with a wide variety of viral and cellular macromolecules, including two subunits of the viral RNA-dependent RNA polymerase, viral matrix, actin, components of the nuclear import/export apparatus, and a nuclear RNA helicase 10 . According to protein sequence alignment, the 498-aa NP is highly conserved among influenza viruses. The multifunctional capabilities of NP in the viral life cycle makes this protein an attractive target for drug development 11,12 .
+3	0	9 Influenza	Disease	DOID_8469
+3	66	73 protein	Chemical	CHEBI_16541
+3	137	140 RNA	Chemical	CHEBI_33697
+3	218	221 RNA	Chemical	CHEBI_33697
+3	337	345 molecule	Chemical	CHEBI_25367
+3	437	440 RNA	Chemical	CHEBI_33697
+3	576	579 RNA	Chemical	CHEBI_33697
+3	678	681 RNA	Chemical	CHEBI_33697
+3	709	716 protein	Chemical	CHEBI_16541
+3	777	786 influenza	Disease	DOID_8469
+3	870	877 protein	Chemical	CHEBI_16541
+3	903	907 drug	Chemical	CHEBI_23888
+3	DOID-CHEBI	DOID_8469	CHEBI_16541
+3	DOID-CHEBI	DOID_8469	CHEBI_33697
+3	DOID-CHEBI	DOID_8469	CHEBI_25367
+3	DOID-CHEBI	DOID_8469	CHEBI_23888
+
+4|chunk|A substantial quantity of RNA is wrapped around each NP monomer, with a stoichiometric ratio of 20 nucleotides of RNA per 1 NP 13 . The NP crystal structure reveals that RNA molecules likely bind to a deep groove located between the head and body domains on the exterior of the NP oligomer 14, 15 . Several residues that are critical for RNA binding and virus infectivity in the influenza A virus NP have been identified 16, 17 . Ye et al. have been reported that the tail loop binding pocket as a potential target for antiviral development 14 . Le et al. reported that several NP mutations that affected the efficient incorporation of multiple viral-RNA (vRNA) segments into progeny virions even though a single vRNA segment was incorporated efficiently 16 . However, understanding structural and mechanistic information regarding influenza A virus NP and its interactions with RNA should facilitate the discovery of agents that specifically block the formation of ribonucleoprotein (RNP) during viral genome replication.
+4	26	29 RNA	Chemical	CHEBI_33697
+4	99	110 nucleotides	Chemical	CHEBI_36976
+4	114	117 RNA	Chemical	CHEBI_33697
+4	170	173 RNA	Chemical	CHEBI_33697
+4	174	183 molecules	Chemical	CHEBI_25367
+4	281	289 oligomer	Chemical	CHEBI_132554
+4	338	341 RNA	Chemical	CHEBI_33697
+4	379	388 influenza	Disease	DOID_8469
+4	519	528 antiviral	Chemical	CHEBI_22587
+4	832	841 influenza	Disease	DOID_8469
+4	879	882 RNA	Chemical	CHEBI_33697
+4	CHEBI-DOID	CHEBI_33697	DOID_8469
+4	CHEBI-DOID	CHEBI_36976	DOID_8469
+4	CHEBI-DOID	CHEBI_25367	DOID_8469
+4	CHEBI-DOID	CHEBI_132554	DOID_8469
+4	DOID-CHEBI	DOID_8469	CHEBI_22587
+
+5|chunk|Accordingly, we proposed that the surface of the groove, which contains numerous conserved residues (including Y148, R150, R152, R156, R174, R175, K184, R195, R199, R213, R214, R221, R236) is able to interact with the RNA residue (Fig. 1) . In this study, we performed a series of site-directed mutagenesis to explore the mechanism by which the NP binds RNA, followed by surface plasmon resonance (SPR) to monitor the binding between various mutants and RNA. Furthermore, a role of Y148 in the protein stability of NP and the binding of NP to RNA was evaluated. An aromatic residue, Y148 was also found to stack its benzene ring with a nucleotide base. By targeting Y148, we identified an influenza virus NP inhibitor, H7 [(E,E) -1,7-bis(4-hydroxy-3-me thoxyphenyl)-1,6-heptadiene-3,5-dione], which reduced the NP's RNA-binding affinity and hindered viral replication. Finally, we present a structural model of the influenza NP in complex with RNA, which clearly illustrates the critical role of Y148.
+5	218	221 RNA	Chemical	CHEBI_33697
+5	354	357 RNA	Chemical	CHEBI_33697
+5	454	457 RNA	Chemical	CHEBI_33697
+5	474	478 role	Chemical	CHEBI_50906
+5	494	501 protein	Chemical	CHEBI_16541
+5	543	546 RNA	Chemical	CHEBI_33697
+5	616	623 benzene	Chemical	CHEBI_16716
+5	616	628 benzene ring	Chemical	CHEBI_52879
+5	636	646 nucleotide	Chemical	CHEBI_36976
+5	689	698 influenza	Disease	DOID_8469
+5	915	924 influenza	Disease	DOID_8469
+5	944	947 RNA	Chemical	CHEBI_33697
+5	988	992 role	Chemical	CHEBI_50906
+5	CHEBI-DOID	CHEBI_33697	DOID_8469
+5	CHEBI-DOID	CHEBI_50906	DOID_8469
+5	CHEBI-DOID	CHEBI_16541	DOID_8469
+5	CHEBI-DOID	CHEBI_16716	DOID_8469
+5	CHEBI-DOID	CHEBI_52879	DOID_8469
+5	CHEBI-DOID	CHEBI_36976	DOID_8469
+

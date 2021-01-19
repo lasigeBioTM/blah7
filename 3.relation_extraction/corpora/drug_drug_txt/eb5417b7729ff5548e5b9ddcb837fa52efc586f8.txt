@@ -1,0 +1,51 @@
+0|chunk|In silico target fishing and pharmacological profiling for the isoquinoline alkaloids of Macleaya cordata (Bo Luo Hui)
+0	63	75 isoquinoline	Chemical	CHEBI_16092
+0	63	85 isoquinoline alkaloids	Chemical	CHEBI_24921
+0	76	85 alkaloids	Chemical	CHEBI_22315
+0	CHEBI-CHEBI	CHEBI_16092	CHEBI_24921
+0	CHEBI-CHEBI	CHEBI_16092	CHEBI_22315
+0	CHEBI-CHEBI	CHEBI_24921	CHEBI_22315
+
+1|chunk|Background: Some isoquinoline alkaloids from Macleaya cordata (Willd). R. Br. (Bo Luo Hui) exhibited antibacterial, antiparasitic, antitumor, and analgesic effects. The targets of these isoquinoline alkaloids are undefined. This study aims to investigate the compound-target interaction network and potential pharmacological actions of isoquinoline alkaloids of M. cordata by reverse pharmacophore database screening.
+1	17	29 isoquinoline	Chemical	CHEBI_16092
+1	17	39 isoquinoline alkaloids	Chemical	CHEBI_24921
+1	30	39 alkaloids	Chemical	CHEBI_22315
+1	146	155 analgesic	Chemical	CHEBI_35480
+1	186	198 isoquinoline	Chemical	CHEBI_16092
+1	186	208 isoquinoline alkaloids	Chemical	CHEBI_24921
+1	199	208 alkaloids	Chemical	CHEBI_22315
+1	336	348 isoquinoline	Chemical	CHEBI_16092
+1	336	358 isoquinoline alkaloids	Chemical	CHEBI_24921
+1	349	358 alkaloids	Chemical	CHEBI_22315
+1	CHEBI-CHEBI	CHEBI_16092	CHEBI_24921
+1	CHEBI-CHEBI	CHEBI_16092	CHEBI_22315
+1	CHEBI-CHEBI	CHEBI_16092	CHEBI_35480
+1	CHEBI-CHEBI	CHEBI_24921	CHEBI_22315
+1	CHEBI-CHEBI	CHEBI_24921	CHEBI_35480
+1	CHEBI-CHEBI	CHEBI_22315	CHEBI_35480
+
+2|chunk|The targets of 26 isoquinoline alkaloids identified from M. cordata were predicted by a pharmacophorebased target fishing approach. Discovery Studio 3.5 and two pharmacophore databases (PharmaDB and HypoDB) were employed for the target profiling. A compound-target interaction network of M. cordata was constructed and analyzed by Cytoscape 3.0.
+2	18	30 isoquinoline	Chemical	CHEBI_16092
+2	18	40 isoquinoline alkaloids	Chemical	CHEBI_24921
+2	31	40 alkaloids	Chemical	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_16092	CHEBI_24921
+2	CHEBI-CHEBI	CHEBI_16092	CHEBI_22315
+2	CHEBI-CHEBI	CHEBI_24921	CHEBI_22315
+
+3|chunk|Results: Thirteen of the 65 predicted targets identified by PharmaDB were confirmed as targets by HypoDB screening. The targets in the interaction network of M. cordata were involved in cancer (31 targets), microorganisms (12 targets), neurodegeneration (10 targets), inflammation and autoimmunity (8 targets), parasitosis (5 targets), injury (4 targets), and pain (3 targets). Dihydrochelerythrine (C6) was found to hit 23 fitting targets. Macrophage migration inhibitory factor (MIF) hits 15 alkaloids (C1-2, C11-16, C19-25) was the most promising target related to cancer.
+3	378	398 Dihydrochelerythrine	Chemical	CHEBI_140672
+3	494	503 alkaloids	Chemical	CHEBI_22315
+3	CHEBI-CHEBI	CHEBI_140672	CHEBI_22315
+
+4|chunk|Through in silico target fishing, the anticancer, anti-inflammatory, and analgesic effects of M. cordata were the most significant among many possible activities. The possible anticancer effects were mainly contributed by the isoquinoline alkaloids as active components.  2015 Lei et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http:// creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/
+4	73	82 analgesic	Chemical	CHEBI_35480
+4	226	238 isoquinoline	Chemical	CHEBI_16092
+4	226	248 isoquinoline alkaloids	Chemical	CHEBI_24921
+4	239	248 alkaloids	Chemical	CHEBI_22315
+4	CHEBI-CHEBI	CHEBI_35480	CHEBI_16092
+4	CHEBI-CHEBI	CHEBI_35480	CHEBI_24921
+4	CHEBI-CHEBI	CHEBI_35480	CHEBI_22315
+4	CHEBI-CHEBI	CHEBI_16092	CHEBI_24921
+4	CHEBI-CHEBI	CHEBI_16092	CHEBI_22315
+4	CHEBI-CHEBI	CHEBI_24921	CHEBI_22315
+

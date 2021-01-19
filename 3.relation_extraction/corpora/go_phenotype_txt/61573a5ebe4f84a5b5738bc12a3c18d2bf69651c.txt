@@ -1,0 +1,37 @@
+0|chunk|Treatment of Hepatitis C Virus Infection
+0	13	22 Hepatitis	Phenotype	HP_0012115
+
+1|chunk|Abbreviations: DC, dendritic cells; FcR, Fc gamma receptors; FGL2, fibrinogen-like protein 2; FRED, fibrinogen-related domain; HBV, hepatitis B virus; HCV, hepatitis C virus; IL, interleukin; MHC, major histocompatibility complex; MHV-3, murine hepatitis virus strain 3; SVR, sustained virological response; Treg cells, Foxp3 + CD4 + CD25 + regulatory T cells.
+1	133	142 hepatitis	Phenotype	HP_0012115
+1	157	166 hepatitis	Phenotype	HP_0012115
+1	198	230 major histocompatibility complex	Gene_function	GO_0046776
+1	246	255 hepatitis	Phenotype	HP_0012115
+1	HP-GO	HP_0012115	GO_0046776
+
+2|chunk|Chronic hepatitis C virus (HCV) infection is a leading cause of liver disease worldwide and remains the most common indication for liver transplantation. The current standard of care leads to a sustained viral response of roughly 50% of treated patients at best. Furthermore, anti-viral therapy is expensive, prolonged, and associated with serious side-effects. Evidence suggests that a poor response to treatment may be the result of a suppressed anti-viral immunity due to the presence of increased numbers and activity of CD4 + CD25 + Foxp3 + regulatory T cells (Treg cells). We and others have recently identified fibrinogen-like protein 2 (FGL2) as a putative effector of Treg cells, which accounts for their suppressive function through binding to Fc gamma receptors (FcR). In an experimental model of fulminant viral hepatitis, our laboratory showed that increased plasma levels of FGL2 pre-and post-viral infection were predictive of susceptibility and severity of disease. Moreover, treatment with antibody to FGL2 fully protected susceptible animals from the lethality of the virus, and adoptive transfer of wild-type Treg cells into resistant fgl2-deficient animals accelerated their mortality post-infection. In patients with HCV infection, plasma levels of FGL2 and expression of FGL2 in the liver correlated with the course and severity of the disease. Collectively, these studies suggest that FGL2 may be used as a biomarker to predict disease progression in HCV patients and be a logical target for the development of novel therapeutic approaches for the treatment of patients with HCV infection.
+2	0	7 Chronic	Phenotype	HP_0011010
+2	0	17 Chronic hepatitis	Phenotype	HP_0200123
+2	8	17 hepatitis	Phenotype	HP_0012115
+2	64	77 liver disease	Phenotype	HP_0001392
+2	743	750 binding	Gene_function	GO_0005488
+2	825	834 hepatitis	Phenotype	HP_0012115
+2	962	970 severity	Phenotype	HP_0012824
+2	1008	1016 antibody	Gene_function	GO_0003823
+2	1008	1016 antibody	Gene_function	GO_0042571
+2	1343	1351 severity	Phenotype	HP_0012824
+2	HP-GO	HP_0011010	GO_0005488
+2	HP-GO	HP_0011010	GO_0003823
+2	HP-GO	HP_0011010	GO_0042571
+2	HP-GO	HP_0200123	GO_0005488
+2	HP-GO	HP_0200123	GO_0003823
+2	HP-GO	HP_0200123	GO_0042571
+2	HP-GO	HP_0012115	GO_0005488
+2	HP-GO	HP_0012115	GO_0003823
+2	HP-GO	HP_0012115	GO_0042571
+2	HP-GO	HP_0001392	GO_0005488
+2	HP-GO	HP_0001392	GO_0003823
+2	HP-GO	HP_0001392	GO_0042571
+2	GO-HP	GO_0005488	HP_0012824
+2	HP-GO	HP_0012824	GO_0003823
+2	HP-GO	HP_0012824	GO_0042571
+

@@ -1,0 +1,71 @@
+0|chunk|BMC Molecular Biology Appropriate 'housekeeping' genes for use in expression profiling the effects of environmental estrogens in fish
+0	0	3 BMC	Chemical	CHEBI_3392
+0	116	125 estrogens	Chemical	CHEBI_50114
+0	CHEBI-CHEBI	CHEBI_3392	CHEBI_50114
+
+1|chunk|Background: Attempts to develop a mechanistic understanding of the effects of environmental estrogens on fish are increasingly conducted at the level of gene expression. Appropriate application of real-time PCR in such studies requires the use of a stably expressed 'housekeeping' gene as an internal control to normalize for differences in the amount of starting template between samples.
+1	92	101 estrogens	Chemical	CHEBI_50114
+
+2|chunk|: We sought to identify appropriate genes for use as internal controls in experimental treatments with estrogen by analyzing the expression of eight functionally distinct 'housekeeping' genes (18S ribosomal RNA [18S rRNA], ribosomal protein l8 [rpl8], elongation factor 1 alpha [ef1a], glucose-6-phosphate dehydrogenase [g6pd], beta actin [bactin], glyceraldehyde-3-phosphate dehydrogenase [gapdh], hypoxanthine phosphoribosyltransferase 1 [hprt1], and tata box binding protein [tbp]) following exposure to the environmental estrogen, 17-ethinylestradiol (EE 2 ), in the fathead minnow (Pimephales promelas). Exposure to 10 ng/L EE 2 for 21 days down-regulated the expression of ef1a, g6pd, bactin and gapdh in the liver, and bactin and gapdh in the gonad. Some of these effects were gender-specific, with bactin in the liver and gapdh in the gonad down-regulated by EE 2 in males only. Furthermore, when ef1a, g6pd, bactin or gapdh were used for normalization, the hepatic expression of two genes of interest, vitellogenin (vtg) and cytochrome P450 1A (cyp1a) following exposure to EE 2 was overestimated.
+2	103	111 estrogen	Chemical	CHEBI_50114
+2	197	210 ribosomal RNA	Chemical	CHEBI_18111
+2	207	210 RNA	Chemical	CHEBI_33697
+2	233	240 protein	Chemical	CHEBI_16541
+2	272	277 alpha	Chemical	CHEBI_30216
+2	328	332 beta	Chemical	CHEBI_10545
+2	349	375 glyceraldehyde-3-phosphate	Chemical	CHEBI_17138
+2	399	411 hypoxanthine	Chemical	CHEBI_17368
+2	470	477 protein	Chemical	CHEBI_16541
+2	525	533 estrogen	Chemical	CHEBI_50114
+2	1035	1045 cytochrome	Chemical	CHEBI_4056
+2	1035	1050 cytochrome P450	Chemical	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_18111
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_50114	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_33697
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_18111	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_16541
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_33697	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_30216
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_16541	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_10545
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_30216	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_17138
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_10545	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_17138	CHEBI_17368
+2	CHEBI-CHEBI	CHEBI_17138	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_17138	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_17368	CHEBI_4056
+2	CHEBI-CHEBI	CHEBI_17368	CHEBI_38559
+2	CHEBI-CHEBI	CHEBI_4056	CHEBI_38559
+
+3|chunk|Conclusion: Based on the data presented, we recommend 18S rRNA, rpl8, hprt1 and/or tbp, but not ef1a, g6pd, bactin and/or gapdh, as likely appropriate internal controls in real-time PCR studies of estrogens effects in fish. Our studies show that pre-validation of control genes considering the scope and nature of the experiments to be performed, including both gender and tissue type, is critical for accurate assessments of the effects of environmental estrogens on gene expression in fish.
+3	197	206 estrogens	Chemical	CHEBI_50114
+3	455	464 estrogens	Chemical	CHEBI_50114
+

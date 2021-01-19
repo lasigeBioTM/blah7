@@ -1,0 +1,39 @@
+0|chunk|Development and Assessment of a Diagnostic DNA Oligonucleotide Microarray for Detection and Typing of Meningitis-Associated Bacterial Species
+
+1|chunk|Meningitis is commonly caused by infection with a variety of bacterial or viral pathogens. Acute bacterial meningitis (ABM) can cause severe disease, which can progress rapidly to a critical life-threatening condition. Rapid diagnosis of ABM is critical, as this is most commonly associated with severe sequelae with associated high mortality and morbidity rates compared to viral meningitis, which is less severe and self-limiting. We have designed a microarray for detection and diagnosis of ABM. This has been validated using randomly amplified DNA targets (RADT), comparing buffers with or without formamide, in glass slide format or on the Alere ArrayTube TM (Alere Technologies GmbH) microarray platform. Pathogen-specific signals were observed using purified bacterial nucleic acids and to a lesser extent using patient cerebral spinal fluid (CSF) samples, with some technical issues observed using RADT and glass slides. Repurposing the array onto the Alere ArrayTube TM platform and using a targeted amplification system increased specific and reduced nonspecific hybridization signals using both pathogen nucleic and patient CSF DNA targets, better revealing pathogen-specific signals although sensitivity was still reduced in the latter. This diagnostic microarray is useful as a laboratory diagnostic tool for species and strain designation for ABM, rather than for primary diagnosis.
+1	0	10 Meningitis	Phenotype	HP_0001287
+1	91	96 Acute	Phenotype	HP_0011009
+1	107	117 meningitis	Phenotype	HP_0001287
+1	134	140 severe	Phenotype	HP_0012828
+1	296	302 severe	Phenotype	HP_0012828
+1	381	391 meningitis	Phenotype	HP_0001287
+1	407	413 severe	Phenotype	HP_0012828
+
+2|chunk|High-Throughput 2018, 7, 32 2 of 30 Viral infections are responsible for aseptic meningitis syndrome, which is characterized by a lymphocytic pleocytosis in the CSF and negative bacterial cultures. However, this form of meningitis can be mimicked by intracellular bacterial infections including Rickettsia spp., Leptospira spp. and Mycobacterium tuberculosis. Acute viral meningitis (AVM) tends to occur in epidemics and is usually a mild, self-limiting disease in the immunocompetent patient. It can be caused by a wide range of viral agents, but typically enteroviruses and herpesviruses [4] [5] [6] . Despite the usually mild nature of these viral infections, they can also be associated with more serious acute viral encephalitis (AVE), which has high mortality rates and survivors can develop chronic conditions, including significant neurological deficits.
+2	81	91 meningitis	Phenotype	HP_0001287
+2	220	230 meningitis	Phenotype	HP_0001287
+2	250	263 intracellular	Gene_function	GO_0005622
+2	360	365 Acute	Phenotype	HP_0011009
+2	372	382 meningitis	Phenotype	HP_0001287
+2	434	438 mild	Phenotype	HP_0012825
+2	624	628 mild	Phenotype	HP_0012825
+2	709	714 acute	Phenotype	HP_0011009
+2	721	733 encephalitis	Phenotype	HP_0002383
+2	798	805 chronic	Phenotype	HP_0011010
+2	HP-GO	HP_0001287	GO_0005622
+2	GO-HP	GO_0005622	HP_0011009
+2	GO-HP	GO_0005622	HP_0012825
+2	GO-HP	GO_0005622	HP_0002383
+2	GO-HP	GO_0005622	HP_0011010
+
+3|chunk|Acute bacterial meningitis (ABM) can cause more fulminant disease [3, 7, 8 ] and progression to a critical life-threatening septicemia can be extremely rapid. This has high mortality and morbidity rates if treatment is delayed or withheld [9] [10] [11] . The causes of ABM vary and are dependent on the immune status and age of the patient and whether any recent head surgery or trauma has preceded symptoms. The most common causes in healthy adults are Haemophilus influenzae, Streptococcus pneumoniae (pneumococcal disease) and Neisseria meningitidis (meningococcal disease). In neonates, the elderly and immunocompromised individuals Escherichia coli, Streptococcus agalactiae (GBS) Listeria monocytogenes and Mycobacterium tuberculosis are the prevalent pathogenic causes. Staphylococcus aureus, Staphylococcus epidermidis, and Cutibacterium acnes can be the causative agents in postcranial surgery and CSF shunts and trauma and need to be excluded during primary diagnosis [12, 13] .
+3	0	5 Acute	Phenotype	HP_0011009
+3	16	26 meningitis	Phenotype	HP_0001287
+3	435	442 healthy	Phenotype	HP_0032322
+3	944	952 excluded	Phenotype	HP_0040285
+
+4|chunk|In the early stages of disease the etiological agents responsible for ABM, AVM, and AVE are extremely difficult to diagnose due to clinical symptoms of a diffuse and nonspecific nature [14] [15] [16] . Therefore, empirical treatments of Ceftriaxone and Acyclovir, plus or minus Dexamethasone or Amoxicillin are administered a soon as possible and pre-emptive isolation of the patient is undertaken until a diagnosis is made [17] . Currently, a combination of predictive factors are used to form an initial differential diagnosis, including clinical presentation, CSF cell count and biochemistry investigations [18] . This is then followed by CSF viral PCR and bacterial culture. Serology and imaging of the brain may help to confirm a diagnosis and inform treatment. However, some causative agents e.g., N. meningitidis, can be difficult to recover using culture-based methods, in part due to the usual practice of administering antibiotics prior to patient sample collection [19, 20] . Many diagnostic laboratories therefore augment their diagnostic capabilities with the use of molecular methods for identification of meningitis-associated bacterial [21, 22] and viral pathogens [23] [24] [25] [26] , although implementation of these is not comprehensive. These are primarily real-time qualitative Polymerase chain reaction assays (RT-PCR), which are available for a limited number of meningitis-associated pathogens. In addition, there are some molecular tests available to discriminate between different bacterial species or serogroups; e.g., N. meningitidis serogroups B, C, Y and W135 [27] [28] [29] [30] , S. pneumoniae [11] and H. influenzae [31] . Serogrouping of most meningitis-associated strains is conducted using a range of methods e.g., culture, serology and immunological tests at reference laboratories [14] and more latterly sequencing [32], however there is still a need for harmonization of methodologies between laboratories [33].
+4	154	161 diffuse	Phenotype	HP_0020034
+
+5|chunk|There is a need for development of other rapid and sensitive diagnostic methods with the capability for simultaneously assaying for multiple bacterial and viral agents and which discriminate between different strains and serogroups. To facilitate this development we have investigated the use of microarrays as a solution for rapid molecular pathogen identification of ABM. These have been the focus of considerable attention in previous years for a range of analytical processes [34] [35] [36] . The use of these multiplexed analysis systems has been widely accepted previously, as a means for augmenting frontline traditional diagnostics, as they offer many advantages over traditional monoplex molecular technologies. Microarrays are also highly amenable to multiplexing, obviating the need for multiple tests per patient [37, 38] , with the potential for saving time and cost. Microarrays have further benefits over established block-based or real-time PCR tests because they require less prior knowledge of the infectious agent [39] [40] [41] [42] .
+

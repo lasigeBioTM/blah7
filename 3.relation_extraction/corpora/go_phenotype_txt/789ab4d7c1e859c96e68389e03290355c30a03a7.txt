@@ -1,0 +1,19 @@
+0|chunk|Identification of cellular proteome using two-dimensional difference gel electrophoresis in ST cells infected with transmissible gastroenteritis coronavirus
+
+1|chunk|Background: Transmissible gastroenteritis coronavirus (TGEV) is an enteropathogenic coronavirus that causes diarrhea in pigs, which is correlated with high morbidity and mortality in suckling piglets. Information remains limited about the comparative protein expression of host cells in response to TGEV infection. In this study, cellular protein response to TGEV infection in swine testes (ST) cells was analyzed, using the proteomic method of two-dimensional difference gel electrophoresis (2D DIGE) coupled with MALDI-TOF-TOF/MS identification. Results: 33 differentially expressed protein spots, of which 23 were up-regulated and 10 were down-regulated were identified. All the protein spots were successfully identified. The identified proteins were involved in the regulation of essential processes such as cellular structure and integrity, RNA processing, protein biosynthesis and modification, vesicle transport, signal transduction, and the mitochondrial pathway. Western blot analysis was used to validate the changes of alpha tubulin, keratin 19, and prohibitin during TGEV infection. Conclusions: To our knowledge, we have performed the first analysis of the proteomic changes in host cell during TGEV infection. 17 altered cellular proteins that differentially expressed in TGEV infection were identified. The present study provides protein-related information that should be useful for understanding the host cell response to TGEV infection and the underlying mechanism of TGEV replication and pathogenicity.
+1	108	116 diarrhea	Phenotype	HP_0002014
+1	863	883 protein biosynthesis	Gene_function	GO_0006412
+1	871	883 biosynthesis	Gene_function	GO_0009058
+1	902	909 vesicle	Gene_function	GO_0031982
+1	950	963 mitochondrial	Phenotype	HP_0001427
+1	1192	1201 host cell	Gene_function	GO_0043657
+1	1418	1427 host cell	Gene_function	GO_0043657
+1	HP-GO	HP_0002014	GO_0006412
+1	HP-GO	HP_0002014	GO_0009058
+1	HP-GO	HP_0002014	GO_0031982
+1	HP-GO	HP_0002014	GO_0043657
+1	GO-HP	GO_0006412	HP_0001427
+1	GO-HP	GO_0009058	HP_0001427
+1	GO-HP	GO_0031982	HP_0001427
+1	HP-GO	HP_0001427	GO_0043657
+

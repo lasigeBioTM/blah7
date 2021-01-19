@@ -1,0 +1,70 @@
+0|chunk|Mechanism of Inhibition of Ebola Virus RNA-Dependent RNA Polymerase by Remdesivir
+
+1|chunk|Remdesivir (GS-5734) is a 1 -cyano-substituted adenosine nucleotide analogue prodrug that shows broad-spectrum antiviral activity against several RNA viruses. This compound is currently under clinical development for the treatment of Ebola virus disease (EVD). While antiviral effects have been demonstrated in cell culture and in non-human primates, the mechanism of action of Ebola virus (EBOV) inhibition for remdesivir remains to be fully elucidated. The EBOV RNA-dependent RNA polymerase (RdRp) complex was recently expressed and purified, enabling biochemical studies with the relevant triphosphate (TP) form of remdesivir and its presumptive target. In this study, we confirmed that remdesivir-TP is able to compete for incorporation with adenosine triphosphate (ATP). Enzyme kinetics revealed that EBOV RdRp and respiratory syncytial virus (RSV) RdRp incorporate ATP and remdesivir-TP with similar efficiencies. The selectivity of ATP against remdesivir-TP is~4 for EBOV RdRp and~3 for RSV RdRp. In contrast, purified human mitochondrial RNA polymerase (h-mtRNAP) effectively discriminates against remdesivir-TP with a selectivity value of~500-fold. For EBOV RdRp, the incorporated inhibitor at position i does not affect the ensuing nucleotide incorporation event at position i+1. For RSV RdRp, we measured a~6-fold inhibition at position i+1 although RNA synthesis was not terminated. Chain termination was in both cases delayed and was seen predominantly at position i+5. This pattern is specific to remdesivir-TP and its 1 -cyano modification. Compounds with modifications at the 2 -position show different patterns of inhibition. While 2 -C-methyl-ATP is not incorporated, ara-ATP acts as a non-obligate chain terminator and prevents nucleotide incorporation at position i+1. Taken together, our biochemical data indicate that the major contribution to EBOV RNA synthesis inhibition by remdesivir can be ascribed to delayed chain termination. The long distance of five residues between the incorporated nucleotide analogue and its inhibitory effect warrant further investigation.
+1	494	498 RdRp	Gene_function	GO_0003968
+1	811	815 RdRp	Gene_function	GO_0003968
+1	854	858 RdRp	Gene_function	GO_0003968
+1	979	983 RdRp	Gene_function	GO_0003968
+1	998	1002 RdRp	Gene_function	GO_0003968
+1	1032	1045 mitochondrial	Phenotype	HP_0001427
+1	1167	1171 RdRp	Gene_function	GO_0003968
+1	1203	1211 position	Phenotype	HP_0012830
+1	1276	1284 position	Phenotype	HP_0012830
+1	1298	1302 RdRp	Gene_function	GO_0003968
+1	1339	1347 position	Phenotype	HP_0012830
+1	1361	1374 RNA synthesis	Gene_function	GO_0032774
+1	1365	1374 synthesis	Gene_function	GO_0009058
+1	1469	1477 position	Phenotype	HP_0012830
+1	1775	1783 position	Phenotype	HP_0012830
+1	1871	1884 RNA synthesis	Gene_function	GO_0032774
+1	1875	1884 synthesis	Gene_function	GO_0009058
+1	GO-HP	GO_0003968	HP_0001427
+1	GO-HP	GO_0003968	HP_0012830
+1	HP-GO	HP_0001427	GO_0032774
+1	HP-GO	HP_0001427	GO_0009058
+1	HP-GO	HP_0012830	GO_0032774
+1	HP-GO	HP_0012830	GO_0009058
+
+2|chunk|Viruses 2019, 11, 326 2 of 16 two single-stranded genome fragments such as the Arenaviridae (e.g., LASV), three fragments such as the order Bunyavirals (formerly the family Bunyaviridae, e.g., CCHFV), or multiple fragments such as the Orthomyxoviridae (e.g., influenza). Examples of families of non-segmented negative-sense RNA viruses with a single-stranded RNA genome (Mononegavirales) include the Filoviridae (e.g., EBOV), the Paramyxoviridae (e.g., Nipah virus (NiV)), and the Pneumoviridae (e.g., RSV).
+
+3|chunk|Prevention and treatment of infection with negative-sense RNA viruses remain challenging. The 2014 Ebola virus disease (EVD) outbreak in West Africa caused approximately 28,000 cases and 11,310 deaths and is a sober reminder of an unmet medical need [2] . Intensive research efforts during that outbreak led to the discovery and development of several vaccine and drug candidates. Promising experimental vaccines against EBOV are based on the envelope glycoprotein as the antigenic target [3] . Monoclonal antibodies and nucleotide analogue inhibitors represent investigational therapies. ZMapp, a cocktail of three monoclonal antibodies that target the EBOV glycoprotein [4] , was shown to reverse EVD in non-human primates [5] . However, results from a randomized clinical trial were inconclusive [6] . Like glycoprotein-based vaccines, the antibody cocktail is also not effective against all ebolavirus species [7, 8] . In contrast, several nucleotide analogues show antiviral activity against different ebolavirus species and also other negative-and positive-sense RNA viruses [9] [10] [11] [12] [13] [14] [15] [16] [17] .
+3	443	451 envelope	Gene_function	GO_0031975
+3	843	851 antibody	Gene_function	GO_0003823
+3	843	851 antibody	Gene_function	GO_0042571
+
+4|chunk|Favipiravir (T-705) is a nucleoside precursor that has been approved for treatment of pandemic influenza in Japan [14, 18, 19] . Intracellular phosphoribosylation yields a triphosphate form (T-705-RTP) that is accommodated by the viral RNA-dependent RNA polymerase (RdRp) (Figure 1) [20]. Experiments with recombinant influenza RdRp show ambiguous base-pairing with both cytidine and uridine, which can lead to lethal mutagenesis [21] . Incorporation of the T-705-RTP into the growing RNA chain can also cause moderate inhibition of RNA synthesis. Favipiravir is active against a large panel of RNA viruses in vitro, including EBOV [12, 22, 23] . The clinical evaluation has been challenging and results of a multicenter non-randomized trial were largely inconclusive [24] . The structure of the base moiety and proposed mechanism of action are reminiscent of ribavirin that has been used for over a decade to treat infection with the hepatitis C virus (HCV) (Figure 1 ) [25] [26] [27] [28] . A structurally distinct broad-spectrum antiviral agent that is also active against EBOV in vitro is galidesivir (BCX4430) [11] . Galidesivir is an adenosine-like compound with a nitrogen-substituted sugar ring that likewise requires intracellular activation to the TP form (Figure 1) . Biochemical experiments show that this compound serves as a substrate for the RdRp of HCV and causes chain termination following its incorporation [11] .
+4	129	142 Intracellular	Gene_function	GO_0005622
+4	266	270 RdRp	Gene_function	GO_0003968
+4	328	332 RdRp	Gene_function	GO_0003968
+4	510	518 moderate	Phenotype	HP_0012826
+4	935	944 hepatitis	Phenotype	HP_0012115
+4	1226	1239 intracellular	Gene_function	GO_0005622
+4	1357	1361 RdRp	Gene_function	GO_0003968
+4	GO-HP	GO_0005622	HP_0012826
+4	GO-HP	GO_0005622	HP_0012115
+4	GO-HP	GO_0003968	HP_0012826
+4	GO-HP	GO_0003968	HP_0012115
+
+5|chunk|Remdesivir (GS-5734) is a phosphoramidate prodrug of a 1 -cyano-substitued adenosine analogue that inhibits ebolaviruses with half maximal effective concentrations (EC 50 ) in the submicromolar range [9,10], which is considerably lower than the values reported for favipiravir or galidesivir [11, 13, 29, 30] . The triphosphate form of remdesivir (remdesivir-TP) was shown to inhibit the RSV RdRp surrogate for EBOV RdRp [10]. No significant inhibition was seen with human RNA Pol II and human mitochondrial RNA polymerase (h-mtRNAP) [10] . The biochemical data obtained with purified recombinant RSV RdRp and a recent study with NiV RdRp point to delayed chain termination as a possible mechanism of action [10, 31] . Delayed chain termination refers to inhibition of RNA synthesis a few residues downstream of the incorporated inhibitor. However, the inhibition results have yet to be translated in quantitative terms and data with recombinant EBOV RdRp are lacking. RSV, NiV, and EBOV are non-segmented viruses that share similar requirements for RNA synthesis [32, 33] . RdRp activity of RSV and NiV requires the multifunctional L protein and the phosphoprotein or P protein [31, 34, 35] . While the L protein contains the polymerase active site, the P protein is necessary to form an active complex [36] . We have recently expressed active EBOV RdRp that contains the L protein in complex with viral protein 35 (VP35) [33] , which is the functional equivalent of P proteins [37] . In this study, we utilized the EBOV RdRp complex to study the mechanism of action of remdesivir. We demonstrate that incorporation of the nucleotide analogue at position i causes delayed chain termination predominantly at position i+5. Author Contributions: Individual contributions are as follows: conceptualization, M.G. and E.P.T.; methodology, E.P.T.; software, E.P.T.; validation, M.G. and E.P.T.; formal analysis, M.G., J.Y.F., D.P.P., and E.P.T.; investigation, E.P.T.; resources, M.G.; data curation, M.G. and E.P.T.; writing-original draft preparation, M.G.; writing-review and editing, M.G., J.Y.F., D.P.P., and E.P.T.; visualization, E.P.T.; supervision, M.G.; project administration, M.G.; funding acquisition, M.G.
+5	392	396 RdRp	Gene_function	GO_0003968
+5	416	420 RdRp	Gene_function	GO_0003968
+5	494	507 mitochondrial	Phenotype	HP_0001427
+5	601	605 RdRp	Gene_function	GO_0003968
+5	634	638 RdRp	Gene_function	GO_0003968
+5	769	782 RNA synthesis	Gene_function	GO_0032774
+5	773	782 synthesis	Gene_function	GO_0009058
+5	951	955 RdRp	Gene_function	GO_0003968
+5	1050	1063 RNA synthesis	Gene_function	GO_0032774
+5	1054	1063 synthesis	Gene_function	GO_0009058
+5	1075	1079 RdRp	Gene_function	GO_0003968
+5	1350	1354 RdRp	Gene_function	GO_0003968
+5	1522	1526 RdRp	Gene_function	GO_0003968
+5	1647	1655 position	Phenotype	HP_0012830
+5	1708	1716 position	Phenotype	HP_0012830
+5	GO-HP	GO_0003968	HP_0001427
+5	GO-HP	GO_0003968	HP_0012830
+5	HP-GO	HP_0001427	GO_0032774
+5	HP-GO	HP_0001427	GO_0009058
+5	GO-HP	GO_0032774	HP_0012830
+5	GO-HP	GO_0009058	HP_0012830
+

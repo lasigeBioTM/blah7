@@ -1,0 +1,21 @@
+0|chunk|In silico target fishing and pharmacological profiling for the isoquinoline alkaloids of Macleaya cordata (Bo Luo Hui)
+
+1|chunk|Background: Some isoquinoline alkaloids from Macleaya cordata (Willd). R. Br. (Bo Luo Hui) exhibited antibacterial, antiparasitic, antitumor, and analgesic effects. The targets of these isoquinoline alkaloids are undefined. This study aims to investigate the compound-target interaction network and potential pharmacological actions of isoquinoline alkaloids of M. cordata by reverse pharmacophore database screening.
+
+2|chunk|The targets of 26 isoquinoline alkaloids identified from M. cordata were predicted by a pharmacophorebased target fishing approach. Discovery Studio 3.5 and two pharmacophore databases (PharmaDB and HypoDB) were employed for the target profiling. A compound-target interaction network of M. cordata was constructed and analyzed by Cytoscape 3.0.
+
+3|chunk|Results: Thirteen of the 65 predicted targets identified by PharmaDB were confirmed as targets by HypoDB screening. The targets in the interaction network of M. cordata were involved in cancer (31 targets), microorganisms (12 targets), neurodegeneration (10 targets), inflammation and autoimmunity (8 targets), parasitosis (5 targets), injury (4 targets), and pain (3 targets). Dihydrochelerythrine (C6) was found to hit 23 fitting targets. Macrophage migration inhibitory factor (MIF) hits 15 alkaloids (C1-2, C11-16, C19-25) was the most promising target related to cancer.
+3	186	192 cancer	Phenotype	HP_0002664
+3	236	253 neurodegeneration	Phenotype	HP_0002180
+3	285	297 autoimmunity	Phenotype	HP_0002960
+3	360	364 pain	Phenotype	HP_0012531
+3	441	461 Macrophage migration	Gene_function	GO_1905517
+3	568	574 cancer	Phenotype	HP_0002664
+3	HP-GO	HP_0002664	GO_1905517
+3	HP-GO	HP_0002180	GO_1905517
+3	HP-GO	HP_0002960	GO_1905517
+3	HP-GO	HP_0012531	GO_1905517
+
+4|chunk|Through in silico target fishing, the anticancer, anti-inflammatory, and analgesic effects of M. cordata were the most significant among many possible activities. The possible anticancer effects were mainly contributed by the isoquinoline alkaloids as active components.  2015 Lei et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http:// creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/
+4	493	505 reproduction	Gene_function	GO_0000003
+

@@ -1,0 +1,52 @@
+0|chunk|Hyponatremia in children with respiratory infections: a cross- sectional analysis of a cohort of 3938 patients OPEN
+0	0	12 Hyponatremia	Phenotype	HP_0002902
+
+1|chunk|Hyponatremia can be a life-threatening illness among hospitalized children. The aims of this study were to evaluate the incidence and risk factors of hyponatremia in 3938 children who were admitted to the Cheil General Hospital and Women's Health Care Center with respiratory infections. Clinical data were collected, and multiplex RT-PCR analyses were done for various microorganisms. Hyponatremia was observed in 531 (13.5%) patients. The incidence of hyponatremia differed according to the respiratory tract infection (P < 0.0001) and microorganism (P = 0.001). In children with hyponatremia, the age at admission was significantly older (P < 0.0001), male gender was more frequent (P = 0.019), CRP was higher (P < 0.0001), and coinfection with multiple organisms was more common (P = 0.001) than in children without hyponatremia. In multivariate analyses, an older age at admission (P = 0.006), male gender (P = 0.004), and increased CRP (P < 0.0001) were independent risk factors. Sodium levels correlated negatively with WBC (P = 0.037), CRP (P < 0.0001), and number of hospital days (P = 0.020). The AUC values of age (0.586, P < 0.0001), CRP (0.599, P < 0.0001), and blood urea nitrogen (0.559, P < 0.0001) were all significant predictors of hyponatremia. This study is the first to show that the incidence of hyponatremia differs according to infecting microorganism and radiological findings.
+1	0	12 Hyponatremia	Phenotype	HP_0002902
+1	150	162 hyponatremia	Phenotype	HP_0002902
+1	386	398 Hyponatremia	Phenotype	HP_0002902
+1	454	466 hyponatremia	Phenotype	HP_0002902
+1	493	520 respiratory tract infection	Phenotype	HP_0011947
+1	582	594 hyponatremia	Phenotype	HP_0002902
+1	676	684 frequent	Phenotype	HP_0040282
+1	820	832 hyponatremia	Phenotype	HP_0002902
+1	1250	1262 hyponatremia	Phenotype	HP_0002902
+1	1318	1330 hyponatremia	Phenotype	HP_0002902
+
+2|chunk|Hyponatremia is defined as a plasma sodium concentration of less than 135 mEq/L and is one of the most common electrolyte derangements in both adults and children 1 . It can result from either a deficit of sodium or an excess of free water, and the incidence in a small number of cohorts was estimated as 17-45% of hospitalized children 2-5 .
+2	0	12 Hyponatremia	Phenotype	HP_0002902
+
+3|chunk|Acute, severe hyponatremia that develops within 48 hours can result in acute cerebral edema and various sequelae, such as headache, lethargy, seizures, and cardiac arrest due to brain stem herniation. Children are more vulnerable than adults to those sequelae because the brain/intracranial volume ratio is higher in children than in adults 6-8 . Recent evidence suggests that even mild chronic hyponatremia can be related to subtle neurologic defects, such as impairments in balance and attention that can increase the incidence of falls 9 .
+3	0	5 Acute	Phenotype	HP_0011009
+3	7	13 severe	Phenotype	HP_0012828
+3	14	26 hyponatremia	Phenotype	HP_0002902
+3	71	76 acute	Phenotype	HP_0011009
+3	77	91 cerebral edema	Phenotype	HP_0002181
+3	86	91 edema	Phenotype	HP_0000969
+3	156	170 cardiac arrest	Phenotype	HP_0001695
+3	382	386 mild	Phenotype	HP_0012825
+3	387	394 chronic	Phenotype	HP_0011010
+3	395	407 hyponatremia	Phenotype	HP_0002902
+3	533	538 falls	Phenotype	HP_0002527
+
+4|chunk|The most probable cause of hyponatremia is thought to be the non-osmotic release of antidiuretic hormone (ADH) as a result of various clinical conditions, such as fever, hypovolemia, and respiratory tract infections 2,4,10 . Among patients with respiratory tract infections, pneumonia and bronchiolitis are most commonly associated with hyponatremia 3-5 . However, the incidence of hyponatremia according to the etiological involvement of various microorganisms has not yet been studied. As a key event in the pathophysiology of hyponatremia in patients with respiratory tract infections, a syndrome of inappropriate ADH secretion (SIADH) caused by Published: xx xx xxxx OPEN www.nature.com/scientificreports/
+4	27	39 hyponatremia	Phenotype	HP_0002902
+4	106	109 ADH	Gene_function	GO_0004022
+4	275	284 pneumonia	Phenotype	HP_0002090
+4	289	302 bronchiolitis	Phenotype	HP_0011950
+4	337	349 hyponatremia	Phenotype	HP_0002902
+4	382	394 hyponatremia	Phenotype	HP_0002902
+4	529	541 hyponatremia	Phenotype	HP_0002902
+4	603	630 inappropriate ADH secretion	Phenotype	HP_0031218
+4	617	620 ADH	Gene_function	GO_0004022
+4	621	630 secretion	Gene_function	GO_0046903
+4	632	637 SIADH	Phenotype	HP_0031218
+4	HP-GO	HP_0002902	GO_0004022
+4	HP-GO	HP_0002902	GO_0046903
+4	GO-HP	GO_0004022	HP_0002090
+4	GO-HP	GO_0004022	HP_0011950
+4	GO-HP	GO_0004022	HP_0031218
+4	HP-GO	HP_0002090	GO_0046903
+4	HP-GO	HP_0011950	GO_0046903
+4	HP-GO	HP_0031218	GO_0046903
+

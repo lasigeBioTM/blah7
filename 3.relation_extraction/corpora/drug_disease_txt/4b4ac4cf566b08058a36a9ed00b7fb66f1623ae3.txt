@@ -1,0 +1,48 @@
+0|chunk|Selection and Characterization of Monoclonal Antibodies Targeting Middle East Respiratory Syndrome Coronavirus through a Human Synthetic Fab Phage Display Library Panning
+0	66	98 Middle East Respiratory Syndrome	Disease	DOID_0080642
+0	90	98 Syndrome	Disease	DOID_225
+
+1|chunk|Since its first report in the Middle East in 2012, the Middle East respiratory syndrome-coronavirus (MERS-CoV) has become a global concern due to the high morbidity and mortality of individuals infected with the virus. Although the majority of MERS-CoV cases have been reported in Saudi Arabia, the overall risk in areas outside the Middle East remains significant as inside Saudi Arabia. Additional pandemics of MERS-CoV are expected, and thus novel tools and reagents for therapy and diagnosis are urgently needed. Here, we used phage display to develop novel monoclonal antibodies (mAbs) that target MERS-CoV. A human Fab phage display library was panned against the S2 subunit of the MERS-CoV spike protein (MERS-S2P), yielding three unique Fabs (S2A3, S2A6, and S2D5). The Fabs had moderate apparent affinities (Half maximal effective concentration (EC 50 = 123-421 nM) for MERS-S2P, showed no cross-reactivity to spike proteins from other CoVs, and were non-aggregating and thermostable (T m = 61.5-80.4  C). Reformatting the Fabs into IgGs (Immunoglobulin Gs) greatly increased their apparent affinities (K D = 0.17-1.2 nM), presumably due to the effects of avidity. These apparent affinities were notably higher than that of a previously reported anti-MERS-CoV S2 reference mAb (K D = 8.7 nM). Furthermore, two of the three mAbs (S2A3 and S2D5) bound only MERS-CoV (Erasmus Medical Center (EMC)) and not other CoVs, reflecting their high binding specificity. However, the mAbs lacked MERS-CoV neutralizing activity. Given their high affinity, specificity, and desirable stabilities, we anticipate that these anti-MERS-CoV mAbs would be suitable reagents for developing antibody-based diagnostics in laboratory or hospital settings for point-of-care testing. Antibodies 2019, 8, 42 2 of 16 was initiated in South Korea in 2015 and outbreaks still sporadically occur in various regions, including the Middle East [1,2]
+1	461	469 reagents	Chemical	CHEBI_33893
+1	703	710 protein	Chemical	CHEBI_16541
+1	925	933 proteins	Chemical	CHEBI_36080
+1	1012	1015 Caa	Chemical	CHEBI_27869
+1	1654	1662 reagents	Chemical	CHEBI_33893
+
+2|chunk|. MERS-CoV causes severe respiratory symptoms accompanied by high fever, cough, and severe pneumonia, and mortality rates can be as high as 35% [3] . The overall risk in areas outside Saudi Arabia, the country in which most of the cases have been reported, remains as significant as inside Saudi Arabia, and thus novel tools and reagents for therapy and diagnosis are urgently needed.
+2	329	337 reagents	Chemical	CHEBI_33893
+
+3|chunk|Among the four coronavirus genera (alpha, beta, gamma, and delta), MERS-CoV, along with severe acute respiratory syndrome coronavirus (SARS-CoV), belongs to the betacoronaviruses. MERS-CoV is an enveloped RNA virus with a positive-sense, single-stranded RNA genome that encodes structural proteins including the spike (S) protein and the nucleocapsid protein (NP) [4] . Like all coronaviruses, the S protein, present on the surface of the MERS-CoV virion, plays a critical role in the viral entry into host cells [5, 6] . The S protein consists of two non-covalently associated subunits, S1 and S2, and trimerizes to form a prefusion spike [7] [8] [9] . Upon entry of the virus into cells, the receptor-binding domain (RBD) of the S1 subunit recognizes the host cell receptors dipeptidyl peptidase 4 (DPP4) or CD26 [10-12], while the S2 subunit has a role in viral fusion with host cell membranes through the interplay of two heptad repeats (HR1 and HR2) and a transmembrane domain on the S2 subunit [6, 13] .
+3	88	121 severe acute respiratory syndrome	Disease	DOID_2945
+3	113	121 syndrome	Disease	DOID_225
+3	205	208 RNA	Chemical	CHEBI_33697
+3	254	257 RNA	Chemical	CHEBI_33697
+3	289	297 proteins	Chemical	CHEBI_36080
+3	322	329 protein	Chemical	CHEBI_16541
+3	351	358 protein	Chemical	CHEBI_16541
+3	400	407 protein	Chemical	CHEBI_16541
+3	473	477 role	Chemical	CHEBI_50906
+3	528	535 protein	Chemical	CHEBI_16541
+3	851	855 role	Chemical	CHEBI_50906
+3	DOID-CHEBI	DOID_2945	CHEBI_33697
+3	DOID-CHEBI	DOID_2945	CHEBI_36080
+3	DOID-CHEBI	DOID_2945	CHEBI_16541
+3	DOID-CHEBI	DOID_2945	CHEBI_50906
+3	DOID-CHEBI	DOID_225	CHEBI_33697
+3	DOID-CHEBI	DOID_225	CHEBI_36080
+3	DOID-CHEBI	DOID_225	CHEBI_16541
+3	DOID-CHEBI	DOID_225	CHEBI_50906
+
+4|chunk|Vaccines have been the most effective prophylactic tools against viral infections, although their long development time and inability to confer immediate protection or therapy are significant drawbacks [14] . Neutralizing monoclonal antibodies (mAbs) are rapidly emerging as an alternative approach complementing vaccines against viral infections [14] . Due to its critical role in the interaction with host cell receptors, tremendous efforts have been focused on the discovery of neutralizing mAbs against the RBD of the MERS-CoV S1 subunit [15] [16] [17] [18] . Strategies have included phage or yeast display library selection; immunization of animals, such as humanized mice and dromedary camels; and antibody isolation from human survivors of MERS-CoV infection. However, a drawback of the mAbs is their costly and time-consuming production in mammalian cell lines. Moreover, viruses can easily evolve to generate RBD variants with mutations that avoid immune responses [19, 20] . However, such mutations are less common in the S2 subunit, which makes it an attractive target for therapeutic purposes. Indeed, the first MERS-CoV S2 subunit (MERS-S2P)-targeting antibody, called G4, was generated using mouse immunization and was demonstrated to recognize a variable loop in the S2 connector domain and to neutralize infection by the virus [13, 21] .
+4	374	378 role	Chemical	CHEBI_50906
+
+5|chunk|Although anti-MERS-CoV therapies are urgently needed, there is currently no anti-viral drug or vaccine approved for human use. Therefore, the importance of developing reliable diagnostic tests is rapidly becoming clear to manage and control a viral spread. Indeed, various diagnostic tests have been developed since the first description of the virus. Real-time PCR (RT-PCR), accompanied with viral RNA sequencing, is the primary method used to detect viral infection, although there are obvious limitations of this test such as a long turnaround time [1, [22] [23] [24] [25] [26] [27] . Serological tests relying on antibodies specific to viral antigens, such as the NP, can also be used by either capturing viral antigens through enzyme-linked immunosorbent assay (ELISA) and immunochromatographic tests (ICTs) [28] [29] [30] or by detecting anti-MERS-CoV antibodies through ELISA, indirect fluorescence antibody assay (IFA), Western blotting, and neutralization assays [31] [32] [33] [34] [35] .
+5	76	91 anti-viral drug	Chemical	CHEBI_36044
+5	87	91 drug	Chemical	CHEBI_23888
+5	222	228 manage	Chemical	CHEBI_81767
+5	399	402 RNA	Chemical	CHEBI_33697
+5	646	654 antigens	Chemical	CHEBI_59132
+5	715	723 antigens	Chemical	CHEBI_59132
+
+6|chunk|In this study, we panned a synthetic human Fab phage display library against MERS-S2P and obtained monoclonal antibodies (mAbs) that specifically detected the viral S2 subunit. We also described the use of these mAbs for the development of a novel ELISA format called ACCEL ELISA, which we anticipate can be used as a rapid diagnostic test with a high sensitivity for point-of-care testing (POCT) of MERS-CoV infection.
+

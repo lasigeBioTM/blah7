@@ -1,0 +1,20 @@
+0|chunk|Hepatitis E Virus ORF2 Protein Activates the Pro- Apoptotic Gene CHOP and Anti-Apoptotic Heat Shock Proteins
+0	0	9 Hepatitis	Phenotype	HP_0012115
+0	94	99 Shock	Phenotype	HP_0031273
+
+1|chunk|Background: Hepatitis E virus (HEV) is a non-enveloped plus-strand RNA virus that causes acute hepatitis. The capsid protein open reading frame 2 (ORF2) is known to induce endoplasmic reticulum stress in ORF2 expressing cells.
+1	12	21 Hepatitis	Phenotype	HP_0012115
+1	89	94 acute	Phenotype	HP_0011009
+1	95	104 hepatitis	Phenotype	HP_0012115
+1	172	193 endoplasmic reticulum	Gene_function	GO_0005783
+1	HP-GO	HP_0012115	GO_0005783
+1	HP-GO	HP_0011009	GO_0005783
+
+2|chunk|Methodology/Principal Findings: In this study we found that HEV ORF2 activates the expression of the pro-apoptotic gene C/EBP homologous protein (CHOP). ORF2 stimulates the CHOP promoter mainly through AARE (amino acid response elements) and to a minor extent the ERSE (endoplasmic reticulum stress response elements). Activating transcription factor 4 (ATF4) protein binds and activates the AARE regulatory sites of the CHOP promoter. ORF2 expression also leads to increased phosphorylation of eukaryotic initiation factor 2 alpha (eIF2a) that in turn initiates the translation of ATF4 mRNA. The pro-apoptotic gene CHOP is an important trigger to initiate endoplasmic reticulum stress induced apoptosis. However, the activation of CHOP by ORF2 in this study did not induce apoptosis, nor did BCL2-associated X protein (Bax) translocate to mitochondria. Microarray analysis revealed an ORF2 specific increased expression of chaperones Hsp72, Hsp70B', and cochaperone Hsp40. Co-immunoprecipitation (Co-IP) and in silico molecular docking analysis suggests that HEV ORF2 interacts with Hsp72. In addition, Hsp72 shows nuclear accumulation in ORF2 expressing cells.
+2	270	291 endoplasmic reticulum	Gene_function	GO_0005783
+2	476	491 phosphorylation	Gene_function	GO_0016310
+2	567	578 translation	Gene_function	GO_0006412
+2	657	678 endoplasmic reticulum	Gene_function	GO_0005783
+
+3|chunk|Conclusions/Significance: These data provide new insight into simultaneously occurring counter-acting effects of HEV ORF2 that may be part of a strategy to prevent host suicide before completion of the viral replication cycle.
+

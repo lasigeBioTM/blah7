@@ -1,0 +1,63 @@
+{
+    "text": "This paper aims to perform a theoretical reflection on the historical-social foundations of the COVID-19 pandemic. The \"capital worldization\", \"capital-imperialism\", \"space-time compression\", and \"structural crisis of capital\" categories are conjured from the historical materialistic-theoretical matrix, outlining a course that transcends the limits of Health Sciences to understand global health, of which the COVID-19 pandemic is an expression. We then return to the field of health, when the category of \"social determination of health\" allows elucidating the bases of the pandemic studied. We show that, other elements typical of the current phase of contemporary capitalism have become universal besides the SARS-CoV-2 characteristics or the dynamics of the rapid movement of people and objects around the world, unifying the health social determination process.",
+    "denotations": [
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 96,
+                "end": 104
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "DOID_0080600",
+            "span": {
+                "begin": 412,
+                "end": 420
+            },
+            "obj": "COVID-19"
+        },
+        {
+            "id": "CHEBI_22695",
+            "span": {
+                "begin": 564,
+                "end": 569
+            },
+            "obj": "bases"
+        },
+        {
+            "id": "CHEBI_33250",
+            "span": {
+                "begin": 615,
+                "end": 623
+            },
+            "obj": "elements"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_22695"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_0080600",
+            "pred": "no_relation",
+            "obj": "CHEBI_33250"
+        },
+        {
+            "id": "R2",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_22695"
+        },
+        {
+            "id": "R3",
+            "subj": "DOID_0080600",
+            "pred": "effect",
+            "obj": "CHEBI_33250"
+        }
+    ]
+}

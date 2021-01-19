@@ -1,0 +1,88 @@
+0|chunk|Replication-Competent Influenza A Viruses Expressing Reporter Genes
+0	22	31 Influenza	Disease	DOID_8469
+
+1|chunk|Influenza A viruses (IAV) cause annual seasonal human respiratory disease epidemics. In addition, IAV have been implicated in occasional pandemics with inordinate health and economic consequences. Studying IAV, in vitro or in vivo, requires the use of laborious secondary methodologies to identify virus-infected cells. To circumvent this requirement, replication-competent IAV expressing an easily traceable reporter protein can be used. Here we discuss the development and applications of recombinant replication-competent IAV harboring diverse fluorescent or bioluminescent reporter genes in different locations of the viral genome. These viruses have been employed for in vitro and in vivo studies, such as the screening of neutralizing antibodies or antiviral compounds, the identification of host factors involved in viral replication, cell tropism, the development of vaccines, or the assessment of viral infection dynamics. In summary, reporter-expressing, replicating-competent IAV represent a powerful tool for the study of IAV both in vitro and in vivo.
+1	0	9 Influenza	Disease	DOID_8469
+1	66	73 disease	Disease	DOID_4
+1	418	425 protein	Chemical	CHEBI_16541
+1	755	764 antiviral	Chemical	CHEBI_22587
+1	906	921 viral infection	Disease	DOID_934
+1	DOID-CHEBI	DOID_8469	CHEBI_16541
+1	DOID-CHEBI	DOID_8469	CHEBI_22587
+1	DOID-CHEBI	DOID_4	CHEBI_16541
+1	DOID-CHEBI	DOID_4	CHEBI_22587
+1	CHEBI-DOID	CHEBI_16541	DOID_934
+1	CHEBI-DOID	CHEBI_22587	DOID_934
+
+2|chunk|The NA protein cleaves sialic acid moieties from sialyloligosaccharides and facilitates the release of nascent virions [10, 11] . Importantly, NA is a major target for antiviral drugs, such as oseltamivir, that block the aforementioned cleavage and prevent viral dissemination to prevent further infection [12, 13] . Figure 1. Influenza A virus (IAV) genome organization and virion structure. (A) Genome organization: The eight single-stranded, negative-sense, viral (v)RNA segments PB2, PB1, PA, HA, NP, NA, M and NS of IAV are indicated. Black boxes at the end of each of the vRNAs indicate the 3' and 5' non-coding regions (NCR).
+2	7	14 protein	Chemical	CHEBI_16541
+2	23	34 sialic acid	Chemical	CHEBI_26667
+2	30	34 acid	Chemical	CHEBI_37527
+2	168	177 antiviral	Chemical	CHEBI_22587
+2	327	336 Influenza	Disease	DOID_8469
+2	470	473 RNA	Chemical	CHEBI_33697
+2	CHEBI-DOID	CHEBI_16541	DOID_8469
+2	CHEBI-DOID	CHEBI_26667	DOID_8469
+2	CHEBI-DOID	CHEBI_37527	DOID_8469
+2	CHEBI-DOID	CHEBI_22587	DOID_8469
+2	DOID-CHEBI	DOID_8469	CHEBI_33697
+
+3|chunk|Hatched boxes indicate the packaging signals present at the 3' and 5' ends of each of the vRNAs that are responsible for efficient encapsidation into nascent virions. Numbers represent nucleotide lengths for each of the NCR and packaging signals; (B) Virion structure: IAV is surrounded by a lipid bilayer containing the two viral glycoproteins hemagglutinin (HA), responsible for binding to sialic acid-containing receptors; and neuraminidase (NA), responsible for viral release from infected cells. Also in the virion membrane is the ion channel matrix 2 (M2) protein. Under the viral lipid bilayer is a protein layer composed of the inner surface envelop matrix 1 (M1) protein, which plays a role in virion assembly and budding; and the nuclear export protein (NEP) involved in the nuclear export of the viral ribonucleoprotein (vRNP) complexes. Underneath is the core of the virus made of the eight vRNA segments that are encapsidated by the viral nucleoprotein (NP). Associated with each vRNP a complex is the viral RNA-dependent RNA polymerase (RdRp) complex made of the three polymerase subunits PB2, PB1 and PA that, together with the viral NP are the minimal components required for viral replication and transcription.
+3	185	195 nucleotide	Chemical	CHEBI_36976
+3	292	297 lipid	Chemical	CHEBI_18059
+3	331	344 glycoproteins	Chemical	CHEBI_17089
+3	536	539 ion	Chemical	CHEBI_24870
+3	562	569 protein	Chemical	CHEBI_16541
+3	587	592 lipid	Chemical	CHEBI_18059
+3	606	613 protein	Chemical	CHEBI_16541
+3	672	679 protein	Chemical	CHEBI_16541
+3	695	699 role	Chemical	CHEBI_50906
+3	755	762 protein	Chemical	CHEBI_16541
+3	1035	1038 RNA	Chemical	CHEBI_33697
+
+4|chunk|The replication and transcription process of influenza vRNAs are carried out by NP and the three polymerase subunits, an acidic (PA) and two basic (PB1 and PB2) proteins, which are encoded by the three largest vRNA segments [1]. Unlike many RNA viruses, influenza viral genome replication and transcription occurs in the nucleus of infected cells [14] . Newly synthesized vRNP complexes are then exported from the nucleus to the cytoplasm by the nuclear export protein (NEP) and the matrix protein 1 (M1), and are assembled into virions at the plasma membrane [1]. The small IAV genome is able to transcribe multiple viral genes from single segments through multiple mechanisms. These mechanisms include alternative splicing of viral mRNAs (M and NS segments), non-canonical translation, non-AUG initiation, or ribosomal frameshifting [1, [15] [16] [17] [18] [19] . Moreover, to extend the coding capability of the viral genome, IAV encode proteins containing more than one function during virus infection. A well-studied multifunctional IAV protein is the non-structural protein 1 (NS1), which Viruses 2016, 8, 179 3 of 28
+4	45	54 influenza	Disease	DOID_8469
+4	161	169 proteins	Chemical	CHEBI_36080
+4	241	244 RNA	Chemical	CHEBI_33697
+4	254	263 influenza	Disease	DOID_8469
+4	321	328 nucleus	Chemical	CHEBI_33252
+4	414	421 nucleus	Chemical	CHEBI_33252
+4	461	468 protein	Chemical	CHEBI_16541
+4	490	497 protein	Chemical	CHEBI_16541
+4	940	948 proteins	Chemical	CHEBI_36080
+4	1042	1049 protein	Chemical	CHEBI_16541
+4	1072	1079 protein	Chemical	CHEBI_16541
+4	DOID-CHEBI	DOID_8469	CHEBI_36080
+4	DOID-CHEBI	DOID_8469	CHEBI_33697
+4	DOID-CHEBI	DOID_8469	CHEBI_33252
+4	DOID-CHEBI	DOID_8469	CHEBI_16541
+
+5|chunk|is expressed at very high levels in infected cells and is a determinant of virulence that functions in several ways to defeat cellular innate antiviral mechanisms [20] . NS1 is encoded on a collinear mRNA derived from vRNA segment eight (NS), which upon splicing results in the synthesis of NEP [21] .
+5	142	151 antiviral	Chemical	CHEBI_22587
+5	200	204 mRNA	Chemical	CHEBI_33699
+
+6|chunk|Although the natural reservoirs of IAV are wild waterfowl and shorebirds, IAV expand their host range to many avian and mammalian species through undefined adaptive processes involving mutation and genome reassortment [22, 23] , and this cross-species jumping characteristic allows the generation of potentially pandemic strains. In addition, antigenic drift occurs when the virus accumulates mutations that preclude binding by pre-existing antibodies, producing variant viruses that can escape immunity. IAV of three HA subtypes (H1, H2 and H3) thus gained the ability to be transmitted efficiently among humans [24] . In addition, IAV of the H5, H7 and H9 subtypes are also thought to represent pandemic threats because they have crossed the species barrier and infected humans [25] [26] [27] [28] . Given the persistent threat posed by IAV infections, accelerating the development of novel countermeasures against IAV infections and increasing the biological understanding associated with viral infections are imperative.
+
+7|chunk|Current available options to counter IAV include both vaccines and antivirals [12, 29] . Only two classes of antivirals are approved for IAV that target either the ion channel function of the matrix 2 (M2) protein or the neuraminidase function of the NA protein [12] . However, these antiviral compounds have problems in terms of safety and the emergence of viral resistance [12, 30, 31] . Vaccines, due to the induction of sterilizing immunity, are the primary means to prevent IAV infections. However, currently available vaccines have moderate efficacy that changes seasonally [32] . Moreover, to generate vaccines against highly pathogenic IAV, as in the case of a pandemic outbreak, requires time. Therefore, developing new antiviral strategies to combat IAV infections are urgently needed. Current and traditional technologies to identify antivirals against IAV have been extensively reviewed [33] . This review will focus on the application and limitations of replication-competent IAV harboring fluorescent and/or luminescent reporter genes. Through better knowledge of the influenza virus genome, most importantly the identification of vRNA packaging signals [34] [35] [36] [37] , it has become possible to engineer replication-competent IAV encoding exogenous genes [38] [39] [40] [41] . Stable incorporation of foreign genes in replication-competent, reporter-expressing IAV allows for effective tracking of viral infection in vitro and in vivo enabling a robust quantitative readout. This readout can be used with high throughput screenings (HTS) and to assess viral infection in tissue culture cells and animals models without the use of secondary approaches to identify the presence of the virus.
+7	67	77 antivirals	Chemical	CHEBI_22587
+7	109	119 antivirals	Chemical	CHEBI_22587
+7	164	167 ion	Chemical	CHEBI_24870
+7	206	213 protein	Chemical	CHEBI_16541
+7	254	261 protein	Chemical	CHEBI_16541
+7	284	293 antiviral	Chemical	CHEBI_22587
+7	729	738 antiviral	Chemical	CHEBI_22587
+7	845	855 antivirals	Chemical	CHEBI_22587
+7	1082	1091 influenza	Disease	DOID_8469
+7	1419	1434 viral infection	Disease	DOID_934
+7	1554	1557 HTS	Disease	DOID_0110698
+7	1573	1588 viral infection	Disease	DOID_934
+7	CHEBI-DOID	CHEBI_22587	DOID_8469
+7	CHEBI-DOID	CHEBI_22587	DOID_934
+7	CHEBI-DOID	CHEBI_22587	DOID_0110698
+7	CHEBI-DOID	CHEBI_24870	DOID_8469
+7	CHEBI-DOID	CHEBI_24870	DOID_934
+7	CHEBI-DOID	CHEBI_24870	DOID_0110698
+7	CHEBI-DOID	CHEBI_16541	DOID_8469
+7	CHEBI-DOID	CHEBI_16541	DOID_934
+7	CHEBI-DOID	CHEBI_16541	DOID_0110698
+

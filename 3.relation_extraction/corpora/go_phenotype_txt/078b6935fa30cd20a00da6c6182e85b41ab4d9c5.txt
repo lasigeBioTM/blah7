@@ -1,0 +1,50 @@
+0|chunk|
+
+1|chunk|Persistence, more recently termed the chlamydial stress response, is a viable but noninfectious state constituting a divergence from the characteristic chlamydial biphasic developmental cycle. Damage/danger associated molecular patterns (DAMPs) are normal intracellular components or metabolites that, when released from cells, signal cellular damage/ lysis. Purine metabolite DAMPs, including extracellular ATP and adenosine, inhibit chlamydial development in a species-specific manner. Viral co-infection has been shown to reversibly abrogate Chlamydia inclusion development, suggesting persistence/chlamydial stress. Because viral infection can cause host cell DAMP release, we hypothesized DAMPs may influence chlamydial development. Therefore, we examined the effect of extracellular ATP, adenosine, and cyclic AMP exposure, at 0 and 14 hours post infection, on C. pecorum and C. trachomatis serovar E development. In the absence of de novo host protein synthesis, exposure to DAMPs immediately post or at 14 hours post infection reduced inclusion size; however, the effect was less robust upon 14 hours post infection exposure. Additionally, upon exposure to DAMPs immediately post infection, bacteria per inclusion and subsequent infectivity were reduced in both Chlamydia species. These effects were reversible, and C. pecorum exhibited more pronounced recovery from DAMP exposure. Aberrant bodies, typical in virus-induced chlamydial persistence, were absent upon DAMP exposure. In the presence of de novo host protein synthesis, exposure to DAMPs immediately post infection reduced inclusion size, but only variably modulated chlamydial infectivity. Because chlamydial infection and other infections may increase local DAMP concentrations, DAMPs may influence Chlamydia infection in vivo, particularly in the context of poly-microbial infections.
+1	256	269 intracellular	Gene_function	GO_0005622
+1	394	407 extracellular	Gene_function	GO_0005576
+1	628	643 viral infection	Gene_function	GO_0016032
+1	654	663 host cell	Gene_function	GO_0043657
+1	775	788 extracellular	Gene_function	GO_0005576
+
+2|chunk|The Chlamydiaceae are a genus of Gram-negative, obligate intracellular bacterial pathogens that cause a spectrum of diseases in both humans and agriculturally important animals. C. pecorum infection, for example, causes clinical manifestations in swine ranging from conjunctivitis to abortion [1]. C. trachomatis infection in humans can cause medically important conditions, such as trachoma, pelvic inflammatory disease, and infertility. Though chlamydial infections can cause acute diseases, they are most associated with chronic inflammation resulting in significant host tissue damage [2] . The chlamydiae also share a complex developmental cycle. The infectious form (the elementary body or EB), binds to and enters the host cell. After host cell entry, the EB transitions into the more metabolically active, replicative developmental form (the reticulate body or RB). The RB then grow and divide within a cytoplasmic, membrane-bound inclusion. After several rounds of division, RB convert back into infectious EB, which are released from the host cell [3] . A third stage, historically termed persistence or more recently the chlamydial stress response, is defined as a developmental stage in which the organisms are viable but non-infectious. Persistent/stressed RB are enlarged, irregularly shaped and non-dividing; these altered developmental forms are sometimes called aberrant bodies (AB). The persistence/stress response is reversible-when the stressor is removed, the chlamydiae resume normal, productive development. A variety of stressors induce chlamydial persistence/ stress in culture: these include IFN- exposure; glucose, iron and amino acid deprivation; and host cell co-infection with herpes simplex virus type 2 [4], Human Herpes Virus 6 [5], and the coronavirus porcine epidemic diarrhea virus (PEDV) [6, 7] .
+2	48	56 obligate	Phenotype	HP_0040280
+2	57	70 intracellular	Gene_function	GO_0005622
+2	266	280 conjunctivitis	Phenotype	HP_0000509
+2	478	483 acute	Phenotype	HP_0011009
+2	524	531 chronic	Phenotype	HP_0011010
+2	725	734 host cell	Gene_function	GO_0043657
+2	742	751 host cell	Gene_function	GO_0043657
+2	1048	1057 host cell	Gene_function	GO_0043657
+2	1680	1689 host cell	Gene_function	GO_0043657
+2	1804	1812 diarrhea	Phenotype	HP_0002014
+2	HP-GO	HP_0040280	GO_0005622
+2	HP-GO	HP_0040280	GO_0043657
+2	GO-HP	GO_0005622	HP_0000509
+2	GO-HP	GO_0005622	HP_0011009
+2	GO-HP	GO_0005622	HP_0011010
+2	GO-HP	GO_0005622	HP_0002014
+2	HP-GO	HP_0000509	GO_0043657
+2	HP-GO	HP_0011009	GO_0043657
+2	HP-GO	HP_0011010	GO_0043657
+2	GO-HP	GO_0043657	HP_0002014
+
+3|chunk|Both pathogen infection and sterile trauma can promote release of damage/danger associated molecular patterns (DAMPs) from mammalian cells/tissues. Typically, DAMPs are normal intracellular components or metabolites, the release of which into the extracellular milieu indicates cellular damage or lysis. Once in the extracellular environment, DAMPs bind signaling receptors on mammalian cells and initiate specific responses that promote local inflammation and wound healing. Known DAMPs include heat shock proteins, high mobility group box 1 protein (HMGB1), uric acid, and purine metabolites (reviewed in [8]) [9] . Extracellular ATP (ATP e ) and adenosine (ADO) are two well studied DAMPs, the binding of which to purinergic receptors initiates components of the mammalian defense against intracellular pathogens (reviewed in [10]). Purinergic receptor activation is known to limit chlamydial development in a host cell-and chlamydial species-specific manner. For example, exposure of C. caviae-infected mouse J774 macrophages to ATP e reduces infectious titer by >50% [11] . ATP e -exposure also restricts C. muridarum development in J774 cells by promoting inclusionlysosomal fusion. However, ATP e -exposure does not kill chlamydiae in peritoneal macrophages elicited from P2X 7 receptor knock-out mice, demonstrating a requirement for this receptor. ATP e reduces production of C. muridarum EB in J774 cells [12] and a similar reduction is observed in HeLa cells [13] . Furthermore, C. muridarum infectious burden in P2X 7 receptor-deficient mice is 10 times higher than that of their wild-type counterparts [13] . These data suggest that ATP e may play a significant anti-chlamydial role in vivo, as well as in vitro. Extracellular ADO-exposure also reduces infectious EB production by both C. trachomatis L2 and serovar D in HeLa cells, primarily by signaling through the A2b receptor. Though recovery of serovar D was not tested, L2 recovered infectivity post-termination of ADO-exposure. Thus, the authors concluded that ADO-exposure induces the C. trachomatis L2 persistence/stress response [14] .
+3	176	189 intracellular	Gene_function	GO_0005622
+3	247	260 extracellular	Gene_function	GO_0005576
+3	316	329 extracellular	Gene_function	GO_0005576
+3	354	363 signaling	Gene_function	GO_0023052
+3	501	506 shock	Phenotype	HP_0031273
+3	618	631 Extracellular	Gene_function	GO_0005576
+3	697	704 binding	Gene_function	GO_0005488
+3	792	805 intracellular	Gene_function	GO_0005622
+3	1726	1739 Extracellular	Gene_function	GO_0005576
+3	1859	1868 signaling	Gene_function	GO_0023052
+3	GO-HP	GO_0005622	HP_0031273
+3	GO-HP	GO_0005576	HP_0031273
+3	GO-HP	GO_0023052	HP_0031273
+3	HP-GO	HP_0031273	GO_0005488
+
+4|chunk|As stated previously, host cell co-infection with PEDV abrogates productive development of both C. pecorum and C. abortus [6] . Furthermore, this effect is reversible and results in AB formation, suggesting that PEDV co-infection induces the chlamydial persistence/stress response. DAMPs Modulate Chlamydia Inclusion Development PLOS ONE |
+4	22	31 host cell	Gene_function	GO_0043657
+

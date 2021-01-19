@@ -1,0 +1,51 @@
+{
+    "text": "Ventilator-associated lower respiratory tract infection is one of the most frequent complications in mechanically ventilated patients. Ventilator-associated tracheobronchitis has been considered a disease that does not warrant antibiotic treatment by the medical community for many years. In the last decade, several studies have shown that tracheobronchitis could be considered an intermediate process that leads to ventilator-associated pneumonia. Furthermore, ventilator-associated tracheobronchitis has a limited impact on overall mortality but shows a significant association with increased patient costs, length of stay, antibiotic use, and duration of mechanical ventilation. Although we still need clear evidence, especially concerning treatment modalities, the present study on ventilator-associated tracheobronchitis highlights that there are important impacts of including this condition in clinical management and epidemiological and infection surveillance.",
+    "denotations": [
+        {
+            "id": "HP_0040282",
+            "span": {
+                "begin": 75,
+                "end": 83
+            },
+            "obj": "frequent"
+        },
+        {
+            "id": "DOID_4",
+            "span": {
+                "begin": 197,
+                "end": 204
+            },
+            "obj": "disease"
+        },
+        {
+            "id": "CHEBI_33281",
+            "span": {
+                "begin": 227,
+                "end": 237
+            },
+            "obj": "antibiotic"
+        },
+        {
+            "id": "CHEBI_33281",
+            "span": {
+                "begin": 627,
+                "end": 637
+            },
+            "obj": "antibiotic"
+        }
+    ],
+    "relations": [
+        {
+            "id": "R0",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "CHEBI_33281"
+        },
+        {
+            "id": "R1",
+            "subj": "DOID_4",
+            "pred": "no_relation",
+            "obj": "CHEBI_33281"
+        }
+    ]
+}

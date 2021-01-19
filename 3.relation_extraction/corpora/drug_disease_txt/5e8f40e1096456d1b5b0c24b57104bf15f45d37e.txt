@@ -1,0 +1,73 @@
+0|chunk|Two Different Conformations in Hepatitis C Virus p7 Protein Account for Proton Transport and Dye Release
+0	31	40 Hepatitis	Disease	DOID_2237
+0	31	42 Hepatitis C	Disease	DOID_1883
+0	52	59 Protein	Chemical	CHEBI_16541
+0	72	78 Proton	Chemical	CHEBI_24636
+0	93	96 Dye	Chemical	CHEBI_37958
+0	DOID-CHEBI	DOID_2237	CHEBI_16541
+0	DOID-CHEBI	DOID_2237	CHEBI_24636
+0	DOID-CHEBI	DOID_2237	CHEBI_37958
+0	DOID-CHEBI	DOID_1883	CHEBI_16541
+0	DOID-CHEBI	DOID_1883	CHEBI_24636
+0	DOID-CHEBI	DOID_1883	CHEBI_37958
+
+1|chunk|The p7 protein from the hepatitis C virus (HCV) is a 63 amino acid long polypeptide that is essential for replication, and is involved in protein trafficking and proton transport. Therefore, p7 is a possible target for antivirals. The consensus model for the channel formed by p7 protein is a hexameric or heptameric oligomer of a-helical hairpin monomers, each having two transmembrane domains, TM1 and TM2, where the N-terminal TM1 would face the lumen of this channel. A reported highthroughput functional assay to search for p7 channel inhibitors is based on carboxyfluorescein (CF) release from liposomes after p7 addition. However, the rationale for the dual ability of p7 to serve as an ion or proton channel in the infected cell, and to permeabilize membranes to large molecules like CF is not clear. We have recreated both activities in vitro, examining the conformation present in these assays using infrared spectroscopy. Our results indicate that an a-helical form of p7, which can transport protons, is not able to elicit CF release. In contrast, membrane permeabilization to CF is observed when p7 contains a high percentage of b-structure, or when using a C-terminal fragment of p7, encompassing TM2. We propose that the reported inhibitory effect of some small compounds, e.g., rimantadine, on both CF release and proton transport can be explained via binding to the membrane-inserted C-terminal half of p7, increasing its rigidity, in a similar way to the influenza A M2-rimantadine interaction.
+1	7	14 protein	Chemical	CHEBI_16541
+1	24	33 hepatitis	Disease	DOID_2237
+1	24	35 hepatitis C	Disease	DOID_1883
+1	56	61 amino	Chemical	CHEBI_46882
+1	56	66 amino acid	Chemical	CHEBI_33704
+1	62	66 acid	Chemical	CHEBI_37527
+1	72	83 polypeptide	Chemical	CHEBI_15841
+1	138	145 protein	Chemical	CHEBI_16541
+1	162	168 proton	Chemical	CHEBI_24636
+1	280	287 protein	Chemical	CHEBI_16541
+1	317	325 oligomer	Chemical	CHEBI_132554
+1	440	444 face	Disease	DOID_0111084
+1	540	550 inhibitors	Chemical	CHEBI_35222
+1	694	697 ion	Chemical	CHEBI_24870
+1	701	707 proton	Chemical	CHEBI_24636
+1	777	786 molecules	Chemical	CHEBI_25367
+1	1330	1336 proton	Chemical	CHEBI_24636
+1	1473	1482 influenza	Disease	DOID_8469
+1	CHEBI-DOID	CHEBI_16541	DOID_2237
+1	CHEBI-DOID	CHEBI_16541	DOID_1883
+1	CHEBI-DOID	CHEBI_16541	DOID_0111084
+1	CHEBI-DOID	CHEBI_16541	DOID_8469
+1	DOID-CHEBI	DOID_2237	CHEBI_46882
+1	DOID-CHEBI	DOID_2237	CHEBI_33704
+1	DOID-CHEBI	DOID_2237	CHEBI_37527
+1	DOID-CHEBI	DOID_2237	CHEBI_15841
+1	DOID-CHEBI	DOID_2237	CHEBI_24636
+1	DOID-CHEBI	DOID_2237	CHEBI_132554
+1	DOID-CHEBI	DOID_2237	CHEBI_35222
+1	DOID-CHEBI	DOID_2237	CHEBI_24870
+1	DOID-CHEBI	DOID_2237	CHEBI_25367
+1	DOID-CHEBI	DOID_1883	CHEBI_46882
+1	DOID-CHEBI	DOID_1883	CHEBI_33704
+1	DOID-CHEBI	DOID_1883	CHEBI_37527
+1	DOID-CHEBI	DOID_1883	CHEBI_15841
+1	DOID-CHEBI	DOID_1883	CHEBI_24636
+1	DOID-CHEBI	DOID_1883	CHEBI_132554
+1	DOID-CHEBI	DOID_1883	CHEBI_35222
+1	DOID-CHEBI	DOID_1883	CHEBI_24870
+1	DOID-CHEBI	DOID_1883	CHEBI_25367
+1	CHEBI-DOID	CHEBI_46882	DOID_0111084
+1	CHEBI-DOID	CHEBI_46882	DOID_8469
+1	CHEBI-DOID	CHEBI_33704	DOID_0111084
+1	CHEBI-DOID	CHEBI_33704	DOID_8469
+1	CHEBI-DOID	CHEBI_37527	DOID_0111084
+1	CHEBI-DOID	CHEBI_37527	DOID_8469
+1	CHEBI-DOID	CHEBI_15841	DOID_0111084
+1	CHEBI-DOID	CHEBI_15841	DOID_8469
+1	CHEBI-DOID	CHEBI_24636	DOID_0111084
+1	CHEBI-DOID	CHEBI_24636	DOID_8469
+1	CHEBI-DOID	CHEBI_132554	DOID_0111084
+1	CHEBI-DOID	CHEBI_132554	DOID_8469
+1	DOID-CHEBI	DOID_0111084	CHEBI_35222
+1	DOID-CHEBI	DOID_0111084	CHEBI_24870
+1	DOID-CHEBI	DOID_0111084	CHEBI_25367
+1	CHEBI-DOID	CHEBI_35222	DOID_8469
+1	CHEBI-DOID	CHEBI_24870	DOID_8469
+1	CHEBI-DOID	CHEBI_25367	DOID_8469
+

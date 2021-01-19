@@ -1,0 +1,24 @@
+0|chunk|Graph-distance distribution of the Boltzmann ensemble of RNA secondary structures
+0	57	60 RNA	Chemical	CHEBI_33697
+
+1|chunk|Background: Large RNA molecules are often composed of multiple functional domains whose spatial arrangement strongly influences their function. Pre-mRNA splicing, for instance, relies on the spatial proximity of the splice junctions that can be separated by very long introns. Similar effects appear in the processing of RNA virus genomes. Albeit a crude measure, the distribution of spatial distances in thermodynamic equilibrium harbors useful information on the shape of the molecule that in turn can give insights into the interplay of its functional domains. Result: Spatial distance can be approximated by the graph-distance in RNA secondary structure. We show here that the equilibrium distribution of graph-distances between a fixed pair of nucleotides can be computed in polynomial time by means of dynamic programming. While a nave implementation would yield recursions with a very high time complexity of O(n 6 D 5 ) for sequence length n and D distinct distance values, it is possible to reduce this to O(n 4 ) for practical applications in which predominantly small distances are of of interest. Further reductions, however, seem to be difficult. Therefore, we introduced sampling approaches that are much easier to implement. They are also theoretically favorable for several real-life applications, in particular since these primarily concern long-range interactions in very large RNA molecules. Conclusions: The graph-distance distribution can be computed using a dynamic programming approach. Although a crude approximation of reality, our initial results indicate that the graph-distance can be related to the smFRET data. The additional file and the software of our paper are available from http://www.rna.uni-jena.de/RNAgraphdist.html.
+1	18	21 RNA	Chemical	CHEBI_33697
+1	22	31 molecules	Chemical	CHEBI_25367
+1	144	152 Pre-mRNA	Chemical	CHEBI_139356
+1	321	324 RNA	Chemical	CHEBI_33697
+1	478	486 molecule	Chemical	CHEBI_25367
+1	634	637 RNA	Chemical	CHEBI_33697
+1	749	760 nucleotides	Chemical	CHEBI_36976
+1	1397	1400 RNA	Chemical	CHEBI_33697
+1	1401	1410 molecules	Chemical	CHEBI_25367
+1	1722	1725 rna	Chemical	CHEBI_33697
+
+2|chunk|The distance distribution within an RNA molecule is of interest in various contexts. Most directly, the question arises whether panhandle-like structures (in which 3' and 5' ends of long RNA molecules are placed in close proximity) are the rule or an exception. Panhandles have been reported in particular for many RNA virus genomes. Several studies [1-4] agree based on different models that the two ends of single-stranded RNA molecules are typically not far apart. On a more technical level, the problem
+2	36	39 RNA	Chemical	CHEBI_33697
+2	40	48 molecule	Chemical	CHEBI_25367
+2	187	190 RNA	Chemical	CHEBI_33697
+2	191	200 molecules	Chemical	CHEBI_25367
+2	315	318 RNA	Chemical	CHEBI_33697
+2	425	428 RNA	Chemical	CHEBI_33697
+2	429	438 molecules	Chemical	CHEBI_25367
+

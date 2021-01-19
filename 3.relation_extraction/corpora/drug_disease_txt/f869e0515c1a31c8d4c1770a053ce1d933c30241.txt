@@ -1,0 +1,157 @@
+0|chunk|Photodynamic Inactivation of Herpes Simplex Viruses
+0	29	43 Herpes Simplex	Disease	DOID_8566
+
+1|chunk|Herpes simplex virus (HSV) infections can be treated with direct acting antivirals like acyclovir and foscarnet, but long-term use can lead to drug resistance, which motivates research into broadly-acting antivirals that can provide a greater genetic barrier to resistance. Photodynamic inactivation (PDI) employs a photosensitizer, light, and oxygen to create a local burst of reactive oxygen species that inactivate microorganisms. The botanical plant extract Orthoquin TM is a powerful photosensitizer with antimicrobial properties. Here we report that Orthoquin also has antiviral properties. Photoactivated Orthoquin inhibited herpes simplex virus type 1 (HSV-1) and herpes simplex virus type 2 (HSV-2) infection of target cells in a dose-dependent manner across a broad range of sub-cytotoxic concentrations. HSV inactivation required direct contact between Orthoquin and the inoculum, whereas pre-treatment of target cells had no effect. Orthoquin did not cause appreciable damage to viral capsids or premature release of viral genomes, as measured by qPCR for the HSV-1 genome. By contrast, immunoblotting for HSV-1 antigens in purified virion preparations suggested that higher doses of Orthoquin had a physical impact on certain HSV-1 proteins that altered protein mobility or antigen detection. Orthoquin PDI also inhibited the non-enveloped adenovirus (AdV) in a dose-dependent manner, whereas Orthoquin-mediated inhibition of the enveloped vesicular stomatitis virus (VSV) was light-independent. Together, these findings suggest that the broad antiviral effects of Orthoquin-mediated PDI may stem from damage to viral attachment proteins. facilitate attachment and entry into host cells. While HSV-1 and HSV-2 are similar, they share onl 55% nucleotide identity.
+1	0	14 Herpes simplex	Disease	DOID_8566
+1	72	82 antivirals	Chemical	CHEBI_22587
+1	88	97 acyclovir	Chemical	CHEBI_2453
+1	143	147 drug	Chemical	CHEBI_23888
+1	205	215 antivirals	Chemical	CHEBI_22587
+1	344	350 oxygen	Chemical	CHEBI_15379
+1	378	401 reactive oxygen species	Chemical	CHEBI_26523
+1	387	393 oxygen	Chemical	CHEBI_15379
+1	510	523 antimicrobial	Chemical	CHEBI_33281
+1	575	584 antiviral	Chemical	CHEBI_22587
+1	632	646 herpes simplex	Disease	DOID_8566
+1	672	686 herpes simplex	Disease	DOID_8566
+1	1124	1132 antigens	Chemical	CHEBI_59132
+1	1245	1253 proteins	Chemical	CHEBI_36080
+1	1267	1274 protein	Chemical	CHEBI_16541
+1	1287	1294 antigen	Chemical	CHEBI_59132
+1	1463	1473 stomatitis	Disease	DOID_9637
+1	1557	1566 antiviral	Chemical	CHEBI_22587
+1	1642	1650 proteins	Chemical	CHEBI_36080
+1	1756	1766 nucleotide	Chemical	CHEBI_36976
+1	DOID-CHEBI	DOID_8566	CHEBI_22587
+1	DOID-CHEBI	DOID_8566	CHEBI_2453
+1	DOID-CHEBI	DOID_8566	CHEBI_23888
+1	DOID-CHEBI	DOID_8566	CHEBI_15379
+1	DOID-CHEBI	DOID_8566	CHEBI_26523
+1	DOID-CHEBI	DOID_8566	CHEBI_33281
+1	DOID-CHEBI	DOID_8566	CHEBI_59132
+1	DOID-CHEBI	DOID_8566	CHEBI_36080
+1	DOID-CHEBI	DOID_8566	CHEBI_16541
+1	DOID-CHEBI	DOID_8566	CHEBI_36976
+1	CHEBI-DOID	CHEBI_22587	DOID_9637
+1	CHEBI-DOID	CHEBI_2453	DOID_9637
+1	CHEBI-DOID	CHEBI_23888	DOID_9637
+1	CHEBI-DOID	CHEBI_15379	DOID_9637
+1	CHEBI-DOID	CHEBI_26523	DOID_9637
+1	CHEBI-DOID	CHEBI_33281	DOID_9637
+1	CHEBI-DOID	CHEBI_59132	DOID_9637
+1	CHEBI-DOID	CHEBI_36080	DOID_9637
+1	CHEBI-DOID	CHEBI_16541	DOID_9637
+1	DOID-CHEBI	DOID_9637	CHEBI_36976
+
+2|chunk|Lytic HSV infection of a cell begins with initial attachment to negatively charged cell surface heparan sulfate and chondroitin sulfate glycosaminoglycans, followed by stable attachment of viral glycoproteins to cell surface receptors and fusion of the viral envelope to the plasma membrane or internal membranes [2] . Fusion of viral and host membranes enables delivery of the viral nucleocapsid and tegument proteins to the cytoplasm. After the HSV nucleocapsid arrives at the nucleus and delivers the viral genome, HSV genes are expressed in an ordered temporal cascade. Viral egress requires primary envelopment of the genome-containing capsid at the inner nuclear membrane, fusion with the outer nuclear membrane and final envelopment at the trans-Golgi network. Mature virions then exit through the cellular secretory system.
+2	96	103 heparan	Chemical	CHEBI_24500
+2	96	111 heparan sulfate	Chemical	CHEBI_28815
+2	104	111 sulfate	Chemical	CHEBI_16189
+2	116	127 chondroitin	Chemical	CHEBI_16137
+2	116	135 chondroitin sulfate	Chemical	CHEBI_37397
+2	128	135 sulfate	Chemical	CHEBI_16189
+2	195	208 glycoproteins	Chemical	CHEBI_17089
+2	410	418 proteins	Chemical	CHEBI_36080
+2	479	486 nucleus	Chemical	CHEBI_33252
+
+3|chunk|All stages of the HSV replication cycle offer potential targets for direct-acting antiviral (DAA) therapy. However, DAAs can be undermined by the emergence of drug resistant mutant viruses. Anti-HSV DAAs acyclovir and foscarnet offer examples of the hazards of drug resistance. These drugs interrupt HSV genome replication by different mechanisms of action. Acyclovir is a nucleoside analogue prodrug that selectively targets HSV infected cells through the action of the HSV thymidine kinase (TK) enzyme, which efficiently phosphorylates acyclovir and facilitates incorporation into nascent viral DNA genomes by the HSV DNA polymerase enzyme; incorporation of acyclovir into viral DNA terminates genome replication [3] . By contrast, the pyrophosphate analogue foscarnet blocks viral genome replication by directly inhibiting HSV DNA polymerase activity [4] . Though resistance to acyclovir occurs at a low prevalence (1%) in immunocompetent patients [5], immunocompromised patients experience much higher rates (4-10%) [6] . Unsurprisingly, resistance to acyclovir, and its derivatives, and to foscarnet, has been mapped to mutations in the viral thymidine kinase and the DNA polymerase catalytic subunit, respectively [7] . Currently, Abreva (n-docosanol) is the only over-the-counter topical antiviral for herpes labialis. Abreva is incorporated into the cellular plasma membrane and prevents fusion steps essential for HSV-1 entry into epithelial cells [8] . However, it must be applied repeatedly throughout the day due to rapid plasma membrane turnover and the subsequent loss of n-docosanol [9] . This host-targeted antiviral mechanism prevents development of viral resistance, but Abreva is only approved for perioral lesions, so there is a still a gap in treatment for lesions in other areas of the body.
+3	82	91 antiviral	Chemical	CHEBI_22587
+3	159	163 drug	Chemical	CHEBI_23888
+3	204	213 acyclovir	Chemical	CHEBI_2453
+3	218	227 foscarnet	Chemical	CHEBI_127780
+3	261	265 drug	Chemical	CHEBI_23888
+3	284	289 drugs	Chemical	CHEBI_23888
+3	350	356 action	Chemical	CHEBI_5133
+3	358	367 Acyclovir	Chemical	CHEBI_2453
+3	371	383 a nucleoside	Chemical	CHEBI_33838
+3	373	383 nucleoside	Chemical	CHEBI_33838
+3	393	400 prodrug	Chemical	CHEBI_50266
+3	457	463 action	Chemical	CHEBI_5133
+3	475	484 thymidine	Chemical	CHEBI_17748
+3	538	547 acyclovir	Chemical	CHEBI_2453
+3	597	600 DNA	Chemical	CHEBI_16991
+3	620	623 DNA	Chemical	CHEBI_16991
+3	660	669 acyclovir	Chemical	CHEBI_2453
+3	681	684 DNA	Chemical	CHEBI_16991
+3	738	751 pyrophosphate	Chemical	CHEBI_18361
+3	761	770 foscarnet	Chemical	CHEBI_127780
+3	830	833 DNA	Chemical	CHEBI_16991
+3	881	890 acyclovir	Chemical	CHEBI_2453
+3	1057	1066 acyclovir	Chemical	CHEBI_2453
+3	1096	1105 foscarnet	Chemical	CHEBI_127780
+3	1149	1158 thymidine	Chemical	CHEBI_17748
+3	1174	1177 DNA	Chemical	CHEBI_16991
+3	1238	1244 Abreva	Chemical	CHEBI_31000
+3	1246	1257 n-docosanol	Chemical	CHEBI_31000
+3	1296	1305 antiviral	Chemical	CHEBI_22587
+3	1327	1333 Abreva	Chemical	CHEBI_31000
+3	1587	1598 n-docosanol	Chemical	CHEBI_31000
+3	1624	1633 antiviral	Chemical	CHEBI_22587
+3	1690	1696 Abreva	Chemical	CHEBI_31000
+
+4|chunk|Like Abreva, there is potential for more broadly-acting antiviral drugs that exploit the physical structure of the HSV virion and block early stages of infection, such as attachment and penetration. In this study, we explored the potential of the plant-derived photosensitizing agent Orthoquin TM to mediate photodynamic inactivation (PDI) [10] of virions. The clinical utility of Orthoquin PDI of oral biofilms is an area of active investigation and there is clear potential for wider range of clinical applications. The basis of PDI is the photodynamic effect, which has been exploited in photodynamic therapy (PDT) [11, 12] for treatment of cancers [13] and age-related macular degeneration [14] . In PDT, photosensitizer compounds when exposed to visible light react with oxygen to generate reactive oxygen species (ROS) that include singlet oxygen [15] . ROS damage proteins, nucleic acids and lipids, which can lead to cell death. Some of the most well-known photosensitizing molecules for PDT are based on a tetrapyrrolic core and are found in naturally occurring pigments, such as heme, chlorophyll, and bacteriochlorophyll [16] . The accepted phototoxic mechanism for these types of photosensitizers involves the formation of an excited triplet state upon light absorption that can participate in electron (Type 1) or energy (Type 2) transfer processes. Type 1 electron transfer reactions typically lead to the formation of radical species like superoxide or hydroxyl radicals, whereas Type 2 energy transfer produces cytotoxic singlet oxygen. It is possible for a photosensitizer to initiate both Type 1 and 2 photoprocesses simultaneously, depending on the specific chemistry of the photosensitizing agent and its environment [16] . Due to the high reactivities and short lifetimes of oxidizing molecules, it is expected that only viral structures in close proximity to activated photosensitizing compounds will be affected.
+4	56	65 antiviral	Chemical	CHEBI_22587
+4	56	71 antiviral drugs	Chemical	CHEBI_36044
+4	66	71 drugs	Chemical	CHEBI_23888
+4	261	283 photosensitizing agent	Chemical	CHEBI_47868
+4	613	616 PDT	Chemical	CHEBI_53228
+4	661	693 age-related macular degeneration	Disease	DOID_10871
+4	673	693 macular degeneration	Disease	DOID_4448
+4	704	707 PDT	Chemical	CHEBI_53228
+4	759	764 light	Chemical	CHEBI_30212
+4	776	782 oxygen	Chemical	CHEBI_15379
+4	795	818 reactive oxygen species	Chemical	CHEBI_26523
+4	804	810 oxygen	Chemical	CHEBI_15379
+4	820	823 ROS	Chemical	CHEBI_26523
+4	846	852 oxygen	Chemical	CHEBI_15379
+4	860	863 ROS	Chemical	CHEBI_26523
+4	881	894 nucleic acids	Chemical	CHEBI_33696
+4	889	894 acids	Chemical	CHEBI_37527
+4	982	991 molecules	Chemical	CHEBI_25367
+4	996	999 PDT	Chemical	CHEBI_53228
+4	1112	1131 bacteriochlorophyll	Chemical	CHEBI_38201
+4	1265	1270 light	Chemical	CHEBI_30212
+4	1306	1314 electron	Chemical	CHEBI_10545
+4	1370	1378 electron	Chemical	CHEBI_10545
+4	1433	1440 radical	Chemical	CHEBI_26519
+4	1454	1464 superoxide	Chemical	CHEBI_18421
+4	1468	1476 hydroxyl	Chemical	CHEBI_29191
+4	1468	1476 hydroxyl	Chemical	CHEBI_43176
+4	1545	1551 oxygen	Chemical	CHEBI_15379
+4	1694	1716 photosensitizing agent	Chemical	CHEBI_47868
+4	1806	1815 molecules	Chemical	CHEBI_25367
+4	CHEBI-DOID	CHEBI_22587	DOID_10871
+4	CHEBI-DOID	CHEBI_22587	DOID_4448
+4	CHEBI-DOID	CHEBI_36044	DOID_10871
+4	CHEBI-DOID	CHEBI_36044	DOID_4448
+4	CHEBI-DOID	CHEBI_23888	DOID_10871
+4	CHEBI-DOID	CHEBI_23888	DOID_4448
+4	CHEBI-DOID	CHEBI_47868	DOID_10871
+4	CHEBI-DOID	CHEBI_47868	DOID_4448
+4	CHEBI-DOID	CHEBI_53228	DOID_10871
+4	CHEBI-DOID	CHEBI_53228	DOID_4448
+4	DOID-CHEBI	DOID_10871	CHEBI_30212
+4	DOID-CHEBI	DOID_10871	CHEBI_15379
+4	DOID-CHEBI	DOID_10871	CHEBI_26523
+4	DOID-CHEBI	DOID_10871	CHEBI_33696
+4	DOID-CHEBI	DOID_10871	CHEBI_37527
+4	DOID-CHEBI	DOID_10871	CHEBI_25367
+4	DOID-CHEBI	DOID_10871	CHEBI_38201
+4	DOID-CHEBI	DOID_10871	CHEBI_10545
+4	DOID-CHEBI	DOID_10871	CHEBI_26519
+4	DOID-CHEBI	DOID_10871	CHEBI_18421
+4	DOID-CHEBI	DOID_10871	CHEBI_29191
+4	DOID-CHEBI	DOID_10871	CHEBI_43176
+4	DOID-CHEBI	DOID_4448	CHEBI_30212
+4	DOID-CHEBI	DOID_4448	CHEBI_15379
+4	DOID-CHEBI	DOID_4448	CHEBI_26523
+4	DOID-CHEBI	DOID_4448	CHEBI_33696
+4	DOID-CHEBI	DOID_4448	CHEBI_37527
+4	DOID-CHEBI	DOID_4448	CHEBI_25367
+4	DOID-CHEBI	DOID_4448	CHEBI_38201
+4	DOID-CHEBI	DOID_4448	CHEBI_10545
+4	DOID-CHEBI	DOID_4448	CHEBI_26519
+4	DOID-CHEBI	DOID_4448	CHEBI_18421
+4	DOID-CHEBI	DOID_4448	CHEBI_29191
+4	DOID-CHEBI	DOID_4448	CHEBI_43176
+

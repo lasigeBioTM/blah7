@@ -1,0 +1,55 @@
+0|chunk|Activation of the autophagy pathway by Torovirus infection is irrelevant for virus replication
+0	18	27 autophagy	Gene_function	GO_0006914
+
+1|chunk|Autophagy is a conserved eukaryotic process that mediates lysosomal degradation of cytoplasmic macromolecules and damaged organelles, also exerting an important role in the elimination of intracellular pathogens. Despite the antiviral role of autophagy, many studies suggest that some positive-stranded RNA viruses exploit this pathway to facilitate their own replication. In this study, we demonstrate that the equine torovirus Berne virus (BEV), the prototype member of the Torovirus genus (Coronaviridae Family, Nidovirales Order), induces autophagy at late times post-infection. Conversion of microtubule associated protein 1B light chain 3 (LC3) from cytosolic (LC3 I) to the membrane associated form (LC3 II), a canonical marker of autophagosome formation, is enhanced in BEV infected cells. However, neither autophagy induction, via starvation, nor pharmacological blockade significantly affect BEV replication. Similarly, BEV infection is not altered in autophagy deficient cells lacking either Beclin 1 or LC3B protein expression. Unexpectedly, the cargo receptor p62, a selective autophagy receptor, aggregates within the region where the BEV main protease (M pro ) localizes. This finding, coupled with observation that BEV replication also induces ER stress at the time when selective autophagy is taking place, suggests that the autophagy pathway is activated in response to the hefty accumulation of virus-encoded polypeptides during the late phase of BEV infection.
+1	0	9 Autophagy	Gene_function	GO_0006914
+1	68	79 degradation	Gene_function	GO_0009056
+1	188	201 intracellular	Gene_function	GO_0005622
+1	243	252 autophagy	Gene_function	GO_0006914
+1	543	552 autophagy	Gene_function	GO_0006914
+1	597	608 microtubule	Gene_function	GO_0005874
+1	681	689 membrane	Gene_function	GO_0016020
+1	738	751 autophagosome	Gene_function	GO_0005776
+1	815	824 autophagy	Gene_function	GO_0006914
+1	962	971 autophagy	Gene_function	GO_0006914
+1	1058	1063 cargo	Gene_function	GO_0140355
+1	1080	1099 selective autophagy	Gene_function	GO_0061912
+1	1090	1099 autophagy	Gene_function	GO_0006914
+1	1287	1306 selective autophagy	Gene_function	GO_0061912
+1	1297	1306 autophagy	Gene_function	GO_0006914
+1	1342	1351 autophagy	Gene_function	GO_0006914
+
+2|chunk|livestock industry, i.e. calves, piglets and foals [1] [2][3]. They are enveloped, positive sense, singlestranded RNA viruses belonging to the Nidovirales order, which includes four families: Arteriviridae, Roniviridae, Mesoviridae and Coronaviridae, the latter containing two subfamilies, Coronavirinae (genera Alpha-, Beta-, Delta-, and Gammacoronavirus) and Torovirinae (genera Bafinivirus and Torovirus) [4]. The International Committee on Taxonomy of Viruses recognizes four torovirus species: human (HToV), bovine (BToV), porcine (PToV) and equine torovirus (EToV) [4]. The prototype member of the torovirus genus is the EToV strain Berne virus, the first identified torovirus (BEV), isolated from a diarrheic horse [5] . BEV was first adapted to cell culture, and for this reason, it is the best characterized torovirus. Nevertheless, other cell-culture adapted BToV strains are also currently available [6] [7] [8] .
+
+3|chunk|The torovirus genome consists of a single RNA molecule (ca. 27 kb) displaying an organization similar to that of other nidoviruses [9-13]. The first two-thirds of the genome carry two large overlapping open reading frames, ORF1a and ORF1b, directly translated from the viral genome, rendering two large polyproteins (pp1a and pp1ab), which are proteolytically processed by virus-encoded proteases (the papain-like proteinase [PLP] and the main proteinase [M pro ]) to release replication and transcriptional machinery virus components (e.g. the RNAdependent RNA polymerase [RdRp] and the helicase [Hel] amongst others) [1, 10, 14, 15]. The rest of the viral genome harbors ORFs encoding structural proteins: spike (S) [16, 17], membrane (M) [18, 19], hemagglutinin-esterase (HE) [20-22], and nucleocapsid (N) [14, 23], which are individually expressed from a nested set of 3'-coterminal subgenomic mRNAs [11, 24, 25].
+3	728	736 membrane	Gene_function	GO_0016020
+3	792	804 nucleocapsid	Gene_function	GO_0019013
+
+4|chunk|Accumulating evidence from different positive-strand RNA viruses indicates that in this heterogeneous group of viruses, genome replication and transcription invariably occur in close association with highly modified cellular membranes of diverse origins [26] [27] [28] . In fact, the presence of double membrane vesicles (DMVs) in the cytoplasm of cells infected with different nidoviruses has been associated with the formation of their replication and transcription complexes (RTCs) [29] [30] [31] [32] [33] [34] [35] . In this regard, we recently described the presence of DMVs in the cytoplasm of BEV-infected cells, providing new evidence supporting the notion that nidoviruses share a common replicative structure based on DMV arranged clusters [15] . However, the mechanism and host factors required for the generation of these structures remain unknown. Because DMV morphology is akin to that of autophagosomes, and given that several pathogens have been shown to hijack the autophagy machinery, it has been postulated that some positive-strand RNA viruses may exploit the autophagy machinery to induce DMV formation [36] [37] [38] [39] .
+4	88	101 heterogeneous	Phenotype	HP_0001425
+4	303	311 membrane	Gene_function	GO_0016020
+4	335	344 cytoplasm	Gene_function	GO_0005737
+4	588	597 cytoplasm	Gene_function	GO_0005737
+4	983	992 autophagy	Gene_function	GO_0006914
+4	1081	1090 autophagy	Gene_function	GO_0006914
+4	HP-GO	HP_0001425	GO_0016020
+4	HP-GO	HP_0001425	GO_0005737
+4	HP-GO	HP_0001425	GO_0006914
+
+5|chunk|Autophagy is a conserved eukaryotic mechanism mediating the removal of long-lived cytoplasmic macromolecules and damaged organelles via a lysosomal degradation pathway to maintain cellular homeostasis. During autophagy, cytoplasmic material is engulfed by doublemembraned vesicles, termed autophagosomes, which are later fused with lysosomes for the degradation of enclosed materials by lysosomal hydrolases [40, 41] . Many autophagy-related genes (Atg) are involved in the formation and regulation of the autophagy pathway [42] . The ULK1-Atg13-FIP200 class III phosphatidylinositol 3-kinase complex (PI3K), which contains Beclin 1 and vps34, regulates the initiation and nucleation of autophagosome membranes [43] . Furthermore, two ubiquitin-like conjugation systems, i.e. Atg12 and Atg8/LC3, are involved in the elongation and closure of the autophagosome, converting the cytosolic form of the microtubule associated protein 1B light chain 3 (LC3 I) into the membrane associated type (LC3 II) [44] . Mammalian cells contain three LC3 isoforms referred to as A, B and C, being LC3B the most widely used.
+5	0	9 Autophagy	Gene_function	GO_0006914
+5	148	159 degradation	Gene_function	GO_0009056
+5	209	218 autophagy	Gene_function	GO_0006914
+5	350	361 degradation	Gene_function	GO_0009056
+5	506	515 autophagy	Gene_function	GO_0006914
+5	563	600 phosphatidylinositol 3-kinase complex	Gene_function	GO_0005942
+5	687	700 autophagosome	Gene_function	GO_0005776
+5	750	761 conjugation	Gene_function	GO_0000746
+5	846	859 autophagosome	Gene_function	GO_0005776
+5	898	909 microtubule	Gene_function	GO_0005874
+5	963	971 membrane	Gene_function	GO_0016020
+
+6|chunk|Several studies have reported that members of the Nidovirales order trigger autophagy in host cells. However, the specific role of this pathway in nidovirus replication remains Torovirus induced autophagy does not affect virus life cycle PLOS ONE | https://doi.
+6	76	85 autophagy	Gene_function	GO_0006914
+6	195	204 autophagy	Gene_function	GO_0006914
+

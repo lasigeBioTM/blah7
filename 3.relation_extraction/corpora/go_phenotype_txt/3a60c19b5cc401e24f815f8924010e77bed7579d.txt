@@ -1,0 +1,34 @@
+0|chunk|Cytokine production pattern of T lymphocytes in neonatal arterial ischemic stroke during the first month of life-a case study
+0	0	19 Cytokine production	Gene_function	GO_0001816
+0	66	81 ischemic stroke	Phenotype	HP_0002140
+0	75	81 stroke	Phenotype	HP_0001297
+0	GO-HP	GO_0001816	HP_0002140
+0	GO-HP	GO_0001816	HP_0001297
+
+1|chunk|Background: The perinatal period carries the highest risk for stroke in childhood; however, the pathophysiology is poorly understood and preventive, prognostic, and therapeutic strategies are not available. A new pathophysiological model describes the development of neonatal arterial ischemic stroke (NAIS) as the combined result of prenatal inflammation and hypoxic-ischemic insult. Neuroinflammation and a systemic inflammatory response are also important features of NAIS. Identifying key players of the inflammatory system is in the limelight of current research. Case presentation: We present four NAIS cases, in whom detailed analysis of intracellular and plasma cytokine levels are available from the first month of life. All neonates were admitted with the initial diagnosis of hypoxic ischemic encephalopathy (HIE); however, early MRI examination revealed NAIS. Blood samples were collected between 3 and 6 h of life, at 24 h, 72 h, 1 week, and 1 month of life. Peripheral blood mononuclear cells were assessed with flow cytometry and plasma cytokine levels were measured. Pooled data from the cohort of four NAIS patients were compared to infants with HIE. At 6 and 72 h of age, the prevalence of IL10+ CD8+ lymphocytes remained lower in NAIS. At 6 h, CD8+ lymphocytes in NAIS produced more IL-17. At 72 h, CD8+ cells produced more IL-6 in severe HIE than in NAIS, but IL-6 production remained elevated in CD8 cells at 1 month in NAIS, while it decreased in HIE. At 1 week, the prevalence of TGF- + lymphocytes prone to enter the CNS was elevated in NAIS. On the other hand, by 1 month of age, the prevalence of TGF- + CD4+ lymphocytes decreased in NAIS compared to HIE. At 72 h, we found elevated plasma levels of IL-5, MCP-1, and IL-17 in NAIS. By 1 month, plasma levels of IL-4, IL-12, and IL-17 decreased in NAIS but remained elevated in HIE. Conclusions: Differences in the cytokine network are present between NAIS and HIE. CD8 lymphocytes appear to shift towards the pro-inflammatory direction in NAIS. The inflammatory response appears to be more pronounced at 72 h in NAIS but decreases faster, reaching lower plasma levels of inflammatory markers at 1 month.
+1	62	68 stroke	Phenotype	HP_0001297
+1	285	300 ischemic stroke	Phenotype	HP_0002140
+1	294	300 stroke	Phenotype	HP_0001297
+1	418	439 inflammatory response	Gene_function	GO_0006954
+1	645	658 intracellular	Gene_function	GO_0005622
+1	804	818 encephalopathy	Phenotype	HP_0001298
+1	972	982 Peripheral	Phenotype	HP_0030646
+1	1351	1357 severe	Phenotype	HP_0012828
+1	1380	1395 IL-6 production	Gene_function	GO_0032635
+1	2027	2048 inflammatory response	Gene_function	GO_0006954
+1	HP-GO	HP_0001297	GO_0006954
+1	HP-GO	HP_0001297	GO_0005622
+1	HP-GO	HP_0001297	GO_0032635
+1	HP-GO	HP_0002140	GO_0006954
+1	HP-GO	HP_0002140	GO_0005622
+1	HP-GO	HP_0002140	GO_0032635
+1	GO-HP	GO_0006954	HP_0001298
+1	GO-HP	GO_0006954	HP_0030646
+1	GO-HP	GO_0006954	HP_0012828
+1	GO-HP	GO_0005622	HP_0001298
+1	GO-HP	GO_0005622	HP_0030646
+1	GO-HP	GO_0005622	HP_0012828
+1	HP-GO	HP_0001298	GO_0032635
+1	HP-GO	HP_0030646	GO_0032635
+1	HP-GO	HP_0012828	GO_0032635
+

@@ -1,0 +1,52 @@
+0|chunk|viruses Viruses and Autoimmunity: A Review on the Potential Interaction and Molecular Mechanisms
+
+1|chunk|For a long time, viruses have been shown to modify the clinical picture of several autoimmune diseases, including type 1 diabetes (T1D), systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), Sjgren's syndrome (SS), herpetic stromal keratitis (HSK), celiac disease (CD), and multiple sclerosis (MS). Best examples of viral infections that have been proposed to modulate the induction and development of autoimmune diseases are the infections with enteric viruses such as Coxsackie B virus (CVB) and rotavirus, as well as influenza A viruses (IAV), and herpesviruses. Other viruses that have been studied in this context include, measles, mumps, and rubella. Epidemiological studies in humans and experimental studies in animal have shown that viral infections can induce or protect from autoimmunopathologies depending on several factors including genetic background, host-elicited immune responses, type of virus strain, viral load, and the onset time of infection. Still, data delineating the clear mechanistic interaction between the virus and the immune system to induce autoreactivity are scarce. Available data indicate that viral-induced autoimmunity can be activated through multiple mechanisms including molecular mimicry, epitope spreading, bystander activation, and immortalization of infected B cells. Contrarily, the protective effects can be achieved via regulatory immune responses which lead to the suppression of autoimmune phenomena. Therefore, a better understanding of the immune-related molecular processes in virus-induced autoimmunity is warranted. Here we provide an overview of the current understanding of viral-induced autoimmunity and the mechanisms that are associated with this phenomenon. Viruses 2019, 11, 762 2 of 18
+1	137	165 systemic lupus erythematosus	Disease	DOID_9074
+1	146	151 lupus	Disease	DOID_8857
+1	146	165 lupus erythematosus	Disease	DOID_8857
+1	173	193 rheumatoid arthritis	Disease	DOID_7148
+1	184	193 arthritis	Disease	DOID_848
+1	210	218 syndrome	Disease	DOID_225
+1	242	251 keratitis	Disease	DOID_4677
+1	259	273 celiac disease	Disease	DOID_10608
+1	266	273 disease	Disease	DOID_4
+1	284	302 multiple sclerosis	Disease	DOID_2377
+1	530	539 influenza	Disease	DOID_8469
+1	1241	1248 epitope	Chemical	CHEBI_53000
+1	DOID-CHEBI	DOID_9074	CHEBI_53000
+1	DOID-CHEBI	DOID_8857	CHEBI_53000
+1	DOID-CHEBI	DOID_7148	CHEBI_53000
+1	DOID-CHEBI	DOID_848	CHEBI_53000
+1	DOID-CHEBI	DOID_225	CHEBI_53000
+1	DOID-CHEBI	DOID_4677	CHEBI_53000
+1	DOID-CHEBI	DOID_10608	CHEBI_53000
+1	DOID-CHEBI	DOID_4	CHEBI_53000
+1	DOID-CHEBI	DOID_2377	CHEBI_53000
+1	DOID-CHEBI	DOID_8469	CHEBI_53000
+
+2|chunk|, and several others [9] . Another hypothesized mechanism is the "bystander activation", whereby a non-specific and an over-reactive antiviral immune response creates a localized pro-inflammatory environment along with the release of self-antigens from the damaged tissue. These self-antigens are subsequently taken up and presented by antigen presenting cells (APC) to stimulate the previously non-responsive, yet autoreactive T cells in the vicinity triggering autoimmunity [10] . A related mechanism is called "epitope spreading", in which a viral infection triggers the release of more self-antigens and the de novo activation of autoreactive cells, which consequently spread to target additional self-epitopes [9] . Both molecular mimicry and bystander activation have been observed in the experimental autoimmune encephalomyelitis (EAE) model of multiple sclerosis (MS) [11], West Nile virus (WNV)-mediated myasthenia gravis (MG) [12] , TMEV-IDD [13] , and other disorders [9] . Moreover, viruses may immortalize autoreactive effector cells as observed in Epstein-Barr virus (EBV)-infected B cells [14] . While several hypotheses have been proposed to understand the mechanisms underlying virus-induced autoimmunity, the precise contribution of these mechanisms are not yet fully understood. This review summarizes the recent findings on virally induced autoimmunity and the potential underlying mechanisms triggering the development of this disorder.
+2	133	142 antiviral	Chemical	CHEBI_22587
+2	336	343 antigen	Chemical	CHEBI_59132
+2	362	365 APC	Chemical	CHEBI_80551
+2	545	560 viral infection	Disease	DOID_934
+2	819	836 encephalomyelitis	Disease	DOID_640
+2	852	870 multiple sclerosis	Disease	DOID_2377
+2	913	930 myasthenia gravis	Disease	DOID_437
+2	1032	1040 effector	Chemical	CHEBI_35224
+2	CHEBI-DOID	CHEBI_22587	DOID_934
+2	CHEBI-DOID	CHEBI_22587	DOID_640
+2	CHEBI-DOID	CHEBI_22587	DOID_2377
+2	CHEBI-DOID	CHEBI_22587	DOID_437
+2	CHEBI-DOID	CHEBI_59132	DOID_934
+2	CHEBI-DOID	CHEBI_59132	DOID_640
+2	CHEBI-DOID	CHEBI_59132	DOID_2377
+2	CHEBI-DOID	CHEBI_59132	DOID_437
+2	CHEBI-DOID	CHEBI_80551	DOID_934
+2	CHEBI-DOID	CHEBI_80551	DOID_640
+2	CHEBI-DOID	CHEBI_80551	DOID_2377
+2	CHEBI-DOID	CHEBI_80551	DOID_437
+2	DOID-CHEBI	DOID_934	CHEBI_35224
+2	DOID-CHEBI	DOID_640	CHEBI_35224
+2	DOID-CHEBI	DOID_2377	CHEBI_35224
+2	DOID-CHEBI	DOID_437	CHEBI_35224
+

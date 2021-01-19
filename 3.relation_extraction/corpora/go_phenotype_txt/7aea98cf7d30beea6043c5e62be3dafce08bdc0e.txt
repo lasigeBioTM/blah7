@@ -1,0 +1,22 @@
+0|chunk|Non-immune immunoglobulins shield Schistosoma japonicum from host immunorecognition OPEN
+
+1|chunk|Schistosomiasis is a major human parasitic disease with a global impact. Schistosoma japonicum, the most difficult to control, can survive within host veins for decades. Mechanisms of immune evasion by the parasite, including antigenic variation and surface masking, have been implicated but not well defined. In this study, we defined the immunoglobulin-binding proteomes of S. japonicum using human IgG, IgM, and IgE as the molecular bait for affinity purification, followed by protein identification by liquid chromatography with tandem mass spectrometry (LC-MS/MS). Several proteins situated at the tegument of S. japonicum were able to nonselectively bind to the Fc domain of host immunoglobulins, indicating a mechanism for the avoidance of host immune attachment and recognition. The profile of the immunoglobulin-binding proteomes provides further clues for immune evasion mechanisms adopted by S. japonicum.
+1	184	198 immune evasion	Gene_function	GO_0042783
+1	226	245 antigenic variation	Gene_function	GO_0020033
+1	866	880 immune evasion	Gene_function	GO_0042783
+
+2|chunk|paramyosin (SCIP-1) associated with the schistosomula of the parasite membrane of both S. mansoni and S. japonicum has been proposed both as a Fc receptor of a nonspecific host IgG and as an inhibitor of complement C9 polymerization 6,11-14 . Sjc23, a member of the tetraspanin (TSP) family of S. japonicum, mediated the acquisition of human IgG via the interaction of a nine amino acid motif with the Fc domain of the IgG molecule 15 ; the specific antibodies after immunization with Sjc23 were predominantly the IgG2a type, which has been shown to be inefficient in complement fixation and to exhibit fewer cytophilic properties in ADCC (antibody-dependent cell-mediated cytotoxicity) 16 .
+2	70	78 membrane	Gene_function	GO_0016020
+2	634	638 ADCC	Gene_function	GO_0001788
+
+3|chunk|In this study, to investigate the host-schistosome interaction and the mechanism of immune evasion employed by S. japonicum, we applied immobilized versions of the non-immune human immunoglobulins G, M and E as molecular baits to selectively precipitate parasite interactive components that were subsequently identified by LC-MS/MS. The immunoglobulin binding proteomes of adult S. japonicum were obtained and analyzed carefully. Our results will facilitate the rational design of vaccines based on schistosomal tegument-associated antigens.
+3	84	98 immune evasion	Gene_function	GO_0042783
+3	337	351 immunoglobulin	Gene_function	GO_0003823
+3	337	359 immunoglobulin binding	Gene_function	GO_0019865
+3	352	359 binding	Gene_function	GO_0005488
+
+4|chunk|Host immunoglobulins are abundantly observed on the surface of S. japonicum. To detect the binding of non-immune IgG and IgM on the surface of adult S. japonicum, IgG-and IgM-specific antibodies conjugated with a red fluorophore were separately incubated with either parasites directly flushed from the veins of infected mice or parasite sections. Mouse IgG was detected on the surface of both male and female intact adult worms using a laser confocal microscopy (Fig. 1a) . The fluorescence visualized using fluorescence microscopy was more intense on the surface of male worms compared with that of females (Fig. 1b) . Indeed, imaging of frozen sections using the laser confocal microscopy showed that the fluorescence signals were located on the outermost layer of the blood fluke (Fig. 1c) . Additionally, mouse IgM was also observed on the parasite surface (Fig. 2a) , and the adsorption of human IgG, IgM and IgE on the parasite surface was clearly observed (Fig. 2b-d) . No cross reactivity was observed with the secondary fluorescence-labeled antibodies (data not shown).
+4	91	98 binding	Gene_function	GO_0005488
+4	749	758 outermost	Phenotype	HP_0012839
+4	GO-HP	GO_0005488	HP_0012839
+

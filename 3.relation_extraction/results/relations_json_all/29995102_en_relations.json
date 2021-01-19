@@ -2,42 +2,42 @@
     "text": "to investigate the occurrence of GBS in the Metropolitan Region of Recife, PE, Brazil, 2015.this was a descriptive study using data from the Hospital Information System, National Pharmaceutical Services Management System and interviews; GBS cases were classified according to Brighton criteria and prior infection according to laboratory and clinical criteria.in 2015, the number of GBS hospitalizations had a threefold increase in comparison to 2014. We investigated 44 confirmed or probable GBS cases, of which 18 had symptoms of Zika infection up to 35 days before the occurrence of GBS, mainly rash; one case was laboratory-confirmed for Zika virus infection and one death was registered.the findings reinforce a possible relationship between GBS and Zika infection, given the absence of increased GBS occurrence in previous dengue epidemic years, absence of chikungunya transmission records, presence of clinical manifestations compatible with infection and a laboratory confirmation.",
     "denotations": [
         {
-            "id": "CHEBI_52217",
+            "id": "T0",
             "span": {
                 "begin": 179,
                 "end": 193
             },
-            "obj": "Pharmaceutical"
+            "obj": "CHEBI_52217"
         },
         {
-            "id": "DOID_934",
+            "id": "T1",
             "span": {
                 "begin": 647,
                 "end": 662
             },
-            "obj": "virus infection"
+            "obj": "DOID_934"
         },
         {
-            "id": "DOID_0050012",
+            "id": "T2",
             "span": {
                 "begin": 863,
                 "end": 874
             },
-            "obj": "chikungunya"
+            "obj": "DOID_0050012"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_934",
+            "subj": "T1",
             "pred": "no_relation",
-            "obj": "CHEBI_52217"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050012",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "CHEBI_52217"
+            "obj": "T0"
         }
     ]
 }

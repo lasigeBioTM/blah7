@@ -2,102 +2,102 @@
     "text": "Drug-resistant tuberculosis (DR-TB) poses a serious threat to tuberculosis (TB) control in Brazil and worldwide. The current study investigated factors associated with loss to follow-up and death in the course of treatment for DR-TB in a tertiary reference center in the city of Rio de Janeiro, Brazil. This was a retrospective cohort study of cases reported to the Information System on Special Treatments for Tuberculosis (SITETB) from January 1, 2012, to December 31, 2013. A total of 257 patients were reported to the SITETB and initiated treatment for DR-TB. Of this total, 139 (54.1%) achieved treatment success as the outcome, 54 (21%) were lost to follow-up, and 21 (8.2%) died. Following a multiple multinomial logistic regression analysis, the age bracket older than 50 years was the only protective factor against loss to follow-up, whereas less than eight years of schooling and reentry after loss to follow-up were considered risk factors. Reentry after loss to follow-up, relapse, and treatment failure appeared as risk factors. Our data reinforce the concept that loss to follow-up in drug-resistant tuberculosis is a serious public health problem, and that adequate follow-up of treatment is necessary in patients with this history and low schooling. A social support network for patients is also indispensable for avoiding unfavorable outcomes.",
     "denotations": [
         {
-            "id": "DOID_399",
+            "id": "T0",
             "span": {
                 "begin": 15,
                 "end": 27
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T1",
             "span": {
                 "begin": 62,
                 "end": 74
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "CHEBI_34935",
+            "id": "T2",
             "span": {
                 "begin": 328,
                 "end": 334
             },
-            "obj": "cohort"
+            "obj": "CHEBI_34935"
         },
         {
-            "id": "DOID_399",
+            "id": "T3",
             "span": {
                 "begin": 411,
                 "end": 423
             },
-            "obj": "Tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "CHEBI_25434",
+            "id": "T4",
             "span": {
                 "begin": 648,
                 "end": 652
             },
-            "obj": "lost"
+            "obj": "CHEBI_25434"
         },
         {
-            "id": "DOID_399",
+            "id": "T5",
             "span": {
                 "begin": 1115,
                 "end": 1127
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "29768580_en.c1.e2"
         },
         {
             "id": "R1",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "29768580_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "29768580_en.c1.e2"
         },
         {
             "id": "R3",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "29768580_en.c1.e4"
         },
         {
             "id": "R4",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "29768580_en.c1.e2"
         },
         {
             "id": "R5",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "29768580_en.c1.e4"
         },
         {
             "id": "R6",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "29768580_en.c1.e2"
         },
         {
             "id": "R7",
-            "subj": "DOID_399",
+            "subj": "29768580_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "29768580_en.c1.e4"
         }
     ]
 }

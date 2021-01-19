@@ -2,98 +2,98 @@
     "text": "Verifying the clinical-surgical profile and the results of patients monitored in an surgical wound ambulatory after a cardiac surgeries.This is a historical cohort research with patients submitted to cardiac surgery and monitored for a year in an outpatient surgical wound clinic from a hospital specialized in cardiology. The study analyzed the prevalent microorganisms in infections, the products used in the dressings, the time of follow-up, and the type of therapy established in the dressings.Among the 150 patients, most were sexagenarians (61.7 \u00b1 11.4 years), hypertensive patients (75%), and diabetic (44.7%). There were 12 patients with mediastinitis (8%) and 44 with surgical site infection (29.3%). Fatty acids (80%) and calcium alginate (19%) were used for wound healing. The mean follow-up time was 35 \u00b1 71 days.Sexagenary, hypertensive, diabetic and revascularized patients constituted the population monitored in the wounds outpatient clinic. The SSI and mediastinitis rates found were acceptable and similar to those in literature.",
     "denotations": [
         {
-            "id": "CHEBI_34935",
+            "id": "T0",
             "span": {
                 "begin": 157,
                 "end": 163
             },
-            "obj": "cohort"
+            "obj": "CHEBI_34935"
         },
         {
-            "id": "DOID_819",
+            "id": "T1",
             "span": {
                 "begin": 646,
                 "end": 659
             },
-            "obj": "mediastinitis"
+            "obj": "DOID_819"
         },
         {
-            "id": "CHEBI_35366",
+            "id": "T2",
             "span": {
                 "begin": 710,
                 "end": 721
             },
-            "obj": "Fatty acids"
+            "obj": "CHEBI_35366"
         },
         {
-            "id": "CHEBI_37527",
+            "id": "T3",
             "span": {
                 "begin": 716,
                 "end": 721
             },
-            "obj": "acids"
+            "obj": "CHEBI_37527"
         },
         {
-            "id": "CHEBI_22984",
+            "id": "T4",
             "span": {
                 "begin": 732,
                 "end": 739
             },
-            "obj": "calcium"
+            "obj": "CHEBI_22984"
         },
         {
-            "id": "CHEBI_17548",
+            "id": "T5",
             "span": {
                 "begin": 740,
                 "end": 748
             },
-            "obj": "alginate"
+            "obj": "CHEBI_17548"
         },
         {
-            "id": "DOID_819",
+            "id": "T6",
             "span": {
                 "begin": 970,
                 "end": 983
             },
-            "obj": "mediastinitis"
+            "obj": "DOID_819"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "31241655_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_35366"
+            "obj": "31241655_en.c1.e2"
         },
         {
             "id": "R2",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_22984"
+            "obj": "31241655_en.c1.e4"
         },
         {
             "id": "R3",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "31241655_en.c1.e0"
         },
         {
             "id": "R4",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_35366"
+            "obj": "31241655_en.c1.e2"
         },
         {
             "id": "R5",
-            "subj": "DOID_819",
+            "subj": "31241655_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_22984"
+            "obj": "31241655_en.c1.e4"
         }
     ]
 }

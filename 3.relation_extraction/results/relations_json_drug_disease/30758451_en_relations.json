@@ -2,108 +2,102 @@
     "text": "Understanding the relations between rainfall and river water levels and malaria cases can provide important clues on modulation of the disease in the context of local climatic variability. In order to demonstrate how these relations can vary in the same endemic space, a coherence and wavelet phase analysis was performed between environmental and epidemiological variables from 2003 to 2010 for 8 municipalities (counties) in the state of Amazonas, Brazil (Barcelos, Borba, Canutama, Carauari, Coari, Eirunep\u00e9, Humait\u00e1, and S\u00e3o Gabriel da Cachoeira). The results suggest significant coherences, mainly on the scale of annual variability, but scales of less than 1 year and of 2 years were also found. The analyses show that malaria cases display a peak at approximately 1 and a half months before or after peak rainfall and on average 1-4 months after peak river water levels in most of the municipalities studied. Each environmental variable displayed distinct local behavior in time and in space, suggesting that other local variables (e.g. topography) may control environmental conditions, favoring different patterns in each municipality. However, when the analyses were performed jointly it was possible to show a non-random order in these relations. Although environmental and climatic factors indicate a certain influence on malaria dynamics, surveillance, prevention, and control issues should not be overlooked, meaning that government public health interventions can mask possible relations with local hydrological and climatic conditions.",
     "denotations": [
         {
-            "id": "CHEBI_15377",
+            "id": "T0",
             "span": {
                 "begin": 55,
                 "end": 60
             },
-            "obj": "water"
+            "obj": "CHEBI_15377"
         },
         {
-            "id": "DOID_12365",
+            "id": "T1",
             "span": {
                 "begin": 72,
                 "end": 79
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_4",
+            "id": "T2",
             "span": {
                 "begin": 135,
                 "end": 142
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_12365",
+            "id": "T3",
             "span": {
                 "begin": 725,
                 "end": 732
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "CHEBI_15377",
+            "id": "T4",
             "span": {
                 "begin": 864,
                 "end": 869
             },
-            "obj": "water"
+            "obj": "CHEBI_15377"
         },
         {
-            "id": "DOID_12365",
+            "id": "T5",
             "span": {
                 "begin": 1333,
                 "end": 1340
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e0"
         },
         {
             "id": "R3",
-            "subj": "DOID_4",
+            "subj": "30758451_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e4"
         },
         {
             "id": "R4",
-            "subj": "DOID_4",
+            "subj": "30758451_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e0"
         },
         {
             "id": "R5",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e4"
         },
         {
             "id": "R6",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e0"
         },
         {
             "id": "R7",
-            "subj": "DOID_12365",
+            "subj": "30758451_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
-        },
-        {
-            "id": "R8",
-            "subj": "DOID_12365",
-            "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "30758451_en.c1.e4"
         }
     ]
 }

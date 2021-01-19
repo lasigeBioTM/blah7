@@ -2,88 +2,82 @@
     "text": "To investigate whether reactive hyperemia measured by peripheral arterial tonometry correlates with markers of endothelial dysfunction and may be used to identify sepsis in critical illness.A prospective study was performed using a cohort of critically ill patients. Endothelial dysfunction was assessed on admission by quantifying reactive hyperemia-peripheral arterial tonometry and plasma levels of endothelin-1, soluble E-selectin, endocan and syndecan-1. Septic patients were compared to patients without evidence of infection.Fifty-eight septic patients were compared to 28 controls. The natural logarithm of reactive hyperemia-peripheral arterial tonometry was negatively correlated with cardiovascular comorbidities, disease severity and plasma levels of soluble E-selectin (p = 0.024) and syndecan-1 (p < 0.001). The natural logarithm of reactive hyperemia-peripheral arterial tonometry was lower in septic patients than in controls (0.53 \u00b1 0.48 versus 0.69 \u00b1 0.42, respectively). When adjusted for age, the multivariable model predicted that each 0.1-unit decrease in natural logarithm of reactive hyperemia-peripheral arterial tonometry increased the odds for infection by 14.6%. m.Reactive hyperemia-peripheral arterial tonometry is closely related to soluble E-selectin and syndecan-1, suggesting an association between endothelial activation, glycocalyx degradation and vascular reactivity. Reactive hyperemia-peripheral arterial tonometry appears to be compromised in critically ill patients, especially those with sepsis.",
     "denotations": [
         {
-            "id": "HP_0030646",
+            "id": "T0",
             "span": {
                 "begin": 54,
                 "end": 64
             },
-            "obj": "peripheral"
+            "obj": "HP_0030646"
         },
         {
-            "id": "HP_0032654",
+            "id": "T1",
             "span": {
                 "begin": 111,
                 "end": 134
             },
-            "obj": "endothelial dysfunction"
+            "obj": "HP_0032654"
         },
         {
-            "id": "HP_0100806",
+            "id": "T2",
             "span": {
                 "begin": 163,
                 "end": 169
             },
-            "obj": "sepsis"
+            "obj": "HP_0100806"
         },
         {
-            "id": "HP_0032654",
+            "id": "T3",
             "span": {
                 "begin": 267,
                 "end": 290
             },
-            "obj": "Endothelial dysfunction"
+            "obj": "HP_0032654"
         },
         {
-            "id": "HP_0012824",
+            "id": "T4",
             "span": {
                 "begin": 733,
                 "end": 741
             },
-            "obj": "severity"
+            "obj": "HP_0012824"
         },
         {
-            "id": "GO_0030112",
+            "id": "T5",
             "span": {
                 "begin": 1357,
                 "end": 1367
             },
-            "obj": "glycocalyx"
+            "obj": "GO_0030112"
         },
         {
-            "id": "GO_0009056",
+            "id": "T6",
             "span": {
                 "begin": 1368,
                 "end": 1379
             },
-            "obj": "degradation"
+            "obj": "GO_0009056"
         },
         {
-            "id": "HP_0100806",
+            "id": "T7",
             "span": {
                 "begin": 1530,
                 "end": 1536
             },
-            "obj": "sepsis"
+            "obj": "HP_0100806"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0030112",
+            "subj": "33053025_en.c1.e5",
             "pred": "no_relation",
-            "obj": "HP_0100806"
+            "obj": "33053025_en.c1.e2"
         },
         {
             "id": "R1",
-            "subj": "GO_0030112",
+            "subj": "33053025_en.c1.e5",
             "pred": "no_relation",
-            "obj": "HP_0100806"
-        },
-        {
-            "id": "R2",
-            "subj": "GO_0030112",
-            "pred": "no_relation",
-            "obj": "HP_0032654"
+            "obj": "33053025_en.c1.e3"
         }
     ]
 }

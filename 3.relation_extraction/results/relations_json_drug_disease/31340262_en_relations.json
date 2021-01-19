@@ -2,106 +2,106 @@
     "text": "The study aimed to characterize food insecurity, nutritional status, and eating habits of people affected by leprosy. This is a descriptive cross-sectional study based on a census population. We evaluated 276 cases, reported in the Notifiable Diseases Information System, between 2001 and 2014, in the municipalities of Vit\u00f3ria da Conquista and Tremedal, in the state of Bahia. Food insecurity was estimated according to the Brazilian Food Insecurity Scale. We collected weight and height measurements, meal frequency, and household, socioeconomic, psychosocial and clinical variables. The prevalence of food insecurity was 41.0% among the study population - 28.3% mild, 8.0% moderate and 4.7% severe. Overweight/obesity was estimated in 60.1% of the study participants, and excessive salt intake was reported by 8.6%. Beans and red meat were the most regularly consumed foods; there was low consumption of milk, raw and cooked vegetables, and fruits. This population presented high food insecurity prevalence, inadequate eating habits and nutritional status, reflecting nutritional vulnerability. The insertion of nutritional assistance in the leprosy control programmes is recommended, to improve health care.",
     "denotations": [
         {
-            "id": "CHEBI_33290",
+            "id": "T0",
             "span": {
                 "begin": 32,
                 "end": 36
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "DOID_1024",
+            "id": "T1",
             "span": {
                 "begin": 109,
                 "end": 116
             },
-            "obj": "leprosy"
+            "obj": "DOID_1024"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T2",
             "span": {
                 "begin": 378,
                 "end": 382
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T3",
             "span": {
                 "begin": 435,
                 "end": 439
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T4",
             "span": {
                 "begin": 604,
                 "end": 608
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_24866",
+            "id": "T5",
             "span": {
                 "begin": 785,
                 "end": 789
             },
-            "obj": "salt"
+            "obj": "CHEBI_24866"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T6",
             "span": {
                 "begin": 983,
                 "end": 987
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "DOID_1024",
+            "id": "T7",
             "span": {
                 "begin": 1145,
                 "end": 1152
             },
-            "obj": "leprosy"
+            "obj": "DOID_1024"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "31340262_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "31340262_en.c1.e2"
         },
         {
             "id": "R2",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "31340262_en.c1.e2"
         },
         {
             "id": "R3",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "31340262_en.c1.e4"
         },
         {
             "id": "R4",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_24866"
+            "obj": "31340262_en.c1.e5"
         },
         {
             "id": "R5",
-            "subj": "DOID_1024",
+            "subj": "31340262_en.c1.e7",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "31340262_en.c1.e6"
         }
     ]
 }

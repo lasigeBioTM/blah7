@@ -2,170 +2,170 @@
     "text": "HTLV is a virus that affects human T-cells. Brazil is the country of the world with the largest absolute number of HTLV cases. Estimates by the Ministry of Health point to 700,000 to 2 million infected Brazilians. The majority are asymptomatic carriers, but some persons may develop degenerative neurological conditions such as tropical spastic paraparesis, in addition to leukemia and lymphoma. The forms of transmission and clinical manifestations such as progressive motor incapacity, genitourinary disorders, in addition to restriction of maternal breastfeeding, impact daily life and can lead to social discrimination and stigma. The stigma denotes violation of social norms and reinforces prejudice and inequalities. This article aims to discuss the concept of stigma and its repercussions on persons living with HTLV. The discussion is based on a literature review on the theme and the authors' experience with care for persons affected by the infection and illness. The study found that both HTLV carrier status and HTLV-related illness can be stigmatizing for individuals, who feel inferior for being infected with a potentially serious and even fatal disease, although incompletely understood and loaded with derogatory stereotypes. This situation can have negative repercussions on access to health services, treatment adherence, and pursuit of rights. Public policies should help mitigate such stigmatization, ensuring the rights of individuals in a situation of vulnerability due to HTLV in order from them to live as protagonists in the exercise of their civil rights.",
     "denotations": [
         {
-            "id": "DOID_321",
+            "id": "T0",
             "span": {
                 "begin": 328,
                 "end": 356
             },
-            "obj": "tropical spastic paraparesis"
+            "obj": "DOID_321"
         },
         {
-            "id": "HP_0001909",
+            "id": "T1",
             "span": {
                 "begin": 373,
                 "end": 381
             },
-            "obj": "leukemia"
+            "obj": "HP_0001909"
         },
         {
-            "id": "DOID_1240",
+            "id": "T2",
             "span": {
                 "begin": 373,
                 "end": 381
             },
-            "obj": "leukemia"
+            "obj": "DOID_1240"
         },
         {
-            "id": "HP_0003676",
+            "id": "T3",
             "span": {
                 "begin": 458,
                 "end": 469
             },
-            "obj": "progressive"
+            "obj": "HP_0003676"
         },
         {
-            "id": "GO_1990413",
+            "id": "T4",
             "span": {
                 "begin": 627,
                 "end": 633
             },
-            "obj": "stigma"
+            "obj": "GO_1990413"
         },
         {
-            "id": "GO_1990413",
+            "id": "T5",
             "span": {
                 "begin": 639,
                 "end": 645
             },
-            "obj": "stigma"
+            "obj": "GO_1990413"
         },
         {
-            "id": "GO_1990413",
+            "id": "T6",
             "span": {
                 "begin": 767,
                 "end": 773
             },
-            "obj": "stigma"
+            "obj": "GO_1990413"
         },
         {
-            "id": "HP_0032320",
+            "id": "T7",
             "span": {
                 "begin": 935,
                 "end": 943
             },
-            "obj": "affected"
+            "obj": "HP_0032320"
         },
         {
-            "id": "GO_0005215",
+            "id": "T8",
             "span": {
                 "begin": 1005,
                 "end": 1012
             },
-            "obj": "carrier"
+            "obj": "GO_0005215"
         },
         {
-            "id": "CHEBI_78059",
+            "id": "T9",
             "span": {
                 "begin": 1005,
                 "end": 1012
             },
-            "obj": "carrier"
+            "obj": "CHEBI_78059"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_1990413",
+            "subj": "T9",
             "pred": "effect",
-            "obj": "HP_0001909"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "GO_1990413",
+            "subj": "T9",
             "pred": "no_relation",
-            "obj": "HP_0003676"
+            "obj": "T2"
         },
         {
             "id": "R2",
-            "subj": "GO_1990413",
+            "subj": "T9",
             "pred": "no_relation",
-            "obj": "HP_0032320"
+            "obj": "T7"
         },
         {
             "id": "R3",
-            "subj": "GO_1990413",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "HP_0001909"
+            "obj": "T0"
         },
         {
             "id": "R4",
-            "subj": "GO_1990413",
+            "subj": "T5",
             "pred": "no_relation",
-            "obj": "HP_0003676"
+            "obj": "T2"
         },
         {
             "id": "R5",
-            "subj": "GO_1990413",
+            "subj": "T5",
             "pred": "no_relation",
-            "obj": "HP_0032320"
+            "obj": "T7"
         },
         {
             "id": "R6",
-            "subj": "GO_1990413",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "HP_0001909"
+            "obj": "T0"
         },
         {
             "id": "R7",
-            "subj": "GO_1990413",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "HP_0003676"
+            "obj": "T2"
         },
         {
             "id": "R8",
-            "subj": "GO_1990413",
+            "subj": "T6",
             "pred": "no_relation",
-            "obj": "HP_0032320"
+            "obj": "T7"
         },
         {
             "id": "R9",
-            "subj": "GO_0005215",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "HP_0001909"
+            "obj": "T0"
         },
         {
             "id": "R10",
-            "subj": "GO_0005215",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "HP_0003676"
+            "obj": "T2"
         },
         {
             "id": "R11",
-            "subj": "GO_0005215",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "HP_0032320"
+            "obj": "T7"
         },
         {
             "id": "R12",
-            "subj": "DOID_321",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_78059"
+            "obj": "T9"
         },
         {
             "id": "R13",
-            "subj": "DOID_1240",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_78059"
+            "obj": "T9"
         }
     ]
 }

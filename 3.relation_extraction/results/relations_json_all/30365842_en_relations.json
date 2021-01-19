@@ -2,78 +2,78 @@
     "text": "Faced with the historical role of organized civil society in the social responses to AIDS and the global health governance, this paper analyzes the biography of women living with HIV/AIDS, members of the National Movement of Posithive Citizens (MNCP), a national network of HIV-positive women. We used a qualitative approach with observations about the actions of the MNCP in Rio de Janeiro and individual interviews with eight members of the MNCP about their motivations and experiences in the movement. Most of the respondents were older than 50 years and had been diagnosed in the 1990s. Their biographies have been marked by social and gender inequalities. Their entry into the MNCP resulted from the need for HIV post-diagnosis support and in health servicesill-equipped to receive them. The movement contributed to the reconstruction of social identity, access to information on care and social support. According to the findings, the actions of the movement do not prioritize the feminist movement's agenda and coping with AIDS-related stigma and HIV vulnerability. Faced with the current global and national context of increased biomedical interventions in AIDS policies and declining resources for the social movement, the study fosters reflections on the challenges of organized civil society in local social responses to the AIDS epidemic.",
     "denotations": [
         {
-            "id": "CHEBI_50906",
+            "id": "T0",
             "span": {
                 "begin": 26,
                 "end": 30
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "DOID_635",
+            "id": "T1",
             "span": {
                 "begin": 85,
                 "end": 89
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_635",
+            "id": "T2",
             "span": {
                 "begin": 183,
                 "end": 187
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "GO_1990413",
+            "id": "T3",
             "span": {
                 "begin": 1043,
                 "end": 1049
             },
-            "obj": "stigma"
+            "obj": "GO_1990413"
         },
         {
-            "id": "DOID_635",
+            "id": "T4",
             "span": {
                 "begin": 1165,
                 "end": 1169
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_635",
+            "id": "T5",
             "span": {
                 "begin": 1336,
                 "end": 1340
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_635",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "DOID_635",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T0"
         },
         {
             "id": "R2",
-            "subj": "DOID_635",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T0"
         },
         {
             "id": "R3",
-            "subj": "DOID_635",
+            "subj": "T5",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T0"
         }
     ]
 }

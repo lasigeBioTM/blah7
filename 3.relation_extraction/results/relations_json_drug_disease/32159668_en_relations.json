@@ -2,112 +2,112 @@
     "text": "The use of antiretroviral drugs has increased the survival of HIV patients, but may have side effects, such as lipodystrophic syndrome. This article aims to identify the frequency of the lipodystrophic syndrome and its associated factors in patients with HIV using antiretroviral therapy. It involved a cross-sectional study with HIV patients, monitored on an outpatient basis. The syndrome was evaluated by the association of two parameters: peripheral weight loss through the lipodystrophy severity scale and central fat accumulation, measured by the hip waist ratio. Poisson regression analysis was performed to identify the associated variables. Of the 104 patients evaluated, 27.9% presented the syndrome. After adjustment, the female sex (PRadjusted = 2.16 CI95% 1.43-3.39), being overweight (PRadjusted = 2.23 CI95% 1.35-2.65) and a longer period of use of antiretrovirals (PRadjusted = 1.64 CI95% 1.16-2.78), remained positively associated with the syndrome. On the other hand, a negative association with CD4 count \u00a3 350 (PRadjusted = 0.39 CI95% 0.10-0.97) was observed The high prevalence of the syndrome and its association with specific groups reinforce the need for adequate follow-up and early identification to intervene in modifiable factors.",
     "denotations": [
         {
-            "id": "CHEBI_23888",
+            "id": "T0",
             "span": {
                 "begin": 26,
                 "end": 31
             },
-            "obj": "drugs"
+            "obj": "CHEBI_23888"
         },
         {
-            "id": "DOID_225",
+            "id": "T1",
             "span": {
                 "begin": 126,
                 "end": 134
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_225",
+            "id": "T2",
             "span": {
                 "begin": 202,
                 "end": 210
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_225",
+            "id": "T3",
             "span": {
                 "begin": 382,
                 "end": 390
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_811",
+            "id": "T4",
             "span": {
                 "begin": 478,
                 "end": 491
             },
-            "obj": "lipodystrophy"
+            "obj": "DOID_811"
         },
         {
-            "id": "DOID_225",
+            "id": "T5",
             "span": {
                 "begin": 701,
                 "end": 709
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_225",
+            "id": "T6",
             "span": {
                 "begin": 957,
                 "end": 965
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_225",
+            "id": "T7",
             "span": {
                 "begin": 1106,
                 "end": 1114
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R2",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R3",
-            "subj": "DOID_811",
+            "subj": "32159668_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R4",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R5",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         },
         {
             "id": "R6",
-            "subj": "DOID_225",
+            "subj": "32159668_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32159668_en.c1.e0"
         }
     ]
 }

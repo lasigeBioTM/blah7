@@ -2,114 +2,114 @@
     "text": "The study investigates the survival of patients with co-infection AIDS-TB through a retrospective study of a cohort of individuals aged 13 or more and the diagnosis of AIDS reported in the years 1998-99 and following 10 years. Of the 2,091 AIDS cases, 517 (24.7%) had positive diagnosis for tuberculosis, and 379 (73.3%) were male. The risk among co-infected patients was 1,65 times the not co-infected. Have been compared the exposed and non-exposed through the Kaplan-Meier and Cox method. The variables associated with longer survival were: female gender (HR = 0.63), educational level \u2265 eight years (HR = 0.52), CD4 diagnostic criteria (HR = 0.64); and shorter survival: age \u2265 60 years (HR = 2.33), no use of HAART (HR = 8.62), no investigation to Hepatitis B (HR = 2.44) and opportunistic infections \u2265 two (HR = 1.97). The average survival rate, related to TB infection was 69 months for the Southeast region and 73 months for the South. AIDS and tuberculosis require monitoring and treatment adherence and they are markers of the quality of care and survival of patients in Brazil.",
     "denotations": [
         {
-            "id": "CHEBI_34935",
+            "id": "T0",
             "span": {
                 "begin": 109,
                 "end": 115
             },
-            "obj": "cohort"
+            "obj": "CHEBI_34935"
         },
         {
-            "id": "DOID_635",
+            "id": "T1",
             "span": {
                 "begin": 168,
                 "end": 172
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_635",
+            "id": "T2",
             "span": {
                 "begin": 240,
                 "end": 244
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_399",
+            "id": "T3",
             "span": {
                 "begin": 291,
                 "end": 303
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "HP_0012115",
+            "id": "T4",
             "span": {
                 "begin": 752,
                 "end": 761
             },
-            "obj": "Hepatitis"
+            "obj": "HP_0012115"
         },
         {
-            "id": "DOID_2237",
+            "id": "T5",
             "span": {
                 "begin": 752,
                 "end": 761
             },
-            "obj": "Hepatitis"
+            "obj": "DOID_2237"
         },
         {
-            "id": "DOID_2043",
+            "id": "T6",
             "span": {
                 "begin": 752,
                 "end": 763
             },
-            "obj": "Hepatitis B"
+            "obj": "DOID_2043"
         },
         {
-            "id": "DOID_635",
+            "id": "T7",
             "span": {
                 "begin": 943,
                 "end": 947
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_399",
+            "id": "T8",
             "span": {
                 "begin": 952,
                 "end": 964
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_635",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "DOID_635",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         },
         {
             "id": "R2",
-            "subj": "DOID_399",
+            "subj": "T3",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         },
         {
             "id": "R3",
-            "subj": "DOID_2043",
+            "subj": "T6",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         },
         {
             "id": "R4",
-            "subj": "DOID_635",
+            "subj": "T7",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         },
         {
             "id": "R5",
-            "subj": "DOID_399",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "T0"
         }
     ]
 }

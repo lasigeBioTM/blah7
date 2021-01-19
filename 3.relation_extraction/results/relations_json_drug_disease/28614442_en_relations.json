@@ -2,222 +2,222 @@
     "text": "To identify factors that may influence outcomes in patients with severe skin and soft tissue infections in the intensive care unit.A retrospective observational study was conducted in a cohort of 1,123 critically ill patients admitted to an intensive care unit with a primary or secondary diagnosis of severe skin and soft tissues infection between January 2006 and December 2014.Thirty patients were included, 20 (66.7%) of whom were diagnosed with necrotizing fasciitis; in these patients, perineal area involvement was most commonly identified. Abscess was diagnosed in 8 (26.7%) patients, most commonly involving the cervical area. Risk factors such as immunosuppression and previous surgical trauma were commonly observed in this population. The most commonly isolated microorganism was Escherichia coli. Multidrug resistant microorganisms were commonly detected, even in the absence of traditional risk factors; among these patients, previous use of antibiotics was the most common risk factor for drug resistance. The rate of mortality was significantly higher in patients with necrotizing fasciitis (55%, p = 0.035) and associated with disease severity, presence of septic shock, cardiac arrest and leucocytosis.Different risk factors and etiologies of severe skin and soft tissue infections were identified. Necrotizing fasciitis and drug-resistant bacteria were significant predictors of mortality, even in the absence of traditional risk factors. Obtaining a better understanding of trends in the risk factors and microorganisms associated with severe skin infections may help in the determination of prompt treatment and antibiotic choices.",
     "denotations": [
         {
-            "id": "CHEBI_34935",
+            "id": "T0",
             "span": {
                 "begin": 186,
                 "end": 192
             },
-            "obj": "cohort"
+            "obj": "CHEBI_34935"
         },
         {
-            "id": "DOID_9602",
+            "id": "T1",
             "span": {
                 "begin": 450,
                 "end": 471
             },
-            "obj": "necrotizing fasciitis"
+            "obj": "DOID_9602"
         },
         {
-            "id": "DOID_9598",
+            "id": "T2",
             "span": {
                 "begin": 462,
                 "end": 471
             },
-            "obj": "fasciitis"
+            "obj": "DOID_9598"
         },
         {
-            "id": "CHEBI_33281",
+            "id": "T3",
             "span": {
                 "begin": 956,
                 "end": 967
             },
-            "obj": "antibiotics"
+            "obj": "CHEBI_33281"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T4",
             "span": {
                 "begin": 1004,
                 "end": 1008
             },
-            "obj": "drug"
+            "obj": "CHEBI_23888"
         },
         {
-            "id": "DOID_9602",
+            "id": "T5",
             "span": {
                 "begin": 1085,
                 "end": 1106
             },
-            "obj": "necrotizing fasciitis"
+            "obj": "DOID_9602"
         },
         {
-            "id": "DOID_9598",
+            "id": "T6",
             "span": {
                 "begin": 1097,
                 "end": 1106
             },
-            "obj": "fasciitis"
+            "obj": "DOID_9598"
         },
         {
-            "id": "DOID_4",
+            "id": "T7",
             "span": {
                 "begin": 1144,
                 "end": 1151
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0060319",
+            "id": "T8",
             "span": {
                 "begin": 1188,
                 "end": 1202
             },
-            "obj": "cardiac arrest"
+            "obj": "DOID_0060319"
         },
         {
-            "id": "DOID_9602",
+            "id": "T9",
             "span": {
                 "begin": 1317,
                 "end": 1338
             },
-            "obj": "Necrotizing fasciitis"
+            "obj": "DOID_9602"
         },
         {
-            "id": "DOID_9598",
+            "id": "T10",
             "span": {
                 "begin": 1329,
                 "end": 1338
             },
-            "obj": "fasciitis"
+            "obj": "DOID_9598"
         },
         {
-            "id": "CHEBI_33281",
+            "id": "T11",
             "span": {
                 "begin": 1633,
                 "end": 1643
             },
-            "obj": "antibiotic"
+            "obj": "CHEBI_33281"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_9598",
+            "subj": "28614442_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "28614442_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_9598",
+            "subj": "28614442_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e3"
         },
         {
             "id": "R2",
-            "subj": "DOID_9598",
+            "subj": "28614442_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "28614442_en.c1.e4"
         },
         {
             "id": "R3",
-            "subj": "DOID_9598",
+            "subj": "28614442_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e11"
         },
         {
             "id": "R4",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_34935"
+            "obj": "28614442_en.c1.e0"
         },
         {
             "id": "R5",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e3"
         },
         {
             "id": "R6",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "28614442_en.c1.e4"
         },
         {
             "id": "R7",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e11"
         },
         {
             "id": "R8",
-            "subj": "DOID_4",
+            "subj": "28614442_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "28614442_en.c1.e0"
         },
         {
             "id": "R9",
-            "subj": "DOID_4",
+            "subj": "28614442_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e3"
         },
         {
             "id": "R10",
-            "subj": "DOID_4",
+            "subj": "28614442_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "28614442_en.c1.e4"
         },
         {
             "id": "R11",
-            "subj": "DOID_4",
+            "subj": "28614442_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e11"
         },
         {
             "id": "R12",
-            "subj": "DOID_0060319",
+            "subj": "28614442_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "28614442_en.c1.e0"
         },
         {
             "id": "R13",
-            "subj": "DOID_0060319",
+            "subj": "28614442_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e3"
         },
         {
             "id": "R14",
-            "subj": "DOID_0060319",
+            "subj": "28614442_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "28614442_en.c1.e4"
         },
         {
             "id": "R15",
-            "subj": "DOID_0060319",
+            "subj": "28614442_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e11"
         },
         {
             "id": "R16",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_34935"
+            "obj": "28614442_en.c1.e0"
         },
         {
             "id": "R17",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e3"
         },
         {
             "id": "R18",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "28614442_en.c1.e4"
         },
         {
             "id": "R19",
-            "subj": "DOID_9602",
+            "subj": "28614442_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "28614442_en.c1.e11"
         }
     ]
 }

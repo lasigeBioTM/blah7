@@ -2,588 +2,582 @@
     "text": "The infection caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spreads worldwide and is considered a pandemic. The most common manifestation of SARS-CoV-2 infection (coronavirus disease 2019 - COVID-19) is viral pneumonia with varying degrees of respiratory compromise and up to 40% of hospitalized patients might develop acute respiratory distress syndrome. Several clinical trials evaluated the role of corticosteroids in non-COVID-19 acute respiratory distress syndrome with conflicting results. We designed a trial to evaluate the effectiveness of early intravenous dexamethasone administration on the number of days alive and free of mechanical ventilation within 28 days after randomization in adult patients with moderate or severe acute respiratory distress syndrome due to confirmed or probable COVID-19.This is a pragmatic, prospective, randomized, stratified, multicenter, open-label, controlled trial including 350 patients with early-onset (less than 48 hours before randomization) moderate or severe acute respiratory distress syndrome, defined by the Berlin criteria, due to COVID-19. Eligible patients will be randomly allocated to either standard treatment plus dexamethasone (Intervention Group) or standard treatment without dexamethasone (Control Group). Patients in the intervention group will receive dexamethasone 20mg intravenous once daily for 5 days, followed by dexamethasone 10mg IV once daily for additional 5 days or until intensive care unit discharge, whichever occurs first. The primary outcome is ventilator-free days within 28 days after randomization, defined as days alive and free from invasive mechanical ventilation. Secondary outcomes are all-cause mortality rates at day 28, evaluation of the clinical status at day 15 assessed with a 6-level ordinal scale, mechanical ventilation duration from randomization to day 28, Sequential Organ Failure Assessment Score evaluation at 48 hours, 72 hours and 7 days and intensive care unit -free days within 28.",
     "denotations": [
         {
-            "id": "HP_0012828",
+            "id": "T0",
             "span": {
                 "begin": 28,
                 "end": 34
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "DOID_2945",
+            "id": "T1",
             "span": {
                 "begin": 28,
                 "end": 61
             },
-            "obj": "severe acute respiratory syndrome"
+            "obj": "DOID_2945"
         },
         {
-            "id": "HP_0011009",
+            "id": "T2",
             "span": {
                 "begin": 35,
                 "end": 40
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "DOID_225",
+            "id": "T3",
             "span": {
                 "begin": 53,
                 "end": 61
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T4",
             "span": {
                 "begin": 170,
                 "end": 190
             },
-            "obj": "SARS-CoV-2 infection"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T5",
             "span": {
                 "begin": 204,
                 "end": 211
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T6",
             "span": {
                 "begin": 219,
                 "end": 227
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_10533",
+            "id": "T7",
             "span": {
                 "begin": 232,
                 "end": 247
             },
-            "obj": "viral pneumonia"
+            "obj": "DOID_10533"
         },
         {
-            "id": "HP_0002090",
+            "id": "T8",
             "span": {
                 "begin": 238,
                 "end": 247
             },
-            "obj": "pneumonia"
+            "obj": "HP_0002090"
         },
         {
-            "id": "DOID_552",
+            "id": "T9",
             "span": {
                 "begin": 238,
                 "end": 247
             },
-            "obj": "pneumonia"
+            "obj": "DOID_552"
         },
         {
-            "id": "HP_0011009",
+            "id": "T10",
             "span": {
                 "begin": 348,
                 "end": 353
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "DOID_11394",
+            "id": "T11",
             "span": {
                 "begin": 348,
                 "end": 383
             },
-            "obj": "acute respiratory distress syndrome"
+            "obj": "DOID_11394"
         },
         {
-            "id": "HP_0002098",
+            "id": "T12",
             "span": {
                 "begin": 354,
                 "end": 374
             },
-            "obj": "respiratory distress"
+            "obj": "HP_0002098"
         },
         {
-            "id": "DOID_225",
+            "id": "T13",
             "span": {
                 "begin": 375,
                 "end": 383
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T14",
             "span": {
                 "begin": 423,
                 "end": 427
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "CHEBI_50858",
+            "id": "T15",
             "span": {
                 "begin": 431,
                 "end": 446
             },
-            "obj": "corticosteroids"
+            "obj": "CHEBI_50858"
         },
         {
-            "id": "HP_0011009",
+            "id": "T16",
             "span": {
                 "begin": 463,
                 "end": 468
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "DOID_11394",
+            "id": "T17",
             "span": {
                 "begin": 463,
                 "end": 498
             },
-            "obj": "acute respiratory distress syndrome"
+            "obj": "DOID_11394"
         },
         {
-            "id": "HP_0002098",
+            "id": "T18",
             "span": {
                 "begin": 469,
                 "end": 489
             },
-            "obj": "respiratory distress"
+            "obj": "HP_0002098"
         },
         {
-            "id": "DOID_225",
+            "id": "T19",
             "span": {
                 "begin": 490,
                 "end": 498
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "CHEBI_41879",
+            "id": "T20",
             "span": {
                 "begin": 596,
                 "end": 609
             },
-            "obj": "dexamethasone"
+            "obj": "CHEBI_41879"
         },
         {
-            "id": "HP_0012826",
+            "id": "T21",
             "span": {
                 "begin": 746,
                 "end": 754
             },
-            "obj": "moderate"
+            "obj": "HP_0012826"
         },
         {
-            "id": "HP_0012828",
+            "id": "T22",
             "span": {
                 "begin": 758,
                 "end": 764
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "HP_0011009",
+            "id": "T23",
             "span": {
                 "begin": 765,
                 "end": 770
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "DOID_11394",
+            "id": "T24",
             "span": {
                 "begin": 765,
                 "end": 800
             },
-            "obj": "acute respiratory distress syndrome"
+            "obj": "DOID_11394"
         },
         {
-            "id": "HP_0002098",
+            "id": "T25",
             "span": {
                 "begin": 771,
                 "end": 791
             },
-            "obj": "respiratory distress"
+            "obj": "HP_0002098"
         },
         {
-            "id": "DOID_225",
+            "id": "T26",
             "span": {
                 "begin": 792,
                 "end": 800
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T27",
             "span": {
                 "begin": 830,
                 "end": 838
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "HP_0012826",
+            "id": "T28",
             "span": {
                 "begin": 1021,
                 "end": 1029
             },
-            "obj": "moderate"
+            "obj": "HP_0012826"
         },
         {
-            "id": "HP_0012828",
+            "id": "T29",
             "span": {
                 "begin": 1033,
                 "end": 1039
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "HP_0011009",
+            "id": "T30",
             "span": {
                 "begin": 1040,
                 "end": 1045
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "DOID_11394",
+            "id": "T31",
             "span": {
                 "begin": 1040,
                 "end": 1075
             },
-            "obj": "acute respiratory distress syndrome"
+            "obj": "DOID_11394"
         },
         {
-            "id": "HP_0002098",
+            "id": "T32",
             "span": {
                 "begin": 1046,
                 "end": 1066
             },
-            "obj": "respiratory distress"
+            "obj": "HP_0002098"
         },
         {
-            "id": "DOID_225",
+            "id": "T33",
             "span": {
                 "begin": 1067,
                 "end": 1075
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T34",
             "span": {
                 "begin": 1116,
                 "end": 1124
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_41879",
+            "id": "T35",
             "span": {
                 "begin": 1205,
                 "end": 1218
             },
-            "obj": "dexamethasone"
+            "obj": "CHEBI_41879"
         },
         {
-            "id": "CHEBI_41879",
+            "id": "T36",
             "span": {
                 "begin": 1270,
                 "end": 1283
             },
-            "obj": "dexamethasone"
+            "obj": "CHEBI_41879"
         },
         {
-            "id": "CHEBI_41879",
+            "id": "T37",
             "span": {
                 "begin": 1349,
                 "end": 1362
             },
-            "obj": "dexamethasone"
+            "obj": "CHEBI_41879"
         },
         {
-            "id": "CHEBI_41879",
+            "id": "T38",
             "span": {
                 "begin": 1415,
                 "end": 1428
             },
-            "obj": "dexamethasone"
+            "obj": "CHEBI_41879"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_11394",
-            "pred": "no_relation",
-            "obj": "CHEBI_41879"
+            "subj": "T1",
+            "pred": "effect",
+            "obj": "T14"
         },
         {
             "id": "R1",
-            "subj": "DOID_2945",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R2",
-            "subj": "DOID_2945",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R3",
-            "subj": "DOID_2945",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R4",
-            "subj": "DOID_2945",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R7",
-            "subj": "DOID_0080600",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R9",
-            "subj": "DOID_4",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R10",
-            "subj": "DOID_4",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R11",
-            "subj": "DOID_4",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R12",
-            "subj": "DOID_4",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R13",
-            "subj": "DOID_0080600",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R14",
-            "subj": "DOID_0080600",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R15",
-            "subj": "DOID_0080600",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R16",
-            "subj": "DOID_0080600",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R17",
-            "subj": "DOID_10533",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R18",
-            "subj": "DOID_10533",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R19",
-            "subj": "DOID_10533",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R20",
-            "subj": "DOID_10533",
+            "subj": "T13",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R21",
-            "subj": "DOID_225",
+            "subj": "T13",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R22",
-            "subj": "DOID_225",
+            "subj": "T13",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R23",
-            "subj": "DOID_225",
+            "subj": "T13",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R24",
-            "subj": "DOID_225",
+            "subj": "T17",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R25",
-            "subj": "DOID_11394",
+            "subj": "T17",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R26",
-            "subj": "DOID_11394",
+            "subj": "T17",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R27",
-            "subj": "DOID_11394",
+            "subj": "T17",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R28",
-            "subj": "DOID_11394",
+            "subj": "T24",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R29",
-            "subj": "DOID_11394",
+            "subj": "T24",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R30",
-            "subj": "DOID_11394",
+            "subj": "T24",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R31",
-            "subj": "DOID_11394",
+            "subj": "T24",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R32",
-            "subj": "DOID_11394",
+            "subj": "T27",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R33",
-            "subj": "DOID_0080600",
+            "subj": "T27",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R34",
-            "subj": "DOID_0080600",
+            "subj": "T27",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R35",
-            "subj": "DOID_0080600",
+            "subj": "T27",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R36",
-            "subj": "DOID_0080600",
+            "subj": "T33",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R37",
-            "subj": "DOID_225",
+            "subj": "T33",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R38",
-            "subj": "DOID_225",
+            "subj": "T33",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R39",
-            "subj": "DOID_225",
+            "subj": "T33",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         },
         {
             "id": "R40",
-            "subj": "DOID_225",
+            "subj": "T34",
             "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T14"
         },
         {
             "id": "R41",
-            "subj": "DOID_0080600",
+            "subj": "T34",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T15"
         },
         {
             "id": "R42",
-            "subj": "DOID_0080600",
+            "subj": "T34",
             "pred": "effect",
-            "obj": "CHEBI_50858"
+            "obj": "T20"
         },
         {
             "id": "R43",
-            "subj": "DOID_0080600",
+            "subj": "T34",
             "pred": "effect",
-            "obj": "CHEBI_41879"
-        },
-        {
-            "id": "R44",
-            "subj": "DOID_0080600",
-            "pred": "effect",
-            "obj": "CHEBI_41879"
+            "obj": "T35"
         }
     ]
 }

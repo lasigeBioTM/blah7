@@ -2,190 +2,190 @@
     "text": "SARS-CoV-2 is an emerging RNA virus associated with a severe acute respiratory disease known as COVID-19. Although COVID-19 is predominantly a pulmonary disease, some patients have severe cardiovascular damage. We performed a quantitative evidence synthesis of clinical data, myocardial injury biomarkers, and cardiac complications associated with in-hospital death in patients with COVID-19.We searched the databases PubMed, Embase, and Google Scholar to identify studies comparing clinical data, myocardial injury biomarkers, and cardiac complications between non-survivors and survivors of COVID-19. Effect sizes were reported as mean difference or standardized mean difference for continuous variables and risk ratio for dichotomous variables with 95% confidence intervals. A random effects model was used to pool the results.Six retrospective studies reporting data from 1,141 patients (832 survivors and 309 non-survivors) were included. We found that underlying cardiovascular conditions; elevation of high-sensitivity cardiac troponin I, N-terminal pro-B-type natriuretic peptide, and creatine kinase-MB; and cardiac complications were associated with increased risk of death for patients with SARS-CoV-2 infection.The confirmation that underlying cardiovascular conditions, elevation of myocardial injury biomarkers during COVID-19 infection, and acute cardiovascular decompensation are predictors for mortality in SARS-CoV-2 infection must encourage new research to clarify potential mechanisms and test appropriate treatments. (Arq Bras Cardiol. 2020; 115(2):273-277).",
     "denotations": [
         {
-            "id": "CHEBI_33697",
+            "id": "T0",
             "span": {
                 "begin": 26,
                 "end": 29
             },
-            "obj": "RNA"
+            "obj": "CHEBI_33697"
         },
         {
-            "id": "DOID_4",
+            "id": "T1",
             "span": {
                 "begin": 79,
                 "end": 86
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T2",
             "span": {
                 "begin": 96,
                 "end": 104
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T3",
             "span": {
                 "begin": 115,
                 "end": 123
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T4",
             "span": {
                 "begin": 153,
                 "end": 160
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T5",
             "span": {
                 "begin": 383,
                 "end": 391
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T6",
             "span": {
                 "begin": 593,
                 "end": 601
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_16919",
+            "id": "T7",
             "span": {
                 "begin": 1093,
                 "end": 1101
             },
-            "obj": "creatine"
+            "obj": "CHEBI_16919"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T8",
             "span": {
                 "begin": 1202,
                 "end": 1222
             },
-            "obj": "SARS-CoV-2 infection"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T9",
             "span": {
                 "begin": 1332,
                 "end": 1340
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T10",
             "span": {
                 "begin": 1424,
                 "end": 1444
             },
-            "obj": "SARS-CoV-2 infection"
+            "obj": "DOID_0080600"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_4",
+            "subj": "32876196_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_4",
+            "subj": "32876196_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R6",
-            "subj": "DOID_4",
+            "subj": "32876196_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R7",
-            "subj": "DOID_4",
+            "subj": "32876196_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R9",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R10",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R11",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e8",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R12",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R13",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e9",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         },
         {
             "id": "R14",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e10",
             "pred": "effect",
-            "obj": "CHEBI_33697"
+            "obj": "32876196_en.c1.e0"
         },
         {
             "id": "R15",
-            "subj": "DOID_0080600",
+            "subj": "32876196_en.c1.e10",
             "pred": "no_relation",
-            "obj": "CHEBI_16919"
+            "obj": "32876196_en.c1.e7"
         }
     ]
 }

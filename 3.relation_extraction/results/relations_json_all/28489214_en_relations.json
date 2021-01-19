@@ -2,138 +2,132 @@
     "text": "to evaluate the efficacy of Bacterial Cellulose (BC) membrane dressings in the treatment of lower limb venous ulcers.we carried out a prospective, randomized, controlled study of 25 patients with chronic venous ulcer disease in the lower limbs from the Angiology and Vascular Surgery Service of the Federal University of Pernambuco Hospital and from the Salgado Polyclinic of the County Health Department, Caruaru, Pernambuco. We randomly assigned patients to two groups: control group, receiving dressings with triglyceride oil (11 patients) and experimental group, treated with BC membrane (14 patients). We followed the patients for a period of 120 days.There was a reduction in the wound area in both groups. There were no infections or reactions to the product in any of the groups. Patients in the BC group showed decreased pain and earlier discontinuation of analgesic use.BC membrane can be used as a dressing for the treatment of varicose ulcers of the lower limbs.",
     "denotations": [
         {
-            "id": "CHEBI_18246",
+            "id": "T0",
             "span": {
                 "begin": 38,
                 "end": 47
             },
-            "obj": "Cellulose"
+            "obj": "CHEBI_18246"
         },
         {
-            "id": "GO_0016020",
+            "id": "T1",
             "span": {
                 "begin": 53,
                 "end": 61
             },
-            "obj": "membrane"
+            "obj": "GO_0016020"
         },
         {
-            "id": "HP_0011010",
+            "id": "T2",
             "span": {
                 "begin": 196,
                 "end": 203
             },
-            "obj": "chronic"
+            "obj": "HP_0011010"
         },
         {
-            "id": "DOID_4",
+            "id": "T3",
             "span": {
                 "begin": 217,
                 "end": 224
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "CHEBI_17855",
+            "id": "T4",
             "span": {
                 "begin": 512,
                 "end": 524
             },
-            "obj": "triglyceride"
+            "obj": "CHEBI_17855"
         },
         {
-            "id": "GO_0016020",
+            "id": "T5",
             "span": {
                 "begin": 583,
                 "end": 591
             },
-            "obj": "membrane"
+            "obj": "GO_0016020"
         },
         {
-            "id": "HP_0012531",
+            "id": "T6",
             "span": {
                 "begin": 830,
                 "end": 834
             },
-            "obj": "pain"
+            "obj": "HP_0012531"
         },
         {
-            "id": "CHEBI_35480",
+            "id": "T7",
             "span": {
                 "begin": 866,
                 "end": 875
             },
-            "obj": "analgesic"
+            "obj": "CHEBI_35480"
         },
         {
-            "id": "GO_0016020",
+            "id": "T8",
             "span": {
                 "begin": 883,
                 "end": 891
             },
-            "obj": "membrane"
+            "obj": "GO_0016020"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0016020",
-            "pred": "effect",
-            "obj": "HP_0011010"
+            "subj": "T0",
+            "pred": "no_relation",
+            "obj": "T3"
         },
         {
             "id": "R1",
-            "subj": "GO_0016020",
+            "subj": "T0",
             "pred": "no_relation",
-            "obj": "HP_0011010"
+            "obj": "T7"
         },
         {
             "id": "R2",
-            "subj": "GO_0016020",
+            "subj": "T4",
             "pred": "no_relation",
-            "obj": "HP_0012531"
+            "obj": "T3"
         },
         {
             "id": "R3",
-            "subj": "GO_0016020",
+            "subj": "T4",
             "pred": "no_relation",
-            "obj": "HP_0011010"
+            "obj": "T7"
         },
         {
             "id": "R4",
-            "subj": "GO_0016020",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "HP_0012531"
+            "obj": "T3"
         },
         {
             "id": "R5",
-            "subj": "GO_0016020",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "HP_0011010"
+            "obj": "T7"
         },
         {
             "id": "R6",
-            "subj": "GO_0016020",
-            "pred": "no_relation",
-            "obj": "HP_0012531"
+            "subj": "T3",
+            "pred": "effect",
+            "obj": "T0"
         },
         {
             "id": "R7",
-            "subj": "DOID_4",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_18246"
+            "obj": "T4"
         },
         {
             "id": "R8",
-            "subj": "DOID_4",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_17855"
-        },
-        {
-            "id": "R9",
-            "subj": "DOID_4",
-            "pred": "effect",
-            "obj": "CHEBI_35480"
+            "obj": "T7"
         }
     ]
 }

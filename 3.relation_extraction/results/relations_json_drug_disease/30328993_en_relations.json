@@ -2,78 +2,78 @@
     "text": "Platelet transfusion is a common practice to prevent spontaneous bleeding or bleeding due to invasive procedures. Transfusion of allogeneic blood components is associated with increased mortality and a worse clinical outcome. The clot strength is assessed by thromboelastometry and determined by the interaction between platelets and fibrinogen. The compensatory effect of high levels of fibrinogen on clot strength in patients with thrombocytopenia has been demonstrated in different clinical settings including sepsis. We report the case of a patient with severe thrombocytopenia whose thromboelastometry showed clot strength that was compensated for by the increase in plasma fibrinogen levels as an acute phase reactant of septic patients. Here, we report a case of a 62-year-old female diagnosed with bone marrow aplasia admitted in the intensive care unit with septic shock and severe thrombocytopenia. During the first 24 hours in the intensive care unit, she presented acute respiratory insufficiency and circulatory shock. The use of invasive mechanical ventilation and norepinephrine was required. Her chest X-ray showed bilateral lung injury. Thus, bronchoscopy with bronchoalveolar lavage was requested. Thromboelastometry was performed and resulted in a normal coagulable profile. Despite severe thrombocytopenia (1,000/mm3), fibrinogen levels were increased (1,050mg/dL) due to septic shock. Bronchoscopy was performed without any active or further bleeding. Here, we report the use of thromboelastometry in the diagnosis of coagulation disorders, preventing unnecessary prophylactic platelet transfusion.",
     "denotations": [
         {
-            "id": "DOID_1588",
+            "id": "T0",
             "span": {
                 "begin": 433,
                 "end": 449
             },
-            "obj": "thrombocytopenia"
+            "obj": "DOID_1588"
         },
         {
-            "id": "DOID_1588",
+            "id": "T1",
             "span": {
                 "begin": 565,
                 "end": 581
             },
-            "obj": "thrombocytopenia"
+            "obj": "DOID_1588"
         },
         {
-            "id": "DOID_1588",
+            "id": "T2",
             "span": {
                 "begin": 891,
                 "end": 907
             },
-            "obj": "thrombocytopenia"
+            "obj": "DOID_1588"
         },
         {
-            "id": "CHEBI_18357",
+            "id": "T3",
             "span": {
                 "begin": 1079,
                 "end": 1093
             },
-            "obj": "norepinephrine"
+            "obj": "CHEBI_18357"
         },
         {
-            "id": "CHEBI_33569",
+            "id": "T4",
             "span": {
                 "begin": 1079,
                 "end": 1093
             },
-            "obj": "norepinephrine"
+            "obj": "CHEBI_33569"
         },
         {
-            "id": "DOID_1588",
+            "id": "T5",
             "span": {
                 "begin": 1309,
                 "end": 1325
             },
-            "obj": "thrombocytopenia"
+            "obj": "DOID_1588"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_1588",
+            "subj": "30328993_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33569"
+            "obj": "30328993_en.c1.e4"
         },
         {
             "id": "R1",
-            "subj": "DOID_1588",
+            "subj": "30328993_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33569"
+            "obj": "30328993_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "DOID_1588",
+            "subj": "30328993_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_33569"
+            "obj": "30328993_en.c1.e4"
         },
         {
             "id": "R3",
-            "subj": "DOID_1588",
+            "subj": "30328993_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_33569"
+            "obj": "30328993_en.c1.e4"
         }
     ]
 }

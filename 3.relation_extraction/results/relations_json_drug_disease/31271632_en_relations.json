@@ -2,170 +2,170 @@
     "text": "The Special Tuberculosis Treatment Information System (SITE-TB) arose mainly from the need to routinely monitor all persons with drug-resistant tuberculosis (DR-TB) in Brazil, as well as to qualify tuberculosis' drug control. Developed by the Professor H\u00e9lio Fraga Reference Center and the Management Sciences for Health/Brazil Project, this online system was implemented in 2013 in all Brazilian states. In addition to DR-TB, the system registers people with drug-sensitive tuberculosis with special regimen indications, and those with nontuberculous mycobacterial infections identified by differential diagnosis of tuberculosis. All confirmed tuberculosis cases should be notified on the Notifiable Diseases Information System (SINAN). In situations where treatment with special regimens is necessary, the case is closed on SINAN and notified on SITE-TB. Professionals from tuberculosis reference centers report and monitor these cases on the system, as well as manage tuberculosis' drugs.",
     "denotations": [
         {
-            "id": "DOID_399",
+            "id": "T0",
             "span": {
                 "begin": 12,
                 "end": 24
             },
-            "obj": "Tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T1",
             "span": {
                 "begin": 144,
                 "end": 156
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T2",
             "span": {
                 "begin": 198,
                 "end": 210
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T3",
             "span": {
                 "begin": 212,
                 "end": 216
             },
-            "obj": "drug"
+            "obj": "CHEBI_23888"
         },
         {
-            "id": "DOID_399",
+            "id": "T4",
             "span": {
                 "begin": 475,
                 "end": 487
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T5",
             "span": {
                 "begin": 617,
                 "end": 629
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T6",
             "span": {
                 "begin": 645,
                 "end": 657
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_399",
+            "id": "T7",
             "span": {
                 "begin": 876,
                 "end": 888
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "CHEBI_81767",
+            "id": "T8",
             "span": {
                 "begin": 964,
                 "end": 970
             },
-            "obj": "manage"
+            "obj": "CHEBI_81767"
         },
         {
-            "id": "DOID_399",
+            "id": "T9",
             "span": {
                 "begin": 971,
                 "end": 983
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R1",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R2",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R3",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R4",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R5",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R6",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R7",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R8",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R9",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R10",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e7",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R11",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         },
         {
             "id": "R12",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "31271632_en.c1.e3"
         },
         {
             "id": "R13",
-            "subj": "DOID_399",
+            "subj": "31271632_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_81767"
+            "obj": "31271632_en.c1.e8"
         }
     ]
 }

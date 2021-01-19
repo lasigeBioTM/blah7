@@ -2,28 +2,28 @@
     "text": "The COVID-19 pandemic and the sanitary measures of social distance brought impasses to Social Research and its future. Research in digital environments was already booming, but now that face-to-face activities are temporarily suspended, it becomes an alternative to enable the continuity of studies. Understanding it better is an epistemological and methodological need for all researchers. Thus, the objective of this essay is to propose some theoretical and methodological considerations on qualitative research in the different digital environments formed by the Internet 2.0. We point out some introductory aspects and tensions considered strategic for those who are going to start their work in social networks supported by the Internet. We organized the article based on the following topics: (1) digital sociality; (2) the \"digital environment\" and the blurring of boundaries between real-virtual; (3) the redefinition of the meaning of \"field\" in the digital environment; (4) the different cultural uses of digital platforms; (5) platforms as producers of discursive genres; (6) the production and extraction of collections. The essay seeks to demonstrate that research in digital environments reveals an exponential field of possibilities, whether to explore the forms that this sociality assumes in our daily lives, or to modulate our (inter)subjectivities, as it allows the production of identity narratives and performances, associations for different purposes, among many other possibilities. However, it demands an understanding of social action based on the synergy of the socio-technical-cultural contexts that structure it.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 4,
                 "end": 12
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_5133",
+            "id": "T1",
             "span": {
                 "begin": 1553,
                 "end": 1559
             },
-            "obj": "action"
+            "obj": "CHEBI_5133"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_5133"
+            "obj": "T1"
         }
     ]
 }

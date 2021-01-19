@@ -2,166 +2,166 @@
     "text": "COVID-19 is an acute infectious respiratory distress syndrome (ARDS) caused by the novel coronavirus SARS-CoV-2. The disease is highly communicable and produces mild to severe symptoms, generating a high demand for intensive care and thousands of deaths. In March 2020, COVID-19 was declared a pandemic and has already surpassed five million cases and 300,000 deaths in the world. The natural history of the disease has still not been fully established, hindering the elaboration of effective clinical protocols and preventive measures. Nevertheless, the disease requires a systemic approach, since there is evidence of acute and chronic complications, in addition to the catastrophic effects on the population's mental health. This highlights the need for a methodology that more effectively captures the effect of COVID-19, considering such aspects as severity, duration, and the potential to generate chronic complications that will increase the demands on Brazilian Unified National Health System (SUS). DALYs, or disability-adjusted life years, are thus an extremely useful indictor that adds mortality, an estimate of years of life lost (YLLs), and morbidity, an estimate of years of life lived with disability (YLDs). This article discusses the relevance and difficulties of studying the burden of COVID-19 and its complications in the Brazilian context, highlighting the natural history of the disease and estimating indicators such as YLDs, considering the high burden of disease in planning strategies to deal with the consequences of COVID-19 after the pandemic. The article also discusses the future challenges to deal with the disease in the SUS and the effects on the calculation of DALYs.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 0,
                 "end": 8
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_225",
+            "id": "T1",
             "span": {
                 "begin": 53,
                 "end": 61
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_11394",
+            "id": "T2",
             "span": {
                 "begin": 63,
                 "end": 67
             },
-            "obj": "ARDS"
+            "obj": "DOID_11394"
         },
         {
-            "id": "DOID_4",
+            "id": "T3",
             "span": {
                 "begin": 117,
                 "end": 124
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T4",
             "span": {
                 "begin": 270,
                 "end": 278
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T5",
             "span": {
                 "begin": 408,
                 "end": 415
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_4",
+            "id": "T6",
             "span": {
                 "begin": 555,
                 "end": 562
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T7",
             "span": {
                 "begin": 816,
                 "end": 824
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_25434",
+            "id": "T8",
             "span": {
                 "begin": 1138,
                 "end": 1142
             },
-            "obj": "lost"
+            "obj": "CHEBI_25434"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T9",
             "span": {
                 "begin": 1305,
                 "end": 1313
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T10",
             "span": {
                 "begin": 1402,
                 "end": 1409
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_4",
+            "id": "T11",
             "span": {
                 "begin": 1481,
                 "end": 1488
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T12",
             "span": {
                 "begin": 1545,
                 "end": 1553
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T13",
             "span": {
                 "begin": 1640,
                 "end": 1647
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "33146278_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R1",
-            "subj": "DOID_11394",
+            "subj": "33146278_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R2",
-            "subj": "DOID_4",
+            "subj": "33146278_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "33146278_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R4",
-            "subj": "DOID_4",
+            "subj": "33146278_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R5",
-            "subj": "DOID_4",
+            "subj": "33146278_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "33146278_en.c1.e9",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         },
         {
             "id": "R7",
-            "subj": "DOID_4",
+            "subj": "33146278_en.c1.e13",
             "pred": "effect",
-            "obj": "CHEBI_25434"
+            "obj": "33146278_en.c1.e8"
         }
     ]
 }

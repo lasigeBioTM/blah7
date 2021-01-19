@@ -2,122 +2,122 @@
     "text": "To assess, through space-time analyses, whether the income inequality of the Federative Units (FUs) in Brazil can be associated with the risk of infection and death by COVID-19.This was an ecological study, based on secondary data on incidence and mortality rates for COVID-19. Data were analyzed at the state level, having the Gini coefficient as the main independent variable. Records of twelve days were used, spaced one week each, between April 21th and June 7th, 2020. The weekly variation in the rates was calculated through Prais-Winsten regression, aiming at measuring the evolution of the pandemic in each FU. Spearman's correlation test was used to assess correlation between the rates and their weekly evolution and the independent variables. Lastly, a spatial dependence diagnosis was conducted, and a Spatial Regression lag model was used when applicable.Incidence and mortality rates of COVID-19 increased in all Brazilian FUs, being more pronounced among those with greater economic inequality. Association between Gini coefficient and COVID-19 incidence and mortality rates remained even when demographic and spatial aspects were taken into account.Income inequality can play an important role in the impact of COVID-19 on the Brazilian territory, through absolute and contextual effects. Structural policies to reduce inequality are essential to face this and future health crises in Brazil.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 168,
                 "end": 176
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T1",
             "span": {
                 "begin": 268,
                 "end": 276
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T2",
             "span": {
                 "begin": 901,
                 "end": 909
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T3",
             "span": {
                 "begin": 1051,
                 "end": 1059
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T4",
             "span": {
                 "begin": 1205,
                 "end": 1209
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T5",
             "span": {
                 "begin": 1227,
                 "end": 1235
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0111084",
+            "id": "T6",
             "span": {
                 "begin": 1363,
                 "end": 1367
             },
-            "obj": "face"
+            "obj": "DOID_0111084"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T4"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T6"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T4"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T6"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T4"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T6"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T4"
         },
         {
             "id": "R7",
-            "subj": "DOID_0080600",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T6"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T4"
         },
         {
             "id": "R9",
-            "subj": "DOID_0080600",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T6"
         }
     ]
 }

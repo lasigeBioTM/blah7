@@ -2,64 +2,64 @@
     "text": "The pyogenic liver abscess has an incidence of 1.1/1,000 habitants. Mortality can reach 100%. The use of less invasive procedures diminish morbidity and hospital stay.Identify risk factors in patients who underwent percutaneous drainage guided by ultrasound as treatment.Were analyzed 10 patients submitted to the method. Epidemiological characteristics, laboratory markers and imaging exams (ultrasound and CT) were evaluated.The majority of the patients were men with mean age of 50 years old. Liver disease, alcoholism and biliary tract disease were the most common prodromes. Abdominal pain (90%), fever (70%) and jaundice (40%) were the most common clinical manifestations. Mortality of 20% was observed in this series. Hypoalbuminemia and days of hospitalization had a statistically significant positive association with death.The pyogenic liver abscess has subacute evolution which makes the diagnosis difficult. Image exams have high sensitivity in diagnosis, particularly computed tomography. Percutaneous drainage associated with antibiotic therapy is safe and effective therapeutic resource.",
     "denotations": [
         {
-            "id": "DOID_4",
+            "id": "T0",
             "span": {
                 "begin": 502,
                 "end": 509
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0050741",
+            "id": "T1",
             "span": {
                 "begin": 511,
                 "end": 521
             },
-            "obj": "alcoholism"
+            "obj": "DOID_0050741"
         },
         {
-            "id": "DOID_9741",
+            "id": "T2",
             "span": {
                 "begin": 526,
                 "end": 547
             },
-            "obj": "biliary tract disease"
+            "obj": "DOID_9741"
         },
         {
-            "id": "DOID_4",
+            "id": "T3",
             "span": {
                 "begin": 540,
                 "end": 547
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "CHEBI_33281",
+            "id": "T4",
             "span": {
                 "begin": 1040,
                 "end": 1050
             },
-            "obj": "antibiotic"
+            "obj": "CHEBI_33281"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_4",
+            "subj": "27759785_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "27759785_en.c1.e4"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050741",
+            "subj": "27759785_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "27759785_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "DOID_9741",
+            "subj": "27759785_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "27759785_en.c1.e4"
         }
     ]
 }

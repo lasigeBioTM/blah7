@@ -2,212 +2,212 @@
     "text": "Follow-up of cardiac index and systemic vascular resistance index by bedside echocardiography until resuscitation.A set of hemodynamic parameters was obtained, including cardiac output, stroke volume, cardiac index, systemic vascular resistance index, velocity time integral, myocardial performance index, capillary refill time, and heart rate at 0 hours after fluid boluses before the start of inotropes, and followed up after 6 hours and 24 hours.Included were 45 patients with community-acquired septic shock. Septic foci were gastroenteritis (24%), intestinal perforation requiring emergency surgery (24%), pneumonia (20%), central nervous system infection (22%) and soft tissue infection (8%). Klebsiella and Enterobacter were the most frequent isolates. We estimated the factors affecting the cardiac index: high central venous pressure at zero time (r = 0.33, p = 0.024) and persistently high heart rate at hour 6 (r = 0.33, p = 0.03). The systemic vascular resistance index was high in most patients at 0 and 24 hours and at the time of resuscitation and inversely affected the cardiac index as well as affecting the velocity time integral (r = -0.416, -0.61, 0.55 and -0.295). Prolonged capillary refill time was a clinical predictor of the low velocity time integral at 24 hours (r = -0.4). The mortality was 27%. Lower systemic vascular resistance index and higher cardiac output were observed in nonsurviving patients.There was a persistently high systemic vascular resistance index in cold shock patients that influenced the stroke volume index, cardiac index, and velocity time integral. The use of echocardiograms for hemodynamic measurements is important in pediatric septic shock patients to adjust dilators, and vasopressor doses and achieve resuscitation targets in a timely manner.",
     "denotations": [
         {
-            "id": "DOID_6713",
+            "id": "T0",
             "span": {
                 "begin": 186,
                 "end": 192
             },
-            "obj": "stroke"
+            "obj": "DOID_6713"
         },
         {
-            "id": "CHEBI_145500",
+            "id": "T1",
             "span": {
                 "begin": 252,
                 "end": 260
             },
-            "obj": "velocity"
+            "obj": "CHEBI_145500"
         },
         {
-            "id": "DOID_2326",
+            "id": "T2",
             "span": {
                 "begin": 530,
                 "end": 545
             },
-            "obj": "gastroenteritis"
+            "obj": "DOID_2326"
         },
         {
-            "id": "DOID_2074",
+            "id": "T3",
             "span": {
                 "begin": 553,
                 "end": 575
             },
-            "obj": "intestinal perforation"
+            "obj": "DOID_2074"
         },
         {
-            "id": "DOID_552",
+            "id": "T4",
             "span": {
                 "begin": 611,
                 "end": 620
             },
-            "obj": "pneumonia"
+            "obj": "DOID_552"
         },
         {
-            "id": "CHEBI_145500",
+            "id": "T5",
             "span": {
                 "begin": 1125,
                 "end": 1133
             },
-            "obj": "velocity"
+            "obj": "CHEBI_145500"
         },
         {
-            "id": "CHEBI_145500",
+            "id": "T6",
             "span": {
                 "begin": 1254,
                 "end": 1262
             },
-            "obj": "velocity"
+            "obj": "CHEBI_145500"
         },
         {
-            "id": "DOID_3083",
+            "id": "T7",
             "span": {
                 "begin": 1498,
                 "end": 1502
             },
-            "obj": "cold"
+            "obj": "DOID_3083"
         },
         {
-            "id": "DOID_6713",
+            "id": "T8",
             "span": {
                 "begin": 1538,
                 "end": 1544
             },
-            "obj": "stroke"
+            "obj": "DOID_6713"
         },
         {
-            "id": "CHEBI_145500",
+            "id": "T9",
             "span": {
                 "begin": 1578,
                 "end": 1586
             },
-            "obj": "velocity"
+            "obj": "CHEBI_145500"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e1"
         },
         {
             "id": "R1",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R2",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R3",
-            "subj": "DOID_2326",
+            "subj": "30672970_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e1"
         },
         {
             "id": "R4",
-            "subj": "DOID_2326",
+            "subj": "30672970_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R5",
-            "subj": "DOID_2326",
+            "subj": "30672970_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R6",
-            "subj": "DOID_2326",
+            "subj": "30672970_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e9"
         },
         {
             "id": "R7",
-            "subj": "DOID_2074",
+            "subj": "30672970_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e1"
         },
         {
             "id": "R8",
-            "subj": "DOID_2074",
+            "subj": "30672970_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R9",
-            "subj": "DOID_2074",
+            "subj": "30672970_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R10",
-            "subj": "DOID_2074",
+            "subj": "30672970_en.c1.e3",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e9"
         },
         {
             "id": "R11",
-            "subj": "DOID_552",
+            "subj": "30672970_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e1"
         },
         {
             "id": "R12",
-            "subj": "DOID_552",
+            "subj": "30672970_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R13",
-            "subj": "DOID_552",
+            "subj": "30672970_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R14",
-            "subj": "DOID_552",
+            "subj": "30672970_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e9"
         },
         {
             "id": "R15",
-            "subj": "DOID_3083",
+            "subj": "30672970_en.c1.e7",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R16",
-            "subj": "DOID_3083",
+            "subj": "30672970_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R17",
-            "subj": "DOID_3083",
+            "subj": "30672970_en.c1.e7",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e9"
         },
         {
             "id": "R18",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e8",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e5"
         },
         {
             "id": "R19",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e6"
         },
         {
             "id": "R20",
-            "subj": "DOID_6713",
+            "subj": "30672970_en.c1.e8",
             "pred": "no_relation",
-            "obj": "CHEBI_145500"
+            "obj": "30672970_en.c1.e9"
         }
     ]
 }

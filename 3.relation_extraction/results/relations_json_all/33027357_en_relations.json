@@ -2,28 +2,28 @@
     "text": "This paper aims to present an analysis of the most widespread fake news about the New Coronavirus (Sars-CoV-2) on social networks and how it can harm public health. This is a quantitative empirical study, based on the notifications received by the Eu Fiscalizo Brazilian application. The conclusions show that WhatsApp is the primary channel for sharing fake news, followed by Instagram and Facebook. We can conclude that the dissemination of malicious content related to Covid-19 contributes to the discrediting of science and global health institutions, and the solution to this problem is to increase the level of adequate information for Brazilian society.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 472,
                 "end": 480
             },
-            "obj": "Covid-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_75958",
+            "id": "T1",
             "span": {
                 "begin": 564,
                 "end": 572
             },
-            "obj": "solution"
+            "obj": "CHEBI_75958"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_75958"
+            "obj": "T1"
         }
     ]
 }

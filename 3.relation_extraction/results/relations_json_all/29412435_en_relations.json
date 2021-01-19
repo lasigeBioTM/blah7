@@ -2,162 +2,162 @@
     "text": "To report a case of acrodermatitis enteropathica, a rare disease with autosomal recessive inheritance.An 11-month-old boy was presenting symmetrical erythematous and yellowish-brownish crusted lesions on his face, feet, hands and knees, intermittent diarrhea, fever, and recurrent infections since the age of six months. He was thin and had scarce hair on the scalp. The serum zinc level was measured and a reduced level of 27.0 mcg/dL (normal range: 50.0-120.0) was identified. Oral supplementation with 2.0 mg/kg/day of zinc sulfate was immediately initiated. A rapid and progressive improvement of symptoms was observed. The symptoms reappeared with an attempt to stop supplementation.Recognizing and properly treating acrodermatitis enteropathica is important to prevent complications.",
     "denotations": [
         {
-            "id": "DOID_2722",
+            "id": "T0",
             "span": {
                 "begin": 20,
                 "end": 34
             },
-            "obj": "acrodermatitis"
+            "obj": "DOID_2722"
         },
         {
-            "id": "DOID_0050605",
+            "id": "T1",
             "span": {
                 "begin": 20,
                 "end": 48
             },
-            "obj": "acrodermatitis enteropathica"
+            "obj": "DOID_0050605"
         },
         {
-            "id": "DOID_4",
+            "id": "T2",
             "span": {
                 "begin": 57,
                 "end": 64
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "HP_0000007",
+            "id": "T3",
             "span": {
                 "begin": 70,
                 "end": 89
             },
-            "obj": "autosomal recessive"
+            "obj": "HP_0000007"
         },
         {
-            "id": "HP_0000007",
+            "id": "T4",
             "span": {
                 "begin": 70,
                 "end": 101
             },
-            "obj": "autosomal recessive inheritance"
+            "obj": "HP_0000007"
         },
         {
-            "id": "HP_0031796",
+            "id": "T5",
             "span": {
                 "begin": 237,
                 "end": 249
             },
-            "obj": "intermittent"
+            "obj": "HP_0031796"
         },
         {
-            "id": "HP_0031796",
+            "id": "T6",
             "span": {
                 "begin": 271,
                 "end": 280
             },
-            "obj": "recurrent"
+            "obj": "HP_0031796"
         },
         {
-            "id": "HP_0002719",
+            "id": "T7",
             "span": {
                 "begin": 271,
                 "end": 291
             },
-            "obj": "recurrent infections"
+            "obj": "HP_0002719"
         },
         {
-            "id": "CHEBI_27363",
+            "id": "T8",
             "span": {
                 "begin": 377,
                 "end": 381
             },
-            "obj": "zinc"
+            "obj": "CHEBI_27363"
         },
         {
-            "id": "CHEBI_27363",
+            "id": "T9",
             "span": {
                 "begin": 522,
                 "end": 526
             },
-            "obj": "zinc"
+            "obj": "CHEBI_27363"
         },
         {
-            "id": "CHEBI_32312",
+            "id": "T10",
             "span": {
                 "begin": 522,
                 "end": 534
             },
-            "obj": "zinc sulfate"
+            "obj": "CHEBI_32312"
         },
         {
-            "id": "CHEBI_16189",
+            "id": "T11",
             "span": {
                 "begin": 527,
                 "end": 534
             },
-            "obj": "sulfate"
+            "obj": "CHEBI_16189"
         },
         {
-            "id": "HP_0003676",
+            "id": "T12",
             "span": {
                 "begin": 574,
                 "end": 585
             },
-            "obj": "progressive"
+            "obj": "HP_0003676"
         },
         {
-            "id": "DOID_2722",
+            "id": "T13",
             "span": {
                 "begin": 722,
                 "end": 736
             },
-            "obj": "acrodermatitis"
+            "obj": "DOID_2722"
         },
         {
-            "id": "DOID_0050605",
+            "id": "T14",
             "span": {
                 "begin": 722,
                 "end": 750
             },
-            "obj": "acrodermatitis enteropathica"
+            "obj": "DOID_0050605"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0050605",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "T8"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050605",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "T10"
         },
         {
             "id": "R2",
-            "subj": "DOID_4",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "T8"
         },
         {
             "id": "R3",
-            "subj": "DOID_4",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "T10"
         },
         {
             "id": "R4",
-            "subj": "DOID_0050605",
+            "subj": "T14",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "T8"
         },
         {
             "id": "R5",
-            "subj": "DOID_0050605",
+            "subj": "T14",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "T10"
         }
     ]
 }

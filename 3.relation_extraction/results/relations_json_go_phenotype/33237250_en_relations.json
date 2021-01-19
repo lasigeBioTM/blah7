@@ -2,96 +2,96 @@
     "text": "This study aimed to measure the occurrence of multimorbidity and to estimate the number of individuals in the Brazilian population 50 years or older at risk for severe COVID-19. This was a cross-sectional nationwide study based on data from the Brazilian Longitudinal Study of Aging (ELSI-Brazil), conducted in 2015-2016, with 9,412 individuals 50 years or older. Multimorbidity was defined as \u2265 2 chronic conditions based on a list of 15 diseases considered risk conditions for severe COVID-19. The analyses included calculation of prevalence and estimation of the absolute number of persons in the population at risk. Self-rated health status, frailty, and basic activities of daily living were used as markers of health status. Sex, age, region of the country, and schooling were used as covariables. Some 80% of the sample had at least one of the target conditions, which represents some 34 million individuals. Multimorbidity was reported by 52% of the study population, with higher proportions in the Central, Southeast, and South of Brazil. Cardiovascular diseases and obesity were the most frequent chronic conditions. An estimated 2.4 million Brazilians are at serious health risk. The results revealed inequalities according to schooling. The number of persons 50 years or older who presented risk conditions for severe COVID-19 is high both in absolute and relative terms. The estimate is important for planning strategies to monitor persons with chronic conditions and for preventive strategies to deal with the novel coronavirus.",
     "denotations": [
         {
-            "id": "HP_0012828",
+            "id": "T0",
             "span": {
                 "begin": 161,
                 "end": 167
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "GO_0007568",
+            "id": "T1",
             "span": {
                 "begin": 277,
                 "end": 282
             },
-            "obj": "Aging"
+            "obj": "GO_0007568"
         },
         {
-            "id": "HP_0011010",
+            "id": "T2",
             "span": {
                 "begin": 398,
                 "end": 405
             },
-            "obj": "chronic"
+            "obj": "HP_0011010"
         },
         {
-            "id": "HP_0012828",
+            "id": "T3",
             "span": {
                 "begin": 479,
                 "end": 485
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "HP_0001513",
+            "id": "T4",
             "span": {
                 "begin": 1076,
                 "end": 1083
             },
-            "obj": "obesity"
+            "obj": "HP_0001513"
         },
         {
-            "id": "HP_0040282",
+            "id": "T5",
             "span": {
                 "begin": 1098,
                 "end": 1106
             },
-            "obj": "frequent"
+            "obj": "HP_0040282"
         },
         {
-            "id": "HP_0011010",
+            "id": "T6",
             "span": {
                 "begin": 1107,
                 "end": 1114
             },
-            "obj": "chronic"
+            "obj": "HP_0011010"
         },
         {
-            "id": "HP_0012828",
+            "id": "T7",
             "span": {
                 "begin": 1323,
                 "end": 1329
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "HP_0011010",
+            "id": "T8",
             "span": {
                 "begin": 1458,
                 "end": 1465
             },
-            "obj": "chronic"
+            "obj": "HP_0011010"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0007568",
+            "subj": "33237250_en.c1.e1",
             "pred": "no_relation",
-            "obj": "HP_0011010"
+            "obj": "33237250_en.c1.e2"
         },
         {
             "id": "R1",
-            "subj": "GO_0007568",
+            "subj": "33237250_en.c1.e1",
             "pred": "no_relation",
-            "obj": "HP_0001513"
+            "obj": "33237250_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "GO_0007568",
+            "subj": "33237250_en.c1.e1",
             "pred": "no_relation",
-            "obj": "HP_0040282"
+            "obj": "33237250_en.c1.e5"
         }
     ]
 }

@@ -2,56 +2,56 @@
     "text": "to evaluate the influence of the splenic flexure mobilization for the main surgical outcomes of patients submitted to resection of sigmoid and rectal cancer.we searched the MEDLINE, Cochrane Central Register of Controlled Trials and LILACS, using the terms \"splenic flexure mobilization\", \"colorectal surgery\", \"rectal cancer\", \"anterior resection\", \"sigmoid colon cancer\", and \"sigmoid resection\". The main outcome was anastomotic dehiscence. Other outcomes analyzed were mortality, bleeding, infection and general complications. We estimated the effect sizes by grouping data from six case-control studies (1,433 patients) published until January 2018.our meta-analysis showed that patients undergoing complete mobilization of the splenic flexure had a higher risk of anastomotic dehiscence (RR=2.27, 95%CI: 1.22-4.23) compared with those not submitted to this procedure. There was no difference between the groups in terms of mortality, bleeding, infection and general complications.splenic flexure mobilization is associated with a higher risk of anastomotic dehiscence in resections of sigmoid and rectal cancer. This surgical maneuver should be used with caution in the surgical management of sigmoid or rectal cancers.",
     "denotations": [
         {
-            "id": "HP_0030645",
+            "id": "T0",
             "span": {
                 "begin": 191,
                 "end": 198
             },
-            "obj": "Central"
+            "obj": "HP_0030645"
         },
         {
-            "id": "GO_0009900",
+            "id": "T1",
             "span": {
                 "begin": 432,
                 "end": 442
             },
-            "obj": "dehiscence"
+            "obj": "GO_0009900"
         },
         {
-            "id": "GO_0009900",
+            "id": "T2",
             "span": {
                 "begin": 782,
                 "end": 792
             },
-            "obj": "dehiscence"
+            "obj": "GO_0009900"
         },
         {
-            "id": "GO_0009900",
+            "id": "T3",
             "span": {
                 "begin": 1063,
                 "end": 1073
             },
-            "obj": "dehiscence"
+            "obj": "GO_0009900"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0009900",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "HP_0030645"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "GO_0009900",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "HP_0030645"
+            "obj": "T0"
         },
         {
             "id": "R2",
-            "subj": "GO_0009900",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "HP_0030645"
+            "obj": "T0"
         }
     ]
 }

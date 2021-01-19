@@ -2,214 +2,214 @@
     "text": "Among the infections caused by Streptococcus \u03b2 hemolyticus from the Lancefield serogroup A, toxic shock syndrome is perhaps the most severe, and its mortality rate is high. Its clinical similarity to other forms of shock, especially septic shock, can often confuse the evaluator and interfere with the selection of the most appropriate therapy. This report aims to inform readers of the need to add this syndrome as a differential diagnosis in cases of shock, especially those with no well-defined clinical manifestations. For this purpose, we present the case of an infant with common flu-like symptoms who progressed rapidly with a rash, a reduced level of consciousness and clinical and laboratory signs of shock that required intensive support. In addition to cultures indicating the etiological agent, the appearance of exanthema and necrotizing fasciitis led to the diagnosis. However, less than 50% of cases present classic clinical signs of this entity. Penicillins combined with aminoglycosides are still the therapy of choice and are supported by a high level of evidence. Despite the severity of this patient's presentation, the progression was satisfactory.",
     "denotations": [
         {
-            "id": "DOID_14115",
+            "id": "T0",
             "span": {
                 "begin": 92,
                 "end": 103
             },
-            "obj": "toxic shock"
+            "obj": "DOID_14115"
         },
         {
-            "id": "DOID_14115",
+            "id": "T1",
             "span": {
                 "begin": 92,
                 "end": 112
             },
-            "obj": "toxic shock syndrome"
+            "obj": "DOID_14115"
         },
         {
-            "id": "HP_0031273",
+            "id": "T2",
             "span": {
                 "begin": 98,
                 "end": 103
             },
-            "obj": "shock"
+            "obj": "HP_0031273"
         },
         {
-            "id": "DOID_225",
+            "id": "T3",
             "span": {
                 "begin": 104,
                 "end": 112
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "HP_0031273",
+            "id": "T4",
             "span": {
                 "begin": 215,
                 "end": 220
             },
-            "obj": "shock"
+            "obj": "HP_0031273"
         },
         {
-            "id": "HP_0031273",
+            "id": "T5",
             "span": {
                 "begin": 240,
                 "end": 245
             },
-            "obj": "shock"
+            "obj": "HP_0031273"
         },
         {
-            "id": "CHEBI_40799",
+            "id": "T6",
             "span": {
                 "begin": 395,
                 "end": 398
             },
-            "obj": "add"
+            "obj": "CHEBI_40799"
         },
         {
-            "id": "DOID_225",
+            "id": "T7",
             "span": {
                 "begin": 404,
                 "end": 412
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "HP_0031273",
+            "id": "T8",
             "span": {
                 "begin": 453,
                 "end": 458
             },
-            "obj": "shock"
+            "obj": "HP_0031273"
         },
         {
-            "id": "HP_0031273",
+            "id": "T9",
             "span": {
                 "begin": 710,
                 "end": 715
             },
-            "obj": "shock"
+            "obj": "HP_0031273"
         },
         {
-            "id": "DOID_0050486",
+            "id": "T10",
             "span": {
                 "begin": 825,
                 "end": 834
             },
-            "obj": "exanthema"
+            "obj": "DOID_0050486"
         },
         {
-            "id": "DOID_9602",
+            "id": "T11",
             "span": {
                 "begin": 839,
                 "end": 860
             },
-            "obj": "necrotizing fasciitis"
+            "obj": "DOID_9602"
         },
         {
-            "id": "HP_0100537",
+            "id": "T12",
             "span": {
                 "begin": 851,
                 "end": 860
             },
-            "obj": "fasciitis"
+            "obj": "HP_0100537"
         },
         {
-            "id": "DOID_9598",
+            "id": "T13",
             "span": {
                 "begin": 851,
                 "end": 860
             },
-            "obj": "fasciitis"
+            "obj": "DOID_9598"
         },
         {
-            "id": "CHEBI_17334",
+            "id": "T14",
             "span": {
                 "begin": 962,
                 "end": 973
             },
-            "obj": "Penicillins"
+            "obj": "CHEBI_17334"
         },
         {
-            "id": "CHEBI_47779",
+            "id": "T15",
             "span": {
                 "begin": 988,
                 "end": 1003
             },
-            "obj": "aminoglycosides"
+            "obj": "CHEBI_47779"
         },
         {
-            "id": "HP_0012824",
+            "id": "T16",
             "span": {
                 "begin": 1095,
                 "end": 1103
             },
-            "obj": "severity"
+            "obj": "HP_0012824"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_14115",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_40799"
+            "obj": "T6"
         },
         {
             "id": "R1",
-            "subj": "DOID_14115",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_17334"
+            "obj": "T14"
         },
         {
             "id": "R2",
-            "subj": "DOID_14115",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_47779"
+            "obj": "T15"
         },
         {
             "id": "R3",
-            "subj": "DOID_225",
+            "subj": "T7",
             "pred": "no_relation",
-            "obj": "CHEBI_40799"
+            "obj": "T6"
         },
         {
             "id": "R4",
-            "subj": "DOID_225",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_17334"
+            "obj": "T14"
         },
         {
             "id": "R5",
-            "subj": "DOID_225",
+            "subj": "T7",
             "pred": "no_relation",
-            "obj": "CHEBI_47779"
+            "obj": "T15"
         },
         {
             "id": "R6",
-            "subj": "DOID_0050486",
+            "subj": "T10",
             "pred": "no_relation",
-            "obj": "CHEBI_40799"
+            "obj": "T6"
         },
         {
             "id": "R7",
-            "subj": "DOID_0050486",
+            "subj": "T10",
             "pred": "effect",
-            "obj": "CHEBI_17334"
+            "obj": "T14"
         },
         {
             "id": "R8",
-            "subj": "DOID_0050486",
+            "subj": "T10",
             "pred": "no_relation",
-            "obj": "CHEBI_47779"
+            "obj": "T15"
         },
         {
             "id": "R9",
-            "subj": "DOID_9602",
+            "subj": "T11",
             "pred": "effect",
-            "obj": "CHEBI_40799"
+            "obj": "T6"
         },
         {
             "id": "R10",
-            "subj": "DOID_9602",
+            "subj": "T11",
             "pred": "effect",
-            "obj": "CHEBI_17334"
+            "obj": "T14"
         },
         {
             "id": "R11",
-            "subj": "DOID_9602",
+            "subj": "T11",
             "pred": "effect",
-            "obj": "CHEBI_47779"
+            "obj": "T15"
         }
     ]
 }

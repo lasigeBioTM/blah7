@@ -2,116 +2,116 @@
     "text": "The prevalence of Helicobacter pylori in obese candidates for bariatric surgery and its role in the emergence of inflammatory lesions after surgery has not been well established.To identify the incidence of inflammatory lesions in the stomach after bariatric surgery and to correlate it with H. pylori infection.This is a prospective study with 216 patients undergoing Roux-en-Y gastric bypass. These patients underwent histopathological endoscopy to detect H. pylori prior to surgery. Positive cases were treated with antibiotics and a proton inhibitor pump followed by endoscopic follow-up in the 6th and 12th month after surgery.Most patients were female (68.1%), with grade III obesity (92.4%). Preoperative endoscopy revealed gastritis in 96.8%, with H. pylori infection in 40.7% (88/216). A biopsy was carried out in 151 patients, revealing H. pylori in 60/151, related to signs of inflammation in 90% (54/60). In the 6th and 12th month after surgery, the endoscopy and the histopathological exam showed a normal gastric pouch in 84% of patients and the incidence of H. pylori was 11% and 16%, respectively. The presence of inflammation was related to H. pylori infection (p<0,001).H. pylori has a similar prevalence in both obese patients scheduled to undergo bariatric surgery and the general population. There is a low incidence of it in the 6th and 12th months after surgery, probably owing to its eradication when detected prior to surgery. When inflammatory disease is present in the new gastric reservoir it is directly related to H. pylori infection.",
     "denotations": [
         {
-            "id": "CHEBI_50906",
+            "id": "T0",
             "span": {
                 "begin": 88,
                 "end": 92
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "CHEBI_33281",
+            "id": "T1",
             "span": {
                 "begin": 519,
                 "end": 530
             },
-            "obj": "antibiotics"
+            "obj": "CHEBI_33281"
         },
         {
-            "id": "CHEBI_24636",
+            "id": "T2",
             "span": {
                 "begin": 537,
                 "end": 543
             },
-            "obj": "proton"
+            "obj": "CHEBI_24636"
         },
         {
-            "id": "CHEBI_35222",
+            "id": "T3",
             "span": {
                 "begin": 544,
                 "end": 553
             },
-            "obj": "inhibitor"
+            "obj": "CHEBI_35222"
         },
         {
-            "id": "DOID_9970",
+            "id": "T4",
             "span": {
                 "begin": 682,
                 "end": 689
             },
-            "obj": "obesity"
+            "obj": "DOID_9970"
         },
         {
-            "id": "DOID_4029",
+            "id": "T5",
             "span": {
                 "begin": 731,
                 "end": 740
             },
-            "obj": "gastritis"
+            "obj": "DOID_4029"
         },
         {
-            "id": "DOID_4",
+            "id": "T6",
             "span": {
                 "begin": 1470,
                 "end": 1477
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_9970",
+            "subj": "27683772_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "27683772_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_9970",
+            "subj": "27683772_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_33281"
+            "obj": "27683772_en.c1.e1"
         },
         {
             "id": "R2",
-            "subj": "DOID_9970",
+            "subj": "27683772_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_24636"
+            "obj": "27683772_en.c1.e2"
         },
         {
             "id": "R3",
-            "subj": "DOID_4029",
+            "subj": "27683772_en.c1.e5",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "27683772_en.c1.e0"
         },
         {
             "id": "R4",
-            "subj": "DOID_4029",
+            "subj": "27683772_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_33281"
+            "obj": "27683772_en.c1.e1"
         },
         {
             "id": "R5",
-            "subj": "DOID_4029",
+            "subj": "27683772_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_24636"
+            "obj": "27683772_en.c1.e2"
         },
         {
             "id": "R6",
-            "subj": "DOID_4",
+            "subj": "27683772_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "27683772_en.c1.e0"
         },
         {
             "id": "R7",
-            "subj": "DOID_4",
+            "subj": "27683772_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_33281"
+            "obj": "27683772_en.c1.e1"
         },
         {
             "id": "R8",
-            "subj": "DOID_4",
+            "subj": "27683772_en.c1.e6",
             "pred": "effect",
-            "obj": "CHEBI_24636"
+            "obj": "27683772_en.c1.e2"
         }
     ]
 }

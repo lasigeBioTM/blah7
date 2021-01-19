@@ -2,50 +2,50 @@
     "text": "This essay aimed to discuss the implications of social isolation due to the COVID-19 pandemic for the intensive use of the internet among children and adolescents and its possible consequences for the practice of self-inflicted violence. We briefly discussed the anxiogenic potential and the reproduction of a \"global fear\" that are consolidated with the massive and unmediated exposure of the content consumed, which can increase the vulnerabilities to stress and suicidal ideas. We centered our debate on \"recreational\" practices, called \"challenges\" with self-harm power, carried out by teenagers on the YouTube website. This practice has been shown to increase with the social isolation measures. Our reflection on these risks builds on the theoretical perspective of digital sociability, and its implications for the internet-mediated interactions of adolescents.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 76,
                 "end": 84
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_137736",
+            "id": "T1",
             "span": {
                 "begin": 263,
                 "end": 273
             },
-            "obj": "anxiogenic"
+            "obj": "CHEBI_137736"
         },
         {
-            "id": "GO_0000003",
+            "id": "T2",
             "span": {
                 "begin": 292,
                 "end": 304
             },
-            "obj": "reproduction"
+            "obj": "GO_0000003"
         },
         {
-            "id": "HP_0100716",
+            "id": "T3",
             "span": {
                 "begin": 558,
                 "end": 567
             },
-            "obj": "self-harm"
+            "obj": "HP_0100716"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0000003",
+            "subj": "T0",
             "pred": "no_relation",
-            "obj": "HP_0100716"
+            "obj": "T1"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_137736"
+            "obj": "T1"
         }
     ]
 }

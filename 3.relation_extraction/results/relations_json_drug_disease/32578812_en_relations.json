@@ -2,160 +2,160 @@
     "text": "To analyze the spatial distribution of the incidence of COVID-19 and its correlation with the municipal human development index (MHDI) of the municipalities of Cear\u00e1.This is an ecological study with data recovered from the 15th epidemiological week and the 19th one of the year 2020 using the MHDI and the COVID-19 incidence coefficient for each municipality as variables. The univariate spatial correlation and the bivariate one were analyzed using the TerraView and GeoDa softwares.The incidence of COVID-19 has spatial dependence with moderate positive correlation and the formation of high-high clusters located in the metropolitan region of Fortaleza and municipalities in the north region. The lowest incidence was a low-low cluster in the south and west regions. There was a positive bivariate correlation between MHDI and the incidence of COVID-19 with the formation of a cluster in the metropolitan region of Fortaleza.The uneven mapping of COVID-19 and its relationship with MHDI in Cear\u00e1 can contribute to actions to regional combat the pandemic.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 56,
                 "end": 64
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T1",
             "span": {
                 "begin": 306,
                 "end": 314
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T2",
             "span": {
                 "begin": 501,
                 "end": 509
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_33731",
+            "id": "T3",
             "span": {
                 "begin": 599,
                 "end": 607
             },
-            "obj": "clusters"
+            "obj": "CHEBI_33731"
         },
         {
-            "id": "CHEBI_33731",
+            "id": "T4",
             "span": {
                 "begin": 731,
                 "end": 738
             },
-            "obj": "cluster"
+            "obj": "CHEBI_33731"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T5",
             "span": {
                 "begin": 847,
                 "end": 855
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_33731",
+            "id": "T6",
             "span": {
                 "begin": 880,
                 "end": 887
             },
-            "obj": "cluster"
+            "obj": "CHEBI_33731"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T7",
             "span": {
                 "begin": 950,
                 "end": 958
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e3"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e4"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e6"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e3"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e4"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e6"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e3"
         },
         {
             "id": "R7",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e4"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e6"
         },
         {
             "id": "R9",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e3"
         },
         {
             "id": "R10",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e4"
         },
         {
             "id": "R11",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e6"
         },
         {
             "id": "R12",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e3"
         },
         {
             "id": "R13",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e4"
         },
         {
             "id": "R14",
-            "subj": "DOID_0080600",
+            "subj": "32578812_en.c1.e7",
             "pred": "effect",
-            "obj": "CHEBI_33731"
+            "obj": "32578812_en.c1.e6"
         }
     ]
 }

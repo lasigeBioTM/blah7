@@ -2,114 +2,114 @@
     "text": "To report a case of acrodermatitis enteropathica, a rare disease with autosomal recessive inheritance.An 11-month-old boy was presenting symmetrical erythematous and yellowish-brownish crusted lesions on his face, feet, hands and knees, intermittent diarrhea, fever, and recurrent infections since the age of six months. He was thin and had scarce hair on the scalp. The serum zinc level was measured and a reduced level of 27.0 mcg/dL (normal range: 50.0-120.0) was identified. Oral supplementation with 2.0 mg/kg/day of zinc sulfate was immediately initiated. A rapid and progressive improvement of symptoms was observed. The symptoms reappeared with an attempt to stop supplementation.Recognizing and properly treating acrodermatitis enteropathica is important to prevent complications.",
     "denotations": [
         {
-            "id": "DOID_2722",
+            "id": "T0",
             "span": {
                 "begin": 20,
                 "end": 34
             },
-            "obj": "acrodermatitis"
+            "obj": "DOID_2722"
         },
         {
-            "id": "DOID_0050605",
+            "id": "T1",
             "span": {
                 "begin": 20,
                 "end": 48
             },
-            "obj": "acrodermatitis enteropathica"
+            "obj": "DOID_0050605"
         },
         {
-            "id": "DOID_4",
+            "id": "T2",
             "span": {
                 "begin": 57,
                 "end": 64
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "CHEBI_27363",
+            "id": "T3",
             "span": {
                 "begin": 377,
                 "end": 381
             },
-            "obj": "zinc"
+            "obj": "CHEBI_27363"
         },
         {
-            "id": "CHEBI_27363",
+            "id": "T4",
             "span": {
                 "begin": 522,
                 "end": 526
             },
-            "obj": "zinc"
+            "obj": "CHEBI_27363"
         },
         {
-            "id": "CHEBI_32312",
+            "id": "T5",
             "span": {
                 "begin": 522,
                 "end": 534
             },
-            "obj": "zinc sulfate"
+            "obj": "CHEBI_32312"
         },
         {
-            "id": "CHEBI_16189",
+            "id": "T6",
             "span": {
                 "begin": 527,
                 "end": 534
             },
-            "obj": "sulfate"
+            "obj": "CHEBI_16189"
         },
         {
-            "id": "DOID_2722",
+            "id": "T7",
             "span": {
                 "begin": 722,
                 "end": 736
             },
-            "obj": "acrodermatitis"
+            "obj": "DOID_2722"
         },
         {
-            "id": "DOID_0050605",
+            "id": "T8",
             "span": {
                 "begin": 722,
                 "end": 750
             },
-            "obj": "acrodermatitis enteropathica"
+            "obj": "DOID_0050605"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0050605",
+            "subj": "29412435_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "29412435_en.c1.e3"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050605",
+            "subj": "29412435_en.c1.e1",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "29412435_en.c1.e5"
         },
         {
             "id": "R2",
-            "subj": "DOID_4",
+            "subj": "29412435_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "29412435_en.c1.e3"
         },
         {
             "id": "R3",
-            "subj": "DOID_4",
+            "subj": "29412435_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "29412435_en.c1.e5"
         },
         {
             "id": "R4",
-            "subj": "DOID_0050605",
+            "subj": "29412435_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_27363"
+            "obj": "29412435_en.c1.e3"
         },
         {
             "id": "R5",
-            "subj": "DOID_0050605",
+            "subj": "29412435_en.c1.e8",
             "pred": "effect",
-            "obj": "CHEBI_32312"
+            "obj": "29412435_en.c1.e5"
         }
     ]
 }

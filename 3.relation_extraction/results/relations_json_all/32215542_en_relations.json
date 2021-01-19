@@ -2,198 +2,198 @@
     "text": "The trend toward stabilization regarding the AIDS epidemic in Brazil over the past decade hides a very complex scenario, where two-thirds of the Brazilian federative units exhibit AIDS standardized mortality rates (ASMR) significantly above the national average and/or in upward tendency. ASMR in Rio de Janeiro State remains virtually unchanged over the years; the state currently occupies the second position in the national ranking of this indicator.To assess temporal trends in causes of death searching for differential profiles that could be useful for understanding mortality among patients with HIV in the state.Causes of death were analyzed in any field of the death certificates from the Mortality Information System between 1999 and 2015 for individuals \u2265 15 years of age. Cardiovascular diseases, non-AIDS-related cancers, external causes, diabetes mellitus, and tuberculosis were established by the mention or not of their codes according to the 10th edition of International Statistical Classification of Diseases and Related Health Problems (ICD-10) in death certificates. Generalized linear mixed-effects models were used to describe odds ratios in relation to 1999 and adjusted mean annual variations.The results point to the emerging role of external causes and genitourinary diseases and the persistent role played by tuberculosis, differentially affecting AIDS mortality in the state, in a scenario of high mortality due to infectious diseases.These data suggest that tuberculosis remains a major cause of death among people living with HIV/AIDS (PLWHA) in Rio de Janeiro, highlighting the need for studies that identify individual-level factors impacting their survival, thus improving local HIV/AIDS control measures.",
     "denotations": [
         {
-            "id": "DOID_635",
+            "id": "T0",
             "span": {
                 "begin": 45,
                 "end": 49
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_635",
+            "id": "T1",
             "span": {
                 "begin": 180,
                 "end": 184
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "HP_0012830",
+            "id": "T2",
             "span": {
                 "begin": 402,
                 "end": 410
             },
-            "obj": "position"
+            "obj": "HP_0012830"
         },
         {
-            "id": "DOID_399",
+            "id": "T3",
             "span": {
                 "begin": 875,
                 "end": 887
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "HP_0012837",
+            "id": "T4",
             "span": {
                 "begin": 1088,
                 "end": 1099
             },
-            "obj": "Generalized"
+            "obj": "HP_0012837"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T5",
             "span": {
                 "begin": 1252,
                 "end": 1256
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T6",
             "span": {
                 "begin": 1322,
                 "end": 1326
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "DOID_399",
+            "id": "T7",
             "span": {
                 "begin": 1337,
                 "end": 1349
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_635",
+            "id": "T8",
             "span": {
                 "begin": 1376,
                 "end": 1380
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_399",
+            "id": "T9",
             "span": {
                 "begin": 1488,
                 "end": 1500
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "DOID_635",
+            "id": "T10",
             "span": {
                 "begin": 1561,
                 "end": 1565
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         },
         {
-            "id": "DOID_635",
+            "id": "T11",
             "span": {
                 "begin": 1717,
                 "end": 1721
             },
-            "obj": "AIDS"
+            "obj": "DOID_635"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_635",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R1",
-            "subj": "DOID_635",
+            "subj": "T0",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R2",
-            "subj": "DOID_635",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R3",
-            "subj": "DOID_635",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R4",
-            "subj": "DOID_399",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R5",
-            "subj": "DOID_399",
+            "subj": "T3",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R6",
-            "subj": "DOID_399",
+            "subj": "T7",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R7",
-            "subj": "DOID_399",
+            "subj": "T7",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R8",
-            "subj": "DOID_635",
+            "subj": "T8",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R9",
-            "subj": "DOID_635",
+            "subj": "T8",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R10",
-            "subj": "DOID_399",
+            "subj": "T9",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R11",
-            "subj": "DOID_399",
+            "subj": "T9",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R12",
-            "subj": "DOID_635",
+            "subj": "T10",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R13",
-            "subj": "DOID_635",
+            "subj": "T10",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         },
         {
             "id": "R14",
-            "subj": "DOID_635",
+            "subj": "T11",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T5"
         },
         {
             "id": "R15",
-            "subj": "DOID_635",
+            "subj": "T11",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T6"
         }
     ]
 }

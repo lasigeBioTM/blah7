@@ -2,36 +2,36 @@
     "text": "This article aims to discuss the impacts of the promotion of families' mental health following the diagnosis of Zika virus infection in the pregnant woman and/or congenital Zika virus syndrome (CZVS) in the infant. The study also aims to foster reflection on mother-infant bonding in this context. The study is relevant not only because there is still so much to learn about CZVS, with its enormous capacity for dispersion and many doubts as to the physical consequences and psychological impacts, but also due to the urgent need to provide families and/or caregivers with guidelines for care and alternatives for dealing with the illness. The study was conducted in an outpatient clinic specifically providing care to children with CZVS at the Unit for Infectious Diseases in Pediatrics in a tertiary hospital of the Brazilian Unified National Health System (SUS) in Rio de Janeiro, Brazil. The team is multidisciplinary, and each member conducts an assessment based on their specific field of knowledge. This qualitative study drew on participant observation, and the data analysis showed that the use of virtual social networks, which function (independently of the medicine approaches) as channels for communication and collective discussion of the different experiences, in order to share strategies to overcome the diagnosed impossibilities.",
     "denotations": [
         {
-            "id": "DOID_934",
+            "id": "T0",
             "span": {
                 "begin": 117,
                 "end": 132
             },
-            "obj": "virus infection"
+            "obj": "DOID_934"
         },
         {
-            "id": "DOID_225",
+            "id": "T1",
             "span": {
                 "begin": 184,
                 "end": 192
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T2",
             "span": {
                 "begin": 1169,
                 "end": 1177
             },
-            "obj": "medicine"
+            "obj": "CHEBI_23888"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_225",
+            "subj": "T1",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "T2"
         }
     ]
 }

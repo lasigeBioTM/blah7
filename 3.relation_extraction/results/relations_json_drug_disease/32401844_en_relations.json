@@ -2,210 +2,210 @@
     "text": "In December 2019, a new human coronavirus, called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or coronavirus disease 2019 (COVID-19) by the World Health Organization, emerged in the city of Wuhan, China. Spreading globally, it is now considered pandemic, with approximately 3 million cases worldwide at the end of April. Its symptoms include fever, cough, and headache, but the main one is shortness of breath. In turn, it is believed that there is a relationship between COVID-19 and damage to the heart muscle, and hypertensive and diabetic patients, for example, seem to have worse prognosis. Therefore, COVID-19 may worsen in individuals with underlying adverse conditions, and a not negligible number of patients hospitalized with this virus had cardiovascular or cerebrovascular diseases. Systemic inflammatory response and immune system disorders during disease progression may be behind this association. In addition, the virus uses angiotensin-converting enzyme (ACE) receptors, more precisely ACE2, to penetrate the cell; therefore, the use of ACE inhibitor drugs and angiotensin receptor blockers could cause an increase in these receptors, thus facilitating the entry of the virus into the cell. There is, however, no scientific evidence to support the interruption of these drugs. Since they are fundamental for certain chronic diseases, the risk and benefit of their withdrawal in this scenario should be carefully weighed. Finally, cardiologists and health professionals should be aware of the risks of infection and protect themselves as much as possible, sleeping properly and avoiding long working hours.",
     "denotations": [
         {
-            "id": "DOID_2945",
+            "id": "T0",
             "span": {
                 "begin": 50,
                 "end": 83
             },
-            "obj": "severe acute respiratory syndrome"
+            "obj": "DOID_2945"
         },
         {
-            "id": "DOID_225",
+            "id": "T1",
             "span": {
                 "begin": 75,
                 "end": 83
             },
-            "obj": "syndrome"
+            "obj": "DOID_225"
         },
         {
-            "id": "DOID_4",
+            "id": "T2",
             "span": {
                 "begin": 126,
                 "end": 133
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T3",
             "span": {
                 "begin": 140,
                 "end": 148
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T4",
             "span": {
                 "begin": 489,
                 "end": 497
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T5",
             "span": {
                 "begin": 624,
                 "end": 632
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_4",
+            "id": "T6",
             "span": {
                 "begin": 878,
                 "end": 885
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "CHEBI_35457",
+            "id": "T7",
             "span": {
                 "begin": 1071,
                 "end": 1084
             },
-            "obj": "ACE inhibitor"
+            "obj": "CHEBI_35457"
         },
         {
-            "id": "CHEBI_35222",
+            "id": "T8",
             "span": {
                 "begin": 1075,
                 "end": 1084
             },
-            "obj": "inhibitor"
+            "obj": "CHEBI_35222"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T9",
             "span": {
                 "begin": 1085,
                 "end": 1090
             },
-            "obj": "drugs"
+            "obj": "CHEBI_23888"
         },
         {
-            "id": "CHEBI_2719",
+            "id": "T10",
             "span": {
                 "begin": 1095,
                 "end": 1106
             },
-            "obj": "angiotensin"
+            "obj": "CHEBI_2719"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T11",
             "span": {
                 "begin": 1304,
                 "end": 1309
             },
-            "obj": "drugs"
+            "obj": "CHEBI_23888"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_2945",
+            "subj": "32401844_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R1",
-            "subj": "DOID_2945",
+            "subj": "32401844_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R2",
-            "subj": "DOID_2945",
+            "subj": "32401844_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         },
         {
             "id": "R3",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R4",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R5",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R7",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         },
         {
             "id": "R9",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R10",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R11",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         },
         {
             "id": "R12",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R13",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R14",
-            "subj": "DOID_0080600",
+            "subj": "32401844_en.c1.e5",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         },
         {
             "id": "R15",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_35457"
+            "obj": "32401844_en.c1.e7"
         },
         {
             "id": "R16",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_2719"
+            "obj": "32401844_en.c1.e10"
         },
         {
             "id": "R17",
-            "subj": "DOID_4",
+            "subj": "32401844_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "32401844_en.c1.e11"
         }
     ]
 }

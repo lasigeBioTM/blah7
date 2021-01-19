@@ -2,218 +2,218 @@
     "text": "To investigate prognostic factors among critically ill patients with community-acquired bacterial meningitis and acute kidney injury.A retrospective study including patients admitted to a tertiary infectious disease hospital in Fortaleza, Brazil diagnosed with community-acquired bacterial meningitis complicated with acute kidney injury. Factors associated with death, mechanical ventilation and use of vasopressors were investigated.Forty-one patients were included, with a mean age of 41.6 \u00b1 15.5 years; 56% were males. Mean time between intensive care unit admission and acute kidney injury diagnosis was 5.8 \u00b1 10.6 days. Overall mortality was 53.7%. According to KDIGO criteria, 10 patients were classified as stage 1 (24.4%), 18 as stage 2 (43.9%) and 13 as stage 3 (31.7%). KDIGO 3 significantly increased mortality (OR = 6.67; 95%CI = 1.23 - 36.23; p = 0.028). Thrombocytopenia was not associated with higher mortality, but it was a risk factor for KDIGO 3 (OR = 5.67; 95%CI = 1.25 - 25.61; p = 0.024) and for mechanical ventilation (OR = 6.25; 95%CI = 1.33 - 29.37; p = 0.02). Patients who needed mechanical ventilation by 48 hours from acute kidney injury diagnosis had higher urea (44.6 versus 74mg/dL, p = 0.039) and sodium (138.6 versus 144.1mEq/L; p = 0.036).Mortality among critically ill patients with community-acquired bacterial meningitis and acute kidney injury is high. Acute kidney injury severity was associated with even higher mortality. Thrombocytopenia was associated with severer acute kidney injury. Higher urea was an earlier predictor of severer acute kidney injury than was creatinine.",
     "denotations": [
         {
-            "id": "DOID_9470",
+            "id": "T0",
             "span": {
                 "begin": 88,
                 "end": 108
             },
-            "obj": "bacterial meningitis"
+            "obj": "DOID_9470"
         },
         {
-            "id": "DOID_9471",
+            "id": "T1",
             "span": {
                 "begin": 98,
                 "end": 108
             },
-            "obj": "meningitis"
+            "obj": "DOID_9471"
         },
         {
-            "id": "DOID_0050117",
+            "id": "T2",
             "span": {
                 "begin": 197,
                 "end": 215
             },
-            "obj": "infectious disease"
+            "obj": "DOID_0050117"
         },
         {
-            "id": "DOID_4",
+            "id": "T3",
             "span": {
                 "begin": 208,
                 "end": 215
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_9470",
+            "id": "T4",
             "span": {
                 "begin": 280,
                 "end": 300
             },
-            "obj": "bacterial meningitis"
+            "obj": "DOID_9470"
         },
         {
-            "id": "DOID_9471",
+            "id": "T5",
             "span": {
                 "begin": 290,
                 "end": 300
             },
-            "obj": "meningitis"
+            "obj": "DOID_9471"
         },
         {
-            "id": "DOID_1588",
+            "id": "T6",
             "span": {
                 "begin": 869,
                 "end": 885
             },
-            "obj": "Thrombocytopenia"
+            "obj": "DOID_1588"
         },
         {
-            "id": "CHEBI_16199",
+            "id": "T7",
             "span": {
                 "begin": 1187,
                 "end": 1191
             },
-            "obj": "urea"
+            "obj": "CHEBI_16199"
         },
         {
-            "id": "CHEBI_26708",
+            "id": "T8",
             "span": {
                 "begin": 1229,
                 "end": 1235
             },
-            "obj": "sodium"
+            "obj": "CHEBI_26708"
         },
         {
-            "id": "DOID_9470",
+            "id": "T9",
             "span": {
                 "begin": 1337,
                 "end": 1357
             },
-            "obj": "bacterial meningitis"
+            "obj": "DOID_9470"
         },
         {
-            "id": "DOID_9471",
+            "id": "T10",
             "span": {
                 "begin": 1347,
                 "end": 1357
             },
-            "obj": "meningitis"
+            "obj": "DOID_9471"
         },
         {
-            "id": "DOID_1588",
+            "id": "T11",
             "span": {
                 "begin": 1463,
                 "end": 1479
             },
-            "obj": "Thrombocytopenia"
+            "obj": "DOID_1588"
         },
         {
-            "id": "CHEBI_16199",
+            "id": "T12",
             "span": {
                 "begin": 1536,
                 "end": 1540
             },
-            "obj": "urea"
+            "obj": "CHEBI_16199"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R1",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R2",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         },
         {
             "id": "R3",
-            "subj": "DOID_0050117",
+            "subj": "29995079_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R4",
-            "subj": "DOID_0050117",
+            "subj": "29995079_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R5",
-            "subj": "DOID_0050117",
+            "subj": "29995079_en.c1.e2",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         },
         {
             "id": "R6",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R7",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R8",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         },
         {
             "id": "R9",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R10",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R11",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e6",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         },
         {
             "id": "R12",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e9",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R13",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e9",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R14",
-            "subj": "DOID_9470",
+            "subj": "29995079_en.c1.e9",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         },
         {
             "id": "R15",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e11",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e7"
         },
         {
             "id": "R16",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e11",
             "pred": "no_relation",
-            "obj": "CHEBI_26708"
+            "obj": "29995079_en.c1.e8"
         },
         {
             "id": "R17",
-            "subj": "DOID_1588",
+            "subj": "29995079_en.c1.e11",
             "pred": "no_relation",
-            "obj": "CHEBI_16199"
+            "obj": "29995079_en.c1.e12"
         }
     ]
 }

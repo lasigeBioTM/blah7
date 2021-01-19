@@ -2,42 +2,42 @@
     "text": "Leptospirosis is a worldwide zoonosis whose transmission is interlinked by multiple factors in the man-animal-ecosystem interface. This study aimed to evaluate the risk factors for the occurrence of anti-Leptospira antibodies in dogs in the capital Teresina (PI), and to determine their spatial distribution. Five hundred fifty-eight dog blood samples were submitted to the Microscopic Serum Agglutination (MSA) test. We applied semi-structured questionnaires to dog owners and obtained the area of residence for projection in geographical maps. Serum prevalence was 13.8%, in which the most common serovar was icterohaemorrhagiae, with 49.2%. Dogs with street access, failure to collect food bowl and low income of owners were risk factors. There was a higher number of seropositive dogs in the rainy season, with 87.1%, which is a probable risk factor for the occurrence of cases. The distribution of seropositive dogs was widely spread in the city, with predominance of cases in anthropized areas. These risk factors favor the occurrence of anti-Leptospira antibodies in dogs that are agent maintenance sources in the city and reinforce the need for epidemiological and environmental surveillance to prevent leptospirosis.",
     "denotations": [
         {
-            "id": "DOID_2297",
+            "id": "T0",
             "span": {
                 "begin": 0,
                 "end": 13
             },
-            "obj": "Leptospirosis"
+            "obj": "DOID_2297"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T1",
             "span": {
                 "begin": 688,
                 "end": 692
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "DOID_2297",
+            "id": "T2",
             "span": {
                 "begin": 1211,
                 "end": 1224
             },
-            "obj": "leptospirosis"
+            "obj": "DOID_2297"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_2297",
+            "subj": "29768596_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "29768596_en.c1.e1"
         },
         {
             "id": "R1",
-            "subj": "DOID_2297",
+            "subj": "29768596_en.c1.e2",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "29768596_en.c1.e1"
         }
     ]
 }

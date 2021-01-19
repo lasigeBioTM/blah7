@@ -2,96 +2,96 @@
     "text": "In view of the need to manage and forecast the number of Intensive Care Unit (ICU) beds for critically ill COVID-19 patients, the Forecast UTI open access application was developed to enable hospital indicator monitoring based on past health data and the temporal dynamics of the Coronavirus epidemic. Forecast UTI also enables short-term forecasts of the number of beds occupied daily by COVID-19 patients and possible care scenarios to be established. This article presents the functions, mode of access and examples of uses of Forecast UTI, a computational tool intended to assist managers of public and private hospitals within the Brazilian National Health System by supporting quick, strategic and efficient decision-making.",
     "denotations": [
         {
-            "id": "CHEBI_81767",
+            "id": "T0",
             "span": {
                 "begin": 23,
                 "end": 29
             },
-            "obj": "manage"
+            "obj": "CHEBI_81767"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T1",
             "span": {
                 "begin": 107,
                 "end": 115
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080784",
+            "id": "T2",
             "span": {
                 "begin": 139,
                 "end": 142
             },
-            "obj": "UTI"
+            "obj": "DOID_0080784"
         },
         {
-            "id": "DOID_0080784",
+            "id": "T3",
             "span": {
                 "begin": 311,
                 "end": 314
             },
-            "obj": "UTI"
+            "obj": "DOID_0080784"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T4",
             "span": {
                 "begin": 389,
                 "end": 397
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0080784",
+            "id": "T5",
             "span": {
                 "begin": 539,
                 "end": 542
             },
-            "obj": "UTI"
+            "obj": "DOID_0080784"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e1",
             "pred": "no_relation",
-            "obj": "CHEBI_81767"
+            "obj": "32997068_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e1",
             "pred": "no_relation",
-            "obj": "DOID_0080784"
+            "obj": "32997068_en.c1.e2"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e1",
             "pred": "no_relation",
-            "obj": "DOID_0080784"
+            "obj": "32997068_en.c1.e3"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e1",
             "pred": "no_relation",
-            "obj": "DOID_0080784"
+            "obj": "32997068_en.c1.e5"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e4",
             "pred": "no_relation",
-            "obj": "CHEBI_81767"
+            "obj": "32997068_en.c1.e0"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e4",
             "pred": "no_relation",
-            "obj": "DOID_0080784"
+            "obj": "32997068_en.c1.e2"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
+            "subj": "32997068_en.c1.e4",
             "pred": "effect",
-            "obj": "DOID_0080784"
+            "obj": "32997068_en.c1.e3"
         }
     ]
 }

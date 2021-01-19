@@ -2,42 +2,42 @@
     "text": "Dengue transmission has been known in East Timor since 2005, but the country is not equipped with an Aedes aegypti mosquito monitoring and control program. This study aimed to evaluate the baited ovitrap as a possible tool to monitor the arbovirus vector Dengue (DENV), Chikungunya (CHIKV) and Zika (ZIKV) and was conducted in the city of Dili, capital of East-Timor, between epidemiological weeks 32 (02/08) and 48 (02/12) of 2016. In total, 70 ovitraps were installed in residences scattered throughout fifteen streets of four Administrative Posts (districts) of the city. The following entomological indicators were used: Ovitrap Positivity Index (OPI), Vector Density Index (VDI), and Egg Density Index (EDI). A total of 158.904 eggs were collected during the experiment. The OPI showed that 98-100% of traps contained Aedes spp. in all areas of the study. The EDI and OPI indicators were positively and significantly correlated with the temperature. The two- and three-week lag for rainfall indicated a significant positive correlation for VDI and EDI. Therefore, the ovitrap is a tool that can integrate the actions of an Aedes spp. monitoring and control program in East-Timor.",
     "denotations": [
         {
-            "id": "DOID_0050012",
+            "id": "T0",
             "span": {
                 "begin": 270,
                 "end": 281
             },
-            "obj": "Chikungunya"
+            "obj": "DOID_0050012"
         },
         {
-            "id": "CHEBI_73491",
+            "id": "T1",
             "span": {
                 "begin": 865,
                 "end": 868
             },
-            "obj": "EDI"
+            "obj": "CHEBI_73491"
         },
         {
-            "id": "CHEBI_73491",
+            "id": "T2",
             "span": {
                 "begin": 1053,
                 "end": 1056
             },
-            "obj": "EDI"
+            "obj": "CHEBI_73491"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0050012",
+            "subj": "32022206_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_73491"
+            "obj": "32022206_en.c1.e1"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050012",
+            "subj": "32022206_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_73491"
+            "obj": "32022206_en.c1.e2"
         }
     ]
 }

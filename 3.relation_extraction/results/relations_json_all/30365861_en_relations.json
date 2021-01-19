@@ -2,76 +2,76 @@
     "text": "At age 44, after suffering a breakdown in Turin, philosopher Friedrich Nietzsche was diagnosed with neurosyphilis. There was no necropsy on his body, so this medical diagnosis has been questioned over the time. We conducted a literature review on the medical diagnosis of Nietzsche, which emphasizes three genres of pathographies that emerged successively as alternatives explanations for Nietzsche's breakdown in Turin: (1) narratives about syphilis (\"demoniac-pathological\"); (2) narratives about functional psychosis (\"heroic-prophetic\"); (3) other narratives about organic diseases, other than syphilis (\"scientific-realistic\"). The latter - which correspond to our study object in this work - undertake retrospective diagnostics, attempting to retrieve the \"truth\" underlying the disease and elucidate \"Nietzsche's affair\". We inquire this detective-like impetus, currently taken to the extreme by \"evidence-based medicine\", and we denounce its anachronism. Syphilis has become a scientific fact only after the death of Nietzsche. We conclude that the diagnosis he received is shown to be consistent with the nineteenth-century medical rationality and the syphilis status as a cultural fact at that time.",
     "denotations": [
         {
-            "id": "GO_0009056",
+            "id": "T0",
             "span": {
                 "begin": 29,
                 "end": 38
             },
-            "obj": "breakdown"
+            "obj": "GO_0009056"
         },
         {
-            "id": "GO_0009056",
+            "id": "T1",
             "span": {
                 "begin": 401,
                 "end": 410
             },
-            "obj": "breakdown"
+            "obj": "GO_0009056"
         },
         {
-            "id": "DOID_4166",
+            "id": "T2",
             "span": {
                 "begin": 442,
                 "end": 450
             },
-            "obj": "syphilis"
+            "obj": "DOID_4166"
         },
         {
-            "id": "HP_0000709",
+            "id": "T3",
             "span": {
                 "begin": 510,
                 "end": 519
             },
-            "obj": "psychosis"
+            "obj": "HP_0000709"
         },
         {
-            "id": "DOID_4166",
+            "id": "T4",
             "span": {
                 "begin": 598,
                 "end": 606
             },
-            "obj": "syphilis"
+            "obj": "DOID_4166"
         },
         {
-            "id": "DOID_4",
+            "id": "T5",
             "span": {
                 "begin": 785,
                 "end": 792
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_4166",
+            "id": "T6",
             "span": {
                 "begin": 963,
                 "end": 971
             },
-            "obj": "Syphilis"
+            "obj": "DOID_4166"
         },
         {
-            "id": "DOID_4166",
+            "id": "T7",
             "span": {
                 "begin": 1161,
                 "end": 1169
             },
-            "obj": "syphilis"
+            "obj": "DOID_4166"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0009056",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "HP_0000709"
+            "obj": "T5"
         }
     ]
 }

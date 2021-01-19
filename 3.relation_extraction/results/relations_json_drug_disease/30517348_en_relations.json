@@ -2,70 +2,70 @@
     "text": "to analyze the impact of pneumococcal conjugate vaccine (PCV10) on pneumonia hospital admissions among children in Santa Catarina, Brazil, 2006-2014.this was an ecological study using data obtained from Brazilian National Health System Information Technology Department (Datasus) for 2006-2009 (pre-vaccination period) and 2010-2014 (post-vaccination period); time trends were evaluated using the Poisson regression coefficient.in the comparison between pre- and post-vaccination periods, the percentage difference in the hospitalization rate for children under 1 year old ranged from -44.1% in the Western region to -1.4% in the Serrano Plateau region, and in children between 1-4 years old it ranged from -37.1% in the Northern Plateau region to 16.9% in the Serrano Plateau region (p<0.05); hospitalization rates in the state reduced by 23.3% in children under 1 year old and by 8.4% in those aged 1-4 years.a significant reduction in the rate of pneumonia hospitalization in children under 1 year old age was found, suggesting the effectiveness of the vaccine in reducing hospitalizations.",
     "denotations": [
         {
-            "id": "DOID_552",
+            "id": "T0",
             "span": {
                 "begin": 67,
                 "end": 76
             },
-            "obj": "pneumonia"
+            "obj": "DOID_552"
         },
         {
-            "id": "CHEBI_147387",
+            "id": "T1",
             "span": {
                 "begin": 638,
                 "end": 645
             },
-            "obj": "Plateau"
+            "obj": "CHEBI_147387"
         },
         {
-            "id": "CHEBI_147387",
+            "id": "T2",
             "span": {
                 "begin": 730,
                 "end": 737
             },
-            "obj": "Plateau"
+            "obj": "CHEBI_147387"
         },
         {
-            "id": "CHEBI_147387",
+            "id": "T3",
             "span": {
                 "begin": 769,
                 "end": 776
             },
-            "obj": "Plateau"
+            "obj": "CHEBI_147387"
         },
         {
-            "id": "DOID_552",
+            "id": "T4",
             "span": {
                 "begin": 950,
                 "end": 959
             },
-            "obj": "pneumonia"
+            "obj": "DOID_552"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_552",
+            "subj": "30517348_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_147387"
+            "obj": "30517348_en.c1.e2"
         },
         {
             "id": "R1",
-            "subj": "DOID_552",
+            "subj": "30517348_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_147387"
+            "obj": "30517348_en.c1.e3"
         },
         {
             "id": "R2",
-            "subj": "DOID_552",
+            "subj": "30517348_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_147387"
+            "obj": "30517348_en.c1.e2"
         },
         {
             "id": "R3",
-            "subj": "DOID_552",
+            "subj": "30517348_en.c1.e4",
             "pred": "effect",
-            "obj": "CHEBI_147387"
+            "obj": "30517348_en.c1.e3"
         }
     ]
 }

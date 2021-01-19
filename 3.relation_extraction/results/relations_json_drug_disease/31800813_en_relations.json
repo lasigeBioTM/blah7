@@ -2,36 +2,36 @@
     "text": "To present the nursing care of a newborn with Lamellar Ichthyosis admitted to the neonatal intensive care unit of a public children's hospital in a municipality in the state of Paran\u00e1, Brazil.A qualitative intralocal study implementing the Case Study methodology, in which a real case was explored in a delimited system with data collection from multiple sources of information during 66 days of hospitalization in 2016.The nursing care present in the protocol was based on: maintaining skin integrity through hydration and continuous lubrication with emollients, temperature control, nutrition and prevention of secondary infections.Through the case study, it is affirmed that implementation of the Nursing Process, especially the care plan, was essential for the multidisciplinary success of the treatment. There was improvement in the skin and mucous membranes, as well as prevention of infections, culminating in favorable survival conditions and the autonomy of parents for home care.",
     "denotations": [
         {
-            "id": "DOID_0060655",
+            "id": "T0",
             "span": {
                 "begin": 46,
                 "end": 65
             },
-            "obj": "Lamellar Ichthyosis"
+            "obj": "DOID_0060655"
         },
         {
-            "id": "DOID_1697",
+            "id": "T1",
             "span": {
                 "begin": 55,
                 "end": 65
             },
-            "obj": "Ichthyosis"
+            "obj": "DOID_1697"
         },
         {
-            "id": "CHEBI_75830",
+            "id": "T2",
             "span": {
                 "begin": 979,
                 "end": 983
             },
-            "obj": "home"
+            "obj": "CHEBI_75830"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0060655",
+            "subj": "31800813_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_75830"
+            "obj": "31800813_en.c1.e2"
         }
     ]
 }

@@ -2,50 +2,50 @@
     "text": "In December 2019, a new human coronavirus, called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or coronavirus disease 2019 (COVID-19) by the World Health Organization, emerged in the city of Wuhan, China. Spreading globally, it is now considered pandemic, with approximately 3 million cases worldwide at the end of April. Its symptoms include fever, cough, and headache, but the main one is shortness of breath. In turn, it is believed that there is a relationship between COVID-19 and damage to the heart muscle, and hypertensive and diabetic patients, for example, seem to have worse prognosis. Therefore, COVID-19 may worsen in individuals with underlying adverse conditions, and a not negligible number of patients hospitalized with this virus had cardiovascular or cerebrovascular diseases. Systemic inflammatory response and immune system disorders during disease progression may be behind this association. In addition, the virus uses angiotensin-converting enzyme (ACE) receptors, more precisely ACE2, to penetrate the cell; therefore, the use of ACE inhibitor drugs and angiotensin receptor blockers could cause an increase in these receptors, thus facilitating the entry of the virus into the cell. There is, however, no scientific evidence to support the interruption of these drugs. Since they are fundamental for certain chronic diseases, the risk and benefit of their withdrawal in this scenario should be carefully weighed. Finally, cardiologists and health professionals should be aware of the risks of infection and protect themselves as much as possible, sleeping properly and avoiding long working hours.",
     "denotations": [
         {
-            "id": "HP_0012828",
+            "id": "T0",
             "span": {
                 "begin": 50,
                 "end": 56
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "HP_0011009",
+            "id": "T1",
             "span": {
                 "begin": 57,
                 "end": 62
             },
-            "obj": "acute"
+            "obj": "HP_0011009"
         },
         {
-            "id": "GO_0006954",
+            "id": "T2",
             "span": {
                 "begin": 821,
                 "end": 842
             },
-            "obj": "inflammatory response"
+            "obj": "GO_0006954"
         },
         {
-            "id": "HP_0011010",
+            "id": "T3",
             "span": {
                 "begin": 1350,
                 "end": 1357
             },
-            "obj": "chronic"
+            "obj": "HP_0011010"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0006954",
+            "subj": "32401844_en.c1.e2",
             "pred": "no_relation",
-            "obj": "HP_0012828"
+            "obj": "32401844_en.c1.e0"
         },
         {
             "id": "R1",
-            "subj": "GO_0006954",
+            "subj": "32401844_en.c1.e2",
             "pred": "no_relation",
-            "obj": "HP_0011010"
+            "obj": "32401844_en.c1.e3"
         }
     ]
 }

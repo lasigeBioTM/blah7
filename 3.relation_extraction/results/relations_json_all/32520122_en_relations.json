@@ -2,78 +2,78 @@
     "text": "to describe profiles of interest of web search queries related to the Covid-19 epidemic in Brazil.this was a quantitative and exploratory study using Google Health Trends. We analyzed daily data of interest, defined as search probability (Pr), in 23 terms in searches performed by users connected in Brazil from January 1 to April 9, 2020.the peak in interest (Pr=0.0651) on the theme of coronavirus occurred on March 21. Interest in use of face masks (Pr=0.0041), social distancing (Pr=0.0043) and hand hygiene with alcohol gel (Pr=0.0037) was greater than interest in respiratory etiquette (Pr=0.0010) and hand hygiene with soap and water (Pr=0.0005).the difference in interest in issues related to combating Covid-19 was substantial and can guide new strategies for disseminating health information.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 70,
                 "end": 78
             },
-            "obj": "Covid-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "DOID_0111084",
+            "id": "T1",
             "span": {
                 "begin": 441,
                 "end": 445
             },
-            "obj": "face"
+            "obj": "DOID_0111084"
         },
         {
-            "id": "CHEBI_16236",
+            "id": "T2",
             "span": {
                 "begin": 517,
                 "end": 524
             },
-            "obj": "alcohol"
+            "obj": "CHEBI_16236"
         },
         {
-            "id": "CHEBI_30879",
+            "id": "T3",
             "span": {
                 "begin": 517,
                 "end": 524
             },
-            "obj": "alcohol"
+            "obj": "CHEBI_30879"
         },
         {
-            "id": "CHEBI_15377",
+            "id": "T4",
             "span": {
                 "begin": 635,
                 "end": 640
             },
-            "obj": "water"
+            "obj": "CHEBI_15377"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T5",
             "span": {
                 "begin": 711,
                 "end": 719
             },
-            "obj": "Covid-19"
+            "obj": "DOID_0080600"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T1"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T4"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "DOID_0111084"
+            "obj": "T1"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "T5",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T4"
         }
     ]
 }

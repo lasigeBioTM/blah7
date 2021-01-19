@@ -2,116 +2,116 @@
     "text": "The Hospedaria de Imigrantes (Immigrant Lodgings) da Ilha das Flores was established in 1883 in accordance with the hygienist thinking of the time. Immigrants were isolated on the east coast of Guanabara Bay because of the epidemics of yellow fever which returned to the Imperial capital every summer since 1849-1850. Hygienists attributed the disease to the precarious health conditions in the city of Rio de Janeiro, which enabled germs to multiply and infect the atmosphere. As physicians reinterpreted the disease in light of Pasteurian theory, new procedures were adopted to receive immigrants, changing the structure and function of the facility on Ilha das Flores.",
     "denotations": [
         {
-            "id": "CHEBI_17364",
+            "id": "T0",
             "span": {
                 "begin": 58,
                 "end": 61
             },
-            "obj": "das"
+            "obj": "CHEBI_17364"
         },
         {
-            "id": "DOID_9682",
+            "id": "T1",
             "span": {
                 "begin": 236,
                 "end": 248
             },
-            "obj": "yellow fever"
+            "obj": "DOID_9682"
         },
         {
-            "id": "HP_0001945",
+            "id": "T2",
             "span": {
                 "begin": 243,
                 "end": 248
             },
-            "obj": "fever"
+            "obj": "HP_0001945"
         },
         {
-            "id": "DOID_4",
+            "id": "T3",
             "span": {
                 "begin": 344,
                 "end": 351
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_4",
+            "id": "T4",
             "span": {
                 "begin": 510,
                 "end": 517
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "CHEBI_30212",
+            "id": "T5",
             "span": {
                 "begin": 521,
                 "end": 526
             },
-            "obj": "light"
+            "obj": "CHEBI_30212"
         },
         {
-            "id": "CHEBI_17364",
+            "id": "T6",
             "span": {
                 "begin": 660,
                 "end": 663
             },
-            "obj": "das"
+            "obj": "CHEBI_17364"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_9682",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_17364"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "DOID_9682",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_30212"
+            "obj": "T5"
         },
         {
             "id": "R2",
-            "subj": "DOID_9682",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_17364"
+            "obj": "T6"
         },
         {
             "id": "R3",
-            "subj": "DOID_4",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_17364"
+            "obj": "T0"
         },
         {
             "id": "R4",
-            "subj": "DOID_4",
+            "subj": "T3",
             "pred": "no_relation",
-            "obj": "CHEBI_30212"
+            "obj": "T5"
         },
         {
             "id": "R5",
-            "subj": "DOID_4",
+            "subj": "T3",
             "pred": "no_relation",
-            "obj": "CHEBI_17364"
+            "obj": "T6"
         },
         {
             "id": "R6",
-            "subj": "DOID_4",
+            "subj": "T4",
             "pred": "no_relation",
-            "obj": "CHEBI_17364"
+            "obj": "T0"
         },
         {
             "id": "R7",
-            "subj": "DOID_4",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_30212"
+            "obj": "T5"
         },
         {
             "id": "R8",
-            "subj": "DOID_4",
+            "subj": "T4",
             "pred": "no_relation",
-            "obj": "CHEBI_17364"
+            "obj": "T6"
         }
     ]
 }

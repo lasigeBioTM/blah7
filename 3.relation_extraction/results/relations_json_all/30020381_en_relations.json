@@ -2,70 +2,70 @@
     "text": "This article examines the activities of national and international actors in Pharmaceutical Services (PS) in Mozambique from 2007 to 2012, focusing on the public provision of HIV/Aids, malaria and tuberculosis medicines. It describes how PS functions in the country, what actors are involved in this area and the relations among them, pursuing salient issues in the modus operandi of partners in cooperation. The methodology combines literature review, document survey and analysis and interviews. The theoretical and analytical framework was given by the policy analysis approach, focusing on the role of the State and its interrelations with other actors in foreign aid in PS, and also by the networks approach. It was concluded that the interactions among the actors involved is complex and characterised by operational fragmentation and overlapping of activities between entities, centralised medicine procurement in the hands of few agents, bypassing of national structures and disregard for the strengthening needed to bolster national health system autonomy. Despite some advances in the provision and availability of medicines for these diseases, external dependence is strong, which undermines the sustainability of PS in Mozambique.",
     "denotations": [
         {
-            "id": "CHEBI_52217",
+            "id": "T0",
             "span": {
                 "begin": 77,
                 "end": 91
             },
-            "obj": "Pharmaceutical"
+            "obj": "CHEBI_52217"
         },
         {
-            "id": "DOID_12365",
+            "id": "T1",
             "span": {
                 "begin": 185,
                 "end": 192
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_399",
+            "id": "T2",
             "span": {
                 "begin": 197,
                 "end": 209
             },
-            "obj": "tuberculosis"
+            "obj": "DOID_399"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T3",
             "span": {
                 "begin": 598,
                 "end": 602
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "CHEBI_23888",
+            "id": "T4",
             "span": {
                 "begin": 897,
                 "end": 905
             },
-            "obj": "medicine"
+            "obj": "CHEBI_23888"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_12365",
+            "subj": "T1",
             "pred": "no_relation",
-            "obj": "CHEBI_52217"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "DOID_12365",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T3"
         },
         {
             "id": "R2",
-            "subj": "DOID_399",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "CHEBI_52217"
+            "obj": "T0"
         },
         {
             "id": "R3",
-            "subj": "DOID_399",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T3"
         }
     ]
 }

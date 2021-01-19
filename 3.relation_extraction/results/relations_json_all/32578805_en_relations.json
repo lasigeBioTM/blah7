@@ -2,52 +2,52 @@
     "text": "This study aims to analyze the pressure on the Brazilian health system from the additional demand created by COVID-19. The authors performed a series of simulations to estimate the demand for hospital beds (health micro-regions) as well as to ICU beds, and mechanical ventilators (health macro-regions) under different scenarios of intensity (infection rates equivalent to 0.01, 0.1, and 1 case por 100 inhabitants) and time horizons (1, 3, and 6 months). The results reveal a critical situation in the system for meeting this potential demand, with numerous health micro-regions and macro-regions operating beyond their capacity, compromising the care for patients, especially those with more severe symptoms. The study presents three relevant messages. First, it is necessary to slow the spread of COVID-19 in the Brazilian population, allowing more time for the reorganization of the supply and relieve the pressure on the health system. Second, the expansion of the number of available beds will be the key. Even if the private sector helps offset the deficit, the combined supply from the two sectors (public and private) would be insufficient in various macro-regions. The construction of field hospitals is important, both in places with a history of \"hospital deserts\" and in those already pressured by demand. The third message involves the regionalized organization of health services, whose design may be adequate in situations of routine demand, but which suffer additional challenges during pandemics, especially if patients have to travel long distances to receive care.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 109,
                 "end": 117
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "HP_0012824",
+            "id": "T1",
             "span": {
                 "begin": 332,
                 "end": 341
             },
-            "obj": "intensity"
+            "obj": "HP_0012824"
         },
         {
-            "id": "GO_0003958",
+            "id": "T2",
             "span": {
                 "begin": 395,
                 "end": 398
             },
-            "obj": "por"
+            "obj": "GO_0003958"
         },
         {
-            "id": "HP_0012828",
+            "id": "T3",
             "span": {
                 "begin": 694,
                 "end": 700
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T4",
             "span": {
                 "begin": 800,
                 "end": 808
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0003958",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "HP_0012824"
+            "obj": "T0"
         }
     ]
 }

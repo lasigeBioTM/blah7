@@ -2,68 +2,68 @@
     "text": "To describe an uncommon case of infection by Strongyloides stercoralis (S. stercoralis) in a 4-month-old child and to highlight the importance of early diagnosis.The patient was a male child from the city of Videira, State of Santa Catarina, Southern Brazil, who was born preterm by Cesarean-section, weighing 1,655 g, and stayed in the neonatal intensive care unit for 20 days. At four months of age, the child started presenting blood in stools and the possibility of cow's milk protein allergy was considered, given the symptoms and the use of infant formula in his 1st semester of life, which was then replaced by infant formula with hydrolyzed protein. White blood cell count and a parasitological stool sample were requested. Both tested positive and the stool ova and parasite examination showed a rhabditoid larva of S. stercoralis. The clinician maintained the initial hypothesis and diet, but requested three new stool samples, which tested positive for rhabditoid larvae of S. stercoralis. Since the child presented abdominal pain and vomiting, and there was still blood in stools, treatment with thiabendazole was initiated twice a day for two days. Treatment was repeated after seven days along with a new parasitological examination, which was then negative.Although strongyloidiasis is usually a mild parasitic infection, it may be severe and disseminated in immunocompromised patients. This agent must be considered in patients who live in endemic areas, and the diagnosis should be established by searching S. stercoralis larvae in tracheal secretions and in stools.",
     "denotations": [
         {
-            "id": "HP_0012393",
+            "id": "T0",
             "span": {
                 "begin": 489,
                 "end": 496
             },
-            "obj": "allergy"
+            "obj": "HP_0012393"
         },
         {
-            "id": "HP_0002027",
+            "id": "T1",
             "span": {
                 "begin": 1027,
                 "end": 1041
             },
-            "obj": "abdominal pain"
+            "obj": "HP_0002027"
         },
         {
-            "id": "HP_0012531",
+            "id": "T2",
             "span": {
                 "begin": 1037,
                 "end": 1041
             },
-            "obj": "pain"
+            "obj": "HP_0012531"
         },
         {
-            "id": "CHEBI_45979",
+            "id": "T3",
             "span": {
                 "begin": 1108,
                 "end": 1121
             },
-            "obj": "thiabendazole"
+            "obj": "CHEBI_45979"
         },
         {
-            "id": "DOID_10955",
+            "id": "T4",
             "span": {
                 "begin": 1281,
                 "end": 1297
             },
-            "obj": "strongyloidiasis"
+            "obj": "DOID_10955"
         },
         {
-            "id": "HP_0012825",
+            "id": "T5",
             "span": {
                 "begin": 1311,
                 "end": 1315
             },
-            "obj": "mild"
+            "obj": "HP_0012825"
         },
         {
-            "id": "HP_0012828",
+            "id": "T6",
             "span": {
                 "begin": 1347,
                 "end": 1353
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_10955",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_45979"
+            "obj": "T3"
         }
     ]
 }

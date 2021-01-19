@@ -2,92 +2,92 @@
     "text": "The COVID-19 pandemic has been most severe in the poorest regions of Brazil, such as the states of the Northeast Region. The lack of national policies for pandemic control forced state and municipal authorities to implement public health measures. The aim of this study is to show the effect of these measures on the epidemic. The highest incidence of COVID-19 among the nine states in the Northeast was recorded in Sergipe, Para\u00edba and Cear\u00e1. Piau\u00ed, Para\u00edba and Cear\u00e1 were the states that most tested. Factors associated with transmission included the high proportion of people in informal work. States with international airports played an important role in the entry of the virus and the initial spread, especially Cear\u00e1. All states applied social distancing measures, banned public events and closed schools. The response was a significant increase in social distancing, especially in Cear\u00e1 and Pernambuco, a decline in the reproduction rate (Rt), and a separation of the curve of observed cases versus expected cases if the non-pharmacological interventions had not been implemented in all states. Poverty, inequality, and the high rates of informal work provide clues to the intensity of COVID-19 in the region. On the other hand, the measures taken early by the governments mitigated the effects of the pandemic.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 4,
                 "end": 12
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "HP_0012828",
+            "id": "T1",
             "span": {
                 "begin": 36,
                 "end": 42
             },
-            "obj": "severe"
+            "obj": "HP_0012828"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T2",
             "span": {
                 "begin": 352,
                 "end": 360
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_50906",
+            "id": "T3",
             "span": {
                 "begin": 652,
                 "end": 656
             },
-            "obj": "role"
+            "obj": "CHEBI_50906"
         },
         {
-            "id": "GO_0000003",
+            "id": "T4",
             "span": {
                 "begin": 928,
                 "end": 940
             },
-            "obj": "reproduction"
+            "obj": "GO_0000003"
         },
         {
-            "id": "HP_0012824",
+            "id": "T5",
             "span": {
                 "begin": 1181,
                 "end": 1190
             },
-            "obj": "intensity"
+            "obj": "HP_0012824"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T6",
             "span": {
                 "begin": 1194,
                 "end": 1202
             },
-            "obj": "COVID-19"
+            "obj": "DOID_0080600"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0000003",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "HP_0012828"
+            "obj": "T0"
         },
         {
             "id": "R1",
-            "subj": "GO_0000003",
+            "subj": "T2",
             "pred": "no_relation",
-            "obj": "HP_0012824"
+            "obj": "T3"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "T0",
             "pred": "no_relation",
-            "obj": "CHEBI_50906"
+            "obj": "T3"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
+            "subj": "T2",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T3"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "T6",
             "pred": "effect",
-            "obj": "CHEBI_50906"
+            "obj": "T3"
         }
     ]
 }

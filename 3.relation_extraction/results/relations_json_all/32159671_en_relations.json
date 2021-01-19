@@ -2,28 +2,28 @@
     "text": "This study aimed to analyze the association between sociodemographic, programmatic and contextual factors and the receipt of money in exchange for sex among men who have sex with men (MSM). This is a multicenter, cross-sectional study conducted in ten Brazilian cities between 2008 and 2009. Adult MSM recruited through the Respondent Driven Sampling (RDS) were interviewed. Weighted Odds Ratio (ORw) was obtained through logistic regression, retaining the variables associated with the event (p < 0.05) in the final model. Of the total sample, 33.3% reported receiving money in exchange for sex in the last 12 months before the interview. The variables that were independently associated with the event were age less than or equal to 25 years, lower education, lower social classes, previous history of syphilis, using sites or services to find sexual partners in the previous month, very high risk behavior, using illicit drugs in the previous six months, self-identifying as heterosexual or bisexual, having suffered physical violence due to sexual orientation and having suicidal thoughts always or most of the time. It was observed that MSM who received money in exchange for sex had greater socioeconomic, programmatic and contextual vulnerability, potentially increasing the risk of HIV infection than the other MSM in the sample.",
     "denotations": [
         {
-            "id": "CHEBI_23888",
+            "id": "T0",
             "span": {
                 "begin": 924,
                 "end": 929
             },
-            "obj": "drugs"
+            "obj": "CHEBI_23888"
         },
         {
-            "id": "DOID_526",
+            "id": "T1",
             "span": {
                 "begin": 1290,
                 "end": 1303
             },
-            "obj": "HIV infection"
+            "obj": "DOID_526"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_526",
+            "subj": "T1",
             "pred": "no_relation",
-            "obj": "CHEBI_23888"
+            "obj": "T0"
         }
     ]
 }

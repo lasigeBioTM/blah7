@@ -2,28 +2,28 @@
     "text": "To analyze the adherence of the population to physical contact restriction measures and the spread of COVID-19 in Brazil.This was a web-based health survey carried out from April 24 to May 24 2020 using a chain sampling procedure. Intensity of adherence to physical contact restriction measures was analyzed according to sociodemographic characteristics, using logistic regression models to investigate associations with 'No/little adherence'.Of the 45,161 participants, 74.2% (73.8;74.6%) reported intense adherence to the measures. The group that did not adhere to the measures was characterized by men (31.7%), those aged 30 to 49 (36.4%), those with low education levels (33.0%), those who worked during the pandemic (81.3%), those resident in the North (28.1%) and Midwest (28.5%) regions of the country. In Brazil as a whole, there was a decrease in COVID-19 daily growth rates, from 45.4% to 5.0%.A large part of the Brazilian population adhered to physical contact restriction measures, which possibly contributed to decreasing the spread of COVID-19.",
     "denotations": [
         {
-            "id": "HP_0012824",
+            "id": "T0",
             "span": {
                 "begin": 231,
                 "end": 240
             },
-            "obj": "Intensity"
+            "obj": "HP_0012824"
         },
         {
-            "id": "GO_0040007",
+            "id": "T1",
             "span": {
                 "begin": 871,
                 "end": 877
             },
-            "obj": "growth"
+            "obj": "GO_0040007"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "GO_0040007",
+            "subj": "33175010_en.c1.e1",
             "pred": "no_relation",
-            "obj": "HP_0012824"
+            "obj": "33175010_en.c1.e0"
         }
     ]
 }

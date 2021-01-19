@@ -2,120 +2,120 @@
     "text": "Malaria is an infectious disease of high transmission in the Amazon region, but its dynamics and spatial distribution may vary depending on the interaction of environmental, socio-cultural, economic, political and health services factors.To verify the existence of malaria case patterns in consonance with the fluviometric regimes in Amazon basin.Methods of descriptive and inferential statistics were used in malaria and water level data for 35 municipalities in the Amazonas State, in the period from 2003 to 2014.The existence of a tendency to modulate the seasonality of malaria cases due to distinct periods of rivers flooding has been demonstrated. Differences were observed in the annual hydrological variability accompanied by different patterns of malaria cases, showing a trend of remodeling of the epidemiological profile as a function of the flood pulse.The study suggests the implementation of regional and local strategies considering the hydrological regimes of the Amazon basin, enabling municipal actions to attenuate the malaria in the Amazonas State.",
     "denotations": [
         {
-            "id": "DOID_12365",
+            "id": "T0",
             "span": {
                 "begin": 0,
                 "end": 7
             },
-            "obj": "Malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_0050117",
+            "id": "T1",
             "span": {
                 "begin": 14,
                 "end": 32
             },
-            "obj": "infectious disease"
+            "obj": "DOID_0050117"
         },
         {
-            "id": "DOID_4",
+            "id": "T2",
             "span": {
                 "begin": 25,
                 "end": 32
             },
-            "obj": "disease"
+            "obj": "DOID_4"
         },
         {
-            "id": "DOID_12365",
+            "id": "T3",
             "span": {
                 "begin": 265,
                 "end": 272
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_12365",
+            "id": "T4",
             "span": {
                 "begin": 410,
                 "end": 417
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "CHEBI_15377",
+            "id": "T5",
             "span": {
                 "begin": 422,
                 "end": 427
             },
-            "obj": "water"
+            "obj": "CHEBI_15377"
         },
         {
-            "id": "DOID_12365",
+            "id": "T6",
             "span": {
                 "begin": 575,
                 "end": 582
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_12365",
+            "id": "T7",
             "span": {
                 "begin": 757,
                 "end": 764
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         },
         {
-            "id": "DOID_12365",
+            "id": "T8",
             "span": {
                 "begin": 1039,
                 "end": 1046
             },
-            "obj": "malaria"
+            "obj": "DOID_12365"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_12365",
+            "subj": "T0",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R1",
-            "subj": "DOID_0050117",
+            "subj": "T1",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R2",
-            "subj": "DOID_12365",
+            "subj": "T3",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R3",
-            "subj": "DOID_12365",
+            "subj": "T4",
             "pred": "effect",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R4",
-            "subj": "DOID_12365",
+            "subj": "T6",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R5",
-            "subj": "DOID_12365",
+            "subj": "T7",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         },
         {
             "id": "R6",
-            "subj": "DOID_12365",
+            "subj": "T8",
             "pred": "no_relation",
-            "obj": "CHEBI_15377"
+            "obj": "T5"
         }
     ]
 }

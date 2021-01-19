@@ -2,210 +2,204 @@
     "text": "The Covid-19 pandemic revealed a concrete and immediate threat to food and nutrition security (FNS), especially for vulnerable groups. This study aimed to identify government strategies implemented in Brazil to provide the Human Right to Adequate and Healthy Food in high social vulnerability contexts during the Covid-19 pandemic. A cross-sectional study was carried out, with analysis of official documents published between March 20 and July 30, 2020, by the Federal Government, Federal District, Brazilian states, and capitals, focusing on measures to ensure availability and physical or financial access to food. Strategies implemented mainly involve food distribution and minimum income assurance. The following were implemented: Basic Emergency Income (Federal Government); Food Acquisition Program (PAA), and emergency financial aid (states); emergency food donation programs (states and municipalities). Existing measures were adapted to the pandemic, such as the National School Food Program (PNAE), the National Food Acquisition Program (PAA), and the distribution of food and staple food baskets. While essential, these strategies have limited scope and are insufficient to ensure FNS.",
     "denotations": [
         {
-            "id": "DOID_0080600",
+            "id": "T0",
             "span": {
                 "begin": 4,
                 "end": 12
             },
-            "obj": "Covid-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T1",
             "span": {
                 "begin": 66,
                 "end": 70
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T2",
             "span": {
                 "begin": 259,
                 "end": 263
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "DOID_0080600",
+            "id": "T3",
             "span": {
                 "begin": 313,
                 "end": 321
             },
-            "obj": "Covid-19"
+            "obj": "DOID_0080600"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T4",
             "span": {
                 "begin": 612,
                 "end": 616
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T5",
             "span": {
                 "begin": 656,
                 "end": 660
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T6",
             "span": {
                 "begin": 781,
                 "end": 785
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T7",
             "span": {
                 "begin": 861,
                 "end": 865
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T8",
             "span": {
                 "begin": 989,
                 "end": 993
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T9",
             "span": {
                 "begin": 1023,
                 "end": 1027
             },
-            "obj": "Food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T10",
             "span": {
                 "begin": 1079,
                 "end": 1083
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         },
         {
-            "id": "CHEBI_33290",
+            "id": "T11",
             "span": {
                 "begin": 1095,
                 "end": 1099
             },
-            "obj": "food"
+            "obj": "CHEBI_33290"
         }
     ],
     "relations": [
         {
             "id": "R0",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e1"
         },
         {
             "id": "R1",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e2"
         },
         {
             "id": "R2",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e4"
         },
         {
             "id": "R3",
-            "subj": "DOID_0080600",
-            "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "subj": "33295513_en.c1.e0",
+            "pred": "effect",
+            "obj": "33295513_en.c1.e5"
         },
         {
             "id": "R4",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e6"
         },
         {
             "id": "R5",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e7"
         },
         {
             "id": "R6",
-            "subj": "DOID_0080600",
-            "pred": "effect",
-            "obj": "CHEBI_33290"
+            "subj": "33295513_en.c1.e0",
+            "pred": "no_relation",
+            "obj": "33295513_en.c1.e8"
         },
         {
             "id": "R7",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e9"
         },
         {
             "id": "R8",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e10"
         },
         {
             "id": "R9",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e0",
             "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e11"
         },
         {
             "id": "R10",
-            "subj": "DOID_0080600",
-            "pred": "no_relation",
-            "obj": "CHEBI_33290"
+            "subj": "33295513_en.c1.e3",
+            "pred": "effect",
+            "obj": "33295513_en.c1.e1"
         },
         {
             "id": "R11",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e2"
         },
         {
             "id": "R12",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e5"
         },
         {
             "id": "R13",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e6"
         },
         {
             "id": "R14",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e7"
         },
         {
             "id": "R15",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e8"
         },
         {
             "id": "R16",
-            "subj": "DOID_0080600",
+            "subj": "33295513_en.c1.e3",
             "pred": "effect",
-            "obj": "CHEBI_33290"
-        },
-        {
-            "id": "R17",
-            "subj": "DOID_0080600",
-            "pred": "effect",
-            "obj": "CHEBI_33290"
+            "obj": "33295513_en.c1.e9"
         }
     ]
 }

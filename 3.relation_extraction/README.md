@@ -1,6 +1,6 @@
 # 3. Relation Extraction
 
-This module uses the entities extracted in module 2.entity_extraction to perform relation extraction. Specifically using the CHEBI, HPO, DO, and GO ontologies.
+This module uses the entities extracted in module 2.entity_extraction to perform relation extraction. Specifically using the ChEBI, HPO, DO, and GO ontologies.
 
 We used [BiOnt](https://github.com/lasigeBioTM/BiOnt) to perform the main steps towards a relation extraction corpus.
 

@@ -18,6 +18,10 @@ Sample upload of 2.NER/NEL datasets (in [EN](http://pubannotation.org/projects/E
 
 The 4.recommender system datasets (in EN and PT) are available here on GitHub. 
 
+<p align="center">
+  <img src="https://github.com/lasigeBioTM/blah7/blob/main/progress.png">
+</p>
+
 ### Day 3 (20/01/2021)
 
 Discussion of crowd validation pipeline for the available datasets.

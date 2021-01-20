@@ -18,6 +18,9 @@ def relations_json(corpus_path, results_file, destination_path):
     results.close()
 
     dict_entities = {}
+    ### multiple:
+    dict_ids = {}
+    ###
     for filename in os.listdir(corpus_path):
         data = {}
 
@@ -39,7 +42,8 @@ def relations_json(corpus_path, results_file, destination_path):
                     ### individual:
                     #dict_entities[entity_identifier] = 'T' + str(identifier)
                     ### multiple:
-                    dict_entities[entity_identifier] = ['T' + str(identifier),{"begin":int(e.get('charOffset').split('-')[0]),'end':int(e.get('charOffset').split('-')[1])},e.get('ontology_id')]
+                    dict_entities[str((entity_identifier, e.get('ontology_id')))] = ['T' + str(identifier),{"begin":int(e.get('charOffset').split('-')[0]),'end':int(e.get('charOffset').split('-')[1])},e.get('ontology_id')]
+                    dict_ids[entity_identifier] = e.get('ontology_id')
                     ###
                     identifier += 1
 
@@ -51,9 +55,9 @@ def relations_json(corpus_path, results_file, destination_path):
                         #data['relations'].append({'id':'R' + str(id), 'subj':dict_entities[results_line.split('\t')[0]], 'pred':results_line.split('\t')[2][:-1], 'obj':dict_entities[results_line.split('\t')[1]]})
                         ### multiple:
                         data['relations'].append(
-                            {'id': 'R' + str(id), 'subj': results_line.split('\t')[0],
+                            {'id': 'R' + str(id), 'subj': str((results_line.split('\t')[0], dict_ids[results_line.split('\t')[0]])),
                              'pred': results_line.split('\t')[2][:-1],
-                             'obj': results_line.split('\t')[1]})
+                             'obj': str((results_line.split('\t')[1], dict_ids[results_line.split('\t')[1]]))})
                         ###
                         id += 1
 
@@ -100,6 +104,9 @@ def join_results(corpus_paths, destination_path, dict_entities):
             for items in dict_entities.items():
                 if items[1] == [denotation['id'], denotation['span'], denotation['obj']]:
                     dict_old_new[items[0]] = ['T' + str(id_denotation), denotation['span'], denotation['obj']]
+                    #if filename == '32876196_en_relations.json':
+                    #    print(items)
+                    #    print(dict_old_new[items[0]])
 
             id_denotation += 1
             data_denotations.append(new_denotation)

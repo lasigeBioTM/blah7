@@ -10,12 +10,12 @@
 
 #### Timeline of Goals for BLAH7:
 
-- Retrieval of a sample of COVID-related articles; ***check***
-- Automatically annotation of the articles; ***check***
-- Manual correction of the automatic annotations in a subset the articles;
-- Expansion of the annotations set in the subset;
-- Automatic evaluation of the recommendation dataset;
-- Manual evaluation of the recommendation dataset.
+- [x] Retrieval of a sample of COVID-related articles;
+- [x] Automatically annotation of the articles;
+- [ ] Manual correction of the automatic annotations in a subset the articles;
+- [ ] Expansion of the annotations set in the subset;
+- [ ] Automatic evaluation of the recommendation dataset;
+- [ ] Manual evaluation of the recommendation dataset.
 
 ### Day 1 (18/01/2021)
 

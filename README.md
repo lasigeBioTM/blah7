@@ -6,7 +6,7 @@
 - **E-mail addresses:** (*mcbarros*, *psruas*, *dfsousa*, *fjcouto*)@fc.ul.pt
 - **Institution:** LASIGE, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
-## BLAH6 Daily Tasks & Initial Results
+## BLAH7 Daily Tasks & Initial Results
 
 ### Day 1 (18/01/2021)
 

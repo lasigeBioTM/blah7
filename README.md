@@ -14,9 +14,9 @@ Initial meeting to present projects.
 
 ### Day 2 (19/01/2021)
 
-Sample upload of 2.NER/NEL datasets (in [EN](http://pubannotation.org/projects/ENG_NER_NEL) and [PT](http://pubannotation.org/projects/PT_NER_NEL)) and [3.RE dataset](http://pubannotation.org/projects/ENG_RE) (in EN) to PubAnnotation in colollection **LASIGE: Annotating a multilingual COVID-19-related corpus for BLAH7** [here](http://pubannotation.org/collections/LASIGE:%20Annotating%20a%20multilingual%20COVID-19-related%20corpus%20for%20BLAH7). 
+Sample upload of 2.NER/NEL datasets (in [EN](http://pubannotation.org/projects/ENG_NER_NEL) and [PT](http://pubannotation.org/projects/PT_NER_NEL)) and [3.RE dataset](http://pubannotation.org/projects/ENG_RE) (in EN) to PubAnnotation in collection **LASIGE: Annotating a multilingual COVID-19-related corpus for BLAH7** [here](http://pubannotation.org/collections/LASIGE:%20Annotating%20a%20multilingual%20COVID-19-related%20corpus%20for%20BLAH7). 
 
-The 4.recommender system datatesets (in EN and PT) are available on here on GitHub. 
+The 4.recommender system datasets (in EN and PT) are available on here on GitHub. 
 
 ### Day 3 (20/01/2021)
 

@@ -8,7 +8,7 @@
 
 ## BLAH7 Daily Tasks & Initial Results
 
-#### Timeline of Goals for BLAH7
+#### Timeline of Goals for BLAH7:
 
 - Retrieval of a sample of COVID-related articles; ***check***
 - Automatically annotation of the articles; ***check***

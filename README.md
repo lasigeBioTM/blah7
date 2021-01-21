@@ -51,7 +51,7 @@ Discussion of crowd validation pipeline for the available datasets.
         * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
         * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
         * ***pt_entities_pubannotation.tar.gz*** for Portuguese NER and NEL (20 documents).
-    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload documents: pubannotation.tar.gz', is created.*
+    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload documents: pubannotation.tar.gz', is created.*:
     * Go to the previous page and refresh it. Confirm that under the Documents headline you now have the number 20.
     
 4. Under the Annotations headline click **Upload Annotations**:
@@ -59,7 +59,7 @@ Discussion of crowd validation pipeline for the available datasets.
         * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
         * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
         * ***pt_entities_pubannotation.tar.gz*** for Portuguese NER and NEL (20 documents).
-    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload annotations', is created.*
+    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload annotations', is created.*;
     * Go to the previous page and refresh it. Confirm that next to the Annotations headline you now have a number.
 
 5. Click on the number **20** under the Documents headline:

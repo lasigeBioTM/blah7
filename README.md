@@ -59,8 +59,16 @@ Discussion of crowd validation pipeline for the available datasets.
         * Next to the Annotations headline you click the option **TextAE**;
         * You now can delete/correct/add the existing annotations and relations.
     * Repeat for all documents.
-    
-5. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
+   
+5. To validate the annotations you can check the respective vocabulary:
+  * [MeSH](https://meshb.nlm.nih.gov/search)
+  * [Disease Ontology](https://disease-ontology.org/)
+  * [HPO](https://hpo.jax.org/app/)
+  * [ChEBI](https://www.ebi.ac.uk/chebi/)
+  * [GO](http://geneontology.org/)
+
+
+6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
 
     
 ## Global Motivation

@@ -61,11 +61,11 @@ Discussion of crowd validation pipeline for the available datasets.
     * Repeat for all documents.
    
 5. To validate the annotations you can check the respective vocabularies:
-  * [MeSH](https://meshb.nlm.nih.gov/search)
-  * [Disease Ontology](https://disease-ontology.org/)
-  * [HPO](https://hpo.jax.org/app/)
-  * [ChEBI](https://www.ebi.ac.uk/chebi/)
-  * [GO](http://geneontology.org/)
+    * [MeSH](https://meshb.nlm.nih.gov/search)
+    * [Disease Ontology](https://disease-ontology.org/)
+    * [HPO](https://hpo.jax.org/app/)
+    * [ChEBI](https://www.ebi.ac.uk/chebi/)
+    * [GO](http://geneontology.org/)
 
 
 6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!

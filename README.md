@@ -35,6 +35,42 @@ The 4.recommender system datasets (in EN and PT) are available here on GitHub.
 
 Discussion of crowd validation pipeline for the available datasets.
 
+### Day 4 (21/01/2021)
+
+#### How to create a project in PubAnnotation and validate the NER/NEL and RE annotations: 
+
+1. Download the **pubannotation_deliverables/** directory available on this GitHub page;
+2. Go to [PubAnnotations Projects](http://pubannotation.org/projects) and click **create**:
+    * Name your project ideally something intuitive, such as: **ENG_RE_<yourname/username>** or **ENG_NER_NEL_<yourname/username>**;
+    * Choose the **CC-BY** License;
+    * Status **Developing**;
+    * Finally, click **Create project**.
+    
+3. Under the Documents headline click **Upload documents**:
+    * Select **Choose File** and choose one of the available deliverables (that you downloaded in step 1):
+        * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
+        * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
+        * ***pt_entities_pubannotation.tar.gz*** for Portuguese NER and NEL (20 documents).
+    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload documents: pubannotation.tar.gz', is created.*
+    * Go to the previous page and refresh it. Confirm that under the Documents headline you now have the number 20.
+    
+4. Under the Annotations headline click **Upload Annotations**:
+   * Select **Choose File** and choose one of the available deliverables (that you downloaded in step 1):
+        * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
+        * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
+        * ***pt_entities_pubannotation.tar.gz*** for Portuguese NER and NEL (20 documents).
+    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload annotations', is created.*
+    * Go to the previous page and refresh it. Confirm that next to the Annotations headline you now have a number.
+
+5. Click on the number **20** under the Documents headline:
+    * Click in one document:
+        * Next to the Annotations headline you click the option **TextAE**;
+        * You now can delete/correct/add the existing annotations and relations.
+    * Repeat for all documents.
+    
+6. After finishing with the validation you are ready to deliver the altered files go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
+
+    
 ## Global Motivation
 
 The global motivation is the creation of parallel multilingual datasets for text mining systems in COVID-19-related literature. Tracking the most recent advances in the COVID-19-related research is essential given the novelty of the disease and its impact on society. Still, the pace of publication requires automatic approaches to access and organize the knowledge that keeps being produced every day. It is necessary to develop text mining pipelines to assist in that task, which is only possible with evaluation datasets. However, there is a lack of COVID-19-related datasets, even more, if considering other languages besides English. The expected contribution of the project will be the annotation of a multilingual parallel dataset (EN-ES and EN-PT), providing this resource to the community to improve the text mining research on COVID-19-related literature.

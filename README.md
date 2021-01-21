@@ -46,15 +46,7 @@ Discussion of crowd validation pipeline for the available datasets.
     * Status **Developing**;
     * Finally, click **Create project**.
     
-3. Under the Documents headline click **Upload documents**:
-    * Select **Choose File** and choose one of the available deliverables (that you downloaded in step 1):
-        * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
-        * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
-        * ***pt_entities_pubannotation.tar.gz*** for Portuguese NER and NEL (20 documents).
-    * Click **Upload** and confirm that the following message pops up: *The task, 'Upload documents: pubannotation.tar.gz', is created.*:
-    * Go to the previous page and refresh it (it can take a minute to update). Confirm that under the Documents headline you now have the number 20.
-    
-4. Under the Annotations headline click **Upload Annotations**:
+3. Under the Annotations headline click **Upload Annotations**:
    * Select **Choose File** and choose one of the available deliverables (that you downloaded in step 1):
         * ***en_entities_pubannotation.tar.gz*** for English NER and NEL (20 documents);
         * ***en_relations_pubannotation.tar.gz*** for English NER, NEL, and RE (20 documents);
@@ -62,13 +54,13 @@ Discussion of crowd validation pipeline for the available datasets.
     * Click **Upload** and confirm that the following message pops up: *The task, 'Upload annotations', is created.*;
     * Go to the previous page and refresh it (it can take a minute to update). Confirm that next to the Annotations headline you now have a number.
 
-5. Click on the number **20** under the Documents headline:
+4. Click on the number **20** under the Documents headline:
     * Click in one document:
         * Next to the Annotations headline you click the option **TextAE**;
         * You now can delete/correct/add the existing annotations and relations.
     * Repeat for all documents.
     
-6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
+5. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
 
     
 ## Global Motivation

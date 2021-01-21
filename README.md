@@ -68,7 +68,7 @@ Discussion of crowd validation pipeline for the available datasets.
     * [GO](http://geneontology.org/)
 
 
-6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file.**. Please share it with the team!
+6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file**. Please share it with the team!
 
     
 ## Global Motivation

@@ -60,7 +60,7 @@ Discussion of crowd validation pipeline for the available datasets.
         * You now can delete/correct/add the existing annotations and relations.
     * Repeat for all documents.
    
-5. To validate the annotations you can check the respective vocabulary:
+5. To validate the annotations you can check the respective vocabularies:
   * [MeSH](https://meshb.nlm.nih.gov/search)
   * [Disease Ontology](https://disease-ontology.org/)
   * [HPO](https://hpo.jax.org/app/)

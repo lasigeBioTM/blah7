@@ -12,9 +12,9 @@
 
 - [x] Retrieval of a sample of COVID-related articles;
 - [x] Automatically annotation of the articles;
-- [ ] Manual correction of the automatic annotations in a subset the articles;
+- [x] Manual correction of the automatic annotations in a subset the articles;
 - [ ] Expansion of the annotations set in the subset;
-- [ ] Automatic evaluation of the recommendation dataset;
+- [x] Automatic evaluation of the recommendation dataset;
 - [ ] Manual evaluation of the recommendation dataset.
 
 ### Day 1 (18/01/2021)
@@ -28,7 +28,7 @@ Sample upload of 2.NER/NEL datasets (in [EN](http://pubannotation.org/projects/E
 The 4.recommender system datasets (in EN and PT) are available here on GitHub. 
 
 <p align="center">
-  <img src="https://github.com/lasigeBioTM/blah7/blob/main/progress.png">
+  <img src="https://github.com/lasigeBioTM/blah7/blob/main/progress_update.png">
 </p>
 
 ### Day 3 (20/01/2021)

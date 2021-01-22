@@ -70,7 +70,10 @@ Discussion of crowd validation pipeline for the available datasets.
 
 6. After finishing with the validation you are ready to deliver the altered files. Go back to the main project page and under the Annotations headline click **Create a downloadable file**. Please share it with the team!
 
-    
+### Day 5 (22/01/2021)
+
+Final meeting to present projects progress. 
+
 ## Global Motivation
 
 The global motivation is the creation of parallel multilingual datasets for text mining systems in COVID-19-related literature. Tracking the most recent advances in the COVID-19-related research is essential given the novelty of the disease and its impact on society. Still, the pace of publication requires automatic approaches to access and organize the knowledge that keeps being produced every day. It is necessary to develop text mining pipelines to assist in that task, which is only possible with evaluation datasets. However, there is a lack of COVID-19-related datasets, even more, if considering other languages besides English. The expected contribution of the project will be the annotation of a multilingual parallel dataset (EN-ES and EN-PT), providing this resource to the community to improve the text mining research on COVID-19-related literature.

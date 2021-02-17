@@ -12,7 +12,6 @@ In English abstracts, extracted entities are linked to concepts of the following
 - [Gene Ontology](http://geneontology.org/) ("go")
 - [Human Phenotype Ontology](https://hpo.jax.org/app/) ("hpo")
 - [ChEBI ontology](https://www.ebi.ac.uk/chebi/) ("chebi")
-- [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) ("taxon")
 - [CIDO: Coronavirus Infectious Disease Ontology](https://github.com/CIDO-ontology/cido) ("cido")
 - [DeCS](https://decs.bvsalud.org/en/) (September 2020 version - "decsEN")
 

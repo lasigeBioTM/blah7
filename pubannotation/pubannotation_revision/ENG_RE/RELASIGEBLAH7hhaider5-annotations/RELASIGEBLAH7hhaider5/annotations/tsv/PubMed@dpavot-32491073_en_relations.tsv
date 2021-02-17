@@ -1,0 +1,31 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	12-19	DOID_4	denotes	disease
+T1	26-34	DOID_0080600	denotes	COVID-19
+T2	116-124	DOID_0080600	denotes	COVID-19
+T3	241-249	DOID_0080600	denotes	COVID-19
+T5	283-294	DOID_820	denotes	myocarditis
+T4	283-294	HP_0012819	denotes	myocarditis
+T6	377-391	CHEBI_35457	denotes	ACE inhibitors
+T7	381-391	CHEBI_35222	denotes	inhibitors
+T8	396-407	CHEBI_2719	denotes	angiotensin
+T9	450-462	HP_0000822	denotes	hypertension
+T10	450-462	DOID_10763	denotes	hypertension
+T11	467-480	HP_0001635	denotes	heart failure
+T12	484-492	DOID_0080600	denotes	COVID-19
+T13	562-570	DOID_0080600	denotes	COVID-19
+R0	T0	T6	effect	disease,ACE inhibitors
+R1	T0	T8	effect	disease,angiotensin
+R10	T10	T6	no_relation	hypertension,ACE inhibitors
+R11	T10	T8	effect	hypertension,angiotensin
+R12	T12	T6	effect	COVID-19,ACE inhibitors
+R13	T12	T8	effect	COVID-19,angiotensin
+R14	T13	T6	no_relation	COVID-19,ACE inhibitors
+R15	T13	T8	effect	COVID-19,angiotensin
+R2	T1	T6	effect	COVID-19,ACE inhibitors
+R3	T1	T8	effect	COVID-19,angiotensin
+R4	T2	T6	effect	COVID-19,ACE inhibitors
+R5	T2	T8	effect	COVID-19,angiotensin
+R6	T3	T6	effect	COVID-19,ACE inhibitors
+R7	T3	T8	effect	COVID-19,angiotensin
+R8	T5	T6	effect	myocarditis,ACE inhibitors
+R9	T5	T8	effect	myocarditis,angiotensin

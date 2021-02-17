@@ -1,0 +1,18 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	0-8	DOID_0080600	denotes	COVID-19
+T1	14-21	DOID_4	denotes	disease
+T6	44-54	DOID_0080600	denotes	SARS-CoV-2
+T7	159-192	DOID_0080600	denotes	an international health emergency
+T8	225-233	DOID_0080600	denotes	pandemic
+T2	351-359	DOID_0080600	denotes	COVID-19
+T3	478-484	HP_0012828	denotes	severe
+T4	612-620	DOID_0080600	denotes	COVID-19
+T5	822-826	GO_0033867	denotes	fast
+T9	831-840	DOID_0080600	denotes	infection
+R0	T5	T3	no_relation	fast,severe
+R1	T0	T6	effect	COVID-19,SARS-CoV-2
+R2	T0	T7	effect	COVID-19,an international health emergency
+R3	T6	T7	effect	SARS-CoV-2,an international health emergency
+R4	T0	T8	effect	COVID-19,pandemic
+R5	T6	T8	effect	SARS-CoV-2,pandemic
+R6	T0	T9	effect	COVID-19,infection

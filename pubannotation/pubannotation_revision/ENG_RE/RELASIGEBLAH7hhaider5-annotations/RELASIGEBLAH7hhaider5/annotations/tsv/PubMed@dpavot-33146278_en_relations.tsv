@@ -1,0 +1,30 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	0-8	DOID_0080600	denotes	COVID-19
+T1	15-20	HP_0011009	denotes	acute
+T2	32-52	HP_0002098	denotes	respiratory distress
+T3	53-61	DOID_225	denotes	syndrome
+T4	63-67	DOID_11394	denotes	ARDS
+T5	117-124	DOID_4	denotes	disease
+T6	161-165	HP_0012825	denotes	mild
+T7	169-175	HP_0012828	denotes	severe
+T8	270-278	DOID_0080600	denotes	COVID-19
+T9	408-415	DOID_4	denotes	disease
+T10	555-562	DOID_4	denotes	disease
+T11	620-625	HP_0011009	denotes	acute
+T12	630-637	HP_0011010	denotes	chronic
+T13	816-824	DOID_0080600	denotes	COVID-19
+T14	904-911	HP_0011010	denotes	chronic
+T15	1138-1142	CHEBI_25434	denotes	lost
+T16	1305-1313	DOID_0080600	denotes	COVID-19
+T17	1402-1409	DOID_4	denotes	disease
+T18	1481-1488	DOID_4	denotes	disease
+T19	1545-1553	DOID_0080600	denotes	COVID-19
+T20	1640-1647	DOID_4	denotes	disease
+R0	T0	T15	no_relation	COVID-19,lost
+R1	T4	T15	no_relation	ARDS,lost
+R2	T5	T15	no_relation	disease,lost
+R3	T8	T15	no_relation	COVID-19,lost
+R4	T9	T15	no_relation	disease,lost
+R5	T10	T15	no_relation	disease,lost
+R6	T16	T15	no_relation	COVID-19,lost
+R7	T20	T15	no_relation	disease,lost

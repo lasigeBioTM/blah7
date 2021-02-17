@@ -1,0 +1,84 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T1	28-61	DOID_2945	denotes	severe acute respiratory syndrome
+T0	28-34	HP_0012828	denotes	severe
+T2	35-40	HP_0011009	denotes	acute
+T3	53-61	DOID_225	denotes	syndrome
+T4	170-190	DOID_0080600	denotes	SARS-CoV-2 infection
+T5	204-211	DOID_4	denotes	disease
+T6	219-227	DOID_0080600	denotes	COVID-19
+T7	232-247	DOID_10533	denotes	viral pneumonia
+T9	238-247	DOID_552	denotes	pneumonia
+T8	238-247	HP_0002090	denotes	pneumonia
+T11	348-383	DOID_11394	denotes	acute respiratory distress syndrome
+T10	348-353	HP_0011009	denotes	acute
+T12	354-374	HP_0002098	denotes	respiratory distress
+T13	375-383	DOID_225	denotes	syndrome
+T14	423-427	CHEBI_50906	denotes	role
+T15	431-446	CHEBI_50858	denotes	corticosteroids
+T17	463-498	DOID_11394	denotes	acute respiratory distress syndrome
+T16	463-468	HP_0011009	denotes	acute
+T18	469-489	HP_0002098	denotes	respiratory distress
+T19	490-498	DOID_225	denotes	syndrome
+T20	596-609	CHEBI_41879	denotes	dexamethasone
+T21	746-754	HP_0012826	denotes	moderate
+T22	758-764	HP_0012828	denotes	severe
+T24	765-800	DOID_11394	denotes	acute respiratory distress syndrome
+T23	765-770	HP_0011009	denotes	acute
+T25	771-791	HP_0002098	denotes	respiratory distress
+T26	792-800	DOID_225	denotes	syndrome
+T27	830-838	DOID_0080600	denotes	COVID-19
+T28	1021-1029	HP_0012826	denotes	moderate
+T29	1033-1039	HP_0012828	denotes	severe
+T31	1040-1075	DOID_11394	denotes	acute respiratory distress syndrome
+T30	1040-1045	HP_0011009	denotes	acute
+T32	1046-1066	HP_0002098	denotes	respiratory distress
+T33	1067-1075	DOID_225	denotes	syndrome
+T34	1116-1124	DOID_0080600	denotes	COVID-19
+T35	1205-1218	CHEBI_41879	denotes	dexamethasone
+T36	1270-1283	CHEBI_41879	denotes	dexamethasone
+T37	1349-1362	CHEBI_41879	denotes	dexamethasone
+T38	1415-1428	CHEBI_41879	denotes	dexamethasone
+R0	T1	T14	effect	severe acute respiratory syndrome,role
+R1	T1	T15	effect	severe acute respiratory syndrome,corticosteroids
+R2	T1	T20	effect	severe acute respiratory syndrome,dexamethasone
+R3	T1	T35	effect	severe acute respiratory syndrome,dexamethasone
+R4	T4	T14	effect	SARS-CoV-2 infection,role
+R5	T4	T15	effect	SARS-CoV-2 infection,corticosteroids
+R6	T4	T20	effect	SARS-CoV-2 infection,dexamethasone
+R7	T4	T35	effect	SARS-CoV-2 infection,dexamethasone
+R8	T5	T14	effect	disease,role
+R9	T5	T15	effect	disease,corticosteroids
+R10	T5	T20	effect	disease,dexamethasone
+R11	T5	T35	effect	disease,dexamethasone
+R12	T6	T14	effect	COVID-19,role
+R13	T6	T15	effect	COVID-19,corticosteroids
+R14	T6	T20	effect	COVID-19,dexamethasone
+R15	T6	T35	effect	COVID-19,dexamethasone
+R16	T7	T14	effect	viral pneumonia,role
+R17	T7	T15	effect	viral pneumonia,corticosteroids
+R18	T7	T20	effect	viral pneumonia,dexamethasone
+R19	T7	T35	effect	viral pneumonia,dexamethasone
+R20	T13	T14	effect	syndrome,role
+R21	T13	T15	effect	syndrome,corticosteroids
+R22	T13	T20	effect	syndrome,dexamethasone
+R23	T13	T35	effect	syndrome,dexamethasone
+R24	T17	T14	effect	acute respiratory distress syndrome,role
+R25	T17	T15	effect	acute respiratory distress syndrome,corticosteroids
+R26	T17	T20	effect	acute respiratory distress syndrome,dexamethasone
+R27	T17	T35	effect	acute respiratory distress syndrome,dexamethasone
+R28	T24	T14	effect	acute respiratory distress syndrome,role
+R29	T24	T15	effect	acute respiratory distress syndrome,corticosteroids
+R30	T24	T20	effect	acute respiratory distress syndrome,dexamethasone
+R31	T24	T35	effect	acute respiratory distress syndrome,dexamethasone
+R32	T27	T14	effect	COVID-19,role
+R33	T27	T15	effect	COVID-19,corticosteroids
+R34	T27	T20	effect	COVID-19,dexamethasone
+R35	T27	T35	effect	COVID-19,dexamethasone
+R36	T33	T14	effect	syndrome,role
+R37	T33	T15	effect	syndrome,corticosteroids
+R38	T33	T20	effect	syndrome,dexamethasone
+R39	T33	T35	effect	syndrome,dexamethasone
+R40	T34	T14	effect	COVID-19,role
+R41	T34	T15	effect	COVID-19,corticosteroids
+R42	T34	T20	effect	COVID-19,dexamethasone
+R43	T34	T35	effect	COVID-19,dexamethasone

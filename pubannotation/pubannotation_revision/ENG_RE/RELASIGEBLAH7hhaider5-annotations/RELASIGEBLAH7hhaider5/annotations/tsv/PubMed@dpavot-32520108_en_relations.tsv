@@ -1,0 +1,12 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	97-105	DOID_0080600	denotes	COVID-19
+T1	187-195	DOID_0080600	denotes	COVID-19
+T2	396-404	DOID_0080600	denotes	COVID-19
+T7	513-522	DOID_0080600	denotes	lethality
+T6	627-666	DOID_0080600	denotes	Average intensive care bed availability
+T5	767-777	DOID_0080600	denotes	indicators
+T3	791-799	DOID_0080600	denotes	COVID-19
+T4	810-823	HP_0001425	denotes	heterogeneous
+R1	T6	T7	effect	Average intensive care bed availability,lethality
+R2	T5	T7	effect	indicators,lethality
+R3	T4	T6	effect	heterogeneous,Average intensive care bed availability

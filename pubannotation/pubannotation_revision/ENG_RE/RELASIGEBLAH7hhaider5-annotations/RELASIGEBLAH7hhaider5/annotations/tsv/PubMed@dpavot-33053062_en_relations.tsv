@@ -1,0 +1,32 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T24	136-168	HP_0012835	denotes	Brazilian adults aged 50 or over
+T2	318-323	GO_0007568	denotes	Aging
+T23	325-336	HP_0012835	denotes	ELSI-Brazil
+T3	383-387	HP_0012835	denotes	left
+T25	431-449	HP_0012835	denotes	study participants
+T6	505-509	HP_0012835	denotes	left
+T7	582-586	HP_0012835	denotes	left
+T8	627-631	CHEBI_75830	denotes	home
+T9	644-652	CHEBI_23888	denotes	medicine
+T11	808-812	HP_0012835	denotes	left
+T12	813-817	CHEBI_75830	denotes	home
+T13	837-841	DOID_0111084	denotes	face
+T14	895-899	HP_0012835	denotes	left
+T15	900-904	CHEBI_75830	denotes	home
+T16	930-934	HP_0012835	denotes	left
+T17	935-939	CHEBI_75830	denotes	home
+T18	984-988	HP_0012835	denotes	left
+T19	989-993	CHEBI_75830	denotes	home
+T20	1170-1174	HP_0012835	denotes	left
+T21	1175-1179	CHEBI_75830	denotes	home
+T22	1365-1369	DOID_0111084	denotes	face
+R0	T2	T3	no_relation	Aging,left
+R1	T2	T6	no_relation	Aging,left
+R2	T2	T7	no_relation	Aging,left
+R3	T2	T11	no_relation	Aging,left
+R4	T2	T14	no_relation	Aging,left
+R5	T2	T16	no_relation	Aging,left
+R6	T2	T18	no_relation	Aging,left
+R7	T2	T20	no_relation	Aging,left
+R8	T24	T23	effect	Brazilian adults aged 50 or over,ELSI-Brazil
+R9	T25	T23	effect	study participants,ELSI-Brazil

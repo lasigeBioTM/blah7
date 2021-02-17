@@ -1,0 +1,9 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	96-104	DOID_0080600	denotes	COVID-19
+T1	412-420	DOID_0080600	denotes	COVID-19
+T2	564-569	CHEBI_22695	denotes	bases
+T3	615-623	CHEBI_33250	denotes	elements
+R0	T0	T2	effect	COVID-19,bases
+R1	T0	T3	no_relation	COVID-19,elements
+R2	T1	T2	effect	COVID-19,bases
+R3	T1	T3	effect	COVID-19,elements

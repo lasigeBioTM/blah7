@@ -1,0 +1,29 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	21-29	HP_0040282	denotes	frequent
+T2	65-98	DOID_2945	denotes	severe acute respiratory syndrome
+T1	65-71	HP_0012828	denotes	severe
+T3	72-77	HP_0011009	denotes	acute
+T4	90-98	DOID_225	denotes	syndrome
+T14	114-124	HP_0040282	denotes	SARS-CoV-2
+T15	369-397	HP_0040282	denotes	spectrum of clinical disease
+T16	408-413	HP_0040282	denotes	fever
+T6	415-423	HP_0012735	denotes	coughing
+T7	428-435	HP_0002094	denotes	dyspnea
+T17	541-566	HP_0040282	denotes	gastrointestinal symptoms
+T18	571-593	HP_0040282	denotes	loss of taste or smell
+T19	619-629	HP_0040282	denotes	mild cases
+T11	631-638	HP_0002094	denotes	dyspnea
+T12	643-651	HP_0040282	denotes	frequent
+T20	658-680	HP_0040282	denotes	severe and fatal cases
+R1	T14	T2	effect	SARS-CoV-2,severe acute respiratory syndrome
+R2	T2	T15	effect	severe acute respiratory syndrome,spectrum of clinical disease
+R3	T15	T16	effect	spectrum of clinical disease,fever
+R4	T15	T6	effect	spectrum of clinical disease,coughing
+R5	T15	T7	effect	spectrum of clinical disease,dyspnea
+R6	T15	T17	effect	spectrum of clinical disease,gastrointestinal symptoms
+R7	T15	T18	effect	spectrum of clinical disease,loss of taste or smell
+R8	T17	T19	effect	gastrointestinal symptoms,mild cases
+R9	T18	T19	effect	loss of taste or smell,mild cases
+R10	T11	T20	effect	dyspnea,severe and fatal cases
+R11	T19	T15	effect	mild cases,spectrum of clinical disease
+R12	T20	T15	effect	severe and fatal cases,spectrum of clinical disease

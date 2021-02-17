@@ -1,0 +1,13 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	20-26	HP_0012828	denotes	severe
+T1	27-32	HP_0011009	denotes	acute
+T2	114-123	DOID_8469	denotes	Influenza
+T3	241-249	DOID_0080600	denotes	COVID-19
+T4	759-767	DOID_0080600	denotes	COVID-19
+T5	1372-1380	DOID_0080600	denotes	COVID-19
+T6	1425-1431	HP_0012828	denotes	severe
+T7	1441-1449	DOID_0080600	denotes	COVID-19
+T8	1718-1724	HP_0012828	denotes	severe
+T9	1725-1733	DOID_0080600	denotes	COVID-19
+R1	T6	T7	effect	severe,COVID-19
+R2	T8	T9	effect	severe,COVID-19

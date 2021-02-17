@@ -1,0 +1,26 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	21-29	HP_0040282	denotes	frequent
+T2	65-98	DOID_2945	denotes	severe acute respiratory syndrome
+T1	65-71	HP_0012828	denotes	severe
+T3	72-77	HP_0011009	denotes	acute
+T4	90-98	DOID_225	denotes	syndrome
+T5	390-397	DOID_4	denotes	disease
+T6	415-423	HP_0012735	denotes	coughing
+T7	428-435	HP_0002094	denotes	dyspnea
+T8	450-458	HP_0040282	denotes	frequent
+T9	579-584	GO_0050909	denotes	taste
+T10	619-623	HP_0012825	denotes	mild
+T11	631-638	HP_0002094	denotes	dyspnea
+T12	643-651	HP_0040282	denotes	frequent
+T13	658-664	HP_0012828	denotes	severe
+R0	T9	T0	no_relation	taste,frequent
+R1	T9	T6	no_relation	taste,coughing
+R2	T9	T7	no_relation	taste,dyspnea
+R3	T9	T8	no_relation	taste,frequent
+R4	T9	T10	no_relation	taste,mild
+R5	T9	T11	no_relation	taste,dyspnea
+R6	T9	T13	no_relation	taste,severe
+R7	T2	T6	effect	severe acute respiratory syndrome,coughing
+R8	T2	T7	effect	severe acute respiratory syndrome,dyspnea
+R9	T2	T9	effect	severe acute respiratory syndrome,taste
+R10	T2	T11	effect	severe acute respiratory syndrome,dyspnea

@@ -1,0 +1,36 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	26-29	CHEBI_33697	denotes	RNA
+T1	54-60	HP_0012828	denotes	severe
+T2	61-66	HP_0011009	denotes	acute
+T3	79-86	DOID_4	denotes	disease
+T4	96-104	DOID_0080600	denotes	COVID-19
+T5	115-123	DOID_0080600	denotes	COVID-19
+T6	153-160	DOID_4	denotes	disease
+T7	181-187	HP_0012828	denotes	severe
+T8	248-257	GO_0009058	denotes	synthesis
+T9	383-391	DOID_0080600	denotes	COVID-19
+T10	593-601	DOID_0080600	denotes	COVID-19
+T11	1093-1101	CHEBI_16919	denotes	creatine
+T12	1202-1222	DOID_0080600	denotes	SARS-CoV-2 infection
+T13	1332-1340	DOID_0080600	denotes	COVID-19
+T14	1356-1361	HP_0011009	denotes	acute
+T15	1424-1444	DOID_0080600	denotes	SARS-CoV-2 infection
+R0	T8	T1	no_relation	synthesis,severe
+R1	T8	T7	no_relation	synthesis,severe
+R2	T8	T14	effect	synthesis,acute
+R3	T3	T0	effect	disease,RNA
+R4	T3	T11	effect	disease,creatine
+R5	T4	T0	no_relation	COVID-19,RNA
+R6	T4	T11	no_relation	COVID-19,creatine
+R7	T5	T0	no_relation	COVID-19,RNA
+R8	T5	T11	no_relation	COVID-19,creatine
+R9	T6	T0	no_relation	disease,RNA
+R10	T6	T11	no_relation	disease,creatine
+R11	T9	T0	effect	COVID-19,RNA
+R12	T10	T0	no_relation	COVID-19,RNA
+R13	T12	T0	effect	SARS-CoV-2 infection,RNA
+R14	T12	T11	no_relation	SARS-CoV-2 infection,creatine
+R15	T13	T0	effect	COVID-19,RNA
+R16	T13	T11	no_relation	COVID-19,creatine
+R17	T15	T0	effect	SARS-CoV-2 infection,RNA
+R18	T15	T11	no_relation	SARS-CoV-2 infection,creatine

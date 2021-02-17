@@ -1,0 +1,9 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	96-113	DOID_0080600	denotes	COVID-19 pandemic
+T4	384-397	DOID_0080600	denotes	global health
+T1	412-429	DOID_0080600	denotes	COVID-19 pandemic
+T2	564-569	CHEBI_22695	denotes	bases
+T3	615-623	CHEBI_33250	denotes	elements
+R0	T0	T2	no_relation	COVID-19 pandemic,bases
+R1	T0	T3	no_relation	COVID-19 pandemic,elements
+R2	T4	T1	effect	global health,COVID-19 pandemic

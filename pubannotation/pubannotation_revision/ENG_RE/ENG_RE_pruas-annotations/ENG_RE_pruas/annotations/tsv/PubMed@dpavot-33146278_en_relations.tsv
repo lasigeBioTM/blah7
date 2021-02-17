@@ -1,0 +1,31 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T21	0-8	HP_0033141	denotes	COVID-19
+T0	0-8	DOID_0080600	denotes	COVID-19
+T1	15-20	HP_0011009	denotes	acute
+T2	32-52	HP_0002098	denotes	respiratory distress
+T4	63-67	DOID_11394	denotes	ARDS
+T5	117-124	DOID_4	denotes	disease
+T6	161-165	HP_0012825	denotes	mild
+T7	169-175	HP_0012828	denotes	severe
+T22	270-278	HP_0033141	denotes	COVID-19
+T8	270-278	DOID_0080600	denotes	COVID-19
+T9	408-415	DOID_4	denotes	disease
+T10	555-562	DOID_4	denotes	disease
+T11	620-625	HP_0011009	denotes	acute
+T12	630-637	HP_0011010	denotes	chronic
+T23	816-824	HP_0033141	denotes	COVID-19
+T13	816-824	DOID_0080600	denotes	COVID-19
+T14	904-911	HP_0011010	denotes	chronic
+T16	1305-1313	DOID_0080600	denotes	COVID-19
+T25	1310-1311	HP_0033141	denotes	-
+T24	1310-1311	HP_0033141	denotes	-
+T17	1402-1409	DOID_4	denotes	disease
+T18	1481-1488	DOID_4	denotes	disease
+T26	1545-1553	HP_0033141	denotes	COVID-19
+T19	1545-1553	DOID_0080600	denotes	COVID-19
+T20	1640-1647	DOID_4	denotes	disease
+R1	T1	T2	effect	acute,respiratory distress
+R2	T1	T4	effect	acute,ARDS
+R3	T22	T11	effect	COVID-19,acute
+R4	T22	T12	effect	COVID-19,chronic
+R5	T8	T11	effect	COVID-19,acute

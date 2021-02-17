@@ -1,0 +1,65 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T17	0-10	DOID_0080600	denotes	SARS-CoV-2
+T16	26-35	DOID_0080600	denotes	RNA virus
+T1	54-60	HP_0012828	denotes	severe
+T2	61-66	HP_0011009	denotes	acute
+T3	67-86	DOID_4	denotes	respiratory disease
+T4	96-104	DOID_0080600	denotes	COVID-19
+T5	115-123	DOID_0080600	denotes	COVID-19
+T18	143-160	DOID_0080600	denotes	pulmonary disease
+T6	153-160	DOID_4	denotes	disease
+T7	181-187	HP_0012828	denotes	severe
+T8	248-257	GO_0009058	denotes	synthesis
+T9	383-391	DOID_0080600	denotes	COVID-19
+T10	593-601	DOID_0080600	denotes	COVID-19
+T25	958-994	DOID_0080600	denotes	underlying cardiovascular conditions
+T20	1009-1044	DOID_0080600	denotes	high-sensitivity cardiac troponin I
+T19	1026-1044	DOID_0080600	denotes	cardiac troponin I
+T21	1046-1087	DOID_0080600	denotes	N-terminal pro-B-type natriuretic peptide
+T11	1093-1111	CHEBI_16919	denotes	creatine kinase-MB
+T22	1117-1138	DOID_0080600	denotes	cardiac complications
+T24	1160-1183	DOID_0080600	denotes	increased risk of death
+T23	1170-1183	DOID_0080600	denotes	risk of death
+T12	1202-1222	DOID_0080600	denotes	SARS-CoV-2 infection
+T13	1332-1340	DOID_0080600	denotes	COVID-19
+T14	1356-1361	HP_0011009	denotes	acute
+T15	1424-1444	DOID_0080600	denotes	SARS-CoV-2 infection
+R0	T8	T1	no_relation	synthesis,severe
+R1	T8	T7	no_relation	synthesis,severe
+R14	T12	T11	effect	SARS-CoV-2 infection,creatine kinase-MB
+R16	T13	T11	effect	COVID-19,creatine kinase-MB
+R18	T15	T11	effect	SARS-CoV-2 infection,creatine kinase-MB
+R2	T8	T14	no_relation	synthesis,acute
+R4	T3	T11	effect	respiratory disease,creatine kinase-MB
+R6	T4	T11	no_relation	COVID-19,creatine kinase-MB
+R19	T17	T16	effect	SARS-CoV-2,RNA virus
+R20	T17	T4	effect	SARS-CoV-2,COVID-19
+R21	T4	T3	effect	COVID-19,respiratory disease
+R22	T4	T18	effect	COVID-19,pulmonary disease
+R23	T4	T15	effect	COVID-19,SARS-CoV-2 infection
+R24	T16	T4	effect	RNA virus,COVID-19
+R25	T4	T20	effect	COVID-19,high-sensitivity cardiac troponin I
+R26	T4	T19	effect	COVID-19,cardiac troponin I
+R27	T4	T21	effect	COVID-19,N-terminal pro-B-type natriuretic peptide
+R28	T4	T11	effect	COVID-19,creatine kinase-MB
+R29	T4	T22	effect	COVID-19,cardiac complications
+R30	T20	T24	effect	high-sensitivity cardiac troponin I,increased risk of death
+R31	T20	T23	effect	high-sensitivity cardiac troponin I,risk of death
+R32	T19	T24	effect	cardiac troponin I,increased risk of death
+R33	T19	T23	effect	cardiac troponin I,risk of death
+R34	T21	T24	effect	N-terminal pro-B-type natriuretic peptide,increased risk of death
+R35	T21	T23	effect	N-terminal pro-B-type natriuretic peptide,risk of death
+R36	T11	T24	effect	creatine kinase-MB,increased risk of death
+R37	T11	T23	effect	creatine kinase-MB,risk of death
+R38	T22	T24	effect	cardiac complications,increased risk of death
+R39	T22	T23	effect	cardiac complications,risk of death
+R40	T18	T11	effect	pulmonary disease,creatine kinase-MB
+R41	T18	T20	effect	pulmonary disease,high-sensitivity cardiac troponin I
+R42	T18	T19	effect	pulmonary disease,cardiac troponin I
+R43	T18	T21	effect	pulmonary disease,N-terminal pro-B-type natriuretic peptide
+R44	T18	T11	effect	pulmonary disease,creatine kinase-MB
+R45	T18	T22	effect	pulmonary disease,cardiac complications
+R46	T18	T24	effect	pulmonary disease,increased risk of death
+R47	T18	T23	effect	pulmonary disease,risk of death
+R48	T25	T24	effect	underlying cardiovascular conditions,increased risk of death
+R49	T25	T23	effect	underlying cardiovascular conditions,risk of death

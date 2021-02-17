@@ -1,0 +1,10 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	120-128	DOID_0080600	denotes	COVID-19
+T1	456-464	HP_0032320	denotes	affected
+T2	742-747	GO_0030431	denotes	sleep
+T3	1005-1013	DOID_0080600	denotes	COVID-19
+T4	1118-1124	CHEBI_5133	denotes	action
+T5	1321-1329	DOID_0080600	denotes	COVID-19
+R0	T2	T1	no_relation	sleep,affected
+R1	T0	T4	no_relation	COVID-19,action
+R2	T3	T4	no_relation	COVID-19,action

@@ -1,0 +1,34 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	120-128	DOID_0080600	denotes	COVID-19
+T13	250-271	DOID_0080600	denotes	socioeconomic profile
+T14	300-309	DOID_0080600	denotes	isolation
+T18	424-442	DOID_0080600	denotes	Social interaction
+T1	456-464	HP_0032320	denotes	affected
+T16	490-506	DOID_0080600	denotes	higher education
+T15	497-506	DOID_0080600	denotes	education
+T17	511-517	DOID_0080600	denotes	income
+T2	742-747	GO_0030431	denotes	sleep
+T19	791-814	DOID_0080600	denotes	habitability conditions
+T11	951-967	DOID_0080600	denotes	social isolation
+T3	1005-1013	DOID_0080600	denotes	COVID-19
+T6	1098-1124	DOID_0080600	denotes	pandemic mitigation action
+T7	1135-1141	DOID_0080600	denotes	income
+T8	1143-1152	DOID_0080600	denotes	education
+T9	1154-1157	DOID_0080600	denotes	age
+T10	1163-1169	DOID_0080600	denotes	gender
+T12	1225-1240	DOID_0080600	denotes	control measure
+T5	1321-1329	DOID_0080600	denotes	COVID-19
+R0	T2	T1	no_relation	sleep,affected
+R1	T6	T7	effect	pandemic mitigation action,income
+R2	T6	T8	effect	pandemic mitigation action,education
+R3	T6	T9	effect	pandemic mitigation action,age
+R4	T6	T10	effect	pandemic mitigation action,gender
+R5	T0	T11	effect	COVID-19,social isolation
+R6	T11	T12	effect	social isolation,control measure
+R7	T13	T14	effect	socioeconomic profile,isolation
+R8	T18	T16	effect	Social interaction,higher education
+R9	T18	T15	effect	Social interaction,education
+R10	T18	T17	effect	Social interaction,income
+R11	T18	T19	effect	Social interaction,habitability conditions
+R12	T19	T11	effect	habitability conditions,social isolation
+R13	T0	T18	effect	COVID-19,Social interaction

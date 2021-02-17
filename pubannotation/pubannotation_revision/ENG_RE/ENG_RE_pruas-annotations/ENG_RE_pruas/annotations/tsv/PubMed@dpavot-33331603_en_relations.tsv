@@ -1,0 +1,18 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	37-45	DOID_225	denotes	syndrome
+T1	85-102	HP_0003674	denotes	onset of symptoms
+T10	119-127	HP_0033141	denotes	COVID-19
+T2	119-127	DOID_0080600	denotes	COVID-19
+T3	187-195	DOID_225	denotes	syndrome
+T11	224-232	HP_0033141	denotes	COVID-19
+T4	224-232	DOID_0080600	denotes	COVID-19
+T5	408-421	HP_0003674	denotes	symptom onset
+T6	575-588	HP_0003674	denotes	symptom onset
+T7	832-839	CHEBI_59132	denotes	antigen
+T8	914-927	HP_0003674	denotes	symptom onset
+T12	955-963	HP_0033141	denotes	COVID-19
+T9	955-963	DOID_0080600	denotes	COVID-19
+R0	T0	T7	effect	syndrome,antigen
+R1	T2	T7	effect	COVID-19,antigen
+R2	T3	T7	effect	syndrome,antigen
+R3	T9	T7	effect	COVID-19,antigen

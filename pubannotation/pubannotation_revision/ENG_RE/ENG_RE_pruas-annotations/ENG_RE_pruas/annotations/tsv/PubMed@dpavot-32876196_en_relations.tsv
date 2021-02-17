@@ -1,0 +1,57 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	26-29	CHEBI_33697	denotes	RNA
+T1	54-60	HP_0012828	denotes	severe
+T2	61-66	HP_0011009	denotes	acute
+T17	67-86	HP_0002795	denotes	respiratory disease
+T16	67-86	DOID_1579	denotes	respiratory disease
+T18	96-104	HP_0033141	denotes	COVID-19
+T4	96-104	DOID_0080600	denotes	COVID-19
+T19	115-123	HP_0033141	denotes	COVID-19
+T5	115-123	DOID_0080600	denotes	COVID-19
+T21	143-160	HP_0002795	denotes	pulmonary disease
+T20	143-160	DOID_850	denotes	pulmonary disease
+T7	181-187	HP_0012828	denotes	severe
+T22	188-209	HP_0001626	denotes	cardiovascular damage
+T23	276-293	HP_0001637	denotes	myocardial injury
+T24	383-391	HP_0033141	denotes	COVID-19
+T9	383-391	DOID_0080600	denotes	COVID-19
+T27	593-601	HP_0033141	denotes	COVID-19
+T10	593-601	DOID_0080600	denotes	COVID-19
+T25	1068-1087	CHEBI_80233	denotes	natriuretic peptide
+T11	1093-1101	CHEBI_16919	denotes	creatine
+T26	1202-1222	HP_0033141	denotes	SARS-CoV-2 infection
+T12	1202-1222	DOID_0080600	denotes	SARS-CoV-2 infection
+T28	1332-1340	HP_0033141	denotes	COVID-19
+T13	1332-1340	DOID_0080600	denotes	COVID-19
+T14	1356-1361	HP_0011009	denotes	acute
+T30	1362-1391	HP_0030872	denotes	cardiovascular decompensation
+T29	1424-1444	HP_0033141	denotes	SARS-CoV-2 infection
+T15	1424-1444	DOID_0080600	denotes	SARS-CoV-2 infection
+R11	T9	T0	effect	COVID-19,RNA
+R14	T12	T11	effect	SARS-CoV-2 infection,creatine
+R16	T13	T11	no_relation	COVID-19,creatine
+R18	T15	T11	effect	SARS-CoV-2 infection,creatine
+R7	T5	T0	no_relation	COVID-19,RNA
+R5	T4	T0	no_relation	COVID-19,RNA
+R19	T2	T17	effect	acute,respiratory disease
+R20	T1	T17	effect	severe,respiratory disease
+R21	T1	T16	effect	severe,respiratory disease
+R22	T2	T16	effect	acute,respiratory disease
+R23	T7	T22	effect	severe,cardiovascular damage
+R24	T19	T22	effect	COVID-19,cardiovascular damage
+R25	T5	T22	effect	COVID-19,cardiovascular damage
+R26	T18	T22	effect	COVID-19,cardiovascular damage
+R27	T4	T22	effect	COVID-19,cardiovascular damage
+R28	T24	T23	effect	COVID-19,myocardial injury
+R29	T9	T23	effect	COVID-19,myocardial injury
+R30	T26	T11	effect	SARS-CoV-2 infection,creatine
+R31	T29	T11	effect	SARS-CoV-2 infection,creatine
+R32	T28	T11	effect	COVID-19,creatine
+R33	T13	T25	effect	COVID-19,natriuretic peptide
+R34	T28	T25	effect	COVID-19,natriuretic peptide
+R35	T12	T25	effect	SARS-CoV-2 infection,natriuretic peptide
+R36	T26	T15	effect	SARS-CoV-2 infection,SARS-CoV-2 infection
+R37	T29	T25	effect	SARS-CoV-2 infection,natriuretic peptide
+R38	T28	T30	effect	COVID-19,cardiovascular decompensation
+R39	T13	T30	effect	COVID-19,cardiovascular decompensation
+R40	T14	T30	effect	acute,cardiovascular decompensation

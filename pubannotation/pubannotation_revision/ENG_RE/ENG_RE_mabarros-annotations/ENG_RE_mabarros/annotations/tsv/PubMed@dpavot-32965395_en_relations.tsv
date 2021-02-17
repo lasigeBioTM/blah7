@@ -1,0 +1,41 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	44-48	CHEBI_50906	denotes	role
+T1	56-63	DOID_4	denotes	disease
+T2	64-72	HP_0012824	denotes	severity
+T3	90-98	DOID_0080600	denotes	COVID-19
+T4	267-278	CHEBI_64360	denotes	tocilizumab
+T5	404-412	DOID_0080600	denotes	COVID-19
+T6	503-514	CHEBI_64360	denotes	tocilizumab
+T7	584-592	HP_0012826	denotes	moderate
+T8	596-602	HP_0012828	denotes	severe
+T9	603-611	DOID_0080600	denotes	COVID-19
+T10	736-744	CHEBI_82594	denotes	ferritin
+T12	930-938	DOID_0080600	denotes	COVID-19
+T14	1562-1583	GO_0006954	denotes	inflammatory response
+T15	1587-1595	DOID_0080600	denotes	COVID-19
+R0	T14	T2	no_relation	inflammatory response,severity
+R1	T14	T7	no_relation	inflammatory response,moderate
+R10	T3	T6	effect	COVID-19,tocilizumab
+R11	T3	T10	effect	COVID-19,ferritin
+R13	T5	T0	no_relation	COVID-19,role
+R14	T5	T4	effect	COVID-19,tocilizumab
+R15	T5	T6	effect	COVID-19,tocilizumab
+R16	T5	T10	effect	COVID-19,ferritin
+R18	T9	T0	no_relation	COVID-19,role
+R19	T9	T4	effect	COVID-19,tocilizumab
+R2	T14	T8	no_relation	inflammatory response,severe
+R20	T9	T6	effect	COVID-19,tocilizumab
+R21	T9	T10	effect	COVID-19,ferritin
+R23	T12	T0	no_relation	COVID-19,role
+R24	T12	T4	effect	COVID-19,tocilizumab
+R25	T12	T6	no_relation	COVID-19,tocilizumab
+R26	T12	T10	no_relation	COVID-19,ferritin
+R28	T15	T0	no_relation	COVID-19,role
+R29	T15	T4	effect	COVID-19,tocilizumab
+R30	T15	T6	no_relation	COVID-19,tocilizumab
+R31	T15	T10	no_relation	COVID-19,ferritin
+R4	T1	T4	effect	disease,tocilizumab
+R5	T1	T6	effect	disease,tocilizumab
+R6	T1	T10	effect	disease,ferritin
+R8	T3	T0	no_relation	COVID-19,role
+R9	T3	T4	effect	COVID-19,tocilizumab

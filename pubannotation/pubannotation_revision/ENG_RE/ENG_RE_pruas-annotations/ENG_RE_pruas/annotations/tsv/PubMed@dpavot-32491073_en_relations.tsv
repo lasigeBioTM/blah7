@@ -1,0 +1,33 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T14	0-24	DOID_0080600	denotes	Coronavirus disease 2019
+T1	26-34	DOID_0080600	denotes	COVID-19
+T2	116-124	DOID_0080600	denotes	COVID-19
+T15	191-219	HP_0001626	denotes	Cardiovascular comorbidities
+T3	241-249	DOID_0080600	denotes	COVID-19
+T5	283-294	DOID_820	denotes	myocarditis
+T4	283-294	HP_0012819	denotes	myocarditis
+T6	377-391	CHEBI_35457	denotes	ACE inhibitors
+T16	396-425	CHEBI_61016	denotes	angiotensin receptor blockers
+T9	450-462	HP_0000822	denotes	hypertension
+T10	450-462	DOID_10763	denotes	hypertension
+T11	467-480	HP_0001635	denotes	heart failure
+T12	484-492	DOID_0080600	denotes	COVID-19
+T13	562-570	DOID_0080600	denotes	COVID-19
+R10	T10	T6	negative	hypertension,ACE inhibitors
+R11	T10	T6	negative	hypertension,ACE inhibitors
+R12	T16	T9	negative	angiotensin receptor blockers,hypertension
+R13	T16	T11	negative	angiotensin receptor blockers,heart failure
+R14	T6	T10	negative	ACE inhibitors,hypertension
+R15	T6	T11	negative	ACE inhibitors,heart failure
+R16	T15	T3	effect	Cardiovascular comorbidities,COVID-19
+R17	T5	T3	effect	myocarditis,COVID-19
+R18	T5	T12	effect	myocarditis,COVID-19
+R19	T15	T12	effect	Cardiovascular comorbidities,COVID-19
+R20	T15	T13	effect	Cardiovascular comorbidities,COVID-19
+R21	T15	T2	effect	Cardiovascular comorbidities,COVID-19
+R22	T15	T1	effect	Cardiovascular comorbidities,COVID-19
+R23	T15	T14	effect	Cardiovascular comorbidities,Coronavirus disease 2019
+R24	T5	T13	effect	myocarditis,COVID-19
+R25	T5	T2	effect	myocarditis,COVID-19
+R26	T5	T1	effect	myocarditis,COVID-19
+R27	T5	T14	effect	myocarditis,Coronavirus disease 2019

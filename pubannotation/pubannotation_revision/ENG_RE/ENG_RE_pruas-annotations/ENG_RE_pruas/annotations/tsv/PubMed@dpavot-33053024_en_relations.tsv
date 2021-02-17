@@ -1,0 +1,62 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T46	28-75	DOID_0080600	denotes	severe acute respiratory syndrome coronavirus 2
+T39	28-75	HP_0033141	denotes	severe acute respiratory syndrome coronavirus 2
+T0	28-34	HP_0012828	denotes	severe
+T2	35-40	HP_0011009	denotes	acute
+T47	77-87	DOID_0080600	denotes	SARS-CoV-2
+T40	77-87	HP_0033141	denotes	SARS-CoV-2
+T41	170-190	HP_0033141	denotes	SARS-CoV-2 infection
+T4	170-190	DOID_0080600	denotes	SARS-CoV-2 infection
+T48	192-216	DOID_0080600	denotes	coronavirus disease 2019
+T42	192-216	HP_0033141	denotes	coronavirus disease 2019
+T43	219-227	HP_0033141	denotes	COVID-19
+T6	219-227	DOID_0080600	denotes	COVID-19
+T7	232-247	DOID_10533	denotes	viral pneumonia
+T8	238-247	HP_0002090	denotes	pneumonia
+T11	348-383	DOID_11394	denotes	acute respiratory distress syndrome
+T10	348-353	HP_0011009	denotes	acute
+T12	354-374	HP_0002098	denotes	respiratory distress
+T14	423-427	CHEBI_50906	denotes	role
+T15	431-446	CHEBI_50858	denotes	corticosteroids
+T17	463-498	DOID_11394	denotes	acute respiratory distress syndrome
+T16	463-468	HP_0011009	denotes	acute
+T18	469-489	HP_0002098	denotes	respiratory distress
+T20	596-609	CHEBI_41879	denotes	dexamethasone
+T21	746-754	HP_0012826	denotes	moderate
+T22	758-764	HP_0012828	denotes	severe
+T24	765-800	DOID_11394	denotes	acute respiratory distress syndrome
+T23	765-770	HP_0011009	denotes	acute
+T25	771-791	HP_0002098	denotes	respiratory distress
+T44	830-838	HP_0033141	denotes	COVID-19
+T27	830-838	DOID_0080600	denotes	COVID-19
+T28	1021-1029	HP_0012826	denotes	moderate
+T29	1033-1039	HP_0012828	denotes	severe
+T31	1040-1075	DOID_11394	denotes	acute respiratory distress syndrome
+T30	1040-1045	HP_0011009	denotes	acute
+T32	1046-1066	HP_0002098	denotes	respiratory distress
+T45	1116-1124	HP_0033141	denotes	COVID-19
+T34	1116-1124	DOID_0080600	denotes	COVID-19
+T35	1205-1218	CHEBI_41879	denotes	dexamethasone
+T36	1270-1283	CHEBI_41879	denotes	dexamethasone
+T37	1349-1362	CHEBI_41879	denotes	dexamethasone
+T38	1415-1428	CHEBI_41879	denotes	dexamethasone
+R13	T6	T15	effect	COVID-19,corticosteroids
+R14	T6	T20	effect	COVID-19,dexamethasone
+R29	T24	T15	effect	acute respiratory distress syndrome,corticosteroids
+R30	T24	T20	effect	acute respiratory distress syndrome,dexamethasone
+R31	T24	T35	effect	acute respiratory distress syndrome,dexamethasone
+R33	T27	T15	effect	COVID-19,corticosteroids
+R34	T27	T20	effect	COVID-19,dexamethasone
+R35	T27	T35	effect	COVID-19,dexamethasone
+R43	T2	T46	effect	acute,severe acute respiratory syndrome coronavirus 2
+R44	T0	T39	effect	severe,severe acute respiratory syndrome coronavirus 2
+R45	T0	T46	effect	severe,severe acute respiratory syndrome coronavirus 2
+R46	T2	T46	effect	acute,severe acute respiratory syndrome coronavirus 2
+R47	T10	T12	effect	acute,respiratory distress
+R48	T15	T12	effect	corticosteroids,respiratory distress
+R49	T15	T11	effect	corticosteroids,acute respiratory distress syndrome
+R50	T15	T7	effect	corticosteroids,viral pneumonia
+R51	T15	T8	effect	corticosteroids,pneumonia
+R52	T25	T35	effect	respiratory distress,dexamethasone
+R53	T44	T35	effect	COVID-19,dexamethasone
+R54	T43	T15	effect	COVID-19,corticosteroids

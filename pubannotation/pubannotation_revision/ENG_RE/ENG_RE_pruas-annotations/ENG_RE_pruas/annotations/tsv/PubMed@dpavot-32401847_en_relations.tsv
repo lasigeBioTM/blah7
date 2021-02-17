@@ -1,0 +1,13 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T5	31-61	DOID_0080600	denotes	novel coronavirus disease 2019
+T6	63-71	DOID_0080600	denotes	COVID-19
+T2	141-148	DOID_4	denotes	disease
+T8	169-197	HP_0001626	denotes	cardiovascular complications
+T3	225-233	DOID_0080600	denotes	COVID-19
+T9	333-345	HP_0012649	denotes	inflammatory
+T10	350-360	HP_0001977	denotes	thrombotic
+T11	378-387	DOID_0080600	denotes	infection
+T4	422-430	DOID_0080600	denotes	COVID-19
+R1	T8	T3	effect	cardiovascular complications,COVID-19
+R2	T9	T11	effect	inflammatory,infection
+R3	T10	T11	effect	thrombotic,infection

@@ -1,0 +1,9 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	70-78	DOID_0080600	denotes	Covid-19
+T3	517-524	CHEBI_30879	denotes	alcohol
+T2	517-524	CHEBI_16236	denotes	alcohol
+T4	635-640	CHEBI_15377	denotes	water
+T5	711-719	DOID_0080600	denotes	Covid-19
+R1	T0	T4	effect	Covid-19,water
+R3	T5	T4	effect	Covid-19,water
+R4	T0	T2	effect	Covid-19,alcohol

@@ -1,0 +1,38 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T0	21-29	HP_0040282	denotes	frequent
+T19	65-112	HP_0033141	denotes	severe acute respiratory syndrome coronavirus 2
+T17	65-112	DOID_0080600	denotes	severe acute respiratory syndrome coronavirus 2
+T20	114-124	HP_0033141	denotes	SARS-CoV-2
+T18	114-124	DOID_0080600	denotes	SARS-CoV-2
+T5	390-397	DOID_4	denotes	disease
+T15	408-413	HP_0001945	denotes	fever
+T6	415-423	HP_0012735	denotes	coughing
+T7	428-435	HP_0002094	denotes	dyspnea
+T8	450-458	HP_0040282	denotes	frequent
+T16	541-566	HP_0012719	denotes	gastrointestinal symptoms
+T9	579-584	GO_0050909	denotes	taste
+T14	588-593	GO_0007608	denotes	smell
+T10	619-623	HP_0012825	denotes	mild
+T11	631-638	HP_0002094	denotes	dyspnea
+T12	643-651	HP_0040282	denotes	frequent
+T13	658-664	HP_0012828	denotes	severe
+R1	T16	T10	effect	gastrointestinal symptoms,mild
+R2	T9	T10	effect	taste,mild
+R3	T14	T10	effect	smell,mild
+R4	T10	T14	effect	mild,smell
+R5	T10	T9	effect	mild,taste
+R6	T10	T16	effect	mild,gastrointestinal symptoms
+R7	T13	T11	effect	severe,dyspnea
+R8	T11	T13	effect	dyspnea,severe
+R9	T20	T15	effect	SARS-CoV-2,fever
+R10	T20	T6	effect	SARS-CoV-2,coughing
+R11	T20	T7	effect	SARS-CoV-2,dyspnea
+R12	T18	T15	effect	SARS-CoV-2,fever
+R13	T18	T6	effect	SARS-CoV-2,coughing
+R14	T18	T7	effect	SARS-CoV-2,dyspnea
+R15	T19	T15	effect	severe acute respiratory syndrome coronavirus 2,fever
+R16	T19	T6	effect	severe acute respiratory syndrome coronavirus 2,coughing
+R17	T19	T7	effect	severe acute respiratory syndrome coronavirus 2,dyspnea
+R18	T17	T15	effect	severe acute respiratory syndrome coronavirus 2,fever
+R19	T17	T6	effect	severe acute respiratory syndrome coronavirus 2,coughing
+R20	T17	T7	effect	severe acute respiratory syndrome coronavirus 2,dyspnea
